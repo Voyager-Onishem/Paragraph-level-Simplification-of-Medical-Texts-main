@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001479.pub3",
+  "name": "Vitamin A for treating measles in children",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Measles is a major cause of childhood morbidity and mortality. Vitamin A deficiency is a recognized risk factor for severe measles infections. The World Health Organization (WHO) recommends a daily oral dose of vitamin A for two days to children with measles living in areas where vitamin A deficiency may be present."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether vitamin A, commenced after measles has been diagnosed, prevents mortality, pneumonia or other complications in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 1), which contains the Cochrane Acute Respiratory Infections Group's Specialized Register, MEDLINE (1966 to February week 3, 2011) and EMBASE (1980 to February 2011)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) in children with measles given vitamin A or placebo, along with standard treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the results. We analyzed dichotomous outcomes and expressed results as risk ratios (RRs) with 95% confidence intervals (CIs). We carried out subgroup analyses for dose, formulation, age, hospitalization and pneumonia-specific mortality. We calculated mean differences (MDs) with 95% CIs for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight trials met the inclusion criteria (2574 participants). There was no significant reduction in the risk of mortality in the vitamin A group when all the studies were pooled (RR 0.70; 95% CI 0.42 to 1.15). The evidence suggests that vitamin A in a single dose was not associated with a reduced risk of mortality. However, two doses of vitamin A (200,000 international units (IUs) on consecutive days) reduced the mortality in children aged less than two years (RR 0.21; 95% CI 0.07 to 0.66) and pneumonia-specific mortality (RR 0.57; 95% CI 0.24 to 1.37). Two doses of vitamin A reduced the incidence of croup (RR 0.53; 95% CI 0.29 to 0.89) but not pneumonia morbidity (RR 0.92; 95% CI 0.69 to 1.22), nor diarrhea morbidity (RR 0.80; 95% CI 0.27 to 2.34). None of the studies included in this review reported any adverse effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No overall significant reduction in mortality with vitamin A therapy for children with measles was found. However two doses reduced overall and pneumonia-specific mortality in children aged less than two years. No trials directly compared a single dose with two doses."
+    }
+  ],
+  "pls_title": "Vitamin A for measles in children",
+  "pls_type": "long",
+  "pls": "Measles is caused by a virus and possible complications include pneumonia. Measles is a major cause of death in children in low-income countries and is particularly dangerous in children with vitamin A deficiency. Eight studies involving 2574 participants were included in this review and we found that there was no significant reduction in mortality in children receiving vitamin A. However, vitamin A megadoses (200,000 international units (IUs) on each day for two days) lowered the number of deaths from measles in hospitalized children under the age of two years. Two doses of vitamin A are not considered to be too expensive, and are not likely to produce adverse effects.\nThe authors conclude that vitamin A megadoses appear effective in reducing mortality from measles in children under two years old and have few associated adverse events. There is insufficient evidence to draw conclusions regarding effectiveness in preventing pneumonia or other complications in children. However, the quality of the evidence was generally moderate. Better quality randomized trials are needed to evaluate the efficacy of Vitamin A for treating measles in children."
+}

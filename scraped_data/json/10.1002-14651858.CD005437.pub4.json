@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005437.pub4",
+  "name": "Pre‐admission antibiotics for suspected cases of meningococcal disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Meningococcal disease can lead to death or disability within hours after onset. Pre-admission antibiotics aim to reduce the risk of serious disease and death by preventing delays in starting therapy before confirmation of the diagnosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To study the effectiveness and safety of pre-admission antibiotics versus no pre-admission antibiotics or placebo, and different pre-admission antibiotic regimens in decreasing mortality, clinical failure, and morbidity in people suspected of meningococcal disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (6 January 2017), MEDLINE (1966 to 6 January 2017), Embase (1980 to 6 January 2017), Web of Science (1985 to 6 January 2017), LILACS (1982 to 6 January 2017), and prospective trial registries to January 2017. We previously searched CAB Abstracts from 1985 to June 2015, but did not update this search in January 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-RCTs comparing antibiotics versus placebo or no intervention, in people with suspected meningococcal infection, or different antibiotics administered before admission to hospital or confirmation of the diagnosis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data from the search results. We calculated the risk ratio (RR) and 95% confidence interval (CI) for dichotomous data. We included only one trial and so did not perform data synthesis. We assessed the overall quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found no RCTs comparing pre-admission antibiotics versus no pre-admission antibiotics or placebo. We included one open-label, non-inferiority RCT with 510 participants, conducted during an epidemic in Niger, evaluating a single dose of intramuscular ceftriaxone versus a single dose of intramuscular long-acting (oily) chloramphenicol. Ceftriaxone was not inferior to chloramphenicol in reducing mortality (RR 1.21, 95% CI 0.57 to 2.56; N = 503; 308 confirmed meningococcal meningitis; 26 deaths; moderate-quality evidence), clinical failures (RR 0.83, 95% CI 0.32 to 2.15; N = 477; 18 clinical failures; moderate-quality evidence), or neurological sequelae (RR 1.29, 95% CI 0.63 to 2.62; N = 477; 29 with sequelae; low-quality evidence). No adverse effects of treatment were reported. Estimated treatment costs were similar. No data were available on disease burden due to sequelae."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no reliable evidence to support the use pre-admission antibiotics for suspected cases of non-severe meningococcal disease. Moderate-quality evidence from one RCT indicated that single intramuscular injections of ceftriaxone and long-acting chloramphenicol were equally effective, safe, and economical in reducing serious outcomes. The choice between these antibiotics should be based on affordability, availability, and patterns of antibiotic resistance.\nFurther RCTs comparing different pre-admission antibiotics, accompanied by intensive supportive measures, are ethically justified in people with less severe illness, and are needed to provide reliable evidence in different clinical settings."
+    }
+  ],
+  "pls_title": "Antibiotics to treat suspected cases meningitis due to infection with meningococcus before confirmation of diagnosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to know if people suspected to have inflammation of the membranes covering the brain and spinal cord (meningitis) due to infection with the meningococcal bacteria should be given antibiotics before the diagnosis is confirmed in order to prevent death or disability. We found one relevant study."
+    },
+    {
+      "heading": "Background",
+      "text": "Meningococcal disease is a rapidly progressing, contagious bacterial infection that can cause epidemics of severe disease of the brain and blood. If not treated early many will die or have permanent disabilities. Antibiotics are very effective if given early. Waiting for confirmation of the diagnosis with laboratory tests can result in delays in starting antibiotics. Giving antibiotics early based on a clinical suspicion (empiric treatment) could prevent delays in treatment and consequent death and disability. However, doing so could also result in unnecessary treatment."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for studies comparing giving versus not giving empiric antibiotics or comparing different antibiotics in those with suspected meningococcal disease. We found one randomised trial comparing single intramuscular doses of two different long-acting antibiotics. The evidence is current to January 2017.\nThe included study was conducted in nine primary care facilities in Niger during an outbreak of meningococcal disease in 2003. Of 510 adults and children studied, 251 received ceftriaxone and 259 received chloramphenicol. The study was funded by Médecins Sans Frontières."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no difference in the number of people who died, did not respond to treatment, or with neurological disabilities with either antibiotic empirically. The results were similar in whom the diagnosis was subsequently confirmed. Neither antibiotic had significant adverse effects."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Although the study was well conducted, the overall quality of the evidence was only moderate for death and treatment failures because the study excluded children less than two months old, pregnant women, and the severely ill. The quality of evidence was lower for neurological disabilities because of the shortness of follow-up.\nSince meningococcal disease has serious consequences, not giving antibiotics empirically would be unethical. However, future research comparing different antibiotics in people of all ages and illness severity is required to provide reliable evidence in different clinical settings."
+    }
+  ]
+}

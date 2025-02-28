@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD003540.pub3",
+  "name": "Interventions to increase or decrease the length of primary care physicians' consultation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Observational studies have shown differences in process and outcome between the consultations of primary care physicians whose average consultation lengths differ. These differences may be due to self selection. This is the first update of the original review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions to alter the length of primary care physicians' consultations."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases until 4 January 2016: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, ClinicalTrials.gov, and World Health Organization International Clinical Trials Registry Platform (WHO ICTRP)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials and non-randomised controlled trials of interventions to alter the length of primary care physicians' consultations."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed the risk of bias of included studies using agreed criteria and resolved disagreements by discussion. We attempted to contact authors of primary studies with missing data. Given the heterogeneity of studies, we did not conduct a meta-analysis. We assessed the certainty of the evidence for the most important outcomes using the GRADE approach and have presented the results in a narrative summary."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies met the inclusion criteria. All were conducted in the UK, and tested short-term changes in the consultation time allocated to each patient. Overall, our confidence in the results was very low; most studies had a high risk of bias, particularly due to non-random allocation of participants and the absence of data on participants' characteristics and small sample sizes. We are uncertain whether altering appointment length increases primary care consultation length, number of referrals and investigations, prescriptions, or patient satisfaction based on very low-certainty evidence. None of the studies reported on the effects of altering the length of consultation on resources used."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We did not find sufficient evidence to support or refute a policy of altering the lengths of primary care physicians' consultations. It is possible that these findings may change if high-quality trials are reported in the future. Further trials are needed that focus on health outcomes and cost-effectiveness."
+    }
+  ],
+  "pls_title": "Effects of interventions aimed at changing the length of time of consultations between family doctors and patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does increasing or decreasing the length of time that primary care physicians allocate to each patient consultation benefit patients, doctors, and the healthcare system?"
+    },
+    {
+      "heading": "Background",
+      "text": "Doctors not having enough time with patients during consultations has been a matter of concern. It has been suggested that if doctors and patients had more time to talk, then patients might be more satisfied with care and their problems better dealt with, or doctors might prescribe less and talk more about how to make lifestyle changes."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified five studies conducted in the UK that tested whether methods to change consultation length for family doctors provides any benefit. The studies were conducted in single or multiple practices, and the number of appointments ranged from 200 to 2957 consultations. Four studies compared a change in appointment times from 5 to 15 minutes, and one study compared short versus long consultations with or without treatment for patients with no diagnosis."
+    },
+    {
+      "heading": "Key results",
+      "text": "All studies tested short-term changes in the consultation time allocated to each patient. Our confidence in the results of these studies is very low. Consequently, we are not certain whether changing appointment slots leads to an actual increase of the length of the consultation, number of referrals and investigations requested by the doctor, and number of medications prescribed. Likewise, it is unclear whether patients are more satisfied with the health care they receive when appointments are longer. None of the studies reported on the resources associated with lengthening appointments."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently not enough evidence to say whether altering the amount of time that doctors consult with patients provides benefits or not."
+    }
+  ]
+}

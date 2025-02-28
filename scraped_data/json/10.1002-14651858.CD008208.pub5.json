@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008208.pub5",
+  "name": "Non‐invasive brain stimulation techniques for chronic pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane Review published in 2010, Issue 9, and last updated in 2014, Issue 4. Non-invasive brain stimulation techniques aim to induce an electrical stimulation of the brain in an attempt to reduce chronic pain by directly altering brain activity. They include repetitive transcranial magnetic stimulation (rTMS), cranial electrotherapy stimulation (CES), transcranial direct current stimulation (tDCS), transcranial random noise stimulation (tRNS) and reduced impedance non-invasive cortical electrostimulation (RINCE)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy of non-invasive cortical stimulation techniques in the treatment of chronic pain."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update we searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, LILACS and clinical trials registers from July 2013 to October 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised studies of rTMS, CES, tDCS, RINCE and tRNS if they employed a sham stimulation control group, recruited patients over the age of 18 years with pain of three months' duration or more, and measured pain as an outcome. Outcomes of interest were pain intensity measured using visual analogue scales or numerical rating scales, disability, quality of life and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted and verified data. Where possible we entered data into meta-analyses, excluding studies judged as high risk of bias. We used the GRADE system to assess the quality of evidence for core comparisons, and created three 'Summary of findings' tables."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included an additional 38 trials (involving 1225 randomised participants) in this update, making a total of 94 trials in the review (involving 2983 randomised participants). This update included a total of 42 rTMS studies, 11 CES, 36 tDCS, two RINCE and two tRNS. One study evaluated both rTMS and tDCS. We judged only four studies as low risk of bias across all key criteria. Using the GRADE criteria we judged the quality of evidence for each outcome, and for all comparisons as low or very low; in large part this was due to issues of blinding and of precision.\nrTMS\nMeta-analysis of rTMS studies versus sham for pain intensity at short-term follow-up (0 to < 1 week postintervention), (27 studies, involving 655 participants), demonstrated a small effect with heterogeneity (standardised mean difference (SMD) -0.22, 95% confidence interval (CI) -0.29 to -0.16, low-quality evidence). This equates to a 7% (95% CI 5% to 9%) reduction in pain, or a 0.40 (95% CI 0.53 to 0.32) point reduction on a 0 to 10 pain intensity scale, which does not meet the minimum clinically important difference threshold of 15% or greater. Pre-specified subgroup analyses did not find a difference between low-frequency stimulation (low-quality evidence) and rTMS applied to the prefrontal cortex compared to sham for reducing pain intensity at short-term follow-up (very low-quality evidence). High-frequency stimulation of the motor cortex in single-dose studies was associated with a small short-term reduction in pain intensity at short-term follow-up (low-quality evidence, pooled n = 249, SMD -0.38 95% CI -0.49 to -0.27). This equates to a 12% (95% CI 9% to 16%) reduction in pain, or a 0.77 (95% CI 0.55 to 0.99) point change on a 0 to 10 pain intensity scale, which does not achieve the minimum clinically important difference threshold of 15% or greater. The results from multiple-dose studies were heterogeneous and there was no evidence of an effect in this subgroup (very low-quality evidence). We did not find evidence that rTMS improved disability. Meta-analysis of studies of rTMS versus sham for quality of life (measured using the Fibromyalgia Impact Questionnaire (FIQ) at short-term follow-up demonstrated a positive effect (MD -10.80 95% CI -15.04 to -6.55, low-quality evidence).\nCES\nFor CES (five studies, 270 participants) we found no evidence of a difference between active stimulation and sham (SMD -0.24, 95% CI -0.48 to 0.01, low-quality evidence) for pain intensity. We found no evidence relating to the effectiveness of CES on disability. One study (36 participants) of CES versus sham for quality of life (measured using the FIQ) at short-term follow-up demonstrated a positive effect (MD -25.05 95% CI -37.82 to -12.28, very low-quality evidence).\ntDCS\nAnalysis of tDCS studies (27 studies, 747 participants) showed heterogeneity and a difference between active and sham stimulation (SMD -0.43 95% CI -0.63 to -0.22, very low-quality evidence) for pain intensity. This equates to a reduction of 0.82 (95% CI 0.42 to 1.2) points, or a percentage change of 17% (95% CI 9% to 25%) of the control group outcome. This point estimate meets our threshold for a minimum clinically important difference, though the lower confidence interval is substantially below that threshold. We found evidence of small study bias in the tDCS analyses. We did not find evidence that tDCS improved disability. Meta-analysis of studies of tDCS versus sham for quality of life (measured using different scales across studies) at short-term follow-up demonstrated a positive effect (SMD 0.66 95% CI 0.21 to 1.11, low-quality evidence).\nAdverse events\nAll forms of non-invasive brain stimulation and sham stimulation appear to be frequently associated with minor or transient side effects and there were two reported incidences of seizure, both related to the active rTMS intervention in the included studies. However many studies did not adequately report adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is very low-quality evidence that single doses of high-frequency rTMS of the motor cortex and tDCS may have short-term effects on chronic pain and quality of life but multiple sources of bias exist that may have influenced the observed effects. We did not find evidence that low-frequency rTMS, rTMS applied to the dorsolateral prefrontal cortex and CES are effective for reducing pain intensity in chronic pain. The broad conclusions of this review have not changed substantially for this update. There remains a need for substantially larger, rigorously designed studies, particularly of longer courses of stimulation. Future evidence may substantially impact upon the presented results."
+    }
+  ],
+  "pls_title": "Stimulating the brain without surgery in the management of chronic pain in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Bottom line",
+      "text": "There is a lack of high-quality evidence to support or refute the effectiveness of non-invasive brain stimulation techniques for chronic pain."
+    },
+    {
+      "heading": "Background",
+      "text": "Electrical stimulation of the brain has been used to address a variety of painful conditions. Various devices are available that can electrically stimulate the brain without the need for surgery or any invasive treatment. There are five main treatment types: repetitive transcranial magnetic stimulation (rTMS) in which the brain is stimulated by a coil applied to the scalp, cranial electrotherapy stimulation (CES) in which electrodes are clipped to the ears or applied to the scalp, transcranial direct current stimulation (tDCS), reduced impedance non-invasive cortical electrostimulation (RINCE) and transcranial random noise stimulation (tRNS) in which electrodes are applied to the scalp. These have been used to try to reduce pain by aiming to alter the activity of the brain. How effective they are is uncertain."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review update included 94 randomised controlled studies: 42 of rTMS, 11 of CES, 36 of tDCS two of RINCE, two of tRNS and one study which evaluated both tDCS and rTMS."
+    },
+    {
+      "heading": "Key findings",
+      "text": "rTMS applied to the motor cortex may lead to small, short-term reductions in pain but these effects are not likely to be clinically important. tDCS may reduce pain when compared with sham but for rTMS and tDCS our estimates of benefit are likely to be exaggerated by the small number of participants in each of the studies and limitations in the way the studies were conducted. Low- or very low-quality evidence suggests that low-frequency rTMS and rTMS that is applied to prefrontal areas of the brain are not effective. Low-quality evidence does not suggest that CES is an effective treatment for chronic pain. For all forms of stimulation the evidence is not conclusive and there is substantial uncertainty about the possible benefits and harms of the treatment. Of the studies that clearly reported side effects, short-lived and minor side effects such as headache, nausea and skin irritation were usually reported both with real and sham stimulation. Two cases of seizure were reported following real rTMS. Our conclusions for rTMS, CES, tDCS, and RINCE have not changed substantially in this update."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the evidence from studies using four levels: very low, low, moderate, or high. Very low-quality evidence means that we are very uncertain about the results. High-quality evidence means that we are very confident in the results. We considered all of the evidence to be of low or very low quality, mainly because of bias in the studies that can lead to unreliable results and the small size of the studies, which makes them imprecise."
+    }
+  ]
+}

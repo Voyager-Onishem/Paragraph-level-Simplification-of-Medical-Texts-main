@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD015112.pub3",
+  "name": "Workplace interventions to reduce the risk of SARS‐CoV‐2 infection outside of healthcare settings ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Although many people infected with SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) experience no or mild symptoms, some individuals can develop severe illness and may die, particularly older people and those with underlying medical problems. Providing evidence-based interventions to prevent SARS-CoV-2 infection has become more urgent with the potential psychological toll imposed by the coronavirus disease 2019 (COVID-19) pandemic.\nControlling exposures to occupational hazards is the fundamental method of protecting workers. When it comes to the transmission of viruses, workplaces should first consider control measures that can potentially have the most significant impact. According to the hierarchy of controls, one should first consider elimination (and substitution), then engineering controls, administrative controls, and lastly, personal protective equipment.\nThis is the first update of a Cochrane review published 6 May 2022, with one new study added."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of interventions in non-healthcare-related workplaces aimed at reducing the risk of SARS-CoV-2 infection compared to other interventions or no intervention."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Web of Science Core Collections, Cochrane COVID-19 Study Register, World Health Organization (WHO) COVID-19 Global literature on coronavirus disease, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform, and medRxiv to 13 April 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and non-randomised studies of interventions. We included adult workers, both those who come into close contact with clients or customers (e.g. public-facing employees, such as cashiers or taxi drivers), and those who do not, but who could be infected by coworkers. We excluded studies involving healthcare workers. We included any intervention to prevent or reduce workers' exposure to SARS-CoV-2 in the workplace, defining categories of intervention according to the hierarchy of hazard controls (i.e. elimination; engineering controls; administrative controls; personal protective equipment)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were incidence rate of SARS-CoV-2 infection (or other respiratory viruses), SARS-CoV-2-related mortality, adverse events, and absenteeism from work. Our secondary outcomes were all-cause mortality, quality of life, hospitalisation, and uptake, acceptability, or adherence to strategies. We used the Cochrane RoB 2 tool to assess risk of bias, and GRADE methods to evaluate the certainty of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 2 studies including a total of 16,014 participants.\nElimination-of-exposure interventions\nWe included one study examining an intervention that focused on elimination of hazards, which was an open-label, cluster-randomised, non-inferiority trial, conducted in England in 2021. The study compared standard 10-day self-isolation after contact with an infected person to a new strategy of daily rapid antigen testing and staying at work if the test is negative (test-based attendance). The trialists hypothesised that this would lead to a similar rate of infections, but lower COVID-related absence. Staff (N = 11,798) working at 76 schools were assigned to standard isolation, and staff (N = 12,229) working at 86 schools were assigned to the test-based attendance strategy.\nThe results between test-based attendance and standard 10-day self-isolation were inconclusive for the rate of symptomatic polymerase chain reaction (PCR)-positive SARS-CoV-2 infection (rate ratio (RR) 1.28, 95% confidence interval (CI) 0.74 to 2.21; 1 study; very low-certainty evidence).\nThe results between test-based attendance and standard 10-day self-isolation were inconclusive for the rate of any PCR-positive SARS-CoV-2 infection (RR 1.35, 95% CI 0.82 to 2.21; 1 study; very low-certainty evidence).\nCOVID-related absenteeism rates were 3704 absence days in 566,502 days-at-risk (6.5 per 1000 working days) in the control group and 2932 per 539,805 days-at-risk (5.4 per 1000 working days) in the intervention group (RR 0.83, 95% CI 0.55 to 1.25). We downgraded the certainty of the evidence to low due to imprecision.\nUptake of the intervention was 71% in the intervention group, but not reported for the control intervention.\nThe trial did not measure our other outcomes of SARS-CoV-2-related mortality, adverse events, all-cause mortality, quality of life, or hospitalisation.\nWe found seven ongoing studies using elimination-of-hazard strategies, six RCTs and one non-randomised trial.\nAdministrative control interventions\nWe found one ongoing RCT that aims to evaluate the efficacy of the Bacillus Calmette-Guérin (BCG) vaccine in preventing COVID-19 infection and reducing disease severity.\nCombinations of eligible interventions\nWe included one non-randomised study examining a combination of elimination of hazards, administrative controls, and personal protective equipment. The study was conducted in two large retail companies in Italy in 2020. The study compared a safety operating protocol, measurement of body temperature and oxygen saturation upon entry, and a SARS-CoV-2 test strategy with a minimum activity protocol. Both groups received protective equipment. All employees working at the companies during the study period were included: 1987 in the intervention company and 1798 in the control company.\nThe study did not report an outcome of interest for this systematic review.\nOther intervention categories\nWe did not find any studies in this category."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are uncertain whether a test-based attendance policy affects rates of PCR-positive SARS-CoV-2 infection (any infection; symptomatic infection) compared to standard 10-day self-isolation amongst school and college staff. A test-based attendance policy may result in little to no difference in absenteeism rates compared to standard 10-day self-isolation. The non-randomised study included in our updated search did not report any outcome of interest for this Cochrane review.\nAs a large part of the population is exposed in the case of a pandemic, an apparently small relative effect that would not be worthwhile from the individual perspective may still affect many people, and thus become an important absolute effect from the enterprise or societal perspective.\nThe included RCT did not report on any of our other primary outcomes (i.e. SARS-CoV-2-related mortality and adverse events). We identified no completed studies on any other interventions specified in this review; however, eight eligible studies are ongoing. More controlled studies are needed on testing and isolation strategies, and working from home, as these have important implications for work organisations."
+    }
+  ],
+  "pls_title": "What are the benefits and harms of workplace interventions aimed at reducing the risk of SARS-CoV-2 infection outside of healthcare settings?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• We did not find any high-quality evidence about the best way to prevent SARS-CoV-2 infection in the workplace. We found only one study that reported results, and we are very uncertain about them.\n• Larger, well-designed studies are needed to better understand the benefits and harms of different workplace interventions."
+    },
+    {
+      "heading": "Introduction to the review topic",
+      "text": "COVID-19 is a respiratory infectious disease that has spread globally. People infected with SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), the virus that causes COVID-19, can develop critical illnesses and may be at risk of dying, particularly older people and those with underlying medical conditions. Different interventions that attempt to prevent or reduce workers' exposure to SARS-CoV-2 in the workplace have been implemented during the pandemic."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We looked at the effects of these interventions on COVID-19 infection rate, absenteeism, COVID-19-related death, and adverse events."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at interventions based on the following four categories:\n• elimination of exposure (e.g. self-isolation strategies);\n• engineering controls (e.g. barriers to separate or distance coworkers, and workers from members of the public);\n• administrative controls (e.g. working from home);\n• personal protective equipment (e.g. use of face masks or other types of face covering).\nWe included studies of any worker outside the healthcare setting. We placed no restrictions on language or publication period in our search."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We screened more than 13,000 reports in the initial phase and more than 10,000 in this updated review, and included two studies with a total of 16,014 participants. One study was conducted in England, UK from 18 March 2021 to 27 June 2021, and the other in Sicily and Calabria, Italy, from 1 April 2020 to 31 December 2020. The UK-based study (Young 2021) enrolled more than 24,000 workers. In the 76 schools in the control group (standard isolation), staff who were considered COVID-19 contacts through contact tracing were required to self-isolate at home for 10 days. In the 86 schools in the intervention group (test-based attendance), staff who were considered COVID-19 contacts through contact tracing were not required to isolate, instead taking a daily rapid test (lateral flow antigen test) for seven days. If the rapid test was negative, the staff member could go to work. If the rapid test was positive, the staff member would self-isolate. The researchers wanted to know if there was a difference in COVID-related absence between the two methods. The Italian study (Vitale 2022) was conducted in two large retail companies. Workers from the intervention company included sales clerks, warehouse workers, and butchers or bakers (n = 1987). A similar company served as a control group (n = 1798). Workers in the intervention group had to stay at home or leave work immediately in the presence of fever or flu-like symptoms, measure body temperature and oxygen saturation at workplace entry, and get tested after close contact with a COVID-19 case. The control group followed the standard procedures, which involved measuring body temperature at home and cleaning the workplace after a COVID-19 case was confirmed. Both groups wore protective equipment such as gloves or masks. However, the study did not report any results that were of interest to this review.\nAfter analysing the data from Young 2021, we are uncertain whether a strategy of test-based attendance changes COVID-19 infection rates (any infection; symptomatic infection) compared with routine isolation after contact with a person with COVID-19. However, COVID-19-related absence may be lower or similar in the test-based attendance group. We are uncertain about these findings, because the number of infections was very low amongst the participants. Death, adverse events, quality of life, and hospitalisation were not measured. Additionally, 71% of the test-based attendance group followed the strategy; however, the researchers did not report on compliance for the standard isolation group.\nWe identified a total of eight ongoing studies. Seven of these studies plan to address the effects of interventions aimed at eliminating the risk of getting infected, and one study aims to evaluate the effectiveness of a recombinant Bacillus Calmette-Guérin (rBCG) vaccine in preventing COVID-19 infection and reducing disease severity."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have very little or little confidence in the evidence because of missing data and not enough studies to be certain about the results of our outcomes."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This Cochrane review is an update of the original review published in May 2022. For the current version of the review we searched for studies up to 13 April 2023."
+    }
+  ]
+}

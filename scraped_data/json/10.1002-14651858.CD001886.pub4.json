@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001886.pub4",
+  "name": "Anti‐fibrinolytic use for minimising perioperative allogeneic blood transfusion",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Concerns regarding the safety of transfused blood have led to the development of a range of interventions to minimise blood loss during major surgery. Anti-fibrinolytic drugs are widely used, particularly in cardiac surgery, and previous reviews have found them to be effective in reducing blood loss, the need for transfusion, and the need for re-operation due to continued or recurrent bleeding. In the last few years questions have been raised regarding the comparative performance of the drugs. The safety of the most popular agent, aprotinin, has been challenged, and it was withdrawn from world markets in May 2008 because of concerns that it increased the risk of cardiovascular complications and death."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the comparative effects of the anti-fibrinolytic drugs aprotinin, tranexamic acid (TXA), and epsilon aminocaproic acid (EACA) on blood loss during surgery, the need for red blood cell (RBC) transfusion, and adverse events, particularly vascular occlusion, renal dysfunction, and death."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched: the Cochrane Injuries Group's Specialised Register (July 2010), Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 3), MEDLINE (Ovid SP) 1950 to July 2010, EMBASE (Ovid SP) 1980 to July 2010. References in identified trials and review articles were checked and trial authors were contacted to identify any additional studies. The searches were last updated in July 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of anti-fibrinolytic drugs in adults scheduled for non-urgent surgery. Eligible trials compared anti-fibrinolytic drugs with placebo (or no treatment), or with each other."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed trial quality and extracted data. This version of the review includes a sensitivity analysis excluding trials authored by Prof. Joachim Boldt."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review summarises data from 252 RCTs that recruited over 25,000 participants. Data from the head-to-head trials suggest an advantage of aprotinin over the lysine analogues TXA and EACA in terms of reducing perioperative blood loss, but the differences were small. Compared to control, aprotinin reduced the probability of requiring RBC transfusion by a relative 34% (relative risk [RR] 0.66, 95% confidence interval [CI] 0.60 to 0.72). The RR for RBC transfusion with TXA was 0.61 (95% CI 0.53 to 0.70) and was 0.81 (95% CI 0.67 to 0.99) with EACA. When the pooled estimates from the head-to-head trials of the two lysine analogues were combined and compared to aprotinin alone, aprotinin appeared more effective in reducing the need for RBC transfusion (RR 0.90; 95% CI 0.81 to 0.99).\nAprotinin reduced the need for re-operation due to bleeding by a relative 54% (RR 0.46, 95% CI 0.34 to 0.62). This translates into an absolute risk reduction of 2% and a number needed-to-treat (NNT) of 50 (95% CI 33 to 100). A similar trend was seen with EACA (RR 0.32, 95% CI 0.11 to 0.99) but not TXA (RR 0.80, 95% CI 0.55 to 1.17). The blood transfusion data were heterogeneous and funnel plots indicate that trials of aprotinin and the lysine analogues may be subject to publication bias.\nWhen compared with no treatment aprotinin did not increase the risk of myocardial infarction (RR 0.87, 95% CI 0.69 to 1.11), stroke (RR 0.82, 95% CI 0.44 to 1.52), renal dysfunction (RR 1.10, 95% CI 0.79 to 1.54) or overall mortality (RR 0.81, 95% CI 0.63 to 1.06). Similar trends were seen with the lysine analogues, but data were sparse. These data conflict with the results of recently published non-randomised studies, which found increased risk of cardiovascular complications and death with aprotinin. There are concerns about the adequacy of reporting of uncommon events in the small clinical trials included in this review.\nWhen aprotinin was compared directly with either, or both, of the two lysine analogues it resulted in a significant increase in the risk of death (RR 1.39, 95% CI 1.02, 1.89), and a non-significant increase in the risk of myocardial infarction (RR 1.11 95% CI 0.82, 1.50). Most of the data contributing to this added risk came from a single study – the BART trial (2008)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Anti-fibrinolytic drugs provide worthwhile reductions in blood loss and the receipt of allogeneic red cell transfusion. Aprotinin appears to be slightly more effective than the lysine analogues in reducing blood loss and the receipt of blood transfusion. However, head to head comparisons show a lower risk of death with lysine analogues when compared with aprotinin. The lysine analogues are effective in reducing blood loss during and after surgery, and appear to be free of serious adverse effects."
+    }
+  ],
+  "pls_title": "Anti-fibrinolytic drugs for reducing blood loss and the need for red blood cell transfusions during and after surgery.",
+  "pls_type": "long",
+  "pls": "Aprotinin, although effective in reducing bleeding, had a higher rate of death than tranexamic acid and aminocaproic acid, which appeared free of serious side-effects. Aprotinin has been withdrawn from world markets because of safety concerns. This review of over 250 clinical trials found that anti-fibrinolytic drugs used at the time of major surgery reduce bleeding, the need for transfusions of red blood cells and the need for repeat surgery because of bleeding. With the exception of aprotinin the drugs appear safe."
+}

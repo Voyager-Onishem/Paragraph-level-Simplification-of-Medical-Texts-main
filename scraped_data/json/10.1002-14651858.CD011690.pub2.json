@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD011690.pub2",
+  "name": "Short‐acting erythropoiesis‐stimulating agents for anaemia in predialysis patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The benefits of erythropoiesis-stimulating agents (ESA) for chronic kidney disease (CKD) patients have been previously demonstrated. However, the efficacy and safety of short-acting epoetins administered at larger doses and reduced frequency as well as of new epoetins and biosimilars remains uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to evaluate the benefits and harms of different routes, frequencies and doses of epoetins (epoetin alpha, epoetin beta and other short-acting epoetins) for anaemia in adults and children with CKD not receiving dialysis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register to 12 September 2016 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings; and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised control trials (RCTs) comparing different frequencies, routes, doses and types of short-acting ESAs in CKD patients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed study eligibility and four authors assessed risk of bias and extracted data. Results were expressed as risk ratio (RR) or risk differences (RD) with 95% confidence intervals (CI) for dichotomous outcomes. For continuous outcomes the mean difference (MD) with 95% confidence intervals (CI) was used. Statistical analyses were performed using the random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 14 RCTs (2616 participants); nine studies were multi-centre and two studies involved children. The risk of bias was high in most studies; only three studies demonstrated adequate random sequence generation and only two studies were at low risk of bias for allocation concealment. Blinding of participants and personnel was at low risk of bias in one study. Blinding of outcome assessment was judged at low risk in 13 studies as the outcome measures were reported as laboratory results and therefore unlikely to be influenced by blinding. Attrition bias was at low risk of bias in eight studies while selective reporting was at low risk in six included studies.\nFour interventions were compared: epoetin alpha or beta at different frequencies using the same total dose (six studies); epoetin alpha at the same frequency and different total doses (two studies); epoetin alpha administered intravenously versus subcutaneous administration (one study); epoetin alpha or beta versus other epoetins or biosimilars (five studies). One study compared both different frequencies of epoetin alpha at the same total dose and at the same frequency using different total doses.\nData from only 7/14 studies could be included in our meta-analyses. There were no significant differences in final haemoglobin (Hb) levels when dosing every two weeks was compared with weekly dosing (4 studies, 785 participants: MD -0.20 g/dL, 95% CI -0.33 to -0.07), when four weekly dosing was compared with two weekly dosing (three studies, 671 participants: MD -0.16 g/dL, 95% CI -0.43 to 0.10) or when different total doses were administered at the same frequency (four weekly administration: one study, 144 participants: MD 0.17 g/dL 95% CI -0.19 to 0.53).\nFive studies evaluated different interventions. One study compared epoetin theta with epoetin alpha and found no significant differences in Hb levels (288 participants: MD -0.02 g/dL, 95% CI -0.25 to 0.21). One study found significantly higher pain scores with subcutaneous epoetin alpha compared with epoetin beta. Two studies (165 participants) compared epoetin delta with epoetin alpha, with no results available since the pharmaceutical company withdrew epoetin delta for commercial reasons. The fifth study comparing the biosimilar HX575 with epoetin alpha was stopped after patients receiving HX575 subcutaneously developed anti-epoetin antibodies and no results were available.\nAdverse events were poorly reported in all studies and did not differ significantly within comparisons. Mortality was only detailed adequately in four studies and only one study included quality of life data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Epoetin alpha given at higher doses for extended intervals (two or four weekly) is non-inferior to more frequent dosing intervals in maintaining final Hb levels with no significant differences in adverse effects in non-dialysed CKD patients. However the data are of low methodological quality so that differences in efficacy and safety cannot be excluded. Further large, well designed, RCTs with patient-centred outcomes are required to assess the safety and efficacy of large doses of the shorter acting ESAs, including biosimilars of epoetin alpha, administered less frequently compared with more frequent administration of smaller doses in children and adults with CKD not on dialysis."
+    }
+  ],
+  "pls_title": "Short-acting erythropoiesis agents in chronic kidney disease patients not requiring dialysis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Anaemia due to reduced production by the kidneys of erythropoietin (a hormone which increases red cell production) is a major cause of tiredness and other problems experienced by people with chronic kidney disease requiring or not requiring dialysis.\nManufactured erythropoietins (epoetins) improve anaemia and are often prescribed for people with chronic kidney disease. Several different manufactured epoetins are now available."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register to 12 September 2016 through contact with the Information Specialist using search terms relevant to this review. We included randomised control trials (RCTs) comparing different frequencies, routes, doses and types of short-acting ESAs in patients with chronic kidney disease."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We examined the evidence from 14 studies with 2616 participants with CKD not receiving dialysis published before 12 September 2016 to determine whether differences in improvement in anaemia and in side effects existed between different short-acting epoetins or between the same epoetins given at different frequencies. We did not find any studies using different frequencies of epoetins in children.\nWe found that the traditionally shorter acting epoetins given less often (two weekly to every four weeks) resulted in similar correction of anaemia compared with administration every week or every two weeks; there were no differences in side effects between the different comparisons. One study comparing subcutaneous administration of a newly manufactured HX575 epoetin alpha compared with epoetin alpha was discontinued after two patients developed anti-erythropoietin antibodies. However more studies are required as most studies were small and poorly designed, which limits their application to the care of patients."
+    }
+  ]
+}

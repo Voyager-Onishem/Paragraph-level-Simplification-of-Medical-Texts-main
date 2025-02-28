@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008334.pub2",
+  "name": "Biologic interventions for fatigue in rheumatoid arthritis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fatigue is a common and potentially distressing symptom for patients with rheumatoid arthritis (RA), with no accepted evidence-based management guidelines. Evidence suggests that biologic interventions improve symptoms and signs in RA as well as reducing joint damage."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effect of biologic interventions on fatigue in rheumatoid arthritis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases up to 1 April 2014: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Cochrane Database of Systematic Reviews, Current Controlled Trials Register, the National Research Register Archive, The UKCRN Portfolio Database, AMED, CINAHL, PsycINFO, Social Science Citation Index, Web of Science, and Dissertation Abstracts International. In addition, we checked the reference lists of articles identified for inclusion for additional studies and contacted key authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials if they evaluated a biologic intervention in people with rheumatoid arthritis and had self reported fatigue as an outcome measure."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers selected relevant trials, assessed methodological quality and extracted data. Where appropriate, we pooled data in meta-analyses using a random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 32 studies for inclusion in this current review. Twenty studies evaluated five anti-tumour necrosis factor (anti-TNF) biologic agents (adalimumab, certolizumab, etanercept, golimumab and infliximab), and 12 studies focused on five non-anti-TNF biologic agents (abatacept, canakinumab, rituximab, tocilizumab and an anti-interferon gamma monoclonal antibody). All but two of the studies were double-blind randomised placebo-controlled trials. In some trials, patients could receive concomitant disease-modifying anti-rheumatic drugs (DMARDs). These studies added either biologics or placebo to DMARDs. Investigators did not change the dose of the latter from baseline. In total, these studies included 9946 participants in the intervention groups and 4682 participants in the control groups. Overall, quality of randomised controlled trials was moderate with a low to unclear risk of bias in the reporting of the outcome of fatigue. We downgraded the quality of the studies from high to moderate because of potential reporting bias (studies included post hoc analyses favouring reporting of positive result and did not always include all randomised individuals). Some studies recruited only participants with early disease. The studies used five different instruments to assess fatigue in these studies: the Functional Assessment of Chronic Illness Therapy Fatigue Domain (FACIT-F), Short Form-36 Vitality Domain (SF-36 VT), Visual Analogue Scale (VAS) (0 to 100 or 0 to 10) and the Numerical Rating Scale (NRS). We calculated standard mean differences for pooled data in meta-analyses. Overall treatment by biologic agents led to statistically significant reduction in fatigue with a standardised mean difference of −0.43 (95% confidence interval (CI) −0.38 to −0.49). This equates to a difference of 6.45 units (95% CI 5.7 to 7.35) of FACIT-F score (range 0 to 52). Both types of biologic agents achieved a similar level of improvement: for anti-TNF agents, this stood at −0.42 (95% CI −0.35 to −0.49), equivalent to 6.3 units (95% CI 5.3 to 7.4) on the FACIT-F score; and for non-anti-TNF agents, it was −0.46 (95% CI −0.39 to −0.53), equivalent to 6.9 units (95% CI 5.85 to 7.95) on the FACIT-F score. In most studies, the double-blind period was 24 weeks or less. No study assessed long-term changes in fatigue."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Treatment with biologic interventions in patients with active RA can lead to a small to moderate improvement in fatigue. The magnitude of improvement is similar for anti-TNF and non-anti-TNF biologics. However, it is unclear whether the improvement results from a direct action of the biologics on fatigue or indirectly through reduction in inflammation, disease activity or some other mechanism."
+    }
+  ],
+  "pls_title": "Biological interventions for the management of fatigue in rheumatoid arthritis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "What is rheumatoid arthritis and what are biologics?\nWhen you have rheumatoid arthritis, your immune system, which normally fights infection, attacks the lining of your joints, causing swelling, stiffness and pain. The small joints of your hands and feet are usually affected first. There is no cure for rheumatoid arthritis at present, so treatments aim to relieve pain and stiffness and improve your ability to move. Biologics are medications that can reduce joint inflammation, improve symptoms and prevent joint damage.\nFatigue is an important symptom in people with rheumatoid arthritis. However, there is no consensus on the most effective management approaches for it. A number of studies have explored the effects of biologic response modifiers (biologics) in the management of rheumatoid arthritis and associated symptoms such as fatigue. We carried out the current review to evaluate the effects of these therapies on fatigue in adults with rheumatoid arthritis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for all research published up to 1 April 2014, finding 32 relevant studies. There were 19 studies on five anti-TNF biologics (adalimumab, certolizumab, etanercept, golimumab and infliximab) and 12 studies on five non-anti-TNF biologics (abatacept, canakinumab, rituximab, tocilizumab and an anti-interferon gamma monoclonal antibody)."
+    },
+    {
+      "heading": "Key results",
+      "text": "Altogether 9,946 participants received biologics and 4,682 participants received standard therapy. All but two of the studies were randomised placebo-controlled trials, the gold standard in terms of study quality. We compared the effects of biologics versus placebo. In some studies, participants may have been taking standard therapy for rheumatoid arthritis at the start of the trial. In these studies, investigators added either biologics or placebo treatment to standard therapy. Overall, treatment by biologics led to small to moderate reductions (9 units reduction on a 0-52 scale) in patient-reported fatigue compared with 3 units in participants treated by placebo. It is unclear whether this improvement is due to a reduction in overall disease activity, a direct effect of the biologics or some other mechanism."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There may have been some potential bias in the way investigators analysed data, and some studies did not include all randomised individuals, so we judged the quality of the evidence to be only moderate rather than high."
+    }
+  ]
+}

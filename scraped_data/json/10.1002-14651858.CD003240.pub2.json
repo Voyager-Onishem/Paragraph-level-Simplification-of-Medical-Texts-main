@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003240.pub2",
+  "name": "Day hospital versus outpatient care for people with schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This review considers the use of day hospitals as an alternative to outpatient care. Two types of day hospital are covered by the review: 'day treatment programmes' and 'transitional' day hospitals. Day treatment programmes offer more intense treatment for people who have failed to respond to outpatient care. Transitional day hospitals offer time-limited care to people who have just been discharged from inpatient care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess effects of day hospital care as an alternative to continuing outpatient care for people with schizophrenia and and other similar severe mental illness."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group Trials Register (May 2009) and references of all identified studies for further citations. If necessary, we also contacted authors of trials for further information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing day hospital care with outpatient care for those with schizophrenia and other similar severe mental illness."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted and cross-checked data independently. We analysed dichotomous data using fixed-effect relative risk (RR) and estimated the 95% confidence interval (CI). If continuous data were included, we analysed this data using the random-effects weighted mean difference (MD) with a 95% confidence interval."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified four relevant trials all dating from before 1986 (total n=309 participants); all but one of which (n=37) evaluated day treatment centres. Across time less people allocated to day hospital care tend to be admitted to hospital (beyond one year: n=242, 2 RCTs, RR 0.71 CI 0.56 to 0.89 day treatment centres) but data are heterogeneous (I2 =74% P=0.05) and should not be taken into account. Data on time spent as an inpatient seem to support this finding but are poorly reported. We found no clear difference between day hospital and outpatient care for the outcome of ‘lost to follow up’ (at six months: n=147, 3 RCTs, RR 0.97 CI 0.48 to 1.95; at 12 months: n=117, 2 RCTs, RR 0.97 CI 0.48 to 1.95 day treatment centres / transitional day hospital). Scale derived findings on social functioning are equivocal (SAS: n=37, 1 RCT, MD 0.36 CI -0.07 to 0.79 transitional day hospital) but there was some suggestion from small studies that day hospital care may decrease the risk of unemployment (at 12 months: n=80, 1 RCT, RR 0.86 CI 0.69 to 1.06 day treatment centre). Different measures of mental state showed no convincing effect (Symptom Check List: n=30, 1 RCT, MD -90 0.31 CI -0.20 to 0.82 day treatment centre). Poorly reported economic data from decades ago suggested that day hospitals were more costly to establish and run than outpatient care but took no account of other costs such as inpatient stay."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence is limited and dated. Day hospital care may help avoid inpatient care but data are lacking on missing on a raft of outcomes that are now considered important, such as quality of life, satisfaction, healthy days, and cost."
+    }
+  ],
+  "pls_title": "Day hospital versus outpatient care for people with schizophrenia",
+  "pls_type": "long",
+  "pls": "Psychiatric day hospitals offer care that is less restrictive than inpatient care but more intense than outpatient care. Day hospitals can be used to provide more intense/specialised outpatient care to people resistant to treatment (day treatment programmes) or to those needing long-term care (day care centres). They can also bridge the gap between inpatient and outpatient care (transitional day hospitals). This review compared day hospital care (in day treatment centres and transitional day hospitals) to outpatient care. Overall there was insufficient evidence to determine whether any of the three types of day hospital care had substantial advantages over outpatient care."
+}

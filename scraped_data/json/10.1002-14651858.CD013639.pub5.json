@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD013639.pub5",
+  "name": "Thoracic imaging tests for the diagnosis of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Our March 2021 edition of this review showed thoracic imaging computed tomography (CT) to be sensitive and moderately specific in diagnosing COVID-19 pneumonia. This new edition is an update of the review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our objectives were to evaluate the diagnostic accuracy of thoracic imaging in people with suspected COVID-19; assess the rate of positive imaging in people who had an initial reverse transcriptase polymerase chain reaction (RT-PCR) negative result and a positive RT-PCR result on follow-up; and evaluate the accuracy of thoracic imaging for screening COVID-19 in asymptomatic individuals. The secondary objective was to assess threshold effects of index test positivity on accuracy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the COVID-19 Living Evidence Database from the University of Bern, the Cochrane COVID-19 Study Register, The Stephen B. Thacker CDC Library, and repositories of COVID-19 publications through to 17 February 2021. We did not apply any language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy studies of all designs, except for case-control, that recruited participants of any age group suspected to have COVID-19. Studies had to assess chest CT, chest X-ray, or ultrasound of the lungs for the diagnosis of COVID-19, use a reference standard that included RT-PCR, and report estimates of test accuracy or provide data from which we could compute estimates. We excluded studies that used imaging as part of the reference standard and studies that excluded participants with normal index test results."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The review authors independently and in duplicate screened articles, extracted data and assessed risk of bias and applicability concerns using QUADAS-2. We presented sensitivity and specificity per study on paired forest plots, and summarized pooled estimates in tables. We used a bivariate meta-analysis model where appropriate."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 98 studies in this review. Of these, 94 were included for evaluating the diagnostic accuracy of thoracic imaging in the evaluation of people with suspected COVID-19. Eight studies were included for assessing the rate of positive imaging in individuals with initial RT-PCR negative results and positive RT-PCR results on follow-up, and 10 studies were included for evaluating the accuracy of thoracic imaging for imagining asymptomatic individuals.\nFor all 98 included studies, risk of bias was high or unclear in 52 (53%) studies with respect to participant selection, in 64 (65%) studies with respect to reference standard, in 46 (47%) studies with respect to index test, and in 48 (49%) studies with respect to flow and timing. Concerns about the applicability of the evidence to: participants were high or unclear in eight (8%) studies; index test were high or unclear in seven (7%) studies; and reference standard were high or unclear in seven (7%) studies.\nImaging in people with suspected COVID-19\nWe included 94 studies. Eighty-seven studies evaluated one imaging modality, and seven studies evaluated two imaging modalities. All studies used RT-PCR alone or in combination with other criteria (for example, clinical signs and symptoms, positive contacts) as the reference standard for the diagnosis of COVID-19.\nFor chest CT (69 studies, 28285 participants, 14,342 (51%) cases), sensitivities ranged from 45% to 100%, and specificities from 10% to 99%. The pooled sensitivity of chest CT was 86.9% (95% confidence interval (CI) 83.6 to 89.6), and pooled specificity was 78.3% (95% CI 73.7 to 82.3). Definition for index test positivity was a source of heterogeneity for sensitivity, but not specificity. Reference standard was not a source of heterogeneity.\nFor chest X-ray (17 studies, 8529 participants, 5303 (62%) cases), the sensitivity ranged from 44% to 94% and specificity from 24 to 93%. The pooled sensitivity of chest X-ray was 73.1% (95% CI 64.1 to 80.5), and pooled specificity was 73.3% (95% CI 61.9 to 82.2). Definition for index test positivity was not found to be a source of heterogeneity. Definition for index test positivity and reference standard were not found to be sources of heterogeneity.\nFor ultrasound of the lungs (15 studies, 2410 participants, 1158 (48%) cases), the sensitivity ranged from 73% to 94% and the specificity ranged from 21% to 98%. The pooled sensitivity of ultrasound was 88.9% (95% CI 84.9 to 92.0), and the pooled specificity was 72.2% (95% CI 58.8 to 82.5). Definition for index test positivity and reference standard were not found to be sources of heterogeneity.\nIndirect comparisons of modalities evaluated across all 94 studies indicated that chest CT and ultrasound gave higher sensitivity estimates than X-ray (P = 0.0003 and P = 0.001, respectively). Chest CT and ultrasound gave similar sensitivities (P = 0.42). All modalities had similar specificities (CT versus X-ray P = 0.36; CT versus ultrasound P = 0.32; X-ray versus ultrasound P = 0.89).\nImaging in PCR-negative people who subsequently became positive\nFor rate of positive imaging in individuals with initial RT-PCR negative results, we included 8 studies (7 CT, 1 ultrasound) with a total of 198 participants suspected of having COVID-19, all of whom had a final diagnosis of COVID-19. Most studies (7/8) evaluated CT. Of 177 participants with initially negative RT-PCR who had positive RT-PCR results on follow-up testing, 75.8% (95% CI 45.3 to 92.2) had positive CT findings.\nImaging in asymptomatic PCR-positive people\nFor imaging asymptomatic individuals, we included 10 studies (7 CT, 1 X-ray, 2 ultrasound) with a total of 3548 asymptomatic participants, of whom 364 (10%) had a final diagnosis of COVID-19. For chest CT (7 studies, 3134 participants, 315 (10%) cases), the pooled sensitivity was 55.7% (95% CI 35.4 to 74.3) and the pooled specificity was 91.1% (95% CI 82.6 to 95.7)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Chest CT and ultrasound of the lungs are sensitive and moderately specific in diagnosing COVID-19. Chest X-ray is moderately sensitive and moderately specific in diagnosing COVID-19. Thus, chest CT and ultrasound may have more utility for ruling out COVID-19 than for differentiating SARS-CoV-2 infection from other causes of respiratory illness. The uncertainty resulting from high or unclear risk of bias and the heterogeneity of included studies limit our ability to confidently draw conclusions based on our results."
+    }
+  ],
+  "pls_title": "How accurate is chest imaging for diagnosing COVID-19?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "People with suspected COVID-19 need to know quickly whether they are infected, so they can receive appropriate treatment, self-isolate, and inform close contacts.\nCurrently, a formal diagnosis of COVID-19 requires a laboratory test (RT-PCR) of nose and throat samples. RT-PCR requires specialist equipment and takes at least 24 hours to produce a result. It is not completely accurate, and may require a second RT-PCR or a different test to confirm diagnosis.\nClinicians may use chest imaging to diagnose people who have COVID-19 symptoms, while awaiting RT-PCR results or when RT-PCR results are negative, and the person has COVID-19 symptoms.\nThis is the fourth version of this review."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether chest imaging is accurate enough to diagnose COVID-19 in people with suspected infection; we included studies in people with suspected COVID-19 only and excluded studies in people with confirmed COVID-19. We also wanted to assess the accuracy of chest imaging for screening asymptomatic people.\nThe evidence is up to date to 17 February 2021."
+    },
+    {
+      "heading": "What are chest imaging tests?",
+      "text": "X-rays or scans produce an image of the organs and structures in the chest.\n- X-rays (radiography) use radiation to produce a 2-D image. Usually done in hospitals, using fixed equipment by a radiographer; they can also be done on portable machines.\n- Computed tomography (CT) scans use a computer to merge 2-D X-ray images and convert them to a 3-D image. They require highly-specialized equipment and are done in hospital by a specialist radiographer.\n- Ultrasound scans use high-frequency sound waves to produce an image. They can be done in hospitals or other healthcare settings, such as a doctor’s office."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that assessed the accuracy of chest imaging to diagnose COVID-19 in people of any age with suspected COVID-19. We included studies with ‘symptomatic' or 'mixed populations'."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 94 studies with 37,631 participants (of whom 19,768 (53%) had a final diagnosis of COVID-19) for evaluating the diagnostic accuracy of thoracic imaging in the evaluation of people with suspected COVID-19. Eighty-seven studies evaluated one imaging modality, and seven studies evaluated two imaging modalities. All 94 studies used RT-PCR either alone or in combination with other criteria (such as clinical signs and symptoms, or positive contacts) as the reference standard for the diagnosis of COVID-19."
+    },
+    {
+      "heading": "Chest CT: suspected people",
+      "text": "Pooled results showed that chest CT (69 studies) correctly diagnosed COVID-19 in 87% of people who had COVID-19. However, it incorrectly identified COVID-19 in 21% of people who did not have COVID-19."
+    },
+    {
+      "heading": "Chest X-ray: suspected people",
+      "text": "Pooled results showed that chest X-ray (17 studies) correctly diagnosed COVID-19 in 73 % of people who had COVID-19. However, it incorrectly identified COVID-19 in 27% of people who did not have COVID-19."
+    },
+    {
+      "heading": "Lung ultrasound: suspected people",
+      "text": "Pooled results showed that lung ultrasound (15 studies) correctly diagnosed COVID-19 in 87% of people with COVID-19. However, it incorrectly diagnosed COVID-19 in 24% of people who did not have COVID-19."
+    },
+    {
+      "heading": "Screening asymptomatic people",
+      "text": "We included 10 studies (7 CT, 1 X-ray, 2 ultrasound) with 3548 asymptomatic participants, of whom 364 (10%) had a final diagnosis of COVID-19. Pooled results of seven studies, showed that CT correctly diagnosed COVID-19 in 56% of people who had COVID-19, and incorrectly identified COVID-19 in 8% of people who did not have COVID-19."
+    },
+    {
+      "heading": "How reliable are the results?",
+      "text": "The studies differed from each other and used different methods to report their results. Very few studies directly compared one type of imaging test with another. Also, the risk of bias was high or unclear in about half of all included studies. Therefore, it is difficult to draw confident conclusions."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "The evidence suggests that chest CT and ultrasound are better at ruling out COVID-19 infection than distinguishing it from other respiratory problems. So, their usefulness may be limited to excluding COVID-19 infection rather than differentiating it from other causes of lung infection. In addition, chest CT imaging had poor sensitivity and high specificity for detecting asymptomatic individuals."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003839.pub3",
+  "name": "Self‐monitoring and self‐management of oral anticoagulation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The introduction of point-of-care devices for the management of patients on oral anticoagulation allows self-testing by the patient at home. Patients who self-test can either adjust their medication according to a pre-determined dose-INR (international normalized ratio) schedule (self-management), or they can call a clinic to be told the appropriate dose adjustment (self-monitoring). Increasing evidence suggests self-testing of oral anticoagulant therapy is equal to or better than standard monitoring. This is an updated version of the original review published in 2010."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects on thrombotic events, major haemorrhages, and all-cause mortality of self-monitoring or self-management of oral anticoagulant therapy compared to standard monitoring."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this review update, we re-ran the searches of the Cochrane Central Register of Controlled Trials (CENTRAL), 2015, Issue 6, the Cochrane Library, MEDLINE (Ovid, 1946 to June week 4 2015), Embase (Ovid, 1980 to 2015 week 27) on 1 July 2015. We checked bibliographies and contacted manufacturers and authors of relevant studies. We did not apply any language restrictions ."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Outcomes analysed were thromboembolic events, mortality, major haemorrhage, minor haemorrhage, tests in therapeutic range, frequency of testing, and feasibility of self-monitoring and self-management."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently extracted data and we used a fixed-effect model with the Mantzel-Haenzel method to calculate the pooled risk ratio (RR) and Peto’s method to verify the results for uncommon outcomes. We examined heterogeneity amongst studies with the Chi2 and I2 statistics and used GRADE methodology to assess the quality of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 28 randomised trials including 8950 participants (newly incorporated in this update: 10 trials including 4227 participants). The overall quality of the evidence was generally low to moderate. Pooled estimates showed a reduction in thromboembolic events (RR 0.58, 95% CI 0.45 to 0.75; participants = 7594; studies = 18; moderate quality of evidence). Both, trials of self-management or self-monitoring showed reductions in thromboembolic events (RR 0.47, 95% CI 0.31 to 0.70; participants = 3497; studies = 11) and (RR 0.69, 95% CI 0.49 to 0.97; participants = 4097; studies = 7), respectively; the quality of evidence for both interventions was moderate. No reduction in all-cause mortality was found (RR 0.85, 95% CI 0.71 to 1.01; participants = 6358; studies = 11; moderate quality of evidence). While self-management caused a reduction in all-cause mortality (RR 0.55, 95% CI 0.36 to 0.84; participants = 3058; studies = 8); self-monitoring did not (RR 0.94, 95% CI 0.78 to 1.15; participants = 3300; studies = 3); the quality of evidence for both interventions was moderate. In 20 trials (8018 participants) self-monitoring or self-management did not reduce major haemorrhage (RR 0.95, 95% CI, 0.80 to 1.12; moderate quality of evidence). There was no significant difference found for minor haemorrhage (RR 0.97, 95% CI 0.67 to 1.41; participants = 5365; studies = 13). The quality of evidence was graded as low because of serious risk of bias and substantial heterogeneity (I2 = 82%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Participants who self-monitor or self-manage can improve the quality of their oral anticoagulation therapy. Thromboembolic events were reduced, for both those self-monitoring or self-managing oral anticoagulation therapy. A reduction in all-cause mortality was observed in trials of self-management but not in self-monitoring, with no effects on major haemorrhage."
+    }
+  ],
+  "pls_title": "Self-monitoring and self-management of oral anticoagulation therapy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Point-of-care testing devices have made it possible for people on long-term oral anticoagulation to monitor their blood clotting time, measured as the international normalized ratio (INR). Patients who self-test can either adjust their medication dose according to a pre-determined dose-INR schedule (self-management) or they can call a clinic to be told the appropriate dose adjustment (self-monitoring). Several published studies and systematic reviews have suggested these methods of monitoring anticoagulation therapy may be equal to or better than standard monitoring by a physician."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This is an update of the original review published in 2010. We performed a new search and found 10 new studies (with 4227 participants) to add to the original review, which changed some of the findings."
+    },
+    {
+      "heading": "Main results",
+      "text": "In total, we found 28 randomised trials including 8950 participants that compared self-monitoring and self-management with standard monitoring. The quality of the evidence was generally low to moderate. The combined results of the 28 trials showed a halving of thromboembolic events with self-monitoring and self-management and no reduction in the number of major bleeds. Self-management had similar reductions in thromboembolic events and mortality to the overall benefit, with no effect on major bleeds. Self-monitoring halved the number of major haemorrhages that occurred but did not significantly reduce the rates of thrombotic events or all-cause mortality."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "In conclusion, self-monitoring or self-management can improve the quality of oral anticoagulant therapy, leading to fewer thromboembolic events and lower mortality, without a reduction in the number of major bleeds. Self-monitoring and self-management are not feasible for all patients, which requires the identification and education of suitable patients."
+    }
+  ]
+}

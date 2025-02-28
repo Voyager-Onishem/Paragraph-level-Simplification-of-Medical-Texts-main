@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009409.pub2",
+  "name": "Effect of periodontal treatments on blood pressure",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "An association has been hypothesized between periodontitis and hypertension. Periodontal therapy is believed to reduce systemic inflammatory mediators and increase endothelial function, thus having the potential to prevent and treat hypertension."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect and safety of different periodontal treatment modalities on blood pressure (BP) in people with chronic periodontitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched for randomized controlled trials (RCTs) up to November 2020 in the Cochrane Hypertension Specialised Register, CENTRAL, MEDLINE, Embase, seven other databases, and two clinical trials registries. We contacted the authors of relevant papers regarding further published and unpublished work."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs and quasi-RCTs aiming to detect the effect of periodontal treatment on BP were eligible. Participants should have been diagnosed with chronic periodontitis and hypertension (or no hypertension if the study explored the preventive effect of periodontal treatment). Participants in the intervention group should have undergone subgingival scaling and root planing (SRP) and any other type of periodontal treatments, compared with either no periodontal treatment or alternative periodontal treatment in the control group."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane for study identification, data extraction, and risk of bias assessment. We used a formal pilot-tested data extraction form for data extraction, and the Cochrane risk of bias tool for risk of bias assessment. We planned the meta-analysis, test for heterogeneity, sensitivity analysis, and subgroup analysis. We assessed the certainty of evidence using GRADE. The primary outcome was change in systolic BP (SBP) and diastolic BP (DBP)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight RCTs. Five had low risk of bias, one had unclear risk of bias, and two had high risk of bias.\nFour trials compared periodontal treatment with no treatment. We found no evidence of a difference in the short-term change of SBP and DBP for people diagnosed with periodontitis and other cardiovascular diseases except hypertension (very low-certainty evidence). We found no evidence of a difference in long-term changes in SBP (mean difference [MD] −2.25 mmHg, 95% confidence interval [CI] −9.41 to 4.92; P = 0.54; studies = 2, participants = 108; low-certainty evidence) and DBP (MD −2.55 mmHg, 95% CI −6.90 to 1.80; P = 0.25; studies = 2, participants = 103; low-certainty evidence). Concerning people diagnosed with periodontitis, in the short term, two studies of low certainty reported no changes in SBP (MD −0.14 mmHg, 95% CI −4.05 to 3.77; P = 0.94; participants = 294) and DBP (MD −0.15 mmHg, 95% CI −2.47 to 2.17; P = 0.90; participants = 294), and we found no evidence of a difference in SBP and DBP over a long period based on low certainty of evidence.\nThree studies compared intensive periodontal treatment with supra-gingival scaling. We found no evidence of a difference in changes in SBP and DBP for any length of time in people diagnosed with periodontitis (very low-certainty evidence).\nIn people diagnosed with periodontitis and hypertension, we found one study reporting a significant reduction in the short term in SBP (MD −11.20 mmHg, 95% CI −15.40 to −7.00; P < 0.001; participants = 101; moderate-certainty evidence) and DBP (MD −8.40 mmHg, 95% CI −12.19 to −4.61; P < 0.0001; participants = 101; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence of a difference of an impact of periodontal treatments on BP in most comparisons assessed in this review, and given the low certainty of evidence and the lack of relevant studies we could not draw conclusions about the effect of periodontal treatment on BP in people with chronic periodontitis. We found only one study suggesting that periodontal treatment may reduce SBP and DBP over a short period in people with hypertension and chronic periodontitis, but the certainty of evidence was moderate."
+    }
+  ],
+  "pls_title": "Periodontal treatment for blood pressure control",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Can periodontal treatment prevent hypertension or lower the blood pressure of people with hypertension?"
+    },
+    {
+      "heading": "Background",
+      "text": "Periodontitis is a severe form of gingivitis (gum disease) caused by some specific bacteria that are also found in atherosclerotic plaque (a buildup of fat, cholesterol, calcium, and other substances in the blood vessels), with the latter exerting significant effects on hypertension (high blood pressure). Multiple studies have shown an association between periodontitis and hypertension. It is important to evaluate whether periodontal treatment can prevent or treat hypertension."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to November 2020."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included eight randomized controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) involving 894 participants. The studies looked at the preventive and therapeutic effects of periodontal treatment on changes in blood pressure, with the participants diagnosed with periodontitis of any age and gender with or without hypertension."
+    },
+    {
+      "heading": "Key results",
+      "text": "Four studies compared periodontal treatment with no treatment in blood pressure changes in people with periodontitis diagnosed with or without other cardiovascular diseases except hypertension. The results showed no difference in blood pressure between the treated and untreated participants for any length of time.\nThree studies compared periodontal treatment with supra-gingival scaling (by just removing the visible dental calculus with limited treatment effects on periodontitis) in people with chronic periodontitis. The results showed no difference in blood pressure for any length of time.\nOnly one study on people with hypertension found a reduction in blood pressure between groups in the short term, with no difference in blood pressure changes for the other comparisons."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "It was not well documented how the included studies were conducted and described, therefore the quality of evidence was low. Consequently, there was insufficient information to draw firm conclusions."
+    }
+  ]
+}

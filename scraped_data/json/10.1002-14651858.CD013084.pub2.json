@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD013084.pub2",
+  "name": "Intravenous iron therapy for non‐anaemic, iron‐deficient adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Iron deficiency is one of the most common nutritional deficiencies, and has a number of physiological manifestations. Early, or non-anaemic iron deficiency can result in fatigue and diminished exercise capacity. Oral iron preparations have a high incidence of intolerable side effects, and are ineffective in certain forms of iron deficiency. Consequently, intravenous iron preparations are increasingly used in the treatment of non-anaemic iron deficiency. The newer, more stable iron preparations in particular purport to have a lower incidence of side effects, and are now used across a range of different patient populations."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of intravenous iron therapy in the treatment of adults with non-anaemic iron deficiency."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 18 October 2019 we electronically searched CENTRAL, MEDLINE, Embase, two further databases and two trials registries 2019. We handsearched the references of full-text extracted studies, and contacted relevant study authors for additional data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials that compared any intravenous iron preparation to placebo in adults. We excluded other forms of comparison such as oral iron versus placebo, intramuscular iron versus placebo, or intravenous iron studies where other iron preparations were used as the comparator. We also excluded studies involving erythropoietin therapy or obstetric populations."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened references for eligibility, extracted data and assessed risk of bias. We resolved differences in opinion through discussion and consensus, and where necessary, involved a third review author to adjudicate disputes. We contacted study authors to request additional data where appropriate. The primary outcome measures were haemoglobin concentration at the end of follow-up, and quality-of-life scores at end of follow-up. Secondary outcome measures were serum ferritin, peak oxygen consumption (as measured by cardiopulmonary exercise testing), adverse effects (graded as mild to moderate and severe) and bacterial infection. We pooled data for continuous outcomes, which we then reported as mean differences (MDs) with 95% confidence intervals (CIs). We reported quality-of-life metrics as standardised mean difference (SMD), and then converted them back into a more familiar measure, the Piper Fatigue Scale. We analysed dichotomous outcomes as risk ratios (RRs). Given an expected degree of heterogeneity, we used a random-effects model for all outcomes. We performed the analysis with the software package Review Manager 5."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 11 studies with 1074 participants. Outcome metrics for which data were available (haemoglobin concentration, quality-of-life scores, serum ferritin, peak oxygen consumption and mild to moderate adverse effects) were similar across the included studies. The incidence of severe adverse events across all studies was zero. None of the studies measured bacterial infection as a specific outcome metric.\nSubstantial heterogeneity influenced the results of the meta-analysis, arising from differing patient populations, definitions of iron deficiency, iron preparations and dosing regimens, and time to end of follow-up. Consequently, many outcomes are reported with small group sizes and wide confidence intervals, with a subsequent downgrading in the quality of evidence. The level of bias in many included studies was high, further reducing confidence in the robustness of the results.\nWe found that intravenous iron therapy may lead to a small increase in haemoglobin concentration of limited clinical significance compared to placebo (MD 3.04 g/L, 95% CI 0.65 to 5.42; I2 = 42%; 8 studies, 548 participants; low-quality evidence). Quality-of-life scores (Piper Fatigue Scale MD 0.73, 95% CI 0.29 to 1.18; I2 = 0%; studies = 3) and peak oxygen consumption (MD 2.77 mL/kg/min, 95% CI −0.89 to 6.43; I2 = 36%; 2 studies, 32 participants) were associated with very low-quality evidence, and we remain uncertain about the role of intravenous iron for these metrics. We were unable to present pooled estimates for the outcomes of serum ferritin at the end of follow-up or mild to moderate adverse effects due to extreme statistical heterogeneity. Ultimately, despite the results of the meta-analysis, the low- or very low-quality evidence for all outcomes precludes any meaningful interpretation of results beyond suggesting that further research is needed. We performed a Trial Sequential Analysis for all major outcomes, none of which could be said to have reached a necessary effect size."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence is insufficient to show benefit of intravenous iron preparations for the treatment of non-anaemic iron deficiency across a variety of patient populations, beyond stating that it may result in a small, clinically insignificant increase in haemoglobin concentration. However, the certainty for even this outcome remains limited. Robust data for the effectiveness of intravenous iron for non-anaemic iron deficiency is still lacking, and larger studies are required to assess the effect of this therapy on laboratory, patient-centric, and adverse-effect outcomes."
+    }
+  ],
+  "pls_title": "Intravenous iron for the treatment of non-anaemic iron deficiency in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Iron deficiency, when the body does not have enough of the mineral iron, is a common, nutritional deficiency. Iron is used by the body to make haemoglobin, a protein in red blood cells that enables them to carry oxygen around the body. Whilst iron deficiency is most commonly associated with a low level of haemoglobin in the blood (anaemia), early, or 'non-anaemic' iron deficiency can also lead to symptoms such as tiredness and lack of energy. Non-anaemic iron deficiency is often treated with oral iron, which is medicine taken by mouth, such as iron tablets. However, oral iron is likely to cause side effects, is not effective for certain types of iron deficiency, and takes time to work fully. In addition, newer iron preparations, such as intravenous iron, are more stable, have fewer side effects and have maximum benefit in a shorter time period."
+    },
+    {
+      "heading": "Aim of the review",
+      "text": "To review the evidence from randomised controlled trials (where people are allocated a treatment at random) on the safety and effects of intravenous iron in the treatment of early, or non-anaemic iron deficiency."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 11 studies with 1074 participants. A broad range of people were included in these studies, including people with heart failure, elite athletes, people with restless legs syndrome and otherwise fit and well women. We excluded studies that looked at children, pregnant women, and people being treated with erythropoietin (a hormone that stimulates the production of red blood cells)."
+    },
+    {
+      "heading": "Key results",
+      "text": "Intravenous iron may lead to a small increase in the level of haemoglobin in the blood. We also assessed the effect of intravenous iron on quality of life, serum ferritin (iron stored in the body), peak exercise capacity, and milder side-effects of iron administration but we were unable to determine whether or not intravenous iron was of benefit for these outcomes. This is because there were many differences between studies in the types of participants studied, the definition of iron deficiency used, the type of intravenous iron preparation prescribed and the length of the studies. We also tried to collect data on severe side effects and bacterial infection after iron infusion, but we were unable to find any studies that measured these effectively."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Because of the many differences between the relatively small number of studies included in this review, we are uncertain about the effect of intravenous iron in non-anaemic iron deficiency beyond saying that it might cause an increase in haemoglobin concentration. Furthermore, the starting level of haemoglobin for people included in this review was considered 'normal' prior to their receiving treatment. Therefore, not only is this increase quite small, but the starting level of haemoglobin was considered adequate according to current guidance, and patients may not even notice an improvement in symptoms. We are not suggesting that intravenous iron is not of benefit for adults with non-anaemic iron deficiency, rather that the current quality of evidence is not good enough to be certain about the effects of these drugs."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Overall, the evidence for intravenous iron for the treatment of non-anaemic iron deficiency is of low or very low quality. Whilst intravenous iron might cause a small increase in haemoglobin concentration from an already normal level, we are uncertain about its effects in other outcomes that we examined as part of this review. Further research examining the effects of intravenous iron for the treatment of adults with non-anaemic iron deficiency is required to help answer this research question.\nThe evidence is current to October 2019."
+    }
+  ]
+}

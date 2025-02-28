@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013276.pub2",
+  "name": "Physiological track‐and‐trigger/early warning systems for use in maternity care",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A considerable challenge for maternity care providers is recognising clinical deterioration early in pregnant women. Professional bodies recommend the use of clinical assessment protocols or evaluation tools, commonly referred to as physiological track-and-trigger systems (TTS) or early warning systems (EWS), as a means of helping maternity care providers recognise actual or potential clinical deterioration early. TTS/EWS are clinician-administered (midwife, obstetrician), bedside physiological assessment protocols, charts or tools designed to record routinely assessed clinical parameters; that is, blood pressure, temperature, heart rate, urine output and mental/neurological alertness. In general, these systems involve the application of scores or alert indicators to the observed physiological parameters based on their prespecified limits of normality. The overall system score or alert limit is then used to assist the maternity care provider identify a need to escalate care. This, in turn, may allow for earlier intervention(s) to alter the course of the emerging critical illness and ultimately reduce or avoid mortality and morbidity sequelae."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the clinical- and cost-effectiveness of maternal physiological TTS/EWS on pregnancy, labour and birth, postpartum (up to 42 days) and neonatal outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Pregnancy and Childbirth's Trials Register (28 May 2021), ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (7 June 2021), OpenGrey, the ProQuest Dissertations and Theses database (7 June 2021), and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised and quasi-randomised controlled trials (RCTs), including cluster-RCTs, comparing physiological TTS/EWS with no system or another system. Participants were women who were pregnant or had given birth within the previous 42 days, at high risk and low risk for pregnancy, labour and birth, and postpartum complications."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (VS and MN) independently assessed all identified papers for inclusion and performed risk of bias assessments. Any discrepancies were resolved through discussion and consensus. Data extraction was also conducted independently by two review authors (VS and MN) and checked for accuracy. We used the summary odds ratio (OR) with 95% confidence intervals (CIs) to present the results for dichotomous data and the mean difference (MD) with 95% CI to present the results for continuous data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two studies, a parallel RCT involving 700 women and a stepped-wedge cluster trial involving 536,233 women. Both studies were published in 2019, and both were conducted in low-resource settings. The interventions were the 'Saving Mothers Score' (SMS) and the CRADLE Vital Sign Alert (VSA) device, and both interventions were compared with standard care. Both studies had low or unclear risk of bias on all seven risk of bias criteria. Evidence certainty, assessed using GRADE, ranged from very low to moderate certainty, mainly due to other bias as well as inconsistency and imprecision.\nFor women randomised to TTS/EWS compared to standard care there is probably little to no difference in maternal death (OR 0.80, 95% CI 0.30 to 2.11; 1 study, 536,233 participants; moderate-certainty evidence). Use of TTS/EWS compared to standard care may reduce total haemorrhage (OR 0.36, 95% CI 0.19 to 0.69; 1 study, 700 participants; low-certainty evidence). For women randomised to TTS/EWS compared to standard care there may be little to no difference in sepsis (OR 0.21, 95% CI 0.02 to 1.80; 1 study, 700 participants; low-certainty evidence), eclampsia (OR 1.50, 95% CI 0.74 to 3.03; 2 studies, 536,933 participants; low-certainty evidence) and HELLP (OR 0.21, 95% CI 0.01 to 4.40; 1 study, 700 participants; very low-certainty evidence), and probably little to no difference in maternal admission to the intensive care unit (ICU) (OR 0.78, 95% CI  0.53 to 1.15; 2 studies, 536,933 participants; moderate-certainty evidence). Use of TTS/EWS compared to standard care may reduce a woman's length of hospital stay (MD -1.21, 95% CI -1.78 to -0.64; 1 study, 700 participants; low-certainty evidence) but may result in little to no difference in neonatal death (OR 1.06, 95% CI 0.62 to 1.84; 1 study, 700 participants; low-certainty evidence). Cost-effectiveness measures were not measured in either of the two studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Use of TTS/EWS in maternity care may be helpful in reducing some maternal outcomes such as haemorrhage and maternal length of hospital stay, possibly through early identification of clinical deterioration and escalation of care. The evidence suggests that the use of TTS/EWS compared to standard care probably results in little to no difference in maternal death and may result in little to no difference in neonatal death. Both of the included studies were conducted in low-resource settings where the use of TTS/EWS might potentially confer a different effect to TTS/EWS use in high-resource settings. Further high-quality trials in high- and middle-resource settings, as well as in discrete populations of high- and low-risk women, are required."
+    }
+  ],
+  "pls_title": "Physiological track-and-trigger/early warning systems for use in maternity care",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the question?",
+      "text": "The aim of this review is to find out from randomised controlled trials if using simple monitoring tools are helpful in alerting to clinical problems and in reducing serious illness or death in pregnant women and in their first six weeks after birth. Examples of such tools are track and trigger systems or early warning systems kept by the bedside in maternity care."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Many natural functional changes occur in a woman's body during pregnancy. As a result, a pregnant woman, who may appear healthy and well, can become rapidly very sick. This is called clinical deterioration. If not detected sufficiently early and treated successfully, the pregnant woman can become seriously ill or even die. Examples are serious bleeding, development of convulsions when a woman has high blood pressure, blood clots and serious infection. Simple bedside tools or charts can be used by maternity care providers (midwives and doctors) to record information on a woman's health. The recorded health measures include her blood pressure, pulse rate, breathing rate, body temperature, and other health measures such as urine output and mental alertness. The tools have been introduced so that the measures are observed, recorded and interpreted together, rather than as single measures. The intention is to detect when serious illness is, or might be developing. Medical staff can then step in to prevent serious harm."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for evidence on 28 May 2021 and identified two studies that compared an early warning system with standard care. One study was a single-centre study involving 700 women and the second was a stepped-wedge cluster trial (multiple centres grouped into 'clusters') involving 536,233 women. Different clusters of centres introduced the tool over time until all centres were using the tool. Both studies were carried out in low-resource healthcare settings. The tools were called the 'Saving Mothers Score' (SMS) and the CRADLE Vital Sign Alert (VSA) device. Risk of bias in the two studies was low or unclear.\nWe found that the tools probably do not reduce maternal death. Women may have less serious bleeding (or haemorrhage) when an early warning tool is used. This finding was supported by low-certainty evidence. We also found that the tools may make little or no difference to a potentially life-threatening body response to infection (sepsis), to blood pressure with swelling, protein in the urine and convulsions (eclampsia), to a serious illness in pregnancy that affects the blood and the way the liver works (HELLP), or being admitted to an intensive care unit (ICU). Use of the tools probably reduces the time a woman stays in hospital (moderate-certainty evidence). We also found that the tools may make little or no difference to the death of the baby in the first month after birth (neonatal death). This finding was supported by low-certainty evidence. Neither of the two included studies reported cost outcomes."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Use of early warning tools for women in maternity care in low-resource settings may reduce serious bleeding and probably reduces the number of days a woman stays in the hospital but may not reduce maternal or infant deaths. More studies are required on the different early warning systems in low-resource settings. Studies are also needed in middle- and high-resource settings, and in high- and low-risk pregnant women."
+    }
+  ]
+}

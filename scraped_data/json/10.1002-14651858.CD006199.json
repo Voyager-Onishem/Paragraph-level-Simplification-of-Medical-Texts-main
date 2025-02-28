@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006199",
+  "name": "Vaccines for preventing malaria (blood‐stage)",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A malaria vaccine is needed because of the heavy burden of mortality and morbidity due to this disease. This review describes the results of trials of blood (asexual)-stage vaccines. Several are under development, but only one (MSP/RESA, also known as Combination B) has been tested in randomized controlled trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of blood-stage malaria vaccines in preventing infection, disease, and death."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In March 2006, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2006, Issue 1), MEDLINE, EMBASE, LILACS, and the Science Citation Index. We also searched conference proceedings and reference lists of articles, and contacted organizations and researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials comparing blood-stage vaccines (other than SPf66) against P. falciparum , P. vivax , P. malariae , or P. ovale with placebo, control vaccine, or routine antimalarial control measures in people of any age receiving a challenge malaria infection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Both authors independently assessed trial quality and extracted data. Results for dichotomous data were expressed as risk ratios (RR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five trials of MSP/RESA vaccine with 217 participants were included; all five reported on safety, and two on efficacy. No severe or systemic adverse effects were reported at doses of 13 to 15 µg of each antigen (39 to 45 µg total). One small efficacy trial with 17 non-immune participants with blood-stage parasites showed no reduction or delay in parasite growth rates after artificial challenge. In the second efficacy trial in 120 children aged five to nine years in Papua New Guinea, episodes of clinical malaria were not reduced, but MSP/RESA significantly reduced parasite density only in children who had not been pretreated with an antimalarial drug (sulfadoxine-pyrimethamine). Infections with the 3D7 parasite subtype of MSP2 (the variant included in the vaccine) were reduced (RR 0.38, 95% CI 0.26 to 0.57; 719 participants) while those with the other main subtype, FC27, were not (720 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The MSP/RESA (Combination B) vaccine shows promise as a way to reduce the severity of malaria episodes, but the effect of the vaccine is MSP2 variant-specific. Pretreatment for malaria during a vaccine trial makes the results difficult to interpret, particularly with the relatively small sample sizes of early trials. The results show that blood-stage vaccines may play a role and merit further development."
+    }
+  ],
+  "pls_title": "Vaccines for preventing malaria in the blood phase",
+  "pls_type": "long",
+  "pls": "Malaria is a parasitic disease spread by mosquitoes. It affects millions of people worldwide and causes significant illness and mortality. Uncomplicated malaria presents with symptoms such as fever, headache, muscle pain, and vomiting, and children commonly present with rapid breathing, cough, and convulsions. Severe malaria causes unconsciousness and death. Vaccines are widely considered a necessary component for the complete success of malaria control. The parasite moves through several life-cycle stages in the human body, during which its molecular makeup changes, at least partially. Vaccines specific for each stage (ie targeting different antigens) are under development. This review looked at vaccinations targeted at the asexual (blood) phase of the parasite's life, when the parasites are in red blood cells. One vaccine for this phase, MSP/RESA (also known as Combination B), has been tested in field trials in Papua New Guinea. It reduced the density of parasites in the blood, but it did not prevent malaria attacks. Blood-stage vaccines are being actively pursued in further research."
+}

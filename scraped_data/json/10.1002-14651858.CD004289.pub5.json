@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004289.pub5",
+  "name": "HMG CoA reductase inhibitors (statins) for dialysis patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with advanced kidney disease treated with dialysis experience mortality rates from cardiovascular disease that are substantially higher than for the general population. Studies that have assessed the benefits of statins (HMG CoA reductase inhibitors) report conflicting conclusions for people on dialysis and existing meta-analyses have not had sufficient power to determine whether the effects of statins vary with severity of kidney disease. Recently, additional data for the effects of statins in dialysis patients have become available. This is an update of a review first published in 2004 and last updated in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of statin use in adults who require dialysis (haemodialysis or peritoneal dialysis)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 29 February 2012 through contact with the Trials' Search Co-ordinator using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs that compared the effects of statins with placebo, no treatment, standard care or other statins on mortality, cardiovascular events and treatment-related toxicity in adults treated with dialysis were sought for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two or more authors independently extracted data and assessed study risk of bias. Treatment effects were summarised using a random-effects model and subgroup analyses were conducted to explore sources of heterogeneity. Treatment effects were expressed as mean difference (MD) for continuous outcomes and risk ratios (RR) for dichotomous outcomes together with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "The risk of bias was high in many of the included studies. Random sequence generation and allocation concealment was reported in three (12%) and four studies (16%), respectively. Participants and personnel were blinded in 13 studies (52%), and outcome assessors were blinded in five studies (20%). Complete outcome reporting occurred in nine studies (36%). Adverse events were only reported in nine studies (36%); 11 studies (44%) reported industry funding.\nWe included 25 studies (8289 participants) in this latest update; 23 studies (24 comparisons, 8166 participants) compared statins with placebo or no treatment, and two studies (123 participants) compared statins directly with one or more other statins. Statins had little or no effect on major cardiovascular events (4 studies, 7084 participants: RR 0.95, 95% CI 0.88 to 1.03), all-cause mortality (13 studies, 4705 participants: RR 0.96, 95% CI 0.90 to 1.02), cardiovascular mortality (13 studies, 4627 participants: RR 0.94, 95% CI 0.84 to 1.06) and myocardial infarction (3 studies, 4047 participants: RR 0.87, 95% CI 0.71 to 1.07); and uncertain effects on stroke (2 studies, 4018 participants: RR 1.29, 95% CI 0.96 to 1.72).\nRisks of adverse events from statin therapy were uncertain; these included effects on elevated creatine kinase (5 studies, 3067 participants: RR 1.25, 95% CI 0.55 to 2.83) or liver function enzymes (4 studies, 3044 participants; RR 1.09, 95% CI 0.41 to 1.25), withdrawal due to adverse events (9 studies, 1832 participants: RR 1.04, 95% CI 0.87 to 1.25) or cancer (2 studies, 4012 participants: RR 0.90, 95% CI 0.72 to 1.11). Statins reduced total serum cholesterol (14 studies, 1803 participants; MD -44.86 mg/dL, 95% CI -55.19 to -34.53) and low-density lipoprotein cholesterol (12 studies, 1747 participants: MD -39.99 mg/dL, 95% CI -52.46 to -27.52) levels. Data comparing statin therapy directly with another statin were sparse."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Statins have little or no beneficial effects on mortality or cardiovascular events and uncertain adverse effects in adults treated with dialysis despite clinically relevant reductions in serum cholesterol levels."
+    }
+  ],
+  "pls_title": "Does statin therapy improve survival or reduce risk of heart disease in people on dialysis?",
+  "pls_type": "long",
+  "pls": "Adults with severe kidney disease who are treated with dialysis have high risks of developing heart disease. Statin treatment reduces risks of death and complications of heart disease in the general population.\nIn 2009 we identified 14 studies, enrolling 2086 patients, and found that while statins were generally safe and reduced cholesterol levels, they did not prevent death or clinical cardiac events in people treated with dialysis. This latest update analysed a total or 25 studies (8289 patients), and included the results from two new large studies. We found that statins lowered cholesterol in people treated with dialysis but did not prevent death, heart attack, or stroke.\nEvidence for side-effects was incomplete, and potential harms from statin therapy remain uncertain. Current study data did not address whether statin treatment should be stopped when a person starts dialysis, although the benefits associated with continued treatment are likely to be small. Limited information was available for people treated with peritoneal dialysis, suggesting that more research is needed in this setting."
+}

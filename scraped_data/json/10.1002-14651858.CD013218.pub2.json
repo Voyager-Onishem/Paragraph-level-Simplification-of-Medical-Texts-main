@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013218.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Plasmodium vivax (P vivax ) is a focus of malaria elimination. It is important because P vivax and Plasmodium falciparum infection are co-endemic in some areas. There are asymptomatic carriers of P vivax, and the treatment for P vivax and Plasmodium ovale malaria differs from that used in other types of malaria. Rapid diagnostic tests (RDTs) will help distinguish P vivax from other malaria species to help treatment and elimination. There are RDTs available that detect P vivax parasitaemia through the detection of P vivax-specific lactate dehydrogenase (LDH) antigens."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the diagnostic accuracy of RDTs for detecting P vivax malaria infection in people living in malaria-endemic areas who present to ambulatory healthcare facilities with symptoms suggestive of malaria; and to identify which types and brands of commercial tests best detect P vivax malaria."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook a comprehensive search of the following databases up to 30 July 2019: Cochrane Infectious Diseases Group Specialized Register; Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE (PubMed); Embase (OVID); Science Citation Index Expanded (SCI-EXPANDED) and Conference Proceedings Citation Index-Science (CPCI-S), both in the Web of Science."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies comparing RDTs with a reference standard (microscopy or polymerase chain reaction (PCR)) in blood samples from patients attending ambulatory health facilities with symptoms suggestive of malaria in P vivax-endemic areas."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For each included study, two review authors independently extracted data using a pre-piloted data extraction form. The methodological quality of the studies were assessed using a tailored Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) tool. We grouped studies according to commercial brand of the RDT and performed meta-analysis when appropriate. The results given by the index tests were based on the antibody affinity (referred to as the strength of the bond between an antibody and an antigen) and avidity (referred to as the strength of the overall bond between a multivalent antibody and multiple antigens). All analyses were stratified by the type of reference standard. The bivariate model was used to estimate the pooled sensitivity and specificity with 95% confidence intervals (CIs), this model was simplified when studies were few. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 studies that assessed the accuracy of six different RDT brands (CareStart Malaria Pf/Pv Combo test, Falcivax Device Rapid test, Immuno-Rapid Malaria Pf/Pv test, SD Bioline Malaria Ag Pf/Pv test, OnSite Pf/Pv test and Test Malaria Pf/Pv rapid test) for detecting P vivax malaria. One study directly compared the accuracy of two RDT brands. Of the 10 studies, six used microscopy, one used PCR, two used both microscopy and PCR separately and one used microscopy corrected by PCR as the reference standard. Four of the studies were conducted in Ethiopia, two in India, and one each in Bangladesh, Brazil, Colombia and Sudan.\nThe studies often did not report how patients were selected. In the patient selection domain, we judged the risk of bias as unclear for nine studies. We judged all studies to be of unclear applicability concern. In the index test domain, we judged most studies to be at low risk of bias, but we judged nine studies to be of unclear applicability concern. There was poor reporting on lot testing, how the RDTs were stored, and background parasitaemia density (a key variable determining diagnostic accuracy of RDTs). Only half of the included studies were judged to be at low risk of bias in the reference standard domain, Studies often did not report whether the results of the reference standard could classify the target condition or whether investigators knew the results of the RDT when interpreting the results of the reference standard. All 10 studies were judged to be at low risk of bias in the flow and timing domain.\nOnly two brands were evaluated by more than one study. Four studies evaluated the CareStart Malaria Pf/Pv Combo test against microscopy and two studies evaluated the Falcivax Device Rapid test against microscopy. The pooled sensitivity and specificity were 99% (95% CI 94% to 100%; 251 patients, moderate-certainty evidence) and 99% (95% CI 99% to 100%; 2147 patients, moderate-certainty evidence) for CareStart Malaria Pf/Pv Combo test.\nFor a prevalence of 20%, about 206 people will have a positive CareStart Malaria Pf/Pv Combo test result and the remaining 794 people will have a negative result. Of the 206 people with positive results, eight will be incorrect (false positives), and of the 794 people with a negative result, two would be incorrect (false negative).\nFor the Falcivax Device Rapid test, the pooled sensitivity was 77% (95% CI: 53% to 91%, 89 patients, low-certainty evidence) and the pooled specificity was 99% (95% CI: 98% to 100%, 621 patients, moderate-certainty evidence), respectively. For a prevalence of 20%, about 162 people will have a positive Falcivax Device Rapid test result and the remaining 838 people will have a negative result. Of the 162 people with positive results, eight will be incorrect (false positives), and of the 838 people with a negative result, 46 would be incorrect (false negative)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The CareStart Malaria Pf/Pv Combo test was found to be highly sensitive and specific in comparison to microscopy for detecting P vivax in ambulatory healthcare in endemic settings, with moderate-certainty evidence. The number of studies included in this review was limited to 10 studies and we were able to estimate the accuracy of 2 out of 6 RDT brands included, the CareStart Malaria Pf/Pv Combo test and the Falcivax Device Rapid test. Thus, the differences in sensitivity and specificity between all the RDT brands could not be assessed. More high-quality studies in endemic field settings are needed to assess and compare the accuracy of RDTs designed to detect P vivax."
+    }
+  ],
+  "pls_title": "Rapid tests for diagnosing malaria caused by Plasmodium vivax in people living in areas where malaria is very common",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of the review?",
+      "text": "Malaria infection is caused mainly by two species of malaria parasite: Plasmodium falciparum and Plasmodium vivax . The aim of this review was to evaluate rapid diagnostic tests (RDTs) to diagnose P vivax infection."
+    },
+    {
+      "heading": "Why are rapid tests for P vivax malaria important?",
+      "text": "P vivaxmalaria important?\nFor clinical management, knowing which parasite species is causing the malaria is important as the drug treatments differ. For P vivax infection, an additional drug is required to eliminate the infection from the liver. For public health control of malaria, we know that P falciparum is declining over the previous 15 years, and infections from P vivax have therefore increased in importance."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "RDTs provide results quickly and are often as a dipstick. We studied RDTs that specifically test for P vivax malaria. RDTs are simple to use, point-of-care tests. They are suitable for use in rural settings by primary healthcare workers, using drop of blood on the dipstick that causes colour change and a distinct line that indicates a positive test result. Healthcare workers in rural areas can perform RDTs for P vivax without needing a laboratory or special equipment. We wanted to find out which brands of RDTs were the most accurate for diagnosing P vivax malaria. We compared the new tests against the standard form of diagnosis with microscopy, and also more recent methods polymerase chain reaction (PCR): a molecular method to identify P vivax DNA in blood samples."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We included 10 studies that looked at the accuracy of six diagnostic test brands for detecting P vivax malaria in people with suspected malaria symptoms. The studies were conducted in Ethiopia (four studies), India (two studies) and Bangladesh, Brazil, Colombia, and Sudan (one study each).\nCompared with microscopy, the Care Start Malaria Pf/Pv Combo test performed well with 99% sensitivity and specificity (four studies). This means that:\n• for every 100 people tested who have P vivax malaria, one person will have a negative test result, and might not receive the right treatment soon enough;\n• for every 100 people tested who do not have P vivax malaria, one will have a positive result, and might receive unnecessary treatment.\nCompared with microscopy, the Falcivax Device Rapid test had a sensitivity of 77% and a specificity of 99% (two studies). This means that:\n• For every 100 people tested who have P vivax malaria, 23 people will have a negative test result; and,\n• for every 100 people tested who do not have P vivax malaria, one person will have a positive result.\nWe are moderately confident (certain) in the accuracy results for the Care Start Malaria Pf/Pv Combo test. The results are from a small number of studies (four), so our findings may change when results from further studies become available.\nWe are less confident in the accuracy results for the Falcivax Device Rapid test, because these came from only two studies. Our findings for this test will probably change when results from further studies become available.\nOur results are based on a small number of studies, so we could not reliably assess all six brands of antibody test or compare their accuracy. Most studies included in this review had limitations: it was not clear how people were selected for testing, or how the study results were assessed and checked, which could have affected the results. Some rapid antibody tests were investigated by only one study. Some studies did not report clearly how common P malaria was in the area where the study was done."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies published up to 30 July 2019."
+    }
+  ]
+}

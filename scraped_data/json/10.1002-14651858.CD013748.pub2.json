@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD013748.pub2",
+  "name": "Thrombolysis for aneurysmal subarachnoid haemorrhage",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Aneurysmal subarachnoid haemorrhage continues to cause a significant burden of morbidity and mortality despite advances in care. Trials investigating local administration of thrombolytics have reported promising results."
+    },
+    {
+      "heading": "Objectives",
+      "text": "- To assess the effect of thrombolysis on improving functional outcome and case fatality following aneurysmal subarachnoid haemorrhage\n- To determine the effect of thrombolysis on the risk of cerebral artery vasospasm, delayed cerebral ischaemia, and hydrocephalus following subarachnoid haemorrhage\n- To determine the risk of complications of local thrombolysis in aneurysmal subarachnoid haemorrhage"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (last searched 9 March 2023), MEDLINE Ovid (1946 to 9 March 2023), and Embase Ovid (1974 to 9 March 2023). We also searched ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We performed forward and reverse citation tracking of included studies using Google Scholar."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing subarachnoid thrombolysis via any route of administration into any anatomical site continuous with the subarachnoid space versus placebo, sham thrombolysis, or standard treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies for inclusion in the review. We extracted study data and used version 2 of the Cochrane risk-of-bias tool for randomised trials to assess the risk of bias in the studies. We resolved any disagreement through discussion with a third author.\nOur primary outcome was poor functional outcome. Secondary outcomes were case fatality, haemorrhagic complications, cerebral artery vasospasm, delayed cerebral ischaemia, cerebral infarction, and hydrocephalus.\nWe performed meta-analyses for each outcome and performed sensitivity analysis excluding studies at high risk of bias. We presented results as risk ratios (RRs) with 95% confidence intervals (CIs). We performed further sensitivity analysis by including all intervention groups from studies reporting more than one intervention group.\nFor each outcome, we used the GRADE criteria to determine the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight studies from six countries in this review. The studies had a total of 410 participants, of whom 205 received thrombolysis. We identified three ongoing trials. We assessed one trial as having a high risk of bias for all outcomes; we assessed the remainder as having a low risk of bias or some concerns.\nThrombolysis likely results in a reduction in poor functional outcome when compared to placebo or standard care (29.4% versus 39.7%, RR 0.73, 95% CI 0.56 to 0.94; 8 studies, 408 participants; moderate-certainty evidence). Thrombolysis likely results in little to no difference in case fatality (12.8% versus 17.7%, RR 0.71, 95% CI 0.46 to 1.10; 8 studies, 408 participants; moderate-certainty evidence). Thrombolysis may result in little to no difference in haemorrhagic complications (10.3% versus 7.2%, RR 1.40, 95% CI 0.73 to 2.68; 6 studies, 341 participants; low-certainty evidence). Thrombolysis likely results in a reduction in cerebral artery vasospasm (32.9% versus 47.6%, RR 0.70, 95% CI 0.54 to 0.91; studies, participants; moderate-certainty evidence), and may result in a reduction in delayed cerebral ischaemia (23.8% versus 38.2%, RR 0.62, 95% CI 0.45 to 0.88; studies, participants; low-certainty evidence). Thrombolysis may result in little to no difference in cerebral infarction (28.6% versus 37.5%, RR 0.76, 95% CI 0.44 to 1.31; studies, participants; low-certainty evidence), and likely results in little to no difference in the risk of hydrocephalus (18.3% versus 24.1%, RR 0.77, 95% CI 0.54 to 1.10; studies, participants; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is some evidence that thrombolysis can probably improve outcomes after aneurysmal subarachnoid haemorrhage, without increasing the risk of haemorrhagic complications. Thrombolysis likely reduces the risk of poor functional outcome and cerebral artery vasospasm, and may reduce the risk of delayed cerebral ischaemia, but it likely makes little to no difference to case fatality or hydrocephalus, and may make little to no difference to the risk of cerebral infarction. However, the current evidence is still uncertain. The uncertainty is primarily due to the small total number of participants and outcome events. Data from further studies are required to confirm the efficacy of thrombolysis for improving outcomes after aneurysmal subarachnoid haemorrhage."
+    }
+  ],
+  "pls_title": "Thrombolysis (giving a drug that dissolves blood clots) for aneurysmal subarachnoid haemorrhage (a type of brain bleed)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- Thrombolysis (giving a drug that dissolves blood clots) may improve some outcomes following aneurysmal subarachnoid haemorrhage (a type of brain bleed). For example, it probably reduces the risk of a poor functional outcome (severe disability), probably reduces the risk of cerebral artery vasospasm (a condition where brain arteries constrict, often causing brain damage by reducing blood flow), and may reduce the risk of delayed cerebral ischaemia (a clinical condition where brain tissue does not get enough blood, as a result of cerebral artery vasospasm). Thrombolysis does not appear to increase the risk of haemorrhagic complications (e.g. the aneurysm re-bleeding). However, thrombolysis likely does not decrease the risk of death or hydrocephalus (build-up of fluid in the brain that can cause brain damage via increased pressure), and may make little to no difference to the risk of cerebral infarction (a stroke, due to reduced blood flow).\n- Overall, the current evidence regarding thrombolysis for aneurysmal subarachnoid haemorrhage is still uncertain.\n- Further information from research studies about the effect of thrombolysis on outcomes following aneurysmal subarachnoid haemorrhage is required."
+    },
+    {
+      "heading": "What is aneurysmal subarachnoid haemorrhage?",
+      "text": "Aneurysmal subarachnoid haemorrhage is a disorder of bleeding in the brain caused by the rupture of a brain aneurysm (a bulging section of a brain artery that is weakened and prone to bleeding). Aneurysmal subarachnoid haemorrhage is potentially lethal and can cause significant disabilities. Furthermore, aneurysmal subarachnoid haemorrhage can cause cerebral artery vasospasm: this is a dangerous complication where one or more of the brain's blood vessels constrict, reducing blood flow. The severity of the condition can be measured on a scale known as the Fisher Scale, with grade 3 or 4 being considered 'high grade' and having a particularly high risk of vasospasm."
+    },
+    {
+      "heading": "How is aneurysmal subarachnoid haemorrhage treated?",
+      "text": "After an aneurysm ruptures, urgent treatment is required to stop it from continuing to bleed and to prevent it bleeding again. This can be done through a minimally invasive procedure (endovascular coiling, where a wire is introduced via a blood vessel and coiled inside the aneurysm) or by open surgery (surgical clipping, where a metal clip is placed across the neck of the aneurysm).\nSubarachnoid thrombolysis is where a clot-dissolving drug is administered to clear the blood after subarachnoid haemorrhage. This may improve outcomes since blood in the subarachnoid space is associated with cerebral artery vasospasm."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if patients who received thrombolysis after subarachnoid haemorrhage had better outcomes than patients who did not."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We performed a systematic search of medical databases to find studies evaluating thrombolysis as a treatment to improve outcomes after aneurysmal subarachnoid haemorrhage. We looked for a reliable type of study known as a 'randomised controlled trial'. We combined the results of the studies we identified from our search to assess the effects of thrombolysis."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified eight studies from six different countries that met our inclusion criteria, with a total of 410 individuals with subarachnoid haemorrhage. Of these individuals, 205 received thrombolysis. Nearly all included participants had high-grade subarachnoid haemorrhage. Studies had a variety of different approaches to using thrombolysis, including different doses and routes of administration (e.g. via an external drain or during open surgery)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Individuals who received thrombolysis after high-grade aneurysmal subarachnoid haemorrhage were less likely to have severe disability, cerebral artery vasospasm, or delayed cerebral ischaemia than those who did not receive thrombolysis. However, they were not more or less likely to die or have a bleeding complication than individuals without thrombolysis. Nor were they more or less likely to have a stroke or a build-up of fluid on the brain."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have low to moderate certainty about the evidence we found. The main limitation of the evidence is the small number of participants in the studies, and the small number of instances of each outcome. Additionally, the studies included in this analysis used various different approaches to thrombolysis; due to the small number of studies, we were not able to study the effect of these different approaches on the outcomes. It is also unclear how thrombolysis affects less severe cases of subarachnoid haemorrhage."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This evidence is up to date to 9 March 2023."
+    }
+  ]
+}

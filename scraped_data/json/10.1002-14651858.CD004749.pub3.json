@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004749.pub3",
+  "name": "Interventions to increase the use of electronic health information by healthcare practitioners to improve clinical practice and patient outcomes ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "There is a large volume of health information available, and, if applied in clinical practice, may contribute to effective patient care. Despite an abundance of information, sub-optimal care is common. Many factors influence practitioners' use of health information, and format (electronic or other) may be one such factor."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions aimed at improving or increasing healthcare practitioners' use of electronic health information (EHI) on professional practice and patient outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Library (Wiley), MEDLINE (Ovid), EMBASE (Ovid), CINAHL (EBSCO), and LISA (EBSCO) up to November 2013. We contacted researchers in the field and scanned reference lists of relevant articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that evaluated the effects of interventions to improve or increase the use of EHI by healthcare practitioners on professional practice and patient outcomes. We defined EHI as information accessed on a computer. We defined 'use' as logging into EHI. We considered any healthcare practitioner involved in patient care. We included randomized, non-randomized, and cluster randomized controlled trials (RCTs, NRCTs, CRCTs), controlled clinical trials (CCTs), interrupted time series (ITS), and controlled before-and-after studies (CBAs).The comparisons were: electronic versus printed health information; EHI on different electronic devices (e.g. desktop, laptop or tablet computers, etc.; cell / mobile phones); EHI via different user interfaces; EHI provided with or without an educational or training component; and EHI compared to no other type or source of information."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed the risk of bias for each study. We used GRADE to assess the quality of the included studies. We reassessed previously excluded studies following our decision to define logins to EHI as a measure of professional behavior. We reported results in natural units. When possible, we calculated and reported median effect size (odds ratio (OR), interquartile ranges (IQR)). Due to high heterogeneity across studies, meta-analysis was not feasible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two RCTs and four CRCTs involving 352 physicians, 48 residents, and 135 allied health practitioners. Overall risk of bias was low as was quality of the evidence. One comparison was supported by three studies and three comparisons were supported by single studies, but outcomes across the three studies were highly heterogeneous. We found no studies to support EHI versus no alternative. Given these factors, it was not possible to determine the relative effectiveness of interventions. All studies reported practitioner use of EHI, two reported on compliance with electronic practice guidelines, and none reported on patient outcomes.\nOne trial (139 participants) measured guideline adherence for an electronic versus printed guideline, but reported no difference between groups (median OR 0.85, IQR 0.74 to 1.08). One small cross-over trial (10 participants) reported increased use of clinical guidelines when provided with a mobile versus stationary, desktop computer (mean use per shift: intervention group (IG) 3.6, standard deviation (SD) 1.7 vs. control group (CG) 2.0 (SD 1.9), P value = 0.033). One cross-over trial (203 participants) reported that using a customized versus a generic interface had little impact on practitioners' use of EHI (mean difference in adjusted end-of-study rate: 0.77 logins/month/user, 95% confidence interval (CI) CI 0.43 to 1.11). Three trials included education or training and reported increased use of EHI by practitioners following training."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review provided no evidence that the use of EHI translates into improved clinical practice or patient outcomes, though it does suggest that when practitioners are provided with EHI and education or training, the use of EHI increases. We have defined use as the activity of logging into an EHI resource, but based on our findings use does not automatically translate to the application of EHI in practice. While using EHI may be an important component of evidence-based medicine, alone it is insufficient to improve patient care or clinical practices. For EHI to be applied in patient care, it will be necessary to understand why practitioners' are reluctant to apply EHI when treating people, and to determine the most effective way(s) to reduce this reluctance."
+    }
+  ],
+  "pls_title": "Interventions to increase the use of electronic health information by healthcare practitioners",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "There is a lot of healthcare information available to doctors, nurses, physiotherapists, and other healthcare practitioners. Today, most of this information is electronic (online, Internet, computers), and it is easy to assume that if information is available to practitioners, they will use it to ensure good patient care; but this is not always the case."
+    },
+    {
+      "heading": "Review question",
+      "text": "This review asks whether or not practitioners provided with electronic health information (EHI) will use information more often; whether they will provide better patient care; and whether people treated by practitioners' using EHI are better off."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found six studies involving 535 healthcare practitioners. The studies examined strategies encouraging practitioners to use EHI when caring for patients. We measured practitioners' use of EHI by counting the number of times they logged onto it; by measuring whether or not practitioners' followed the guidance provided by EHI; and by improvements experienced by patients. The studies compared the following strategies: EHI versus printed information (one study); EHI on a \"mobile\" (e.g. laptop computer) versus a stationary, desktop computer (one study); EHI presented with different search interfaces (an interface is what a user sees when accessing an online resource, think of Google versus Yahoo) (one study); and EHI provided with training (three studies)."
+    },
+    {
+      "heading": "Key results",
+      "text": "The results of this review showed that when provided with a combination of EHI and training, practitioners used the information more often. Two studies measured doctors' use of electronic treatment guidelines, but showed that the electronic aspect of the guidelines did not mean that doctors followed the guidelines. This review provided no information on whether more frequent use of EHI translated into improved clinical practice or whether patients were better off when doctors or nurses used health information when treating them."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "All included studies were randomized controlled trials (clinical studies where people are randomly put into one of two or more treatment groups), which are considered high-quality sources of evidence. However, three of the four comparisons that we examined were supported by only one study each and single studies do not typically produce high-quality evidence. Overall, we rate the body of evidence in this review as low quality."
+    }
+  ]
+}

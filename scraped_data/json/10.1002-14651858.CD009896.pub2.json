@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009896.pub2",
+  "name": "Nutritional interventions for reducing gastrointestinal toxicity in adults undergoing radical pelvic radiotherapy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Across the developed world, an estimated 150,000 to 300,000 people are treated annually with pelvic radiotherapy and 80% will develop gastrointestinal (GI) symptoms during treatment. Acute GI symptoms are associated with a greater risk of chronic, often debilitating, GI symptoms. Up to one-third of patients are malnourished before pelvic radiotherapy and up to four-fifths of patients lose weight during treatment. Malnutrition is linked to a higher risk of GI toxicity, which can lead to breaks in radiotherapy and early cessation of chemotherapy, thus compromising the efficacy of the primary cancer treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of nutritional interventions for reducing GI toxicity in adults undergoing radical pelvic radiotherapy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Gynaecological Cancer Group's Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), Issue 4, 2012, MEDLINE and EMBASE to May 2012. We handsearched the citation lists of included studies and previous systematic reviews identified to identify further relevant trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies if they were randomised controlled trials (RCTs) or non-randomised studies with concurrent comparison groups including quasi-randomised trials, cluster RCTs, non-randomised trials, prospective and retrospective cohort studies, and case series of 30 or more patients. We only included studies if they assessed the effect of a nutritional intervention in adults aged 18 years or over undergoing radical pelvic radiotherapy as part of anticancer treatment for a primary pelvic malignancy. We excluded patients with stomas and a previous history of inflammatory bowel disease. Nutritional support interventions could be provided at any stage before or during pelvic radiotherapy and included dietary counselling; dietary modification of fibre, lactose or fat; supplementary foods or drinks or fortified foods; standard oral nutrition supplements including polymeric-, peptide- or amino acid-based supplements and those where novel substrates have been added; enteral tube feeds; or parenteral nutrition (partial or total). We excluded probiotics, prebiotics and synbiotics."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. We contacted study authors to obtain missing data. We assessed bias for each of the included studies using the bias assessment tables in the Cochrane software Review Manager5. We performed meta-analysis, when indicated, using the Mantel-Haenszel fixed-effect method or inverse variance fixed-effect method displayed with heterogeneity. We undertook meta-analyses on trials evaluating dietary modification against standard treatment for diarrhoea at the end of radiotherapy and for change in weight from baseline to end of radiotherapy."
+    },
+    {
+      "heading": "Main results",
+      "text": "The searches identified 7558 titles, and we excluded 7513 during title and abstract searches. We reviewed 45 papers in full, and excluded 39. We identified four studies on handsearching of the references, which, along with the six eligible papers from the database search, led to 10 studies being included. Four studies, three of which were RCTs and one prospective study, investigated the effect of elemental diet on GI symptoms; one RCT investigated the effect of dietary modification and elemental diet; and five RCTs investigated dietary modification. Studies were varied in terms of risk of bias. Data were dichotomised for presence and absence of diarrhoea at the end of radiotherapy for four trials evaluating dietary modification comprising modified fat, lactose, fibre or combinations of these dietary changes. A reduction in diarrhoea was demonstrated with nutritional intervention (risk ratio (RR) 0.66; 95% confidence interval (CI) 0.51 to 0.87, four studies, 413 participants, moderate quality of evidence) with low heterogeneity (Chi2 = 3.50, I2 = 14%). Two trials evaluating dietary modification on weight change (comparing baseline and end of radiotherapy) showed no difference between intervention or control (mean difference (MD) -0.57 kg; 95% CI -1.22 to 0.09) with low heterogeneity (Chi2 = 1.41, I2 = 29%). Generally adverse effects were poorly reported in included studies. Elemental diet in particular was poorly tolerated. GI symptoms or toxicity > 6 months after radiotherapy was not reported in included studies"
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There have been benefits demonstrated with dietary modification during pelvic radiotherapy to reduce diarrhoea. Those diets included single interventions or combinations of modified fat, lactose-restriction, fat-restriction and fibre supplementation. We were unable to meta-analyse elemental diet, as data were not available. We considered some of the studies to be at high risk of bias. There have been recent advances in novel, more targeted radiotherapy techniques, such that the findings of older studies need to be interpreted with caution. In addition, there were problems with compliance and palatability with some of the interventions, particularly elemental diet, which limits its usefulness in clinical practice."
+    }
+  ],
+  "pls_title": "Do nutritional interventions reduce gastrointestinal toxicity in adults undergoing radical pelvic radiotherapy?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Research has shown that nutrition and radiotherapy have effects on each other. People with malnutrition tend to get more bowel side effects during radiotherapy. It has also been shown that many people lose weight during radiotherapy due to the treatment side effects. These side effects can lead to some people needing gaps in their radiotherapy and sometimes they even need to stop it entirely. This can reduce the chance of cancer cure. This review looked at the literature for providing extra nourishment or changes in diet to patients before or during radiotherapy, to determine whether this is of benefit in terms of reducing bowel symptoms, improving nutritional status and quality of life."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Searches of all relevant sources of medical information identified 7558 articles, and, after initial screening of all these articles, we selected 45 as being suitable for this review. On reading the summaries of these 45 trials, 10 were suitable to be included in this review. We included trials that looked at the effects of a nutritional intervention in adults aged 18 years or over having radical pelvic radiotherapy as part of anticancer treatment for a primary pelvic cancer. We excluded patients with stomas and a previous history of inflammatory bowel disease."
+    },
+    {
+      "heading": "Key results",
+      "text": "Results showed that studies evaluating dietary changes, including changes in dietary fat, fibre and lactose, during radiotherapy reduced diarrhoea at the end of treatment. However, these dietary changes did not seem to improve patients' weights."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "While some changes to diet during radiotherapy may benefit patients by reducing diarrhoea, it is important to recognise that some of the studies reviewed were dated and there have been changes in radiotherapy technique since then that may give patients less diarrhoea anyway. In addition, many studies were of poor quality and, therefore, only a small number were able to be included in this review. Some interventions described, for example, having to take a liquid diet, were not acceptable as many patients found them difficult to tolerate and were unable to take them completely."
+    }
+  ]
+}

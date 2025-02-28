@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD013377.pub2",
+  "name": "Therapeutic vaccines for advanced non‐small cell lung cancer",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "New strategies in immunotherapy with specific antigens that trigger an anti-tumour immune response in people with lung cancer open the possibility of developing therapeutic vaccines aimed at boosting the adaptive immune response against cancer cells."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of different types of therapeutic vaccines for people with advanced non-small cell lung cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, Wanfang Data, and China Journal Net (CNKI) up to 22 August 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel-group, randomised controlled trials evaluating a therapeutic cancer vaccine, alone or in combination with other treatments, in adults (> 18 years) with advanced non-small cell lung cancer (NSCLC), whatever the line of treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Our primary outcomes were overall survival, progression-free survival, and serious adverse events; secondary outcomes were three- and five-year survival rates and health-related quality of life."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 studies with 2177 participants. The outcome analyses included only 2045 participants (1401 men and 644 women). The certainty of the evidence varied by vaccine and outcome, and ranged from moderate to very low. We report only the results for primary outcomes here.\nTG4010\nThe addition of the vector-based vaccine, TG4010, to chemotherapy, compared with chemotherapy alone in first-line treatment, may result in little to no difference in overall survival (hazard ratio (HR) 0.83, 95% confidence interval (CI) 0.65 to 1.05; 2 studies, 370 participants; low-certainty evidence). It may increase progression-free survival slightly (HR 0.74, 95% CI 0.55 to 0.99; 1 study, 222 participants; low-certainty evidence). It may result in little to no difference in the proportion of participants with at least one serious treatment-related adverse event, but the evidence is very uncertain (risk ratio (RR) 0.70, 95% CI 0.23 to 2.19; 2 studies, 362 participants; very low-certainty evidence).\nEpidermal growth factor vaccine\nEpidermal growth factor vaccine, compared to best supportive care as switch maintenance treatment after first-line chemotherapy, may result in little to no difference in overall survival (HR 0.82, 95% CI 0.66 to 1.02; 1 study, 378 participants; low-certainty evidence), and in the proportion of participants with at least one serious treatment-related adverse event (RR 1.32, 95% CI 0.88 to 1.98; 2 studies, 458 participants; low-certainty evidence).\nhTERT (vx-001)\nThe hTERT (vx-001) vaccine compared to placebo as maintenance treatment after first-line chemotherapy may result in little to no difference in overall survival (HR 0.97, 95% CI 0.70 to 1.34; 1 study, 190 participants).\nRacotumomab\nRacotumomab compared to placebo as a switch maintenance treatment post-chemotherapy was assessed in one study with 176 participants. It may increase overall survival (HR 0.63, 95% CI 0.46 to 0.87). It may make little to no difference in progression-free survival (HR 0.73, 95% CI 0.53 to 1.00) and in the proportion of people with at least one serious treatment-related adverse event (RR 1.03, 95% CI 0.15 to 7.18).\nRacotumomab versus docetaxel as switch maintenance therapy post-chemotherapy was assessed in one study with 145 participants. The study did not report hazard rates on overall survival or progression-free survival time, but the difference in median survival times was very small – less than one month. Racotumomab may result in little to no difference in the proportion of people with at least one serious treatment-related adverse event compared with docetaxel (RR 0.89, 95% CI 0.44 to 1.83).\nPersonalised peptide vaccine\nPersonalised peptide vaccine plus docetaxel compared to docetaxel plus placebo post-chemotherapy treatment may result in little to no difference in overall survival (HR 0.80, 95% CI 0.42 to 1.52) and progression-free survival (HR 0.78, 95% CI 0.43 to 1.42).\nOSE2101\nThe OSE2101 vaccine compared with chemotherapy, after chemotherapy or immunotherapy, was assessed in one study with 219 participants. It may result in little to no difference in overall survival (HR 0.86, 95% CI 0.62 to 1.19). It may result in a small difference in the proportion of people with at least one serious treatment-related adverse event (RR 0.95, 95% CI 0.91 to 0.99).\nSRL172\nThe SRL172 vaccine of killed Mycobacterium vaccae, added to chemotherapy, compared to chemotherapy alone, may result in no difference in overall survival, and may increase the proportion of people with at least one serious treatment-related adverse event (RR 2.07, 95% CI 1.76 to 2.43; 351 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Adding a vaccine resulted in no differences in overall survival, except for racotumomab, which showed some improvement compared to placebo, but the difference in median survival time was very small (1.4 months) and the study only included 176 participants.\nRegarding progression-free survival, we observed no differences between the compared treatments, except for TG4010, which may increase progression-free survival slightly. There were no differences between the compared treatments in serious treatment-related adverse events, except for SRL172 (killed Mycobacterium vaccae) added to chemotherapy, which was associated with an increase in the proportion of participants with at least one serious treatment-related adverse event, and OSE2101, which may decrease slightly the proportion of people having at least one serious treatment-related adverse event.\nThese conclusions should be interpreted cautiously, as the very low- to moderate-certainty evidence prevents drawing solid conclusions: many vaccines were evaluated in a single study with small numbers of participants and events."
+    }
+  ],
+  "pls_title": "Do cancer vaccines help people with advanced non-small cell lung cancer?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- The vaccines evaluated in this review do not improve peoples' survival, or progression-free survival, or do so to a negligible extent.\n- Unwanted effects of the vaccines are not frequent."
+    },
+    {
+      "heading": "What is lung cancer?",
+      "text": "Lung cancer is one of the most common cancers worldwide. Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, accounting for around 87% of lung cancers. Non-small cell lung cancer is often diagnosed when it is at an advanced stage, which is associated with high death rates and a short life expectancy."
+    },
+    {
+      "heading": "How is non-small cell lung cancer treated?",
+      "text": "Most of these cancers are treated first with chemotherapy – that is, medicine consisting of powerful chemicals to kill fast-growing cancer cells. New therapies to improve survival rates for people with NSCLC are focused on treatment with immunotherapy after chemotherapy. Cancer vaccines are a type of immunotherapy. Unlike vaccines to protect us from disease, cancer vaccines are for people who already have cancer. Therapeutic cancer vaccines aim to stimulate the immune system to recognise and destroy cancer cells."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether vaccines lengthen people's survival time and time without disease progression, and whether they are associated with any unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at therapeutic cancer vaccines alone or in combination with chemotherapy compared with supportive care, no treatment, or placebo (inactive or 'dummy' medicine) in people with advanced NSCLC.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 10 studies that involved 2177 participants with advanced NSCLC. The biggest study involved 419 people and the smallest study 50. Seven different types of vaccines were evaluated. Three vaccines were evaluated in 2 studies each: TG4010 vector-based vaccine; epidermal growth factor vaccine; and racotumomab. The remaining 4 vaccines were each evaluated in a single study."
+    },
+    {
+      "heading": "Main results",
+      "text": "- None of the vaccines increased participants' survival time, except racotumomab, which may improve it slightly compared to placebo. The median survival time for those in the racotumomab vaccine group was 8.2 months, compared to 6.8 months in the group that did not receive the vaccine. (The median is the middle value of a set of numbers.)\n- None of the vaccines improved progression-free survival time, except TG4010, which may increase it slightly. The median progression-free survival time for people in the TG4010 vaccine group was 5.9 months, compared to 5.1 months in the non-vaccine group.\n- The 7 different vaccines tested largely appear to be safe: there were no differences between the people given vaccines and those not given vaccines in terms of serious adverse (unwanted) events. However, 1 vaccine (SLR172) added to chemotherapy increased the proportion of people having at least 1 serious adverse event. A different vaccine (OSE2101) may result in a slight decrease in the proportion of people having at least 1 serious adverse event."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence varied from moderate to very low for the different vaccines and outcomes assessed, mainly because the studies were small and there were not enough studies to be sure of the results."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is current to August 2023."
+    }
+  ]
+}

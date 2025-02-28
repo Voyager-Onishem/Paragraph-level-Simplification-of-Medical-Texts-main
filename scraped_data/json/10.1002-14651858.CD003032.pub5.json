@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD003032.pub5",
+  "name": "Ethosuximide, sodium valproate or lamotrigine for absence seizures in children and adolescents ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the Cochrane Review previously published in 2019.\nAbsence seizures (AS) are brief epileptic seizures which present in childhood and adolescence. Depending on clinical features and electroencephalogram (EEG) findings they are divided into typical, atypical absences, and absences with special features. Typical absences are characterised by sudden loss of awareness and an EEG typically shows generalised spike wave discharges at three cycles per second. Ethosuximide, valproate and lamotrigine are currently used to treat absence seizures. This review aims to determine the best choice of antiepileptic drug for children and adolescents with AS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the evidence for the effects of ethosuximide, valproate and lamotrigine as treatments for children and adolescents with absence seizures (AS), when compared with placebo or each other."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the latest update we searched the Cochrane Register of Studies (CRS Web, 22 September 2020) and MEDLINE (Ovid, 1946 to September 21, 2020). CRS Web includes randomised or quasi-randomised, controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialized Registers of Cochrane Review Groups including Epilepsy. No language restrictions were imposed. In addition, we contacted Sanofi Winthrop, Glaxo Wellcome (now GlaxoSmithKline) and Parke Davis (now Pfizer), manufacturers of sodium valproate, lamotrigine and ethosuximide respectively."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised parallel group monotherapy or add-on trials which include a comparison of any of the following in children or adolescents with AS: ethosuximide, sodium valproate, lamotrigine, or placebo."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Outcome measures were: 1. proportion of individuals seizure free at one, three, six, 12 and 18 months post randomisation; 2. individuals with a 50% or greater reduction in seizure frequency; 3. normalisation of EEG and/or negative hyperventilation test; and 4. adverse effects. Data were independently extracted by two review authors. Results are presented as risk ratios (RR) with 95% confidence intervals (95% CIs). We used GRADE quality assessment criteria to evaluate the certainty of evidence for the outcomes derived from all included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "On the basis of our selection criteria, we included no new studies in the present review. Eight small trials (total number of participants: 691) were included from the earlier review. Six of them were of poor methodological quality (unclear or high risk of bias) and seven recruited less than 50 participants. There are no placebo-controlled trials for ethosuximide or valproate, and hence, no evidence from randomised controlled trials (RCTs) to support a specific effect on AS for either of these two drugs. Due to the differing methodologies used in the trials comparing ethosuximide, lamotrigine and valproate, we thought it inappropriate to undertake a meta-analysis. One large randomised, parallel double-blind controlled trial comparing ethosuximide, lamotrigine and sodium valproate in 453 children with newly diagnosed childhood absence epilepsy found that at 12 months, seizure freedom was higher in patients taking ethosuximide (70/154, 45%) than in patients taking lamotrigine (31/146, 21%; P < 0.001), with no difference between valproate (64/146, 44%) and ethosuximide (70/154, 45%; P > 0.05).\nIn this study, the frequency of treatment failures due to intolerable adverse events was significantly different among the treatment groups, with the largest proportion of adverse events in the valproic acid group (48/146, 33%) compared to the ethosuximide (38/154, 25%) and the lamotrigine (29/146, 20%) groups (P < 0.037). Overall, this large study demonstrates the superior effectiveness of ethosuximide and valproic acid compared to lamotrigine as initial monotherapy aimed to control seizures without intolerable adverse effects in children with childhood absence epilepsy. This study provided high certainty of the evidence for outcomes for which data were available. However, the certainty of the evidence provided by the other included studies was low, primarily due to risk of bias and imprecise results because of the small sample sizes. Hence, conclusions regarding the efficacy of ethosuximide, valproic acid and lamotrigine derive mostly from this single study."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Since the last version of this review was published, we have found no new studies. Hence, the conclusions remain the same as the previous update. With regards to both efficacy and tolerability, ethosuximide represents the optimal initial empirical monotherapy for children and adolescents with AS. However, if absence and generalised tonic-clonic seizures coexist, valproate should be preferred, as ethosuximide is probably inefficacious on tonic-clonic seizures."
+    }
+  ],
+  "pls_title": "Ethosuximide, sodium valproate or lamotrigine for absence seizures in children and adolescents",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a disorder where seizures are caused by abnormal electrical discharges from the brain. Absence epilepsy involves seizures that cause a sudden loss of awareness. It often starts in childhood or adolescence. Three antiepileptic drugs are often used for absence epilepsy: valproate, ethosuximide and lamotrigine.\nThis review aims to determine which of these three antiepileptic drugs is the best choice for the treatment of absence seizures in children and adolescents."
+    },
+    {
+      "heading": "Results",
+      "text": "The review found some evidence (based on eight small trials) that individuals taking lamotrigine are more likely to be seizure free than those using placebos. The review found robust evidence that patients taking ethosuximide or valproate are more likely to be seizure free than those using lamotrigine. However, because of the lower risk of adverse effects, the use of ethosuximide is preferred over valproate in patients with absence childhood epilepsy.\nWith regards to both efficacy and tolerability, ethosuximide represents the optimal initial empirical monotherapy for children and adolescents with absence seizures.\nThe evidence is current to September 2020."
+    }
+  ]
+}

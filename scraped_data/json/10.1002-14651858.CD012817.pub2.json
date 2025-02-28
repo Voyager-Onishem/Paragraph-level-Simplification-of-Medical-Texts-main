@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012817.pub2",
+  "name": "Dose‐escalated radiotherapy for clinically localized and locally advanced prostate cancer ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treatments for clinically localized prostate cancer include radical prostatectomy, external beam radiation therapy, brachytherapy, active surveillance, hormonal therapy, and watchful waiting. For external beam radiation therapy, oncological outcomes may be expected to improve as the dose of radiotherapy (RT) increases. However, radiation-mediated side effects on surrounding critical organs may also increase."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of dose-escalated RT in comparison with conventional dose RT for curative treatment of clinically localized and locally advanced prostate cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed a comprehensive search using multiple databases including trial registries and other sources of grey literature, up until 20 July 2022. We applied no restrictions on publication language or status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel-arm randomized controlled trials (RCTs) of definitive RT in men with clinically localized and locally advanced prostate adenocarcinoma. RT was dose-escalated RT (equivalent dose in 2 Gy [EQD2] ≥ 74 Gy, lesser than 2.5 Gy per fraction) versus conventional RT (EQD2 < 74 Gy, 1.8 Gy or 2.0 Gy per fraction). Two review authors independently classified studies for inclusion or exclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently abstracted data from the included studies. We performed statistical analyses by using a random-effects model and interpreted them according to the Cochrane Handbook for Systematic Reviews of Interventions. We used GRADE guidance to rate the certainty of the evidence of RCTs."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies with 5437 men in an analysis comparing dose-escalated RT versus conventional dose RT for the treatment of prostate cancer. The mean participant age ranged from 67 to 71 years. Almost all men had localized prostate cancer (cT1-3N0M0).\nPrimary outcomes\nDose-escalated RT probably results in little to no difference in time to death from prostate cancer (hazard ratio [HR] 0.83, 95% CI 0.66 to 1.04; I2 = 0%; 8 studies; 5231 participants; moderate-certainty evidence). Assuming a risk of death from prostate cancer of 4 per 1000 at 10 years in the conventional dose RT group, this corresponds to 1 fewer men per 1000 (1 fewer to 0 more) dying of prostate cancer in the dose-escalated RT group.\nDose-escalated RT probably results in little to no difference in severe RT toxicity of grade 3 or higher late gastrointestinal (GI) toxicity (RR 1.72, 95% CI 1.32 to 2.25; I2 = 0%; 8 studies; 4992 participants; moderate-certainty evidence); 23 more men per 1000 (10 more to 40 more) in the dose-escalated RT group assuming severe late GI toxicity as 32 per 1000 in the conventional dose RT group. Dose-escalated RT probably results in little to no difference in severe late genitourinary (GU) toxicity (RR 1.25, 95% CI 0.95 to 1.63; I2 = 0%; 8 studies; 4962 participants; moderate-certainty evidence); 9 more men per 1000 (2 fewer to 23 more) in the dose-escalated RT group assuming severe late GU toxicity as 37 per 1000 in the conventional dose RT group.\nSecondary outcomes\nDose-escalated RT probably results in little to no difference in time to death from any cause (HR 0.98, 95% CI 0.89 to 1.09; I2 = 0%; 9 studies; 5437 participants; moderate-certainty evidence). Assuming a risk of death from any cause of 101 per 1000 at 10 years in the conventional dose RT group, this corresponds to 2 fewer men per 1000 (11 fewer to 9 more) in the dose-escalated RT group dying of any cause.\nDose-escalated RT probably results in little to no difference in time to distant metastasis (HR 0.83, 95% CI 0.57 to 1.22; I2 = 45%; 7 studies; 3499 participants; moderate-certainty evidence). Assuming a risk of distant metastasis of 29 per 1000 in the conventional dose RT group at 10 years, this corresponds to 5 fewer men per 1000 (12 fewer to 6 more) in the dose-escalated RT group developing distant metastases.\nDose-escalated RT may increase overall late GI toxicity (RR 1.27, 95% CI 1.04 to 1.55; I2 = 85%; 7 studies; 4328 participants; low-certainty evidence); 92 more men per 1000 (14 more to 188 more) in the dose-escalated RT group assuming overall late GI toxicity as 342 per 1000 in the conventional dose RT group. However, dose-escalated RT may result in little to no difference in overall late GU toxicity (RR 1.12, 95% CI 0.97 to 1.29; I2 = 51%; 7 studies; 4298 participants; low-certainty evidence); 34 more men per 1000 (9 fewer to 82 more) in the dose-escalated RT group assuming overall late GU toxicity as 283 per 1000 in the conventional dose RT group.\nBased on long-term follow-up (up to 36 months), dose-escalated RT may result or probably results in little to no difference in the quality of life using 36-Item Short Form Survey; physical health (MD -3.9, 95% CI -12.78 to 4.98; 1 study; 300 participants; moderate-certainty evidence) and mental health (MD -3.6, 95% CI -83.85 to 76.65; 1 study; 300 participants; low-certainty evidence), respectively."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared to conventional dose RT, dose-escalated RT probably results in little to no difference in time to death from prostate cancer, time to death from any cause, time to distant metastasis, and RT toxicities (except overall late GI toxicity). While dose-escalated RT may increase overall late GI toxicity, it may result, or probably results, in little to no difference in physical and mental quality of life, respectively."
+    }
+  ],
+  "pls_title": "Dose-escalated radiotherapy for curative treatment in men with clinically localized prostate cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How does a higher radiation dose compare to a lower dose when treating prostate cancer that is limited to the prostate gland?"
+    },
+    {
+      "heading": "Background",
+      "text": "Treatment for prostate cancer includes surgery, radiation therapy, hormone therapy, and chemotherapy. Radiation therapy (RT) is a treatment that uses beams of intense energy to kill cancer cells. So-called dose-escalated RT has an increased radiation dose compared to usual or 'normal' (conventional) dose RT, in order to better kill cancer, but that may also increase unwanted effects that come from the radiation hitting other organs like the bladder and rectum. We did this study to better understand how the two types of radiation compare."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found nine studies in 5437 men comparing dose-escalated RT with conventional dose RT. Most of the patients were in their late 60s to early 70s, and most of them had early-stage prostate cancer."
+    },
+    {
+      "heading": "Key results",
+      "text": "Compared to conventional dose RT, dose-escalated RT probably has little to no effect on the risk of dying of prostate cancer. It also probably results in little to no effect on severe bowel or urinary-related unwanted effects in the long term. There is probably also little to no difference in the risk of dying from any cause or from developing spread to other organs (such as the bones or lymph nodes). Depending on the particular long-term quality of life measure, dose-escalated RT probably has or may have little to no effect on physical health and mental health, respectively."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The certainty of the evidence for all main outcomes was moderate or low. The true effect may be quite different from what this review shows."
+    }
+  ]
+}

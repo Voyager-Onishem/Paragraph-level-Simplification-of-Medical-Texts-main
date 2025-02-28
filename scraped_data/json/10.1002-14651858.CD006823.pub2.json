@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006823.pub2",
+  "name": "Wound drainage after axillary dissection for carcinoma of the breast",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Axillary dissection is commonly performed for breast carcinoma. It is uncertain whether insertion of a drain reduces complication rates."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of wound drainage after axillary dissection for breast carcinoma on the incidence of postoperative seroma formation. Secondary outcome measures include the incidence of infection and length of hospital stay."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Wound and Breast Cancer Group's Specialised Registers (22 February 2013), MEDLINE (1950 to 22 February 2013), EMBASE (1966 to 22 February 2013), the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov (22 February 2013) for all prospectively registered and ongoing trials (22 February 2013). Reference lists of included studies were handsearched by two independent review authors to look for additional eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) comparing wound drainage versus no wound drainage in individuals after axillary dissection for the treatment of breast carcinoma were included. All disease stages were considered. Breast-conserving surgery and mastectomy were considered. Patients undergoing sentinel node biopsy without axillary dissection were not included. No limits were applied to language or study location. Two review authors independently determined the eligibility of each study."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data for each included study using a predesigned data extraction proforma and assessed risk of bias using The Cochrane Collaboration's 'Risk of bias' tool. Discrepancies were resolved by consensus discussion with a third review author. Dichotomous variables were analysed using a Mantel-Haenszel model to produce odds ratios (ORs). Continuous variables were analysed using an inverse variance model to produce a mean difference (MD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven RCTs including 960 participants were identified. The quality of trials was generally low, with several studies at risk of selection bias, and no studies used blinding during treatment or outcome assessment. There was a high level of statistical variation between the studies, which therefore reduces the reliability of the evidence. The OR for seroma formation was 0.46 (95% confidence interval (CI) 0.23 to 0.91, P = 0.03) in favour of a reduced incidence of seroma in participants with drains inserted. There was no significant difference in infection rates between drainage and no drainage groups (OR = 0.70; 95% CI 0.44 to 1.12, P = 0.14). The mean difference in length of hospital stay, reported in four trials consisting of 600 participants, was 1.47 days greater in the drained population (95% CI 0.67 to 2.28, P = 0.0003). A mean difference of 0.79 fewer postoperative seroma aspirations was found in the drained population (95% CI 1.23 to 0.35 fewer, P = 0.0004) in two trials including 212 participants. No significant difference in volume of seroma aspirations was reported (MD -19.44, 95% CI -59.45 to 20.57, P = 0.34) in three trials including 519 participants. No significant difference in the incidence of lymphoedema was noted (OR 2.31 favouring no drainage, 95% CI 0.47 to 11.37, P = 0.30), with only six instances reported in three trials of 360 participants, nor was any significant difference in the incidence of haematoma observed (OR 1.68, 95% CI 0.33 to 8.51, P = 0.53), with only five instances reported in two trials of 314 participants."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited quality evidence that insertion of a drain following axillary lymphadenectomy reduced the odds of developing a seroma and reduced the number of post-operative seroma aspirations. These benefits should be balanced against an increased length of hospital stay in the drained population."
+    }
+  ],
+  "pls_title": "Drainage tube placement after lymph gland removal from the armpit for breast cancer",
+  "pls_type": "long",
+  "pls": "Breast cancer is one of the most common malignancies in women, accounting for a large number of deaths worldwide each year. Sometimes, an essential part of breast cancer management includes an operation to remove the lymph nodes in the armpit, called an 'axillary dissection', sometimes also known as 'axillary lymphadenectomy'. This operation may be needed if the cancer has spread (metastasised) to the armpit. One consequence of removing some, or all, of these lymph nodes is that a collection of fluid called a seroma can develop in the armpit. This can be uncomfortable and may require drainage (also known as aspiration). Other complications include risks of infection, bleeding and arm lymphoedema. One strategy that is widely used to try to minimise these complications is the insertion of a plastic drainage tube into the armpit during surgery that allows any fluid collecting in the armpit to drain away. However, debate is ongoing amongst surgeons regarding the value of such drains because they can cause pain and discomfort and may delay discharge from hospital.\nThis Cochrane review aims to determine whether drain tube insertion reduces complication rates or is associated with any risks or harms. We analysed seven randomised controlled trials including 960 participants that compared drain insertion with no drainage after axillary lymphadenectomy for the treatment of breast cancer. We found that the chance of getting a seroma if a drain was inserted was less than if no drain was inserted (0.46 times less likely), and that the number of aspirations required (using a needle to drain seroma fluid in the outpatient clinic) was lower (on average, 0.79 fewer per participant). These benefits must be balanced against a longer average hospital stay of 1.47 days in the drained population, although increasingly patients can be discharged with their drain in place, to be removed at a later date. Risk of infection, volume of fluid aspirated and rates of lymphoedema (arm swelling) or haematoma (bruising) did not differ between drained and undrained participants."
+}

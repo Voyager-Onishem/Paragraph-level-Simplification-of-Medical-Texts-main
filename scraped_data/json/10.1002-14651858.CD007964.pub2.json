@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007964.pub2",
+  "name": "Cognitive behavioural therapy plus standard care versus standard care for people with schizophrenia ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cognitive behavioural therapy (CBT) is a psychosocial treatment that aims to re-mediate distressing emotional experiences or dysfunctional behaviour by changing the way in which a person interprets and evaluates the experience or cognates on its consequence and meaning. This approach helps to link the person's feelings and patterns of thinking which underpin distress. CBT is now recommended by the National Institute for Health and Care Excellence (NICE) as an add-on treatment for people with a diagnosis of schizophrenia. This review is also part of a family of Cochrane CBT reviews for people with schizophrenia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of cognitive behavioural therapy added to standard care compared with standard care alone for people with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Trials Register (up to March 6, 2017). This register is compiled by systematic searches of major resources (including AMED, BIOSIS CINAHL, Embase, MEDLINE, PsycINFO, PubMed, and registries of clinical trials) and their monthly updates, handsearches, grey literature, and conference proceedings, with no language, date, document type, or publication status limitations for inclusion of records into the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected all randomised controlled clinical trials (RCTs) involving people diagnosed with schizophrenia or related disorders, which compared adding CBT to standard care with standard care given alone. Outcomes of interest included relapse, rehospitalisation, mental state, adverse events, social functioning, quality of life, and satisfaction with treatment.We included studies fulfilling the predefined inclusion criteria and reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We complied with the Cochrane recommended standard of conduct for data screening and collection. Where possible, we calculated relative risk (RR) and its 95% confidence interval (CI) for binary data and mean difference (MD) and its 95% confidence interval for continuous data. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review now includes 60 trials with 5,992 participants, all comparing CBT added to standard care with standard care alone. Results for the main outcomes of interest (all long term) showed no clear difference between CBT and standard care for relapse (RR 0.78, 95% CI 0.61 to 1.00; participants = 1538; studies = 13, low-quality evidence). Two trials reported global state improvement. More participants in the CBT groups showed clinically important improvement in global state (RR 0.57, 95% CI 0.39 to 0.84; participants = 82; studies = 2 , very low-quality evidence). Five trials reported mental state improvement. No differences in mental state improvement were observed (RR 0.81, 95% CI 0.65 to 1.02; participants = 501; studies = 5, very low-quality evidence). In terms of safety, adding CBT to standard care may reduce the risk of having an adverse event (RR 0.44, 95% CI 0.27 to 0.72; participants = 146; studies = 2, very low-quality evidence) but appears to have no effect on long-term social functioning (MD 0.56, 95% CI -2.64 to 3.76; participants = 295; studies = 2, very low-quality evidence, nor on long-term quality of life (MD -3.60, 95% CI -11.32 to 4.12; participants = 71; study = 1, very low-quality evidence). It also has no effect on long-term satisfaction with treatment (measured as 'leaving the study early') (RR 0.93, 95% CI 0.77 to 1.12; participants = 1945; studies = 19, moderate-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Relative to standard care alone, adding CBT to standard care appears to have no effect on long-term risk of relapse. A very small proportion of the available evidence indicated CBT plus standard care may improve long term global state and may reduce the risk of adverse events. Whether adding CBT to standard care leads to clinically important improvement in patients' long-term mental state, quality of life, and social function remains unclear. Satisfaction with care (measured as number of people leaving the study early) was no higher for participants receiving CBT compared to participants receiving standard care. It should be noted that although much research has been carried out in this area, the quality of evidence available is poor - mostly low or very low quality and we still cannot make firm conclusions until more high quality data are available."
+    }
+  ],
+  "pls_title": "Is Cognitive behavioural therapy as effective as standard care for people with schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "People with serious mental illnesses such as schizophrenia can experience severe disturbances in their thought processes, which may lead to delusions (beliefs that are not based on reality) and hallucinations (seeing and hearing things that are not really there). The mainstay (provides most support for the condition) treatment for schizophrenia is antipsychotic medication, but these medications are not always successful on their own and additional treatments such as psychosocial therapies (including cognitive behavioural therapy (CBT)) are recommended for people with schizophrenia. CBT aims to help people re-evaluate their views of their symptoms. This process is thought to help reduce distress and change behaviours. It is often used to help people with illnesses such as anxiety and depression. However, CBT is expensive and the evidence for its effectiveness is not clear, particularly for people with schizophrenia."
+    },
+    {
+      "heading": "Searches",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched the specialised register for trials that allocated people with schizophrenia to receive either CBT or standard care (the care the participant would normally receive for their condition, in the area the trial was conducted), up to March 2017. These searches found 1730 records. The review authors inspected and screened these records."
+    },
+    {
+      "heading": "Main results",
+      "text": "After screening search results we were able to include 60 trials with 5992 participants. These studies randomly allocated people with schizophrenia to receive either CBT as an add-on treatment to their standard care or standard care alone. The quality of evidence for our main outcomes of interest was mainly very low, or at best, low. Results showed that adding CBT to standard care did not appear to affect the long-term risk of relapse. Only two trials (82 participants) provided useful data for long-term global state; these data showed CBT could be better for long-term improvement in global state than standard care alone. Adding CBT to standard care may reduce the risk of adverse events but appears to have no advantage over standard care for improving long-term mental state. Whether adding CBT to standard care improves patient quality of life or social function also remains unclear."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Currently, the evidence available is unclear and not robust enough to make firm conclusions about the effectiveness of adding CBT to standard care for people with schizophrenia compared to standard care alone."
+    }
+  ]
+}

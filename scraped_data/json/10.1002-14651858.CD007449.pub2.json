@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007449.pub2",
+  "name": "Blood pressure lowering efficacy of dual alpha and beta blockers for primary hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Drugs with combined alpha and beta blocking activity are commonly prescribed to treat hypertension. However, the blood pressure (BP) lowering efficacy of this class of beta blockers has not been systematically reviewed and quantified."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the dose-related effects of various types of dual alpha and beta adrenergic receptor blockers (dual receptor blockers) on systolic and diastolic blood pressure versus placebo in patients with primary hypertension."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hypertension Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and ClinicalTrials.gov for randomized controlled trials up to October 2014. The WHO International Clinical Trials Registry Platform (ICTRP) is searched for inclusion in the Group's Specialised Register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized double blind placebo controlled parallel or cross-over trials. Studies contained a beta blocker monotherapy arm with a fixed dose. Patients enrolled in the studies had primary hypertension at baseline. Duration of the studies was from three to 12 weeks. Drugs in this class of beta blockers are carvedilol, dilevalol and labetalol."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (GW and AL) confirmed the inclusion of studies and extracted the data independently. RevMan 5.3 was used to synthesize data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight studies examining the blood pressure lowering efficacy of carvedilol and labetalol in 1493 hypertensive patients. Five of the included studies were parallel design; three were cross-over design. The two largest included studies were unpublished carvedilol studies. The estimates of BP lowering effect (systolic BP/diastolic BP millimeters of mercury; SPB/DBP mm Hg) were -4 mm Hg (95% confidence intervals (CI) -6 to -2)/-3 mm Hg (95% CI -4 to -2) for carvedilol (>1000 subjects) and -10 mm Hg (95% CI -14 to -7)/-7 mm Hg (95% CI -9 to -5) for labetalol (110 subjects). The effect of labetalol is likely to be exaggerated due to high risk of bias. Carvedilol, within the recommended dose range, did not show a significant dose response effect for SBP or DBP. Carvedilol had little or no effect on pulse pressure (-1 mm Hg) and did not change BP variability. Overall, once and twice the starting dose of carvedilol and labetalol lowered BP by -6 mm Hg (95% CI -7 to -4) /-4 mm Hg (95% CI -4 to -3) (low quality evidence) and lowered heart rate by five beats per minute (95% CI -6 to -4) (low quality evidence). Five studies (N = 1412) reported withdrawal due to adverse effects; the risk ratio was 0.88 (95% CI 0.54 to 1.42) (moderate quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review provides low quality evidence that in patients with mild to moderate hypertension, dual receptor blockers lowered trough BP by an average of -6/-4 mm Hg and reduced heart rate by five beats per minute. Due to the larger sample size from the two unpublished studies, carvedilol provided a better estimate of BP lowering effect than labetalol. The BP lowering estimate from combining carvedilol once and twice the starting doses is -4/-3 mm Hg. Doses higher than the recommended starting dose did not provide additional BP reduction. Higher doses of dual receptor blockers caused more bradycardia than lower doses. Based on indirect comparison with other classes of drugs, the blood pressure lowering effect of dual alpha- and beta-receptor blockers is less than non-selective, beta1 selective and partial agonist beta blockers, as well as thiazides and drugs inhibiting the renin angiotensin system. Dual blockers also had little or no effect on reducing pulse pressure, which is similar to the other beta-blocker classes, but less than the average reduction of pulse pressure seen with thiazides and drugs inhibiting the renin angiotensin system. Patients taking dual receptor blockers were not more likely to withdraw from the study compared to patients taking placebo."
+    }
+  ],
+  "pls_title": "Alpha and beta dual receptor blockers for treatment of high blood pressure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Alpha and beta dual receptor blockers are a subclass of beta blockers which are commonly used to treat high blood pressure (BP). Drugs in this class include carvedilol (Coreg), labetalol (Trandate) and dilevalol (Unicard). We searched for and found all the relevant studies to examine how well this class of drugs lowered blood pressure."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found eight clinical studies in October 2014, that examined the blood pressure lowering effect of carvedilol and labetalol in 1493 participants with high blood pressure. These people were randomly assigned to receive either a fixed dose of dual receptor blockers or a placebo for 3 to 12 weeks."
+    },
+    {
+      "heading": "Key results",
+      "text": "On average, dual receptor blockers lowered systolic BP by six points, diastolic BP by four points and heart rate by five beats per minute in patients with mild to moderate high blood pressure. There were more data on the effects of carvedilol. On average, carvedilol lowered systolic BP by four points and diastolic BP by three points. Higher doses of dual receptor blockers caused more slowing of heart rate but not more lowering of BP. The BP lowering effect of dual receptor blockers was less than other classes of BP lowering drugs. Patients taking dual receptor blockers were not more likely to withdraw from the study compared to patients taking placebo."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was judged to be low due to various types of bias that could exaggerate the effect. A low quality of evidence means future research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate."
+    }
+  ]
+}

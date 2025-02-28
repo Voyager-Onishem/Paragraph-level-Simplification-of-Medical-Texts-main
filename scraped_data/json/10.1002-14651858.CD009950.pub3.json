@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009950.pub3",
+  "name": "Pharmacological treatment for pain in Guillain‐Barré syndrome",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pain in Guillain-Barré syndrome (GBS) is common, yet it is often under recognised and poorly managed. In recent years, a variety of pharmacological treatment options have been investigated in clinical trials for people with GBS-associated pain. This is an updated version of the original Cochrane review published in Issue 10, 2013."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of pharmacological treatments for various pain symptoms associated with GBS, during both the acute and convalescent (three months or more after onset) phases of GBS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 3 November 2014, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE and EMBASE. In addition, we searched ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs in participants with confirmed GBS, with pain assessment as either the primary or secondary outcome. For cross-over trials, an adequate washout period between phases was required for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the titles and abstracts of identified records, selected studies for inclusion, extracted eligible data, cross-checked the data for accuracy and assessed the risk of bias of each study."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three short-term RCTs, which enrolled 277 randomised participants with acute phase GBS, were included. Risk of bias in the included studies was generally unclear due to insufficient information. None of the included studies reported the primary outcome selected for this review, which was number of patients with self reported pain relief of 50% or greater. One small study investigated seven-day regimens of gabapentin versus placebo. Pain was rated on a scale from 0 (no pain) to 10 (maximum pain). Amongst the 18 participants, significantly lower mean pain scores were found at the endpoint (day 7) in the gabapentin phase compared to the endpoint of the placebo phase (mean difference -3.61, 95% CI -4.12 to -3.10) (very low quality evidence). For adverse events, no significant differences were found in the incidence of nausea (risk ratio (RR) 0.50, 95% CI 0.05 to 5.04) or constipation (RR 0.14, 95% CI 0.01 to 2.54). A second study enrolling 36 participants compared gabapentin, carbamazepine and placebo, all administered over seven days. Participants in the gabapentin group had significantly lower median pain scores on all treatment days in comparison to the placebo and carbamazepine groups (P < 0.05). There were no statistically significant differences in the median pain scores between the carbamazepine and placebo groups from day 1 to day 3, but from day 4 until the end of the study significantly lower median pain scores were noted in the carbamazepine group (P < 0.05) (very low quality evidence). There were no adverse effects of gabapentin or carbamazepine reported, other than sedation. One large RCT (223 participants, all also treated with intravenous immunoglobulin), compared a five-day course of methylprednisolone with placebo and found no statistically significant differences in number of participants developing pain (RR 0.89, 95% CI 0.68 to 1.16), number of participants with decreased pain (RR 0.95, 95% CI 0.63 to 1.42) or number of participants with increased pain (RR 0.85, 95% CI 0.52 to 1.41) (low quality evidence). The study did not report whether there were any adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Since the last version of this review we found no new studies. While management of pain in GBS is essential and pharmacotherapy is widely accepted as being an important component of treatment, this review does not provide sufficient evidence to support the use of any pharmacological intervention in people with pain in GBS. Although reductions in pain severity were found when comparing gabapentin and carbamazepine with placebo, the evidence was limited and its quality very low. Larger, well-designed RCTs are required to further investigate the efficacy and safety of potential interventions for patients with pain in GBS. Additionally, interventions for pain in the convalescent phase of GBS should be investigated."
+    }
+  ],
+  "pls_title": "Drug treatment for pain in Guillain-Barré syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Our aim in this review was to find out whether medicines for pain in Guillain-Barré syndrome (GBS) are safe and effective."
+    },
+    {
+      "heading": "Background",
+      "text": "GBS is a rare disease that affects the nerves and nerve roots outside the brain and spinal cord. It occurs when the person's immune system attacks the nerves. The trigger is sometimes an infection. Pain in GBS is often under recognised and poorly managed."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We first carried out a wide search of medical databases to find studies that met the requirements for this review. We identified three studies, which involved 277 participants who were randomly assigned to different treatments for pain in GBS. Two studies compared a pain medicine (gabapentin or carbamazepine) with placebo (inactive treatment). The other study compared a steroid medicine with placebo."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "Two medicines, gabapentin and carbamazepine, reduced pain severity compared to placebo (inactive) treatment and they had few side effects. One study found that people taking gabapentin had less pain, sleepiness or need for additional pain killers than those given carbamazepine. However, these studies were small and the treatment period was short. One trial, with 223 participants, found that methylprednisolone, which is a steroid medicine, did not affect the numbers of people who developed pain or change the numbers with more pain or less pain compared with placebo. This study did not report whether there were any side effects.\nThis review does not provide enough evidence to say whether or not treatments for pain in people with GBS work. Although both gabapentin and carbamazepine reduced the severity of pain compared to placebo, and few side effects were reported, the studies were small and the quality of the evidence was very low. Much larger, well-designed studies are needed to confirm that drug treatments are safe and effective for people with pain in the period soon after onset of GBS. Long-term studies of pain treatments at the stage when people with GBS are recovering should also be conducted and these should include assessment of effects of pain treatments on quality of life.\nThis review was first published in 2013 and an updated search in 2014 revealed no additional studies. The evidence is current to November 2014."
+    }
+  ]
+}

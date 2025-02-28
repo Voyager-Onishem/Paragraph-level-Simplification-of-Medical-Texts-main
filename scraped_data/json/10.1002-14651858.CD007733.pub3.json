@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007733.pub3",
+  "name": "Aerosolized prostacyclins for acute respiratory distress syndrome (ARDS)",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory distress syndrome (ARDS) is a critical condition that is associated with high mortality and morbidity. Aerosolized prostacyclin has been used to improve oxygenation despite the limited evidence available so far.\nThis review was originally published in 2010 and updated in 2017."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of aerosolized prostacyclin in adults and children with ARDS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In this update, we searched CENTRAL (2017, Issue 4); MEDLINE (OvidSP), Embase (OvidSP), ISI BIOSIS Previews, ISI Web of Science, LILACS, CINAHL (EBSCOhost), and three trials registers. We handsearched the reference lists of the latest reviews, randomized and non-randomized trials, and editorials, and cross-checked them with our search of MEDLINE. We contacted the main authors of included studies to request any missed, unreported or ongoing studies. The search was run from inception to 5 May 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized controlled trials (RCTs), irrespective of publication status, date of publication, blinding status, outcomes published or language. We contacted trial investigators and study authors to retrieve relevant and missing data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three authors independently abstracted data and resolved any disagreements by discussion. Our primary outcome measure was all-cause mortality. We planned to perform subgroup and sensitivity analyses to assess the effect of aerosolized prostacyclin in adults and children, and on various clinical and physiological outcomes. We assessed the risk of bias through assessment of methodological trial components and the risk of random error through trial sequential analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two RCTs with 81 participants.\nOne RCT involved 14 critically ill children with ARDS (very low quality of evidence), and one RCT involved 67 critically ill adults (very low quality evidence).\nOnly one RCT (paediatric trial) provided data on mortality and found no difference between intervention and control. However, this trial was eligible for meta-analysis due to a cross-over design.\nWe assessed the benefits and harms of aerosolized prostacyclin. One RCT found no difference in improvement of partial pressure of oxygen in arterial blood/fraction of inspired oxygen (PaO2/FiO2) ratio (mean difference (MD) -25.35, 95% confidence interval (CI) -60.48 to 9.78; P = 0.16; 67 participants, very low quality evidence).\nThere were no adverse events such as bleeding or organ dysfunction in any of the included trials. Due to the limited number of RCTs, we were unable to perform the prespecified subgroup and sensitivity analyses or trial sequential analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are unable to tell from our results whether the intervention has an important effect on mortality because the results were too imprecise to rule out a small or no effect. Therefore, no current evidence supports or refutes the routine use of aerosolized prostacyclin for people with ARDS. There is an urgent need for more RCTs."
+    }
+  ],
+  "pls_title": "Aerosols of prostacyclin for management of acute respiratory distress syndrome (ARDS)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory distress syndrome (ARDS) results in low oxygen levels in the blood and can develop when fluid builds up in the lungs because of inflammation. A direct or indirect injury to the lungs can cause ARDS in children and adults. Such injuries include sepsis (a serious condition where the body responds to infection by injuring to its own tissues and organs), viral infections, burns, massive blood transfusions, multiple trauma, entry of stomach contents into respiratory system, inflammation of the pancreas, inhalation injury, drug overdose and near drowning. ARDS is a major cause of death in critically ill people.\nProstacyclin can be administered as an aerosol to critically ill adults and children with ARDS to increase the blood oxygen levels and improve survival. It is a naturally occurring prostaglandin that relaxes blood vessels, stops blood platelets from clotting (antiplatelet aggregation) and has anti-inflammatory properties in the lungs."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review was updated in 2017. We included two randomized controlled trials (RCT; clinical studies where people are randomly put into one of two or more treatment groups), one involving 14 critically ill children with ARDS and one involving 67 critically ill adults with ARDS. The trials did not measure severity of illness, resolution of organ dysfunction, length of stay in intensive care unit or hospital, and quality of life. The study authors did not report side effects such as bleeding, organ dysfunction, airway reactivity or side effects unrelated to the intervention."
+    },
+    {
+      "heading": "Study funding source",
+      "text": "None of the included trials reported receiving money from drug companies."
+    },
+    {
+      "heading": "Key results",
+      "text": "Only the RCT involving children provided data on deaths, with no clear difference with and without prostacyclin.\nThe RCT in adults reported a trend towards improved blood oxygen levels, for participants who were treated with alprostadil (prostaglandin E1).\nTherefore, we could not identify a clear advantage of the use of aerosolized prostacyclin in critically ill children or adults with low blood oxygen levels."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was very low because of the limited number of participants and poor trial design. The RCT involving children used a cross-over design where one group received aerosolized prostacyclin first and the other group received saline (salt solution). They then changed over to the alternate treatment. There was insufficient information on the effect on death in both trials.\nWe conclude that there is a need for a large-scale clinical trial with low risk of misleading information to investigate the advantages and harms of prostacyclin for critically ill people."
+    }
+  ]
+}

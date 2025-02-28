@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD010639.pub2",
+  "name": "Adapting shift work schedules for sleep quality, sleep duration, and sleepiness in shift workers ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Shift work is associated with insufficient sleep, which can compromise worker alertness with ultimate effects on occupational health and safety. Adapting shift work schedules may reduce adverse occupational outcomes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of shift schedule adaptation on sleep quality, sleep duration, and sleepiness among shift workers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, PubMed, Embase, and eight other databases on 13 December 2020, and again on 20 April 2022, applying no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and non-RCTs, including controlled before-after (CBA) trials, interrupted time series, and cross-over trials. Eligible trials evaluated any of the following shift schedule components.\n• Permanency of shifts\n• Regularity of shift changes\n• Direction of shift rotation\n• Speed of rotation\n• Shift duration\n• Timing of start of shifts\n• Distribution of shift schedule\n• Time off between shifts\n• Split shifts\n• Protected sleep\n• Worker participation\nWe included studies that assessed sleep quality off-shift, sleep duration off-shift, or sleepiness during shifts."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the titles and abstracts of the records recovered by the search, read through the full-text articles of potentially eligible studies, and extracted data. We assessed the risk of bias of included studies using the Cochrane risk of bias tool, with specific additional domains for non-randomised and cluster-randomised studies. For all stages, we resolved any disagreements by consulting a third review author. We presented the results by study design and combined clinically homogeneous studies in meta-analyses using random-effects models. We assessed the certainty of the evidence with GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 studies with a total of 2125 participants. One study was conducted in a laboratory setting and was not considered for drawing conclusions on intervention effects. The included studies investigated different and often multiple changes to shift schedule, and were heterogeneous with respect to outcome measurement.\nForward versus backward rotation\nThree CBA trials (561 participants) investigated the effects of forward rotation versus backward rotation. Only one CBA trial provided sufficient data for the quantitative analysis; it provided very low-certainty evidence that forward rotation compared with backward rotation did not affect sleep quality measured with the Basic Nordic Sleep Questionnaire (BNSQ; mean difference (MD) −0.20 points, 95% confidence interval (CI) −2.28 to 1.89; 62 participants) or sleep duration off-shift (MD −0.21 hours, 95% CI −3.29 to 2.88; 62 participants). However, there was also very low-certainty evidence that forward rotation reduced sleepiness during shifts measured with the BNSQ (MD −1.24 points, 95% CI −2.24 to −0.24; 62 participants).\nFaster versus slower rotation\nTwo CBA trials and one non-randomised cross-over trial (341 participants) evaluated faster versus slower shift rotation. We were able to meta-analyse data from two studies. There was low-certainty evidence of no difference in sleep quality off-shift (standardised mean difference (SMD) −0.01, 95% CI −0.26 to 0.23) and very low-certainty evidence that faster shift rotation reduced sleep duration off-shift (SMD −0.26, 95% CI −0.51 to −0.01; 2 studies, 282 participants). The SMD for sleep duration translated to an MD of 0.38 hours' less sleep per day (95% CI −0.74 to −0.01). One study provided very low-certainty evidence that faster rotations decreased sleepiness during shifts measured with the BNSQ (MD −1.24 points, 95% CI −2.24 to −0.24; 62 participants).\nLimited shift duration (16 hours) versus unlimited shift duration\nTwo RCTs (760 participants) evaluated 80-hour workweeks with maximum daily shift duration of 16 hours versus workweeks without any daily shift duration limits. There was low-certainty evidence that the 16-hour limit increased sleep duration off-shift (SMD 0.50, 95% CI 0.21 to 0.78; which translated to an MD of 0.73 hours' more sleep per day, 95% CI 0.30 to 1.13; 2 RCTs, 760 participants) and moderate-certainty evidence that the 16-hour limit reduced sleepiness during shifts, measured with the Karolinska Sleepiness Scale (SMD −0.29, 95% CI −0.44 to −0.14; which translated to an MD of 0.37 fewer points, 95% CI −0.55 to −0.17; 2 RCTs, 716 participants).\nShorter versus longer shifts\nOne RCT, one CBA trial, and one non-randomised cross-over trial (692 participants) evaluated shorter shift duration (eight to 10 hours) versus longer shift duration (two to three hours longer). There was very low-certainty evidence of no difference in sleep quality (SMD −0.23, 95% CI −0.61 to 0.15; which translated to an MD of 0.13 points lower on a scale of 1 to 5; 2 studies, 111 participants) or sleep duration off-shift (SMD 0.18, 95% CI −0.17 to 0.54; which translated to an MD of 0.26 hours' less sleep per day; 2 studies, 121 participants). The RCT and the non-randomised cross-over study found that shorter shifts reduced sleepiness during shifts, while the CBA study found no effect on sleepiness.\nMore compressed versus more spread out shift schedules\nOne RCT and one CBA trial (346 participants) evaluated more compressed versus more spread out shift schedules. The CBA trial provided very low-certainty evidence of no difference between the groups in sleep quality off-shift (MD 0.31 points, 95% CI −0.53 to 1.15) and sleep duration off-shift (MD 0.52 hours, 95% CI −0.52 to 1.56)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Forward and faster rotation may reduce sleepiness during shifts, and may make no difference to sleep quality, but the evidence is very uncertain. Very low-certainty evidence indicated that sleep duration off-shift decreases with faster rotation. Low-certainty evidence indicated that on-duty workweeks with shift duration limited to 16 hours increases sleep duration, with moderate-certainty evidence for minimal reductions in sleepiness. Changes in shift duration and compression of workweeks had no effect on sleep or sleepiness, but the evidence was of very low-certainty. No evidence is available for other shift schedule changes. There is a need for more high-quality studies (preferably RCTs) for all shift schedule interventions to draw conclusions on the effects of shift schedule adaptations on sleep and sleepiness in shift workers."
+    }
+  ],
+  "pls_title": "Changing shift worker's schedules to improve sleep quality and duration and reduce sleepiness",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• There is limited evidence that changes in shift schedules improve sleep quality, increase sleep duration, or reduce sleepiness.\n• More studies are needed to draw stronger conclusions about shift schedule changes on sleep and sleepiness."
+    },
+    {
+      "heading": "What can be done to improve shift workers' sleep?",
+      "text": "Shift work often leads to insufficient sleep that can compromise worker alertness, with ultimate effects on health and work safety. Changing shift work schedules is one method that may reduce the unwanted effects of shift work."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out which shift schedule adaptations improve sleep on rest days and reduce sleepiness at work."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that evaluated the following features of shift schedules.\n• Whether shift schedules changed (rotated) or stayed the same\n• Whether shift changes were regular or irregular\n• Direction of shift rotation (morning to afternoon to night or night to afternoon to morning)\n• Speed of rotation\n• Shift duration\n• Timing of start of shifts\n• Distribution of shift schedule (fewer shifts with more hours or more shifts with fewer hours)\n• Time off between shifts\n• Split (interrupted) shifts\n• Whether workers had on-call shifts\n• Whether workers were involved in organising the shift schedule"
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 11 studies, with 2125 participants. One study was conducted in a laboratory; we disregarded the results of this study when drawing conclusions. Most studies investigated a change in one feature of the shift schedule, while some investigated changes in two features. Four studies investigated the effect of changes in direction of shift rotation, three studies speed of rotation, five studies changes in shift duration, and one study changes in the distribution of days off.\nForward rotation compared to backward rotation may have no effect on sleep duration or sleep quality on rest days, but may reduce sleepiness at work. However, all of these results are very uncertain.\nFaster shift rotation compared to slower shift rotation may have no effect on sleep quality on rest days. Faster rotation may reduce sleep duration on rest days, but may also reduce sleepiness at work; however, the evidence for both results is very uncertain.\nTwo studies investigated 80-hour workweeks among doctors. They found that a schedule with shifts of no more than 16 hours, compared with a schedule with unlimited shift duration (including shifts of 24 to 28 hours), may increase sleep duration on rest days and probably results in a slight reduction in sleepiness at work.\nShorter shift duration (eight or 10 hours) compared to longer shift duration (two to three hours longer) may have no effect on sleep quality or sleep duration on rest days, but the results are very uncertain. The effects of shift duration on sleepiness differed across studies.\nChanges in the distribution shift schedules (e.g. two days versus four days off in a row) may have no effect on sleep quality or sleep duration on rest days, but the results are very uncertain.\nWe found no studies investigating other changes in shift schedules.\nOverall, there is a need for more high-quality studies to draw firm conclusions on the effects of shift schedule changes on sleep and sleepiness. Currently, we cannot draw useful conclusions from the available evidence."
+    },
+    {
+      "heading": "Main limitations of the evidence",
+      "text": "Too few of the included studies allocated workers to the schedule change at random. In addition, many studies included few workers and lacked reliable measurements of sleep and sleepiness."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The evidence is up-to-date to 13 December 2020."
+    }
+  ]
+}

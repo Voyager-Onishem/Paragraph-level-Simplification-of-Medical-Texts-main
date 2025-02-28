@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013631.pub2",
+  "name": "Synbiotics, prebiotics and probiotics for people with chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic kidney disease (CKD) is a major public health problem affecting 13% of the global population. Prior research has indicated that CKD is associated with gut dysbiosis. Gut dysbiosis may lead to the development and/or progression of CKD, which in turn may in turn lead to gut dysbiosis as a result of uraemic toxins, intestinal wall oedema, metabolic acidosis, prolonged intestinal transit times, polypharmacy (frequent antibiotic exposures) and dietary restrictions used to treat CKD. Interventions such as synbiotics, prebiotics, and probiotics may improve the balance of the gut flora by altering intestinal pH, improving gut microbiota balance and enhancing gut barrier function (i.e. reducing gut permeability)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to evaluate the benefits and harms of synbiotics, prebiotics, and probiotics for people with CKD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 9 October 2023 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) measuring and reporting the effects of synbiotics, prebiotics, or probiotics in any combination and any formulation given to people with CKD (CKD stages 1 to 5, including dialysis and kidney transplant). Two authors independently assessed the retrieved titles and abstracts and, where necessary, the full text to determine which satisfied the inclusion criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data extraction was independently carried out by two authors using a standard data extraction form. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) or standardised mean difference (SMD) and 95% CI for continuous outcomes. The methodological quality of the included studies was assessed using the Cochrane risk of bias tool. Data entry was carried out by one author and cross-checked by another. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-five studies (2266 randomised participants) were included in this review. Study participants were adults (two studies in children) with CKD ranging from stages 1 to 5, with patients receiving and not receiving dialysis, of whom half also had diabetes and hypertension.\nNo studies investigated the same synbiotic, prebiotic or probiotic of similar strains, doses, or frequencies. Most studies were judged to be low risk for selection bias, performance bias and reporting bias, unclear risk for detection bias and for control of confounding factors, and high risk for attrition and other biases.\nCompared to prebiotics, it is uncertain whether synbiotics improve estimated glomerular filtration rate (eGFR) at four weeks (1 study, 34 participants: MD -3.80 mL/min/1.73 m², 95% CI -17.98 to 10.38), indoxyl sulfate at four weeks (1 study, 42 participants: MD 128.30 ng/mL, 95% CI -242.77 to 499.37), change in gastrointestinal (GI) upset (borborymgi) at four weeks (1 study, 34 participants: RR 15.26, 95% CI 0.99 to 236.23), or change in GI upset (Gastrointestinal Symptom Rating Scale) at 12 months (1 study, 56 participants: MD 0.00, 95% CI -0.27 to 0.27), because the certainty of the evidence was very low.\nCompared to certain strains of prebiotics, it is uncertain whether a different strain of prebiotics improves eGFR at 12 weeks (1 study, 50 participants: MD 0.00 mL/min, 95% CI -1.73 to 1.73), indoxyl sulfate at six weeks (2 studies, 64 participants: MD -0.20 μg/mL, 95% CI -1.01 to 0.61; I² = 0%) or change in any GI upset, intolerance or microbiota composition, because the certainty of the evidence was very low.\nCompared to certain strains of probiotics, it is uncertain whether a different strain of probiotic improves eGFR at eight weeks (1 study, 30 participants: MD -0.64 mL/min, 95% CI -9.51 to 8.23; very low certainty evidence).\nCompared to placebo or no treatment, it is uncertain whether synbiotics improve eGFR at six or 12 weeks (2 studies, 98 participants: MD 1.42 mL/min, 95% CI 0.65 to 2.2) or change in any GI upset or intolerance at 12 weeks because the certainty of the evidence was very low.\nCompared to placebo or no treatment, it is uncertain whether prebiotics improves indoxyl sulfate at eight weeks (2 studies, 75 participants: SMD -0.14 mg/L, 95% CI -0.60 to 0.31; very low certainty evidence) or microbiota composition because the certainty of the evidence is very low.\nCompared to placebo or no treatment, it is uncertain whether probiotics improve eGFR at eight, 12 or 15 weeks (3 studies, 128 participants: MD 2.73 mL/min, 95% CI -2.28 to 7.75; I² = 78%), proteinuria at 12 or 24 weeks (1 study, 60 participants: MD -15.60 mg/dL, 95% CI -34.30 to 3.10), indoxyl sulfate at 12 or 24 weeks (2 studies, 83 participants: MD -4.42 mg/dL, 95% CI -9.83 to 1.35; I² = 0%), or any change in GI upset or intolerance because the certainty of the evidence was very low. Probiotics may have little or no effect on albuminuria at 12 or 24 weeks compared to placebo or no treatment (4 studies, 193 participants: MD 0.02 g/dL, 95% CI -0.08 to 0.13; I² = 0%; low certainty evidence).\nFor all comparisons, adverse events were poorly reported and were minimal (flatulence, nausea, diarrhoea, abdominal pain) and non-serious, and withdrawals were not related to the study treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found very few studies that adequately test biotic supplementation as alternative treatments for improving kidney function, GI symptoms, dialysis outcomes, allograft function, patient-reported outcomes, CVD, cancer, reducing uraemic toxins, and adverse effects.\nWe are not certain whether synbiotics, prebiotics, or probiotics are more or less effective compared to one another, antibiotics, or standard care for improving patient outcomes in people with CKD. Adverse events were uncommon and mild."
+    }
+  ],
+  "pls_title": "Prebiotics (dietary fibre), probiotics (good bacteria) or synbiotics (prebiotics plus probiotics) for people with chronic kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Chronic kidney disease (CKD) is a serious health problem that affects over 850 million people worldwide. People with kidney disease have an unhealthy balance of good and bad bacteria in their guts, called 'gut dysbiosis'. This imbalance arises because of the effects of reduced kidney function (retained toxic waste products, fluid retention causing the gut wall to swell), drugs frequently used in people with CKD (especially antibiotics), and dietary restrictions placed on people with CKD.\nGut dysbiosis can, in turn, cause or worsen CKD because bacteria can produce toxins that cross the bowel wall and damage the kidneys. Gut dysbiosis can also cause stomach problems (like bloating, cramping, constipation and diarrhoea) and reduce quality of life.\nTo improve the balance of the gut flora, good bacteria can be taken in tablets of high doses of prebiotics and probiotics. Prebiotics, or indigestible plant fibre, can encourage the growth of good bacteria. Synbiotics are a combination of prebiotics and probiotics. Some research suggests that taking high doses of the good bacteria can re-balance the good bacteria in people's gut, thereby improving bowel symptoms and the conditions that lead to worsening of CKD."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We reviewed all of the evidence on synbiotics, prebiotics and probiotics to see whether they can improve outcomes in people who have CKD (all stages 1 to 5)."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 45 studies randomising 2266 participants. Half of these looked at participants receiving dialysis (mostly haemodialysis), and the other half not receiving dialysis. Half also had diabetes and hypertension.\nWe are uncertain whether synbiotics, prebiotics, or probiotics improve bowel outcomes, quality of life, kidney toxin levels or kidney function.\nThe quality of the evidence that we found is low quality and very low certainty. All studies were conducted using moderate to poor-quality methods with too few patients."
+    },
+    {
+      "heading": "Summary",
+      "text": "Currently, we do not have enough information from trials to know whether synbiotics, prebiotics or probiotics work to improve bowel symptoms, quality of life, kidney toxin levels, or kidney function in people with CKD. Ten studies are currently ongoing; therefore, it is possible that findings may change with the inclusion of these studies in future updates.\nThe evidence is up to date to 9 October 2023."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD002834.pub3",
+  "name": "Interventions targeted at women to encourage the uptake of cervical screening",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of the Cochrane review published in Issue 5, 2011.\nWorldwide, cervical cancer is the fourth commonest cancer affecting women. High-risk human papillomavirus (HPV) infection is causative in 99.7% of cases. Other risk factors include smoking, multiple sexual partners, the presence of other sexually transmitted diseases and immunosuppression. Primary prevention strategies for cervical cancer focus on reducing HPV infection via vaccination and data suggest that this has the potential to prevent nearly 90% of cases in those vaccinated prior to HPV exposure. However, not all countries can afford vaccination programmes and, worryingly, uptake in many countries has been extremely poor. Secondary prevention, through screening programmes, will remain critical to reducing cervical cancer, especially in unvaccinated women or those vaccinated later in adolescence. This includes screening for the detection of pre-cancerous cells, as well as high-risk HPV.\nIn the UK, since the introduction of the Cervical Screening Programme in 1988, the associated mortality rate from cervical cancer has fallen. However, worldwide, there is great variation between countries in both coverage and uptake of screening. In some countries, national screening programmes are available whereas in others, screening is provided on an opportunistic basis. Additionally, there are differences within countries in uptake dependent on ethnic origin, age, education and socioeconomic status. Thus, understanding and incorporating these factors in screening programmes can increase the uptake of screening. This, together with vaccination, can lead to cervical cancer becoming a rare disease."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of interventions aimed at women, to increase the uptake, including informed uptake, of cervical screening."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Issue 6, 2020. MEDLINE, Embase and LILACS databases up to June 2020. We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of interventions to increase uptake/informed uptake of cervical screening."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed risk of bias. Where possible, the data were synthesised in a meta-analysis using standard Cochrane methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "Comprehensive literature searches identified 2597 records; of these, 70 met our inclusion criteria, of which 69 trials (257,899 participants) were entered into a meta-analysis. The studies assessed the effectiveness of invitational and educational interventions, lay health worker involvement, counselling and risk factor assessment. Clinical and statistical heterogeneity between trials limited statistical pooling of data.\nOverall, there was moderate-certainty evidence to suggest that invitations appear to be an effective method of increasing uptake compared to control (risk ratio (RR) 1.71, 95% confidence interval (CI) 1.49 to 1.96; 141,391 participants; 24 studies). Additional analyses, ranging from low to moderate-certainty evidence, suggested that invitations that were personalised, i.e. personal invitation, GP invitation letter or letter with a fixed appointment, appeared to be more successful. More specifically, there was very low-certainty evidence to support the use of GP invitation letters as compared to other authority sources' invitation letters within two RCTs, one RCT assessing 86 participants (RR 1.69 95% CI 0.75 to 3.82) and another, showing a modest benefit, included over 4000 participants (RR 1.13, 95 % CI 1.05 to 1.21). Low-certainty evidence favoured personalised invitations (telephone call, face-to-face or targeted letters) as compared to standard invitation letters (RR 1.32, 95 % CI 1.11 to 1.21; 27,663 participants; 5 studies). There was moderate-certainty evidence to support a letter with a fixed appointment to attend, as compared to a letter with an open invitation to make an appointment (RR 1.61, 95 % CI 1.48 to 1.75; 5742 participants; 5 studies).\nLow-certainty evidence supported the use of educational materials (RR 1.35, 95% CI 1.18 to 1.54; 63,415 participants; 13 studies) and lay health worker involvement (RR 2.30, 95% CI 1.44 to 3.65; 4330 participants; 11 studies). Other less widely reported interventions included counselling, risk factor assessment, access to a health promotion nurse, photo comic book, intensive recruitment and message framing. It was difficult to deduce any meaningful conclusions from these interventions due to sparse data and low-certainty evidence. However, having access to a health promotion nurse and attempts at intensive recruitment may have increased uptake.\nOne trial reported an economic outcome and randomised 3124 participants within a national screening programme to either receive the standard screening invitation, which would incur a fee, or an invitation offering screening free of charge. No difference in the uptake at 90 days was found (574/1562 intervention versus 612/1562 control, (RR 0.94, 95% CI: 0.86 to 1.03).\nThe use of HPV self-testing as an alternative to conventional screening may also be effective at increasing uptake and this will be covered in a subsequent review. Secondary outcomes, including cost data, were incompletely documented. The majority of cluster-RCTs did not account for clustering or adequately report the number of clusters in the trial in order to estimate the design effect, so we did not selectively adjust the trials. It is unlikely that reporting of these trials would impact the overall conclusions and robustness of the results. Of the meta-analyses that could be performed, there was considerable statistical heterogeneity, and this should be borne in mind when interpreting these findings. Given this and the low to moderate evidence, further research may change these findings. The risk of bias in the majority of trials was unclear, and a number of trials suffered from methodological problems and inadequate reporting. We downgraded the certainty of evidence because of an unclear or high risk of bias with regards to allocation concealment, blinding, incomplete outcome data and other biases."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is moderate-certainty evidence to support the use of invitation letters to increase the uptake of cervical screening. Low-certainty evidence showed lay health worker involvement amongst ethnic minority populations may increase screening coverage, and there was also support for educational interventions, but it is unclear what format is most effective. The majority of the studies were from developed countries and so the relevance of low- and middle-income countries (LMICs), is unclear. Overall, the low-certainty evidence that was identified makes it difficult to infer as to which interventions were best, with exception of invitational interventions, where there appeared to be more reliable evidence."
+    }
+  ],
+  "pls_title": "Do invitations, lay health worker interventions and educational interventions increase the uptake of cervical screening?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "The issue",
+      "text": "Cervical cancer is the fourth most common cancer in women worldwide. At present, women are asked to attend cervical screening (also known as a 'smear' or 'Pap test') to detect the presence of high-risk HPV and/or abnormal or pre-cancerous cells. The uptake of cervical screening is low globally. The UK's Cervical Screening Programme has shown that screening can reduce mortality through early detection and treatment of pre-cancerous changes before cancer develops. However, there is variation between and within countries in the availability and uptake of screening. There are also differences based on ethnic groups, age, education and socioeconomic status and this needs to be borne in mind when developing interventions to increase uptake."
+    },
+    {
+      "heading": "The aim of the review",
+      "text": "The aim of this review was to look at the methods used to encourage women to undergo cervical screening. These included invitations, reminders, education, message framing, counselling, risk factor assessment, procedures and economic interventions."
+    },
+    {
+      "heading": "What are the main findings?",
+      "text": "Seventy trials were included in this review, of which 69 trials (257,899 women) were entered into a meta-analysis. Invitations, and to a lesser extent, educational materials probably increase the uptake of cervical screening (moderate-certainty evidence). HPV self-testing, as an alternative to Pap smears, may also increase screening coverage. However, self-testing was not covered in this review and will be considered in a subsequent review. Lay health workers used to promote screening to ethnic minority groups may increase screening uptake (low-certainty evidence).\nIt was difficult to deduce any meaningful conclusions for other less widely reported interventions such as counselling, risk factor assessment, access to health promotion nurse, photo comic book, intensive recruitment and message framing, due to sparse data and low-certainty evidence. However, having access to a health promotion nurse and attempts at intensive recruitment may increase uptake."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The majority of the evidence was of a low to moderate certainty (quality) and further research may change these findings. For the majority of trials, the risk of bias was unclear, making it difficult to make firm assertions from their results."
+    },
+    {
+      "heading": "What are the conclusions?",
+      "text": "Invitation letters probably increase the uptake of cervical screening, and use of lay health worker involvement amongst ethnic minority populations may do so. Educational interventions may also increase screening; however, it is unclear what format is the most effective. These findings apply to developed countries and their relevance to low- and middle-income countries is unclear."
+    }
+  ]
+}

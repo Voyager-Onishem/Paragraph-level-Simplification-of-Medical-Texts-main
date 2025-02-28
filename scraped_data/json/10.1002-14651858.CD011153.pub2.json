@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011153.pub2",
+  "name": "Payment methods for outpatient care facilities",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Outpatient care facilities provide a variety of basic healthcare services to individuals who do not require hospitalisation or institutionalisation, and are usually the patient's first contact. The provision of outpatient care contributes to immediate and large gains in health status, and a large portion of total health expenditure goes to outpatient healthcare services. Payment method is one of the most important incentive methods applied by purchasers to guide the performance of outpatient care providers."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the impact of different payment methods on the performance of outpatient care facilities and to analyse the differences in impact of payment methods in different settings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), 2016, Issue 3, part of the Cochrane Library (searched 8 March 2016); MEDLINE, OvidSP (searched 8 March 2016); Embase, OvidSP (searched 24 April 2014); PubMed (NCBI) (searched 8 March 2016); Dissertations and Theses Database, ProQuest (searched 8 March 2016); Conference Proceedings Citation Index (ISI Web of Science) (searched 8 March 2016); IDEAS (searched 8 March 2016); EconLit, ProQuest (searched 8 March 2016); POPLINE, K4Health (searched 8 March 2016); China National Knowledge Infrastructure (searched 8 March 2016); Chinese Medicine Premier (searched 8 March 2016); OpenGrey (searched 8 March 2016); ClinicalTrials.gov, US National Institutes of Health (NIH) (searched 8 March 2016); World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (searched 8 March 2016); and the website of the World Bank (searched 8 March 2016).\nIn addition, we searched the reference lists of included studies and carried out a citation search for the included studies via ISI Web of Science to find other potentially relevant studies. We also contacted authors of the main included studies regarding any further published or unpublished work."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials, non-randomised trials, controlled before-after studies, interrupted time series, and repeated measures studies that compared different payment methods for outpatient health facilities. We defined outpatient care facilities in this review as facilities that provide health services to individuals who do not require hospitalisation or institutionalisation. We only included methods used to transfer funds from the purchaser of healthcare services to health facilities (including groups of individual professionals). These include global budgets, line-item budgets, capitation, fee-for-service (fixed and unconstrained), pay for performance, and mixed payment. The primary outcomes were service provision outcomes, patient outcomes, healthcare provider outcomes, costs for providers, and any adverse effects."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently extracted data and assessed the risk of bias. We conducted a structured synthesis. We first categorised the comparisons and outcomes and then described the effects of different types of payment methods on different categories of outcomes. We used a fixed-effect model for meta-analysis within a study if a study included more than one indicator in the same category of outcomes. We used a random-effects model for meta-analysis across studies. If the data for meta-analysis were not available in some studies, we calculated the median and interquartile range. We reported the risk ratio (RR) for dichotomous outcomes and the relative change for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 studies from Afghanistan, Burundi, China, Democratic Republic of Congo, Rwanda, Tanzania, the United Kingdom, and the United States of health facilities providing primary health care and mental health care. There were three kinds of payment comparisons.\n1) Pay for performance (P4P) combined with some existing payment method (capitation or different kinds of input-based payment) compared to the existing payment method\nWe included 18 studies in this comparison, however we did not include five studies in the effects analysis due to high risk of bias. From the 13 studies, we found that the extra P4P incentives probably slightly improved the health professionals' use of some tests and treatments (adjusted RR median = 1.095, range 1.01 to 1.17; moderate-certainty evidence), and probably led to little or no difference in adherence to quality assurance criteria (adjusted percentage change median = -1.345%, range -8.49% to 5.8%; moderate-certainty evidence). We also found that P4P incentives may have led to little or no difference in patients' utilisation of health services (adjusted RR median = 1.01, range 0.96 to 1.15; low-certainty evidence) and may have led to little or no difference in the control of blood pressure or cholesterol (adjusted RR = 1.01, range 0.98 to 1.04; low-certainty evidence).\n2) Capitation combined with P4P compared to fee-for-service (FFS)\nOne study found that compared with FFS, a capitated budget combined with payment based on providers' performance on antibiotic prescriptions and patient satisfaction probably slightly reduced antibiotic prescriptions in primary health facilities (adjusted RR 0.84, 95% confidence interval 0.74 to 0.96; moderate-certainty evidence).\n3) Capitation compared to FFS\nTwo studies compared capitation to FFS in mental health centres in the United States. Based on these studies, the effects of capitation compared to FFS on the utilisation and costs of services were uncertain (very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our review found that if policymakers intend to apply P4P incentives to pay health facilities providing outpatient services, this intervention will probably lead to a slight improvement in health professionals' use of tests or treatments, particularly for chronic diseases. However, it may lead to little or no improvement in patients' utilisation of health services or health outcomes. When considering using P4P to improve the performance of health facilities, policymakers should carefully consider each component of their P4P design, including the choice of performance measures, the performance target, payment frequency, if there will be additional funding, whether the payment level is sufficient to change the behaviours of health providers, and whether the payment to facilities will be allocated to individual professionals. Unfortunately, the studies included in this review did not help to inform those considerations.\nWell-designed comparisons of different payment methods for outpatient health facilities in low- and middle-income countries and studies directly comparing different designs (e.g. different payment levels) of the same payment method (e.g. P4P or FFS) are needed."
+    }
+  ],
+  "pls_title": "Payment methods for outpatient care facilities",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review aim",
+      "text": "The aim of this Cochrane review was to assess the effect of different payment systems for outpatient care facilities. We collected and analysed all relevant studies to answer this question and included 21 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Pay-for-performance systems probably have only small benefits or make little or no difference to healthcare provider behaviour or patients' use of healthcare services. We are uncertain whether they cause harm. We are uncertain about the benefits and harms of other payments systems because the research is lacking or of very low certainty."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Many healthcare services are offered to patients through outpatient facilities rather than to inpatients in hospitals. Outpatient facilities are also known as ambulatory care facilities, and include primary healthcare centres, outpatient clinics, urgent care centres, family planning centres, mental health centres, and dental clinics.\nDifferent systems to reimburse outpatient (ambulatory) care facilities for their services are available to governments and health insurers. These systems include:\n• budget systems, where the facility is given a fixed amount of money in advance to cover expenses for a fixed period;\n• capitation payment systems, where the facility is paid a fixed amount of money in advance to provide specific services to each enrolled patient for a fixed period;\n• fee-for-service systems, where payment is based on the specific services that the healthcare facility provides;\n• pay-for-performance systems, where payment is partly based on the performance of the facility's healthcare providers.\nDifferent payment systems can have different effects on how healthcare facilities deliver care. These changes can be intentional or unintentional and can lead to both benefits and harms. At best, a payment system can encourage healthcare providers to offer the right healthcare services to the right patients in the best and most cost-efficient way. However, payment systems can also lead providers to offer poor-quality, expensive, and unnecessary care, which can ultimately have a negative impact on patients' health.\nThis Cochrane review assessed the effect of different payment systems for outpatient care facilities. Other Cochrane reviews have assessed the effect of different payment systems for individual healthcare professionals and for inpatient facilities."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 21 relevant studies from the United Kingdom, the United States, Rwanda, Burundi, Tanzania, Afghanistan, China, and Democratic Republic of Congo. Most of the studies were from primary healthcare facilities. The studies assessed capitation systems, fee-for-service systems, and different types of pay-for-performance systems.\nPay-for-performance systems:\n• probably slightly improve providers' use of some tests and treatments;\n• probably lead to little or no difference in providers' compliance with quality assurance criteria;\n• may lead to little or no difference in patients' use of health services;\n• may lead to little or no difference in patients' health status.\nCapitation combined with a pay-for-performance system targeted at reducing antibiotic use probably slightly reduces antibiotic prescriptions when compared to a fee-for-service system.\nTwo studies compared capitation with fee-for-service systems, however, we assessed the certainty of the evidence as very low.\nWe did not find any relevant studies that assessed budget systems."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to March 2016."
+    }
+  ]
+}

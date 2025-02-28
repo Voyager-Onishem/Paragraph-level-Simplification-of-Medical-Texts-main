@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010837.pub5",
+  "name": "Effect of testing for cancer on cancer‐ or venous thromboembolism (VTE)‐related mortality and morbidity in people with unprovoked VTE ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolism (VTE) is a collective term for two conditions: deep vein thrombosis (DVT) and pulmonary embolism (PE). A proportion of people with VTE have no underlying or immediately predisposing risk factors and the VTE is referred to as unprovoked. Unprovoked VTE can often be the first clinical manifestation of an underlying malignancy. This has raised the question of whether people with an unprovoked VTE should be investigated for an underlying cancer. Treatment for VTE is different in cancer and non-cancer patients and a correct diagnosis would ensure that people received the optimal treatment for VTE to prevent recurrence and further morbidity. Furthermore, an appropriate cancer diagnosis at an earlier stage could avoid the risk of cancer progression and lead to improvements in cancer-related mortality and morbidity. This is the third update of the review first published in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether testing for undiagnosed cancer in people with a first episode of unprovoked VTE (DVT of the lower limb or PE) is effective in reducing cancer- or VTE-related mortality and morbidity and to determine which tests for cancer are best at identifying treatable cancers early."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 5 May 2021. We also undertook reference checking to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised trials in which people with an unprovoked VTE were allocated to receive specific tests for identifying cancer or clinically indicated tests only were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed risk of bias and extracted data. We assessed the certainty of the evidence using GRADE criteria. We resolved any disagreements by discussion. The main outcomes of interest were all-cause mortality, cancer-related mortality and VTE-related mortality."
+    },
+    {
+      "heading": "Main results",
+      "text": "No new studies were identified for this 2021 update. In total, four studies with 1644 participants are included. Two studies assessed the effect of extensive tests including computed tomography (CT) scanning versus tests at the physician's discretion, while the other two studies assessed the effect of standard testing plus positron emission tomography (PET)/CT scanning versus standard testing alone. For extensive tests including CT versus tests at the physician's discretion, the certainty of the evidence, as assessed according to GRADE, was low due to risk of bias (early termination of the studies). When comparing standard testing plus PET/CT scanning versus standard testing alone, the certainty of evidence was moderate due to a risk of detection bias. The certainty of the evidence was downgraded further as detection bias was present in one study with a low number of events.\nWhen comparing extensive tests including CT versus tests at the physician's discretion, pooled analysis on two studies showed that testing for cancer was consistent with either benefit or no benefit on cancer-related mortality (odds ratio (OR) 0.49, 95% confidence interval (CI) 0.15 to 1.67; 396 participants; 2 studies; low-certainty evidence). One study (201 participants) showed that, overall, malignancies were less advanced at diagnosis in extensively tested participants than in participants in the control group. In total, 9/13 participants diagnosed with cancer in the extensively tested group had a T1 or T2 stage malignancy compared to 2/10 participants diagnosed with cancer in the control group (OR 5.00, 95% CI 1.05 to 23.76; low-certainty evidence). There was no clear difference in detection of advanced stages between extensive tests versus tests at the physician's discretion: one participant in the extensively tested group had stage T3 compared with four participants in the control group (OR 0.25, 95% CI 0.03 to 2.28; low-certainty evidence). In addition, extensively tested participants were diagnosed earlier than control group (mean: 1 month with extensive tests versus 11.6 months with tests at physician's discretion to cancer diagnosis from the time of diagnosis of VTE). Extensive testing did not increase the frequency of an underlying cancer diagnosis (OR 1.32, 95% CI 0.59 to 2.93; 396 participants; 2 studies; low-certainty evidence). Neither study measured all-cause mortality, VTE-related morbidity and mortality, complications of anticoagulation, adverse effects of cancer tests, participant satisfaction or quality of life.\nWhen comparing standard testing plus PET/CT screening versus standard testing alone, standard testing plus PET/CT screening was consistent with either benefit or no benefit on all-cause mortality (OR 1.22, 95% CI 0.49 to 3.04; 1248 participants; 2 studies; moderate-certainty evidence), cancer-related mortality (OR 0.55, 95% CI 0.20 to 1.52; 1248 participants; 2 studies; moderate-certainty evidence) or VTE-related morbidity (OR 1.02, 95% CI 0.48 to 2.17; 854 participants; 1 study; moderate-certainty evidence). Regarding stage of cancer, there was no clear difference for detection of early (OR 1.78, 95% 0.51 to 6.17; 394 participants; 1 study; low-certainty evidence) or advanced (OR 1.00, 95% CI 0.14 to 7.17; 394 participants; 1 study; low-certainty evidence) stages of cancer. There was also no clear difference in the frequency of an underlying cancer diagnosis (OR 1.71, 95% CI 0.91 to 3.20; 1248 participants; 2 studies; moderate-certainty evidence). Time to cancer diagnosis was 4.2 months in the standard testing group and 4.0 months in the standard testing plus PET/CT group (P = 0.88). Neither study measured VTE-related mortality, complications of anticoagulation, adverse effects of cancer tests, participant satisfaction or quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Specific testing for cancer in people with unprovoked VTE may lead to earlier diagnosis of cancer at an earlier stage of the disease. However, there is currently insufficient evidence to draw definitive conclusions concerning the effectiveness of testing for undiagnosed cancer in people with a first episode of unprovoked VTE (DVT or PE) in reducing cancer- or VTE-related morbidity and mortality. The results could be consistent with either benefit or no benefit. Further good-quality large-scale randomised controlled trials are required before firm conclusions can be made."
+    }
+  ],
+  "pls_title": "Does testing for cancer in people with unprovoked blood clots in the legs and lungs reduce cancer- and blood clot-related death and illness?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "This review found that there are too few trials to determine whether testing for undiagnosed cancer in people with a first unprovoked venous thromboembolism (VTE) is effective in reducing cancer- and VTE-related deaths and illness. Further good-quality and large-scale studies are required."
+    },
+    {
+      "heading": "Why is this question important?",
+      "text": "Venous thromboembolism (VTE) refers to blood clots in leg veins (known as deep venous thrombosis (DVT)), which can travel to the lungs (causing pulmonary embolism (PE)). PE can often be fatal. Signs of DVT include pain and swelling of the leg while signs of PE include breathlessness and chest pain. Risk factors for VTE include surgery, prolonged bed rest, trauma, family history, pregnancy, and blood deficiencies. Sometimes a VTE happens for no apparent reason (it is unprovoked). In such people, undetected cancer may be the cause of the VTE. This has raised the question of whether people with an unprovoked VTE should be investigated for underlying cancer. This is important as the management of VTE in people with and without cancer differs. A cancer diagnosis would ensure people receive the optimal treatment to reduce the risk of another VTE. A diagnosis could also lead to the cancer being treated earlier, at a more curable stage."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomised controlled studies that assessed whether testing for undiagnosed cancer in people with a first unprovoked VTE (DVT or PE) was effective in reducing cancer and VTE-related illness and death. In randomised controlled studies the treatments or tests people receive are decided at random and these usually give the most reliable evidence about treatment effects."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found four studies with 1644 participants. Two studies compared extensive cancer tests with tests carried out at the physician's discretion and two studies compared cancer tests plus scanning with cancer tests alone. Combining the results of the two studies showed that extensive testing had no effect on the number of cancer-related deaths. Additionally, extensive testing did not identify more people with cancer. However, extensive testing did identify cancers at an earlier stage (approximately 10 months earlier) and cancers were less advanced in people in the extensive testing group than in people in the group with tests carried out at the physician's discretion. Neither study looked at the number of deaths due to any cause, deaths and illness associated with VTE, side effects of cancer tests, side effects of VTE treatment or participant satisfaction. Two studies that compared tests plus scanning with tests alone showed that adding computed tomography scanning had little or no effect on the number of deaths, cancer-related deaths, illness associated with VTE; nor did it identify more people with cancer, or show a clear difference in time to diagnosis or stages of cancer diagnosed. Neither study looked at deaths associated with VTE, side effects of cancer tests, side effects of VTE treatment, participant satisfaction or quality of life."
+    },
+    {
+      "heading": "How certain are we in the evidence?",
+      "text": "When comparing extensive tests versus tests at the physician's discretion, the certainty of the evidence was low due to bias caused by two of the studies stopping early. When comparing tests plus PET/CT scanning with tests alone, the certainty of the evidence ranged from low to moderate due to issues with how the studies were designed, imprecision caused by a low number of events and bias due to lack of blinding of people assessing the effects."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This Cochrane review updates our previous evidence. The evidence is current to May 2021."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012199.pub2",
+  "name": "Interventions to improve water, sanitation, and hygiene for preventing soil‐transmitted helminth infection ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "It is estimated that 1.5 billion people are infected with soil-transmitted helminths (STHs) worldwide. Re-infection occurs rapidly following deworming, and interruption of transmission is unlikely without complementary control efforts such as improvements in water, sanitation, and hygiene (WASH) access and behaviours."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of WASH interventions to prevent STH infection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 19 October 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included interventions to improve WASH access or practices in communities where STHs are endemic. We included randomized controlled trials (RCTs), as well as trials with an external control group where participants (or clusters) were allocated to different interventions using a non-random method (non-RCTs). We did not include observational study designs. Our primary outcome was prevalence of any STH infection. Prevalence of individual worms was a secondary outcome, including for Ascaris lumbricoides , Trichuris trichiura , hookworm (Ancylostoma duodenale or Necator americanus ), or Strongyloides stercoralis. Intensity of infection, measured as a count of eggs per gram of faeces for each species, was another secondary outcome."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently reviewed titles and abstracts and full-text records for eligibility, performed data extraction, and assessed risk of bias using the Cochrane risk of bias assessment tool for RCTs and the EPOC tool for non-RCTs. We used a random-effects meta-analysis to pool study estimates. We used Moran’s I² statistic to assess heterogeneity and conducted subgroup analyses to explore sources of heterogeneity. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 32 studies (16 RCTs and 16 non-RCTs) involving a total of 52,944 participants in the review. Twenty-two studies (14 RCTs (16 estimates) and eight non-RCTs (11 estimates)) reported on our primary outcome, prevalence of infection with at least one STH species. Twenty-one studies reported on the prevalence of A lumbricoides (12 RCTs and 9 non-RCTs); 17 on the prevalence of T trichiura (9 RCTs and 8 non-RCTs); 18 on the prevalence of hookworm (10 RCTs and 8 non-RCTs); and one on the prevalence of S stercoralis (1 non-RCT). Sixteen studies measured the intensity of infection for an individual STH type. Ten RCTs and five non-RCTs reported on the intensity of infection of A lumbricoides ; eight RCTs and five non-RCTs measured the intensity of infection of T trichiura ; and eight RCTs and five non-RCTs measured the intensity of hookworm infection. No studies reported on the intensity of infection of S stercoralis.\nThe overall pooled effect estimates showed that the WASH interventions under study may result in a slight reduction of any STH infection, with an odds ratio (OR) of 0.86 amongst RCTs (95% confidence interval (CI) 0.74 to 1.01; moderate-certainty evidence) and an OR of 0.71 amongst non-RCTs (95% CI 0.54 to 0.94; low-certainty evidence). All six of the meta-analyses assessing individual worm infection amongst both RCTs and non-RCTs had pooled estimates in the preventive direction, although all CIs encapsulated the null, leaving the possibility of the null or even harmful effects; the certainty of the evidence ranged from very low to moderate. Individual studies assessing intensity of infection showed mixed evidence supporting WASH. Subgroup analyses focusing on narrow specific subsets of water, sanitation, and hygiene interventions did very little to elucidate which interventions might be better than others. Data on intensity of infection (e.g. faecal egg count) were reported in a variety of ways across studies, precluding the pooling of results for this outcome.\nWe did not find any studies reporting adverse events resulting from the WASH interventions under study or from mass drug administration (MDA)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Whilst the available evidence suggests that the WASH interventions under study may slightly protect against STH infection, WASH also serves as a broad preventive measure for many other diseases that have a faecal oral transmission route of transmission. As many of the studies were done in addition to MDA/deworming (i.e. MDA was ongoing in both the intervention and control arm), our data support WHO recommendations for implementation of improvements to basic sanitation and adequate access to safe water alongside MDA. The biological plausibility for improved access to WASH to interrupt transmission of STHs is clear, but WASH interventions as currently delivered have shown impacts that were lower than expected. There is a need for more rigorous and targeted implementation research and process evaluations in order that future WASH interventions can better provide benefit to users. Inconsistent reporting of the intensity of infection underscores the need to define the minimal, standard data that should be collected globally on STHs to enable pooled analyses and comparisons."
+    }
+  ],
+  "pls_title": "Interventions to improve water, sanitation, and hygiene for preventing soil-transmitted helminth infection",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "This review summarizes randomized controlled trials (RCTs) (studies where participants are randomly assigned to one of two or more treatment groups) and non-randomized trials (non-RCTs) evaluating the effect of water, sanitation, and hygiene interventions on preventing soil-transmitted helminth infections.\nSoil-transmitted helminths (STHs) comprise a group of intestinal parasites that are transmitted to humans through ingestion of infective eggs or transcutaneous (through the skin) penetration of larvae excreted in human faeces which contaminate the soil and water sources. Even with deworming efforts, re-infection occurs rapidly, and interruption of transmission is unlikely without complementary control efforts. Environmental improvements, such as access to and use of safe and adequate water, basic sanitation, and hygiene (WASH), is thought to be essential to sustain reductions in re-infection and to reduce illness."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The evidence suggests that the WASH interventions under study may slightly reduce STH infection. Many of these results were in studies coupled with mass drug administration in both the treatment arm(s) and the control arm, and therefore show the impact of WASH on STH infection above and beyond the application of mass drug administration alone."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Previous reviews assessing WASH and STH infection have relied heavily on non-experimental studies. We investigated rigorous, experimental evidence assessing the role of WASH programmes to reduce STH infection."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We searched the scientific literature for relevant studies (published, unpublished, in press, and ongoing) up to 19 October 2021 and identified 32 studies (16 RCTs and 16 non-RCTs) enrolling a total of 52,944 participants. We found evidence that the WASH interventions under study may result in a slight reduction of any STH infection. Pooling of 14 RCTs for analysis of this outcome showed a slightly lower (14%) odds of any STH infection amongst participants in the WASH group compared to those in the control group. Similarly, pooling of eight non-RCTS for analysis of any STH infection showed that the odds of any STH infection was 29% lower amongst participants in the WASH group compared to the control group. When considering the analyses assessing WASH interventions on individual worm species, the evidence was very uncertain; WASH interventions may result in little to no reduction in Trichuris trichiura infection and may result in a slight reduction in Ascaris lumbricoides and hookworm infection. Data on intensity of infection (e.g. faecal egg count) were reported in a variety of ways across studies, preventing the pooling of results for this outcome."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to 19 October 2021."
+    }
+  ]
+}

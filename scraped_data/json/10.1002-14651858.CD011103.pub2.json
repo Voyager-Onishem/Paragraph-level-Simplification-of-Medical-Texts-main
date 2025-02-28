@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011103.pub2",
+  "name": "Beta‐blockers for preventing aortic dissection in Marfan syndrome",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Marfan syndrome is a hereditary disorder affecting the connective tissue and is caused by a mutation of the fibrillin-1 (FBN1) gene. It affects multiple systems of the body, most notably the cardiovascular, ocular, skeletal, dural and pulmonary systems. Aortic root dilatation is the most frequent cardiovascular manifestation and its complications, including aortic regurgitation, dissection and rupture are the main cause of morbidity and mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the long-term efficacy and safety of beta-blocker therapy as compared to placebo, no treatment or surveillance only in people with Marfan syndrome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases on 28 June 2017; CENTRAL, MEDLINE, Embase, Science Citation Index Expanded and the Conference Proceeding Citation Index - Science in the Web of Science Core Collection. We also searched the Online Metabolic and Molecular Bases of Inherited Disease (OMMBID), ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) on 30 June 2017. We did not impose any restriction on language of publication."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) of at least one year in duration assessing the effects of beta-blocker monotherapy compared with placebo, no treatment or surveillance only, in people of all ages with a confirmed diagnosis of Marfan syndrome were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts for inclusion, extracted data and assessed trial quality. Trial authors were contacted to obtain missing data. Dichotomous outcomes will be reported as relative risk and continuous outcomes as mean differences with 95% confidence intervals. We assessed the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "One open-label, randomised, single-centre trial including 70 participants with Marfan syndrome (aged 12 to 50 years old) met the inclusion criteria. Participants were randomly assigned to propranolol (N = 32) or no treatment (N = 38) for an average duration of 9.3 years in the control group and 10.7 years in the treatment group. The initial dose of propranolol was 10 mg four times daily and the optimal dose was reached when the heart rate remained below 100 beats per minute during exercise or the systolic time interval increased by 30%. The mean (± standard error (SE)) optimal dose of propranolol was 212 ± 68 mg given in four divided doses daily.\nBeta-blocker therapy did not reduce the incidence of all-cause mortality (RR 0.24, 95% CI 0.01 to 4.75; participants = 70; low-quality evidence). Mortality attributed to Marfan syndrome was not reported. Non-fatal serious adverse events were also not reported. However, study authors report on pre-defined, non-fatal clinical endpoints, which include aortic dissection, aortic regurgitation, cardiovascular surgery and congestive heart failure. Their analysis showed no difference between the treatment and control groups in these outcomes (RR 0.79, 95% CI 0.37 to 1.69; participants = 70; low-quality evidence).\nBeta-blocker therapy did not reduce the incidence of aortic dissection (RR 0.59, 95% CI 0.12 to 3.03), aortic regurgitation (RR 1.19, 95% CI 0.18 to 7.96), congestive heart failure (RR 1.19, 95% CI 0.18 to 7.96) or cardiovascular surgery, (RR 0.59, 95% CI 0.12 to 3.03); participants = 70; low-quality evidence.\nThe study reports a reduced rate of aortic dilatation measured by M-mode echocardiography in the treatment group (aortic ratio mean slope: 0.084 (control) vs 0.023 (treatment), P < 0.001). The change in systolic and diastolic blood pressure, total adverse events and withdrawal due to adverse events were not reported in the treatment or control group at study end point.\nWe judged this study to be at high risk of selection (allocation concealment) bias, performance bias, detection bias, attrition bias and selective reporting bias. The overall quality of evidence was low. We do not know whether a statistically significant reduced rate of aortic dilatation translates into clinical benefit in terms of aortic dissection or mortality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on only one, low-quality RCT comparing long-term propranolol to no treatment in people with Marfan syndrome, we could draw no definitive conclusions for clinical practice. High-quality, randomised trials are needed to evaluate the long-term efficacy of beta-blocker treatment in people with Marfan syndrome. Future trials should report on all clinically relevant end points and adverse events to evaluate benefit versus harm of therapy."
+    }
+  ],
+  "pls_title": "Beta-blocker treatment in Marfan syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "Do the benefits of beta-blocker therapy for Marfan syndrome outweigh the harms, as compared to placebo or no treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "Marfan syndrome is a hereditary disorder affecting multiple systems in the body. Enlargement of the aorta (the largest blood vessel that carries blood out of the heart) is one of the most common and important features of this disease. It can lead to life-threatening problems, such as aortic dissection, which is a tear in the inner walls of the aorta causing blood to escape into the layers of the aortic wall, accumulate and potentially rupture.\nBeta-blockers, a group of drugs used to decrease blood pressure, have been recommended by guidelines as the first line medical treatment of Marfan syndrome. The exact mechanism of action of beta-blockers in Marfan syndrome is not known."
+    },
+    {
+      "heading": "Search Date",
+      "text": "The evidence is current to June 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included one study of 70 participants aged 12 to 50 years old with Marfan syndrome, who were assigned to either a beta-blocker called propranolol or no treatment for an average duration of 9.3 years in the control (no treatment) group and 10.7 years in the treatment group."
+    },
+    {
+      "heading": "Study funding source",
+      "text": "This study was supported by grants from the National Institute of Health, the US Food and Drug Administration, and the National Marfan Foundation."
+    },
+    {
+      "heading": "Key results and conclusions",
+      "text": "Propranolol compared to no treatment did not reduce mortality or morbidity, including aortic dissection, aortic regurgitation (leaking of the aortic valve causing reverse blood flow into the heart), heart failure (inability to pump enough blood around the body), and heart surgery. However, it reduced the rate of enlargement of the aortic diameter. Harms have not been fully reported in this study. We judged this trial to have high risk of bias and low-quality evidence. This study provides inadequate evidence to inform people with Marfan syndrome, their families and care-providers."
+    }
+  ]
+}

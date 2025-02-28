@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD008268.pub3",
+  "name": "Corticosteroids as standalone or add‐on treatment for sore throat",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sore throat is a common condition associated with a high rate of antibiotic prescriptions, despite limited evidence for the effectiveness of antibiotics. Corticosteroids may improve symptoms of sore throat by reducing inflammation of the upper respiratory tract. This review is an update to our review published in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical benefit and safety of corticosteroids in reducing the symptoms of sore throat in adults and children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (Issue 4, 2019), MEDLINE (1966 to 14 May 2019), Embase (1974 to 14 May 2019), the Database of Abstracts of Reviews of Effects (DARE, 2002 to 2015), and the NHS Economic Evaluation Database (inception to 2015). We also searched the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared steroids to either placebo or standard care in adults and children (aged over three years) with sore throat. We excluded studies of hospitalised participants, those with infectious mononucleosis (glandular fever), sore throat following tonsillectomy or intubation, or peritonsillar abscess."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one new RCT in this update, for a total of nine trials involving 1319 participants (369 children and 950 adults). In eight trials, participants in both corticosteroid and placebo groups received antibiotics; one trial offered delayed prescription of antibiotics based on clinical assessment. Only two trials reported funding sources (government and a university foundation).\nIn addition to any effect of antibiotics and analgesia, corticosteroids increased the likelihood of complete resolution of pain at 24 hours by 2.40 times (risk ratio (RR) 2.4, 95% confidence interval (CI) 1.29 to 4.47; P = 0.006; I² = 67%; high-certainty evidence) and at 48 hours by 1.5 times (RR 1.50, 95% CI 1.27 to 1.76; P < 0.001; I² = 0%; high-certainty evidence). Five people need to be treated to prevent one person continuing to experience pain at 24 hours. Corticosteroids also reduced the mean time to onset of pain relief and the mean time to complete resolution of pain by 6 and 11.6 hours, respectively, although significant heterogeneity was present (moderate-certainty evidence). At 24 hours, pain (assessed by visual analogue scales) was reduced by an additional 10.6% by corticosteroids (moderate-certainty evidence). No differences were reported in recurrence/relapse rates, days missed from work or school, or adverse events for participants taking corticosteroids compared to placebo. However, the reporting of adverse events was poor, and only two trials included children or reported days missed from work or school. The included studies were assessed as moderate quality evidence, but the small number of included studies has the potential to increase the uncertainty, particularly in terms of applying these results to children."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Oral or intramuscular corticosteroids, in addition to antibiotics, moderately increased the likelihood of both resolution and improvement of pain in participants with sore throat. Given the limited benefit, further research into the harms and benefits of short courses of steroids is needed to permit informed decision-making."
+    }
+  ],
+  "pls_title": "Corticosteroids as stand-alone or add-on treatment for sore throat",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are corticosteroids beneficial for people with sore throat either alone or in addition to other treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "Sore throat is very common. Although most sore throats are caused by viruses, many people with sore throat receive antibiotics, which are not effective in treating viral infections. Overuse of antibiotics contributes to antibiotic resistance in individuals and the community. Sore throats are painful because of inflammation of the lining of the throat. Steroids, or corticosteroids, are medications that can be taken as tablets or injected. They reduce inflammation and help in other airways infections such as croup. Short courses of steroids may be beneficial to treat sore throat."
+    },
+    {
+      "heading": "Search date",
+      "text": "14 May 2019."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This is an update of our 2012 review. We added one new trial (565 participants) for a total nine trials involving 1319 participants (369 children, 950 adults). The included trials were conducted in emergency department (7 trials) and primary care (2 trials) settings in the USA (5 trials), and one trial each in Canada, Israel, Turkey, and the UK. Participants received either a single dose of steroids or a single dose of a dummy drug (placebo) (7 trials). More than one consecutive daily dose of steroid or placebo was given to one group of participants, whilst the other group received a single dose (2 trials). In eight trials all participants also received antibiotics immediately on entry to the study. All trials were published in English."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Two studies described funding sources (government and a university foundation)."
+    },
+    {
+      "heading": "Key results",
+      "text": "Participants who received corticosteroids were 2.4 times more likely to experience complete resolution of sore throat symptoms by 24 hours than those who received placebo. Corticosteroids improved times to both start symptom relief and to completely resolve symptoms, although trial evidence was not consistent for these outcomes, and effects were modest. Adverse events, recurrence/relapse rates, and days missed from work or school did not differ between corticosteroid and placebo group participants. Sore throats are very common in children, but only two trials reported results for children, and these results were inconsistent, making it difficult to draw conclusions. Further research is therefore needed to examine the benefits of corticosteroids for both reducing antibiotic use in people with severe sore throat, and the benefit for children specifically. Limitations were that only two trials included children and that most trials also gave antibiotics to all participants."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We assessed the certainty of the evidence as high for complete resolution of pain at 24 and 48 hours, and moderate for mean time to onset of pain relief, mean time to complete resolution of pain, absolute reduction in pain measured by visual analogue scales, adverse events, recurrence/relapse rates, and days missed from work or school."
+    }
+  ]
+}

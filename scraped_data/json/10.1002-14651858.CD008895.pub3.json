@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD008895.pub3",
+  "name": "Patient education in the management of coronary heart disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Coronary heart disease (CHD) is the single most common cause of death globally. However, with falling CHD mortality rates, an increasing number of people live with CHD and may need support to manage their symptoms and improve prognosis. Cardiac rehabilitation is a complex multifaceted intervention which aims to improve the health outcomes of people with CHD. Cardiac rehabilitation consists of three core modalities: education, exercise training and psychological support. This is an update of a Cochrane systematic review previously published in 2011, which aims to investigate the specific impact of the educational component of cardiac rehabilitation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "1. To assess the effects of patient education delivered as part of cardiac rehabilitation, compared with usual care on mortality, morbidity, health-related quality of life (HRQoL) and healthcare costs in patients with CHD.\n2. To explore the potential study level predictors of the effects of patient education in patients with CHD (e.g. individual versus group intervention, timing with respect to index cardiac event)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated searches from the previous Cochrane review, by searching the Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Library, Issue 6, 2016), MEDLINE (Ovid), Embase (Ovid), PsycINFO (Ovid) and CINAHL (EBSCO) in June 2016. Three trials registries, previous systematic reviews and reference lists of included studies were also searched. No language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "1. Randomised controlled trials (RCTs) where the primary interventional intent was education delivered as part of cardiac rehabilitation.\n2. Studies with a minimum of six-months follow-up and published in 1990 or later.\n3. Adults with a diagnosis of CHD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened all identified references for inclusion based on the above inclusion criteria. One author extracted study characteristics from the included trials and assessed their risk of bias; a second review author checked data. Two independent reviewers extracted outcome data onto a standardised collection form. For dichotomous variables, risk ratios and 95% confidence intervals (CI) were derived for each outcome. Heterogeneity amongst included studies was explored qualitatively and quantitatively. Where appropriate and possible, results from included studies were combined for each outcome to give an overall estimate of treatment effect. Given the degree of clinical heterogeneity seen in participant selection, interventions and comparators across studies, we decided it was appropriate to pool studies using random-effects modelling. We planned to undertake subgroup analysis and stratified meta-analysis, sensitivity analysis and meta-regression to examine potential treatment effect modifiers. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to evaluate the quality of the evidence and the GRADE profiler (GRADEpro GDT) to create summary of findings tables."
+    },
+    {
+      "heading": "Main results",
+      "text": "This updated review included a total of 22 trials which randomised 76,864 people with CHD to an education intervention or a 'no education' comparator. Nine new trials (8215 people) were included for this update. We judged most included studies as low risk of bias across most domains. Educational 'dose' ranged from one 40 minute face-to-face session plus a 15 minute follow-up call, to a four-week residential stay with 11 months of follow-up sessions. Control groups received usual medical care, typically consisting of referral to an outpatient cardiologist, primary care physician, or both.\nWe found no difference in effect of education-based interventions on total mortality (13 studies, 10,075 participants; 189/5187 (3.6%) versus 222/4888 (4.6%); random effects risk ratio (RR) 0.80, 95% CI 0.60 to 1.05; moderate quality evidence). Individual causes of mortality were reported rarely, and we were unable to report separate results for cardiovascular mortality or non-cardiovascular mortality. There was no evidence of a difference in effect of education-based interventions on fatal and/or non fatal myocardial infarction (MI) (2 studies, 209 participants; 7/107 (6.5%) versus 12/102 (11.8%); random effects RR 0.63, 95% CI 0.26 to 1.48; very low quality of evidence). However, there was some evidence of a reduction with education in fatal and/or non-fatal cardiovascular events (2 studies, 310 studies; 21/152 (13.8%) versus 61/158 (38.6%); random effects RR 0.36, 95% CI 0.23 to 0.56; low quality evidence). There was no evidence of a difference in effect of education on the rate of total revascularisations (3 studies, 456 participants; 5/228 (2.2%) versus 8/228 (3.5%); random effects RR 0.58, 95% CI 0.19 to 1.71; very low quality evidence) or hospitalisations (5 studies, 14,849 participants; 656/10048 (6.5%) versus 381/4801 (7.9%); random effects RR 0.93, 95% CI 0.71 to 1.21; very low quality evidence). There was no evidence of a difference between groups for all cause withdrawal (17 studies, 10,972 participants; 525/5632 (9.3%) versus 493/5340 (9.2%); random effects RR 1.04, 95% CI 0.88 to 1.22; low quality evidence). Although some health-related quality of life (HRQoL) domain scores were higher with education, there was no consistent evidence of superiority across all domains."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no reduction in total mortality, in people who received education delivered as part of cardiac rehabilitation, compared to people in control groups (moderate quality evidence). There were no improvements in fatal or non fatal MI, total revascularisations or hospitalisations, with education. There was some evidence of a reduction in fatal and/or non-fatal cardiovascular events with education, but this was based on only two studies. There was also some evidence to suggest that education-based interventions may improve HRQoL. Our findings are supportive of current national and international clinical guidelines that cardiac rehabilitation for people with CHD should be comprehensive and include educational interventions together with exercise and psychological therapy. Further definitive research into education interventions for people with CHD is needed."
+    }
+  ],
+  "pls_title": "Education for people with coronary heart disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of patient education delivered as part of cardiac rehabilitation, compared with usual care on mortality, morbidity, health-related quality of life (HRQoL) and healthcare costs in patients with coronary heart disease (CHD)?"
+    },
+    {
+      "heading": "Background",
+      "text": "Coronary heart disease (CHD) is the single most common cause of death globally. However, more people now live with heart disease and may need support to manage symptoms and reduce risk of future problems such as heart attacks. Education is a common element of cardiac rehabilitation, which aims to improve the health and outcomes of people with heart disease. This is an update of a review last published in 2011."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched up to June 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the scientific literature for randomised controlled trials (experiments that randomly allocate participants to one of two or more treatment groups) looking at the effectiveness of education-based treatments compared with no education in people of all ages with CHD.\nWe included nine new trials which involved 8215 people with coronary heart disease that compared patient education with no education. We included a total of 22 trials that studied 76,864 people with heart disease, most of whom had survived heart attack, and had undergone heart bypass surgery or angioplasty (a procedure which opens blocked vessels that supply blood to heart muscle)."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Sixteen studies reported sources of funding; six did not report funding sources. One study was funded by an industrial sponsor, four by health insurance companies and 11 by government or public sources."
+    },
+    {
+      "heading": "Key results",
+      "text": "Findings of this update are similar to the last review version (2011). Patient education, as part of a cardiac rehabilitation programme, does not contribute to fewer deaths, further heart attacks, heart by-pass or angioplasty, or admission to hospital for heart-related problems. There is some evidence of fewer other heart-related events and improvements in health-related quality of life with education-based interventions. Individual causes of death were not reported, so we were unable to determine how many people in the studies died from heart-related causes or other causes of death.\nAlthough there is insufficient information at present to fully understand the benefits or harms of patient education for people with heart disease, our findings broadly support current guidelines that people with heart disease should receive comprehensive rehabilitation that includes education. Further research is needed to evaluate the most clinically and cost-effective ways of providing education for people with heart disease."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "Overall, evidence was assessed as very low to moderate quality."
+    }
+  ]
+}

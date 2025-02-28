@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012126.pub2",
+  "name": "C‐reactive protein for diagnosing late‐onset infection in newborn infants",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Late-onset infection is the most common serious complication associated with hospital care for newborn infants. Because confirming the diagnosis by microbiological culture typically takes 24 to 48 hours, the serum level of the inflammatory marker C-reactive protein (CRP) measured as part of the initial investigation is used as an adjunctive rapid test to guide management in infants with suspected late-onset infection."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of serum CRP measurement in detecting late-onset infection in newborn infants."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched electronic databases (MEDLINE, Embase, and Science Citation Index to September 2017), conference proceedings, previous reviews, and the reference lists of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cohort and cross-sectional studies evaluating the diagnostic accuracy of serum CRP levels for the detection of late-onset infection (occurring more than 72 hours after birth) in newborn infants."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed eligibility for inclusion, evaluated the methodological quality of included studies, and extracted data to estimate diagnostic accuracy using hierarchical summary receiver operating characteristic (SROC) models. We assessed heterogeneity by examining variability of study estimates and overlap of the 95% confidence interval (CI) in forest plots of sensitivity and specificity."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified 20 studies (1615 infants). Most were small, single-centre, prospective cohort studies conducted in neonatal units in high- or middle-income countries since the late 1990s. Risk of bias in the included studies was generally low with independent assessment of index and reference tests. Most studies used a prespecified serum CRP threshold level as the definition of a 'positive' index test (typical cut-off level between 5 mg/L and 10 mg/L) and the culture of a pathogenic micro-organism from blood as the reference standard.\nAt median specificity (0.74), sensitivity was 0.62 (95% CI 0.50 to 0.73). Heterogeneity was evident in the forest plots but it was not possible to conduct subgroup or meta-regression analyses by gestational ages, types of infection, or types of infecting micro-organism. Covariates for whether studies used a predefined threshold or not, and whether studies used a standard threshold of between 5 mg/L and 10 mg/L, were not statistically significant."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The serum CRP level at initial evaluation of an infant with suspected late-onset infection is unlikely to be considered sufficiently accurate to aid early diagnosis or select infants to undergo further investigation or treatment with antimicrobial therapy or other interventions."
+    }
+  ],
+  "pls_title": "C-reactive protein for diagnosing infection in newborn infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed studies that assessed whether measuring the blood level of C-reactive protein (CRP) helped to make an earlier diagnosis of serious infections in newborn infants."
+    },
+    {
+      "heading": "Background",
+      "text": "Newborn infants, especially sick or preterm infants, are at risk of developing severe infections (such as bloodstream infections) during their stay on neonatal units. Infections are often difficult to diagnose early with certainty, and quick tests such as measuring the blood level of a protein that responds to infection (called CRP) are sometimes used to help make an earlier diagnosis. We aimed to assess the evidence for the accuracy of this test."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 20 studies that assessed the accuracy of measuring the blood level of CRP to diagnose infections in newborn infants. These studies were similar enough to justify a combined analysis of their findings."
+    },
+    {
+      "heading": "Key results",
+      "text": "The combined analysis indicated that a positive CRP test correctly identified infants with infection about six times out of 10."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Measuring the blood level of CRP is not sufficiently accurate to help early diagnosis of infection in newborn infants."
+    }
+  ]
+}

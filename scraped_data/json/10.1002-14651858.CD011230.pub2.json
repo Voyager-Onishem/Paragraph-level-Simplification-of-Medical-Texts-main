@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011230.pub2",
+  "name": "Systemic safety of bevacizumab versus ranibizumab for neovascular age‐related macular degeneration ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Neovascular age-related macular degeneration (AMD) is the leading cause of legal blindness in elderly populations of industrialised countries. Bevacizumab (Avastin®) and ranibizumab (Lucentis®) are targeted biological drugs (a monoclonal antibody) that inhibit vascular endothelial growth factor, an angiogenic cytokine that promotes vascular leakage and growth, thereby preventing its pathological angiogenesis. Ranibizumab is approved for intravitreal use to treat neovascular AMD, while bevacizumab is approved for intravenous use as a cancer therapy. However, due to the biological similarity of the two drugs, bevacizumab is widely used off-label to treat neovascular AMD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the systemic safety of intravitreal bevacizumab (brand name Avastin®; Genentech/Roche) compared with intravitreal ranibizumab (brand name Lucentis®; Novartis/Genentech) in people with neovascular AMD. Primary outcomes were death and All serious systemic adverse events (All SSAEs), the latter as a composite outcome in accordance with the International Conference on Harmonisation Good Clinical Practice. Secondary outcomes examined specific SSAEs: fatal and non-fatal myocardial infarctions, strokes, arteriothrombotic events, serious infections, and events grouped in some Medical Dictionary for Regulatory Activities System Organ Classes (MedDRA SOC). We assessed the safety at the longest available follow-up to a maximum of two years."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, EMBASE and other online databases up to 27 March 2014. We also searched abstracts and clinical study presentations at meetings, trial registries, and contacted authors of included studies when we had questions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) directly comparing intravitreal bevacizumab (1.25 mg) and ranibizumab (0.5 mg) in people with neovascular AMD, regardless of publication status, drug dose, treatment regimen, or follow-up length, and whether the SSAEs of interest were reported in the trial report."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies and assessed the risk of bias for each study. Three authors independently extracted data.\nWe conducted random-effects meta-analyses for the primary and secondary outcomes. We planned a pre-specified analysis to explore deaths and All SSAEs at the one-year follow-up."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included data from nine studies (3665 participants), including six published (2745 participants) and three unpublished (920 participants) RCTs, none supported by industry. Three studies excluded participants at high cardiovascular risk, increasing clinical heterogeneity among studies. The studies were well designed, and we did not downgrade the quality of the evidence for any of the outcomes due to risk of bias. Although the estimated effects of bevacizumab and ranibizumab on our outcomes were similar, we downgraded the quality of the evidence due to imprecision.\nAt the maximum follow-up (one or two years), the estimated risk ratio (RR) of death with bevacizumab compared with ranibizumab was 1.10 (95% confidence interval (CI) 0.78 to 1.57, P value = 0.59; eight studies, 3338 participants; moderate quality evidence). Based on the event rates in the studies, this gives a risk of death with ranibizumab of 3.4% and with bevacizumab of 3.7% (95% CI 2.7% to 5.3%).\nFor All SSAEs, the estimated RR was 1.08 (95% CI 0.90 to 1.31, P value = 0.41; nine studies, 3665 participants; low quality evidence). Based on the event rates in the studies, this gives a risk of SSAEs of 22.2% with ranibizumab and with bevacizumab of 24% (95% CI 20% to 29.1%).\nFor the secondary outcomes, we could not detect any difference between bevacizumab and ranibizumab, with the exception of gastrointestinal disorders MedDRA SOC where there was a higher risk with bevacizumab (RR 1.82; 95% CI 1.04 to 3.19, P value = 0.04; six studies, 3190 participants).\nPre-specified analyses of deaths and All SSAEs at one-year follow-up did not substantially alter the findings of our review.\nFixed-effect analysis for deaths did not substantially alter the findings of our review, but fixed-effect analysis of All SSAEs showed an increased risk for bevacizumab (RR 1.12; 95% CI 1.00 to 1.26, P value = 0.04; nine studies, 3665 participants): the meta-analysis was dominated by a single study (weight = 46.9%).\nThe available evidence was sensitive to the exclusion of CATT or unpublished results. For All SSAEs, the exclusion of CATT moved the overall estimate towards no difference (RR 1.01; 95% CI 0.82 to 1.25, P value = 0.92), while the exclusion of LUCAS yielded a larger RR, with more SSAEs in the bevacizumab group, largely driven by CATT (RR 1.19; 95% CI 1.06 to 1.34, P value = 0.004). The exclusion of all unpublished studies produced a RR of 1.12 for death (95% CI 0.78 to 1.62, P value = 0.53) and a RR of 1.21 for SSAEs (95% CI 1.06 to 1.37, P value = 0.004), indicating a higher risk of SSAEs in those assigned to bevacizumab than ranibizumab."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This systematic review of non-industry sponsored RCTs could not determine a difference between intravitreal bevacizumab and ranibizumab for deaths, All SSAEs, or specific subsets of SSAEs in the first two years of treatment, with the exception of gastrointestinal disorders. The current evidence is imprecise and might vary across levels of patient risks, but overall suggests that if a difference exists, it is likely to be small. Health policies for the utilisation of ranibizumab instead of bevacizumab as a routine intervention for neovascular AMD for reasons of systemic safety are not sustained by evidence. The main results and quality of evidence should be verified once all trials are fully published."
+    }
+  ],
+  "pls_title": "Systemic (whole body) safety of bevacizumab versus ranibizumab for neovascular age-related macular degeneration",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Neovascular age-related macular degeneration (AMD) is a progressive and chronic disease of the eye, and a leading cause of severe blindness in elderly populations. The disease is characterised by the abnormal growth of arteries and veins (neovascularisation) in the macula, a region of the retina (back portion of eye) responsible for central vision. Without treatment, the leakage of these blood vessels causes swelling and damage to the macula, resulting in a fibrous scar that impairs eyesight. Approximately one out of 10 people with neovascular AMD suffer legal blindness, accounting for 90% of all cases of severe vision loss due to AMD.\nTherapies against neovascular AMD target new blood vessels. Bevacizumab (commercial name Avastin®) and ranibizumab (Lucentis®) are biological drugs that bind to and block the function of vascular endothelial growth factor (VEGF), a protein released by cells in the body that stimulates the growth and leakage of blood vessels. The two drugs, accordingly, inhibit the process of neovascularisation. Ranibizumab is approved to treat neovascular AMD by injection into the eye (intravitreal injection), while bevacizumab is approved as a cancer therapy by injection into the vein through the skin. The two drugs have similar chemical structures and the same mechanism of action. Although their benefits are equivalent, it has been hypothesised that the two drugs have different systemic safety profiles, such that one drug might cause more adverse events (harms) at the level of whole body compared to the other."
+    },
+    {
+      "heading": "Review question",
+      "text": "We evaluated whether the two drugs differed in terms of deaths or serious systemic adverse events (SSAEs) in people with neovascular AMD. The latter refers to medically related events that result in death, are life-threatening, require hospital admission or prolong hospital stay, or cause persistent or significant disability."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included nine randomised controlled trials (RCTs), none supported by industry, with 3665 participants directly comparing bevacizumab with ranibizumab. Six RCTs were completed and published, two RCTs were completed, but unpublished, and one was still in progress. We were able to include safety information from all trials, accessing both published and unpublished data.\nDrugs were administered for up to two years according to continuous or discontinuous treatment. In the first, drugs were regularly administered, irrespective of the remission or progression of the disease; the latter involved 'as needed' (pro re nata, PRN) or 'treat-and-extend' regimens in which the drug was injected less frequently as long as there was no recurrence of neovascular manifestations. Follow-up for adverse events occurred at regular intervals up to one or two years, irrespective of continuous or discontinuous treatment.\nAll studies used the approved dosage of ranibizumab (0.5 mg) according to the 'Summary of Product Characteristics', and the dosage of bevacizumab most recommended by ophthalmologists for intravitreal injection (1.25 mg).\nThree studies excluded patients at high cardiovascular risk. However, four RCTs considered patients at different cardiovascular risks, representing a wide spectrum of risks and routine practice in hospital settings."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our review found the systemic safety of bevacizumab for neovascular AMD to be similar to that of ranibizumab, except for gastrointestinal disorders, which was a part of a secondary analysis.\nIf 1000 people were treated with ranibizumab for one or two years, 34 would die. If treated instead with bevacizumab, between 27 and 53 of them would die. If 1000 people were treated with ranibizumab, 222 would experience one or more SSAEs. If 1000 people were treated instead with bevacizumab, between 200 and 291 would experience such an event. Deaths are likely to be unrelated to the administration of drugs."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We could not fully assess the quality of three unpublished studies. We rated the overall quality of the evidence as low to moderate because we could not be certain that one drug was better than the other one on many of our outcomes. Another limitation of the studies was the participants who were recruited into them, and the fact that studies may have missed measuring the outcomes of interest in a few individuals that might have experienced a SSAE. Missing information was equally common in participants treated with bevacizumab and those treated with ranibizumab."
+    }
+  ]
+}

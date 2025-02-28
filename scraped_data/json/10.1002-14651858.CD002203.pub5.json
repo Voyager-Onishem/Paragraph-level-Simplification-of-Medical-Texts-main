@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD002203.pub5",
+  "name": "Macrolide antibiotics (including azithromycin) for cystic fibrosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cystic fibrosis (CF) is a life-limiting genetic condition, affecting over 90,000 people worldwide. CF affects several organs in the body, but airway damage has the most profound impact on quality of life (QoL) and survival. Causes of lower airway infection in people with CF are, most notably, Staphylococcus aureus in the early course of the disease and Pseudomonas aeruginosa at a later stage.\nMacrolide antibiotics, e.g. azithromycin and clarithromycin, are usually taken orally, have a broad spectrum of action against gram-positive (e.g. S aureus ) and some gram-negative bacteria (e.g. Haemophilus influenzae), and may have a modifying role in diseases involving airway infection and inflammation such as CF. They are well-tolerated and relatively inexpensive, but widespread use has resulted in the emergence of resistant bacteria.\nThis is an updated review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the potential effects of macrolide antibiotics on clinical status in terms of benefit and harm in people with CF. If benefit was demonstrated, we aimed to assess the optimal type, dose and duration of macrolide therapy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches, handsearching relevant journals, and abstract books of conference proceedings. We last searched the Group's Cystic Fibrosis Trials Register on 2 November 2022.\nWe last searched the trial registries WHO ICTRP and clinicaltrials.gov on 9 November 2022.\nWe contacted investigators known to work in the field, previous authors and pharmaceutical companies manufacturing macrolide antibiotics for unpublished or follow-up data, where possible."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials of macrolide antibiotics in adults and children with CF. We compared them to: placebo; another class of antibiotic; another macrolide antibiotic; or the same macrolide antibiotic at a different dose or type of administration."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data and assessed risk of bias. We assessed the certainty of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 studies (1467 participants) lasting 28 days to 36 months. All the studies assessed azithromycin: 11 compared oral azithromycin to placebo (1167 participants); one compared a high dose to a low dose (47 participants); one compared nebulised to oral azithromycin (45 participants); and one looked at weekly versus daily dose (208 participants).\nOral azithromycin versus placebo\nThere is a slight improvement in forced expiratory volume (FEV1 % predicted) in one second in the azithromycin group at up to six months compared to placebo (mean difference (MD) 3.97, 95% confidence interval (CI) 1.74 to 6.19; high-certainty evidence), although there is probably no difference at three months, (MD 2.70%, 95% CI -0.12 to 5.52), or 12 months (MD -0.13, 95% CI -4.96 to 4.70). Participants in the azithromycin group are probably at a decreased risk of pulmonary exacerbation with a longer time to exacerbation (hazard ratio (HR) 0.61, 95% CI 0.50 to 0.75; moderate-certainty evidence). Mild side effects were common, but there was no difference between groups (moderate-certainty evidence). There is no difference in hospital admissions at six months (odds ratio (OR) 0.61, 95% CI 0.36 to 1.04; high-certainty evidence), or in new acquisition of P aeruginosa at 12 months (HR 1.00, 95% CI 0.64 to 1.55; moderate-certainty evidence).\nHigh-dose versus low-dose azithromycin\nWe are uncertain whether there is any difference in FEV1 % predicted at six months between the two groups (no data available) or in the rate of exacerbations per child per month (MD -0.05 (95% CI -0.20 to 0.10)); very low-certainty evidence for both outcomes. Only children were included in the study and the study did not report on any of our other clinically important outcomes.\nNebulised azithromycin versus oral azithromycin\nWe were unable to include any of the data into our analyses and have reported findings directly from the paper; we graded all evidence as being of very low certainty. The authors reported that there was a greater mean change in FEV1 % predicted at one month in the nebulised azithromycin group (P < 0.001). We are uncertain whether there was a change in P aeruginosa count.\nWeekly azithromycin versus daily azithromycin\nThere is probably a lower mean change in FEV1 % predicted at six months in the weekly group compared to the daily group (MD -0.70, 95% CI -0.95 to -0.45) and probably also a longer period of time until first exacerbation in the weekly group (MD 17.30 days, 95% CI 4.32 days to 30.28 days). Gastrointestinal side effects are probably more common in the weekly group and there is likely no difference in admissions to hospital or QoL. We graded all evidence as moderate certainty."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Azithromycin therapy is associated with a small but consistent improvement in respiratory function, a decreased risk of exacerbation and longer time to exacerbation at six months; but evidence for treatment efficacy beyond six months remains limited. Azithromycin appears to have a good safety profile (although a weekly dose was associated with more gastrointestinal side effects, which makes it less acceptable for long-term therapy), with a relatively minimal treatment burden for people with CF, and it is inexpensive. A wider concern may be the emergence of macrolide resistance reported in the most recent study which, combined with the lack of long-term data, means we do not feel that the current evidence is strong enough to support azithromycin therapy for all people with CF.\nFuture research should report over longer time frames using validated tools and consistent reporting, to allow for easier synthesis of data. In particular, future trials should report important adverse events such as hearing impairment or liver disease. More data on the effects of azithromycin given in different ways and reporting on our primary outcomes would benefit decision-making on whether and how to give macrolide antibiotics. Finally, it is important to assess azithromycin therapy for people with CF who are established on the relatively new cystic fibrosis transmembrane conductance regulator (CFTR) modulator therapies which correct the underlying molecular defect associated with CF (none of the trials included in the review are relevant to this population)."
+    }
+  ],
+  "pls_title": "Treatment with macrolide antibiotics (including azithromycin) for people with cystic fibrosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of macrolide antibiotics in people with cystic fibrosis (CF) and infection of their airways?"
+    },
+    {
+      "heading": "Key messages",
+      "text": "- People with CF are more prone to chest infections caused by bacteria that can be hard to treat.\n- Macrolide antibiotics (such as azithromycin and clarithromycin) may lessen the effects of bacteria.\n- One macrolide antibiotic, azithromycin, can improve lung function at six months compared to a placebo (treatment with no active ingredient) and may reduce the risk of getting a flare-up of lung infection. We are not sure whether a higher dose of azithromycin is any better than a lower dose, or if azithromycin when inhaled is any better than azithromycin when swallowed (oral). Oral azithromycin once a week compared to every day probably leads to less of an improvement in lung function, but there is probably a longer time to a flare-up in the weekly group.\n- Current evidence does not support longer-term use of azithromycin for all people with CF."
+    },
+    {
+      "heading": "Introduction",
+      "text": "People with CF suffer from infections in their airways, often caused by the bug Pseudomonas aeruginosa , which is resistant to nearly all antibiotics that can be swallowed (oral). Macrolide antibiotics, e.g. azithromycin and clarithromycin, have no direct killing effect on Pseudomonas aeruginosa, but they may reduce the activity of these bacteria."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to discover whether the use of macrolide antibiotics (usually taken orally) affected the health of people with CF and whether these drugs have any side effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studiesthat looked at the effects of macrolide antibiotics in children and adults with CF and summarised the evidence."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 14 studies, which put the total of 1467 children and adults into different treatment groups at random, which we included in this review. Eleven studies compared azithromycin to placebo, one compared two different doses of azithromycin (high versus low dose), one compared inhaled azithromycin to oral azithromycin, and one compared oral azithromycin once a week to once a day."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found that there was a slight improvement in lung function in people that were given azithromycin compared to a placebo at six months and also that the risk of a flare-up of infection was lower. The risk of side effects (such as vomiting, diarrhoea and headache) was similar in both groups, as was the chance of a new infection with Pseudomonas aeruginosa. In terms of lung function and flare-up of infection, we were unsure whether a higher dose of azithromycin is better than a lower dose (but only one study in children examined dose), or whether inhaled azithromycin is better than oral azithromycin. Taking oral azithromycin once a week compared to every day probably leads to less of an improvement in lung function, but there is probably a longer time to a flare-up in the weekly group."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We were unable to combine all the study results because they were measured in different ways and at different time points; future trials should address this issue. Also, now that many people with CF are being treated with the new modulator therapies (e.g. elexacaftor-tezacaftor-ivacaftor), it is important to assess how macrolide antibiotics affect the health of these people. In the studies we found for this review, none of the people taking part were being treated with modulator therapies.\nWe are able to report the results of the studies that compared azithromycin to placebo with certainty as the studies were well conducted and included a larger number of participants. The evidence from the studies comparing high and low doses or nebulised and oral azithromycin was much less certain because the studies were small and there was risk of bias in the way they were carried out. We were moderately certain of the results of the study comparing weekly azithromycin to daily azithromycin."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The studies we have reported are the most up to date we could find. We last searched for studies in November 2022."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011969.pub2",
+  "name": "Deprescribing versus continuation of chronic proton pump inhibitor use in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Proton pump inhibitors (PPIs) are a class of medications that reduce acid secretion and are used for treating many conditions such as gastroesophageal reflux disease (GERD), dyspepsia, reflux esophagitis, peptic ulcer disease, and hypersecretory conditions (e.g. Zollinger-Ellison syndrome), and as part of the eradication therapy for Helicobacter pylori bacteria. However, approximately 25% to 70% of people are prescribed a PPI inappropriately. Chronic PPI use without reassessment contributes to polypharmacy and puts people at risk of experiencing drug interactions and adverse events (e.g. Clostridium difficile infection, pneumonia, hypomagnesaemia, and fractures)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effects (benefits and harms) associated with deprescribing long-term PPI therapy in adults, compared to chronic daily use (28 days or greater)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 10), MEDLINE, Embase, clinicaltrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). The last date of search was November 2016. We handsearched the reference lists of relevant studies. We screened 2357 articles (2317 identified through search strategy, 40 through other resources). Of these articles, we assessed 89 for eligibility."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and quasi-randomized trials comparing at least one deprescribing modality (e.g. stopping PPI or reducing PPI) with a control consisting of no change in continuous daily PPI use in adult chronic users. Outcomes of interest were: change in gastrointestinal (GI) symptoms, drug burden/PPI use, cost/resource use, negative and positive drug withdrawal events, and participant satisfaction."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently reviewed and extracted data and completed the risk of bias assessment. A third review author independently confirmed risk of bias assessment. We used Review Manager 5 software for data analysis. We contacted study authors if there was missing information."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review included six trials (n = 1758). Trial participants were aged 48 to 57 years, except for one trial that had a mean age of 73 years. All participants were from the outpatient setting and had either nonerosive reflux disease or milder grades of esophagitis (LA grade A or B). Five trials investigated on-demand deprescribing and one trial examined abrupt discontinuation. There was low quality evidence that on-demand use of PPI may increase risk of 'lack of symptom control' compared with continuous PPI use (risk ratio (RR) 1.71, 95% confidence interval (CI) 1.31 to 2.21), thereby favoring continuous PPI use (five trials, n = 1653). There was a clinically significant reduction in 'drug burden', measured as PPI pill use per week with on-demand therapy (mean difference (MD) -3.79, 95% CI -4.73 to -2.84), favoring deprescribing based on moderate quality evidence (four trials, n = 1152). There was also low quality evidence that on-demand PPI use may be associated with reduced participant satisfaction compared with continuous PPI use. None of the included studies reported cost/resource use or positive drug withdrawal effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In people with mild GERD, on-demand deprescribing may lead to an increase in GI symptoms (e.g. dyspepsia, regurgitation) and probably a reduction in pill burden. There was a decline in participant satisfaction, although heterogeneity was high. There were insufficient data to make a conclusion regarding long-term benefits and harms of PPI discontinuation, although two trials (one on-demand trial and one abrupt discontinuation trial) reported endoscopic findings in their intervention groups at study end."
+    }
+  ],
+  "pls_title": "Stopping or reducing versus continuing long-term proton pump inhibitor use in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review aimed to build on prior work and evaluate the effects of stopping or lowering the dose of proton pump inhibitors (PPIs; acid-reducing medicines) in adults, compared to what is commonly done in practice (i.e. continuing long-term (more than four weeks) daily PPI use. Effects include both benefits and harms (e.g. pill use, symptom control, and cost)."
+    },
+    {
+      "heading": "Background",
+      "text": "PPIs are used for many different conditions (e.g. heartburn, acid reflux, stomach ulceration). Studies for most of these conditions only support short-term use (two to 12 weeks), yet these medicines are commonly continued for prolonged periods or even indefinitely. Long-term PPI use contributes to medicine misuse and puts people at risk of experiencing unwanted drug interactions and side effects (e.g. diarrhea, headache, bone fractures). It also leads to a high cost burden on the healthcare system. 'Deprescribing' involves slowly withdrawing and stopping medicines. The most common approach is 'on-demand' therapy, which allows people to use medicines only when they have symptoms (i.e. when heartburn begins). The overall goal of deprescribing is to minimize the number of medicines a person takes, thereby reducing inappropriate medicine use and avoiding side effects."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found six trials with 1758 participants. Of these, five studies looked at on-demand deprescribing and one trial looked at abruptly stopping PPIs. Participants were aged 48 to 57 years, except for one trial (average age of 73 years). The majority of participants had moderate heart burn and acid reflux with milder forms of esophagitis (inflammation of the food pipe that may lead to damage)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that deprescribing methods led to worse symptoms control while considerably reducing pill use. Deprescribing PPIs may lead to side effects such as inflammation of the esophagus. Very few data were available to make a conclusion regarding long-term benefits and harms of PPI reduction or discontinuation."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the quality of evidence for this review ranged from very low to moderate. Trials were inconsistent with how they reported symptom control. There were also limitations in how the studies were conducted (e.g. participants and investigators may have known which medicine they received), which lowered the quality of evidence. Other contributing factors included small sample sizes for most trials and inconsistent results between studies."
+    }
+  ]
+}

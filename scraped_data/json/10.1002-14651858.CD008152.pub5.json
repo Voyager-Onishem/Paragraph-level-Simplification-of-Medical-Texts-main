@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008152.pub5",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The 8-aminoquinoline (8AQ) drugs act on Plasmodium falciparum gametocytes, which transmit malaria from infected people to mosquitoes. In 2012, the World Health Organization (WHO) recommended a single dose of 0.25 mg/kg primaquine (PQ) be added to malaria treatment schedules in low-transmission areas or those with artemisinin resistance. This replaced the previous recommendation of 0.75 mg/kg, aiming to reduce haemolysis risk in people with glucose-6-phosphate dehydrogenase deficiency, common in people living in malarious areas. Whether this approach, and at this dose, is effective in reducing transmission is not clear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of single dose or short-course PQ (or an alternative 8AQ) alongside treatment for people with P. falciparum malaria."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; and the WHO International Clinical Trials Registry Platform (ICRTP) portal using ‘malaria*', ‘falciparum', ‘primaquine', ‘8-aminoquinoline', and eight 8AQ drug names as search terms. We checked reference lists of included trials, and contacted researchers and organizations. Date of last search: 21 July 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) or quasi-RCTs in children or adults, adding PQ (or alternative 8AQ) as a single dose or short course alongside treatment for P. falciparum malaria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors screened abstracts, applied inclusion criteria, and extracted data. We sought evidence on transmission (community incidence), infectiousness (people infectious and mosquitoes infected), and potential infectiousness (gametocyte measures assessed by microscopy or polymerase chain reaction [PCR]). We grouped trials into artemisinin and non-artemisinin treatments, and stratified by PQ dose (low, 0.2 to 0.25 mg/kg; moderate, 0.4 to 0.5 mg/kg; high, 0.75 mg/kg). We used GRADE, and absolute effects of infectiousness using trial control groups."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 24 RCTs and one quasi-RCT, comprising 43 arms. Fourteen trials evaluated artemisinin treatments (23 arms), nine trials evaluated non-artemisinin treatments (13 arms), and two trials included both artemisinin and non-artemisinin arms (three and two arms, respectively). Two trial arms used bulaquine. Seven PQ arms used low dose (six with artemisinin), 11 arms used moderate dose (seven with artemisinin), and the remaining arms used high dose. Fifteen trials tested for G6PD status: 11 excluded participants with G6PD deficiency, one included only those with G6PD deficiency, and three included all, irrespective of status. The remaining 10 trials either did not test or did not report on testing.\nNo cluster trials evaluating community effects on malaria transmission met the inclusion criteria.\nWith artemisinin treatment\nLow dose PQ\nInfectiousness (participants infectious to mosquitoes) was reduced (day 3 or 4: RR 0.12, 95% CI 0.02 to 0.88, 3 trials, 105 participants; day 8: RR 0.34, 95% CI 0.07 to 1.58, 4 trials, 243 participants; low certainty evidence ). This translates to a reduction in percentage of people infectious on day 3 or 4 from 14% to 2%, and, for day 8, from 4% to 1%; the waning infectiousness in the control group by day 8 making the absolute effect smaller by day 8. For gametocytes detected by PCR, there was little or no effect of PQ at day 3 or 4 (RR 1.02, 95% CI 0.87 to 1.21; 3 trials, 414 participants; moderate certainty evidence ); with reduction at day 8 (RR 0.52, 95% CI 0.41 to 0.65; 4 trials, 532 participants; high certainty evidence). Severe haemolysis was infrequent, with or without PQ, in these groups with few G6PD-deficient individuals (RR 0.98, 95% CI 0.69 to 1.39; 4 trials, 752 participants, moderate certainty evidence).\nModerate dose PQ\nInfectiousness was reduced (day 3 or 4: RR 0.13, 95% CI 0.02 to 0.94; 3 trials, 109 participants; day 8 RR 0.33, 95% CI 0.07 to 1.57; 4 trials, 246 participants; low certainty evidence). Illustrative risk estimates for moderate dose were the same as low dose. The pattern and level of certainty of evidence with gametocytes detected by PCR was the same as low dose, and severe haemolysis was infrequent in both groups.\nHigh dose PQ\nInfectiousness was reduced (day 4: RR 0.2, 95% CI 0.02 to 1.68, 1 trial, 101 participants; day 8: RR 0.18, 95% CI 0.02 to 1.41, 2 trials, 181 participants, low certainty evidence). The effects on gametocyte prevalence showed a similar pattern to moderate and low dose PQ. Trials did not systematically report evidence of haemolysis.\nWith non-artemisinin treatment\nTrials with non-artemisinin treatment have been conducted only for moderate and high dose PQ. With high dose, infectiousness appeared markedly reduced on day 5 (RR 0.09, 95% CI 0.01 to 0.62; 30 participants, very low certainty evidence), with similar reductions at day 8. For both moderate dose (two trials with 221 people) and high dose (two trials with 30 people), reduction in gametocytes (detected by microscopy) showed similar patterns as for artemisinin treatments, with little or no effect at day 4 or 5, and larger effects by day 8. No trials with non-artemisinin partner drugs systematically sought evidence of severe haemolysis.\nTwo trials comparing bulaquine with PQ suggest bulaquine may have larger effects on gametocytes by microscopy on day 8 (RR 0.41, 95% CI 0.26 to 0.66; 2 trials, 112 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "A single low dose of PQ (0.25 mg/kg) added to artemisinin-based combination therapy for malaria reduces infectiousness of people to mosquitoes at day 3-4 and day 8, and appears as effective as higher doses. The absolute effect is greater at day 3 or 4, and smaller at day 8, in part because of the lower infectiousness in the control group. There was no evidence of increased haemolysis at 0.25 mg/kg, but few G6PD-deficient individuals were included in the trials. The effect on infectiousness precedes the effect of PQ on gametocyte prevalence. We do not know whether single dose PQ could reduce malaria transmission at community level."
+    }
+  ],
+  "pls_title": "A single dose of primaquine added to malaria treatment to prevent malaria transmission",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To assess the effects of adding a single dose of primaquine (PQ) to treatment for falciparum malaria to reduce disease transmission. This Cochrane Review update includes 25 controlled trials. The date of latest search was 21 July 2017."
+    },
+    {
+      "heading": "Key messages",
+      "text": "A single low dose of PQ, at 0.25 mg/kg, which the World Health Organization (WHO) recommends adding to artemisinin-based combination therapy for malaria, reduces infectiousness (transmission from people to mosquitoes). In the trials, the percentage of people who infected mosquitoes three to four days after treatment was reduced from 14% to 2%, with a smaller effect at day 8, from 4% to 1%, with no evidence of harm."
+    },
+    {
+      "heading": "What was studied in the review",
+      "text": "PQ kills gametocytes (malaria transmission stages) of the falciparum malaria parasite. Gametocytes infect mosquitoes during a bite, thus perpetuating transmission. There is concern that PQ may cause red blood cells to burst (haemolysis) in people with glucose-6-phosphate dehydrogenase (G6PD) deficiency, a genetically-determined condition common in many malaria-endemic settings, which can lead to anaemia. Recognizing concerns about the risk of haemolysis, the WHO reduced the recommended PQ dose from 0.75 mg/kg to 0.25 mg/kg in 2012.\nIdeally, this approach would be tested by randomly assigning villages to standard malaria treatment, or standard treatment plus a low dose of PQ, then measuring the effect on malaria over time but this would be difficult and expensive. So, indirect indicators are used to shed light on effectiveness, including feeding studies, in which mosquitoes are allowed to feed on people (or their blood), comparing those who were assigned PQ with those who were not. Alternatively, researchers may simply monitor the presence (prevalence), number (density), and duration (time of persistence) of gametocytes in the blood of people after different treatments, assuming that gametocytes are viable irrespective of exposure to PQ."
+    },
+    {
+      "heading": "What the research says",
+      "text": "The 25 included trials span several decades and include a variety of treatments and PQ doses. Related to safety assessment, some trials tested participants for G6PD activity. Other trials reported results based on their G6PD status, others did not test (or did not say whether they did), and others tested and excluded people with G6PD deficiency.\nThere were no ideal community-level studies that would answer the question directly.\nFive feeding trials with multiple arms included three low-dose, three medium-dose, and two high-dose comparisons, showing a markedly reduced proportion of people infectious who received PQ in trials with any events. Two trials using older malaria treatments and high dose PQ had similar results.\nThe other trials focused on indirect measures of potential infectiousness of humans to mosquitoes. In these trials, PQ shortened the period of potential infectiousness, with a lower prevalence and density of gametocytes up to day 8 after treatment. The effect was similar at all PQ dose levels.\nFew serious haemolytic events occurred in these trials, but PQ did affect non-serious haemoglobin measures, even at low doses."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "A single low dose of PQ added to an artemisinin regimen for malaria reduces infectiousness to mosquitoes and is relatively safe for most people.\nPQ at WHO-recommended dose reduces infectiousness to mosquitoes on day 3-4 and day 8 with no evidence of harm. It is unclear whether this reduction would materially reduce malaria transmission in communities."
+    }
+  ]
+}

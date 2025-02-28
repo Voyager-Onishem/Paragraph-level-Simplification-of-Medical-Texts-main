@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013392.pub2",
+  "name": "Early fortification of human milk versus late fortification to promote growth in preterm infants ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Uncertainty exists about the optimal point at which multi-component fortifier should be added to human milk for promoting growth in preterm infants. The most common practice is to start fortification when the infant’s daily enteral feed volume reaches 100 mL/kg body weight. Another approach is to commence fortification earlier, in some cases as early as the first enteral feed. Early fortification of human milk could increase nutrient intake and growth rates but may increase the risk of feed intolerance and necrotising enterocolitis (NEC)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess effects on growth and safety of early fortification of human milk versus late fortification in preterm infants\nTo assess whether effects vary based upon gestational age (≤ 27 weeks; 28 to 31 weeks; ≥ 32 weeks), birth weight (< 1000 g; 1000 to 1499 g; ≥ 1500 g), small or appropriate for gestational age, or type of fortifier (bovine milk-based human milk fortifier (HMF); human milk-based HMF; formula powder)"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 8); OVID MEDLINE (R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions (R) (1946 to 15 August 2019); MEDLINE via PubMed (1 August 2018 to 15 August 2019) for the previous year; and the Cumulative Index to Nursing and Allied Health Literatue (CINAHL) (1981 to 15 August 2019). We searched clinical trials databases and reference lists of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials that compared early versus late fortification of human milk in preterm infants. We defined early fortification as fortification started at < 100 mL/kg/d enteral feed volume or < 7 days postnatal age, and late fortification as fortification started at ≥ 100 mL/kg/d feeds or ≥ 7 days postnatal age."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Both review authors assessed trial eligibility and risk of bias and independently extracted data. We analysed treatment effects in individual trials, and we reported risk ratio (RR) for dichotomous data and mean difference (MD) for continuous data, with respective 95% confidence intervals (CIs). We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two trials with a total of 237 infants. All participants were very low birth weight infants (birth weight < 1500 g). Early fortification was started at 20 mL/kg/d enteral feeds in one study and 40 mL/kg/d in the other study. Late fortification was started at 100 mL/kg/d feeds in both studies. One study used bovine milk-based fortifier, and the other used human milk-based fortifier.\nMeta-analysis showed that early fortification may have little or no effect on growth outcomes including time to regain birth weight (MD -0.06 days, 95% CI -1.32 to 1.20 days), linear growth (MD 0.10 cm/week, 95% CI -0.03 to 0.22 cm/week), or head growth (MD -0.01 cm/week, 95% CI -0.07 to 0.06 cm/week) during the initial hospitalisation period. Early fortification may have little or no effect on the risk of NEC (MD -0.01, 95% CI -0.07 to 0.06). The certainty of evidence was low for these outcomes due to risk of bias (lack of blinding) and imprecision (small sample size).\nEarly fortification may have little or no effect on incidence of surgical NEC, time to reach full enteral feeds, extrauterine growth restriction at discharge, proportion of infants with feed interruption episodes, duration of total parenteral nutrition (TPN), duration of central venous line usage, or incidence of invasive infection, all-cause mortality, and duration of hospital stay. The certainty of evidence was low for these outcomes due to risk of bias (lack of blinding) and imprecision (small sample size).\nWe did not have data for other outcomes such as subsequent weight gain after birth weight is regained, parenteral nutrition-associated liver disease, postdischarge growth, and neurodevelopmental outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Available evidence is insufficient to support or refute early fortification of human milk in preterm infants. Further large trials would be needed to provide data of sufficient quality and precision to inform policy and practice."
+    }
+  ],
+  "pls_title": "Earlier compared to later addition of human milk fortifier to human milk to promote growth in preterm infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does adding human milk fortifier (HMF) early promote growth and improve outcomes in preterm infants compared to adding it late?"
+    },
+    {
+      "heading": "Background",
+      "text": "Uncertainty exists about the optimal point at which HMF should be added to human milk for promoting growth in preterm infants. The most common practice is to start HMF when the infant’s daily feed volume reaches 100 mL/kg body weight. Another approach is to commence HMF earlier, in some cases as early as the first feed. Adding HMF early could increase nutrient intake and growth rates but may increase the risk of feed intolerance and necrotising enterocolitis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Evidence is up-to-date as of August 2019. We identified two randomised controlled trials that evaluated the effects of adding HMF early for preterm infants."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found only limited data from two trials. There is uncertainty as to whether adding HMF early for preterm infants has an effect on important outcomes such as growth during hospital stay, necrotising enterocolitis, death before discharge, presence of growth failure at discharge, and length of hospital stay."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The available evidence is insufficient to support or refute early addition of HMF to human milk to promote growth in preterm infants. More trials are needed to examine whether adding HMF early is beneficial or harmful for preterm infants."
+    }
+  ]
+}

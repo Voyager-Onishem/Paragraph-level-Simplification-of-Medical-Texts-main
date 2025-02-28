@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005374",
+  "name": "Oral corticosteroids for stable chronic obstructive pulmonary disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is a common chronic lung disorder, usually related to cigarette smoking, representing a major and increasing cause of morbidity and mortality. It is defined \"as a disease state characterized by airflow limitation that is not fully reversible. The airflow limitation is usually both progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases\". The use of corticosteroids for their anti-inflammatory effects has been suggested."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of oral corticosteroids on the health status of patients with stable COPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches of the Cochrane Airways Group Specialised Register and MEDLINE were carried out in December 2003 and 2004. Review articles and bibliographies were searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled prospective studies in adults with stable COPD ( post-bronchodilator FEV1 <80% of predicted, FEV1/FVC <70%) and a history of smoking, excluding known asthmatics, in which oral steroid use was compared with placebo and use of co-interventions was matched in both groups."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data was extracted independently by two reviewers. All trials were combined using Review Manager."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 459 titles 24 studies met the inclusion criteria. Treatment lasted three weeks or less in 19 studies, high dose oral steroid was used in 21 studies and subjects had moderate or severe COPD in 15 studies. There was a significant difference in FEV1 after two weeks treatment, WMD 53.30 ml; 95% confidence interval 22.21 to 84.39 favouring oral steroid use compared to placebo when 14 studies with available data (n=396) were combined, with no significant heterogeneity. There was a significant increase in odds for individual patient FEV1 response greater than 20% from baseline with high dose oral steroid treatment compared to placebo, OR 2.71; 95% CI 1.84 to 4.01 (9 studies) . It would be necessary to treat 7 patients (95% CI 5 to 12) with oral corticosteroids to achieve one extra case of increasing FEV1 by more than 20%, with a placebo group risk of 0.13. All differences in health-related quality of life were less than the minimum clinically important difference.\nThere were small statistically significant advantages for functional capacity and respiratory symptom of wheeze with oral steroid treatment but no significant difference in risk of withdrawal from study due to an exacerbation or rate of serious exacerbations over 2 years with low dose oral steroid treatment. There was an increased risk of adverse effects, including increased blood glucose, adrenal suppression and reduced serum osteocalcin."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no evidence to support the long-term use of oral steroids at doses less than 10-15 mg prednisolone though some evidence that higher doses (≥ 30 mg prednisolone) improve lung function over a short period. Potentially harmful adverse effects e.g.. diabetes, hypertension, osteoporosis would prevent recommending long-term use at these high doses in most patients."
+    }
+  ],
+  "pls_title": "Oral corticosteroids for stable chronic obstructive pulmonary disease",
+  "pls_type": "long",
+  "pls": "Chronic obstructive pulmonary disease (COPD) is a common, progressive lung disorder with mainly non-reversible limitation of airflow. Corticosteroids improve airflow limitation in asthma and have been tried in COPD. This review found treatment with oral steroids improved lung function and symptoms more than placebo, but not all people benefited equally. Long-term use did not slow the decline in lung function and there was an increased risk of side-effects such as diabetes and osteoporosis."
+}

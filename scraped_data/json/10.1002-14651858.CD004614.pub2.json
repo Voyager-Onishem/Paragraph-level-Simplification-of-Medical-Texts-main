@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004614.pub2",
+  "name": "Unit‐dose packaged drugs for treating malaria",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Unit-dose packaging of antimalarial drugs may improve the success of malaria treatments by making it easier for patients to take them correctly."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarize the effects of unit-dose packaged treatment on treatment failure and treatment adherence in people with uncomplicated malaria."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register (February 2009); CENTRAL (The Cochrane Library Issue 1, 2009); MEDLINE (1966 to February 2009); EMBASE (1980 to February 2009); LILACS (February 2009); conference proceedings, and reference lists of articles. We also contacted pharmaceutical companies, organizations, and researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs), cluster-RCTs and quasi-RCTs of unit-dose packaged drugs for treating uncomplicated malaria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently assessed trial eligibility and risk of bias, and extracted data for an intention-to-treat analysis, where possible. We combined binary data using risk ratio (RR) and the fixed-effect model, and presented them with 95% confidence intervals (CI). We attempted to contact trial authors for additional information."
+    },
+    {
+      "heading": "Main results",
+      "text": "One RCT (203 participants), three quasi-RCTs (895 participants), and one cluster-RCT (six health facilities) met the inclusion criteria. Trials were generally of poor methodological quality, and none adequately assessed treatment failure. Unit-dose packaged drugs (in conjunction with prescriber training and patient information) appeared to be associated with higher participant-reported treatment adherence in all trials.\nA meta-analysis of two trials (596 participants) showed that participant-reported treatment adherence was slightly higher with blister-packed tablets compared with tablets in paper envelopes (RR 1.18, 95% CI 1.12 to 1.25). Two trials using tablets in sectioned polythene bags as the intervention also noted an increase in participant-reported treatment adherence: the cluster-RCT (six clusters) compared it with tablets in paper envelopes, and the other trial compared it with syrup in bottles (RR 2.15, 95% CI 1.76 to 2.61; 299 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to know if the effects of unit-dose packaged antimalarial drugs reduce treatment failure. Unit-dose packaging, supported by prescriber training and patient information, appears to improve participant-reported treatment adherence, but these data come from trials with methodological limitations."
+    }
+  ],
+  "pls_title": "Unit-dose packaging of drugs for treating malaria",
+  "pls_type": "long",
+  "pls": "Malaria is a parasitic disease spread by mosquitoes in areas such as sub-Saharan Africa, South-East Asia and South America. Millions of people are infected with malaria each year. It is thought that packaging a course of treatment in units of a single dose may better ensure the correct dosage is taken, thus increasing the success of treatment. The review found insufficient good quality evidence from randomized controlled trials to determine if unit-dose packaging of drugs saves lives, but there is some indication that it might improve treatment adherence. More research is needed."
+}

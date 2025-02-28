@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013504.pub2",
+  "name": "Interrupted versus uninterrupted anticoagulation therapy for catheter ablation in adults with arrhythmias ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The management of anticoagulation therapy around the time of catheter ablation (CA) procedure for adults with arrhythmia is critical and yet is variable in clinical practice. The ideal approach for safe and effective perioperative management should balance the risk of bleeding during uninterrupted anticoagulation while minimising the risk of thromboembolic events with interrupted therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy and harms of interrupted versus uninterrupted anticoagulation therapy for catheter ablation (CA) in adults with arrhythmias."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and SCI-Expanded on the Web of Science for randomised controlled trials on 5 January 2021. We also searched three registers on 29 May 2021 to identify ongoing or unpublished trials. We performed backward and forward searches on reference lists of included trials and other systematic reviews and contacted experts in the field. We applied no restrictions on language or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing uninterrupted anticoagulation with any modality of interruption with or without heparin bridging for CA in adults aged 18 years or older with arrhythmia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors conducted independent screening, data extraction, and assessment of risk of bias. A third review author resolved disagreements. We extracted data on study population, interruption strategy, ablation procedure, thromboembolic events (stroke or systemic embolism), major and minor bleeding, asymptomatic thromboembolic events, cardiovascular and all-cause mortality, quality of life (QoL), length of hospital stay, cost, and source of funding. We used GRADE to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 studies (4714 participants) that compared uninterrupted periprocedural anticoagulation with interrupted anticoagulation. Studies performed an interruption strategy by either a complete interruption (one study) or by a minimal interruption (11 studies), of which a single-dose skipped strategy was used (nine studies) or two-dose skipped strategy (two studies), with or without heparin bridging.\nStudies included participants with a mean age of 65 years or greater, with only two studies conducted in relatively younger individuals (mean age less than 60 years). Paroxysmal atrial fibrillation (AF) was the primary type of AF in all studies, and seven studies included other types of AF (persistent and long-standing persistent). Most participants had CHADS2 or  CHADS2-VASc demonstrating a low–moderate risk of stroke, with almost all participants having normal or mildly reduced renal function. Ablation source using radiofrequency energy was the most common (seven studies).\nTen studies (2835 participants) were conducted in East Asian countries (Japan, China, and South Korea), while the remaining two studies were conducted in the USA. Eight studies were conducted in a single centre. Postablation follow-up was variable among studies at less than 30 days (three studies), 30 days (six studies), and more than 30 days postablation (three studies).\nOverall, the meta-analysis showed high uncertainty of the effect between the interrupted strategy compared to uninterrupted strategy on the primary outcomes of thromboembolic events (risk ratio (RR) 1.76, 95% confidence interval (CI) 0.33 to 9.46; I2 = 59%; 6 studies, 3468 participants; very low-certainty evidence). However, subgroup analysis showed that uninterrupted vitamin K antagonist (VKA) is associated with a lower risk of thromboembolic events without increasing the risk of bleeding. There is also uncertainty on the outcome of major bleeding events (RR 1.10, 95% CI 0.59 to 2.05; I2 = 6%; 10 studies, 4584 participants; low-certainty evidence). The uncertainty was also evident for the secondary outcomes of minor bleeding (RR 1.01, 95% CI 0.46 to 2.22; I2 = 87%; 9 studies, 3843 participants; very low-certainty evidence), all-cause mortality (RR 0.34, 95% CI 0.01 to 8.21; 442 participants; low-certainty evidence) and asymptomatic thromboembolic events (RR 1.45, 95% CI 0.85 to 2.47; I2 = 56%; 6 studies, 1268 participants; very low-certainty evidence). There was a lower risk of the composite endpoint of thromboembolic events (stroke, systemic embolism, major bleeding, and all-cause mortality) in the interrupted compared to uninterrupted arm (RR 0.23, 95% CI 0.07 to 0.81; 1 study, 442 participants; low-certainty evidence).\nIn general, the low event rates, different comparator anticoagulants, and use of different ablation procedures may be the cause of imprecision and heterogeneity observed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This meta-analysis showed that the evidence is uncertain to inform the decision to either interrupt or continue anticoagulation therapy around CA procedure in adults with arrhythmia on outcomes of thromboembolic events, major and minor bleeding, all-cause mortality, asymptomatic thromboembolic events, and a composite endpoint of thromboembolic events (stroke, systemic embolism, major bleeding, and all-cause mortality).\nMost studies in the review adopted a minimal interruption strategy which has the advantage of reducing the risk of bleeding while maintaining a lower level of anticoagulation to prevent periprocedural thromboembolism, hence low event rates on the primary outcomes of thromboembolism and bleeding. The one study that adopted a complete interruption of VKA showed that uninterrupted VKA reduces the risk of thromboembolism without increasing the risk of bleeding. Hence, future trials with larger samples, tailored to a more generalisable population and using homogeneous periprocedural anticoagulant therapy and ablation source are required to address the safety and efficacy of the optimal management of anticoagulant therapy prior to ablation."
+    }
+  ],
+  "pls_title": "The continuation or discontinuation of oral anticoagulants for people with arrhythmia and undergoing catheter ablation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Should doctors continue or stop blood thinner medicine before catheter ablation procedures in people with arrhythmia?"
+    },
+    {
+      "heading": "Background",
+      "text": "Irregular heartbeats (also known as arrhythmia) come in different types; the most common type of which is uncoordinated irregular beats (also known as atrial fibrillation). People with irregular heartbeats are at risk of stroke and hence they require long-term use of blood thinner medicines to prevent blood clots. Many of these patients may need to undergo a procedure called 'ablation' where doctors use surgery or a catheter (a thin flexible tube) to restore the normal rhythm of the heart. Before this procedure, the doctor may decide to continue the blood thinner or stop it temporarily. Such a decision should consider two things. First, the risk of a blood clot developing at the time of the ablation if the blood thinner is stopped. Second, the risk of bleeding during the procedure if the blood thinner is continued. There is no clear evidence that one decision is better than the other in terms of safety. Due to this uncertainty, we undertook this review to investigate the benefit and harms of continuing versus stopping the blood thinner at the time of the ablation procedure."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases and identified 12 clinical trials involving 4714 participants aged 18 years and older with atrial fibrillation. The participants were randomly (like a flip of a coin) put into one of two or more groups. The groups were: continuing the blood thinner at the time of the procedure or stopping the blood thinner either for several days or by one or two doses before the procedure with or without giving additional heparin.\nThe trials reported on the risks of stroke, major bleeding, and minor bleeding after a follow-up period of about 30 days after the procedure. The included trials examined different ablation procedures as well as different blood thinners, including Coumadin and the new oral blood thinners such as apixaban, rivaroxaban, edoxaban, and dabigatran. Ten trials were conducted in East Asian populations (Japan, China, and South Korea). Drug companies funded two trials. The evidence is current to 5 January 2021."
+    },
+    {
+      "heading": "Key results",
+      "text": "Due to the uncertainty of the evidence, after combining the results from the 12 clinical trials in this review, we are unsure about advising one strategy over another with the current evidence. The decision to continue, completely stop or withhold one or two doses of the blood thinner before the procedure should be individualised based on the patient's risks of stroke and bleeding until more well-designed clinical trials are available to inform a conclusive decision."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence should be interpreted with caution. The review results are limited by variations in most trial comparisons, low numbers of events, trials being conducted in only one medical setting, and mostly described the intervention in East Asian populations. Further high-quality trials are needed to find the ideal strategy for handling blood thinners at the time of the ablation procedure without increasing harm."
+    }
+  ]
+}

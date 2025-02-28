@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008141.pub2",
+  "name": "Second‐generation antipsychotics for obsessive compulsive disorder",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Obsessive compulsive disorder (OCD) is a psychiatric disorder which has been shown to affect 2 to 3.5% of people during their lifetimes. Inadequate response occurs in 40% to 60% of people that are prescribed first line pharmaceutical treatments (selective serotonin reuptake inhibitors (SSRIs)). To date not much is known about the efficacy and adverse effects of second-generation antipsychotic drugs (SGAs) in people suffering from OCD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of SGAs (monotherapy or add on) compared with placebo or other forms of pharmaceutical treatment for people with OCD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Depression, Anxiety and Neurosis Group's controlled trial registers (CCDANCTR-Studies and CCDANCTR-References) were searched up to 21 July 2010. The author team ran complementary searches on ClinicalTrials.gov and contacted key authors and drug companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included double-blind randomised controlled trials (RCTs) comparing oral SGAs (monotherapy or add on) in adults with other forms of pharmaceutical treatment or placebo in people with primary OCD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For dichotomous data we calculated the odds ratio (OR) and their 95% confidence intervals (CI) on an intention-to-treat basis based on a random-effects model. For continuous data, we calculated mean differences (MD), again based on a random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 RCTs with 396 participants on three SGAs. All trials investigated the effects of adding these SGAs to antidepressants (usually SSRIs). The duration of all trials was less than six months. Only 13% of the participants left the trials early. Most trials were limited in terms of quality aspects.\nTwo trials examined olanzapine and found no difference in the primary outcome (response to treatment) and most other efficacy-related outcomes but it was associated with more weight gain than monotherapy with antidepressants.\nQuetiapine combined with antidepressants was also not any more efficacious than placebo combined with antidepressants in terms of the primary outcome, but there was a significant superiority in the mean Yale-Brown Obsessive Compulsive Scale (Y-BOCS) score at endpoint (MD -2.28, 95% CI -4.05 to -0.52). There were also some beneficial effects of quetiapine in terms of anxiety or depressive symptoms.\nRisperidone was more efficacious than placebo in terms of the primary outcome (number of participants without a significant response) (OR 0.17, 95% CI 0.04 to 0.66) and in the reduction of anxiety and depression (MD -7.60, 95% CI -12.37 to -2.83)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available data of the effects of olanzapine in OCD are too limited to draw any conclusions. There is some evidence that adding quetiapine or risperidone to antidepressants increases efficacy, but this must be weighed against less tolerability and limited data."
+    }
+  ],
+  "pls_title": "Second-generation antipsychotic drugs for obsessive compulsive disorder",
+  "pls_type": "long",
+  "pls": "This review found some trials comparing the effects of adding second-generation antipsychotic drugs or placebo to antidepressants in obsessive compulsive disorder. There were only 11 trials on three second-generation antipsychotic drugs (olanzapine, quetiapine and risperidone). While not much can be said about olanzapine, quetiapine and risperidone showed some efficacy benefit, but also adverse effects."
+}

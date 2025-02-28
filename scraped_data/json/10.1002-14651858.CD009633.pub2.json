@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009633.pub2",
+  "name": "Clonidine premedication for postoperative analgesia in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Postoperative pain remains a significant problem following paediatric surgery. Premedication with a suitable agent may improve its management. Clonidine is an alpha-2 adrenergic agonist which has sedative, anxiolytic and analgesic properties. It may therefore be a useful premedication for reducing postoperative pain in children."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the evidence for the effectiveness of clonidine, when given as a premedication, in reducing postoperative pain in children less than 18 years of age. We also sought evidence of any clinically significant side effects."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 12, 2012), Ovid MEDLINE (1966 to 21 December 2012) and Ovid EMBASE (1982 to 21 December 2012), as well as reference lists of other relevant articles and online trial registers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized (or quasi-randomized), controlled trials comparing clonidine premedication to placebo, a higher dose of clonidine, or another agent when used for surgical or other invasive procedures in children under the age of 18 years and where pain or a surrogate (principally the need for supplementary analgesia) was reported."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently performed the database search, decided on the inclusion eligibility of publications, ascertained study quality and extracted data. They then resolved any differences between their results by discussion. The data were entered into RevMan 5 for analyses and presentation. Sensitivity analyses were performed, as appropriate, to exclude studies with a high risk of bias."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 11 trials investigating a total of 742 children in treatment arms relevant to our study question. Risks of bias in the studies were mainly low or unclear, but two studies had aspects of their methodology that had a high risk of bias. Overall, the quality of the evidence from pooled studies was low or had unclear risk of bias. Four trials compared clonidine with a placebo or no treatment, six trials compared clonidine with midazolam, and one trial compared clonidine with fentanyl. There was substantial methodological heterogeneity between trials; the dose and route of clonidine administration varied as did the patient populations, the types of surgery and the outcomes measured. It was therefore difficult to combine the outcomes of some trials for meta-analysis.\nWhen clonidine was compared to placebo, pooling studies of low or unclear risk of bias, the need for additional analgesia was reduced when clonidine premedication was given orally at 4 µg/kg (risk ratio (RR) 0.24, 95% confidence interval (CI) 0.11 to 0.51). Only one small trial (15 patients per arm) compared clonidine to midazolam for the same outcome; this also found a reduction in the need for additional postoperative analgesia (RR 0.25, 95% CI 0.09 to 0.71) when clonidine premedication was given orally at 2 or 4 µg/kg compared to oral midazolam at 0.5 mg/kg. A trial comparing oral clonidine at 4 µg/kg with intravenous fentanyl at 3 µg/kg found no statistically significant difference in the need for rescue analgesia (RR 0.89, 95% CI 0.56 to 1.42). When clonidine 4 µg/kg was compared to clonidine 2 µg/kg, there was a statistically significant difference in the number of patients requiring additional analgesia, in favour of the higher dose, as reported by a single, higher-quality trial (RR 0.38, 95% CI 0.23 to 0.65).\nThe effect of clonidine on pain scores was hard to interpret due to differences in study methodology, the doses and route of drug administration, and the pain scale used. However, when given at a dose of 4 µg/kg, clonidine may have reduced analgesia requirements after surgery. There were no significant side effects of clonidine that were reported such as severe hypotension, bradycardia, or excessive sedation requiring intervention. However, several studies used atropine prophylactically with the aim of preventing such adverse effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There were only 11 relevant trials studying 742 children having surgery where premedication with clonidine was compared to placebo or other drug treatment. Despite heterogeneity between trials, clonidine premedication in an adequate dosage (4 µg/kg) was likely to have a beneficial effect on postoperative pain in children. Side effects were minimal, but some of the studies used atropine prophylactically with the intention of preventing bradycardia and hypotension. Further research is required to determine under what conditions clonidine premedication is most effective in providing postoperative pain relief in children."
+    }
+  ],
+  "pls_title": "Clonidine premedication for postoperative pain in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of giving clonidine before anaesthesia (that is, as a premedication) on postoperative pain in children."
+    },
+    {
+      "heading": "Background",
+      "text": "Pain after operations remains a major problem for children undergoing surgery. Premedication is the practice of giving a drug to reduce anxiety or provide sedation, or both, prior to anaesthesia. Premedications can also be used to provide pain relief after surgery. Clonidine is sometimes used as a premedication as it is believed to have some useful effects such as pain relief, sedation, and reducing anxiety. We investigated whether clonidine premedication provides pain relief after surgery in children."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to December 2012. We identified a total of 11 controlled studies, including a total of 742 children, where clonidine was compared to another medication or to a dummy treatment (placebo)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found evidence that when clonidine is given at an adequate dose (4 µg/kg) it is effective in reducing the need for pain relief after surgery for children (and probably reduces the children's pain) when compared to a placebo. The evidence is less clear when clonidine is compared to the sedative drug midazolam; this is likely to relate to differences in the design of the clinical trials. The side effects of clonidine did not seem to be a significant problem at the doses used, although in some of the studies the investigators took measures to prevent such side effects by the use of other medications."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the evidence so far is of low or unclear quality. Further research is required to confirm under what conditions clonidine premedication is most effective in children."
+    }
+  ]
+}

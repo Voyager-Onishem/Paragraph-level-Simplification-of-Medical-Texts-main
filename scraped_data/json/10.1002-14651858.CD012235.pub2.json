@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012235.pub2",
+  "name": "Interventions for ulceration and other skin changes caused by nerve damage in leprosy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "At the end of 2016, 145 countries reported to the World Health Organization (WHO) over 173,000 new cases of leprosy worldwide. In the past 20 years, over 16 million people have been treated for leprosy globally. The condition's main complications are injuries and ulceration caused by sensory loss from nerve damage. In this review we explored interventions to prevent or treat secondary damage to the skin in people affected by leprosy (Hansen's disease). This is an update of a Cochrane Review published in 2008."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of education, information, self-care programmes, dressings, skin care, footwear and other measures for preventing and healing secondary damage to the skin in persons affected by leprosy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated our searches of the following databases up to July 2018: the Cochrane Skin Group Specialised Register, CENTRAL, MEDLINE, Embase, AMED, LILACS, and CINAHL. We also searched five trial registers, three grey literature databases, and the reference lists of included studies for further references to relevant randomised controlled trials (RCTs)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs or quasi-RCTs or randomised cross-over trials involving anyone with leprosy and potential damage to peripheral nerves who was treated with any intervention designed to prevent damage, heal existing ulcers, and prevent development of new ulcers. Eligible comparisons were usual care, no interventions, or other interventions (e.g. other types of dressings or footwear)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We adhered to standard methodological procedures expected by Cochrane. Primary outcomes were prevention of ulcer(s), healing of existing ulcer(s) and adverse events. We used GRADE to assess the certainty of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 trials (854 participants). Eleven studies reported on gender (men: 472, women: 157). Participant age varied from 18 to 74 years. Most participants had a single, mainly non-infected, wound on one foot, which had been there for less than a year. Only seven studies reported whole study duration (there was no follow-up post-treatment), which was on average six months (range: 1 to 12 months). The studies were conducted in Brazil, Ethiopia, Egypt, Indonesia, Mexico, South Korea, and India. Many 'Risk of bias' assessments were rated as unclear risk due to limited information. Six studies had high risk of bias in at least one domain, including selection and attrition bias.\nThirteen studies evaluated different interventions for treating existing ulcers, one of them also evaluated prevention of new ulcers. One study aimed to prevent skin changes, such as cracking and fissures. Investigated interventions included: laser therapy, light-emitting diode (LED), zinc tape, intralesional pentoxifylline, pulsed magnetic fields, wax therapy, ketanserin, human amniotic membrane gel, phenytoin, plaster shoes, and footwear.\nWe are uncertain about the following key results, as the certainty of evidence is very low. All time points were measured from baseline.\nThree studies compared zinc tape versus other interventions and reported results in favour of zinc tape. One study compared zinc tape versus magnesium sulphate: at one month the number of healed ulcers and reduction in mean ulcer area was higher with zinc tape (risk ratio (RR) 2.00, 95% confidence interval (CI) 0.43 to 9.21, and mean difference (MD) -14.30 mm², 95% CI -26.51 to -2.09, respectively, 28 participants). Another study compared zinc tape and povidone iodine and found that even though there was a greater reduction in ulcer area after six weeks of treatment with zinc tape, there was no clear difference due to the wide 95% CI (MD 128.00 mm², 95% CI -110.01 to 366.01; 38 participants). The third study (90 participants) compared adhesive zinc tape with gauze soaked in Eusol, and found the healing time for deep ulcers was less compared to zinc tape: 17 days (95% CI 12 to 20) versus 30 days (95% CI 21 to 63). Adverse events were only collected in the study comparing zinc tape with gauze soaked in Eusol: there were no signs of skin sensitisation in either group at two months.\nTwo studies compared topical phenytoin versus saline dressing and reported results in favour of phenytoin. One study reported a greater mean percentage reduction of ulcer area after four weeks with phenytoin 2% (MD 39.30%, 95% CI 25.82 to 52.78; 23 participants), and the other study reported a greater mean percentage reduction of ulcer volume (16.60%) after four weeks with phenytoin (95% CI 8.46 to 24.74; 100 participants). No adverse events were observed with either treatment during the four-month treatment period (2 studies, 123 participants). Prevention of ulcers was not evaluated in these nor the zinc studies, as the interventions were not for preventative use.\nTwo studies compared protective footwear (with or without self-care) with either 1) polyvinyl chloride (PVC) boots, or 2) pulsed magnetic fields plus self-care and protective footwear. In the study comparing canvas shoes versus PVC boots, none of the 72 participants with scars at the start of the study developed new ulcers over one-year follow-up. Healing of ulcers was assessed in 38 participants from this study, but we are unclear if there is a difference between groups. In the study comparing pulsed magnetic fields (in addition to self-care and protective footwear) to only self-care and footwear in 33 participants, we are uncertain if the mean volume of ulcers at four to five weeks' follow-up was different between groups; this study did not evaluate the prevention of ulcers. Information for adverse events was only reported in the study comparing canvas shoes with PVC boots; the authors stated that the PVC boots could become hot in strong sunlight and possibly burn the feet."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, we could not draw firm conclusions about the effects of the included interventions. The main evidence limitations were high or unclear risk of bias, including selection, performance, detection, and attrition bias; imprecision due to few participants in the studies; and indirectness from poor outcome measurement and inapplicable interventions. Future research should clearly report important outcomes, such as adverse events, and assess widely available interventions, which should include treatments aimed at prevention. These trials should ensure allocation concealment, blinding, and an adequate sample size."
+    }
+  ],
+  "pls_title": "Treatments for ulcers (wounds) and other skin changes in people with leprosy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effects of treatments (e.g. education, self-care, dressings, skin care, or footwear) designed to prevent or treat skin damage in people with leprosy and those with potential damage to peripheral nerves. Treatments could be compared against usual care, no treatment, or another treatment. Evidence is current to July 2018."
+    },
+    {
+      "heading": "Background",
+      "text": "Leprosy (Hansen's disease) is a long-lasting, infectious global disease, which may lead to complications like injuries and development of wounds (ulcers), particularly on the feet. Long-term nerve and muscle damage impacts a person's quality of life, leading to mental and financial difficulties. Late diagnosis is the greatest cause of disability, so the key to effective management is early diagnosis and treatment, and early recognition and management of nerve damage, combined with effective health education to prevent limb damage. This review aimed to address uncertainties regarding the best way to prevent and treat skin damage."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 14 trials (854 participants with leprosy). Participants mostly had only one wound on one foot. Wounds were mainly simple (not infected) and varied in size and depth, and were less than one year old; some wounds were more complicated. Participants ranged from 18 to 74 years old. In the 11 studies which reported gender, more men were included. Studies were conducted in Brazil, Ethiopia, Egypt, Indonesia, Mexico, South Korea, and India, in mainly outpatient clinics. Most studies did not report funding sources.\nTreatments were mostly compared to dry dressings or dressings soaked in differing solutions. Other comparisons included special plaster, canvas shoes, and foot soak."
+    },
+    {
+      "heading": "Key results",
+      "text": "Treatments evaluated included: laser therapy, light-emitting diode (LED), zinc tape or paste, pentoxifylline injections, exposure to pulsed magnetic fields, wax therapy, ketanserin gel, amniotic membrane gel, phenytoin powder, plaster shoes, and footwear. Outcomes were measured from the beginning of treatment. The following key results are based on very low-certainty evidence, so we are not sure of these results.\nThree studies compared zinc tape with other interventions: magnesium sulphate glycerin, povidone iodine, or gauze soaked in Eusol. After one month of treatment, the number of healed ulcers was higher and the ulcer area was lower in the zinc tape group compared with magnesium sulphate glycerin. There was no clear difference in the reduction of ulcer area at six weeks when comparing zinc tape to povidone iodine. The healing time for deep ulcers in the zinc tape group was 17 days compared to 30 days with gauze soaked in Eusol. This study also reported no signs of skin sensitisation in either group at two months; the other two studies provided no data on adverse events.\nTwo studies compared topical phenytoin to salt water dressing. One study showed a greater reduction in ulcer area with phenytoin. The other study found a greater reduction in ulcer volume in favour of phenytoin. Both studies measured this outcome after four weeks of treatment. No adverse events were observed in either study.\nThe five studies just described did not assess prevention of ulcers, as the therapies were for treatment rather than prevention.\nTwo studies compared protective footwear (with or without self-care) with either polyvinyl chloride (PVC - a form of plastic) boots, or pulsed magnetic fields plus self-care and protective footwear. In the study comparing canvas shoes versus PVC boots, none of the participants who had scars at the start developed new ulcers over one year. There was no clear difference between the groups in the number of people whose ulcers had healed. In the study assessing pulsed magnetic fields, prevention of new ulcers was not measured; however, there was no clear difference between groups in volume of ulcers four to five weeks after the start of treatment. Only one study reported information about adverse events: the PVC boots could become very hot in strong sunlight, with the possibility of burning."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We judged the evidence as very low certainty, meaning the results are ambiguous. There were concerns regarding how participants were allocated to treatments, whether participants and study investigators knew which treatment had been received, and the number of participants who dropped out of the studies."
+    }
+  ]
+}

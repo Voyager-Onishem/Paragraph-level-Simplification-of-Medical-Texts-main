@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD011964.pub2",
+  "name": "Menopausal status, ultrasound and biomarker tests in combination for the diagnosis of ovarian cancer in symptomatic women ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ovarian cancer (OC) has the highest case fatality rate of all gynaecological cancers. Diagnostic delays are caused by non-specific symptoms. Existing systematic reviews have not comprehensively covered tests in current practice, not estimated accuracy separately in pre- and postmenopausal women, or used inappropriate meta-analytic methods."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To establish the accuracy of combinations of menopausal status, ultrasound scan (USS) and biomarkers for the diagnosis of ovarian cancer in pre- and postmenopausal women and compare the accuracy of different test combinations."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid), five other databases and three trial registries from 1991 to 2015 and MEDLINE (Ovid) and Embase (Ovid) from June 2015 to June 2019. We also searched conference proceedings from the European Society of Gynaecological Oncology, International Gynecologic Cancer Society, American Society of Clinical Oncology and Society of Gynecologic Oncology, ZETOC and Conference Proceedings Citation Index (Web of Knowledge). We searched reference lists of included studies and published systematic reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cross-sectional diagnostic test accuracy studies evaluating single tests or comparing two or more tests, randomised trials comparing two or more tests, and studies validating multivariable models for the diagnosis of OC investigating test combinations, compared with a reference standard of histological confirmation or clinical follow-up in women with a pelvic mass (detected clinically or through USS) suspicious for OC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed quality using QUADAS-2. We used the bivariate hierarchical model to indirectly compare tests at commonly reported thresholds in pre- and postmenopausal women separately. We indirectly compared tests across all thresholds and estimated sensitivity at fixed specificities of 80% and 90% by fitting hierarchical summary receiver operating characteristic (HSROC) models in pre- and postmenopausal women separately."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 59 studies (32,059 women, 9545 cases of OC). Five studies evaluated the accuracy of a combination of menopausal status and USS findings (IOTA Logistic Regression Model 2 (LR2), four studies evaluated the Assessment of Different NEoplasias in the adneXa model (ADNEX)); 19 studies evaluated the accuracy of a combination of menopausal status, USS findings and serum biomarker CA125 (Risk of Malignancy Index (RMI)); and 42 studies evaluated the accuracy of a combination of menopausal status and two serum biomarkers (CA125 and HE4) (Risk of Ovarian Malignancy Algorithm (ROMA)). Most studies were at high or unclear risk of bias in participant, reference standard, and flow and timing domains. All studies were in hospital settings. Mean prevalence was 16% (RMI, ROMA), 22% (LR2) and 27% (ADNEX) in premenopausal women and 38% (RMI), 45% (ROMA), 52% (LR2) and 55% (ADNEX) in postmenopausal women. The prevalence of OC in the studies was considerably higher than would be expected in symptomatic women presenting in community-based settings, or in women referred from the community to hospital with a suspicion of OC. Studies were at high or unclear applicability because presenting features were not reported, or USS was performed by experienced ultrasonographers for RMI, LR2 and ADNEX.\nThe higher sensitivity and lower specificity observed in postmenopausal compared to premenopausal women across all index tests and at all thresholds may reflect highly selected patient cohorts in the included studies.\nIn premenopausal women, ROMA at a threshold of 13.1 (± 2), LR2 at a threshold to achieve a post-test probability of OC of 10% and ADNEX (post-test probability 10%) demonstrated a higher sensitivity (ROMA: 77.4%, 95% CI 72.7% to 81.5%; LR2: 83.3%, 95% CI 74.7% to 89.5%; ADNEX: 95.5%, 95% CI 91.0% to 97.8%) compared to RMI (57.2%, 95% CI 50.3% to 63.8%). The specificity of ROMA and ADNEX were lower in premenopausal women (ROMA: 84.3%, 95% CI 81.2% to 87.0%; ADNEX: 77.8%, 95% CI 67.4% to 85.5%) compared to RMI 92.5% (95% CI 90.3% to 94.2%). The specificity of LR2 was comparable to RMI (90.4%, 95% CI 84.6% to 94.1%).\nIn postmenopausal women, ROMA at a threshold of 27.7 (± 2), LR2 (post-test probability 10%) and ADNEX (post-test probability 10%) demonstrated a higher sensitivity (ROMA: 90.3%, 95% CI 87.5% to 92.6%; LR2: 94.8%, 95% CI 92.3% to 96.6%; ADNEX: 97.6%, 95% CI 95.6% to 98.7%) compared to RMI (78.4%, 95% CI 74.6% to 81.7%). Specificity of ROMA at a threshold of 27.7 (± 2) (81.5, 95% CI 76.5% to 85.5%) was comparable to RMI (85.4%, 95% CI 82.0% to 88.2%), whereas for LR2 (post-test probability 10%) and ADNEX (post-test probability 10%) specificity was lower (LR2: 60.6%, 95% CI 50.5% to 69.9%; ADNEX: 55.0%, 95% CI 42.8% to 66.6%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In specialist healthcare settings in both premenopausal and postmenopausal women, RMI has poor sensitivity. In premenopausal women, ROMA, LR2 and ADNEX offer better sensitivity (fewer missed cancers), but for ROMA and ADNEX this is off-set by a decrease in specificity and increase in false positives. In postmenopausal women, ROMA demonstrates a higher sensitivity and comparable specificity to RMI. ADNEX has the highest sensitivity in postmenopausal women, but reduced specificity. The prevalence of OC in included studies is representative of a highly selected referred population, rather than a population in whom referral is being considered. The comparative accuracy of tests observed here may not be transferable to non-specialist settings. Ultimately health systems need to balance accuracy and resource implications to identify the most suitable test."
+    }
+  ],
+  "pls_title": "What is the accuracy of different combinations of ultrasound imaging and blood tests to diagnose ovarian cancer in women before and after the menopause?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of ovarian cancer important?",
+      "text": "Many women diagnosed with ovarian cancer (OC) die from the disease, because it has usually spread outside the tubes/ovaries at the time of diagnosis. Missing OC (a false-negative result) may need major surgery and a lower chance of survival. An incorrect diagnosis of OC (a false-positive result) may result in anxiety, unnecessary further tests and surgery."
+    },
+    {
+      "heading": "What did we aim to do?",
+      "text": "We aimed to find out how accurate ultrasounds and blood tests are for diagnosing OC in premenopausal women and postmenopausal women."
+    },
+    {
+      "heading": "What did we study?",
+      "text": "We included 59 studies that compared four tests: Risk of Malignancy Index (RMI) (ultrasound and CA125 blood test); Risk of Ovarian Malignancy Algorithm (ROMA) (CA125 and HE4 blood tests); the IOTA Logistic Regression model 2 (LR2) ultrasound and the Assessment of Different NEoplasias in the adneXa model (ADNEX) (CA125 blood test and ultrasound)."
+    },
+    {
+      "heading": "What were the main results?",
+      "text": "Premenopausal women\nThe sensitivities (proportion of women with OC correctly identified) of ROMA (77.4%), LR2 (83.3%) and ADNEX (95.5%) are higher than RMI (57.2%).\nThe specificities (proportion of women without OC correctly identified) of ROMA (84.3%) and ADNEX (77.8%) were lower than RMI (92.5%) and LR2 (90.4%).\nThe results indicate that if these tests were to be used in hospital settings in a group of 1000 premenopausal women, of whom 30 (3%) actually have OC:\n– for RMI 13 women, for ROMA 7 women, for LR2 5 women and for ADNEX 1 woman would have their cancer missed by the test (false-negative result);\n– for RMI 73 women, for ROMA 152 women, for LR2 93 women and for ADNEX 215 women would test positive when they do not have OC (false-positive result).\nPostmenopausal women\nThe sensitivities of ROMA (90.3%), LR2 (94.8%) and ADNEX (97.6%) are higher than RMI (78.4%).\nThe specificities of ROMA (81.5%) and RMI (85.4%) are higher than LR2 (60.6%) and ADNEX (55.0%).\nThe results of these studies indicate that if these tests were to be used in hospital settings in a group of 1000 postmenopausal women, of whom 30 (3%) actually have OC:\n– for RMI 6 women, for ROMA 3 women, for LR2 2 women and for ADNEX 1 woman would have their cancer missed by the test (false-negative result);\n– for RMI 142 women, for ROMA 179 women, for LR2 382 women and for ADNEX 437 women would test positive when they do not have OC (false-positive result)."
+    },
+    {
+      "heading": "How reliable are the results?",
+      "text": "OC was diagnosed by histology (looking at surgically removed specimens under a microscope) or following up women for one year to see if they remained free of OC. In some studies, women with negative test results were not followed up for long enough to be sure a cancer had not been missed, and some studies excluded women with types of OC that are harder to diagnose. This may make tests appear more accurate than they are in practice."
+    },
+    {
+      "heading": "Who do the results apply to?",
+      "text": "Most studies were conducted in European hospitals in women with a confirmed pelvic mass. The occurrence of OC in included studies was much higher than seen in the community and so the accuracy of these tests may be different for women being tested in non-specialist healthcare settings."
+    },
+    {
+      "heading": "What are the implications?",
+      "text": "This review suggests that in both pre- and postmenopausal women referred to hospital with a pelvic mass, ADNEX appears to miss the fewest cases of OC and RMI misses the most cases of OC. RMI appears to result in the fewest incorrect diagnoses of OC and ADNEX results in the most incorrect diagnoses of OC. Incorrect diagnoses of OC, when no cancer is present (false-positive test), may result in anxiety, unnecessary further tests and surgery. When choosing which test to use, the potential for missed cancers must be balanced against unnecessary testing and surgery."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review includes studies published up to June 2019."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008367.pub4",
+  "name": "Oral hygiene care for critically ill patients to prevent ventilator‐associated pneumonia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ventilator-associated pneumonia (VAP) is defined as pneumonia developing in people who have received mechanical ventilation for at least 48 hours. VAP is a potentially serious complication in these patients who are already critically ill. Oral hygiene care (OHC), using either a mouthrinse, gel, swab, toothbrush, or combination, together with suction of secretions, may reduce the risk of VAP in these patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of oral hygiene care (OHC) on incidence of ventilator-associated pneumonia in critically ill patients receiving mechanical ventilation in hospital intensive care units (ICUs)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health’s Information Specialist searched the following databases: Cochrane Oral Health’s Trials Register (to 25 February 2020), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2020, Issue 1), MEDLINE Ovid (1946 to 25 February 2020), Embase Ovid (1980 to 25 February 2020), LILACS BIREME Virtual Health Library (1982 to 25 February 2020) and CINAHL EBSCO (1937 to 25 February 2020). We also searched the VIP Database (January 2012 to 8 March 2020). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) evaluating the effects of OHC (mouthrinse, gel, swab, toothbrush or combination) in critically ill patients receiving mechanical ventilation for at least 48 hours."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently assessed search results, extracted data and assessed risk of bias in included studies. We contacted study authors for additional information. We reported risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes, using the random-effects model of meta-analysis when data from four or more trials were combined."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 40 RCTs (5675 participants), which were conducted in various countries including China, USA, Brazil and Iran. We categorised these RCTs into five main comparisons: chlorhexidine (CHX) mouthrinse or gel versus placebo/usual care; CHX mouthrinse versus other oral care agents; toothbrushing (± antiseptics) versus no toothbrushing (± antiseptics); powered versus manual toothbrushing; and comparisons of other oral care agents used in OHC (other oral care agents versus placebo/usual care, or head-to-head comparisons between other oral care agents). We assessed the overall risk of bias as high in 31 trials and low in two, with the rest being unclear.\nModerate-certainty evidence from 13 RCTs (1206 participants, 92% adults) shows that CHX mouthrinse or gel, as part of OHC, probably reduces the incidence of VAP compared to placebo or usual care from 26% to about 18% (RR 0.67, 95% confidence intervals (CI) 0.47 to 0.97; P = 0.03; I2 = 66%). This is equivalent to a number needed to treat for an additional beneficial outcome (NNTB) of 12 (95% CI 7 to 128), i.e. providing OHC including CHX for 12 ventilated patients in intensive care would prevent one patient developing VAP. There was no evidence of a difference between interventions for the outcomes of mortality (RR 1.03, 95% CI 0.80 to 1.33; P = 0.86, I2 = 0%; 9 RCTs, 944 participants; moderate-certainty evidence), duration of mechanical ventilation (MD -1.10 days, 95% CI -3.20 to 1.00 days; P = 0.30, I2 = 74%; 4 RCTs, 594 participants; very low-certainty evidence) or duration of intensive care unit (ICU) stay (MD -0.89 days, 95% CI -3.59 to 1.82 days; P = 0.52, I2 = 69%; 5 RCTs, 627 participants; low-certainty evidence). Most studies did not mention adverse effects. One study reported adverse effects, which were mild, with similar frequency in CHX and control groups and one study reported there were no adverse effects.\nToothbrushing (± antiseptics) may reduce the incidence of VAP (RR 0.61, 95% CI 0.41 to 0.91; P = 0.01, I2 = 40%; 5 RCTs, 910 participants; low-certainty evidence) compared to OHC without toothbrushing (± antiseptics). There is also some evidence that toothbrushing may reduce the duration of ICU stay (MD -1.89 days, 95% CI -3.52 to -0.27 days; P = 0.02, I2 = 0%; 3 RCTs, 749 participants), but this is very low certainty. Low-certainty evidence did not show a reduction in mortality (RR 0.84, 95% CI 0.67 to 1.05; P = 0.12, I2 = 0%; 5 RCTs, 910 participants) or duration of mechanical ventilation (MD -0.43, 95% CI -1.17 to 0.30; P = 0.25, I2 = 46%; 4 RCTs, 810 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Chlorhexidine mouthwash or gel, as part of OHC, probably reduces the incidence of developing ventilator-associated pneumonia (VAP) in critically ill patients from 26% to about 18%, when compared to placebo or usual care. We did not find a difference in mortality, duration of mechanical ventilation or duration of stay in the intensive care unit, although the evidence was low certainty. OHC including both antiseptics and toothbrushing may be more effective than OHC with antiseptics alone to reduce the incidence of VAP and the length of ICU stay, but, again, the evidence is low certainty. There is insufficient evidence to determine whether any of the interventions evaluated in the studies are associated with adverse effects."
+    }
+  ],
+  "pls_title": "Oral hygiene care for critically ill patients to prevent ventilator-associated pneumonia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "Ventilator-associated pneumonia (VAP) is a lung infection. It develops in patients who are on artificial breathing machines (ventilators) in hospitals for more than 48 hours. Often, these patients are very ill – they may have had a heart attack or stroke, a serious accident, or major surgery. They may be unable to breathe on their own because they are unconscious or sedated while they receive treatment.\nVentilators supply patients with oxygen through a tube placed in the mouth or nose, or through a hole in the front of the neck. If germs enter through the tube and get into the patient’s lungs, this can lead to VAP. VAP is a potentially very serious complication in patients who are already very ill. It can cause worsening health and increases patients’ risk of dying.\nKeeping a patient’s mouth clean and free of disease (oral hygiene) could help to prevent VAP. Oral hygiene care includes:\n- mouthwash;\n- antiseptic (a substance that destroys harmful micro-organisms in the mouth) gel for the gums and teeth;\n- a soft foam sponge (swab) or toothbrush, to clean the mouth and teeth; and\n- tools (e.g. a suction tube) to suck away excess fluid, toothpaste or other debris from the mouth.\nThese can be used alone, or in combination.\nTo find out if oral hygiene care does prevent VAP, and whether some types of oral hygiene care are better than others, we reviewed the evidence from research studies."
+    },
+    {
+      "heading": "How did we identify and evaluate the evidence?",
+      "text": "First, we searched for randomised controlled studies. These are clinical studies where people are randomly put into one of two or more treatment groups, to compare the effects of different treatments. We then compared the results, and summarised the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study size and methods, and the consistency of findings across studies."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 40 studies that involved a total of 5675 people. All the people in the studies received treatment in hospital intensive care units. They required assistance from healthcare staff for their oral hygiene care. Most studies involved adults only, though one study focussed on children and another on newborn babies. The studies took place in a range of countries, including China (10 studies), Brazil (6 studies), the USA (6 studies) and Iran (5 studies).\nStudies compared a range of oral health care (such as mouthwashes, gels or toothbrushes) against either:\n- a placebo (dummy) treatment;\n- usual care; or\n- another oral health care treatment.\nHere we report the findings for two comparisons:\n1) Chlorhexidine (CHX, an antiseptic) in the form of mouthwash or gel, against placebo or usual care (13 studies); and\n2) Toothbrushing against no tooth brushing, with or without an antiseptic (8 studies).\nCHX against placebo or usual care\nThe evidence suggests that, compared to placebo or usual care, CHX:\n- probably prevents VAP from developing in very ill patients (13 studies);\n- probably has little or no effect on the risk of dying (9 studies);\n- may make little to no difference to patients’ length of stay in the intensive care unit (5 studies).\nWe do not know if CHX affects the length of time patients spend on a ventilator, or if it leads to adverse (unwanted) effects. This is because we have too little confidence in the evidence, because studies either:\n- reported imprecise or inconsistent results;\n- were conducted in ways likely to introduce error into the results; or\n- reported too little information.\nToothbrushing against no toothbrushing, with or without an antiseptic\nThe evidence suggests that, compared to no toothbrushing, toothbrushing may:\n- prevent VAP from developing in very ill patients (5 studies);\n- have little or no effect on the risk of dying (5 studies);\n- make little to no difference to how long people spend on ventilators (4 studies).\nWe do not know if toothbrushing affects patients’ length of stay in the intensive care unit, or if it leads to adverse effects. This is because we have too little confidence in the evidence, because studies either:\n- reported imprecise or inconsistent results; or\n- were conducted in ways likely to introduce error into the results."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Oral hygiene with CHX probably prevents VAP from developing in very ill patients treated in intensive care units. It probably has little or no effect on patients’ risk of dying, or length of stay in the intensive care unit.\nToothbrushing may prevent VAP from developing in very ill patients treated in intensive care units. It may have little or no effect on patients’ risk of dying, or how long patients spend on a ventilator.\nWe do not know if CHX or toothbrushing lead to adverse effects, because there is insufficient robust evidence about this."
+    },
+    {
+      "heading": "How-up-to date is this review?",
+      "text": "The evidence in this Cochrane Review is current to February 2020."
+    }
+  ]
+}

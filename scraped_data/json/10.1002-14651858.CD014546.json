@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014546",
+  "name": "Visual or visual‐tactile examination to detect and inform the diagnosis of enamel caries ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The detection and diagnosis of caries at the initial (non-cavitated) and moderate (enamel) levels of severity is fundamental to achieving and maintaining good oral health and prevention of oral diseases. An increasing array of methods of early caries detection have been proposed that could potentially support traditional methods of detection and diagnosis. Earlier identification of disease could afford patients the opportunity of less invasive treatment with less destruction of tooth tissue, reduce the need for treatment with aerosol-generating procedures, and potentially result in a reduced cost of care to the patient and to healthcare services."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of different visual classification systems for the detection and diagnosis of non-cavitated coronal dental caries for different purposes (detection and diagnosis) and in different populations (children or adults)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health's Information Specialist undertook a search of the following databases: MEDLINE Ovid (1946 to 30 April 2020); Embase Ovid (1980 to 30 April 2020); US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov, to 30 April 2020); and the World Health Organization International Clinical Trials Registry Platform (to 30 April 2020). We studied reference lists as well as published systematic review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy study designs that compared a visual classification system (index test) with a reference standard (histology, excavation, radiographs). This included cross-sectional studies that evaluated the diagnostic accuracy of single index tests and studies that directly compared two or more index tests. Studies reporting at both the patient or tooth surface level were included. In vitro and in vivo studies were considered. Studies that explicitly recruited participants with caries into dentine or frank cavitation were excluded. We also excluded studies that artificially created carious lesions and those that used an index test during the excavation of dental caries to ascertain the optimum depth of excavation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently and in duplicate using a standardised data extraction and quality assessment form based on QUADAS-2 specific to the review context. Estimates of diagnostic accuracy were determined using the bivariate hierarchical method to produce summary points of sensitivity and specificity with 95% confidence intervals (CIs) and regions, and 95% prediction regions. The comparative accuracy of different classification systems was conducted based on indirect comparisons. Potential sources of heterogeneity were pre-specified and explored visually and more formally through meta-regression."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 71 datasets from 67 studies (48 completed in vitro) reporting a total of 19,590 tooth sites/surfaces. The most frequently reported classification systems were the International Caries Detection and Assessment System (ICDAS) (36 studies) and Ekstrand-Ricketts-Kidd (ERK) (15 studies). In reporting the results, no distinction was made between detection and diagnosis. Only two studies were at low risk of bias across all four domains, and 15 studies were at low concern for applicability across all three domains. The patient selection domain had the highest proportion of high risk of bias studies (49 studies). Four studies were assessed at high risk of bias for the index test domain, nine for the reference standard domain, and seven for the flow and timing domain. Due to the high number of studies on extracted teeth concerns regarding applicability were high for the patient selection and index test domains (49 and 46 studies respectively).\nStudies were synthesised using a hierarchical bivariate method for meta-analysis. There was substantial variability in the results of the individual studies: sensitivities ranged from 0.16 to 1.00 and specificities from 0 to 1.00. For all visual classification systems the estimated summary sensitivity and specificity point was 0.86 (95% CI 0.80 to 0.90) and 0.77 (95% CI 0.72 to 0.82) respectively, diagnostic odds ratio (DOR) 20.38 (95% CI 14.33 to 28.98). In a cohort of 1000 tooth surfaces with 28% prevalence of enamel caries, this would result in 40 being classified as disease free when enamel caries was truly present (false negatives), and 163 being classified as diseased in the absence of enamel caries (false positives). The addition of test type to the model did not result in any meaningful difference to the sensitivity or specificity estimates (Chi2(4) = 3.78, P = 0.44), nor did the addition of primary or permanent dentition (Chi2(2) = 0.90, P = 0.64). The variability of results could not be explained by tooth surface (occlusal or approximal), prevalence of dentinal caries in the sample, nor reference standard. Only one study intentionally included restored teeth in its sample and no studies reported the inclusion of sealants.\nWe rated the certainty of the evidence as low, and downgraded two levels in total for risk of bias due to limitations in the design and conduct of the included studies, indirectness arising from the in vitro studies, and inconsistency of results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Whilst the confidence intervals for the summary points of the different visual classification systems indicated reasonable performance, they do not reflect the confidence that one can have in the accuracy of assessment using these systems due to the considerable unexplained heterogeneity evident across the studies. The prediction regions in which the sensitivity and specificity of a future study should lie are very broad, an important consideration when interpreting the results of this review. Should treatment be provided as a consequence of a false-positive result then this would be non-invasive, typically the application of fluoride varnish where it was not required, with low potential for an adverse event but healthcare resource and finance costs.\nDespite the robust methodology applied in this comprehensive review, the results should be interpreted with some caution due to shortcomings in the design and execution of many of the included studies. Studies to determine the diagnostic accuracy of methods to detect and diagnose caries in situ are particularly challenging. Wherever possible future studies should be carried out in a clinical setting, to provide a realistic assessment of performance within the oral cavity with the challenges of plaque, tooth staining, and restorations, and consider methods to minimise bias arising from the use of imperfect reference standards in clinical studies."
+    }
+  ],
+  "pls_title": "Visual or visual-tactile examination for the diagnosis of dental caries",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is it important to improve the detection of dental caries (tooth decay)?",
+      "text": "Dentists often aim to identify tooth decay that has already advanced to a level which needs a filling. If dentists were able to find tooth decay when it has only affected the outer layer of the tooth (enamel) then it is possible to stop the decay from spreading any further and prevent the need for fillings. It is also important to minimise the number of false-positive results when treatment may be given when caries is absent, and improved visual detection methods may reduce such occurrences."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out how accurate visual classification systems are for detecting early tooth decay as part of the dental 'check-up' for children and adults who visit their dentist. Researchers in Cochrane included 67 studies to answer this question."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Two main visual classification systems were studied in this review: the International Caries Detection and Assessment System (ICDAS) and the Ekstrand-Ricketts-Kidd (ERK) system. A third group of visual classifications is reported and labelled as 'Other' because the studies did not report what system was used. We studied decay on the occlusal surfaces (biting surfaces of the back teeth), the proximal surfaces (tooth surfaces that are next to each other), and smooth surfaces."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review included 67 studies with a total of 19,590 teeth. Some studies reported on more than one type of classification system, this gave us 71 sets of data to use. The results of these studies indicate that, in theory, if the visual classification systems were to be used by a dentist for a routine dental examination in a group of 1000 tooth sites/surfaces, of whom 350 (28%) have early tooth decay:\n• the use of a visual classification system will indicate that an estimated 403 will have early tooth decay, and of these, 163 (40%) will not have tooth decay (false positive - incorrect diagnosis);\n• of the 597 tooth sites/surfaces with a result indicating that tooth decay is not present, 40 (7%) will have early tooth decay (false negative - incorrect diagnosis).\nA diagram of these results can be found at oralhealth.cochrane.org/visual-examination-classification-systems-results-0331c. In this example, visual classification systems produce a high proportion of false-positive results. Treatment in the absence of disease is likely to be non-invasive such as the application of high fluoride toothpaste, or oral health advice and guidance from the dentist, but will incur financial cost to the patient or healthcare provider.\nWe found no evidence from the data collected that the classification systems differed in their accuracy."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "We only included studies that assessed healthy teeth or those that were thought to have early tooth decay. This is because teeth with deep tooth decay would be easier to identify. However, there were some problems with how the studies were conducted. This may result in the visual classification systems appearing more accurate than they really are, increasing the number of correct visual classification results. We judged the certainty of the evidence to be low due to how the studies selected their participants, the large number of studies that were carried out in a laboratory setting on extracted teeth, and variation in results."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Studies included in the review were carried out in Brazil, Europe, Japan, and Australia. A large number of studies performed the tests on extracted teeth, while clinical studies were completed in dental hospitals, general dental practices, or schools. Studies were from the years 1988 to 2019."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "We observed substantial variation in the results, which is perhaps unsurprising as the use of these classification systems involve interpretation by the user. There is considerable uncertainty in the likely performance of a future study. Further research studies should be carried out in a clinical setting."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "Review authors searched for and used studies published up to 30 April 2020."
+    }
+  ]
+}

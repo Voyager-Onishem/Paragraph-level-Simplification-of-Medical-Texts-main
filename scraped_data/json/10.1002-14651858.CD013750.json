@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013750",
+  "name": "Platinum‐containing regimens for triple‐negative metastatic breast cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In a previous Cochrane Review, we found that for women with metastatic breast cancer unselected for triple-negative disease, there is little or no survival benefit and excess toxicity from platinum-based regimens. In subgroup analyses, however, we found preliminary low-quality evidence of a survival benefit from platinum-based regimens for women with metastatic triple-negative breast cancer (mTNBC). This review updates the evidence from the mTNBC subgroup analyses in the previous Cochrane Review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of platinum-containing chemotherapy regimens with regimens not containing platinum in the management of women with mTNBC."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We obtained relevant studies published prior to 2015 and their extracted results from the mTNBC subgroup analysis in the previous Cochrane Review. We searched the Cochrane Breast Cancer Group's Specialised Register, CENTRAL, MEDLINE, Embase, the World Health Organization's International Clinical Trials Registry Platform and ClinicalTrials.gov between 2015 and 27 September 2019. We identified further potentially relevant studies from previous trial reports, systematic reviews, and meta-analyses."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials comparing platinum-containing chemotherapy regimens with regimens not containing platinum in women with mTNBC. Individual trials could compare one or more platinum-based regimens to one or more non-platinum regimens; hence there could be more 'treatment-comparisons' (i.e. platinum regimen versus non-platinum regimen comparison) than trials. Trial participants may have been purposely selected for mTNBC or inadvertently selected as a subgroup."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two independent reviewers assessed studies for eligibility and quality, and extracted all relevant data from each study. We derived hazard ratios (HRs) for time-to-event outcomes, where possible, and used fixed-effect models for meta-analyses. We analysed objective tumour response rates (OTRRs) and toxicities as binary (dichotomous) outcomes with risk ratios (RRs) used as measures of effects. We extracted quality of life data, if available. We used GRADE to rate the quality of evidence for time-to-event and tumour response outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 13 treatment-comparisons involving 1349 women from 10 studies. Twelve of the 13 treatment-comparisons were included in one or more meta-analyses. Of the 13 treatment-comparisons, six and eight had published or provided time-to-event data on overall survival (OS) or progression-free survival/time to progression (PFS/TTP), respectively, that could be included in meta-analyses. Ten treatment-comparisons published or provided OTRR data that could be included in meta-analyses. Eight of the 13 treatment-comparisons were from studies that selected participants on the basis of mTNBC status, while the other five treatment-comparisons were from studies that reported mTNBC results as part of subgroup analyses.\nAnalysis of six treatment-comparisons indicated that platinum-containing regimens may have provided a small survival benefit to mTNBC patients (HR 0.85, 95% CI 0.73 to 1.00; 958 women; moderate-quality evidence) with no evidence of heterogeneity (P = 0.41; I2 = 1%). Data from eight treatment-comparisons showed that platinum regimens may improve PFS/TTP (HR 0.77, 95% CI 0.68 to 0.88; 1077 women; very low-quality evidence). There was marked evidence of heterogeneity (P < 0.0001; I2 = 80%). There was also low-quality evidence of better tumour response for platinum recipients (RR 1.40, 95% CI 1.22 to 1.59; 1205 women) with some evidence of heterogeneity (P = 0.01; I2 = 58%). The observed heterogeneity for the PFS/TTP and OTRR outcomes may reflect between-study differences and general difficulties in assessing tumour response, as well as the varying potencies of the comparators.\nCompared with women receiving non-platinum regimens: rates of grade 3 and 4 nausea/vomiting were higher for platinum recipients (RR 4.77, 95% CI 1.93 to 11.81; 655 women; low-quality evidence) and rates of grade 3 and 4 anaemia were higher for platinum recipients (RR 3.80, 95% CI 2.25 to 6.42; 843 women; low-quality evidence). In general, however, relatively few intervention-comparisons could be included in meta-analyses for adverse events. None of the studies reported quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For women with mTNBC, there was moderate-quality evidence of a small survival benefit from platinum-based regimens compared to non-platinum regimens. This finding is consistent with findings of a PFS/TTP benefit and improved tumour response from platinum-based regimens. These potential benefits, however, should be weighed against previously identified excess toxicities from platinum-based regimens, particularly regimens containing cisplatin. Further randomised trials of platinum-based regimens among women with mTNBC are required."
+    }
+  ],
+  "pls_title": "Platinum-containing regimens for triple-negative metastatic breast cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Metastatic breast cancer occurs when the cancer has spread to areas of the body beyond the breast and nearby lymph nodes. Although metastatic breast cancer is generally not curable, it is widely accepted that women with metastatic disease should receive some form of chemotherapy to help ease the severity of disease symptoms, slow cancer progression and improve survival, when compared to no treatment. Chemotherapy containing platinum is known to be effective for treating a number of cancer types including lung, testicular, head and neck, bladder and ovarian cancers. However, it is also known to cause more adverse effects (such as nausea and vomiting, hair loss, anaemia, kidney damage and low white blood cells) than other chemotherapy options. The two platinum agents most used for treating metastatic breast cancer are carboplatin and cisplatin.\nIn a previous Cochrane Review, we found that for women with metastatic breast cancer, there is little or no survival benefit, and more side effects related to toxicity, from platinum-based regimens. In analysing different groups of women with metastatic disease, however, we found preliminary evidence of a survival benefit from platinum-based regimens for women with the triple-negative subtype of metastatic breast cancer. The term 'triple-negative' relates to the fact that this subtype of breast cancer tests negative for oestrogen receptors (ERs) and progesterone receptors (PgRs), and have low levels of a protein called human epidermal growth factor receptor 2 (HER2).\nThe current review updates the evidence on platinum-containing regimens for women with a specific breast cancer subtype of triple-negative metastatic breast cancer (mTNBC)."
+    },
+    {
+      "heading": "Why does it matter?",
+      "text": "mTNBC makes up approximately 12% to 17% of breast cancers and is associated with shorter survival and higher chance that the cancer returns. In recent years, some researchers have hypothesised that chemotherapy containing platinum might be more effective in treating mTNBC than other chemotherapy options. Randomised controlled trials (RCTs) have been designed and conducted to test this hypothesis."
+    },
+    {
+      "heading": "We asked",
+      "text": "Are chemotherapy treatments containing a platinum agent more or less effective for treating women with mTNBC than chemotherapy treatments not containing a platinum agent?"
+    },
+    {
+      "heading": "We found",
+      "text": "10 studies involving 1349 women. The evidence is current to September 2019. This review found that for women with mTNBC, a chemotherapy containing platinum:\n- may increase survival time over chemotherapy without platinum;\n- reduces the number of breast cancer recurrences compared to chemotherapy that did not contain platinum but we are uncertain about these results;\n- appears to cause tumours to shrink more than chemotherapy without platinum;\n- may increase the chance of severe nausea and vomiting compared to treatment without platinum; and\n- may increase the chance of anaemia compared to chemotherapy without platinum."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Chemotherapy containing platinum may provide a small survival benefit to mTNBC participants, but still large enough to justify its use. This potential benefit needs to be weighed against the higher risks of toxic side effects from platinum-based regimens compared to non-platinum regimens. Further studies are required before a more definitive conclusion can be made."
+    }
+  ]
+}

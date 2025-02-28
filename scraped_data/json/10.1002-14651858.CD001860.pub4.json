@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD001860.pub4",
+  "name": "Antibiotics for trachoma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Trachoma is the world's leading infectious cause of blindness. In 1996, WHO launched the Alliance for the Global Elimination of Trachoma by the year 2020, based on the 'SAFE' strategy (surgery, antibiotics, facial cleanliness, and environmental improvement)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the evidence supporting the antibiotic arm of the SAFE strategy by assessing the effects of antibiotics on both active trachoma (primary objective), Chlamydia trachomatis infection of the conjunctiva, antibiotic resistance, and adverse effects (secondary objectives)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched relevant electronic databases and trials registers. The date of the last search was 4 January 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that satisfied either of two criteria: (a) trials in which topical or oral administration of an antibiotic was compared to placebo or no treatment in people or communities with trachoma, (b) trials in which a topical antibiotic was compared with an oral antibiotic in people or communities with trachoma. We also included studies addressing different dosing strategies in the population."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methods expected by Cochrane. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 14 studies where individuals with trachoma were randomised and 12 cluster-randomised studies.\nAny antibiotic versus control (individuals)\nNine studies (1961 participants) randomised individuals with trachoma to antibiotic or control (no treatment or placebo). All of these studies enrolled children and young people with active trachoma. The antibiotics used in these studies included topical (oxy)tetracycline (5 studies), doxycycline (2 studies), and sulfonamides (4 studies). Four studies had more than two study arms. In general these studies were poorly reported, and it was difficult to judge risk of bias.\nThese studies provided low-certainty evidence that people with active trachoma treated with antibiotics experienced a reduction in active trachoma at three months (risk ratio (RR) 0.78, 95% confidence interval (CI) 0.69 to 0.89; 1961 people; 9 RCTs; I2 = 73%) and 12 months (RR 0.74, 95% CI 0.55 to 1.00; 1035 people; 4 RCTs; I2 = 90%). Low-certainty evidence was available for ocular infection at three months (RR 0.81, 95% CI 0.63 to 1.04; 297 people; 4 RCTs; I2 = 0%) and 12 months (RR 0.25, 95% CI 0.08 to 0.78; 129 people; 1 RCT). None of these studies assessed antimicrobial resistance. In those studies that reported harms, no serious adverse effects were reported (low-certainty evidence).\nOral versus topical antibiotics (individuals)\nEight studies (1583 participants) compared oral and topical antibiotics. Only one study included people older than 21 years of age. Oral antibiotics included azithromycin (5 studies), sulfonamides (2 studies), and doxycycline (1 study). Topical antibiotics included (oxy)tetracycline (6 studies), azithromycin (1 study), and sulfonamide (1 study). These studies were poorly reported, and it was difficult to judge risk of bias.\nThere was low-certainty evidence of little or no difference in effect between oral and topical antibiotics on active trachoma at three months (RR 0.97, 95% CI 0.81 to 1.16; 953 people; 6 RCTs; I2 = 63%) and 12 months (RR 0.93, 95% CI 0.75 to 1.15; 886 people; 5 RCTs; I2 = 56%). There was very low-certainty evidence for ocular infection at three or 12 months. Antimicrobial resistance was not assessed. In those studies that reported adverse effects, no serious adverse effects were reported; one study reported abdominal pain with azithromycin; one study reported a couple of cases of nausea with azithromycin; and one study reported three cases of reaction to sulfonamides (low-certainty evidence).\nOral azithromycin versus control (communities)\nFour cluster-randomised studies compared antibiotic with no or delayed treatment. Data were available on active trachoma at 12 months from two studies but could not be pooled because of reporting differences. One study at low risk of bias found a reduced prevalence of active trachoma 12 months after a single dose of azithromycin in communities with a high prevalence of infection (RR 0.58, 95% CI 0.52 to 0.65; 1247 people). The other, lower quality, study in low-prevalence communities reported similar median prevalences of infection at 12 months: 9.3% in communities treated with azithromycin and 8.2% in untreated communities. We judged this moderate-certainty evidence for a reduction in active trachoma with treatment, downgrading one level for inconsistency between the two studies. Two studies reported ocular infection at 12 months and data could be pooled. There was a reduction in ocular infection (RR 0.36, 0.31 to 0.43; 2139 people) 12 months after mass treatment with a single dose compared with no treatment (moderate-certainty evidence). There was high-certainty evidence of an increased risk of resistance of Streptococcus pneumoniae , Staphylococcus aureus , and Escherichia coli to azithromycin, tetracycline, and clindamycin in communities treated with azithromycin, with approximately 5-fold risk ratios at 12 months. The evidence did not support increased resistance to penicillin or trimethoprim-sulfamethoxazole. None of the studies measured resistance to C trachomatis. No serious adverse events were reported. The main adverse effect noted for azithromycin (˜10%) was abdominal pain, vomiting, and nausea.\nOral azithromycin versus topical tetracycline (communities)\nThree cluster-randomised studies compared oral azithromycin with topical tetracycline. The evidence was inconsistent for active trachoma and ocular infection at three and 12 months (low-certainty evidence) and was not pooled due to considerable heterogeneity. Antimicrobial resistance and adverse effects were not reported.\nDifferent dosing strategies\nSix studies compared different strategies for dosing. There were: mass treatment at different dosing intervals; applying cessation or stopping rules to mass treatment; strategies to increase mass treatment coverage. There was no strong evidence to support any variation in the recommended annual mass treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotic treatment may reduce the risk of active trachoma and ocular infection in people infected with C trachomatis, compared to no treatment/placebo, but the size of the treatment effect in individuals is uncertain. Mass antibiotic treatment with single dose oral azithromycin reduces the prevalence of active trachoma and ocular infection in communities. There is no strong evidence to support any variation in the recommended periodicity of annual mass treatment. There is evidence of an increased risk of antibiotic resistance at 12 months in communities treated with antibiotics."
+    }
+  ],
+  "pls_title": "Antibiotics for trachoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if antibiotics work for treating trachoma, either in individuals or communities. Cochrane researchers collected and analysed all relevant studies to answer this question and found 26 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The review shows that antibiotic treatment of people and communities with trachoma leads to less eye infection due to trachoma and less eye disease. Mass treatment of communities with antibiotics is associated with increased antimicrobial resistance."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Trachoma is caused by a kind of bacterial infection of the outer eye which, if not treated, can lead to blindness. This germ is known asChlamydia trachomatis, which thrives where water is scarce and hygiene is poor. Trachoma is the most common infectious cause of vision loss and usually affects people living in poor communities. Repeated bouts of conjunctivitis (inflammation of the membrane that covers the surface of the eyeball and inside of the eyelids) known as 'active trachoma' caused by this eye infection can lead to inward turning of the upper eyelid. The eyelashes rub the clear front part of the eye (cornea) leading to pain, scarring, and blindness.\nThe World Health Organization (WHO) has developed the SAFE strategy to eliminate trachoma."
+    },
+    {
+      "heading": "S",
+      "text": "Surgery for inward-turning eyelids•Antibiotics to clear the eye infection•Facial cleanliness to stop the eye infection being passed on•Environmental improvement, in particular clean water and sanitation"
+    },
+    {
+      "heading": "A",
+      "text": "Apart of the SAFE strategy.Antibiotics can be used to treat the eye infection and may be given as an ointment or by mouth. The two antibiotics commonly used for the treatment of trachoma are azithromycin (single dose by mouth) and tetracycline (ointment applied to the eye over several weeks)."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "Cochrane researchers found 26 relevant studies.\nFourteen studies enrolled people with trachoma. These studies took place in the following WHO regions (one study took place in two regions): African Region (three studies), Eastern Mediterranean Region (five studies), Region of the Americas (four studies), South-East Asian Region (one study), and Western Pacific Region (two studies). Most of the studies enrolled children and young people with active trachoma.\nThese studies showed that:\n⇒  people with trachoma treated with antibiotics may have less active trachoma and eye infection at three and 12 months after treatment (low-certainty evidence);\n⇒  there may be little or no difference in active trachoma between oral and topical antibiotics at three months and 12 months (low-certainty evidence) but there was only very low-certainty evidence on eye infection at three and 12 months;\n⇒  there were no reports of serious adverse effects. The most common adverse effect reported was nausea with azithromycin.\nTwelve studies enrolled communities in areas where trachoma is common and treated the whole community ('mass treatment'). These studies took place mainly in the African Region (10 studies), with one study in the Eastern Mediterranean Region (Egypt) and one study in the Western Pacific Region (Vietnam).\nThese studies showed that:\n⇒  communities treated with azithromycin had less trachoma (active trachoma and eye infection) 12 months after a single dose treatment (moderate-certainty evidence);\n⇒  there was no strong evidence to support changing from the currently recommended strategy of mass treatment of affected communities every year;\n⇒  there was an increased risk of antimicrobial resistance in treated communities (high-certainty evidence)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "Cochrane researchers searched for studies that had been published up to 4 January 2019."
+    }
+  ]
+}

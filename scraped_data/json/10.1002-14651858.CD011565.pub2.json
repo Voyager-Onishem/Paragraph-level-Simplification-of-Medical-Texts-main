@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011565.pub2",
+  "name": "Therapist‐supported Internet cognitive behavioural therapy for anxiety disorders in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cognitive behavioural therapy (CBT) is an evidence-based treatment for anxiety disorders. Many people have difficulty accessing treatment, due to a variety of obstacles. Researchers have therefore explored the possibility of using the Internet to deliver CBT; it is important to ensure the decision to promote such treatment is grounded in high quality evidence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of therapist-supported Internet CBT (ICBT) on remission of anxiety disorder diagnosis and reduction of anxiety symptoms in adults as compared to waiting list control, unguided CBT, or face-to-face CBT. Effects of treatment on quality of life and patient satisfaction with the intervention were also assessed."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Depression, Anxiety and Neurosis Review Group Specialised Register (CCDANCTR) to 16 March 2015. The CCDANCTR includes relevant randomised controlled trials from MEDLINE, EMBASE, PsycINFO and CENTRAL. We also searched online clinical trial registries and reference lists of included studies. We contacted authors to locate additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Each identified study was independently assessed for inclusion by two authors. To be included, studies had to be randomised controlled trials of therapist-supported ICBT compared to a waiting list, attention, information, or online discussion group; unguided CBT (that is, self-help); or face-to-face CBT. We included studies that treated adults with an anxiety disorder (panic disorder, agoraphobia, social phobia, post-traumatic stress disorder, acute stress disorder, generalized anxiety disorder, obsessive compulsive disorder, and specific phobia) defined according to the Diagnostic and Statistical Manual of Mental Disorders III, III-R, IV, IV-TR or the International Classification of Disesases 9 or 10."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed the risk of bias of included studies and judged overall study quality. We used data from intention-to-treat analyses wherever possible. We assessed treatment effect for the dichotomous outcome of clinically important improvement in anxiety using a risk ratio (RR) with 95% confidence interval (CI). For disorder-specific and general anxiety symptom measures and quality of life we assessed continuous scores using standardized mean differences (SMD). We examined statistical heterogeneity using the I2 statistic."
+    },
+    {
+      "heading": "Main results",
+      "text": "We screened 1736 citations and selected 38 studies (3214 participants) for inclusion. The studies examined social phobia (11 trials), panic disorder with or without agoraphobia (8 trials), generalized anxiety disorder (5 trials), post-traumatic stress disorder (2 trials), obsessive compulsive disorder (2 trials), and specific phobia (2 trials). Eight remaining studies included a range of anxiety disorder diagnoses. Studies were conducted in Sweden (18 trials), Australia (14 trials), Switzerland (3 trials), the Netherlands (2 trials), and the USA (1 trial) and investigated a variety of ICBT protocols. Three primary comparisons were identified, therapist-supported ICBT versus waiting list control, therapist-supported versus unguided ICBT, and therapist-supported ICBT versus face-to-face CBT.\nLow quality evidence from 11 studies (866 participants) contributed to a pooled risk ratio (RR) of 3.75 (95% CI 2.51 to 5.60; I2 = 50%) for clinically important improvement in anxiety at post-treatment, favouring therapist-supported ICBT over a waiting list, attention, information, or online discussion group only. The SMD for disorder-specific symptoms at post-treatment (28 studies, 2147 participants; SMD -1.06, 95% CI -1.29 to -0.82; I2 = 83%) and general anxiety symptoms at post-treatment (19 studies, 1496 participants; SMD -0.75, 95% CI -0.98 to -0.52; I2 = 78%) favoured therapist-supported ICBT; the quality of the evidence for both outcomes was low.\nOne study compared unguided CBT to therapist-supported ICBT for clinically important improvement in anxiety at post-treatment, showing no difference in outcome between treatments (54 participants; very low quality evidence). At post-treatment there were no clear differences between unguided CBT and therapist-supported ICBT for disorder-specific anxiety symptoms (5 studies, 312 participants; SMD -0.22, 95% CI -0.56 to 0.13; I2 = 58%; very low quality evidence) or general anxiety symptoms (2 studies, 138 participants; SMD 0.28, 95% CI -2.21 to 2.78; I2 = 0%; very low quality evidence).\nCompared to face-to-face CBT, therapist-supported ICBT showed no significant differences in clinically important improvement in anxiety at post-treatment (4 studies, 365 participants; RR 1.09, 95% CI 0.89 to 1.34; I2 = 0%; low quality evidence). There were also no clear differences between face-to-face and therapist supported ICBT for disorder-specific anxiety symptoms at post-treatment (7 studies, 450 participants; SMD 0.06, 95% CI -0.25 to 0.37; I2 = 60%; low quality evidence) or general anxiety symptoms at post-treatment (5 studies, 317 participants; SMD 0.17, 95% CI -0.35 to 0.69; I2 = 78%; low quality evidence).\nOverall, risk of bias in included studies was low or unclear for most domains. However, due to the nature of psychosocial intervention trials, blinding of participants and personnel, and outcome assessment tended to have a high risk of bias. Heterogeneity across a number of the meta-analyses was substantial, some was explained by type of anxiety disorder or may be meta-analytic measurement artefact due to combining many assessment measures. Adverse events were rarely reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Therapist-supported ICBT appears to be an efficacious treatment for anxiety in adults. The evidence comparing therapist-supported ICBT to waiting list, attention, information, or online discussion group only control was low to moderate quality, the evidence comparing therapist-supported ICBT to unguided ICBT was very low quality, and comparisons of therapist-supported ICBT to face-to-face CBT were low quality. Further research is needed to better define and measure any potential harms resulting from treatment. These findings suggest that therapist-supported ICBT is more efficacious than a waiting list, attention, information, or online discussion group only control, and that there may not be a significant difference in outcome between unguided CBT and therapist-supported ICBT; however, this latter finding must be interpreted with caution due to imprecision. The evidence suggests that therapist-supported ICBT may not be significantly different from face-to-face CBT in reducing anxiety. Future research should explore heterogeneity among studies which is reducing the quality of the evidence body, involve equivalence trials comparing ICBT and face-to-face CBT, examine the importance of the role of the therapist in ICBT, and include effectiveness trials of ICBT in real-world settings. A timely update to this review is needed given the fast pace of this area of research."
+    }
+  ],
+  "pls_title": "Internet-based cognitive behavioural therapy with therapist support for anxiety in adults: a review of the evidence",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Who may be interested in this review?",
+      "text": "People who suffer from anxiety and their families.\nGeneral Practitioners.\nProfessionals working in psychological therapy services.\nDevelopers of Internet-based therapies for mental health problems."
+    },
+    {
+      "heading": "Why is this review important?",
+      "text": "Many adults suffer from anxiety disorders, which have a significant impact on their everyday lives. Anxiety disorders often result in high healthcare costs and high costs to society due to absence from work and reduced quality of life. Research has shown that cognitive behavioural therapy (CBT) is an effective treatment which helps to reduce anxiety. However, many people are not able to access face-to-face CBT due to long waiting lists, lack of available time for appointments, transportation problems, and limited numbers of qualified therapists.\nInternet-based CBT (ICBT) provides a possible solution to overcome many of the barriers to accessing face-to-face therapy. Therapists can provide support to patients who are accessing Internet-based therapy by telephone or e-mail. It is hoped that this will provide a way of increasing access to CBT, particularly for people who live in rural areas. It is not yet known whether ICBT with therapist support is effective in reducing symptoms of anxiety."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "This review aims to summarise current research to find out whether ICBT with therapist support is an effective treatment for anxiety.\nThe review aims to answer the following questions:\n- is ICBT with therapist support more effective than no treatment (waiting list)?\n- how effective is ICBT with therapist support compared with face-to-face CBT?\n- how effective is ICBT with therapist support compared with unguided CBT (self-help with no therapist input)?\n- what is the quality of current research on ICBT with therapist support for anxiety?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "Databases were searched to find all high quality studies of ICBT with therapist support for anxiety published until March 2015. To be included in the review, studies had to be randomised controlled trials involving adults over 18 years with a main diagnosis of an anxiety disorder; 38 studies with a total of 3214 participants were included in the review."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "ICBT with therapist support was significantly more effective than no treatment (waiting list) at improving anxiety and reducing symptoms. The quality of the evidence was low to moderate.\nThere was no significant difference in the effectiveness of ICBT with therapist support and unguided CBT, though the quality of the evidence was very low. Patient satisfaction was generally reported to be higher with therapist-supported ICBT, however patient satisfaction was not formally assessed.\nICBT with therapist support may not differ in effectiveness as compared to face-to-face CBT. The quality of the evidence was low.\nThere was a low risk of bias in the included studies, except for blinding of participants, personnel, and outcome assessment. Adverse events were rarely reported in the studies."
+    }
+  ]
+}

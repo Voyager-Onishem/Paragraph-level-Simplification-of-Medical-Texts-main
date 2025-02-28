@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD010610",
+  "name": "Topiramate for the prophylaxis of episodic migraine in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Some antiepileptic drugs but not others are useful in clinical practice for the prophylaxis of migraine. This might be explained by the variety of actions of these drugs in the central nervous system. The present review is part of an update of a Cochrane review first published in 2004, and previously updated (conclusions not changed) in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To describe and assess the evidence from controlled trials on the efficacy and tolerability of topiramate for preventing migraine attacks in adult patients with episodic migraine."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library 2012, Issue 12), PubMed/MEDLINE (1966 to 15 January 2013), MEDLINE In-Process (current week, 15 January 2013), and EMBASE (1974 to 15 January 2013) and handsearched Headache and Cephalalgia through January 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were required to be prospective, controlled trials of topiramate taken regularly to prevent the occurrence of migraine attacks, to improve migraine-related quality of life, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies and extracted data. For headache frequency data, we calculated mean differences (MDs) between topiramate and comparator (placebo, active control, or topiramate in a different dose) for individual studies and pooled these across studies. For dichotomous data on responders (patients with ≥ 50% reduction in headache frequency), we calculated odds ratios (ORs) and, in select cases, risk ratios (RRs); we also calculated numbers needed to treat (NNTs). We calculated MDs for selected quality of life instruments. Finally, we summarised data on adverse events from placebo-controlled trials and calculated risk differences (RDs) and numbers needed to harm (NNHs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty papers describing 17 unique trials met the inclusion criteria. Analysis of data from nine trials (1737 participants) showed that topiramate reduced headache frequency by about 1.2 attacks per 28 days as compared to placebo (MD -1.20; 95% confidence interval (CI) -1.59 to -0.80). Data from nine trials (1190 participants) show that topiramate approximately doubled the proportion of responders relative to placebo (RR 2.02; 95% CI 1.57 to 2.60; NNT 4; 95% CI 3 to 6). Separate analysis of different topiramate doses produced similar MDs versus placebo at 50 mg (-0.95; 95% CI -1.95 to 0.04; three studies; 520 participants), 100 mg (-1.15; 95% CI -1.58 to -0.71; six studies; 1620 participants), and 200 mg (-0.94; 95% CI -1.53 to -0.36; five studies; 804 participants). All three doses significantly increased the proportion of responders relative to placebo; ORs were as follows: for 50 mg, 2.35 (95% CI 1.60 to 3.44; three studies; 519 participants); for 100 mg, 3.49 (95% CI 2.23 to 5.45; five studies; 852 participants); and for 200 mg, 2.49 (95% CI 1.61 to 3.87; six studies; 1025 participants). All three doses also significantly improved three or more domains of quality of life as compared to placebo. Meta-analysis of the three studies that included more than one dose of topiramate suggests that 200 mg is no more effective than 100 mg. With regard to mean headache frequency and/or responder rate, seven trials using active comparators found (a) no significant difference between topiramate and amitriptyline (one study, 330 participants); (b) no significant difference between topiramate and flunarizine (one study, 83 participants); (c) no significant difference between topiramate and propranolol (two studies, 342 participants); (d) no significant difference between topiramate and relaxation (one study, 61 participants); but (e) a slight significant advantage of topiramate over valproate (two studies, 120 participants). Relaxation improved migraine-specific quality of life significantly more than topiramate. In trials of topiramate against placebo, seven adverse events (AEs) were reported by at least three studies. These were usually mild and of a non-serious nature. Except for taste disturbance and weight loss, there were no significant differences in the frequency of AEs in general, or of the seven specific AEs, between placebo and topiramate 50 mg. AEs in general and all of the specific AEs except nausea were significantly more common on topiramate 100 mg than on placebo, with NNHs varying from 3 to 25, and the RDs versus placebo were even higher for topiramate 200 mg, with NNHs varying from 2 to 17."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Meta-analysis demonstrates that topiramate in a 100 mg/day dosage is effective in reducing headache frequency and reasonably well-tolerated in adult patients with episodic migraine. This provides good evidence to support its use in routine clinical management. More studies designed specifically to compare the efficacy or safety of topiramate versus other interventions with proven efficacy in the prophylaxis of migraine are needed."
+    }
+  ],
+  "pls_title": "Topiramate for preventing migraine attacks in adults",
+  "pls_type": "long",
+  "pls": "Various medicines, collectively termed 'antiepileptics', are used to treat epilepsy. For several years, some of these drugs have also been used for preventing migraine attacks. For the present review, researchers in The Cochrane Collaboration reviewed the evidence about the effects of topiramate in adult patients (≥ 16 years of age) with 'episodic' migraine (headache on < 15 days per month). They examined research published up to 15 January 2013 and found 17 relevant studies. Compared with placebo, topiramate reduced the frequency of migraine headaches by approximately 1.2 per month (nine studies, 1737 participants). Patients were also about twice as likely to reduce the number of their migraine headaches by 50% or more with topiramate than with placebo (nine studies, 1190 participants). Side effects associated with topiramate were common but generally mild; topiramate can, however, cause birth defects and so should be used with caution in women of childbearing age. Further research is needed comparing topiramate with other active drugs used for preventing migraine attacks."
+}

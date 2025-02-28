@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004398.pub4",
+  "name": "Printed educational materials: effects on professional practice and healthcare outcomes",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Printed educational materials are widely used dissemination strategies to improve the quality of healthcare professionals' practice and patient health outcomes. Traditionally they are presented in paper formats such as monographs, publication in peer-reviewed journals and clinical guidelines. This is the fourth update of the review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of printed educational materials (PEMs) on the practice of healthcare professionals and patient health outcomes.\nTo explore the influence of some of the characteristics of the printed educational materials (e.g. source, content, format) on their effect on healthcare professionals' practice and patient health outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), HealthStar, CINAHL, ERIC, CAB Abstracts, Global Health, and EPOC Register from their inception to 6 February 2019. We checked the reference lists of all included studies and relevant systematic reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials (RTs), controlled before-after studies (CBAs) and interrupted time series studies (ITSs) that evaluated the impact of PEMs on healthcare professionals' practice or patient health outcomes. We included three types of comparisons: (1) PEM versus no intervention, (2) PEM versus single intervention, (3) multifaceted intervention where PEM is included versus multifaceted intervention without PEM. Any objective measure of professional practice (e.g. prescriptions for a particular drug), or patient health outcomes (e.g. blood pressure) were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers undertook data extraction independently. Disagreements were resolved by discussion. For analyses, we grouped the included studies according to study design, type of outcome and type of comparison. For controlled trials, we reported the median effect size for each outcome within each study, the median effect size across outcomes for each study and the median of these effect sizes across studies. Where data were available, we re-analysed the ITS studies by converting all data to a monthly basis and estimating the effect size from the change in the slope of the regression line between before and after implementation of the PEM. We reported median changes in slope for each outcome, for each study, and then across studies. We standardised all changes in slopes by their standard error, allowing comparisons and combination of different outcomes. We categorised each PEM according to potential effects modifiers related to the source of the PEMs, the channel used for their delivery, their content, and their format. We assessed the risks of bias of all the included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 84 studies: 32 RTs, two CBAs and 50 ITS studies. Of the 32 RTs, 19 were cluster RTs that used various units of randomisation, such as practices, health centres, towns, or areas.\nThe majority of the included studies (82/84) compared the effectiveness of PEMs to no intervention. Based on the RTs that provided moderate-certainty evidence, we found that PEMs distributed to healthcare professionals probably improve their practice, as measured with dichotomous variables, compared to no intervention (median absolute risk difference (ARD): 0.04; interquartile range (IQR): 0.01 to 0.09; 3,963 healthcare professionals randomised within 3073 units). We could not confirm this finding using the evidence gathered from continuous variables (standardised mean difference (SMD): 0.11; IQR: -0.16 to 0.52; 1631 healthcare professionals randomised within 1373 units ), from the ITS studies (standardised median change in slope = 0.69; 35 studies), or from the CBA study because the certainty of this evidence was very low. We also found, based on RTs that provided moderate-certainty evidence, that PEMs distributed to healthcare professionals probably make little or no difference to patient health as measured using dichotomous variables, compared to no intervention (ARD: 0.02; IQR: -0.005 to 0.09; 935,015 patients randomised within 959 units). The evidence gathered from continuous variables (SMD: 0.05; IQR: -0.12 to 0.09; 6,737 patients randomised within 594 units) or from ITS study results (standardised median change in slope = 1.12; 8 studies) do not strengthen these findings because the certainty of this evidence was very low.\nTwo studies (a randomised trial and a CBA) compared a paper-based version to a computerised version of the same PEM. From the RT that provided evidence of low certainty, we found that PEM in computerised versions may make little or no difference to professionals' practice compared to PEM in printed versions (ARD: -0.02; IQR: -0.03 to 0.00; 139 healthcare professionals randomised individually). This finding was not strengthened by the CBA study that provided very low certainty evidence (SMD: 0.44; 32 healthcare professionals).\nThe data gathered did not allow us to conclude which PEM characteristics influenced their effectiveness.\nThe methodological quality of the included studies was variable. Half of the included RTs were at risk of selection bias. Most of the ITS studies were conducted retrospectively, without prespecifying the expected effect of the intervention, or acknowledging the presence of a secular trend."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this review suggest that, when used alone and compared to no intervention, PEMs may slightly improve healthcare professionals' practice outcomes and patient health outcomes. The effectiveness of PEMs compared to other interventions, or of PEMs as part of a multifaceted intervention, is uncertain."
+    }
+  ],
+  "pls_title": "Printed educational materials for healthcare professional practice and patient health",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this review was to find out whether printed educational material distributed to healthcare professionals can improve their practice and in turn improve patient health."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The results of this review indicate that printed educational materials probably improve the practice of healthcare professionals and probably make little or no difference to patient health. The results also suggest that computerised versions may make little or no difference to healthcare professionals' practice compared to printed versions of the same printed educational material. Further research with rigorous methodology is likely to have an important impact on our confidence in these estimates of effect, and may change the estimate."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Medical journals and clinical practice guidelines are common channels to distribute scientific information to healthcare professionals, as they allow a wide distribution at relatively low cost. Delivery of printed educational materials is meant to improve healthcare professionals' awareness, knowledge, attitudes, and skills, and ultimately improve their practice and patients' health outcomes."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "The review authors found 84 studies. Most of these studies compared healthcare professionals who had received printed educational material to healthcare professionals who had not received them. Results of this review suggest that printed educational material probably improves healthcare professionals' practice, and probably makes little or no difference to patient health compared to no intervention. Two studies (a randomised trial and a CBA) compared printed and computerised versions of the same educational material and suggest that computerised versions may make little or no difference to healthcare professionals' practice compared to printed versions."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to 8 February 2019."
+    }
+  ]
+}

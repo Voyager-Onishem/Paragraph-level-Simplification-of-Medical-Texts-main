@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD006681.pub4",
+  "name": "Low molecular weight heparin for prevention of venous thromboembolism in patients with lower‐limb immobilization ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Immobilization of the lower limb is a risk factor for venous thromboembolism (VTE). Low molecular weight heparins (LMWHs) are anticoagulants, which might be used in adult patients with lower-limb immobilization to prevent deep venous thrombosis (DVT) and its complications. This is an update of the review first published in 2008."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of low molecular weight heparin for the prevention of venous thromboembolism in patients with lower-limb immobilization in an ambulatory setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, the Cochrane Vascular Information Specialist searched the Specialised Register, CENTRAL, and three trials registers (April 2017)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) and controlled clinical trials (CCTs) that described thromboprophylaxis by means of LMWH compared with no prophylaxis or placebo in adult patients with lower-limb immobilization. Immobilization was by means of a plaster cast or brace."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials, assessed risk of bias and extracted data. The review authors contacted the trial authors for additional information if required. Statistical analysis was carried out using Review Manager 5."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight RCTs that fulfilled our criteria, with a total of 3680 participants. The quality of evidence, according GRADE, varied by outcome and ranged from low to moderate. We found an incidence of DVT ranging from 4.3% to 40% in patients who had a leg injury that had been immobilized in a plaster cast or a brace for at least one week, and who received no prophylaxis, or placebo. This number was significantly lower in patients who received daily subcutaneous injections of LMWH during immobilization, with event rates ranging from 0% to 37% (odds ratio (OR) 0.45, 95% confidence interval (CI) 0.33 to 0.61; with minimal evidence of heterogeneity: I² = 26%, P = 0.23; seven studies; 1676 participants, moderate-quality evidence). Comparable results were seen in the following groups of participants: patients with below-knee casts, conservatively treated patients (non-operated patients), operated patients, patients with fractures, patients with soft-tissue injuries, and patients with distal or proximal thrombosis. No clear differences were found between the LMWH and control groups for pulmonary embolism (OR 0.50, 95% CI 0.17 to 1.47; with no evidence of heterogeneity: I² = 0%, P = 0.56; five studies, 2517 participants; low-quality evidence). The studies also showed less symptomatic VTE in the LMWH groups compared with the control groups (OR 0.40, 95% CI 0.21 to 0.76; with minimal evidence of heterogeneity: I² = 16%, P = 0.31; six studies; 2924 participants; low-quality evidence). One death was reported in the included studies, but no deaths due to pulmonary embolism were reported. Complications of major adverse events were rare, with minor bleeding the main adverse events reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-quality evidence showed that the use of LMWH in outpatients reduced DVT when immobilization of the lower limb was required, when compared with no prophylaxis or placebo. The quality of the evidence was reduced to moderate because of risk of selection and attrition bias in the included studies. Low-quality evidence showed no clear differences in PE between the LMWH and control groups, but less symptomatic VTE in the LMWH groups. The quality of the evidence was downgraded due to risk of bias and imprecision."
+    }
+  ],
+  "pls_title": "Low molecular weight heparin for prevention of venous thromboembolism in adults with lower-limb immobilization in an outpatient setting",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolism is a condition where a blood clot forms in the deep veins (DVT), most commonly of the leg. The concern is that it can travel up to block the arteries in the lungs (pulmonary embolism). In adult patients, immobilization of the lower limb with a plaster cast or brace is a risk factor for DVT and pulmonary embolism. To prevent this complication, preventive treatment with anticoagulants (medication that thins the blood) is often used, most commonly, low molecular weight heparin (LMWH). However, there is no agreement on this in existing national guidelines. Therefore, we searched the literature for trials on this topic, in order to assess the evidence."
+    },
+    {
+      "heading": "Study characteristics and key results",
+      "text": "We included eight studies in this review (current until April 2017). The studies included a total of 3680 participants. Participants received either LMWH subcutaneously once daily, or no preventive treatment or placebo. New cases of DVT ranged from 4.3% to 40% in the control groups and ranged from 0% to 37% in the LMWH groups. The risk of DVT was lower in participants who received LMWH. Further analysis also showed a reduction in the occurrence of DVT when the use of LMWH was compared to no treatment or placebo in the following groups of participants: patients with below-knee casts, conservatively treated patients (patients not operated), operated patients, patients with fractures, patients with soft-tissue injuries, patients with above-knee thrombosis, and patients with below-knee thrombosis. No clear differences were found between the LMWH and control groups for pulmonary embolism. The studies showed less symptomatic venous thromboembolism in the LMWH groups compared with the control groups. No cases of death due to pulmonary embolism were reported. One study reported one death in the control group.\nThere were few reported adverse effects in the treated patients. The main adverse events reported were cases of minor bleeding such as nose bleeds, blood in urine and dark stool."
+    },
+    {
+      "heading": "Quality of evidence and conclusion",
+      "text": "The use of LMWH in adult patients reduced DVT when immobilization of the lower limb was required, compared with no prevention or placebo. The quality of the evidence was downgraded to moderate due to risks of bias in some trials, such as lack of blinding of participants, or unclear reasons for excluding participants from the analyses. Low-quality evidence showed no clear differences in pulmonary embolism between LMWH and the control groups, but fewer symptomatic venous thromboemboli in the LMWH groups. The quality of evidence was downgraded due to methodological issues and imprecision of the results."
+    }
+  ]
+}

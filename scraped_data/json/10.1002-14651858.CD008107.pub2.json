@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008107.pub2",
+  "name": "Perioperative chemo(radio)therapy versus primary surgery for resectable adenocarcinoma of the stomach, gastroesophageal junction, and lower esophagus ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The outcome of patients with locally advanced gastroesophageal adenocarcinoma (adenocarcinoma of the esophagus, gastroesophageal (GE) junction, and stomach) is poor. There is conflicting evidence regarding the effects of perioperative chemotherapy on survival and other outcomes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of perioperative chemotherapy for gastroesophageal adenocarcinoma on survival and other clinically relevant outcomes in the overall population of participants in randomized controlled trials (RCTs) and in prespecified subgroups."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed computerized searches in the Cochrane Central Register of Controlled Trials (CENTRAL), Database of Abstracts of Review of Effectiveness (DARE), the Cochrane Database of Systematic Reviews (CDSR) from The Cochrane Library, MEDLINE (1966 to May 2011), EMBASE (1980 to May 2011), and LILACS (Literatura Latinoamericana y del Caribe en Ciencias de la Salud), combining the Cochrane highly sensitive search strategy with specific search terms. Moreover, we handsearched several online databases, conference proceedings, and reference lists of retrieved papers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs which randomized patients with gastroesophageal adenocarcinoma, in the absence of distant metastases, to receive either chemotherapy with or without radiotherapy followed by surgery, or surgery alone."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors identified eligible trials. We solicited individual patient data (IPD) from all selected trials. We performed meta-analyses based on intention-to-treat populations using the two-stage method to combine IPD with aggregate data from RCTs for which IPD were unavailable. We combined data from all trials providing IPD in a Cox proportional hazards model to assess the effect of several covariables on overall survival."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 14 RCTs with 2422 eligible patients. For eight RCTs with 1049 patients (43.3%), we were able to obtain IPD. Perioperative chemotherapy was associated with significantly longer overall survival (hazard ratio (HR) 0.81; 95% confidence interval (CI) 0.73 to 0.89). This corresponds to a relative survival increase of 19% or an absolute survival increase of 9% at five years. This survival advantage was consistent across most subgroups. There was a trend towards a more pronounced treatment effect for tumors of the GE junction compared to other sites, and for combined chemoradiotherapy as compared to chemotherapy in tumors of the esophagus and GE junction. Resection with negative margins was a strong predictor of survival. Multivariable analysis showed that tumor site, performance status, and age have an independent significant effect on survival. Moreover, there was a significant interaction of the effect of perioperative chemotherapy with age (larger treatment effect in younger patients). Perioperative chemotherapy also showed a significant effect on several secondary outcomes. It was associated with longer disease-free survival, higher rates of R0 resection, and more favorable tumor stage upon resection, while there was no association with perioperative morbidity and mortality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Perioperative chemotherapy for resectable gastroesophageal adenocarcinoma increases survival compared to surgery alone. It should thus be offered to all eligible patients. There is a trend to a larger survival advantage for tumors of the GE junction as compared to other sites and for chemoradiotherapy as compared to chemotherapy in esophageal and GE junction tumors. Likewise, there is an interaction between age and treatment effect, with younger patients having a larger survival advantage, and no survival advantage for elderly patients."
+    }
+  ],
+  "pls_title": "Chemotherapy before surgery in patients with adenocarcinoma of the esophagus, the gastroesophageal junction, and the stomach",
+  "pls_type": "long",
+  "pls": "This systematic review uses the data of individual patients from eight and published data from another six randomized controlled trials. We found that the administration of chemotherapy before surgery leads to longer survival in patients with adenocarcinoma of the esophagus, the junction between esophagus and stomach, and the stomach. The findings suggest that patients whose tumor is in the junction between esophagus and stomach and younger patients benefit most from the chemotherapy. Moreover, the addition of radiation to the chemotherapy seems to yield an additional advantage to patients, at least in tumors of the esophagus and the junction between esophagus and stomach. Chemotherapy before surgery does not increase the risk of suffering a complication during or after surgery."
+}

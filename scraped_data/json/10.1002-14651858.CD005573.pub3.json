@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD005573.pub3",
+  "name": "Probiotics for induction of remission in ulcerative colitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ulcerative colitis is an inflammatory condition affecting the colon, with an annual incidence of approximately 10 to 20 per 100,000 people. The majority of people with ulcerative colitis can be put into remission, leaving a group who do not respond to first- or second-line therapies. There is a significant proportion of people who experience adverse effects with current therapies. Consequently, new alternatives for the treatment of ulcerative colitis are constantly being sought. Probiotics are live microbial feed supplements that may beneficially affect the host by improving intestinal microbial balance, enhancing gut barrier function and improving local immune response."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of probiotics compared with placebo or standard medical treatment (5-aminosalicylates, sulphasalazine or corticosteroids) for the induction of remission in people with active ulcerative colitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and two other databases on 31 October 2019. We contacted authors of relevant studies and manufacturers of probiotics regarding ongoing or unpublished trials that may be relevant to the review, and we searched ClinicalTrials.gov. We also searched references of trials for any additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) investigating the effectiveness of probiotics compared to standard treatments or placebo in the induction of remission of active ulcerative colitis. We considered both adults and children, with studies reporting outcomes of clinical, endoscopic, histologic or surgical remission as defined by study authors"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently conducted data extraction and 'Risk of bias' assessment of included studies. We analysed data using Review Manager 5. We expressed dichotomous and continuous outcomes as risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs). We assessed the certainty of the evidence using the GRADE methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this review, we included 14 studies (865 randomised participants) that met the inclusion criteria. Twelve of the studies looked at adult participants and two studies looked at paediatric participants with mild to moderate ulcerative colitis, the average age was between 12.5 and 47.7 years. The studies compared probiotics to placebo, probiotics to 5-ASA and a combination of probiotics plus 5-ASA compared to 5-ASA alone. Seven studies used a single probiotic strain and seven used a mixture of strains. The studies ranged from two weeks to 52 weeks. The risk of bias was high for all except two studies due to allocation concealment, blinding of participants, incomplete reports of outcome data and selective reporting. This led to GRADE ratings of the evidence ranging from moderate to very low.\nProbiotics versus placebo\nProbiotics may induce clinical remission when compared to placebo (RR 1.73, 95% CI 1.19 to 2.54; 9 studies, 594 participants; low-certainty evidence; downgraded due to imprecision and risk of bias, number needed to treat for an additional beneficial outcome (NNTB) 5). Probiotics may lead to an improvement in clinical disease scores (RR 2.29, 95% CI 1.13 to 4.63; 2 studies, 54 participants; downgraded due to risk of bias and imprecision).\nThere may be little or no difference in minor adverse events, but the evidence is of very low certainty (RR 1.04, 95% CI 0.42 to 2.59; 7 studies, 520 participants). Reported adverse events included abdominal bloating and discomfort. Probiotics did not lead to any serious adverse events in any of the seven studies that reported on it, however five adverse events were reported in the placebo arm of one study (RR 0.09, CI 0.01 to 1.66; 1 study, 526 participants; very low-certainty evidence; downgraded due to high risk of bias and imprecision). Probiotics may make little or no difference to withdrawals due to adverse events (RR 0.85, 95% CI 0.42 to 1.72; 4 studies, 401 participants; low-certainty evidence).\nProbiotics versus 5-ASA\nThere may be little or no difference in the induction of remission with probiotics when compared to 5-ASA (RR 0.92, 95% CI 0.73 to 1.16; 1 study, 116 participants; low-certainty evidence; downgraded due to risk of bias and imprecision). There may be little or no difference in minor adverse events, but the evidence is of very low certainty (RR 1.33, 95% CI 0.53 to 3.33; 1 study, 116 participants). Reported adverse events included abdominal pain, nausea, headache and mouth ulcers. There were no serious adverse events with probiotics, however perforated sigmoid diverticulum and respiratory failure in a patient with severe emphysema were reported in the 5-ASA arm (RR 0.21, 95% CI 0.01 to 4.22; 1 study, 116 participants; very low-certainty evidence).\nProbiotics combined with 5-ASA versus 5-ASA alone\nLow-certainty evidence from a single study shows that when combined with 5-ASA, probiotics may slightly improve the induction of remission (based on the Sunderland disease activity index) compared to 5-ASA alone (RR 1.22 CI 1.01 to 1.47; 1 study, 84 participants; low-certainty evidence; downgraded due to unclear risk of bias and imprecision). No information about adverse events was reported.\nTime to remission, histological and biochemical outcomes were sparsely reported in the studies. None of the other secondary outcomes (progression to surgery, need for additional therapy, quality of life scores, or steroid withdrawal) were reported in any of the studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-certainty evidence suggests that probiotics may induce clinical remission in active ulcerative colitis when compared to placebo. There may be little or no difference in clinical remission with probiotics alone compared to 5-ASA. There is limited evidence from a single study which failed to provide a definition of remission, that probiotics may slightly improve the induction of remission when used in combination with 5-ASA. There was no evidence to assess whether probiotics are effective in people with severe and more extensive disease, or if specific preparations are superior to others. Further targeted and appropriately designed RCTs are needed to address the gaps in the evidence base. In particular, appropriate powering of studies and the use of standardised participant groups and outcome measures in line with the wider field are needed, as well as reporting to minimise risk of bias."
+    }
+  ],
+  "pls_title": "Probiotics for the treatment of active ulcerative colitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out whether probiotics can induce remission in people with ulcerative colitis. We analysed data from 14 studies to answer this question."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Probiotics may be better at inducing remission than placebo (dummy treatment). It is unclear whether probiotics are better than 5-aminosalicylic acid (5-ASA, an anti-inflammatory agent used to treat inflammatory bowel disease), however there is limited evidence that when both treatments are used as combined therapy they may be better than 5-ASA alone in inducing remission. Most studies reported that no serious adverse events took place. For the studies that did report on it, serious adverse events did not occur in the probiotic group. Minor adverse events reported were bloating and diarrhoea."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Ulcerative colitis is a relapsing and remitting disease which causes inflammation of the large bowel and leads to symptoms such as abdominal pain, diarrhoea and tiredness. There is some evidence to suggest that an imbalance in the bacteria of the gut is the cause of the disease, and therefore probiotics, which are live micro-organisms, can alter the bacteria and possibly reduce the inflammation."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We searched for randomised controlled trials (RCTs; clinical studies where people are randomly put into one of two or more treatment groups) comparing probiotics with placebo, probiotics with 5-ASA, and probiotics in combination with 5-ASA. We found 14 RCTs looking at 865 participants. The trials looked at adult and paediatric participants. Eight studies allowed additional therapy to continue, whilst the other four studies were unclear about this.\n1) Probiotics may improve induction of clinical remission when compared to placebo.\n2) It is unclear whether probiotics lead to a difference in adverse events (minor and serious) when compared to placebo.\n3) There is limited evidence to determine whether probiotics offer better disease improvement when compared to placebo.\n4) There may be little or no difference in the induction of remission with probiotics when compared to 5-ASA (low-certainty evidence).\n5) There is limited evidence to suggest that when probiotics plus 5-ASA are compared to 5-ASA alone, probiotics may offer a slightly better chance of induction of remission. This is based on low-certainty evidence from one study, and we are not sure of the type of remission studied.\n6) Serious adverse events were reported when probiotics were compared with placebo, but only occurred in the placebo group."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Whilst the evidence suggests that probiotics may be better at improving induction than placebo, our confidence in the estimate is limited because of the low-certainty evidence. This is attributed to the small number of participants in each study along with the unreliable methods utilised by the trials. With the evidence presented in these studies, we are unable to make strong conclusions into the effectiveness of probiotics; better designed studies with more participants are needed."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "This review is up-to-date as of October 2019."
+    }
+  ]
+}

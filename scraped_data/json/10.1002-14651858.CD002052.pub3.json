@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002052.pub3",
+  "name": "Intravenous midazolam infusion for sedation of infants in the neonatal intensive care unit ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Proper sedation for neonates undergoing uncomfortable procedures may reduce stress and avoid complications. Midazolam is a short-acting benzodiazepine that is used increasingly in neonatal intensive care units (NICUs). However, its effectiveness as a sedative in neonates has not been systematically evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objecive\nTo assess the effectiveness of intravenous midazolam infusion for sedation, as evaluated by behavioural and/or physiological measurements of sedation levels, in critically ill neonates in the NICU.\nSecondary objectives\nTo assess effects of intravenous midazolam infusion for sedation on complications including the following.\n1. Incidence of intraventricular haemorrhage (IVH)/periventricular leukomalacia (PVL).\n2. Mortality.\n3. Occurrence of adverse effects associated with the use of midazolam (hypotension, neurological abnormalities).\n4. Days of ventilation.\n5. Days of supplemental oxygen.\n6. Incidence of pneumothorax.\n7. Length of NICU stay (days).\n8. Long-term neurodevelopmental outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 5), MEDLINE via PubMed (1966 to 16 June 2016), Embase (1980 to 16 June 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 16 June 2016). We searched clinical trials databases, conference proceedings and reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected for review randomised and quasi-randomised controlled trials of intravenous midazolam infusion for sedation in infants aged 28 days or younger."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We abstracted data regarding the primary outcome of level of sedation. We assessed secondary outcomes such as intraventricular haemorrhage, periventricular leukomalacia, death, length of NICU stay and adverse effects associated with midazolam. When appropriate, we performed meta-analyses using risk ratios (RRs) and risk differences (RDs), and if the RD was statistically significant, we calculated the number needed to treat for an additional beneficial outcome (NNTB) or an additional harmful outcome (NNTH), along with their 95% confidence intervals (95% CIs) for categorical variables, and weighted mean differences (WMDs) for continuous variables. We assessed heterogeneity by performing the I-squared (I2) test."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in the review three trials enrolling 148 neonates. We identified no new trials for this update. Using different sedation scales, each study showed a statistically significantly higher sedation level in the midazolam group compared with the placebo group. However, none of the sedation scales used have been validated in preterm infants; therefore, we could not ascertain the effectiveness of midazolam in this population. Duration of NICU stay was significantly longer in the midazolam group than in the placebo group (WMD 5.4 days, 95% CI 0.40 to 10.5; I2 = 0%; two studies, 89 infants). One study (43 infants) reported significantly lower Premature Infant Pain Profile (PIPP) scores during midazolam infusion than during dextrose (placebo) infusion (MD -3.80, 95% CI -5.93 to -1.67). Another study (46 infants) observed a higher incidence of adverse neurological events at 28 days' postnatal age (death, grade III or IV IVH or PVL) in the midazolam group compared with the morphine group (RR 7.64, 95% CI 1.02 to 57.21; RD 0.28, 95% CI 0.07 to 0.49; NNTH 4, 95% CI 2 to 14) (tests for heterogeneity not applicable). We considered these trials to be of moderate quality according to GRADE assessment based on the following outcomes: mortality during hospital stay, length of NICU stay, adequacy of analgesia according to PIPP scores and poor neurological outcomes by 28 days' postnatal age."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Data are insufficient to promote the use of intravenous midazolam infusion as a sedative for neonates undergoing intensive care. This review raises concerns about the safety of midazolam in neonates. Further research on the effectiveness and safety of midazolam in neonates is needed."
+    }
+  ],
+  "pls_title": "Intravenous midazolam infusion for sedation of infants in the neonatal intensive care unit",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "For sick babies admitted to a neonatal intensive care unit (NICU), how effective is midazolam, given by continuous intravenous drip, as a sedative for reducing stress, as measured by changes in behaviour and vital signs?"
+    },
+    {
+      "heading": "Background",
+      "text": "Proper sedation for babies undergoing uncomfortable procedures while receiving intensive care may reduce stress and avoid complications. Midazolam is a sedative that is used increasingly in NICUs. However, researchers have not systematically reviewed the evidence to see if it is effective and safe for babies in this setting."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We have selected for inclusion in this review randomised controlled trials of continuous intravenous drip of midazolam as a sedative in babies aged 28 days or younger."
+    },
+    {
+      "heading": "Key results",
+      "text": "We included three clinical trials in this review. Using different scales to measure level of sedation, each study showed that midazolam was effective in providing sedation to babies. However, the validity of the sedation scales used in these studies has not been proven in babies; therefore, we cannot be certain that midazolam is, in fact, an effective sedative for babies. Moreover, one study showed that babies who received midazolam had a significantly higher risk of death or brain injury, and combined results of two studies showed that midazolam use may prolong length of stay in the NICU."
+    },
+    {
+      "heading": "Industry",
+      "text": "One of the studies included in this review received support from industry, and for the other two studies, industry provided all study drugs."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We assessed the quality of the evidence on the outcomes of mortality during hospital stay, length of stay in the NICU, pain, and neurological outcomes at 28 days of life and found the evidence to be of moderate quality, as there was not enough evidence available. Therefore, we conclude there is not enough evidence to support the use of midazolam as a sedative for babies undergoing intensive care. Additional research is needed to address the safety and effectiveness of midazolam in this population."
+    }
+  ]
+}

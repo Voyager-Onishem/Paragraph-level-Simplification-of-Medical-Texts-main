@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005441.pub3",
+  "name": "Peginterferon plus ribavirin versus interferon plus ribavirin for chronic hepatitis C ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pegylated interferon (peginterferon) plus ribavirin is the recommended treatment for patients with chronic hepatitis C, but systematic assessment of the effect of this treatment compared with interferon plus ribavirin is needed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically evaluate the benefits and harms of peginterferon plus ribavirin versus interferon plus ribavirin for patients with chronic hepatitis C."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index-Expanded, and LILACS. We also searched conference abstracts, journals, and grey literature. The last searches were conducted in September 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised clinical trials comparing peginterferon plus ribavirin versus interferon plus ribavirin with or without co-intervention(s) (e.g., other antiviral drugs) for chronic hepatitis C. Quasi-randomised and observational studies retrieved through the searches for randomised clinical trials were also considered for reports of harms. Our primary outcomes were liver-related morbidity, all-cause mortality, serious adverse events, adverse events leading to treatment discontinuation, other adverse events, and quality of life. Our secondary outcome was sustained virological response in serum, that is, undetectable hepatitis C virus RNA in serum by sensitive tests six months after the end of treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently used a standardised data collection form. We meta-analysed data with both fixed-effect and random-effects models. For each outcome, we calculated the odds ratio (OR) (for liver-related morbidity or all-cause mortality) or the risk ratio (RR) along with 95% confidence interval (CI) based on intention-to-treat analysis. We used domains of the trials to assess the risk of systematic errors (bias) and trial sequential analyses to assess the risk of random errors (play of chance).\nFor each outcome, we calculated the RR with 95% CI based on intention-to-treat analysis. Effects of interventions on outcomes were assessed according to GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 27 randomised trials with 5938 participants. All trials had high risk of bias. We considered that the risk of bias did not impact on the quality of evidence for liver-related mortality and adverse event outcomes, but it did for virological response. All trials compared peginterferon alpha-2a or peginterferon alpha-2b plus ribavirin versus interferon plus ribavirin for participants with chronic hepatitis C. Three trials administered co-interventions (amantadine hydrochloride 200 mg daily to both intervention groups), and 24 trials were conducted without co-interventions. The effect observed between the two intervention groups regarding liver-related morbidity plus all-cause mortality (5/907 (0.55%) versus 4/882 (0.45%) was imprecise: OR 1.14 ( 95% CI 0.38 to 3.42; five trials; low quality of evidence), as was the risk of adverse events leading to treatment discontinuation (332/2692 (12.3%) versus 409/2176 (18.8%); RR 0.86, 95% CI 0.68 to 1.09; 15 trials; low quality of evidence) or regarding adverse events leading to treatment discontinuation (332/2692 (12.3%) versus 409/2176 (18.8%); RR 0.86, 95% CI 0.66 to 1.12; 17 trials; low quality of evidence). However, peginterferon plus ribavirin versus interferon plus ribavirin significantly increased the risk of neutropenia (332/2202 (15.1%) versus 117/1653 (7.1%); RR 2.15, 95% CI 1.76 to 2.61; 13 trials), thrombocytopenia (65/1113 (5.8%) versus 23/1082 (2.1%); RR 2.63, 95% CI 1.68 to 4.11; 10 trials), arthralgia (517/1740 (29.7%) versus 282/1194 (23.6%); RR 1.19, 95% CI 1.05 to 1.35; four trials), injection site reaction (627/1168 (53.7%) versus 186/649 (28.7%); RR 1.71, 95% CI 1.50 to 1.93; four trials), and nausea (606/1784 (34.0%) versus 354/1239 (28.6%); RR 1.13, 95% CI 1.01 to 1.26; four trials). The most frequent adverse event was fatigue, which occurred in 57% of participants (2024/3608). No significant difference was noted between peginterferon plus ribavirin versus interferon plus ribavirin in terms of fatigue (1177/2062 (57.1%) versus 847/1546 (54.8%); RR 1.01, 95% CI 0.96 to 1.07; 12 trials). No significant differences were reported between the two treatment groups regarding anaemia, headache, rigours, myalgia, pyrexia, weight loss, asthenia, depression, insomnia, irritability, alopecia, pruritus, skin rash, thyroid malfunction, decreased appetite, or diarrhoea. We were unable to identify any data on quality of life. Peginterferon plus ribavirin versus interferon plus ribavirin seemed to significantly increase the number of participants achieving sustained virological response (1673/3300 participants (50.7%) versus 1081/2804 patients (36.7%); RR 1.39, 95% CI 1.25 to 1.56; I2 = 64%; 27 trials; very low quality of evidence). However, the risk of bias in the 13/27 (48.1%) trials reporting on this outcome was high and was considered only 'lower' in the remainder. Because the conventional meta-analysis did not reach its required information size (n = 14,486 participants), we used trial sequential analysis to control for risks of random errors. Again, in this analysis, the estimated effect was statistically significant in favour of peginterferon. Subgroup analyses according to risk of bias, viral genotype, baseline viral load, past treatment history, and type of intervention yielded similarly significant results favouring peginterferon over interferon on the outcome of sustained virological response."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Peginterferon plus ribavirin versus interferon plus ribavirin seems to significantly increase the proportion of patients with sustained virological response, as well as the risk of certain adverse events. However, we have insufficient evidence to recommend or reject peginterferon plus ribavirin for liver-related morbidity plus all-cause mortality compared with interferon plus ribavirin. The clinical consequences of achieved sustained virological response are unknown, as sustained virological response is still an unvalidated surrogate outcome. We found no evidence of the potential benefits on quality of life in patients with achieved sustained virological response. Further high-quality research is likely to have an important impact on our confidence in the estimate of patient-relevant outcomes and is likely to change our estimates.There is very low quality evidence that peginterferon plus ribavirin increases the proportion of patients with sustained virological response in comparison with interferon plus ribavirin. There is evidence that it also increases the risk of certain adverse events."
+    }
+  ],
+  "pls_title": "Peginterferon plus ribavirin is more effective than interferon plus ribavirin in clearing hepatitis C virus",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Importance of the review/background on the condition",
+      "text": "Hepatitis C is a disease of the liver caused by the hepatitis C virus. Globally, an estimated 170 million people are chronically infected with the hepatitis C virus. Chronic hepatitis C can cause liver damage in the form of inflammation and scarring of the liver (cirrhosis). Liver damage can lead to liver failure and other complications, including liver cancer. The goal of treatment of chronic hepatitis C is to prevent complications of hepatitis C infection; this could possibly be achieved by clearing the virus from the blood of the patient (sustained virological response, that is, undetectable hepatitis C virus RNA in serum by sensitivity testing six months after the end of treatment). However, we still need to understand whether the sustained virological response outcome induced by antiviral treatment has any association with patient-relevant and clinically relevant outcomes. A combination of weekly injections of peginterferon and oral ribavirin represents the current standard of care."
+    },
+    {
+      "heading": "Main findings of the review",
+      "text": "The review identified and included 27 randomised clinical trials comparing peginterferon plus ribavirin versus interferon plus ribavirin in patients with chronic hepatitis C. All trials had high risk of bias, that is, overestimation of benefits and underestimation of harms. If we disregard bias from lack of blinding and industry support, then 14 trials were considered to have a lower risk of bias. All trials were able to inform on clearing virus from blood six months after the end of treatment (sustained virological response). We could not be certain that peginterferon plus ribavirin has an effect on liver-related morbidity plus all-cause mortality when compared with interferon plus ribavirin. Because so few events occurred, we cannot exclude major beneficial or detrimental effects. This review shows that peginterferon plus ribavirin compared with interferon plus ribavirin significantly increases the number of patients with sustained virological response (50.2% compared with 38.5%), but we do not yet know about any patient-relevant outcomes."
+    },
+    {
+      "heading": "Adverse effects",
+      "text": "Peginterferon plus ribavirin compared with interferon plus ribavirin significantly increased the risk of adverse events such as neutropenia (lack of white blood cells in the blood), thrombocytopenia (lack of blood platelets in the blood), arthralgia (joint pain), injection site reaction, and nausea, but adverse events leading to treatment discontinuation remained comparable for both treatments (12.3% versus 18.7%). Data about the influence of treatment on quality of life are insufficient."
+    },
+    {
+      "heading": "Limitations of the review",
+      "text": "This effect on virological response seems robust to analysis controlling for the risk of random errors ('play of chance'), but it may be due to the fact that all trials were considered at high risk of bias. Furthermore, we still need to have proof that sustained virological response induced by antiviral treatment has any association with patient-relevant and clinically relevant outcomes."
+    }
+  ]
+}

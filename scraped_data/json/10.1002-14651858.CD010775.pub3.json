@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010775.pub3",
+  "name": "Montreal Cognitive Assessment for the detection of dementia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Dementia is a progressive syndrome of global cognitive impairment with significant health and social care costs. Global prevalence is projected to increase, particularly in resource-limited settings. Recent policy changes in Western countries to increase detection mandates a careful examination of the diagnostic accuracy of neuropsychological tests for dementia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the accuracy of the Montreal Cognitive Assessment (MoCA) for the detection of dementia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, EMBASE, BIOSIS Previews, Science Citation Index, PsycINFO and LILACS databases to August 2012. In addition, we searched specialised sources containing diagnostic studies and reviews, including MEDION (Meta-analyses van Diagnostisch Onderzoek), DARE (Database of Abstracts of Reviews of Effects), HTA (Health Technology Assessment Database), ARIF (Aggressive Research Intelligence Facility) and C-EBLM (International Federation of Clinical Chemistry and Laboratory Medicine Committee for Evidence-based Laboratory Medicine) databases. We also searched ALOIS (Cochrane Dementia and Cognitive Improvement Group specialized register of diagnostic and intervention studies). We identified further relevant studies from the PubMed ‘related articles’ feature and by tracking key studies in Science Citation Index and Scopus. We also searched for relevant grey literature from the Web of Science Core Collection, including Science Citation Index and Conference Proceedings Citation Index (Thomson Reuters Web of Science), PhD theses and contacted researchers with potential relevant data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Cross-sectional designs where all participants were recruited from the same sample were sought; case-control studies were excluded due to high chance of bias. We searched for studies from memory clinics, hospital clinics, primary care and community populations. We excluded studies of early onset dementia, dementia from a secondary cause, or studies where participants were selected on the basis of a specific disease type such as Parkinson’s disease or specific settings such as nursing homes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted dementia study prevalence and dichotomised test positive/test negative results with thresholds used to diagnose dementia. This allowed calculation of sensitivity and specificity if not already reported in the study. Study authors were contacted where there was insufficient information to complete the 2x2 tables. We performed quality assessment according to the QUADAS-2 criteria.\nMethodological variation in selected studies precluded quantitative meta-analysis, therefore results from individual studies were presented with a narrative synthesis."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven studies were selected: three in memory clinics, two in hospital clinics, none in primary care and two in population-derived samples. There were 9422 participants in total, but most of studies recruited only small samples, with only one having more than 350 participants. The prevalence of dementia was 22% to 54% in the clinic-based studies, and 5% to 10% in population samples. In the four studies that used the recommended threshold score of 26 or over indicating normal cognition, the MoCA had high sensitivity of 0.94 or more but low specificity of 0.60 or less."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The overall quality and quantity of information is insufficient to make recommendations on the clinical utility of MoCA for detecting dementia in different settings. Further studies that do not recruit participants based on diagnoses already present (case-control design) but apply diagnostic tests and reference standards prospectively are required. Methodological clarity could be improved in subsequent DTA studies of MoCA by reporting findings using recommended guidelines (e.g. STARDdem). Thresholds lower than 26 are likely to be more useful for optimal diagnostic accuracy of MoCA in dementia, but this requires confirmation in further studies."
+    }
+  ],
+  "pls_title": "Montreal Cognitive Assessment (MoCA) for the detection of dementia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the accuracy of the Montreal Cognitive Assessment (MoCA) test for detecting dementia."
+    },
+    {
+      "heading": "Background",
+      "text": "Dementia is a common condition in older people, with at least 7% of people over 65 years old in the UK affected, and numbers are increasing worldwide. In this review, we wanted to discover whether using a well-established cognitive test, MoCA, could accurately detect dementia when compared to a gold standard diagnostic test. MoCA uses a series of questions to test different aspects of mental functioning."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence we reviewed is current to August 2012. We found seven studies that matched our criteria. There were three from memory clinics (specialist clinics where people are referred for suspected dementia), two from general hospital clinics, none from primary care and two studies carried out in the general population. All studies included older people, with the youngest average age of 61 years in one study. There were a total 9422 people included in all 7 studies though only one study had more than 350 people.\nThe proportion of people with dementia was 5% to 10% in two population-derived studies and 22% to 54% in the five clinic-based studies. There was a large variation in the way the different studies were carried out: therefore we chose to present the results in a narrative summary because a statistical summary (combining all the estimates into a summary sensitivity and specificity) would not have been meaningful."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that MoCA was good at detecting dementia when using a recognised cut-off score of less than 26. In the studies that used this cut-off, we found the test correctly detected over 94% of people with dementia in all settings. On the other hand, the test also produced a high proportion of false positives, that is people who did not have dementia but tested positive at the 'less than 26' cut-off. In the studies we reviewed, over 40% of people without dementia would have been incorrectly diagnosed with dementia using the MoCA."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "The overall quality of the studies was not good enough to make firm recommendations on using the MoCA to detect dementia in different healthcare settings. In particular, no studies looked at how useful MoCA is for diagnosing dementia in primary care settings. It is likely that a MoCA threshold lower than 26 would be more useful for optimal diagnostic accuracy in dementia, though this requires wider confirmation."
+    }
+  ]
+}

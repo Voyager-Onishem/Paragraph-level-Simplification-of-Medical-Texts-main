@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000012.pub3",
+  "name": "Randomisation to protect against selection bias in healthcare trials",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Randomised trials use the play of chance to assign participants to comparison groups. The unpredictability of the process, if not subverted, should prevent systematic differences between comparison groups (selection bias). Differences due to chance will still occur and these are minimised by randomising a sufficiently large number of people."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of randomisation and concealment of allocation on the results of healthcare studies."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Methodology Register, MEDLINE, SciSearch and reference lists up to September 2009. In addition, we screened articles citing included studies (ISI Science Citation Index) and papers related to included studies (PubMed)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Eligible study designs were cohorts of studies, systematic reviews or meta-analyses of healthcare interventions that compared random allocation versus non-random allocation or adequate versus inadequate/unclear concealment of allocation in randomised trials. Outcomes of interest were the magnitude and direction of estimates of effect and imbalances in prognostic factors."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We retrieved and assessed studies that appeared to meet the inclusion criteria independently. At least two review authors independently appraised methodological quality and extracted information. We prepared tabular summaries of the results for each comparison and assessed the results across studies qualitatively to identify common trends or discrepancies."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 18 studies (systematic reviews or meta-analyses) met our inclusion criteria. Ten compared random allocation versus non-random allocation and nine compared adequate versus inadequate or unclear concealment of allocation within controlled trials. All studies were at high risk of bias.\nFor the comparison of randomised versus non-randomised studies, four comparisons yielded inconclusive results (differed between outcomes or different modes of analysis); three comparisons showed similar results for random and non-random allocation; two comparisons had larger estimates of effect in non-randomised studies than in randomised trials; and two comparisons had larger estimates of effect in randomised than in non-randomised studies.\nFive studies found larger estimates of effect in trials with inadequate concealment of allocation than in trials with adequate concealment. The four other studies did not find statistically significant differences."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of randomised and non-randomised studies sometimes differed. In some instances non-randomised studies yielded larger estimates of effect and in other instances randomised trials yielded larger estimates of effect. The results of controlled trials with adequate and inadequate/unclear concealment of allocation sometimes differed. When differences occurred, most often trials with inadequate or unclear allocation concealment yielded larger estimates of effects relative to controlled trials with adequate allocation concealment. However, it is not generally possible to predict the magnitude, or even the direction, of possible selection biases and consequent distortions of treatment effects from studies with non-random allocation or controlled trials with inadequate or unclear allocation concealment."
+    }
+  ],
+  "pls_title": "Randomised controlled trials as a safeguard against biased estimates of treatment effects",
+  "pls_type": "long",
+  "pls": "Randomised controlled trials (RCTs) use the play of chance to allocate participants to comparison groups to prevent selection bias. Other means of treatment allocation are more prone to bias because decisions about which treatment to use can be influenced by the preferences of the physician or patient. This review compares random allocation (allocated to treatment using a random method) versus non-random allocation (allocated to treatment using a non-random method, such as alternation or external, uncontrollable factors, with no clinical judgement involved) and controlled trials with adequate versus inadequate/unclear concealment of allocation. Concealed treatment allocation is best described in general terms as the process used to prevent foreknowledge of group assignment in a controlled trial (such as the use of sequentially numbered opaque, sealed envelopes).\nThe results of randomised and non-randomised studies sometimes differed. Sometimes non-randomised studies yielded larger estimates of effect, and sometimes randomised trials yielded larger estimates of effect. On the other hand, not using concealed random allocation resulted in larger estimates of effect, but sometimes it resulted in similar estimates of effect (from harmful to beneficial or vice versa). It is a paradox that the unpredictability of random allocation is the best protection against the unpredictability of the extent to which non-randomised studies may be biased."
+}

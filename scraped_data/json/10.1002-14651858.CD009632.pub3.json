@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD009632.pub3",
+  "name": "Mammography in combination with breast ultrasonography versus mammography for breast cancer screening in women at average risk ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Screening mammography can detect breast cancer at an early stage. Supporters of adding ultrasonography to the screening regimen consider it a safe and inexpensive approach to reduce false-negative rates during screening. However, those opposed to it argue that performing supplemental ultrasonography will also increase the rate of false-positive findings and can lead to unnecessary biopsies and treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the comparative effectiveness and safety of mammography in combination with breast ultrasonography versus mammography alone for breast cancer screening for women at average risk of breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Breast Cancer Group's Specialised Register, CENTRAL, MEDLINE, Embase, the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), and ClinicalTrials.gov up until 3 May 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "For efficacy and harms, we considered randomised controlled trials (RCTs) and controlled non-randomised studies enrolling at least 500 women at average risk for breast cancer between the ages of 40 and 75.\nWe also included studies where 80% of the population met our age and breast cancer risk inclusion criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened abstracts and full texts, assessed risk of bias, and applied the GRADE approach. We calculated the risk ratio (RR) with 95% confidence intervals (CI) based on available event rates. We conducted a random-effects meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight studies: one RCT, two prospective cohort studies, and five retrospective cohort studies, enrolling 209,207 women with a follow-up duration from one to three years. The proportion of women with dense breasts ranged from 48% to 100%. Five studies used digital mammography; one study used breast tomosynthesis; and two studies used automated breast ultrasonography (ABUS) in addition to mammography screening. One study used digital mammography alone or in combination with breast tomosynthesis and ABUS or handheld ultrasonography. Six of the eight studies evaluated the rate of cancer cases detected after one screening round, whilst two studies screened women once, twice, or more.\nNone of the studies assessed whether mammography screening in combination with ultrasonography led to lower mortality from breast cancer or all-cause mortality. High certainty evidence from one trial showed that screening with a combination of mammography and ultrasonography detects more breast cancer than mammography alone. The J-START (Japan Strategic Anti-cancer Randomised Trial), enrolling 72,717 asymptomatic women, had a low risk of bias and found that two additional breast cancers per 1000 women were detected over two years with one additional ultrasonography than with mammography alone (5 versus 3 per 1000; RR 1.54, 95% CI 1.22 to 1.94). Low certainty evidence showed that the percentage of invasive tumours was similar, with no statistically significant difference between the two groups (69.6% (128 of 184) versus 73.5% (86 of 117); RR 0.95, 95% CI 0.82 to 1.09). However, positive lymph node status was detected less frequently in women with invasive cancer who underwent mammography screening in combination with ultrasonography than in women who underwent mammography alone (18% (23 of 128) versus 34% (29 of 86); RR 0.53, 95% CI 0.33 to 0.86; moderate certainty evidence). Further, interval carcinomas occurred less frequently in the group screened by mammography and ultrasonography compared with mammography alone (5 versus 10 in 10,000 women; RR 0.50, 95% CI 0.29 to 0.89; 72,717 participants; high certainty evidence). False-negative results were less common when ultrasonography was used in addition to mammography than with mammography alone: 9% (18 of 202) versus 23% (35 of 152; RR 0.39, 95% CI 0.23 to 0.66; moderate certainty evidence). However, the number of false-positive results and necessary biopsies were higher in the group with additional ultrasonography screening. Amongst 1000 women who do not have cancer, 37 more received a false-positive result when they participated in screening with a combination of mammography and ultrasonography than with mammography alone (RR 1.43, 95% CI 1.37 to 1.50; high certainty evidence). Compared to mammography alone, for every 1000 women participating in screening with a combination of mammography and ultrasonography, 27 more women will have a biopsy (RR 2.49, 95% CI 2.28 to 2.72; high certainty evidence). Results from cohort studies with methodological limitations confirmed these findings.\nA secondary analysis of the J-START provided results from 19,213 women with dense and non-dense breasts. In women with dense breasts, the combination of mammography and ultrasonography detected three more cancer cases (0 fewer to 7 more) per 1000 women screened than mammography alone (RR 1.65, 95% CI 1.0 to 2.72; 11,390 participants; high certainty evidence). A meta-analysis of three cohort studies with data from 50,327 women with dense breasts supported this finding, showing that mammography and ultrasonography combined led to statistically significantly more diagnosed cancer cases compared to mammography alone (RR 1.78, 95% CI 1.23 to 2.56; 50,327 participants; moderate certainty evidence). For women with non-dense breasts, the secondary analysis of the J-START study demonstrated that more cancer cases were detected when adding ultrasound to mammography screening compared to mammography alone (RR 1.93, 95% CI 1.01 to 3.68; 7823 participants; moderate certainty evidence), whilst two cohort studies with data from 40,636 women found no statistically significant difference between the two screening methods (RR 1.13, 95% CI 0.85 to 1.49; low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on one study in women at average risk of breast cancer, ultrasonography in addition to mammography leads to more screening-detected breast cancer cases. For women with dense breasts, cohort studies more in line with real-life clinical practice confirmed this finding, whilst cohort studies for women with non-dense breasts showed no statistically significant difference between the two screening interventions.\nHowever, the number of false-positive results and biopsy rates were higher in women receiving additional ultrasonography for breast cancer screening. None of the included studies analysed whether the higher number of screen-detected cancers in the intervention group resulted in a lower mortality rate compared to mammography alone. Randomised controlled trials or prospective cohort studies with a longer observation period are needed to assess the effects of the two screening interventions on morbidity and mortality."
+    }
+  ],
+  "pls_title": "Mammography followed by ultrasonography compared to mammography alone for breast cancer screening in women at average risk of breast cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "We examined the evidence for and against adding ultrasonography screening to mammograms for women at average risk for breast cancer."
+    },
+    {
+      "heading": "Why is it important?",
+      "text": "It is important to weigh the pros and cons of screening because the increased detection of tumours through screening does not necessarily mean that more women will be saved. Evidence shows that mammography in healthy women between the ages of 50 and 69 can detect breast cancer early and reduce the risk of dying from breast cancer. However, mammography is not a perfect tool to detect breast cancer and can miss tumours in some women, particularly those with dense breasts. In these women, the tumour is difficult to distinguish from normal breast tissue on the mammogram. For women with non-dense breasts, ultrasonography is often routinely performed in addition to mammography to increase the sensitivity of screening."
+    },
+    {
+      "heading": "Gap in the evidence: no study examined the effect of additional ultrasonography screening on death",
+      "text": "To determine whether routine screening with mammography and ultrasonography is beneficial, a study (ideally a randomised controlled trial (RCT), that is a study in which participants are randomly assigned to one of two or more treatment groups) comparing whether disease progression and death rates differ between methods is essential. None of the studies, which followed women for one to three years, lasted long enough to determine whether more cancer cases detected during screening with mammography and ultrasonography lead to reductions in disease and death."
+    },
+    {
+      "heading": "How many more cancers are detected by mammography screening with additional ultrasonography?",
+      "text": "We found one RCT and seven cohort studies (a type of study in which groups of people are followed over time) that analysed whether the combination of mammography and ultrasonography is more effective than mammography alone for early detection of breast cancer in women at average risk of breast cancer with no symptoms.\nThe methods of the RCT were sound, and the study represented the best evidence currently available. The study included 72,717 women at average risk for breast cancer, 58% of whom had dense breast tissue. After a two-year follow-up, women screened once with a combination of mammography and ultrasonography had two more breast cancers detected per 1000 women compared with women screened with mammography (5.0 versus 3.2 per 1000 women screened)."
+    },
+    {
+      "heading": "How effective is additional ultrasound screening in women with dense or non-dense breasts?",
+      "text": "A recent publication analysed a subgroup of the RCT of 19,213 women, and reported results separately for women with dense and non-dense breasts.\nIn women with dense breasts, three more breast cancers per 1000 women were detected with mammography and ultrasonography than with mammography alone. This finding was supported by real-world evidence: the combined result of three cohort studies examining a total of 50,327 women with dense breasts found additional cancers in women with dense breasts when mammography screening was supplemented with ultrasonography. In women with non-dense breasts, the results of two cohort studies with data from 40,636 women were not consistent with the RCT and found no significant difference in the proportion of cancer cases between the two screening methods."
+    },
+    {
+      "heading": "How many cancer cases were invasive and had lymph nodes involved?",
+      "text": "In the RCT, 71% of all tumours identified at screening were classified as invasive, with no significant difference between the two groups. However, the result for the difference between the two groups was imprecise, and our confidence in the result is low. In women with invasive cancer found by mammography screening combined with ultrasonography, lymph nodes were affected in fewer cases than in the group screened by mammography alone (18% (23 of 128) versus 34% (29 of 86))."
+    },
+    {
+      "heading": "Interval cancer: cancer cases detected in the time between screening rounds",
+      "text": "The RCT also showed that cancers that were not found during screening examinations (but were found in the time period between examinations) occurred less frequently when screening was performed with a combination of mammography and ultrasonography (5 versus 10 per 10,000) than when screening was performed with mammography alone."
+    },
+    {
+      "heading": "False-positive and false-negative rate",
+      "text": "The rate of false-negative results, indicating a negative result when cancer is present, was lower (9% versus 23%) when ultrasonography was performed in addition to mammography. However, the combination of mammography and ultrasound resulted in more false-positives than mammography alone in women without cancer: 123 versus 86 per 1000 women. Moreover, of 1000 women screened with a combination of mammography and ultrasonography, 27 more needed a biopsy than with mammography alone."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies published up to May 2021."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "It is unclear whether or to what extent ultrasonography in addition to mammography screening can reduce the risk of dying from breast cancer therefore ultrasonography should not be used on a routine basis. For women to make an informed decision, we need to assess whether the few additional cancers that can be detected by ultrasonography actually result in a decrease in breast cancer disease and death."
+    }
+  ]
+}

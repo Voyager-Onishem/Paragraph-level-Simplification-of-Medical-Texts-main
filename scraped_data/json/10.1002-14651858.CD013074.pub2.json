@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013074.pub2",
+  "name": "Interventions for fatigue in people with kidney failure requiring dialysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fatigue is a common and debilitating symptom in people receiving dialysis that is associated with an increased risk of death, cardiovascular disease and depression. Fatigue can also impair quality of life (QoL) and the ability to participate in daily activities. Fatigue has been established by patients, caregivers and health professionals as a core outcome for haemodialysis (HD)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to evaluate the effects of pharmacological and non-pharmacological interventions on fatigue in people with kidney failure receiving dialysis, including HD and peritoneal dialysis (PD), including any setting and frequency of the dialysis treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 18 October 2022 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies evaluating pharmacological and non-pharmacological interventions affecting levels of fatigue or fatigue-related outcomes in people receiving dialysis were included. Studies were eligible if fatigue or fatigue-related outcomes were reported as a primary or secondary outcome. Any mode, frequency, prescription, and duration of therapy were considered."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three authors independently extracted data and assessed the risk of bias. Treatment estimates were summarised using random effects meta-analysis and expressed as a risk ratio (RR) or mean difference (MD), with a corresponding 95% confidence interval (CI) or standardised MD (SMD) if different scales were used. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ninety-four studies involving 8191 randomised participants were eligible. Pharmacological and non-pharmacological interventions were compared either to placebo or control, or to another pharmacological or non-pharmacological intervention. In the majority of domains, risks of bias in the included studies were unclear or high.\nIn low certainty evidence, when compared to control, exercise may improve fatigue (4 studies, 217 participants (Iowa Fatigue Scale, Modified Fatigue Impact Scale, Piper Fatigue Scale (PFS), or Haemodialysis-Related Fatigue scale score): SMD -1.18, 95% CI -2.04 to -0.31; I2 = 87%) in HD.\nIn low certainty evidence, when compared to placebo or standard care, aromatherapy may improve fatigue (7 studies, 542 participants (Fatigue Severity Scale (FSS), Rhoten Fatigue Scale (RFS), PFS or Brief Fatigue Inventory score): SMD -1.23, 95% CI -1.96 to -0.50; I2 = 93%) in HD.\nIn low certainty evidence, when compared to no intervention, massage may improve fatigue (7 studies, 657 participants (FSS, RFS, PFS or Visual Analogue Scale (VAS) score): SMD -1.06, 95% CI -1.47, -0.65; I2 = 81%) and increase energy (2 studies, 152 participants (VAS score): MD 4.87, 95% CI 1.69 to 8.06, I2 = 59%) in HD.\nIn low certainty evidence, when compared to placebo or control, acupressure may reduce fatigue (6 studies, 459 participants (PFS score, revised PFS, or Fatigue Index): SMD -0.64, 95% CI -1.03 to -0.25; I2 = 75%) in HD.\nA wide range of heterogenous interventions and fatigue-related outcomes were reported for exercise, aromatherapy, massage and acupressure, preventing our capability to pool and analyse the data.\nDue to the paucity of studies, the effects of pharmacological and other non-pharmacological interventions on fatigue or fatigue-related outcomes, including non-physiological neutral amino acid, relaxation with or without music therapy, meditation, exercise with nandrolone, nutritional supplementation, cognitive-behavioural therapy, ESAs, frequent HD sections, home blood pressure monitoring, blood flow rate reduction, serotonin reuptake inhibitor, beta-blockers, anabolic steroids, glucose-enriched dialysate, or light therapy, were very uncertain.\nThe effects of pharmacological and non-pharmacological treatments on death, cardiovascular diseases, vascular access, QoL, depression, anxiety, hypertension or diabetes were sparse. No studies assessed tiredness, exhaustion or asthenia. Adverse events were rarely and inconsistently reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Exercise, aromatherapy, massage and acupressure may improve fatigue compared to placebo, standard care or no intervention. Pharmacological and other non-pharmacological interventions had uncertain effects on fatigue or fatigue-related outcomes in people receiving dialysis. Future adequately powered, high-quality studies are likely to change the estimated effects of interventions for fatigue and fatigue-related outcomes in people receiving dialysis."
+    }
+  ],
+  "pls_title": "Are interventions for fatigue effective among people with kidney failure requiring dialysis?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Fatigue is a frequent and debilitating symptom that can limit life participation in people receiving dialysis. Fatigue is linked to impaired quality of life, cardiovascular disease, death and depression in people on dialysis. Several potential interventions, including drugs or other non-pharmacological treatments (e.g. exercise, diet, massage, aromatherapy, acupressure), have been evaluated for their effect on fatigue in people on dialysis."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We evaluated whether drugs or other non-pharmacological interventions are beneficial for adults and children receiving haemodialysis or peritoneal dialysis to manage fatigue. We evaluated all clinical studies available and summarised the results. We evaluated how certain we could be about the evidence related to interventions for fatigue using a system called \"GRADE\"."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Ninety-four studies involving 8191 randomised participants were available. Patients in the studies were given a drug, non-pharmacological intervention, standard care or a sugar pill (placebo). The treatment they received was decided by random chance. The studies were generally short-term (over a few months). There were no studies in children. Exercise, aromatherapy, massage and acupressure improve fatigue compared to placebo or standard care. Drugs or other non-pharmacological interventions have uncertain effects on fatigue in people on dialysis."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Exercise, aromatherapy, massage and acupressure improve fatigue compared to placebo or standard care. It remains uncertain whether drugs or other non-pharmacological interventions have any impact on fatigue in people on dialysis when compared to a sugar pill, standard care or other treatments for fatigue."
+    }
+  ]
+}

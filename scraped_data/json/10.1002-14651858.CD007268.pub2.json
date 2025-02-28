@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007268.pub2",
+  "name": "Therapeutic drug monitoring of antiretrovirals for people with HIV",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Despite the efficacy of combination antiretroviral therapy (ART) and the improvement in prognosis of those living with HIV/AIDS, a large proportion of individuals on ART does not achieve or maintain adequate virological suppression.  Several tools have been proposed to enhance ART outcomes, including therapeutic drug monitoring (TDM) of antiretrovirals (ARVs). The aim of ARV TDM is to identify elevated (potentially toxic) or low (potentially sub-therapeutic) ARV concentrations. ARV TDM may thus optimise efficacy and minimise toxicity of ART."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate whether ARV TDM reduces mortality and morbidity of adult patients on ART. The primary outcome measures that have been assessed include death (all cause); occurrence of HIV-related events (death or AIDS-defining illness) and the proportion of patients achieving and maintaining an undetectable viral load, as defined by the authors."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a comprehensive search including both published and unpublished studies in all languages in MEDLINE, EMBASE and The Cochrane Library, between January 1980 and January 2008. Databases listing conference abstracts and reference lists of articles were searched. Additional data were sought from relevant authors; however, no additional data were provided."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Only randomized controlled trials conducted subsequent to the introduction of combination ART were included in this systematic review. Participants could be on either a protease inhibitor (PI)-based regimen or non-nucleoside reverse transcriptase (NNRTI)-based regimen and be either ARV-naive or -experienced."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently assessed and extracted data for analysis. Meta-analysis was conducted where appropriate. Where study outcomes could not be combined, a narrative review was performed. Outcome measures for dichotomous data were reported as a relative risk with 95% confidence intervals. Stratified analyses were conducted by ARV regimen and treatment groups. Heterogeneity between studies was anticipated; therefore, random effects models were chosen to generate pooled effects. Differences in the findings were assessed by the chi square test for heterogeneity (p <0.1) that was quantified by the Higgins I2 statistic."
+    },
+    {
+      "heading": "Main results",
+      "text": "Identified were 1408 records, and eight trials with a total of 1181 participants were included in the review. Trials were conducted in higher income earning countries between 2002 and 2007.  Sample sizes ranged between 40 and 230. The methodological quality of the studies was judged to be generally good, although allocation concealment was reported in only three of the eight studies. A meta-analysis including three studies did not show any significant effect on virological suppression below 500 HIV-RNA copies/mL at one year (RR 1.28; [0.86, 1.92] chi2 = 11.55 (P = 0.003), I2 = 83%).  Two trials including participants predominantly treated with unboosted PI-based regimens reported a 49% increased likelihood of achieving a HIV-RNA viral load below 500 copies/mL at 52 weeks (RR 1.49 [1.20, 1.83] chi2 = 0.69 (P = 0.4), I2 = 0%). Safety outcomes were reported in four studies and were similar between TDM and standard of care. Uptake of expert advice based on TDM results was good in two trials (>70%), but low (<35%) in the remaining three studies that reported uptake of the recommendations."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our review does not support routine use of ARV TDM in ARV-naive or -experienced patients on either boosted PI or NNRTI ART regimens. TDM in treatment-naive participants on a PI-based ART regimen, particularly if unboosted by ritonavir, may improve virological outcomes. Trials were underpowered with small sample sizes, short durations of follow-up and generally poor uptake of TDM recommendations. As these trials were conducted in higher income earning countries, results may not be generalisable to resource-limited countries where the burden of HIV is heaviest."
+    }
+  ],
+  "pls_title": "Therapeutic drug monitoring of antiretroviral medications for people with HIV",
+  "pls_type": "long",
+  "pls": "Monitoring the levels of HIV medications (antiretrovirals) in the blood of patients can reveal if levels are too high or too low. High levels may lead to side effects and low levels may not prevent the virus from multiplying. Prevention of virus replication is important for the immune system to recover and to fight diseases. The results from our review show that there is not enough evidence to recommend that the drug levels should be checked in all patients who use antiretrovirals."
+}

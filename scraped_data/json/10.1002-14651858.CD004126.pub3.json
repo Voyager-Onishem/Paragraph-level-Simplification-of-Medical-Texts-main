@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004126.pub3",
+  "name": "Alpha‐2 adrenergic agonists for the prevention of cardiac complications among adults undergoing surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The surgical stress response plays an important role on the pathogenesis of perioperative cardiac complications. Alpha-2 adrenergic agonists attenuate this response and may help prevent postoperative cardiac complications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and safety of α-2 adrenergic agonists for reducing mortality and cardiac complications in adults undergoing cardiac surgery and non-cardiac surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2017, Issue 4), MEDLINE (1950 to April Week 4, 2017), Embase (1980 to May 2017), the Science Citation Index, clinical trial registries, and reference lists of included articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials that compared α-2 adrenergic agonists (i.e. clonidine, dexmedetomidine or mivazerol) against placebo or non-α-2 adrenergic agonists. Included trials had to evaluate the efficacy and safety of α-2 adrenergic agonists for preventing perioperative mortality or cardiac complications (or both), or measure one or more relevant outcomes (i.e. death, myocardial infarction, heart failure, acute stroke, supraventricular tachyarrhythmia and myocardial ischaemia)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed trial quality, extracted data and independently performed computer entry of abstracted data. We contacted study authors for additional information. Adverse event data were gathered from the trials. We evaluated included studies using the Cochrane 'Risk of bias' tool, and the quality of the evidence underlying pooled treatment effects using GRADE methodology. Given the clinical heterogeneity between cardiac and non-cardiac surgery, we analysed these subgroups separately. We expressed treatment effects as pooled risk ratios (RR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 47 trials with 17,039 participants. Of these studies, 24 trials only included participants undergoing cardiac surgery, 23 only included participants undergoing non-cardiac surgery and eight only included participants undergoing vascular surgery. The α-2 adrenergic agonist studied was clonidine in 21 trials, dexmedetomidine in 24 trials and mivazerol in two trials.\nIn non-cardiac surgery, there was high quality evidence that α-2 adrenergic agonists led to a similar risk of all-cause mortality compared with control groups (1.3% with α-2 adrenergic agonists versus 1.7% with control; RR 0.80, 95% CI 0.61 to 1.04; participants = 14,081; studies = 16). Additionally, the risk of cardiac mortality was similar between treatment groups (0.8% with α-2 adrenergic agonists versus 1.0% with control; RR 0.86, 95% CI 0.60 to 1.23; participants = 12,525; studies = 5, high quality evidence). The risk of myocardial infarction was probably similar between treatment groups (RR 0.94, 95% CI 0.69 to 1.27; participants = 13,907; studies = 12, moderate quality evidence). There was no associated effect on the risk of stroke (RR 0.93, 95% CI 0.55 to 1.56; participants = 11,542; studies = 7; high quality evidence). Conversely, α-2 adrenergic agonists probably increase the risks of clinically significant bradycardia (RR 1.59, 95% CI 1.18 to 2.13; participants = 14,035; studies = 16) and hypotension (RR 1.24, 95% CI 1.03 to 1.48; participants = 13,738; studies = 15), based on moderate quality evidence.\nThere was insufficient evidence to determine the effect of α-2 adrenergic agonists on all-cause mortality in cardiac surgery (RR 0.52, 95% CI 0.26 to 1.04; participants = 1947; studies = 16) and myocardial infarction (RR 1.01, 95% CI 0.43 to 2.40; participants = 782; studies = 8), based on moderate quality evidence. There was one cardiac death in the clonidine arm of a study of 22 participants. Based on very limited data, α-2 adrenergic agonists may have reduced the risk of stroke (RR 0.37, 95% CI 0.15 to 0.93; participants = 1175; studies = 7; outcome events = 18; low quality evidence). Conversely, α-2 adrenergic agonists increased the risk of bradycardia from 6.4% to 12.0% (RR 1.88, 95% CI 1.35 to 2.62; participants = 1477; studies = 10; moderate quality evidence), but their effect on hypotension was uncertain (RR 1.19, 95% CI 0.87 to 1.64; participants = 1413; studies = 9; low quality evidence).\nThese results were qualitatively unchanged in subgroup analyses and sensitivity analyses."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our review concludes that prophylactic α-2 adrenergic agonists generally do not prevent perioperative death or major cardiac complications. For non-cardiac surgery, there is moderate-to-high quality evidence that these agents do not prevent death, myocardial infarction or stroke. Conversely, there is moderate quality evidence that these agents have important adverse effects, namely increased risks of hypotension and bradycardia. For cardiac surgery, there is moderate quality evidence that α-2 adrenergic agonists have no effect on the risk of mortality or myocardial infarction, and that they increase the risk of bradycardia. The quality of evidence was inadequate to draw conclusions regarding the effects of alpha-2 agonists on stroke or hypotension during cardiac surgery."
+    }
+  ],
+  "pls_title": "Using alpha-2 adrenergic agonists to prevent heart complications after major surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do alpha-2 adrenergic agonists (clonidine, dexmedetomidine and mivazerol) reduce the number of deaths and heart complications when given around the time of surgery?"
+    },
+    {
+      "heading": "Background",
+      "text": "Heart-related complications can lead to death and long hospital stays after surgery. Each year, about 300 million people undergo major surgery, of whom nine million experience serious heart complications. These complications may occur, in part, because surgery places a large stress on the heart. This stress can lead to high blood pressure and high heart rates during surgery, neither of which are good for the heart. Alpha-2 adrenergic agonists are a group of medicines that can prevent the blood pressure and heart rate from increasing during surgery. Thus, these medicines may also protect the heart from the stress of surgery. We wanted to find out if giving these medicines around the time of surgery could protect the heart from the stress of surgery and thus prevent major heart complications."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 47 studies that were published up to May 2017. These studies involved 17,039 adults who had major surgery. Twenty-four studies involved 2672 adults having heart surgery. Twenty-three studies involved 14,367 adults undergoing major operations other than heart surgery. Forty studies compared alpha-2 adrenergic agonists to dummy treatment (placebo). The other seven studies compared them to other medicines. Twenty-one studies tested an alpha-2 adrenergic agonist medicine called clonidine, 24 studied another medicine called dexmedetomidine and two studied another medicine called mivazerol. The duration of alpha-2 adrenergic agonist medicine studied varied from one dose before surgery to three days of treatment. Most people who took part in these studies were men, and their average age was 60 to 70 years old. Fourteen studies reported receiving money from the company that manufactured the medicine being tested in the same study. Another 15 studies did not report where they received the money needed to fund the study. The number of people who took part in each study varied between 20 participants to as many as 10,000 participants. Nineteen studies included more than 100 participants."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that alpha-2 adrenergic agonists generally had no clear benefits for preventing death or major complications after surgery. For people having major operations other than heart surgery, alpha-2 adrenergic agonists did not lower their chances of dying, having a heart attack or having a stroke after surgery. We did not find sufficient evidence that, in people having heart surgery, alpha-2 adrenergic lowered the risk of dying or having a heart attack after surgery. There was some very limited evidence that these medicines might prevent strokes after heart surgery. Nonetheless, more research is needed before we can be certain that alpha-2 adrenergic agonists truly have this benefit. These medicines also had some important side effects. People who received alpha-2 adrenergic agonists were much more likely to have low blood pressures or low heart rates during or after surgery."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We assessed the quality of all studies we identified using a specialized tool called the GRADE criteria. In general, we found that most of the evidence in these studies was moderate or high quality. Thus, based on our results, we can be reasonably certain that alpha-2 adrenergic agonists are not helpful for reducing the numbers of deaths or major heart complications that happen after surgery."
+    }
+  ]
+}

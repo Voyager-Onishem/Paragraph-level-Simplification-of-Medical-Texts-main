@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005426.pub3",
+  "name": "Nutritional support for acute kidney injury",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treatment for acute kidney Injury (AKI) primarily relies on treating the underlying cause and maintaining the patient until kidney function has recovered. Enteral and parenteral nutrition are commonly used to treat nutritional disorders in AKI patients, however their efficacy in treating AKI are still debated. This review was first published in 2010."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of nutritional support for patients with AKI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Chinese Biomedical Disc, VIP and China National Knowledge Infrastructure (CNKI).\nDate of last search: 4 July 2012"
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) reported for AKI and nutrition were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Authors independently assessed study quality and extracted data. Results were expressed as risk ratio (RR) with 95% confidence intervals (CI) or mean difference (MD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight studies (257 participants) were included. An overall pooled analysis was not performed due to the different interventions used and different outcomes measured. Selection bias was not reported (unclear) in six studies and was adequately reported (low) for random sequence generation in two studies. Participant/personnel blinding was adequately reported in one study and unclear in seven. Incomplete outcome reporting bias was low in six studies and high in two. Selective reporting was low in six studies, unclear in one study, and high in one study. No other biases were detected. There was a significant increase in recovery rate for AKI (RR 1.70, 95% CI 1.70 to 2.79) and survival in dialysed patients (RR 3.56, 95% CI 0.97 to 13.08) for intravenous essential L-amino acids (EAA) compared to hypertonic glucose alone. Compared to lower calorie-total parenteral nutrition (TPN), higher calorie-TPN did not improve estimated nitrogen balance, protein catabolic rate, or urea generation rate; but increased serum triglycerides, glucose, insulin need and nutritional fluid administration. There was no difference between groups in estimated nitrogen balance, but there were differences between urea nitrogen appearance (MD 0.98, 95% CI 0.25 to 1.71) and net protein utilisation (MD 21.50%, 95% CI 0.39 to 42.61). Urea nitrogen appearance was lower in the low nitrogen intake group than in the high nitrogen intake group. There was no significant difference in death between EAA and general amino acids (GAA) (RR 1.52, 95% CI 0.63 to 3.68). High dose amino acids did not improve cumulative water excretion, furosemide requirement, nitrogen balance or death compared to normal dose amino acids. Glucose+EAA+histidin had better nitrogen balance than glucose+GAA; glucose+nitrogen+fat significantly increased serum creatinine compared with glucose+GAA; glucose+EAA+histidin significantly improved nitrogen balance, U/P urea and serum creatinine, but increased plasma urea compared to glucose+nitrogen+fat."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was insufficient evidence found to support the effectiveness of nutritional support for AKI. Further high quality studies are required to provide reliable evidence of the effect and safety of nutritional support."
+    }
+  ],
+  "pls_title": "Nutritional support for acute kidney injury",
+  "pls_type": "long",
+  "pls": "Maintaining nutritional balance is vital in treating patients with acute kidney injury (AKI). Nutritional therapies, including parenteral nutrition (delivered via injection) and enteric (oral) nutrition are widely used. Eight randomised controlled trials (257 participants) were included in this review. Essential L-amino acids may shorten the overall duration of kidney dysfunction and improved survival from AKI. However, due to the small number of participants and the poor quality of some studies, we are unable to provide recommendations for the use of nutritional support for treating AKI."
+}

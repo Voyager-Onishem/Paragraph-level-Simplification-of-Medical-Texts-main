@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004023",
+  "name": "Early versus deferred treatment for early stage multiple myeloma",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Early stage multiple myeloma (MM) represents about 20% of MM. Most of the patients are asymptomatic. Thus, it is far less dramatic than advanced disease and may require different treatment strategies. For these patients, it is not clear whether it is better to start chemotherapy right after the diagnosis or to delay the treatment until symptoms become obvious as the disease progresses."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To identify and synthesize all available research evidence on whether early treatment intervention results in improved clinical outcomes when compared with observation alone. The main outcomes of interest that were examined included mortality, disease progression, response rate, and toxicity of early treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches of the following electronic databases were undertaken: MEDLINE, EMBASE, CANCERLIT, LILLIACS and Cochrane Database of RCTs. We have recently compiled a comprehensive database of RCTs in myeloma. This search was updated and supplemented by hand-search of abstracts from main society meetings such as the ASH (American Society of Hematology), ASCO (American Society of Clinical Oncology), and EHA (European Haematology Association) . In addition, we compared our list with a list of RCTs maintained by the Oxford Clinical Trial Service Unit."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCT) with a parallel design that compared early versus deferred treatment of patients with early stage multiple myeloma based on Durie-Salmon (D-S) staging system. We also considered those trials that did not define early stage myeloma according to D-S staging system, but enrolled patients according to clinical uncertainty about the benefits of immediate intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data synthesis was performed for all studies and according to the defined quality criteria. The first reviewer and the contact reviewer of this proposal independently extracted data. Disagreement was resolved by consensus. Revman software (4.1) was used to combine results from all studies and expressed as an overall odds ratio or Peto's Odds Ratio, with 95% confidence interval."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three trials were included with a total of 131 patients in each of the early treatment and deferred treatment groups. Early MM is asymptomatic stage I in these trials. All trials used standard Melphalan treatment but not stem cell transplantation. No statistically significant heterogeneity among the studies was detected. Beneficial effects of early treatment were seen in delay of myeloma progression (Peto's OR = 0.16, 95% CI: 0.09 to 0.29), and reduced vertebral compression (OR = 0.18, 95%CI: 0.02 to 1.59, NNT = 23, 95% CI: an NNT of 11, via infinity, to an NNH of 50). No significant effects on mortality and response rate were seen (Peto's OR = 1.11, 95% CI: 0.67 to 1.84, and OR = 0.63, 95% CI: 0.33 to 1.23, respectively). Early treatment may increase the risk of acute leukemia (Peto's OR = 3.20, 95% CI: 0.55 to 18.73, NNH = 44, 95% CI: an NNT of 63, via infinity, to an NNH of 15)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Early treatment of early stage multiple myeloma inhibits disease progression, and may reduce vertebral compression. However, early treatment may increase the risk of acute leukemia. However, the data on vertebral compression and leukemic transformation may not be interpretable due to very small numbers. Based on the current evidence, mortality and response rate are not significantly affected by introducing early treatment in the progression of myeloma. However, it is quite possible that the lack of beneficial effects of early intervention in myeloma is a false negative result due to the paucity of the existing evidence. In addition, data on quality of life and toxicity were sparsely reported adding to additional difficulties about management decisions in early stage myeloma."
+    }
+  ],
+  "pls_title": "Early treatment for early stage multiple myeloma may slow the disease progression but does not appear to improve survival",
+  "pls_type": "long",
+  "pls": "Multiple myeloma (MM) is cancer of the bone marrow. It causes bone destruction that leads to pain, spinal cord compression and fractures.In early stages, most people do not show any symptoms of MM. It is not clear whether it is better to start treatment with cancer drugs straight after diagnosis, or to wait until symptoms of the disease appear. The review of trials found that early treatment slows the progression of the disease. However, there is not enough evidence, due to too few studies conducted in patients with early stage myeloma to show that early treatment improves the survival of people with MM."
+}

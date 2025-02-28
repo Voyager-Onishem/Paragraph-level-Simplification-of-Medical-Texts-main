@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010360.pub2",
+  "name": "Intraoperative frozen section analysis for the diagnosis of early stage ovarian cancer in suspicious pelvic masses ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Women with suspected early-stage ovarian cancer need surgical staging which involves taking samples from areas within the abdominal cavity and retroperitoneal lymph nodes in order to inform further treatment. One potential strategy is to surgically stage all women with suspicious ovarian masses, without any histological information during surgery. This avoids incomplete staging, but puts more women at risk of potential surgical over-treatment.\nA second strategy is to perform a two-stage procedure to remove the pelvic mass and subject it to paraffin sectioning, which involves formal tissue fixing with formalin and paraffin embedding, prior to ultrathin sectioning and multiple site sampling of the tumour. Surgeons may then base further surgical staging on this histology, reducing the rate of over-treatment, but conferring additional surgical and anaesthetic morbidity.\nA third strategy is to perform a rapid histological analysis on the ovarian mass during surgery, known as 'frozen section'. Tissues are snap frozen to allow fine tissue sections to be cut and basic histochemical staining to be performed. Surgeons can perform or avoid the full surgical staging procedure depending on the results. However, this is a relatively crude test compared to paraffin sections, which take many hours to perform. With frozen section there is therefore a risk of misdiagnosing malignancy and understaging women subsequently found to have a presumed early-stage malignancy (false negative), or overstaging women without a malignancy (false positive). Therefore it is important to evaluate the accuracy and usefulness of adding frozen section to the clinical decision-making process."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the diagnostic test accuracy of frozen section (index test) to diagnose histopathological ovarian cancer in women with suspicious pelvic masses as verified by paraffin section (reference standard)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (January 1946 to January 2015), EMBASE (January 1980 to January 2015) and relevant Cochrane registers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies that used frozen section for intraoperative diagnosis of ovarian masses suspicious of malignancy, provided there was sufficient data to construct 2 x 2 tables. We excluded articles without an available English translation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Authors independently assessed the methodological quality of included studies using the Quality Assessment of Diagnostic Accuracy Studies tool (QUADAS-2) domains: patient selection, index test, reference standard, flow and timing. Data extraction converted 3 x 3 tables of per patient results presented in articles into 2 x 2 tables, for two index test thresholds."
+    },
+    {
+      "heading": "Main results",
+      "text": "All studies were retrospective, and the majority reported consecutive sampling of cases. Sensitivity and specificity results were available from 38 studies involving 11,181 participants (3200 with invasive cancer, 1055 with borderline tumours and 6926 with benign tumours, determined by paraffin section as the reference standard). The median prevalence of malignancy was 29% (interquartile range (IQR) 23% to 36%, range 11% to 63%). We assessed test performance using two thresholds for the frozen section test. Firstly, we used a test threshold for frozen sections, defining positive test results as invasive cancer and negative test results as borderline and benign tumours. The average sensitivity was 90.0% (95% confidence interval (CI) 87.6% to 92.0%; with most studies typically reporting range of 71% to 100%), and average specificity was 99.5% (95% CI 99.2% to 99.7%; range 96% to 100%).\nSimilarly, we analysed sensitivity and specificity using a second threshold for frozen section, where both invasive cancer and borderline tumours were considered test positive and benign cases were classified as negative. Average sensitivity was 96.5% (95% CI 95.5% to 97.3%; typical range 83% to 100%), and average specificity was 89.5% (95% CI 86.6% to 91.9%; typical range 58% to 99%).\nResults were available from the same 38 studies, including the subset of 3953 participants with a frozen section result of either borderline or invasive cancer, based on final diagnosis of malignancy. Studies with small numbers of disease-negative cases (borderline cases) had more variation in estimates of specificity. Average sensitivity was 94.0% (95% CI 92.0% to 95.5%; range 73% to 100%), and average specificity was 95.8% (95% CI 92.4% to 97.8%; typical range 81% to 100%).\nOur additional analyses showed that, if the frozen section showed a benign or invasive cancer, the final diagnosis would remain the same in, on average, 94% and 99% of cases, respectively.\nIn cases where the frozen section diagnosis was a borderline tumour, on average 21% of the final diagnoses would turn out to be invasive cancer.\nIn three studies, the same pathologist interpreted the index and reference standard tests, potentially causing bias. No studies reported blinding pathologists to index test results when reporting paraffin sections.\nIn heterogeneity analyses, there were no statistically significant differences between studies with pathologists of different levels of expertise."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In a hypothetical population of 1000 patients (290 with cancer and 80 with a borderline tumour), if a frozen section positive test result for invasive cancer alone was used to diagnose cancer, on average 261 women would have a correct diagnosis of a cancer, and 706 women would be correctly diagnosed without a cancer. However, 4 women would be incorrectly diagnosed with a cancer (false positive), and 29 with a cancer would be missed (false negative).\nIf a frozen section result of either an invasive cancer or a borderline tumour was used as a positive test to diagnose cancer, on average 280 women would be correctly diagnosed with a cancer and 635 would be correctly diagnosed without. However, 75 women would be incorrectly diagnosed with a cancer and 10 women with a cancer would be missed.\nThe largest discordance is within the reporting of frozen section borderline tumours. Investigation into factors leading to discordance within centres and standardisation of criteria for reporting borderline tumours may help improve accuracy. Some centres may choose to perform surgical staging in women with frozen section diagnosis of a borderline ovarian tumour to reduce the number of false positives. In their interpretation of this review, readers should evaluate results from studies most typical of their population of patients."
+    }
+  ],
+  "pls_title": "Is a 'quick diagnosis' test on an ovarian mass during surgery accurate?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "The issue",
+      "text": "When women go to their doctor with a mass that could be ovarian cancer, they are normally referred for surgery, since the mass may need to be removed and examined microscopically in a laboratory in a procedure known as paraffin section histopathology. A third of women with ovarian cancer present with a cyst or mass without any visible evidence of spread elsewhere. However, in these apparently early-stage cancers (confined to the ovary) surgical staging is required to decide if chemotherapy is required. This staging consists of sampling tissues within the abdomen, including lymph nodes.\nDifferent staging strategies exist. One is to perform surgical staging for all women who might have a cancer, to get information about spread. This may result in complications due to additional surgical procedures that may turn out to be unnecessary in approximately two thirds of women.\nA second strategy is to perform an operation to remove just the suspicious mass and await the paraffin section diagnosis. This may result in needing a further operation in one third of women if cancer is confirmed, putting them at increased risks from another operation.\nA third strategy is to send the mass to the laboratory during the operation for a quick diagnosis, known as 'frozen section'. This helps the surgeon decide if further surgical treatment is required during a single operation."
+    },
+    {
+      "heading": "Why is this review important?",
+      "text": "Frozen section is not as accurate as the traditional slower paraffin section examination, and it entails a risk of incorrect diagnosis, meaning that some women may not have all the samples taken at the initial surgery and may need to undergo a second operation; and others may undergo unnecessary surgical sampling."
+    },
+    {
+      "heading": "How was this review conducted?",
+      "text": "We searched all available studies reporting use of frozen section in women with suspicious ovarian masses. We excluded studies without an English translation and studies without enough information to allow us to analyse the data."
+    },
+    {
+      "heading": "What are the findings?",
+      "text": "We included 38 studies (11,181 women), reporting three types of diagnoses from the frozen section test.\n1. Cancer, which occurred in an average of 29% of women.\n2. Borderline tumour, which occurred in 8% of women.\n3. Benign mass.\nIn a hypothetical group of 1000 patients where 290 have cancer and 80 have a borderline tumour, 261 women would receive a correct diagnosis of a cancer and 706 women would be correctly diagnosed without a cancer based on a frozen section result. However, 4 women would be incorrectly diagnosed as having a cancer where none existed (false positive), and 29 women with cancer would be missed and potentially need further treatment (false negative).\nIf surgeons used a frozen section result of either a cancer or a borderline tumour to diagnose cancer, 280 women would be correctly diagnosed with a cancer and 635 women would be correctly diagnosed without a cancer. However, 75 women would be incorrectly diagnosed as having a cancer, and 10 women with cancer would be missed on the initial test and found to have a cancer after surgery.\nIf the frozen section result reported the mass as benign or malignant, the final diagnosis would remain the same in, on average, 94% and 99% of the cases, respectively.\nIn cases where the frozen section diagnosis was a borderline tumour, there is a chance that the final diagnosis would turn out to be a cancer in, on average, 21% of women."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Where the frozen section diagnosis is a borderline tumour, the diagnosis is less accurate than for benign or malignant tumours. Surgeons may choose to perform additional surgery in this group of women at the time of their initial surgery in order to reduce the need for a second operation if the final diagnosis turns out to be a cancer, as it would on average in one out of five of these women."
+    }
+  ]
+}

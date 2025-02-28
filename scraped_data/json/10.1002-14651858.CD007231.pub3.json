@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007231.pub3",
+  "name": "Stem cell transplantation for ischemic stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stroke is a leading cause of morbidity and mortality worldwide, with very large healthcare and social costs, and a strong demand for alternative therapeutic approaches. Preclinical studies have shown that stem cells transplanted into the brain can lead to functional improvement. However, to date, evidence for the benefits of stem cell transplantation in people with ischemic stroke is lacking. This is the first update of the Cochrane review published in 2010."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of stem cell transplantation compared with control in people with ischemic stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched August 2018), CENTRAL (last searched August 2018), MEDLINE (1966 to August 2018), Embase (1980 to August 2018), and BIOSIS (1926 to August 2018). We handsearched potentially relevant conference proceedings, screened reference lists, and searched ongoing trials and research registers (last searched August 2018). We also contacted individuals active in the field and stem cell manufacturers (last contacted August 2018)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) that recruited people with ischemic stroke, in any phase of the disease (acute, subacute or chronic), and an ischemic lesion confirmed by computerized tomography or magnetic resonance imaging scan. We included all types of stem cell transplantation, regardless of cell source (autograft, allograft, or xenograft; embryonic, fetal, or adult; from brain or other tissues), route of cell administration (systemic or local), and dosage. The primary outcome was efficacy (assessed as neurologic impairment or functional outcome) at longer term follow-up (minimum six months). Secondary outcomes included post-procedure safety outcomes (death, worsening of neurological deficit, infections, and neoplastic transformation)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the inclusion criteria, assessed trial quality and risk of bias, and extracted data. If needed, we contacted study authors for additional information. We performed random effects meta-analyses when two or more RCTs were available for any outcome. We assessed the certainty of the evidence by using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this updated review, we included seven completed RCTs with 401 participants. All tested adult human non-neural stem cells; cells were transplanted during the acute, subacute, or chronic phase of ischemic stroke; administered intravenously, intra-arterially, intracerebrally, or into the lumbar subarachnoid space. Follow-up ranged from six months to seven years. Efficacy outcomes were measured with the National Institutes of Health Stroke Scale (NIHSS), modified Rankin Scale (mRS), or Barthel Index (BI). Safety outcomes included case fatality, and were measured at the end of the trial.\nOverall, stem cell transplantation was associated with a better clinical outcome when measured with the NIHSS (mean difference [MD] -1.49, 95% confidence interval [CI] -2.65 to -0.33; five studies, 319 participants; low-certainty evidence), but not with the mRS (MD -0.42, 95% CI -0.86 to 0.02; six studies, 371 participants; very low-certainty evidence), or the BI (MD 14.09, 95% CI -1.94 to 30.13; three studies, 170 participants; very low-certainty evidence). The studies in favor of stem cell transplantation had, on average, a higher risk of bias, and a sample size of 32 or fewer participants.\nNo significant safety concerns associated with stem cell transplantation were raised with respect to death (risk ratio [RR] 0.66, 95% CI 0.39 to 1.14; six studies, participants; low-certainty evidence).\nWe were not able to perform the sensitivity analysis according to the quality of studies, because all of them were at high risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, in participants with ischemic stroke, stem cell transplantation was associated with a reduced neurological impairment, but not with a better functional outcome. No obvious safety concerns were raised. However, these conclusions came mostly from small RCTs with high risk of bias, and the certainty of the evidence ranged from low to very low. More well-designed trials are needed."
+    }
+  ],
+  "pls_title": "Stem cell transplantation for ischemic stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is stem cell transplantation safe and more effective than conventional treatments in improving recovery after ischemic stroke?"
+    },
+    {
+      "heading": "Background",
+      "text": "Stroke represents a leading cause of death and disability worldwide, with very large healthcare and social costs. Available therapies, targeted to restore patency of the blood vessel, consist of intravenous thrombolysis (the breakdown of blood clots formed in blood vessels, using medication) and endovascular mechanical thrombectomy (surgical removal of clot), administrated within a few hours of stroke onset, to just a few selected patients. Preliminary studies of stem cell transplantation (injecting cells that may save or replace damaged nerve tissue) could be safe and effective in ischemic stroke. However, information in humans is lacking. This review updates the previous Cochrane Review on this topic (Boncoraglio 2010)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included randomized trials that recruited adults with ischemic stroke, at any time after onset. We included any kind of stem cell or method of administration."
+    },
+    {
+      "heading": "Key results",
+      "text": "We identified seven randomized trials, involving 401 participants. Overall, stem cell transplantation was associated with a reduced neurological impairment, but not with a better functional outcome. No safety concerns were raised."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The certainty of the evidence ranged from low to very low because of the risk of bias in the included studies, the lack of precision of the results, and different designs. More well-designed randomized controlled trials are needed."
+    }
+  ]
+}

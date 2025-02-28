@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD011197.pub3",
+  "name": "Exercise‐based cardiac rehabilitation for adults with atrial fibrillation",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Atrial fibrillation (AF), the most prevalent cardiac arrhythmia, disrupts the heart's rhythm through numerous small re-entry circuits in the atrial tissue, leading to irregular atrial contractions. The condition poses significant health risks, including increased stroke risk, heart failure, and reduced quality of life. Given the complexity of AF and its growing incidence globally, exercise-based cardiac rehabilitation (ExCR) may provide additional benefits for people with AF or those undergoing routine treatment for the condition."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of ExCR compared with non-exercise controls for people who currently have AF or who have been treated for AF."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases: CENTRAL in the Cochrane Library, MEDLINE Ovid, Embase Ovid, PsycINFO Ovid, Web of Science Core Collection Thomson Reuters, CINAHL EBSCO, LILACS BIREME, and two clinical trial registers on 24 March 2024. We imposed no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised clinical trials (RCTs) that investigated ExCR interventions compared with any type of non-exercise control. We included adults 18 years of age or older with any subtype of AF or those who had received treatment for AF."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Five review authors independently screened and extracted data in duplicate. We assessed risk of bias using Cochrane's RoB 1 tool as outlined in the Cochrane Handbook for Systematic Reviews of Interventions. We assessed clinical and statistical heterogeneity by visual inspection of the forest plots and by using standard Chi² and I² statistics. We performed meta-analyses using random-effects models for continuous and dichotomised outcomes. We calculated standardised mean differences where different scales were used for the same outcome. We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 20 RCTs involving a total of 2039 participants with AF. All trials were conducted between 2006 and 2024, with a follow-up period ranging from eight weeks to five years. We assessed the certainty of evidence as moderate to very low. Five trials assessed comprehensive ExCR programmes, which included educational or psychological interventions, or both; the remaining 15 trials compared exercise-only cardiac rehabilitation with controls. The overall risk of bias in the included studies was mixed. Details on random sequence generation, allocation concealment, and use of intention-to-treat analysis were typically poorly reported.\nEvidence from nine trials (n = 1173) suggested little to no difference in mortality between ExCR and non-exercise controls (risk ratio (RR) 1.06, 95% confidence interval (CI) 0.76 to 1.49; I² = 0%; 101 deaths; low-certainty evidence). Based on evidence from 10 trials (n = 825), ExCR may have little to no effect on SAEs (RR 1.30, 95% CI 0.63 to 2.67; I² = 0%; 28 events; low-certainty evidence). Evidence from four trials (n = 378) showed that ExCR likely reduced AF recurrence (measured via Holter monitoring) compared to controls (RR 0.70, 95% CI 0.56 to 0.88; I² = 2%; moderate-certainty evidence). ExCR may reduce AF symptom severity (mean difference (MD) −1.59, 95% CI −2.98 to −0.20; I² = 61%; n = 600; low-certainty evidence); likely reduces AF symptom burden (MD −1.61, 95% CI −2.76 to −0.45; I² = 0%; n = 317; moderate-certainty evidence); may reduce AF episode frequency (MD −1.29, 95% CI −2.50 to −0.07; I² = 75%; n = 368; low-certainty evidence); and likely reduces AF episode duration (MD −0.58, 95% CI −1.14 to −0.03; I² = 0%; n = 317; moderate-certainty evidence), measured via the AF Severity Scale (AFSS) questionnaire. Moderate-certainty evidence from six trials (n = 504) showed that ExCR likely improved the mental component summary measure in health-related quality of life (HRQoL) of the 36-item Short Form Health Survey (SF-36) (MD 2.66, 95% CI 1.22 to 4.11; I² = 2%), but the effect of ExCR on the physical component summary measure was very uncertain (MD 1.75, 95% CI −0.31 to 3.81; I² = 52%; very low-certainty evidence). ExCR also may improve individual components of HRQoL (general health, vitality, emotional role functioning, and mental health) and exercise capacity (peak oxygen uptake (VO2peak) and 6-minute walk test) following ExCR. The effects of ExCR on serious adverse events and exercise capacity were consistent across different models of ExCR delivery: centre compared to home-based, exercise dose, exercise only compared to comprehensive programmes, and aerobic training alone compared to aerobic plus resistance programmes. Using univariate meta-regression, there was evidence of significant association between location of trial and length of longest follow-up on exercise capacity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to few randomised participants and typically short-term follow-up, the impact of ExCR on all-cause mortality or serious adverse events for people with AF is uncertain. ExCR likely improves AF-specific measures including reduced AF recurrence, symptom burden, and episode duration, as well as the mental components of HRQoL. ExCR may improve AF symptom severity, episode frequency, and VO2peak. Future high-quality RCTs are needed to assess the benefits of ExCR for people with AF on patient-relevant outcomes including AF symptom severity and burden, AF recurrence, AF-specific quality of life, and clinical events such as mortality, readmissions, and serious adverse events. High-quality trials are needed to investigate how AF subtype and clinical setting (i.e. primary and secondary care) may influence ExCR effectiveness."
+    }
+  ],
+  "pls_title": "Exercise-based cardiac rehabilitation for people with atrial fibrillation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Exercise-based cardiac rehabilitation likely improves symptoms and quality of life and may improve exercise capacity (the maximum amount of physical effort a person can tolerate) in adults with atrial fibrillation (AF).\n• There is not enough evidence to know the effect of exercise on death or serious unwanted effects.\n• The quality of evidence ranged from moderate to very low. More high-quality research is needed."
+    },
+    {
+      "heading": "What is atrial fibrillation?",
+      "text": "Atrial fibrillation (AF) is an irregular heart rhythm. It can increase a person's risk of stroke and other heart-related complications. Symptoms of AF include palpitations, fatigue, and dizziness. Exercise may be helpful for people with AF, as it affects heart health and overall well-being."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We looked at the benefits and possible harms of exercise-based cardiac rehabilitation for adults with AF."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that compared exercise-based cardiac rehabilitation to no exercise in people with AF. We wanted to know the effects on death, serious unwanted effects, and various measures of AF severity and patient well-being."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 20 studies involving a total of 2039 people with AF. In total, there were 101 deaths and 28 serious unwanted effects. There was not enough evidence to know whether exercise-based cardiac rehabilitation reduces the risk of death or serious unwanted effects. Exercise-based rehabilitation likely reduces AF recurrence, AF symptoms, and probably improves the mental aspects of quality of life. Exercise-based cardiac rehabilitation may also reduce AF symptom severity and may improve exercise capacity."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the overall findings of the review is limited because it is possible that people in the studies knew which treatment they were getting; reporting of results was incomplete; outcomes varied across studies; and the number of people included in the studies was relatively small."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to March 2024."
+    }
+  ]
+}

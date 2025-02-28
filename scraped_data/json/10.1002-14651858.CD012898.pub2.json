@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012898.pub2",
+  "name": "Present‐centered therapy (PCT) for post‐traumatic stress disorder (PTSD) in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Present-centered therapy (PCT) is a non-trauma, manualized psychotherapy for adults with post-traumatic stress disorder (PTSD). PCT was originally designed as a treatment comparator in trials evaluating the effectiveness of trauma-focused cognitive-behavioral therapy (TF-CBT). Recent trials have indicated that PCT may be an effective treatment option for PTSD and that patients may drop out of PCT at lower rates relative to TF-CBT."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of PCT for adults with PTSD. Specifically, we sought to determine whether (1) PCT is more effective in alleviating symptoms relative to control conditions, (2) PCT results in similar alleviation of symptoms compared to TF-CBT, based on an a priori minimally important differences on a semi-structured interview of PTSD symptoms, and (3) PCT is associated with lower treatment dropout as compared to TF-CBT."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Common Mental Disorders Controlled Trials Register, the Cochrane Library, Ovid MEDLINE, Embase, PsycINFO, PubMed, and PTSDpubs (previously called the Published International Literature on Traumatic Stress (PILOTS) database) (all years to 15 February 2019 search). We also searched the World Health Organization (WHO) trials portal (ICTRP) and ClinicalTrials.gov to identify unpublished and ongoing trials. Reference lists of included studies and relevant systematic reviews were checked. Grey literature searches were also conducted to identify dissertations and theses, clinical guidelines, and regulatory agency reports."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected all randomized clinical trials (RCTs) that recruited adults diagnosed with PTSD to evaluate PCT compared to TF-CBT or a control condition. Both individual and group PCT modalities were included. The primary outcomes of interest included reduced PTSD severity as determined by a clinician-administered measure and treatment dropout rates."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We complied with the Cochrane recommended standards for data screening and collection. Two review authors independently screened articles for inclusion and extracted relevant data from eligible studies, including the assessment of trial quality. Random-effects meta-analyses, subgroup analyses, and sensitivity analyses were conducted using mean differences (MD) and standardized mean differences (SMD) for continuous data or risk ratios (RR) and risk differences (RD) for dichotomous data. To conclude that PCT resulted in similar reductions in PTSD symptoms relative to TF-CBT, we required a MD of less than 10 points (to include the 95% confidence interval) on the Clinician-Administered PTSD Scale (CAPS). Five members of the review team convened to rate the quality of evidence across the primary outcomes. Any disagreements were resolved through discussion. Review authors who were investigators on any of the included trials were not involved in the qualitative or quantitative syntheses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 12 studies (n = 1837), of which, three compared PCT to a wait-list/minimal attention (WL/MA) group and 11 compared PCT to TF-CBT. PCT was more effective than WL/MA in reducing PTSD symptom severity (SMD -0.84, 95% CI -1.10 to -0.59; participants = 290; studies = 3; I² = 0%). We assessed the quality of this evidence as moderate. The results of the non-inferiority analysis comparing PCT to TF-CBT did not support PCT non-inferiority, with the 95% confidence interval surpassing the clinically meaningful cut-off (MD 6.83, 95% CI 1.90 to 11.76; 6 studies, n = 607; I² = 42%). We assessed this quality of evidence as low. CAPS differences between PCT and TF-CBT attenuated at 6-month (MD 1.59, 95% CI -0.46 to 3.63; participants = 906; studies = 6; I² = 0%) and 12-month (MD 1.22, 95% CI -2.17 to 4.61; participants = 485; studies = 3; I² = 0%) follow-up periods. To confirm the direction of the treatment effect using all eligible trials, we also evaluated PTSD SMD differences. These results were consistent with the primary MD outcomes, with meaningful effect size differences between PCT and TF-CBT at post-treatment (SMD 0.32, 95% CI 0.08 to 0.56; participants = 1129; studies = 9), but smaller effect size differences at six months (SMD 0.17, 95% CI 0.05 to 0.29; participants = 1339; studies = 9) and 12 months (SMD 0.17, 95% CI 0.03 to 0.31; participants = 728; studies = 5). PCT had approximately 14% lower treatment dropout rates compared to TF-CBT (RD -0.14, 95% CI -0.18 to -0.10; participants = 1542; studies = 10). We assessed the quality of this evidence as moderate. There was no evidence of meaningful differences on self-reported PTSD (MD 4.50, 95% CI 3.09 to 5.90; participants = 983; studies = 7) or depression symptoms (MD 1.78, 95% CI -0.23 to 3.78; participants = 705; studies = 5) post-treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-quality evidence indicates that PCT is more effective in reducing PTSD severity compared to control conditions. Low quality of evidence did not support PCT as a non-inferior treatment compared to TF-CBT on clinician-rated post-treatment PTSD severity. The treatment effect differences between PCT and TF-CBT may attenuate over time. PCT participants drop out of treatment at lower rates relative to TF-CBT participants. Of note, all of the included studies were primarily designed to test the effectiveness of TF-CBT which may bias results away from PCT non-inferiority.The current systematic review provides the most rigorous evaluation to date to determine whether PCT is comparably as effective as TF-CBT. Findings are generally consistent with current clinical practice guidelines that suggest that PCT may be offered as a treatment for PTSD when TF-CBT is not available."
+    }
+  ],
+  "pls_title": "Present-centered therapy (PCT) for post-traumatic stress disorder (PTSD) in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review Question",
+      "text": "Is present-centered therapy (PCT) an effective treatment option for adults with post-traumatic stress disorder (PTSD) as compared to the recommended trauma-focused cognitive-behavioral therapies (TF-CBT)?"
+    },
+    {
+      "heading": "Background",
+      "text": "PTSD is a psychiatric disorder that can develop in individuals who are exposed to a traumatic event. Although most trauma survivors experience gradual diminishment of symptoms and recover from the trauma exposure, some will go on to develop PTSD and experience persistent symptoms that disrupt biological, psychological, and social functioning.\nTF-CBT is considered one of the most effective treatments for PTSD. Trauma-focused therapies require patients to think about and/or talk about their prior traumas, which may prevent some patients from accessing or engaging in these treatments. PCT is a non-trauma based treatment that incorporates common psychotherapeutic components, and which may appeal to patients reluctant to engage in trauma-focused treatments. Although originally developed to be a treatment comparator in TF-CBT trials, PCT has performed well in these trials and may be associated with lower treatment dropout rates. If PCT is deemed to be comparably as effective as TF-CBT and also has lower treatment dropout rates, then it may be a preferred treatment option for those who do not want to participate in trauma-focused treatments. This systematic review seeks to determine whether PCT is an effective treatment option compared to TF-CBT for adults with PTSD."
+    },
+    {
+      "heading": "Study Characteristics",
+      "text": "This review included 12 studies that comprised a total of 1837 participants. Eleven studies that included 1826 participants contributed to the quantitative syntheses. Participants were all adults, but ranged in demographics and trauma types. All studies recruited participants in the United States and there was a predominance of studies conducted on military veterans."
+    },
+    {
+      "heading": "Key Results",
+      "text": "PCT does not appear to be as effective as trauma focused treatments in reducing PTSD severity at post-treatment. However, PCT is associated with reduced treatment dropout rates compared to TF-CBT."
+    },
+    {
+      "heading": "Quality of the Evidence",
+      "text": "Several of the TF-CBT trials included in this review were well designed and executed. However, we assessed the overall quality of evidence for our primary outcome (post-treatment PTSD severity) as low based on inconsistent outcomes and some imprecision in the results. We rated the quality of the evidence on differential treatment dropout as moderate."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD005219.pub3",
+  "name": "Normobaric and hyperbaric oxygen therapy for the treatment and prevention of migraine and cluster headache ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Migraine and cluster headaches are severe and disabling. Migraine affects up to 18% of women, while cluster headaches are much less common (0.2% of the population). A number of acute and prophylactic therapies are available. Hyperbaric oxygen therapy (HBOT) is the therapeutic administration of 100% oxygen at environmental pressures greater than one atmosphere, while normobaric oxygen therapy (NBOT) is oxygen administered at one atmosphere. This is an updated version of the original Cochrane review published in Issue 3, 2008 under the title 'Normobaric and hyperbaric oxygen for migraine and cluster headache'."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the efficacy and safety of normobaric oxygen therapy (NBOT) and hyperbaric oxygen therapy (HBOT) in the treatment and prevention of migraine and cluster headache."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated searches of the following databases up to 15 June 2015: CENTRAL (the Cochrane Library), MEDLINE, EMBASE, and CINAHL. For the original review we searched the following databases up to May 2008: CENTRAL, MEDLINE, EMBASE, CINAHL, DORCTIHM, and reference lists from relevant articles. We handsearched relevant journals and contacted researchers to identify trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing HBOT or NBOT with one another, other active therapies, placebo (sham) interventions, or no treatment in participants with migraine or cluster headache."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently extracted data and assessed the quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this update, we included 11 trials with 209 participants. Five trials (103 participants) compared HBOT versus sham therapy for acute migraine, three trials compared NBOT to sham therapy or ergotamine tartrate for cluster headache (145 participants), two trials evaluated HBOT for cluster headache (29 participants), and one trial (56 participants) compared NBOT to sham for a mixed group of headache. The risk of bias varied considerably across these trials but in general trial quality was poor to moderate. One trial may not have been truly randomised and two included studies were reported as abstracts only. Seven trials did not indicate allocation concealment or randomisation method. Notably, 10 of the 11 trials used a sham comparator therapy and masked the outcome assessor to allocation.\nWe pooled data from three trials, which suggested that HBOT was effective in relieving migraine headaches compared to sham therapy (risk ratio (RR) 6.21, 95% CI 2.41 to 16.00; 58 participants, three trials). The quality of evidence was low, having been downgraded for small crossover studies with incomplete reporting. There was no evidence that HBOT could prevent migraine episodes, reduce the incidence of nausea and vomiting, or reduce the requirement for rescue medication. There was no evidence that HBOT was effective for the termination of cluster headache (RR 11.38, 95% CI 0.77 to 167.85; P = 0.08) (one trial), but this trial had low power.\nNBOT was effective in terminating cluster headache compared to sham in a single small study (RR 7.88, 95% CI 1.13 to 54.66), but not superior to ergotamine administration in another small trial (RR 1.17, 95% CI 0.94 to 1.46; P = 0.16). A third trial reported a statistically significant difference in the proportion of attacks successfully treated with oxygen (117 of 150 attacks were successfully treated with NBOT (78%) versus 30 of 148 attacks treated with NBOT (20%)). The proportion of responders was consistent across these three trials, and suggested more than 75% of headaches were likely to respond to NBOT.\nNo serious adverse events during HBOT or NBOT were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Since the last version of this review, two new included studies have provided additional information to change the conclusions. There was some evidence that HBOT was effective for the termination of acute migraine in an unselected population, and some evidence that NBOT was similarly effective in cluster headache. Given the cost and poor availability of HBOT, more research should be done on patients unresponsive to standard therapy. NBOT is cheap, safe, and easy to apply, so will probably continue to be used despite the limited evidence in this review."
+    }
+  ],
+  "pls_title": "Normal pressure oxygen therapy and hyperbaric oxygen therapy for migraine and cluster headaches",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Migraine and cluster headaches are severe and disabling. Hyperbaric oxygen therapy (HBOT, that is the breathing of pure oxygen at pressures greater than one atmosphere in a pressurised chamber) and normal pressure oxygen therapy (NBOT) can be delivered via a mask at home or in a clinic. These treatments may help to end acute attacks and prevent future attacks."
+    },
+    {
+      "heading": "Results",
+      "text": "We originally searched the literature widely in May 2008, and most recently in June 2015. We looked for high quality trials that would help define whether or not there was good evidence for or against the use of oxygen for migraine or cluster headache. We included 11 trials in this review."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We found some low quality evidence to suggest that HBOT relieves pain with acute migraine headaches and possibly cluster headaches, and that NBOT may relieve pain with cluster headache. We found no evidence that either treatment can prevent future attacks. Many migraines can be treated simply with appropriate drug therapy, so further research is needed to help choose the most appropriate patients (if any) to receive HBOT."
+    }
+  ]
+}

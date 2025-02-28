@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006086.pub4",
+  "name": "Nutritional supplements for people being treated for active tuberculosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tuberculosis and malnutrition are linked in a complex relationship. Tuberculosis may cause undernutrition through increased metabolic demands and decreased intake, and nutritional deficiencies may worsen the disease, or delay recovery by depressing important immune functions. At present, there is no evidence-based nutritional guidance for adults and children being treated for tuberculosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of oral nutritional supplements in people being treated with antituberculous drug therapy for active tuberculosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Disease Group Specialized Register, Cochrane Central Register of Controlled Trials (CENTRAL; Issue 1, 2016), MEDLINE (from 1946 to 4 February 2016), EMBASE (from 1980 to 4 February 2016), LILACS (from 1982 to 4 February 2016), the meta Register of Controlled Trials (m RCT), the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), and the Indian Journal of Tuberculosis up to 4 February 2016, and checked the reference lists of all included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials that compared any oral nutritional supplement given for at least four weeks with no nutritional intervention, placebo, or dietary advice only for people being treated for active tuberculosis. The primary outcomes of interest were all-cause death, and cure at six and 12 months."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials for inclusion, and extracted data and assessed the risk of bias in the included trials. We presented the results as risk ratios (RR) for dichotomous variables, and mean differences (MD) for continuous variables, with 95% confidence intervals (CIs). Where appropriate, we pooled data from trials with similar interventions and outcomes. We assessed the quality of the evidence using the Grading of Recommendation Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-five trials, including 8283 participants, met the inclusion criteria of this review.\nMacronutrient supplementation\nSix trials assessed the provision of free food, or high-energy supplements. Only two trials measured total dietary intake, and in both trials the intervention increased calorie consumption compared to controls.\nThe available trials were too small to reliably prove or exclude clinically important benefits on mortality (RR 0.34, 95% CI 0.10 to 1.20; four trials, 567 participants, very low quality evidence ), cure (RR 0.91, 95% CI 0.59 to 1.41; one trial, 102 participants, very low quality evidence ), or treatment completion (data not pooled; two trials, 365 participants, very low quality evidence).\nSupplementation probably produces a modest increase in weight gain during treatment for active tuberculosis, although this was not seen consistently across all trials (data not pooled; five trials, 883 participants, moderate quality evidence ). Two small studies provide some evidence that quality of life may also be improved but the trials were too small to have much confidence in the result (data not pooled; two trials, 134 participants, low quality evidence).\nMicronutrient supplementation\nSix trials assessed multi-micronutrient supplementation in doses up to 10 times the dietary reference intake, and 18 trials assessed single or dual micronutrient supplementation.\nRoutine multi-micronutrient supplementation may have little or no effect on mortality in HIV-negative people with tuberculosis (RR 0.86, 95% CI 0.46 to 1.6; four trials, 1219 participants, low quality evidence ), or HIV-positive people who are not taking antiretroviral therapy (RR 0.92, 95% CI 0.69 to 1.23; three trials, 1429 participants, moderate quality evidence ). There is insufficient evidence to know if supplementation improves cure (no trials), treatment completion (RR 0.99, 95% CI 0.95 to 1.04; one trial, 302 participants, very low quality evidence ), or the proportion of people who remain sputum positive during the first eight weeks (RR 0.92, 95% CI 0.63 to 1.35; two trials, 1020 participants, very low quality evidence ). However, supplementation may have little or no effect on weight gain during treatment (data not pooled; five trials, 2940 participants, low quality evidence), and no studies have assessed the effect on quality of life.\nPlasma levels of vitamin A appear to increase following initiation of tuberculosis treatment regardless of supplementation. In contrast, supplementation probably does improve plasma levels of zinc, vitamin D, vitamin E, and selenium, but this has not been shown to have clinically important benefits. Of note, despite multiple studies of vitamin D supplementation in different doses, statistically significant benefits on sputum conversion have not been demonstrated."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently insufficient research to know whether routinely providing free food, or energy supplements improves tuberculosis treatment outcomes, but it probably improves weight gain in some settings.\nAlthough blood levels of some vitamins may be low in people starting treatment for active tuberculosis, there is currently no reliable evidence that routinely supplementing above recommended daily amounts has clinical benefits."
+    }
+  ],
+  "pls_title": "Nutritional supplements for people being treated for active tuberculosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Cochrane researchers conducted a review of the effects of nutritional supplements for people being treated for tuberculosis. After searching for relevant studies up to 4 February 2016, they included 35 relevant studies with 8283 participants. Their findings are summarized below."
+    },
+    {
+      "heading": "What is active tuberculosis and how might nutritional supplements work?",
+      "text": "Tuberculosis is a bacterial infection which most commonly affects the lungs. Most people who get infected never develop symptoms as their immune system manages to control the bacteria. Active tuberculosis occurs when the infection is no longer contained by the immune system, and typical symptoms are cough, chest pain, fever, night sweats, weight loss, and sometimes coughing up blood. Treatment is with a combination of antibiotic drugs, which must be taken for at least six months.\nPeople with tuberculosis are often malnourished, and malnourished people are at higher risk of developing tuberculosis as their immune system is weakened. Nutritional supplements could help people recover from the illness by strengthening their immune system, and by improving weight gain, and muscle strength, allowing them to return to an active life. Good nutrition requires a daily intake of macronutrients (carbohydrate, protein, and fat), and micronutrients (essential vitamins and minerals)."
+    },
+    {
+      "heading": "What the research says",
+      "text": ""
+    },
+    {
+      "heading": "Effect of providing nutritional supplements to people being treated for tuberculosis",
+      "text": "We currently don't know if providing free food to tuberculosis patients, as hot meals or ration parcels, reduces death or improves cure (very low quality evidence ). However, it probably does improve weight gain in some settings (moderate quality evidence ), and may improve quality of life (low quality evidence).\nRoutinely providing multi-micronutrient supplements may have little or no effect on deaths in HIV-negative people with tuberculosis (low quality evidence ), or HIV-positive people who are not taking anti-retroviral therapy (moderate quality evidence ). We currently don't know if micronutrient supplements have any effect on tuberculosis treatment outcomes (very low quality evidence ), but they may have no effect on weight gain (low quality evidence). No studies have assessed the effect on quality of life.\nPlasma levels of vitamin A appear to increase after starting tuberculosis treatment regardless of supplementation. In contrast, supplementation probably does improve plasma levels of zinc, vitamin D, vitamin E, and selenium, but this has not been shown to have clinically important benefits. Despite multiple studies of vitamin D supplementation in different doses, statistically significant benefits on sputum conversion have not been demonstrated."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Food or energy supplements may improve weight gain during recovery from tuberculosis in some settings, but there is currently no evidence that they improve tuberculosis treatment outcomes. There is also currently no reliable evidence that routinely supplementing above recommended daily amounts has clinical benefits."
+    }
+  ]
+}

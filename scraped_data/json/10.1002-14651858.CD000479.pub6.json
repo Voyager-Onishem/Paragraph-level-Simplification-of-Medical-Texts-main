@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000479.pub6",
+  "name": "Surgical or radiological treatment for varicoceles in subfertile men",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Varicoceles are associated with male subfertility; however, the mechanisms by which varicoceles affect fertility have yet to be satisfactorily explained. Several treatment options exist, including surgical or radiological treatment, however the safest and most efficient treatment remains unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of surgical and radiological treatment of varicoceles on live birth rate, adverse events, pregnancy rate, varicocele recurrence, and quality of life amongst couples where the adult male has a varicocele, and the female partner of childbearing age has no fertility problems."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases on 4 April 2020: the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, and CINAHL. We also searched the trial registries and reference lists of articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) if they were relevant to the clinical question posed and compared different forms of surgical ligation, different forms of radiological treatments, surgical treatment compared to radiological treatment, or one of these aforementioned treatment forms compared to non-surgical methods, delayed treatment, or no treatment. We extracted data if the studies reported on live birth, adverse events, pregnancy, varicocele recurrence, and quality of life."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Screening of abstracts and full-text publications, alongside data extraction and 'Risk of bias' assessment, were done dually using the Covidence software. When we had sufficient data, we calculated random-effects (Mantel-Haenszel) meta-analyses; otherwise, we reported results narratively. We used the I2 statistic to analyse statistical heterogeneity. We planned to use funnel plots to assess publication bias in meta-analyses with at least 10 included studies. We dually rated the risk of bias of studies using the Cochrane 'Risk of bias' tool, and the certainty of evidence for each outcome using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 1897 citations after de-duplicating the search results. We excluded 1773 during title and abstract screening. From the 113 new full texts assessed in addition to the 10 studies (11 references) included in the previous version of this review, we included 38 new studies, resulting in a total of 48 studies (59 references) in the review providing data for 5384 participants. Two studies (three references) are ongoing studies and two studies are awaiting classification.\nTreatment versus non-surgical, non-radiological, delayed, or no treatment\nTwo studies comparing surgical or radiological treatment versus no treatment reported on live birth with differing directions of effect. As a result, we are uncertain whether surgical or radiological treatment improves live birth rates when compared to no treatment (risk ratio (RR) 2.27, 95% confidence interval (CI) 0.19 to 26.93; 2 RCTs, N = 204; I2 = 74%, very low-certainty evidence). Treatment may improve pregnancy rates compared to delayed or no treatment (RR 1.55, 95% CI 1.06 to 2.26; 13 RCTs, N = 1193; I2 = 65%, low-certainty evidence). This suggests that couples with no or delayed treatment have a 21% chance of pregnancy, whilst the pregnancy rate after surgical or radiological treatment is between 22% and 48%. We identified no evidence on adverse events, varicocele recurrence, or quality of life for this comparison.\nSurgical versus radiological treatment\nWe are uncertain about the effect of surgical versus radiological treatment on live birth and on the following adverse events: hydrocele formation, pain, epididymitis, haematoma, and suture granuloma. We are uncertain about the effect of surgical versus radiological treatment on pregnancy rate (RR 1.13, 95% CI 0.75 to 1.70; 5 RCTs, N = 456, low-certainty evidence) and varicocele recurrence (RR 1.31, 95% CI 0.82 to 2.08; 3 RCTs, N = 380, low-certainty evidence). We identified no evidence on quality of life for this comparison.\nSurgery versus other surgical treatment\nWe identified 19 studies comparing microscopic subinguinal surgical treatment to any other surgical treatment. Microscopic subinguinal surgical treatment probably improves pregnancy rates slightly compared to other surgical treatments (RR 1.18, 95% CI 1.02 to 1.36; 12 RCTs, N = 1473, moderate-certainty evidence). This suggests that couples with microscopic subinguinal surgical treatment have a 10% to 14% chance of pregnancy after treatment, whilst the pregnancy rate in couples after other surgical treatments is 10%. This procedure also probably reduces the risk of varicocele recurrence (RR 0.48, 95% CI 0.29, 0.79; 14 RCTs, N = 1565, moderate-certainty evidence). This suggests that 0.4% to 1.1% of men undergoing microscopic subinguinal surgical treatment experience recurrent varicocele, whilst 1.4% of men undergoing other surgical treatments do. Results for the following adverse events were inconclusive: hydrocele formation, haematoma, abdominal distension, testicular atrophy, wound infection, scrotal pain, and oedema. We identified no evidence on live birth or quality of life for this comparison.\nNine studies compared open inguinal surgical treatment to retroperitoneal surgical treatment. Due to small sample sizes and methodological limitations, we identified neither treatment type as superior or inferior to the other regarding adverse events, pregnancy rates, or varicocele recurrence. We identified no evidence on live birth or quality of life for this comparison.\nRadiological versus other radiological treatment\nOne study compared two types of radiological treatment (sclerotherapy versus embolisation) and reported 13% varicocele recurrence in both groups. Due to the broad confidence interval, no valid conclusion could be drawn (RR 1.00, 95% CI 0.16 to 6.20; 1 RCT, N = 30, very low-certainty evidence). We identified no evidence on live birth, adverse events, pregnancy, or quality of life for this comparison."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the limited evidence, it remains uncertain whether any treatment (surgical or radiological) compared to no treatment in subfertile men may be of benefit on live birth rates; however, treatment may improve the chances for pregnancy. The evidence was also insufficient to determine whether surgical treatment was superior to radiological treatment. However, microscopic subinguinal surgical treatment probably improves pregnancy rates and reduces the risk of varicocele recurrence compared to other surgical treatments. High-quality, head-to-head comparative RCTs focusing on live birth rate and also assessing adverse events and quality of life are warranted."
+    }
+  ],
+  "pls_title": "Surgery or radiological treatment for varicoceles in subfertile men",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "A varicocele is a dilatation (enlargement) of the veins along the spermatic cord (the cord suspending the testis) in the scrotum. Dilatation occurs when valves within the veins along the spermatic cord fail and allow retrograde blood flow, causing a backup of blood. Surgical treatment involves the closing off of the vessels, typically with sutures or clips. Radiological treatment involves both embolisation, in which the vessel is blocked with small particles, or sclerotherapy, where an agent is administered that damages the vessels, causing them to shrink. The mechanisms by which varicoceles might affect fertility, or the mechanisms by which surgical or radiological treatment of varicoceles might restore fertility, have not yet been explained."
+    },
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence for the effect of varicocele treatment on live birth, adverse events, pregnancy rate, varicocele recurrence, and quality of life in subfertile couples where the male has a varicocele, and the female partner of childbearing age has no fertility problems."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 48 randomised controlled trials (a type of study in which people are assigned to one of two or more treatment groups using a random method) comparing treatment versus no treatment or versus a different treatment method in a total of 5384 men. The evidence is current to April 2020."
+    },
+    {
+      "heading": "Key results",
+      "text": "We are uncertain whether surgical or radiological treatment improves live birth rates when compared to no treatment. Treatment may improve pregnancy rates compared to delayed or no treatment. The evidence suggests that couples with no or delayed treatment have a 21% chance of pregnancy, whilst the pregnancy rate after surgical or radiological treatment is between 22% and 48%. Data were lacking on adverse events, varicocele recurrence, and quality of life.\nWe are uncertain about the effect of surgical versus radiological treatment on live birth, pregnancy rate, varicocele recurrence, and the adverse event hydrocele formation. Data were lacking on quality of life for this comparison.\nMicroscopic subinguinal surgical treatment probably improves pregnancy rates slightly compared to other surgical treatments. This suggests that couples with microscopic subinguinal surgical treatment have a 10% to 14% chance of pregnancy after treatment, whilst the pregnancy rate in couples after other surgical treatments is 10%. This procedure also probably reduces the risk of varicocele recurrence. This suggests that 0.4% to 1.1% of men undergoing microscopic subinguinal surgical treatment experience recurrent varicocele, whilst 1.4% of men undergoing other surgical treatments do. Results on adverse events were inconclusive. Data were lacking on live birth and quality of life.\nWe are uncertain about the effects of open inguinal surgical treatment versus retroperitoneal surgical treatment on adverse events, pregnancy rates, or varicocele recurrence. Data were lacking on live birth and quality of life.\nWe are uncertain about the effects of radiological treatment (sclerotherapy versus embolisation) on varicocele recurrence. Data were lacking on live birth, adverse events, pregnancy, and quality of life."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Our findings were inconclusive, as the certainty of the available evidence ranged from moderate to very low depending on outcome. More research is needed with live birth or pregnancy rate as the primary outcome."
+    }
+  ]
+}

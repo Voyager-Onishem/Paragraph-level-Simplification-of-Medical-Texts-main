@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013019.pub2",
+  "name": "Motor imagery for gait rehabilitation after stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Motor imagery (MI) is defined as a mentally rehearsed task in which movement is imagined but is not performed. The approach includes repetitive imagined body movements or rehearsing imagined acts to improve motor performance."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the treatment effects of MI for enhancing ability to walk among people following stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group registry, CENTRAL, MEDLINE, Embase and seven other databases. We also searched trial registries and reference lists. The last searches were conducted on 24 February 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) using MI alone or associated with action observation or physical practice to improve gait in individuals after stroke. The critical outcome was the ability to walk, assessed using either a continuous variable (walking speed) or a dichotomous variable (dependence on personal assistance). Important outcomes included walking endurance, motor function, functional mobility, and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected the trials according to pre-defined inclusion criteria, extracted the data, assessed the risk of bias, and applied the GRADE approach to evaluate the certainty of the evidence. The review authors contacted the study authors for clarification and missing data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 studies, involving a total of 762 participants. Participants were in the acute, subacute, or chronic stages of stroke, and had a mean age ranging from 50 to 78 years. All participants presented at least some gait deficit. All studies compared MI training versus other therapies. Most of the included studies used MI associated with physical practice in the experimental groups. The treatment time for the experimental groups ranged from two to eight weeks. There was a high risk of bias for at least one assessed domain in 20 of the 21 included studies.\nRegarding our critical outcome, there was very low-certainty evidence that MI was more beneficial for improving gait (walking speed) compared to other therapies at the end of the treatment (pooled standardized mean difference (SMD) 0.44; 95% confidence interval (CI) 0.06 to 0.81; P = 0.02; six studies; 191 participants; I² = 38%). We did not include the outcome of dependence on personal assistance in the meta-analysis, because only one study provided information regarding the number of participants that became dependent or independent after interventions.\nFor our important outcomes, there was very low-certainty evidence that MI was no more beneficial than other interventions for improving motor function (pooled mean difference (MD) 2.24, 95% CI -1.20 to 5.69; P = 0.20; three studies; 130 participants; I² = 87%) and functional mobility at the end of the treatment (pooled SMD 0.55, 95% CI -0.45 to 1.56; P = 0.09; four studies; 116 participants; I² = 64.2%). No adverse events were observed in those studies that reported this outcome (seven studies). We were unable to pool data regarding walking endurance and all other outcomes at follow-up."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found very low-certainty evidence regarding the short-term benefits of MI on walking speed in individuals who have had a stroke, compared to other therapies. Evidence was insufficient to estimate the effect of MI on the dependence on personal assistance and walking endurance. Compared with other therapies, the evidence indicates that MI does not improve motor function and functional mobility after stroke (very low-certainty evidence). Evidence was also insufficient to estimate the effect of MI on gait, motor function, and functional mobility after stroke compared to placebo or no intervention. Motor Imagery and other therapies used for gait rehabilitation after stroke do not appear to cause significant adverse events."
+    }
+  ],
+  "pls_title": "Motor imagery for gait rehabilitation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is motor imagery (MI) an effective approach to improve gait (walking ability) in people following stroke?"
+    },
+    {
+      "heading": "Background",
+      "text": "Post-stroke gait disability affects independence, mobility, activities of daily living, and participation in community activities. MI is a type of therapy that uses the imagination of movement (without actually moving). It has been recommended in the rehabilitation of people with stroke to promote movement relearning."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Our most recent search date was 24 February 2020. We included 21 studies, with 762 participants (60% men and 40% women), and a mean age ranging from 50 to 78 years. The participants included in the studies were at different time points after stroke, and the etiology (causes of stroke) was also varied. All participants were able to walk with some difficulty. All included studies compared MI training with another intervention, and physical practice was the most applied therapy in the comparison (control) groups. In the experimental groups, most of the included studies used MI combined with physical practice, and used either kinesthetic (when someone imagines himself or herself) or visual (when the individual observes another person) MI. The treatment time for the experimental groups ranged from two to eight weeks. In general, only three of the included studies conducted a follow-up assessment after interventions."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found very low-certainty evidence that MI alone or combined with either action observation (a type of imagery in which patients observe movement) or physical practice was superior to other therapies in improving walking speed in a short-term period. However, there is very low-certainty evidence that MI was no more beneficial than other therapies for improving motor function and functional mobility at the end of the treatment. There was insufficient evidence to evaluate the effect of MI on independence to perform activities of daily living and walking endurance after stroke, and to evaluate the medium- or long-term effects of MI on all assessed outcomes. Although poorly reported, no adverse events related to MI and other therapies were observed. It is unknown whether the gait of people who have had a stroke could benefit from MI training compared to placebo or no intervention."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We classified the certainty of the evidence as very low because many studies had methodological concerns and low numbers of participants, and did not follow guidelines for how studies should be reported."
+    }
+  ]
+}

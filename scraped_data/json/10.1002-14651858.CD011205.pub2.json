@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011205.pub2",
+  "name": "Guanylate cyclase stimulators for pulmonary hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pulmonary hypertension is a condition of complex aetiology that culminates in right heart failure and early death. Soluble guanylate cyclase (sGC) stimulators are a promising class of agents that have recently gained approval for use."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy of sGC stimulators in pulmonary hypertension."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (Cochrane Central Register of Controlled Trials), MEDLINE, EMBASE and the reference lists of articles. Searches are current as of 12 February 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials (RCTs) involving participants with pulmonary hypertension of all ages, severities and durations of treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "AW, MS and RW independently selected studies, assessed evidence quality and extracted data. This process was overseen by RT and SG. All included studies were sponsored by the drug manufacturer."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five trials involving 962 participants are included in this review. All trials were of relatively short duration (< 16 weeks). Due to the heterogenous aetiology of pulmonary hypertension in participants, results are best considered according to each pulmonary hypertension subtype.\nPooled analysis shows a mean difference (MD) increase in six-minute walking distance (6MWD) of 30.13 metres (95% CI 5.29 to 54.96; participants = 659; studies = 3). On subgroup analysis, for pulmonary arterial hypertension (PAH) there was no effect noted (6MWD; MD 11.91 metres, 95% CI −44.92 to 68.75; participants = 398; studies = 2), and in chronic thromboembolic pulmonary hypertension (CTEPH) sGC stimulators improved 6MWD by an MD of 45 metres (95% CI 23.87 to 66.13; participants = 261; studies = 1). Data for left heart disease-associated PH was not available for pooling. Importantly, when participants receiving phosphodiesterase inhibitors were excluded, sGC stimulators increased 6MWD by a MD of 36 metres in PAH. The second primary outcome, mortality, showed no change on pooled analysis against placebo (Peto odds ratio (OR) 0.57, 95% CI 0.18 to 1.80).\nPooled secondary outcomes include an increase in World Health Organization (WHO) functional class (OR 1.53, 95% CI 0.87 to 2.72; participants = 858; studies = 4), no effect on clinical worsening (OR 0.45, 95% CI 0.17 to 1.14; participants = 842; studies = 3), and a reduction in mean pulmonary artery pressure (MD −2.77 mmHg, 95% CI −4.96 to −0.58; participants = 744; studies = 5). There was no significant difference in serious adverse events on pooled analysis (OR 1.12, 95% CI 0.66 to 1.90; participants = 818; studies = 5) or when analysed at PAH (MD −3.50, 95% CI −5.54 to −1.46; participants = 344; studies = 1), left heart disease associated subgroups (OR 1.56, 95% CI 0.78 to 3.13; participants = 159; studies = 2) or CTEPH subgroups (OR 1.29, 95% CI 0.65 to 2.56; participants = 261; studies = 1).\nIt is important to consider the results for PAH in the context of a person who is not also receiving a phosphodiesterase-V inhibitor, a contra-indication to sGC stimulator use. It should also be noted that CTEPH results are applicable to inoperable or recurrent CTEPH only.\nEvidence was rated according to the GRADE scoring system. One outcome was considered high quality, two were moderate, and eight were of low or very low quality, meaning that for many of the outcomes the true effect could differ substantially from our estimate. There were only minor concerns regarding the risk of bias in these trials, all being RCTs largely following the original protocol. Most trials employed an intention-to-treat analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "sGC stimulators improve pulmonary artery pressures in people with PAH (who are treatment naive or receiving a prostanoid or endothelin antagonist) or those with recurrent or inoperable CTEPH. In these settings this can be achieved without notable complication. However, sGC stimulators should not be taken by people also receiving phosphodiestase-V inhibitors or nitrates due to the risks of hypotension, and there is currently no evidence supporting their use in pulmonary hypertension associated with left heart disease. There is no evidence supporting their use in children. These conclusions are based on data with limitations, including unavailable data from two of the trials."
+    }
+  ],
+  "pls_title": "Soluble guanylate cyclase stimulators for raised blood pressure within the lungs",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the use of a set of drugs, soluble guanylate cyclase stimulators, for the improvement of symptoms in participants with pulmonary hypertension (PH). This was in comparison to current treatment or no treatment."
+    },
+    {
+      "heading": "Background",
+      "text": "PH involves high blood pressure in the blood vessels of the lungs. This causes shortness of breath and reduces the ability to exercise, leading to faints and dizziness. PH can cause the heart to fail, leading to a shortened life. PH is not a single disease, but includes a group of diseases. Key PH types for this review include pulmonary arterial hypertension (PAH), chronic thromboembolic pulmonary hypertension (CTEPH) and PH due to left heart disease."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This evidence is current to February 2016. Males and females of all ages diagnosed with PH were included in this review. We selected only randomised clinical trials. All trials used a comparison to no treatment. Trial durations ranged from 12 to 16 weeks. This review involves five trials on 962 participants. All included studies were sponsored by the maker of the drug."
+    },
+    {
+      "heading": "Key results",
+      "text": "Soluble guanylate cyclase stimulators appear to reduce lung pressures and improve exercise capacity in PAH and recurrent or inoperable CTEPH, but not in PH due to left heart disease. It is uncertain if these drugs have an effect on death rates and general health decline, or if they may be associated with serious side effects. There is evidence that suggests these drugs should not be taken at the same time as phosphodiesterase-V inhibitors."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "One outcome was considered to be high quality according to the GRADE scoring system. Two were considered moderate strength and eight outcomes were considered low or very low strength. This means the results reported may not represent the true effect."
+    }
+  ]
+}

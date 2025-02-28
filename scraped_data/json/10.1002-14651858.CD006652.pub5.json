@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006652.pub5",
+  "name": "Parenteral anticoagulation in ambulatory patients with cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Anticoagulation may improve survival in patients with cancer through a speculated anti-tumour effect, in addition to the antithrombotic effect, although may increase the risk of bleeding."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of parenteral anticoagulants in ambulatory patients with cancer who, typically, are undergoing chemotherapy, hormonal therapy, immunotherapy or radiotherapy, but otherwise have no standard therapeutic or prophylactic indication for anticoagulation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A comprehensive search included (1) a major electronic search (February 2016) of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL) (2016, Issue 1), MEDLINE (1946 to February 2016; accessed via OVID) and Embase (1980 to February 2016; accessed via OVID); (2) handsearching of conference proceedings; (3) checking of references of included studies; (4) use of the 'related citation' feature in PubMed and (5) a search for ongoing studies in trial registries. As part of the living systematic review approach, we are running searches continually and we will incorporate new evidence rapidly after it is identified. This update of the systematic review is based on the findings of a literature search conducted on 14 August 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) assessing the benefits and harms of parenteral anticoagulation in ambulatory patients with cancer. Typically, these patients are undergoing chemotherapy, hormonal therapy, immunotherapy or radiotherapy, but otherwise have no standard therapeutic or prophylactic indication for anticoagulation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Using a standardized form we extracted data in duplicate on study design, participants, interventions outcomes of interest, and risk of bias. Outcomes of interested included all-cause mortality, symptomatic venous thromboembolism (VTE), symptomatic deep vein thrombosis (DVT), pulmonary embolism (PE), major bleeding, minor bleeding, and quality of life. We assessed the certainty of evidence for each outcome using the GRADE approach (GRADE handbook [GRADE handbook])."
+    },
+    {
+      "heading": "Main results",
+      "text": "Of 6947 identified citations, 19 RCTs fulfilled the eligibility criteria. These trials enrolled 9650 participants. Trial registries' searches identified nine registered but unpublished trials, two of which were labeled as 'ongoing trials'. In all included RCTs, the intervention consisted of heparin (either unfractionated heparin or low molecular weight heparin). Overall, heparin appears to have no effect on mortality at 12 months (risk ratio (RR) 0.98; 95% confidence interval (CI) 0.93 to 1.03; risk difference (RD) 10 fewer per 1000; 95% CI 35 fewer to 15 more; moderate certainty of evidence) and mortality at 24 months (RR 0.99; 95% CI 0.96 to 1.01; RD 8 fewer per 1000; 95% CI 31 fewer to 8 more; moderate certainty of evidence). Heparin therapy reduces the risk of symptomatic VTE (RR 0.56; 95% CI 0.47 to 0.68; RD 30 fewer per 1000; 95% CI 36 fewer to 22 fewer; high certainty of evidence), while it increases in the risks of major bleeding (RR 1.30; 95% 0.94 to 1.79; RD 4 more per 1000; 95% CI 1 fewer to 11 more; moderate certainty of evidence) and minor bleeding (RR 1.70; 95% 1.13 to 2.55; RD 17 more per 1000; 95% CI 3 more to 37 more; high certainty of evidence). Results failed to confirm or to exclude a beneficial or detrimental effect of heparin on thrombocytopenia (RR 0.69; 95% CI 0.37 to 1.27; RD 33 fewer per 1000; 95% CI 66 fewer to 28 more; moderate certainty of evidence); quality of life (moderate certainty of evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Heparin appears to have no effect on mortality at 12 months and 24 months. It reduces symptomatic VTE and likely increases major and minor bleeding. Future research should further investigate the survival benefit of different types of anticoagulants in patients with different types and stages of cancer. The decision for a patient with cancer to start heparin therapy should balance the benefits and downsides, and should integrate the patient's values and preferences.\nEditorial note:This is a living systematic review. Living systematic reviews offer a new approach to review updating in which the review is continually updated, incorporating relevant new evidence, as it becomes available. Please refer to the Cochrane Database of Systematic Reviews for the current status of this review."
+    }
+  ],
+  "pls_title": "Injectable blood thinners (anticoagulants) in patients with cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Research evidence suggests that blood thinners may improve the survival of patients with cancer, by preventing life-threatening blood clots and might also have a direct anticancer effect. However, blood thinners can also increase the risk of bleeding, which can be serious and reduce survival. It is therefore important to understand the pros and cons of treatment to allow patients and their doctors to be aware of the balance of risks and benefits."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the scientific literature for studies of anticoagulants in people with cancer. The evidence is current to 14 August 2017. We included 19 eligible trials."
+    },
+    {
+      "heading": "Key results",
+      "text": "We selected 19 trials including 9650 participants with cancer. Most trials included participants with various types of cancer, especially small cell lung cancer, non-small cell lung cancer, and pancreatic cancer. All studies were conducted in the outpatient setting. The results suggest that the effect of injectable blood thinners on survival is uncertain, but if anything of small size. Also the results suggest that injectable blood thinners reduce the risk of blood clots by about half and possibly increase the risk of major bleeding and minor bleeding by 4 more per 1000 and 17 more per 1000, respectively. The effect on quality of life is uncertain."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "We judged the certainty of evidence to be high for symptomatic VTE and minor bleeding, and moderate for mortality, major bleeding and quality of life.\nEditorial note: This is a living systematic review. Living systematic reviews offer a new approach to review updating in which the review is continually updated, incorporating relevant new evidence, as it becomes available. Please refer to the Cochrane Database of Systematic Reviews for the current status of this review."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD014884.pub2",
+  "name": "Intravenous immunoglobulin for the treatment of Kawasaki disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Kawasaki disease (KD) is an acute systemic vasculitis (inflammation of the blood vessels) that mainly affects children. Symptoms include fever, chapped lips, strawberry tongue, red eyes (bulbar conjunctival injection), rash, redness, swollen hands and feet or skin peeling; and enlarged cervical lymph nodes. High fevers and systemic inflammation characterise the acute phase. Inflammation of the coronary arteries causes the most serious complication of the disease, coronary artery abnormalities (CAAs). The primary treatment is intravenous immunoglobulin (IVIG) and acetylsalicylic acid (ASA/aspirin), with doses and regimens differing between institutions. It is important to know which regimens are the safest and most effective in preventing complications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of IVIG in treating and preventing cardiac consequences of Kawasaki disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases, and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 26 April 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) investigating the use of IVIG for the treatment of KD. We included studies involving treatment for initial or refractory KD, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were incidence of CAAs and incidence of any adverse effects after treatment. Our secondary outcomes were acute coronary syndromes, duration of fever, need for additional treatment, length of hospital stay, and mortality. We used GRADE to assess the certainty of the evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 31 RCTs involving a total of 4609 participants with KD. Studies compared IVIG with ASA, another dose or regimen of IVIG, prednisolone, or infliximab. The majority of studies reported on primary treatment, so those results are reported below. A limited number of studies investigated secondary or tertiary treatment in IVIG-resistant patients. Doses and regimens of IVIG infusion varied between studies, and all studies had some concerns related to risk of bias.\nPrimary treatment with IVIG compared to ASA for people with KD\nCompared to ASA treatment, IVIG probably reduces the incidence of CAAs in people with KD up to 30 days (odds ratio (OR) 0.60, 95% confidence interval (CI) 0.41 to 0.87; 11 studies, 1437 participants; moderate-certainty evidence). The individual studies reported a range of adverse effects, but there was little to no difference in numbers of adverse effects between treatment groups (OR 0.57, 95% CI 0.17 to 1.89; 10 studies, 1376 participants; very low-certainty evidence). There was limited evidence for the incidence of acute coronary syndromes, so we are uncertain of any effects. Duration of fever days from treatment onset was probably shorter in the IVIG group (mean difference (MD) −4.00 days, 95% CI −5.06 to −2.93; 3 studies, 307 participants; moderate-certainty evidence). There was little or no difference between groups in need for additional treatment (OR 0.27, 95% CI 0.05 to 1.57; 3 studies, 272 participants; low-certainty evidence). No study reported length of hospital stay, and no deaths were reported in either group.\nPrimary treatment with IVIG compared to different infusion regimens of IVIG for people with KD\nHigher-dose regimens of IVIG probably reduce the incidence of CAAs compared to medium- or lower-dose regimens of IVIG up to 30 days (OR 0.60, 95% CI 0.40 to 0.89; 8 studies, 1824 participants; moderate-certainty evidence). There was little to no difference in the number of adverse effects between groups (OR 1.11, 95% CI 0.52 to 2.37; 6 studies, 1659 participants; low-certainty evidence). No study reported on acute coronary syndromes. Higher-dose IVIG may reduce the duration of fever compared to medium- or lower-dose regimens (MD −0.71 days, 95% CI −1.36 to −0.06; 4 studies, 992 participants; low-certainty evidence). Higher-dose regimens may reduce the need for additional treatment (OR 0.29, 95% CI 0.10 to 0.88; 4 studies, 1125 participants; low-certainty evidence). We did not detect a clear difference in length of hospital stay between infusion regimens (MD −0.24, 95% CI −0.78 to 0.30; 3 studies, 752 participants; low-certainty evidence). One study reported mortality, and there was little to no difference detected between regimens (moderate-certainty evidence).\nPrimary treatment with IVIG compared to prednisolone for people with KD\nThe evidence comparing IVIG with prednisolone on incidence of CAA is very uncertain (OR 0.60, 95% CI 0.24 to 1.48; 2 studies, 140 participants; very low-certainty evidence), and there was little to no difference between groups in adverse effects (OR 4.18, 95% CI 0.19 to 89.48; 1 study; 90 participants; low-certainty evidence). We are very uncertain of the impact on duration of fever, as two studies reported this outcome differently and showed conflicting results. One study reported on acute coronary syndromes and mortality, finding little or no difference between groups (low-certainty evidence). No study reported the need for additional treatment or length of hospital stay."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The included RCTs investigated a variety of comparisons, and the small number of events observed during the study periods limited detection of effects. The certainty of the evidence ranged from moderate to very low due to concerns related to risk of bias, imprecision, and inconsistency. The available evidence indicated that high-dose IVIG regimens are probably associated with a reduced risk of CAA formation compared to ASA or medium- or low-dose IVIG regimens. There were no clinically significant differences in incidence of adverse effects, which suggests there is little concern about the safety of IVIG. Compared to ASA, high-dose IVIG probably reduced the duration of fever, but there was little or no difference detected in the need for additional treatment. Compared to medium- or low-dose IVIG, there may be reduced duration of fever and reduced need for additional treatment. We were unable to draw any conclusions regarding acute coronary syndromes, mortality, or length of hospital stay, or for the comparison IVIG versus prednisolone. Our findings are in keeping with current guideline recommendations and evidence from long-term epidemiology studies."
+    }
+  ],
+  "pls_title": "Immunoglobulin treatment for Kawasaki disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "In children with Kawasaki disease, high-dose intravenous immunoglobulin (IVIG) regimens:\n• probably reduce the risk of coronary artery abnormalities formation compared to aspirin or medium- or low-dose IVIG regimens;\n• show no clear safety concerns;\n• probably reduce the duration of fever, but there was little or no difference detected in the need for additional treatment compared to aspirin;\n• may reduce the duration of fever and need for additional treatment compared to medium- or low-dose IVIG."
+    },
+    {
+      "heading": "Why is this question important?",
+      "text": "Kawasaki disease is a condition that causes blood vessels to become swollen and inflamed. Symptoms include high temperature (fever) along with chapped lips, strawberry tongue (swollen, bumpy red tongue), red eyes, a rash, redness and swelling of hands and feet or skin peeling; and swollen glands in the neck. It is most often seen in young children. Swelling and inflammation of the vessels which supply blood to the heart (coronary arteries) is the most serious complication of the disease, causing coronary artery abnormalities. These abnormalities can result in acquired heart disease and sometimes death. Fast diagnosis and treatment can prevent these complications. Intravenous immunoglobulin and aspirin are the main medicines used to treat Kawasaki disease. Different combinations, doses, or timings (regimens) of these medicines are used to treat patients. It is important to know which treatments and regimens are the safest and most effective in preventing heart complications."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomised controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups) that compared treatment of Kawasaki disease with IVIG to treatment with another medicine or regimen. We found 31 studies with a total of 4609 participants. The studies compared IVIG with aspirin, another regimen of IVIG, infliximab, or prednisolone. All studies reported on coronary artery abnormalities, but they did not all report on our other outcomes of interest: adverse effects, acute coronary syndromes (such as a heart attack), duration of fever, need for additional treatment, length of hospital stay, and mortality. Where appropriate, we combined data from the included studies."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We looked at studies that compared IVIG with aspirin. Our results showed that children who received IVIG probably developed fewer coronary artery abnormalities than children treated with aspirin alone. Reporting of adverse effects varied between studies, but there was little or no difference in the number of adverse effects between groups. Acute coronary syndromes were poorly reported, so we cannot say if IVIG affected this. IVIG treatment probably reduced the duration of fever compared to aspirin alone. There was little or no difference in the need for additional treatment between IVIG and aspirin groups, and no study reported on the length of hospital stay. No deaths were reported in either group.\nWe looked at studies that compared high-dose IVIG regimens with medium- or low-dose regimens. Our results showed that children who received high-dose regimens probably developed fewer abnormalities. There was no apparent difference in the number of adverse effects between the high and medium- or low-dose groups. Acute coronary syndromes were poorly reported, with little or no difference seen between groups. Higher-dose regimens may reduce the duration of fever and need for additional treatment compared to medium- and lower-dose regimens. We did not find a clear difference between regimens in length of hospital stay. One death was reported in one study, so we cannot say for sure if one regimen was better than another for this outcome.\nWe also looked at studies that compared IVIG with prednisolone. The evidence was very uncertain for number of coronary artery abnormalities and duration of fever, and there was little or no difference between groups in adverse effects, acute coronary syndromes, and deaths. Results for all outcomes were limited by the small number of children with Kawasaki disease involved. No study reported on need for additional treatment or length of hospital stay."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence provided from the included studies differed between outcomes and ranged from very low to moderate, due to concerns about how some of the studies were carried out, differences in the regimens used, and there were often only small numbers of events and participants providing data. Our findings are in keeping with current guideline recommendations and evidence from long-term studies involving large numbers of people."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to April 2022."
+    }
+  ]
+}

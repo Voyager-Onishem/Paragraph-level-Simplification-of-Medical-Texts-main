@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004879.pub5",
+  "name": "Vaccines for preventing influenza in healthy children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The consequences of influenza in children and adults are mainly absenteeism from school and work. However, the risk of complications is greatest in children and people over 65 years of age. This is an update of a review published in 2011. Future updates of this review will be made only when new trials or vaccines become available. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated because of their lack of influence on the review conclusions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects (efficacy, effectiveness, and harm) of vaccines against influenza in healthy children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library 2016, Issue 12), which includes the Cochrane Acute Respiratory Infections Group Specialised Register, MEDLINE (1966 to 31 December 2016), Embase (1974 to 31 December 2016), WHO International Clinical Trials Registry Platform (ICTRP; 1 July 2017), and ClinicalTrials.gov (1 July 2017)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing influenza vaccines with placebo or no intervention in naturally occurring influenza in healthy children under 16 years. Previous versions of this review included 19 cohort and 11 case-control studies. We are no longer updating the searches for these study designs but have retained the observational studies for historical purposes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently assessed risk of bias and extracted data. We used GRADE to rate the certainty of evidence for the key outcomes of influenza, influenza-like illness (ILI), complications (hospitalisation, ear infection), and adverse events. Due to variation in control group risks for influenza and ILI, absolute effects are reported as the median control group risk, and numbers needed to vaccinate (NNVs) are reported accordingly. For other outcomes aggregate control group risks are used."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 41 clinical trials (> 200,000 children). Most of the studies were conducted in children over the age of two and compared live attenuated or inactivated vaccines with placebo or no vaccine. Studies were conducted over single influenza seasons in the USA, Western Europe, Russia, and Bangladesh between 1984 and 2013. Restricting analyses to studies at low risk of bias showed that influenza and otitis media were the only outcomes where the impact of bias was negligible. Variability in study design and reporting impeded meta-analysis of harms outcomes.\nLive attenuated vaccines\nCompared with placebo or do nothing, live attenuated influenza vaccines probably reduce the risk of influenza infection in children aged 3 to 16 years from 18% to 4% (risk ratio (RR) 0.22, 95% confidence interval (CI) 0.11 to 0.41; 7718 children; moderate-certainty evidence), and they may reduce ILI by a smaller degree, from 17% to 12% (RR 0.69, 95% CI 0.60 to 0.80; 124,606 children; low-certainty evidence). Seven children would need to be vaccinated to prevent one case of influenza, and 20 children would need to be vaccinated to prevent one child experiencing an ILI. Acute otitis media is probably similar following vaccine or placebo during seasonal influenza, but this result comes from a single study with particularly high rates of acute otitis media (RR 0.98, 95% CI 0.95 to 1.01; moderate-certainty evidence). There was insufficient information available to determine the effect of vaccines on school absenteeism due to very low-certainty evidence from one study. Vaccinating children may lead to fewer parents taking time off work, although the CI includes no effect (RR 0.69, 95% CI 0.46 to 1.03; low-certainty evidence). Data on the most serious consequences of influenza complications leading to hospitalisation were not available. Data from four studies measuring fever following vaccination varied considerably, from 0.16% to 15% in children who had live vaccines, while in the placebo groups the proportions ranged from 0.71% to 22% (very low-certainty evidence). Data on nausea were not reported.\nInactivated vaccines\nCompared with placebo or no vaccination, inactivated vaccines reduce the risk of influenza in children aged 2 to 16 years from 30% to 11% (RR 0.36, 95% CI 0.28 to 0.48; 1628 children; high-certainty evidence), and they probably reduce ILI from 28% to 20% (RR 0.72, 95% CI 0.65 to 0.79; 19,044 children; moderate-certainty evidence). Five children would need to be vaccinated to prevent one case of influenza, and 12 children would need to be vaccinated to avoid one case of ILI. The risk of otitis media is probably similar between vaccinated children and unvaccinated children (31% versus 27%), although the CI does not exclude a meaningful increase in otitis media following vaccination (RR 1.15, 95% CI 0.95 to 1.40; 884 participants; moderate-certainty evidence). There was insufficient information available to determine the effect of vaccines on school absenteeism due to very low-certainty evidence from one study. We identified no data on parental working time lost, hospitalisation, fever, or nausea.\nWe found limited evidence on secondary cases, requirement for treatment of lower respiratory tract disease, and drug prescriptions. One brand of monovalent pandemic vaccine was associated with a sudden loss of muscle tone triggered by the experience of an intense emotion (cataplexy) and a sleep disorder (narcolepsy) in children. Evidence of serious harms (such as febrile fits) was sparse."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In children aged between 3 and 16 years, live influenza vaccines probably reduce influenza (moderate-certainty evidence) and may reduce ILI (low-certainty evidence) over a single influenza season. In this population inactivated vaccines also reduce influenza (high-certainty evidence) and may reduce ILI (low-certainty evidence). For both vaccine types, the absolute reduction in influenza and ILI varied considerably across the study populations, making it difficult to predict how these findings translate to different settings. We found very few randomised controlled trials in children under two years of age. Adverse event data were not well described in the available studies. Standardised approaches to the definition, ascertainment, and reporting of adverse events are needed. Identification of all global cases of potential harms is beyond the scope of this review."
+    }
+  ],
+  "pls_title": "Vaccines for preventing influenza in healthy children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review aim",
+      "text": "The aim of this Cochrane Review, first published in 2007, was to summarise research on immunising healthy children up to the age of 16 with influenza vaccines during influenza seasons. We used randomised trials comparing either one of two types of vaccines with dummy vaccines or nothing. One type of vaccine is based on live but weakened influenza viruses (live attenuated influenza vaccines) and is given via the nose. The other is prepared by killing the influenza viruses with a chemical (inactivated virus) and is given by injection through the skin. We analysed the number of children with confirmed influenza and those who had influenza-like illness (ILI) (headache, high temperature, cough, and muscle pain) and harms from vaccination. Future updates of this review will be made only when new trials or vaccines become available. Data from 33 observational studies included in previous versions of the review have been retained for historical reasons but have not been updated due to their lack of influence on the review conclusions."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Live attenuated and inactivated vaccines can reduce the proportion of children who have influenza and ILI. Variation in the results of studies means that we are uncertain about the effects of these vaccines across different seasons."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Over 200 viruses cause ILI and produce the same symptoms (fever, headache, aches, pains, cough, and runny nose) as influenza. Doctors cannot distinguish between them without laboratory tests because both last for days and rarely cause serious illness or death.\nThe types of virus contained in the vaccines are usually those that are expected to circulate in the following influenza seasons, according to recommendations of the World Health Organization (seasonal vaccine). Pandemic vaccine contains only the virus strain that is responsible for the pandemic (e.g. the type A H1N1 for the 2009 to 2010 pandemic)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 41 randomised studies. Most studies included children older than two years of age and were conducted in the USA, Western Europe, Russia, and Bangladesh.\nCompared with placebo or do nothing, live attenuated vaccines probably reduced the proportion of children who had confirmed influenza from 18% to 4% (moderate-certainty evidence), and may reduce ILI from 17% to 12% (low-certainty evidence). Seven children would need to be vaccinated for one child to avoid influenza, and 20 children would need to prevent one child from experiencing an ILI. We found data from one study that showed similar risk of ear infection in the two groups. There was insufficient information available to assess school absence and parents needing to take time off work. We found no data on hospitalisation, and harms were not consistently reported.\nCompared with placebo or no vaccination, inactivated vaccines reduce the risk of influenza from 30% to 11% (high-certainty evidence), and they probably reduce ILI from 28% to 20% (moderate-certainty evidence). Five children would need to be vaccinated for one child to avoid influenza, and 12 children would need to be vaccinated to prevent one case of ILI. The risk of otitis media is probably similar between vaccinated children and unvaccinated children (31% versus 27%, moderate-certainty evidence). There was insufficient information available to assess school absenteeism due to very low-certainty evidence from one study. We identified no data on parental working time lost, hospitalisation, fever, or nausea.\nOne brand of monovalent pandemic vaccine was associated with a sudden loss of muscle tone triggered by the experience of an intense emotion (cataplexy) and a sleep disorder (narcolepsy) in children.\nOnly a few studies were well designed and conducted, and the impact of studies at high risk of bias varied across the outcomes evaluated. Influenza and otitis media were the only outcomes where our confidence in the results was not affected by bias."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence is current to 31 December 2016."
+    }
+  ]
+}

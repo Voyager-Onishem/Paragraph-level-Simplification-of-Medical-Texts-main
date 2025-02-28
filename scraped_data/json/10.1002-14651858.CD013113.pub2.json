@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013113.pub2",
+  "name": "Proton pump inhibitors for chronic obstructive pulmonary disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is a common and progressive disease characterised by chronic cough, airflow limitation and recurrent exacerbations. Since COPD exacerbations are linked to rising mortality and reduced quality of life, the condition poses a substantial burden on individuals, society and the healthcare system. Effective management of COPD exacerbations that includes treatment of related conditions in people with COPD is thus recognised as a relevant clinical question and an important research topic. Gastroesophageal reflux disease (GERD) is a known comorbidity of COPD, and pulmonary microaspiration of gastric acid is thought to be a possible cause of COPD exacerbations. Therefore, reducing gastric acid secretion may lead to a reduction in COPD exacerbations. Proton pump inhibitors (PPIs) are one of the most commonly prescribed medications and are recommended as first-line therapy for people with GERD because of their inhibitory effects on gastric acid secretion. Treatment with PPIs may present a viable treatment option for people with COPD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of PPI administration for people with COPD, focusing on COPD-specific outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Register of Trials and conventional clinical trial registers from inception to 22 May 2020. We also screened bibliographies of relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Parallel-group and cluster-randomised controlled trials (RCTs) that compared oral PPIs versus placebo, usual care or low-dose PPIs in adults with COPD were eligible for inclusion. We excluded cross-over RCTs, as well as studies with a duration of less than two months."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors screened search results, selected studies for inclusion, extracted study characteristics and outcome data, and assessed risk of bias according to standard Cochrane methodology. We resolved discrepancies by involving a third review author. Primary outcomes of interest were COPD exacerbations, pneumonia and other serious adverse events. Secondary outcomes were quality of life, lung function test indices, acute respiratory infections and disease-specific adverse events. We extracted data on these outcome measures and entered into them into Review Manager software for analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified 99 records, and we included one multicentre RCT that randomised 103 adults with COPD. The 12-month RCT compared an oral PPI (lansoprazole) and usual care versus usual care alone. It was conducted at one tertiary care hospital and three secondary care hospitals in Japan. This study recruited participants with a mean age of 75 years, and excluded people with symptoms or history of GERD. No placebo was used in the usual care arm.\nAmong the primary and secondary outcomes of this review, the study only reported data on COPD exacerbations and acute respiratory infections (the common cold). As we only included one study, we could not conduct a meta-analysis.\nThe included study reported that 12 of the 50 people on lansoprazole had at least one exacerbation over a year, compared to 26 out of 50 on usual care (risk ratio 0.46, 95% CI 0.26 to 0.81). The frequency of COPD exacerbations per person in a year was also lower in the PPI plus usual care group than in the usual care alone group（0.34 ± 0.72 vs 1.18 ± 1.40; P < 0.001). The number of people with at least one cold over the year was similar in both groups: 26 people on lansoprazole and 27 people in the usual care group. We judged the evidence to be of low to very low certainty, according to GRADE criteria.\nThe study reported no data on pneumonia and other serious adverse events, quality of life, lung function test indices or disease-specific adverse events. The risk of bias was largely low or unclear for the majority of domains, though the performance bias was a high risk, as the study was not blinded."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence identified by this review is insufficient to determine whether treatment with PPIs is a potential option for COPD. The sample size of the included trial is small, and the evidence is low to very low-certainty. The efficacy and safety profile of PPIs for people with COPD remains uncertain. Future large-scale, high-quality studies are warranted, which investigate major clinical outcomes such as COPD exacerbation rate, serious adverse events and quality of life."
+    }
+  ],
+  "pls_title": "Proton pump inhibitors for chronic obstructive pulmonary disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The review authors want to know whether proton pump inhibitors (PPIs) are effective in (a) reducing chronic obstructive pulmonary disease (COPD) exacerbations, and (b) improving quality of life for people with COPD. We searched for randomised trials to answer this question and found only one study, with 103 participants."
+    },
+    {
+      "heading": "Key message",
+      "text": "Giving PPIs to people with COPD may reduce the frequency of COPD exacerbations. However, further high-quality studies are needed to be more certain. Future studies should include different types of PPIs."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "This study specifically looked at COPD. COPD is a common respiratory disease, characterised by cough with mucus and breathlessness. COPD is one of the leading causes of death worldwide, and reduces quality of life. COPD exacerbation is associated with hospitalisation and death, placing a large burden on both society and the economy. COPD exacerbation is caused by different conditions that require different therapies.\nGastroesophageal reflux disease (GERD) is one cause of COPD exacerbation. GERD is a common gastrointestinal disease caused by reflux of stomach acid into the oesophagus (food pipe) and lungs. This gives people the symptoms of heartburn and cough. When people have GERD, they are given PPIs to treat it. These work by reducing the amount of stomach acid. While PPIs are effective for treating symptoms of GERD, it is unclear whether adding PPIs to usual care reduces the frequency of COPD exacerbations or improves the quality of life for people with COPD."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found only one relevant study. It was from a university hospital and three city hospitals in Japan. This study compared the effects of a PPI plus usual care against usual care alone in people with COPD who had no history or symptoms of GERD. The researchers investigated changes in the frequency of COPD exacerbations and the common cold over a 12-month period. This study used a 15 mg daily dose of a PPI called lansoprazole. There was low-certainty evidence of a reduction in the number of people on lansoprazole who had COPD exacerbations compared with people who had usual care, and very low-certainty evidence that similar numbers of people in each group had at least one common cold.\nThe review authors did not find any studies that described the effects of PPIs on pneumonia and serious adverse events, quality of life, lung function, or disease-specific adverse events."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We ran the latest search for studies on 22 May 2020."
+    }
+  ]
+}

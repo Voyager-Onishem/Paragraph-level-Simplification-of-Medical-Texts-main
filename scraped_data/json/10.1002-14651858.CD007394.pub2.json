@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007394.pub2",
+  "name": "Galactomannan detection for invasive aspergillosis in immunocompromised patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Invasive aspergillosis is the most common life-threatening opportunistic invasive mycosis in immunocompromised patients. A test for invasive aspergillosis should neither be too invasive nor too great a burden for the already weakened patient. The serum galactomannan enzyme-linked immunosorbent assay (ELISA) seems to have the potential to meet both requirements."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To obtain summary estimates of the diagnostic accuracy of galactomannan detection in serum for the diagnosis of invasive aspergillosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, EMBASE and Web of Science with both MeSH terms and text words for both aspergillosis and the sandwich ELISA. We checked the reference lists of included studies and review articles for additional studies. We conducted the searches in February 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cross-sectional studies, case-control designs and consecutive series of patients assessing the diagnostic accuracy of galactomannan detection for the diagnosis of invasive aspergillosis in patients with neutropenia or patients whose neutrophils are functionally compromised. The reference standard was composed of the criteria given by the European Organization for Research and Treatment of Cancer (EORTC) and the Mycoses Study Group (MSG)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed quality and extracted data. We carried out meta-analysis using the bivariate method. We investigated sources of heterogeneity by adding potential sources of heterogeneity to the model as covariates."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 54 studies in the review (50 in the meta-analyses), containing 5660 patients, of whom 586 had proven or probable invasive aspergillosis. When using an optical density index (ODI) of 0.5 as a cut-off value, the sensitivity of the test was 78% (70% to 85%) and the specificity was 85% (78% to 91%). At a cut-off value of 1.0 ODI, the sensitivity was 71% (63% to 78%) and the specificity was 90% (86% to 93%). At a cut-off value of 1.5 ODI, the sensitivity was 63% (49% to 78%) and the specificity was 93% (89% to 97%). None of the potential sources of heterogeneity had a statistically significant effect on either sensitivity or specificity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "If we used the test at a cut-off value of 0.5 ODI in a population of 100 patients with a disease prevalence of 11% (overall median prevalence), two patients who have invasive aspergillosis would be missed (sensitivity 78%, 22% false negatives), and 13 patients would be treated unnecessarily or referred unnecessarily for further testing (specificity 85%, 15% false negatives). If we used the test at a cut-off value of 1.5 in the same population, that would mean that four invasive aspergillosis patients would be missed (sensitivity 61%, 39% false negatives), and six patients would be treated or referred for further testing unnecessarily (specificity 93%, 7% false negatives). These numbers should, however, be interpreted with caution because the results were very heterogeneous."
+    }
+  ],
+  "pls_title": "Measurement of serum galactomannan to detect invasive aspergillosis in immunocompromised patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "When the immune system of a patient is unable to fight infections (for example because of prolonged corticosteroid therapy, immunosuppressive drugs, haematological malignancies or HIV/AIDS) invasive or systemic aspergillosis can be a life-threatening mycotic (fungal) infection. Establishing a diagnosis of invasive aspergillosis at an early stage of infection allows early antifungal treatment, but a definitive diagnosis can only be established after death. To enable early diagnosis in a way that is not burdensome for the already weakened patient, galactomannan testing may be promising. Galactomannan is a cell wall component of Aspergillus that is excreted by the fungus."
+    },
+    {
+      "heading": "Study design",
+      "text": "The authors of this systematic review found 54 studies that looked at the error rates of this galactomannan test. These studies compared the results of the galactomannan test with the results of a more elaborate diagnostic workup, so that the percentages of false positive results (patients without invasive aspergillosis, according to the elaborate testing, but with a positive galactomannan test) and false negative results (patients with invasive aspergillosis, according to the elaborate testing, but with a negative galactomannan test) could be calculated. The galactomannan test does not result in a yes/no answer, but in a so-called 'optical density index' (ODI). The authors of the different studies defined the galactomannan test as positive when the ODI was above 0.5, 1.0 or 1.5. Four studies used a different ODI and these were not included in the meta-analysis."
+    },
+    {
+      "heading": "Studies and results",
+      "text": "When an ODI of 0.5 or higher was said to be positive, the galactomannan test missed 22 out of every 100 patients with invasive aspergillosis and it resulted in a false positive test in 15 out of every 100 patients without invasive aspergillosis.\nWhen an ODI of 1.0 or higher was said to be positive, the galactomannan test missed 29 out of every 100 patients with invasive aspergillosis and it resulted in a false positive test in 10 out of every 100 patients without invasive aspergillosis.\nWhen an ODI of 1.5 or higher was said to be positive, the galactomannan test missed 37 out of every 100 patients with invasive aspergillosis and it resulted in a false positive test in only 7 out of every 100 patients without invasive aspergillosis."
+    },
+    {
+      "heading": "Limitations",
+      "text": "The studies showed variable results and had small numbers of patients with invasive aspergillosis."
+    }
+  ]
+}

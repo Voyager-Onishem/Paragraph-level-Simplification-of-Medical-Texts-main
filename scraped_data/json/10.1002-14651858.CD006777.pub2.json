@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD006777.pub2",
+  "name": "Framing of health information messages",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The same information about the evidence on health effects can be framed either in positive words or in negative words. Some research suggests that positive versus negative framing can lead to different decisions, a phenomenon described as the framing effect. Attribute framing is the positive versus negative description of a specific attribute of a single item or a state, for example, \"the chance of survival with cancer is 2/3\" versus \"the chance of mortality with cancer is 1/3\". Goal framing is the description of the consequences of performing or not performing an act as a gain versus a loss, for example, \"if you undergo a screening test for cancer, your survival will be prolonged\" versus \"if you don't undergo screening test for cancer, your survival will be shortened\"."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of attribute (positive versus negative) framing and of goal (gain versus loss) framing of the same health information, on understanding, perception of effectiveness, persuasiveness, and behavior of health professionals, policy makers, and consumers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, issue 3 2007), MEDLINE (Ovid) (1966 to October 2007), EMBASE (Ovid) (1980 to October 2007), PsycINFO (Ovid) (1887 to October 2007). There were no language restrictions. We reviewed the reference lists of related systematic reviews, included studies and of excluded but closely related studies. We also contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials, quasi-randomised controlled trials, and cross-over studies with health professionals, policy makers, and consumers evaluating one of the two types of framing."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data in duplicate and independently. We graded the quality of evidence for each outcome using the GRADE approach. We standardized the outcome effects using standardized mean difference (SMD). We stratified the analysis by the type of framing (attribute, goal) and conducted pre-planned subgroup analyses based on the type of message (screening, prevention, and treatment). The primary outcome was behaviour. We did not assess any adverse outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 35 studies involving 16,342 participants (all health consumers) and reporting 51 comparisons.\nIn the context of attribute framing, participants in one included study understood the message better when it was framed negatively than when it was framed positively (1 study; SMD -0.58 (95% confidence interval (CI) -0.94 to -0.22); moderate effect size; low quality evidence). Although positively-framed messages may have led to more positive perception of effectiveness than negatively-framed messages (2 studies; SMD 0.36 (95% CI -0.13 to 0.85); small effect size; low quality evidence), there was little or no difference in persuasiveness (11 studies; SMD 0.07 (95% CI -0.23 to 0.37); low quality evidence) and behavior (1 study; SMD 0.09 (95% CI -0.14 to 0.31); moderate quality evidence).\nIn the context of goal framing, loss messages led to a more positive perception of effectiveness compared to gain messages for screening messages (5 studies; SMD -0.30 (95% CI -0.49 to -0.10); small effect size; moderate quality evidence) and may have been more persuasive for treatment messages (3 studies; SMD -0.50 (95% CI -1.04 to 0.04); moderate effect size; very low quality evidence). There was little or no difference in behavior (16 studies; SMD -0.06 (95% CI -0.15 to 0.03); low quality evidence). No study assessed the effect on understanding."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Contrary to commonly held beliefs, the available low to moderate quality evidence suggests that both attribute and goal framing may have little if any consistent effect on health consumers' behaviour. The unexplained heterogeneity between studies suggests the possibility of a framing effect under specific conditions. Future research needs to investigate these conditions."
+    }
+  ],
+  "pls_title": "Framing of the health information message in either negative or positive words",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Examples illustrating different types of framing",
+      "text": "The same information about health effects can be framed either in positive words or in negative words. Attribute framing refers to the positive versus negative description of a specific attribute of a single item or a state, for example, \"the chance of survival with cancer is 2/3\" versus \"the chance of mortality with cancer is 1/3\". Goal framing is the description of the consequences of performing or not performing an act as a gain or a loss, for example, \"if you undergo a screening test for cancer, your survival will be prolonged\" versus \"if you don't undergo screening test for cancer, your survival will be shortened\"."
+    },
+    {
+      "heading": "Summary",
+      "text": "There is a widely held belief that framing of health information messages can lead to different decisions and different health behaviours; this is described as the 'framing effect'.\nThis systematic review identified 35 studies of 16,342 people testing this hypothesis. It found that both attribute and goal framing may have little if any effect on health consumers' behavior.\nIn one study of attribute framing, participants understood the message better when it was framed negatively than when it was framed positively. Positively-framed messages may have led to more positive perception of effectiveness than negatively-framed messages. There was little or no difference in persuasiveness in the context of attribute framing.\nIn the context of goal framing, loss messages led to a more positive perception of effectiveness compared to gain messages for screening messages, and may have been more persuasive for treatment messages.\nThe unexplained differences in the results of the included studies suggests the framing effect may exist under specific but yet undetermined conditions. Future research needs to investigate these conditions."
+    }
+  ]
+}

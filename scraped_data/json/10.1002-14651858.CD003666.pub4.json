@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD003666.pub4",
+  "name": "Volume‐targeted versus pressure‐limited ventilation in neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Damage caused by lung overdistension (volutrauma) has been implicated in the development of bronchopulmonary dysplasia (BPD). Modern neonatal ventilation modes can target a set tidal volume as an alternative to traditional pressure-limited ventilation (PLV) using a fixed inflation pressure. Volume-targeted ventilation (VTV) aims to produce a more stable tidal volume in order to reduce lung damage and stabilise the partial pressure of carbon dioxide (pCO2)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether VTV compared with PLV leads to reduced rates of death and death or BPD in newborn infants and to determine whether use of VTV affected outcomes including air leak, cranial ultrasound findings and neurodevelopment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 12), MEDLINE via PubMed (1966 to 13 January 2017), Embase (1980 to 13 January 2017) and CINAHL (1982 to 13 January 2017). We also searched clinical trials databases, conference proceedings and the reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials. We contacted the principal investigators of studies to obtain supplementary information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised trials comparing VTV versus PLV in infants of less than 44 weeks' postmenstrual age and reporting clinically relevant outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed risk of bias for each trial using Cochrane methodology. We evaluated quality of evidence for each outcome using GRADE criteria. We tabulated mortality, rates of BPD, short-term clinical outcomes and long-term developmental outcomes.\nStatistics: for categorical outcomes, we calculated typical estimates for risk ratios (RR), risk differences (RD) and number needed to treat for an additional beneficial outcome (NNTB). For continuous variables, we calculated typical estimates for mean differences (MD). We used 95% confidence intervals (CI) and assumed a fixed-effect model for meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty randomised trials met our inclusion criteria; 16 parallel trials (977 infants) and four cross-over trials (88 infants). No studies were blinded and the quality of evidence for outcomes assessed varied from moderate to low.\nWe found no difference in the primary outcome, death before hospital discharge, between VTV modes versus PLV modes (typical RR 0.75, 95% CI 0.53 to 1.07; low quality evidence). However, there was moderate quality evidence that the use of VTV modes resulted in a reduction in the primary outcome, death or BPD at 36 weeks' gestation (typical RR 0.73, 95% CI 0.59 to 0.89; typical NNTB 8, 95% CI 5 to 20) and the following secondary outcomes: rates of pneumothorax (typical RR 0.52, 95% CI 0.31 to 0.87; typical NNTB 20, 95% CI 11 to 100), mean days of mechanical ventilation (MD -1.35 days, 95% CI -1.83 to -0.86), rates of hypocarbia (typical RR 0.49, 95% CI 0.33 to 0.72; typical NNTB 3, 95% CI 2 to 5), rates of grade 3 or 4 intraventricular haemorrhage (typical RR 0.53, 95% CI 0.37 to 0.77; typical NNTB 11, 95% CI 7 to 25) and the combined outcome of periventricular leukomalacia with or without grade 3 or 4 intraventricular haemorrhage (typical RR 0.47, 95% CI 0.27 to 0.80; typical NNTB 11, 95% CI 7 to 33). VTV modes were not associated with any increased adverse outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Infants ventilated using VTV modes had reduced rates of death or BPD, pneumothoraces, hypocarbia, severe cranial ultrasound pathologies and duration of ventilation compared with infants ventilated using PLV modes. Further studies are needed to identify whether VTV modes improve neurodevelopmental outcomes and to compare and refine VTV strategies."
+    }
+  ],
+  "pls_title": "A comparison of volume-targeted ventilation modes with traditional pressure-limited ventilation modes for newborn babies",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does ventilator therapy of infants using a strategy targeting inflation volume rather than inflation pressure lead to lower rates of death or lung damage (or both) among these infants?"
+    },
+    {
+      "heading": "Background",
+      "text": "Preterm babies may need help to breathe. The risk of lung problems increases with increasing immaturity (the earlier the babies are born). For some babies, the assistance of a ventilator (breathing machine) can be life saving; however, ventilators may also injure the infant's immature lungs. Traditionally, ventilators for infants have been used in a pressure-limited mode of ventilation, where the pressure leads to variable amount of air entering the lungs. New volume-targeted methods of ventilation have been developed which aim to reduce lung injury by controlling the amount of air entering the lungs with each inflation."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In a search updated to January 2017, review authors identified 20 studies for inclusion in the review. Sixteen studies (977 infants) compared two separate groups of infants treated with a volume-targeted mode of ventilation compared with a pressure-limited mode of ventilation. In four studies (84 infants), the infants were treated with both modes of ventilation in a cross-over design (where infants had ventilation with one method and were then swapped over to the second method). Most of the studies were of moderate to low quality and none of them were blinded to those who assessed therapy. The most important results from this review were based on data from eight to 12 studies including 584 to 771 infants."
+    },
+    {
+      "heading": "Key results",
+      "text": "Babies ventilated using volume-targeted modes of ventilation were more likely to survive free of lung damage. They needed ventilator assistance for a shorter duration and were less likely to develop pneumothorax (a condition when air escapes from the lung into the chest). They had more stable carbon dioxide levels in the blood, and had fewer brain ultrasound abnormalities. There was no evidence that volume-targeted modes were more likely to harm the infant than traditional pressure-limited modes. More research is needed to understand whether volume-targeted modes also lead to improvements in the development of movement and intellect. More research is also needed comparing different volume-targeting techniques."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "Low to moderate quality as none of the studies were blinded and there were issues with study design in some of the studies."
+    }
+  ]
+}

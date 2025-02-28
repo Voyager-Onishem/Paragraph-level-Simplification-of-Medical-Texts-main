@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD012369.pub2",
+  "name": "Antiplatelet agents for the treatment of deep venous thrombosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antiplatelet agents may be useful for the treatment of deep venous thrombosis (DVT) when used in addition to best medical practice (BMP), which includes anticoagulation, compression stockings, and clinical care such as physical exercise, skin hydration, etc. Antiplatelet agents could minimise complications such as post-thrombotic syndrome (PTS) and pulmonary embolism (PE). They may also reduce the recurrence of the disease (recurrent venous thromboembolism (recurrent VTE)). However, antiplatelet agents may increase the likelihood of bleeding events."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antiplatelet agents in addition to current BMP compared to current BMP (with or without placebo) for the treatment of DVT."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 7 December 2021. The review authors searched LILACS and IBECS databases (15 December 2021) and also checked the bibliographies of included trials for further references to relevant trials, and contacted specialists in the field, manufacturers and authors of the included trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomised controlled trials (RCTs) examining antiplatelet agents compared to BMP following initial standard anticoagulation treatment for DVT. We included studies where antiplatelet agents were given in addition to current BMP compared to current BMP (with or without placebo) for the treatment of DVT (acute: treatment started within 21 days of symptom onset; chronic: treatment started after 21 days of symptom onset). We evaluated only RCTs where the antiplatelet agents were the unique difference between the groups (intervention and control)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures. Two review authors independently extracted data and assessed risk of bias of the trials. Any disagreements were resolved by discussion with a third review author. We calculated outcome effects using risk ratio (RR) or mean difference (MD) with a 95% confidence interval (CI) and the number needed to treat to benefit (NNTB)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six studies with 1625 eligible participants, with data up to 37.2 months of follow-up. For one preplanned comparison (i.e. antiplatelet agents plus BMP versus BMP plus placebo) for acute DVT we identified no eligible studies for inclusion.\nIn acute DVT, antiplatelet agents plus BMP versus BMP alone was assessed by one study (500 participants), which reported on four outcomes until 6 months of follow-up. There were no deaths and no cases of major bleeding reported. The participants who received antiplatelet agents showed a lower risk of PTS (RR 0.74, 95% CI 0.61 to 0.91; 1 study, 500 participants; very low-certainty evidence). The control group presented a lower risk of adverse events compared to the intervention group (RR 2.88, 95% CI 1.06 to 7.80; 1 study, 500 participants; very low-certainty evidence). This study did not provide information for recurrent VTE or PE.\nIn chronic DVT, antiplatelet agents plus BMP versus BMP alone was assessed by one study (224 participants). The study authors reported four relevant outcomes, three of which (major bleeding, mortality and adverse events) showed no events during the 3 years of follow-up. Therefore, an effect estimate could only be reported for recurrent VTE, favouring antiplatelet agents plus BMP versus BMP alone (RR 0.12, 95% CI 0.05 to 0.34; 1 study, 224 participants; very low-certainty evidence). For the outcomes PE and PTS, this study did not present information which could be used for analysis.\nIn chronic DVT, antiplatelet agents plus BMP versus BMP plus placebo was assessed by four studies (901 participants). The meta-analysis of this pooled data showed a lower risk of recurrent VTE for the antiplatelet agents group (RR 0.65, 95%, CI 0.43 to 0.96; NNTB = 14; low-certainty evidence). For major bleeding, we found no clear difference between placebo and intervention groups until 37.2 months of follow-up (RR 0.98, 95% CI 0.29 to 3.34; 1 study, 583 participants; moderate-certainty evidence). In PE fatal/non-fatal outcome, we found no clear difference with the use of antiplatelet agents (RR 0.52, 95% CI 0.23 to 1.14; 1 study, 583 participants; moderate-certainty evidence). For all-cause mortality, the overall effect of antiplatelet agents did not differ from the placebo group (RR 0.48, 95% CI 0.21 to 1.06; 3 studies, 649 participants; moderate-certainty evidence). The adverse events outcome did not show a clear difference (RR 1.57, 95% CI 0.34 to 7.19; 2 studies, 621 participants; moderate-certainty evidence). There is no assessment of PTS in these studies.\nWe downgraded the certainty of evidence for risk of bias, indirectness, imprecision and publication bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In chronic DVT settings, following the initial standard treatment with anticoagulants, there is low-certainty evidence that antiplatelet agents in addition to BMP may reduce recurrent VTE, (NNTB = 14) when compared to BMP plus placebo. Moderate-certainty evidence shows no clear difference in adverse events, major bleeding and PE when antiplatelet agents are used in addition to BMP compared to BMP plus placebo.\nIn acute and chronic DVT settings, following the initial standard treatment with anticoagulants, we can draw no conclusions for antiplatelet agents in addition to BMP compared to BMP alone due to very low-certainty evidence.\nTrials of high methodological quality, that are large and of sufficient duration to detect significant clinical outcomes are needed. Trials should ideally last more than 4 years in order to estimate the long-term effect of antiplatelet agents. Trials should include people with acute and chronic DVT and provide relevant individual data, such as the outcome for each index event (DVT or PE), the use of an inferior vena cava (IVC) filter, whether the DVT is provoked or unprovoked, and the age of participants."
+    }
+  ],
+  "pls_title": "Aspirin and similar drugs for the treatment of deep vein thrombosis (DVT)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- When used after standard initial treatment with anticoagulants, aspirin and similar drugs (antiplatelet agents) in addition to best medical practice (BMP), may reduce recurrent venous thromboembolism (VTE), i.e. deep vein thrombosis (DVT) or pulmonary embolism (PE), when compared to BMP plus placebo in a chronic DVT setting. There is no clear difference in side effects, major bleeding or PE with the use of antiplatelet agents.\n- Studies of high methodological quality that are large and long enough to detect significant clinical outcomes are needed to assess the long-term effect of antiplatelet agents. Studies should include people with acute and chronic DVT and include information about important outcomes such as DVT, PE and major bleeding, the use of an inferior vena cava (IVC) filter, and the age of the participants."
+    },
+    {
+      "heading": "What is DVT?",
+      "text": "DVT is a blood clot formed inside the venous system of the body, blocking the flow of blood."
+    },
+    {
+      "heading": "How is DVT treated?",
+      "text": "After initial treatment with anticoagulants, people receive follow-up treatment (known as BMP) which include drugs for preventing new clots, compression stockings and clinical care (such as physical exercise and skin hydration). Antiplatelets such as aspirin, are medicines that stop cells in the blood (platelets) from sticking together and forming a clot. They could therefore be seen as a potential additional intervention to the current BMP for treating DVT. Antiplatelets could be used to minimise complications such as post-thrombotic syndrome (PTS, a situation in which a blood clot in the vein causes impaired function in the affected vessels), and PE (when the blood clot travels through the bloodstream to the lung and blocks its flow). Antiplatelets may also reduce the recurrence of DVT or PE. One drawback of the use of antiplatelets is the potential for an increase in bleeding."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether giving antiplatelets to people to treat DVT, following initial treatment, reduced the number of recurrent VTEs, bleeding or PE compared to people who received only BMP or BMP plus placebo (an identical-seeming treatment but with no medical effect). We also wanted to determine whether antiplatelets reduced death, whether people developed PTS, whether they experienced side effects, whether their quality of life improved and whether there was a change in the length of time spent in hospital."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that assessed antiplatelets given to people to treat DVT. Studies should have a randomised design (when participants are randomly allocated to treatment groups) as long as they compared an antiplatelet plus BMP with BMP alone or BMP with placebo. These treatments were started after initial standard anticoagulation for DVT. We pooled the results when appropriate."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "The results are based on six studies with 1625 participants from the USA, Canada, Europe, India, Argentina, Australia and New Zealand. Two large groups of participants were studied: participants with acute DVT (treatment started up to 21 days after symptoms), and participants with chronic DVT (treatment started after 21 days of symptoms). All studies used BMP as a comparison, or BMP plus placebo. Each comparison investigated the effects of antiplatelets on the recurrence of DVT, PE, death and side effects.\nWe have limited confidence that antiplatelets in addition to BMP may have an effect on reducing the risk of a new episode of VTE when compared to BMP with placebo in a chronic DVT setting. It is necessary to treat 14 patients to avoid one VTE event. When only PE was studied, however, antiplatelets did not achieve a difference between the groups. The use of antiplatelets as an additional treatment does not appear to add any harm or risks, such as death, bleeding, or other side effects.\nAlthough our confidence in the evidence is very limited, people who receive antiplatelets may have lower rates of recurrent VTE compared to those who did not receive antiplatelets in a chronic DVT setting. Similarly, although our confidence in the evidence is very limited, people who receive antiplatelets may have a lower rate of PTS and increased side effects in an acute DVT setting.\nWe can draw no conclusions from the very limited available evidence for using antiplatelets as an additional treatment to BMP compared with BMP alone in acute and chronic DVT settings."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence was limited or very limited because few people experienced the outcomes, and some studies' limitations could introduce errors, for example randomisation and selective reporting concerns, poorly-defined outcomes and duplicate publication.\nFuture high-quality studies may produce important data, especially for results such as death and side effects, as well as the treatment of acute DVT."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to 7 December 2021."
+    }
+  ]
+}

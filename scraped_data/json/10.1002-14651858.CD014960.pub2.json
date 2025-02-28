@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD014960.pub2",
+  "name": "Antibiotics for treatment of leptospirosis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Leptospirosis is a disease transmitted from animals to humans through water, soil, or food contaminated with the urine of infected animals, caused by pathogenic Leptospira species. Antibiotics are commonly prescribed for the management of leptospirosis. Despite the widespread use of antibiotic treatment for leptospirosis, there seems to be insufficient evidence to determine its effectiveness or to recommend antibiotic use as a standard practice. This updated systematic review evaluated the available evidence regarding the use of antibiotics in treating leptospirosis, building upon a previously published Cochrane review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of antibiotics versus placebo, no intervention, or another antibiotic for the treatment of people with leptospirosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified randomised clinical trials following standard Cochrane procedures. The date of the last search was 27 March 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomised clinical trials of various designs that examined the use of antibiotics for treating leptospirosis. We did not impose any restrictions based on the age, sex, occupation, or comorbidities of the participants involved in the trials. Our search encompassed trials that evaluated antibiotics, regardless of the method of administration, dosage, and schedule, and compared them with placebo or no intervention, or compared different antibiotics. We included trials regardless of the outcomes reported."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "During the preparation of this review, we adhered to the Cochrane methodology and used Review Manager. The primary outcomes were all-cause mortality and serious adverse events (nosocomial infection). Our secondary outcomes were quality of life, proportion of people with adverse events considered non-serious, and days of hospitalisation. To assess the risk of bias of the included trials, we used the RoB 2 tool, and for evaluating the certainty of evidence we used GRADEpro GDT software. We presented dichotomous outcomes as risk ratios (RR) and continuous outcomes as mean differences (MD), both accompanied by their corresponding 95% confidence intervals (CI). We used the random-effects model for all our main analyses and the fixed-effect model for sensitivity analyses. For our primary outcome analyses, we included trial data from the longest follow-up period."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified nine randomised clinical trials comprising 1019 participants. Seven trials compared two intervention groups and two trials compared three intervention groups. Amongst the trials comparing antibiotics versus placebos, four trials assessed penicillin and one trial assessed doxycycline. In the trials comparing different antibiotics, one trial evaluated doxycycline versus azithromycin, one trial assessed penicillin versus doxycycline versus cefotaxime, and one trial evaluated ceftriaxone versus penicillin. One trial assessed penicillin with chloramphenicol and no intervention. Apart from two trials that recruited military personnel stationed in endemic areas or military personnel returning from training courses in endemic areas, the remaining trials recruited people from the general population presenting to the hospital with fever in an endemic area. The participants' ages in the included trials was 13 to 92 years. The treatment duration was seven days for penicillin, doxycycline, and cephalosporins; five days for chloramphenicol; and three days for azithromycin. The follow-up durations varied across trials, with three trials not specifying their follow-up periods. Three trials were excluded from quantitative synthesis; one reported zero events for a prespecified outcome, and two did not provide data for any prespecified outcomes.\nAntibiotics versus placebo or no intervention\nThe evidence is very uncertain about the effect of penicillin versus placebo on all-cause mortality (RR 1.57, 95% CI 0.65 to 3.79; I2 = 8%; 3 trials, 367 participants; very low-certainty evidence).\nThe evidence is very uncertain about the effect of penicillin or chloramphenicol versus placebo on adverse events considered non-serious (RR 1.05, 95% CI 0.35 to 3.17; I2 = 0%; 2 trials, 162 participants; very low-certainty evidence).\nNone of the included trials assessed serious adverse events.\nAntibiotics versus another antibiotic\nThe evidence is very uncertain about the effect of penicillin versus cephalosporin on all-cause mortality (RR 1.38, 95% CI 0.47 to 4.04; I2 = 0%; 2 trials, 348 participants; very low-certainty evidence), or versus doxycycline (RR 0.93, 95% CI 0.13 to 6.46; 1 trial, 168 participants; very low-certainty evidence). The evidence is very uncertain about the effect of cefotaxime versus doxycycline on all-cause mortality (RR 0.18, 95% CI 0.01 to 3.78; 1 trial, 169 participants; very low-certainty evidence).\nThe evidence is very uncertain about the effect of penicillin versus doxycycline on serious adverse events (nosocomial infection) (RR 0.62, 95% CI 0.11 to 3.62; 1 trial, 168 participants; very low-certainty evidence) or versus cefotaxime (RR 1.01, 95% CI 0.15 to 7.02; 1 trial, 175 participants; very low-certainty evidence). The evidence is very uncertain about the effect of doxycycline versus cefotaxime on serious adverse events (nosocomial infection) (RR 1.01, 95% CI 0.15 to 7.02; 1 trial, 175 participants; very low-certainty evidence).\nThe evidence is very uncertain about the effect of penicillin versus cefotaxime (RR 3.03, 95% CI 0.13 to 73.47; 1 trial, 175 participants; very low-certainty evidence), versus doxycycline (RR 2.80, 95% CI 0.12 to 67.66; 1 trial, 175 participants; very low-certainty evidence), or versus chloramphenicol on adverse events considered non-serious (RR 0.74, 95% CI 0.15 to 3.67; 1 trial, 52 participants; very low-certainty evidence).\nFunding\nSix of the nine trials included statements disclosing their funding/supporting sources and three trials did not mention funding source. Four of the six trials mentioning sources received funds from public or governmental sources or from international charitable sources, and the remaining two, in addition to public or governmental sources, received support in the form of trial drug supply directly from pharmaceutical companies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "As the certainty of evidence is very low, we do not know if antibiotics provide little to no effect on all-cause mortality, serious adverse events, or adverse events considered non-serious.\nThere is a lack of definitive rigorous data from randomised trials to support the use of antibiotics for treating leptospirosis infection, and the absence of trials reporting data on clinically relevant outcomes further adds to this limitation."
+    }
+  ],
+  "pls_title": "Is the use of antibiotics beneficial for treating leptospirosis?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "– Antibiotics (for example, penicillin, doxycycline, azithromycin, cefotaxime, and chloramphenicol) may have no effect on mortality (death) and side effects associated with leptospirosis infection. However, due to the limited evidence, these findings may change if more trials of high quality are conducted."
+    },
+    {
+      "heading": "What is leptospirosis?",
+      "text": "Leptospirosis is a global disease transmitted from animals (cattle, pigs, horses, dogs, and rodents) to humans (called zoonotic) through contaminated water sources, soil, or food contaminated with the urine of infected animals. Leptospirosis is a treatable and preventable disease. While most people experience mild flu-like symptoms that resolve on their own and do not require medical attention, some people develop severe forms of the disease, leading to multiple organ dysfunction (organs stop functioning properly) and even death."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if antibiotics are an effective treatment for leptospirosis and if they have any unwanted side effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched medical databases for trials that assessed the use of antibiotics for treatment of leptospirosis.\nTrials could have compared antibiotics versus placebo (a pretend treatment) or no intervention; or versus another antibiotic."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found nine trials with 1019 participants, which took place in Barbados, Brazil, Malaysia, Panama, the Philippines, and Thailand. The participants were aged 13 to 92 years.\nParticipants resided in these areas except two trials which recruited military personnel."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials compared penicillin versus either placebo or no intervention. One trial compared penicillin versus doxycycline versus cefotaxime. One trial compared penicillin versus ceftriaxone. One trial compared penicillin versus chloramphenicol versus no intervention. One trial compared doxycycline versus azithromycin. One trial compared doxycycline versus placebo. We combined results from six trials."
+    },
+    {
+      "heading": "Antibiotics versus placebo",
+      "text": "– May not reduce deaths (3 trials, 367 participants)\n– May not reduce minor side effects (for example, diarrhoea (loose stools), nausea (feeling sick), and vomiting (being sick); 2 trials, 162 participants)\nNone of the included trials reported serious side effects."
+    },
+    {
+      "heading": "Antibiotics versus other antibiotics",
+      "text": "– May not decrease deaths (penicillin versus cephalosporin: 2 trials, 348 participants; penicillin versus doxycycline: 1 trial, 168 participants; cefotaxime versus doxycycline: 1 trial, 169 participants)\n– May not affect the occurrence of serious side effects (penicillin versus doxycycline: 1 trial, 168 participants; penicillin versus cefotaxime: 1 trial, 175 participants; doxycycline versus cefotaxime: 1 trial, 175 participants)\n– May not affect the occurrence of side effects considered non-serious (penicillin versus cefotaxime: 1 trial, 175 participants; penicillin versus doxycycline: 1 trial, 168 participants; penicillin versus chloramphenicol: 1 trial, 52 participants)"
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have low confidence in our results for death and side effects because of the small number of trials with widely varying results."
+    },
+    {
+      "heading": "Funding",
+      "text": "Six trials included statements disclosing their funding/supporting sources and three trials did not mention funding sources. Four of the six trials mentioning funding sources received monies from public or governmental sources or from international charitable sources, and the remaining two trials, in addition to public or governmental sources, also received support in the form of trial medicines directly from pharmaceutical companies."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates the previous Cochrane review. The evidence is up to date to 27 March 2023."
+    }
+  ]
+}

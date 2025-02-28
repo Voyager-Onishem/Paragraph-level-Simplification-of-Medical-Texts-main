@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD010483.pub4",
+  "name": "Antiepileptic drugs for the treatment of infants with severe myoclonic epilepsy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane review published in 2015, Issue 10.\nSevere myoclonic epilepsy in infants (SMEI), also known as Dravet syndrome, is a rare, refractory form of epilepsy, for which stiripentol (STP) has been recently licensed as add-on therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and tolerability of STP and other antiepileptic drug treatments (including ketogenic diet) for patients with SMEI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the latest update we searched the Cochrane Epilepsy Group Specialized Register (20 December 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO, 20 December 2016), MEDLINE (Ovid, 1946 to 20 December 2016) and ClinicalTrials.gov (20 December 2016). Previously we searched the World Health Organization (WHO) International Clinical Trials Registry Platform ICTRP, but this was not usable at the time of this update. We also searched the bibliographies of identified studies for additional references. We handsearched selected journals and conference proceedings and imposed no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-randomised controlled trials; double- or single-blinded or unblinded trials; and parallel-group studies. Administration of at least one antiepileptic drug therapy given singly (monotherapy) or in combination (add-on therapy) compared with add-on placebo or no add-on treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently selected trials for inclusion according to predefined criteria, extracted relevant data and evaluated the methodological quality of trials. We assessed the following outcomes: 50% or greater seizure reduction, seizure freedom, adverse effects, proportion of dropouts and quality of life. We assessed outcomes by using a Mantel-Haenszel meta-analysis to calculate risk ratios (RRs) with 95% confidence intervals (95% CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Since the last version of this review no new studies have been found. Specifically, we found no RCTs assessing drugs other than STP. The review includes two RCTs evaluating use of STP (total of 64 children). Both studies were generally at unclear risk of bias. A significantly higher proportion of participants had 50% or greater reduction in seizure frequency in the STP group compared with the placebo group (22/33 versus 2/31; RR 10.40, 95% CI 2.64 to 40.87). A significantly higher proportion of participants achieved seizure freedom in the STP group compared with the placebo group (12/33 versus 1/31; RR 7.93, 95% CI 1.52 to 41.21). Investigators found no significant differences in proportions of dropouts from the STP group compared with the placebo group (2/33 versus 8/31; RR 0.24, 95% CI 0.06 to 1.03). Only one study explicitly reported the occurrence of side effects, noting that higher proportions of participants in the STP group experienced side effects than in the placebo group (100% versus 25%; RR 3.73, 95% CI 1.81 to 7.67). We rated the quality of the evidence as low to moderate according to GRADE criteria, as most information is from studies judged to be at an unclear risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Data derived from two small RCTs indicate that STP is significantly better than placebo with regards to 50% or greater reduction in seizure frequency and seizure freedom. Adverse effects occurred more frequently with STP. Additional adequately powered studies with long-term follow-up should be conducted to unequivocally establish the long-term efficacy and tolerability of STP in the treatment of patients with SMEI."
+    }
+  ],
+  "pls_title": "Antiepileptic drugs for the treatment of infants with severe myoclonic epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Severe myoclonic epilepsy in infants (SMEI), also known as Dravet syndrome, is a rare, drug-resistant form of epilepsy, for which stiripentol (STP) has been recently licensed for treatment when given in combination with other antiepileptic drugs. In this review, we evaluated the efficacy and tolerability of STP and other antiepileptic drugs for the treatment of SMEI."
+    },
+    {
+      "heading": "Results",
+      "text": "Upon systematically searching (20 December 2016) the medical literature, we found no randomised controlled trials (RCTs) assessing drugs other than STP. We found two RCTs evaluating the efficacy and tolerability of STP in 64 children with SMEI compared with placebo. Compared with patients given placebo, those receiving STP were more likely to be seizure-free or to have 50% or greater reduction in seizure frequency. Only one study explicitly reported the occurrence of side effects, which occurred more frequently in patients treated with STP. These data, derived from two small studies, indicate that STP is significantly better than placebo with regards to efficacy but is not as well-tolerated. Further studies should be conducted to unequivocally establish the long-term efficacy and tolerability of STP in the treatment of patients with SMEI.\nThe evidence is current to 20 December 2016."
+    }
+  ]
+}

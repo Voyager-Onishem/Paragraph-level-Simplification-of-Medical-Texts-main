@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008959.pub3",
+  "name": "Home fortification of foods with multiple micronutrient powders for health and nutrition in children under two years of age ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vitamin and mineral deficiencies, particularly those of iron, vitamin A, and zinc, affect more than two billion people worldwide. Young children are highly vulnerable because of rapid growth and inadequate dietary practices. Multiple micronutrient powders (MNPs) are single-dose packets containing multiple vitamins and minerals in powder form, which are mixed into any semi-solid food for children six months of age or older. The use of MNPs for home or point-of-use fortification of complementary foods has been proposed as an intervention for improving micronutrient intake in children under two years of age. In 2014, MNP interventions were implemented in 43 countries and reached over three million children.\nThis review updates a previous Cochrane Review, which has become out-of-date."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects and safety of home (point-of-use) fortification of foods with MNPs on nutrition, health, and developmental outcomes in children under two years of age.\nFor the purposes of this review, home fortification with MNP refers to the addition of powders containing vitamins and minerals to semi-solid foods immediately before consumption. This can be done at home or at any other place that meals are consumed (e.g. schools, refugee camps). For this reason, MNPs are also referred to as point-of-use fortification."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to July 2019: CENTRAL, MEDLINE, Embase, and eight other databases. We also searched four trials registers, contacted relevant organisations and authors of included studies to identify any ongoing or unpublished studies, and searched the reference lists of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs with individual randomisation or cluster-randomisation. Participants were infants and young children aged 6 to 23 months at the time of intervention, with no identified specific health problems. The intervention consisted of consumption of food fortified at the point of use with MNP formulated with at least iron, zinc, and vitamin A, compared with placebo, no intervention, or use of iron-containing supplements, which is standard practice."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility of studies against the inclusion criteria, extracted data from included studies, and assessed the risk of bias of included studies. We reported categorical outcomes as risk ratios (RRs) or odds ratios (ORs), with 95% confidence intervals (CIs), and continuous outcomes as mean differences (MDs) and 95% CIs. We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 studies (33,147 children) conducted in low- and middle-income countries in Asia, Africa, Latin America, and the Caribbean, where anaemia is a public health problem. Twenty-six studies with 27,051 children contributed data. The interventions lasted between 2 and 44 months, and the powder formulations contained between 5 and 22 nutrients. Among the 26 studies contributing data, 24 studies (26,486 children) compared the use of MNP versus no intervention or placebo; the two remaining studies compared the use of MNP versus an iron-only supplement (iron drops) given daily. The main outcomes of interest were related to anaemia and iron status. We assessed most of the included studies at low risk of selection and attrition bias. We considered some studies to be at high risk of performance and detection bias due to lack of blinding. Most studies were funded by government programmes or foundations; only two were funded by industry.\nHome fortification with MNP, compared with no intervention or placebo, reduced the risk of anaemia in infants and young children by 18% (RR 0.82, 95% CI 0.76 to 0.90; 16 studies; 9927 children; moderate-certainty evidence) and iron deficiency by 53% (RR 0.47, 95% CI 0.39 to 0.56; 7 studies; 1634 children; high-certainty evidence). Children receiving MNP had higher haemoglobin concentrations (MD 2.74 g/L, 95% CI 1.95 to 3.53; 20 studies; 10,509 children; low-certainty evidence) and higher iron status (MD 12.93 μg/L, 95% CI 7.41 to 18.45; 7 studies; 2612 children; moderate-certainty evidence) at follow-up compared with children receiving the control intervention. We did not find an effect on weight-for-age (MD 0.02, 95% CI −0.03 to 0.07; 10 studies; 9287 children; moderate-certainty evidence). Few studies reported morbidity outcomes (three to five studies each outcome) and definitions varied, but MNP did not increase diarrhoea, upper respiratory infection, malaria, or all-cause morbidity.\nIn comparison with daily iron supplementation, the use of MNP produced similar results for anaemia (RR 0.89, 95% CI 0.58 to 1.39; 1 study; 145 children; low-certainty evidence) and haemoglobin concentrations (MD −2.81 g/L, 95% CI −10.84 to 5.22; 2 studies; 278 children; very low-certainty evidence) but less diarrhoea (RR 0.52, 95% CI 0.38 to 0.72; 1 study; 262 children; low-certainty of evidence). However, given the limited quantity of data, these results should be interpreted cautiously.\nReporting of death was infrequent, although no trials reported deaths attributable to the intervention. Information on side effects and morbidity, including malaria and diarrhoea, was scarce.\nIt appears that use of MNP is efficacious among infants and young children aged 6 to 23 months who are living in settings with different prevalences of anaemia and malaria endemicity, regardless of intervention duration.\nMNP intake adherence was variable and in some cases comparable to that achieved in infants and young children receiving standard iron supplements as drops or syrups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Home fortification of foods with MNP is an effective intervention for reducing anaemia and iron deficiency in children younger than two years of age. Providing MNP is better than providing no intervention or placebo and may be comparable to using daily iron supplementation. The benefits of this intervention as a child survival strategy or for developmental outcomes are unclear. Further investigation of morbidity outcomes, including malaria and diarrhoea, is needed. MNP intake adherence was variable and in some cases comparable to that achieved in infants and young children receiving standard iron supplements as drops or syrups."
+    }
+  ],
+  "pls_title": "Using a vitamin and mineral powder, mixed into complementary foods, to improve health and nutrition in children under two years of age",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does using a vitamin and mineral powder, mixed into complementary foods, improve health and nutrition in children under two years of age?"
+    },
+    {
+      "heading": "Background",
+      "text": "Deficiencies of vitamins and minerals, particularly of iron, vitamin A, and zinc, affect more than two billion people worldwide. Young children are highly vulnerable because of rapid growth and inadequate dietary practices. Exclusive breastfeeding until six months of age, followed by complementary feeding combined with continued breastfeeding for at least two years, is recommended to maintain children's adequate health and nutrition. After six months of age, infants start to receive semi-solid foods, but the quantities of vitamins and minerals can be insufficient to fulfil all of their requirements for growth and development. Multiple micronutrient powders (MNPs) are single-dose packets of powder containing iron, vitamin A, zinc, and other vitamins and minerals that can be mixed into any semi-solid food at home or at any other point of use, to increase the content of essential vitamins and minerals in the diet of infants and young children during this period. This is done without making any other changes to their usual diet."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched up to July 2019 for all studies that assessed the use of MNP for improving the health and nutrition of children under two years of age. We included 29 studies that involved 33,147 infants and young children from low- and middle-income countries in Asia, Africa, Latin America, and the Caribbean. Twenty-six studies with 27,051 children contributed data. Of these 26 studies, 24 compared the use of MNP versus no intervention or placebo, and 2 compared the use of MNP versus an iron-only supplement (iron drops) given daily. We found that a variety of MNP formulations containing between 5 and 22 vitamins and minerals were given for 2 to 44 months to infants and young children aged 6 to 23 months. Most studies were funded by government programmes or foundations; only 2 were funded by industry."
+    },
+    {
+      "heading": "Key results",
+      "text": "The use of MNP containing at least iron, zinc, and vitamin A for home fortification of foods was associated with reduced risk of anaemia of 18% and iron deficiency of 53% in children aged six months to two years compared with no intervention. Also, haemoglobin concentration and iron status improved. Studies did not find any effects on growth. There was no additional benefit in reducing risk of anaemia and improving haemoglobin concentration compared to usually recommended iron drops or syrups; however, only two studies compared these different interventions. No trials reported death attributable to the intervention. Information on deaths, side effects, and morbidity, including malaria and diarrhoea, was scarce. The use of MNP was beneficial for young children 6 to 23 months of age, independent of whether they lived in settings with different anaemia and malaria backgrounds and regardless of the length of the intervention.\nMNP is better than no intervention or placebo and may be comparable to daily iron supplementation.The benefits of this intervention as a child survival strategy or for developmental outcomes are still unclear, and further investigation is required.\nMNP intake adherence was variable and in some cases comparable to that achieved in infants and young children receiving standard iron supplements as drops or syrups."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "For the comparison of MNP versus no intervention or placebo, we judged the certainty of evidence to be moderate for anaemia and high for iron deficiency. The certainty of evidence for all other outcomes in this comparison was either low or moderate.\nTwo trials that compared the use of MNP versus iron supplement showed similar effects on anaemia and haemoglobin but less diarrhoea; however, we judged the certainty of evidence as low for anaemia and very low for haemoglobin concentration due to the small number of study participants."
+    }
+  ]
+}

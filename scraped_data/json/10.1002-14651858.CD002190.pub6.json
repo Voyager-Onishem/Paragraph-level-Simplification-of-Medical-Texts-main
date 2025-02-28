@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD002190.pub6",
+  "name": "Vaccines for the common cold",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The common cold is a spontaneously remitting infection of the upper respiratory tract, characterised by a runny nose, nasal congestion, sneezing, cough, malaise, sore throat, and fever (usually < 37.8 ºC). Whilst the common cold is generally not harmful, it is a cause of economic burden due to school and work absenteeism. In the United States, economic loss due to the common cold is estimated at more than USD 40 billion per year, including an estimate of 70 million workdays missed by employees, 189 million school days missed by children, and 126 million workdays missed by parents caring for children with a cold. Additionally, data from Europe show that the total cost per episode may be up to EUR 1102. There is also a large expenditure due to inappropriate antimicrobial prescription. Vaccine development for the common cold has been difficult due to antigenic variability of the common cold viruses; even bacteria can act as infective agents. Uncertainty remains regarding the efficacy and safety of interventions for preventing the common cold in healthy people, thus we performed an update of this Cochrane Review, which was first published in 2011 and updated in 2013 and 2017."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effectiveness and safety of vaccines for preventing the common cold in healthy people."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (April 2022), MEDLINE (1948 to April 2022), Embase (1974 to April 2022), CINAHL (1981 to April 2022), and LILACS (1982 to April 2022). We also searched three trials registers for ongoing studies, and four websites for additional trials (April 2022). We did not impose any language or date restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of any virus vaccine compared with placebo to prevent the common cold in healthy people."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used Cochrane’s Screen4Me workflow to assess the initial search results. Four review authors independently performed title and abstract screening to identify potentially relevant studies. We retrieved the full-text articles for those studies deemed potentially relevant, and the review authors independently screened the full-text reports for inclusion in the review, recording reasons for exclusion of the excluded studies. Any disagreements were resolved by discussion or by consulting a third review author when needed. Two review authors independently collected data on a data extraction form, resolving any disagreements by consensus or by involving a third review author. We double-checked data transferred into Review Manager 5 software. Three review authors independently assessed risk of bias using RoB 1 tool as outlined in the Cochrane Handbook for Systematic Reviews of Interventions. We carried out statistical analysis using Review Manager 5. We did not conduct a meta-analysis, and we did not assess publication bias. We used GRADEpro GDT software to assess the certainty of the evidence and to create a summary of findings table."
+    },
+    {
+      "heading": "Main results",
+      "text": "We did not identify any new RCTs for inclusion in this update. This review includes one RCT conducted in 1965 with an overall high risk of bias. The RCT included 2307 healthy young men in a military facility, all of whom were included in the analyses, and compared the effect of three adenovirus vaccines (live, inactivated type 4, and inactivated type 4 and 7) against a placebo (injection of physiological saline or gelatin capsule). There were 13 (1.14%) events in 1139 participants in the vaccine group, and 14 (1.19%) events in 1168 participants in the placebo group. Overall, we do not know if there is a difference between the adenovirus vaccine and placebo in reducing the incidence of the common cold (risk ratio 0.95, 95% confidence interval 0.45 to 2.02; very low-certainty evidence). Furthermore, no difference in adverse events when comparing live vaccine preparation with placebo was reported. We downgraded the certainty of the evidence to very low due to unclear risk of bias, indirectness because the population of this study was only young men, and imprecision because confidence intervals were wide and the number of events was low. The included study did not assess vaccine-related or all-cause mortality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This Cochrane Review was based on one study with very low-certainty evidence, which showed that there may be no difference between the adenovirus vaccine and placebo in reducing the incidence of the common cold. We identified a need for well-designed, adequately powered RCTs to investigate vaccines for the common cold in healthy people. Future trials on interventions for preventing the common cold should assess a variety of virus vaccines for this condition, and should measure such outcomes as common cold incidence, vaccine safety, and mortality (all-cause and related to the vaccine)."
+    }
+  ],
+  "pls_title": "Vaccines for preventing the common cold",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Can vaccines help prevent the common cold?"
+    },
+    {
+      "heading": "Background",
+      "text": "The common cold is mainly caused by a viral infection of the upper respiratory tract. People with the common cold feel unwell, have a runny nose, nasal congestion, sneezing, cough with or without sore throat, and have slightly elevated temperatures. However, people usually recover when their immune system controls the impact of the viral infection. Treatment for this condition is aimed at relieving symptoms. Globally, the common cold causes widespread illness and large economic loss. In the United States, economic loss due to the common cold is estimated at more than USD 40 billion per year, including millions of workdays and school days missed. In Europe, the total cost per episode may be up to EUR 1102. There is also a large expenditure on inappropriate antimicrobial prescriptions. It has been difficult to manufacture vaccines to prevent the common cold because it is caused by several viruses. The effect of vaccines for preventing the common cold in healthy people is still unknown."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 26 April 2022."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We did not identify any new trials for inclusion in this update. This review includes one previously identified randomised controlled trial (a type of study where participants are randomly assigned to one of two or more treatment groups) performed in 1965. This study involved 2307 young, healthy military men at a training facility in the United States Navy, and evaluated the effects of a live attenuated (weakened) adenovirus vaccine, an inactivated type 4, and an inactivated type 4 and 7 vaccines compared to a placebo (fake vaccine)."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "The included trial was funded by a government institution."
+    },
+    {
+      "heading": "Key results",
+      "text": "There were no differences in the frequency of occurrence of the common cold between those who received a live attenuated adenovirus vaccine compared to those who received a placebo. There were no differences between groups in adverse events. However, as the trial participants were not representative of the general population and there were flaws in the study design, our confidence in the results is very low. Further research is needed to find out if vaccines can prevent the common cold, as the current evidence does not support the use of the adenovirus vaccine to prevent the common cold in healthy people."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We assessed the certainty of the evidence as very low due to high risk of bias; because the study population was only young men; and due to the small number of people included in the study and low numbers of colds."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006784.pub4",
+  "name": "Antibiotic therapy for Shigella dysentery",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Shigella dysentery is a relatively common illness and occasionally causes death, worldwide. Mild symptoms are self-limiting but in more severe cases, antibiotics are recommended for cure and preventing relapse. The antibiotics recommended are diverse, have regional differences in sensitivity, and have side effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of antibiotics for treating Shigella dysentery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In June 2009 we identified all relevant trials from the following databases: Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2008, issue 4), MEDLINE, EMBASE, LILACS and the metaRegister of Controlled Trials (mRCT). We also checked conference proceedings for relevant abstracts, and contacted researchers, organizations, and pharmaceutical companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of antibiotics for Shigella dysentery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four authors, working in pairs, independently assessed trial eligibility, methodological quality, and extracted data. We calculated risk ratios (RR) with 95% confidence intervals (CI) for dichotomous data, and used the random-effects model for significant heterogeneity. We explored possible sources of heterogeneity, when present, in subgroup analyses of participant age and percentage of participants with confirmed Shigella infection."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixteen trials (1748 participants), spanning four decades and with differing sensitivity to Shigella isolates, met the inclusion criteria. Seven were judged to be at risk of bias due to inadequate allocation concealment or blinding, and 12 due to incomplete reporting of outcome data. Limited data from one three-armed trial of people with moderately severe illness suggest that antibiotics reduce the episodes of diarrhoea at follow-up (furazolidone versus no drug RR 0.21, 95% CI 0.09 to 0.48, 73 participants; cotrimoxazole versus no drug RR 0.30, 95% CI 0.15 to 0.59, 76 participants).\nThere was insufficient evidence to consider any class of antibiotic superior in efficacy in treating Shigella dysentery, but heterogeneity for some comparisons limits confidence in the results. All the antibiotics studied were safe. There was inadequate evidence regarding the role of antibiotics in preventing relapses."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotics reduce the duration of Shigella dysentery.\nRegularly updated local or regional antibiotic sensitivity patterns to different species and strains of Shigella are required to guide empiric therapy. More trials adhering to standard guidelines are required to evaluate the role of antibiotics in the treatment of severe forms of Shigella dysentery and in groups who are at high risk of complications."
+    }
+  ],
+  "pls_title": "Antibiotic therapy for Shigella dysentery",
+  "pls_type": "long",
+  "pls": "Shigellosis is a bacterial infection of the colon that can cause diarrhoea, dysentery (diarrhoea with blood and/or mucus) and may lead to death. It occurs mainly in low- and middle-income countries where overcrowding and poor sanitation exist, and may lead to around 1.1 million deaths per year globally, mostly in children under five years.\nThe intention of giving antibiotics in shigellosis is to speed recovery, reduce the seriousness of the disease, and reduce the length of time patients are infective. However, some antibiotics can have serious side effects while others may not be effective against the Shigella bacteria.\nThe review examined both the effectiveness and the safety of antibiotics in treating Shigella dysentery. While antibiotics tested here appeared safe and effective, there was insufficient evidence to suggest which antibiotics were superior. More well designed trials will help inform decision making."
+}

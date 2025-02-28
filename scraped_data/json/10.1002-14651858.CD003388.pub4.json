@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003388.pub4",
+  "name": "Psychological therapies for chronic post‐traumatic stress disorder (PTSD) in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Post-traumatic stress disorder (PTSD) is a distressing condition, which is often treated with psychological therapies. Earlier versions of this review, and other meta-analyses, have found these to be effective, with trauma-focused treatments being more effective than non-trauma-focused treatments. This is an update of a Cochrane review first published in 2005 and updated in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of psychological therapies for the treatment of adults with chronic post-traumatic stress disorder (PTSD)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched the Cochrane Depression, Anxiety and Neurosis Group's Specialised Register (CCDANCTR-Studies and CCDANCTR-References) all years to 12th April 2013. This register contains relevant randomised controlled trials from: The Cochrane Library (all years), MEDLINE (1950 to date), EMBASE (1974 to date), and PsycINFO (1967 to date). In addition, we handsearched the Journal of Traumatic Stress, contacted experts in the field, searched bibliographies of included studies, and performed citation searches of identified articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of individual trauma-focused cognitive behavioural therapy (TFCBT), eye movement desensitisation and reprocessing (EMDR), non-trauma-focused CBT (non-TFCBT), other therapies (supportive therapy, non-directive counselling, psychodynamic therapy and present-centred therapy), group TFCBT, or group non-TFCBT, compared to one another or to a waitlist or usual care group for the treatment of chronic PTSD. The primary outcome measure was the severity of clinician-rated traumatic-stress symptoms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data and entered them into Review Manager 5 software. We contacted authors to obtain missing data. Two review authors independently performed 'Risk of bias' assessments. We pooled the data where appropriate, and analysed for summary effects."
+    },
+    {
+      "heading": "Main results",
+      "text": "We include 70 studies involving a total of 4761 participants in the review. The first primary outcome for this review was reduction in the severity of PTSD symptoms, using a standardised measure rated by a clinician. For this outcome, individual TFCBT and EMDR were more effective than waitlist/usual care (standardised mean difference (SMD) -1.62; 95% CI -2.03 to -1.21; 28 studies; n = 1256 and SMD -1.17; 95% CI -2.04 to -0.30; 6 studies; n = 183 respectively). There was no statistically significant difference between individual TFCBT, EMDR and Stress Management (SM) immediately post-treatment although there was some evidence that individual TFCBT and EMDR were superior to non-TFCBT at follow-up, and that individual TFCBT, EMDR and non-TFCBT were more effective than other therapies. Non-TFCBT was more effective than waitlist/usual care and other therapies. Other therapies were superior to waitlist/usual care control as was group TFCBT. There was some evidence of greater drop-out (the second primary outcome for this review) in active treatment groups. Many of the studies were rated as being at 'high' or 'unclear' risk of bias in multiple domains, and there was considerable unexplained heterogeneity; in addition, we assessed the quality of the evidence for each comparison as very low. As such, the findings of this review should be interpreted with caution."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence for each of the comparisons made in this review was assessed as very low quality. This evidence showed that individual TFCBT and EMDR did better than waitlist/usual care in reducing clinician-assessed PTSD symptoms. There was evidence that individual TFCBT, EMDR and non-TFCBT are equally effective immediately post-treatment in the treatment of PTSD. There was some evidence that TFCBT and EMDR are superior to non-TFCBT between one to four months following treatment, and also that individual TFCBT, EMDR and non-TFCBT are more effective than other therapies. There was evidence of greater drop-out in active treatment groups. Although a substantial number of studies were included in the review, the conclusions are compromised by methodological issues evident in some. Sample sizes were small, and it is apparent that many of the studies were underpowered. There were limited follow-up data, which compromises conclusions regarding the long-term effects of psychological treatment."
+    }
+  ],
+  "pls_title": "Psychological therapies for chronic post-traumatic stress disorder (PTSD) in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Post-traumatic stress disorder (PTSD) can occur following a traumatic event. It is characterised by symptoms of re-experiencing the trauma (in the form of nightmares, flashbacks and distressing thoughts), avoiding reminders of the traumatic event, negative alterations in thoughts and mood, and symptoms of hyper-arousal (feeling on edge, being easily startled, feeling angry, having difficulties sleeping, and problems concentrating).\nPrevious reviews have supported the use of individual trauma-focused cognitive behavioural therapy (TFCBT) and eye movement desensitisation and reprocessing (EMDR) in the treatment of PTSD. TFCBT is a variant of cognitive behavioural therapy (CBT), which includes a number of techniques to help a person overcome a traumatic event. It is a combination of cognitive therapy aimed at changing the way a person thinks, and behavioural therapy, which aims to change the way a person acts. TFCBT helps an individual come to terms with a trauma through exposure to memories of the event. EMDR is a psychological therapy, which aims to help a person reprocess their memories of a traumatic event. The therapy involves bringing distressing trauma-related images, beliefs, and bodily sensations to mind, whilst the therapist guides eye movements from side to side. More positive views of the trauma memories are identified, with the aim of replacing the ones that are causing problems.\nTFCBT and EMDR are currently recommended as the treatments of choice by guidelines such as those published by the United Kingdom's National Institute of Health and Clinical Excellence (NICE)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review draws together up-to-date evidence from 70 studies including a total of 4761 people."
+    },
+    {
+      "heading": "Key findings",
+      "text": "There is continued support for the efficacy of individual TFCBT, EMDR, non-TFCBT and group TFCBT in the treatment of chronic PTSD in adults. Other non-trauma-focused psychological therapies did not reduce PTSD symptoms as significantly. There was evidence that individual TFCBT, EMDR and non-TFCBT are equally effective immediately post-treatment in the treatment of PTSD. There was some evidence that TFCBT and EMDR are superior to non-TFCBT between one to four months following treatment, and also that individual TFCBT, EMDR and non-TFCBT are more effective than other therapies. No specific conflicts of interest were identified."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Although we included a substantial number of studies in this review, each only included small numbers of people and some were poorly designed. We assessed the overall quality of the studies as very low and so the findings of this review should be interpreted with caution. There is insufficient evidence to show whether or not psychological therapy is harmful."
+    }
+  ]
+}

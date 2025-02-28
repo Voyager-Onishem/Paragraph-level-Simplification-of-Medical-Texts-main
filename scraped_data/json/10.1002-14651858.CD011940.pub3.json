@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011940.pub3",
+  "name": "Adverse side effects of dexamethasone in surgical patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In the perioperative period, dexamethasone is widely and effectively used for prophylaxis of postoperative nausea and vomiting (PONV), for pain management, and to facilitate early discharge after ambulatory surgery.\nLong-term treatment with steroids has many side effects, such as adrenal insufficiency, increased infection risk, hyperglycaemia, high blood pressure, osteoporosis, and development of diabetes mellitus. However, whether a single steroid load during surgery has negative effects during the postoperative period has not yet been studied."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of a steroid load of dexamethasone on postoperative systemic or wound infection, delayed wound healing, and blood glucose change in adult surgical patients (with planned subgroup analysis of patients with and without diabetes)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library, and the Web of Science for relevant articles on 29 January 2018. We searched without language or date restriction two clinical trial registries to identify ongoing studies, and we handsearched the reference lists of relevant publications to identify all eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomized controlled trials comparing an incidental steroid load of dexamethasone versus a control intervention for adult patients undergoing surgery. We required that studies include a follow-up of 30 days for proper assessment of the number of postoperative infections, delayed wound healing, and the glycaemic response."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened studies for eligibility, extracted data from relevant studies, and assessed all included studies for bias. We resolved differences by discussion and pooled included studies in a meta-analysis. We calculated Peto odds ratios (ORs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes. Our primary outcomes were postoperative systemic or wound infection, delayed wound healing, and glycaemic response within 24 hours. We created a funnel plot for the primary outcome postoperative (wound or systemic) infection. We used GRADE to assess the quality of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in the meta-analysis 37 studies that included adults undergoing a large variety of surgical procedures (i.e. abdominal surgery, cardiac surgery, neurosurgery, and orthopaedic surgery). We excluded one previously included study, as this study was recently retracted. Age range of participants was 18 to 80 years. There is probably little or no difference in the risk of postoperative (wound or systemic) infection with dexamethasone compared with no treatment, placebo, or active control (ramosetron, ondansetron, or tropisetron) (Peto OR 1.01, 95% confidence interval (CI) 0.80 to 1.27; 4603 participants, 26 studies; I² = 32%; moderate-quality evidence). The effects of dexamethasone on delayed wound healing are unclear because the wide confidence interval includes both meaningful benefit and harm (Peto OR 0.99, 95% CI 0.28 to 3.43; 1072 participants, eight studies; I² = 0%; low-quality evidence). Dexamethasone may produce a mild increase in glucose levels among participants without diabetes during the first 12 hours after surgery (MD 13 mg/dL, 95% CI 6 to 21; 10 studies; 595 participants; I² = 50%; low-quality evidence). We identified two studies reporting on glycaemic response after dexamethasone in participants with diabetes within 24 hours after surgery (MD 32 mg/dL, 95% CI 15 to 49; 74 participants; I² = 0%; very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "A single dose of dexamethasone probably does not increase the risk for postoperative infection. It is uncertain whether dexamethasone has an effect on delayed wound healing in the general surgical population owing to imprecision in trial results. Participants with increased risk for delayed wound healing (e.g. participants with diabetes, those taking immunosuppressive drugs) were not included in the randomized studies reporting on delayed wound healing included in this meta-analysis; therefore our findings should be extrapolated to the clinical setting with caution. Furthermore, one has to keep in mind that dexamethasone induces a mild increase in glucose. For patients with diabetes, very limited evidence suggests a more pronounced increase in glucose. Whether this influences wound healing in a clinically relevant way remains to be established. Once assessed, the two studies awaiting classification and three that are ongoing may alter the conclusions of this review."
+    }
+  ],
+  "pls_title": "Adverse side effects of dexamethasone when administered to adult patients undergoing surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "In the presence of an infection, the body starts an inflammation process. Dexamethasone is a steroid drug that slows down this inflammation process. Long-term treatment with steroid drugs has many side effects such as increased risk of infection, high blood pressure, and development of diabetes. During surgery, dexamethasone is given to the patient to reduce the risk of nausea and vomiting after surgery, to relieve pain, and to make the patient feel better. However, whether short-term treatment with dexamethasone leads to any adverse side effects is not known."
+    },
+    {
+      "heading": "Question",
+      "text": "The reviewers examined current evidence on the adverse side effects of short-term treatment with dexamethasone during surgery. They compared patients receiving dexamethasone to patients not receiving dexamethasone. They particularly looked at the number of infections after surgery and the number of wounds that did not heal well. Furthermore, as long-term treatment with steroids can lead to high blood sugar, they looked at the response of blood sugar within the first 24 hours postoperatively."
+    },
+    {
+      "heading": "What we found.",
+      "text": ""
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "the reviewers searched four digital databases to find all relevant studies on this topic. The evidence is current to 29 January 2018. In total, they retrieved 37 relevant studies. One previously included study was recently retracted and subsequently excluded from this review. All studies included adults undergoing surgery. A total of 26 studies (4603 participants) had assessed the occurrence of infection after surgery, nine studies (1072 participants) had investigated delayed wound healing, and 10 studies (595 participants) had looked at the effect of dexamethasone on blood sugar."
+    },
+    {
+      "heading": "Key results",
+      "text": "after pooling results, reviewers found that dexamethasone had no effect on the development of an infection after surgery, and that wounds healed equally well in both groups. However, the quality of the studies was moderate to low, which means that more studies are needed to support a definitive conclusion. Finally, the mean blood sugar of patients without diabetes receiving dexamethasone was slightly higher than that of patients not receiving dexamethasone (low-quality evidence). In patients with diabetes, this effect seemed to be larger. However, blood sugar was measured in only 74 patients with diabetes, which means that reviewers did not obtain a very accurate estimate. They qualified this as very low-quality evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "dexamethasone probably does not increase the risk of infection after surgery. Not enough information is available to determine whether dexamethasone has an effect on the time it takes for surgical wounds to heal. However, included studies did not focus on patients with high risk for delayed wound healing, for example, patients with diabetes or those taking steroids; thus more studies are needed on this topic. Additionally, one has to keep in mind that taking dexamethasone leads to a mild increase in blood sugar. For patients with diabetes, very limited evidence suggests a greater increase in blood sugar. Whether or not the small increase in blood sugar has any effect on healing of surgical wounds has yet to be established. The two studies awaiting classification and three ongoing trials may alter the conclusions of this review, once assessed."
+    }
+  ]
+}

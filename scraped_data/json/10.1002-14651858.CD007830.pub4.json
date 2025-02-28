@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007830.pub4",
+  "name": "Treadmill training for patients with Parkinson's disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treadmill training is used in rehabilitation and is described as improving gait parameters of patients with Parkinson's disease."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of treadmill training in improving the gait of patients with Parkinson's disease and the acceptability and safety of this type of therapy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Movement Disorders Group Specialised Register (see Review Group details for more information) (last searched September 2014), Cochrane Central Register of Controlled Trials (The Cochrane Library 2014, Issue 10), MEDLINE (1950 to September 2014), and EMBASE (1980 to September 2014). We also handsearched relevant conference proceedings, searched trials and research registers, and checked reference lists (last searched September 2014). We contacted trialists, experts and researchers in the field and manufacturers of commercial devices."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing treadmill training with no treadmill training in patients with Parkinson's disease."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials for inclusion, assessed trial quality and extracted data. We contacted the trialists for additional information. We analysed the results as mean differences (MDs) for continuous variables and relative risk differences (RD) for dichotomous variables."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 18 trials (633 participants) in this update of this review. Treadmill training improved gait speed (MD = 0.09 m/s; 95% confidence interval (CI) 0.03 to 0.14; P = 0.001; I2 = 24%; moderate quality of evidence), stride length (MD = 0.05 metres; 95% CI 0.01 to 0.09; P = 0.01; I2 = 0%; low quality of evidence), but walking distance (MD = 48.9 metres; 95% CI -1.32 to 99.14; P = 0.06; I2 = 91%; very low quality of evidence) and cadence did not improve (MD = 2.16 steps/minute; 95% CI -0.13 to 4.46; P = 0.07; I2 = 28%; low quality of evidence) at the end of study. Treadmill training did not increase the risk of patients dropping out from intervention (RD = -0.02; 95% CI -0.06 to 0.02; P = 0.32; I2 = 13%; moderate quality of evidence). Adverse events were not reported in included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This update of our systematic review provides evidence from eighteen trials with moderate to low risk of bias that the use of treadmill training in patients with PD may improve clinically relevant gait parameters such as gait speed and stride length (moderate and low quality of evidence, respectively). This apparent benefit for patients is, however, not supported by all secondary variables (e.g. cadence and walking distance). Comparing physiotherapy and treadmill training against other alternatives in the treatment of gait hypokinesia such as physiotherapy without treadmill training this type of therapy seems to be more beneficial in practice without increased risk. The gain seems small to moderate clinically relevant. However, the results must be interpreted with caution because it is not known how long these improvements may last and some studies used no intervention in the control group and underlie some risk of bias. Additionally the results were heterogenous and we found variations between the trials in patient characteristics, the duration and amount of training, and types of treadmill training applied."
+    }
+  ],
+  "pls_title": "Treadmill training for people with Parkinson's disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "We assessed whether treadmill training and body weight support, individually or in combination, could improve walking in people with Parkinson's disease when compared with other gait training methods or no treatment."
+    },
+    {
+      "heading": "Background",
+      "text": "Slow walking is a common problem for people with Parkinson's disease. For people with mild to moderate Parkinsons disease it affects ability to do everyday things and their quality of life. Treadmill training uses specially designed machines to help gait rehabilitation. However, the role of treadmill training for people with Parkinson's disease in improving gait parameters is still unclear."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 18 relevant trials, involving 633 participants which evaluated this type of therapy, up to September 2014."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "Treadmill training did improve gait speed, and stride length; but walking distance and cadence did not improve. Acceptability of treadmill training for study participants was good and adverse events were rare. It seems that such devices could be beneficial and could be applied in routine rehabilitation. However, it is still not clear when and how often they should be used and how long a benefit lasts.\nThe quality of this evidence for the primary outcomes was moderate to low. Adverse events were not reported in studies and drop outs did not occur more frequently in people receiving treadmill training. Also we investigated only gait parameters, improvements of activities and/or quality of life were not investigated."
+    }
+  ]
+}

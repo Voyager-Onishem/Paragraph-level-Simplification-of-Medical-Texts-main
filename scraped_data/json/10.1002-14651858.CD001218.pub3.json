@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD001218.pub3",
+  "name": "Acupuncture for the prevention of episodic migraine",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acupuncture is often used for migraine prevention but its effectiveness is still controversial. We present an update of our Cochrane review from 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate whether acupuncture is a) more effective than no prophylactic treatment/routine care only; b) more effective than sham (placebo) acupuncture; and c) as effective as prophylactic treatment with drugs in reducing headache frequency in adults with episodic migraine."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL: 2016, issue 1); MEDLINE (via Ovid, 2008 to January 2016); Ovid EMBASE (2008 to January 2016); and Ovid AMED (1985 to January 2016). We checked PubMed for recent publications to April 2016. We searched the World Health Organization (WHO) Clinical Trials Registry Platform to February 2016 for ongoing and unpublished trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized trials at least eight weeks in duration that compared an acupuncture intervention with a no-acupuncture control (no prophylactic treatment or routine care only), a sham-acupuncture intervention, or prophylactic drug in participants with episodic migraine."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers checked eligibility; extracted information on participants, interventions, methods and results, and assessed risk of bias and quality of the acupuncture intervention. The primary outcome was migraine frequency (preferably migraine days, attacks or headache days if migraine days not measured/reported) after treatment and at follow-up. The secondary outcome was response (at least 50% frequency reduction). Safety outcomes were number of participants dropping out due to adverse effects and number of participants reporting at least one adverse effect. We calculated pooled effect size estimates using a fixed-effect model. We assessed the evidence using GRADE and created 'Summary of findings' tables."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-two trials including 4985 participants in total (median 71, range 30 to 1715) met our updated selection criteria. We excluded five previously included trials from this update because they included people who had had migraine for less than 12 months, and included five new trials. Five trials had a no-acupuncture control group (either treatment of attacks only or non-regulated routine care), 15 a sham-acupuncture control group, and five a comparator group receiving prophylactic drug treatment. In comparisons with no-acupuncture control groups and groups receiving prophylactic drug treatment, there was risk of performance and detection bias as blinding was not possible. Overall the quality of the evidence was moderate.\nComparison with no acupuncture\nAcupuncture was associated with a moderate reduction of headache frequency over no acupuncture after treatment (four trials, 2199 participants; standardised mean difference (SMD) -0.56; 95% CI -0.65 to -0.48); findings were statistically heterogeneous (I² = 57%; moderate quality evidence). After treatment headache frequency at least halved in 41% of participants receiving acupuncture and 17% receiving no acupuncture (pooled risk ratio (RR) 2.40; 95% CI 2.08 to 2.76; 4 studies, 2519 participants) with a corresponding number needed to treat for an additional beneficial outcome (NNTB) of 4 (95% CI 3 to 6); there was no indication of statistical heterogeneity (I² = 7%; moderate quality evidence). The only trial with post-treatment follow-up found a small but significant benefit 12 months after randomisation (RR 2.16; 95% CI 1.35 to 3.45; NNT 7; 95% 4 to 25; 377 participants, low quality evidence).\nComparison with sham acupuncture\nBoth after treatment (12 trials, 1646 participants) and at follow-up (10 trials, 1534 participants), acupuncture was associated with a small but statistically significant frequency reduction over sham (moderate quality evidence). The SMD was -0.18 (95% CI -0.28 to -0.08; I² = 47%) after treatment and -0.19 (95% CI -0.30 to -0.09; I² = 59%) at follow-up. After treatment headache frequency at least halved in 50% of participants receiving true acupuncture and 41% receiving sham acupuncture (pooled RR 1.23, 95% CI 1.11 to 1.36; I² = 48%; 14 trials, 1825 participants) and at follow-up in 53% and 42%, respectively (pooled RR 1.25, 95% CI 1.13 to 1.39; I² = 61%; 11 trials, 1683 participants; moderate quality evidence). The corresponding NNTBs are 11 (95% CI 7.00 to 20.00) and 10 (95% CI 6.00 to 18.00), respectively. The number of participants dropping out due to adverse effects (odds ratio (OR) 2.84; 95% CI 0.43 to 18.71; 7 trials, 931 participants; low quality evidence) and the number of participants reporting adverse effects (OR 1.15; 95% CI 0.85 to 1.56; 4 trials, 1414 participants; moderate quality evidence) did not differ significantly between acupuncture and sham groups.\nComparison with prophylactic drug treatment\nAcupuncture reduced migraine frequency significantly more than drug prophylaxis after treatment ( SMD -0.25; 95% CI -0.39 to -0.10; 3 trials, 739 participants), but the significance was not maintained at follow-up (SMD -0.13; 95% CI -0.28 to 0.01; 3 trials, 744 participants; moderate quality evidence). After three months headache frequency at least halved in 57% of participants receiving acupuncture and 46% receiving prophylactic drugs (pooled RR 1.24; 95% CI 1.08 to 1.44) and after six months in 59% and 54%, respectively (pooled RR 1.11; 95% CI 0.97 to 1.26; moderate quality evidence). Findings were consistent among trials with I² being 0% in all analyses. Trial participants receiving acupuncture were less likely to drop out due to adverse effects (OR 0.27; 95% CI 0.08 to 0.86; 4 trials, 451 participants) and to report adverse effects (OR 0.25; 95% CI 0.10 to 0.62; 5 trials 931 participants) than participants receiving prophylactic drugs (moderate quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available evidence suggests that adding acupuncture to symptomatic treatment of attacks reduces the frequency of headaches. Contrary to the previous findings, the updated evidence also suggests that there is an effect over sham, but this effect is small. The available trials also suggest that acupuncture may be at least similarly effective as treatment with prophylactic drugs. Acupuncture can be considered a treatment option for patients willing to undergo this treatment. As for other migraine treatments, long-term studies, more than one year in duration, are lacking."
+    }
+  ],
+  "pls_title": "Acupuncture for preventing migraine attacks",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Bottom line",
+      "text": "The available evidence suggests that a course of acupuncture consisting of at least six treatment sessions can be a valuable option for people with migraine."
+    },
+    {
+      "heading": "Background",
+      "text": "Individuals with migraine have repeated attacks of severe headache, usually just on one side and often with vomiting. Acupuncture is a therapy in which thin needles are inserted into the skin at particular points. It originated in China, and is now used in many countries to treat people with migraine. We evaluated whether acupuncture reduces the number of episodes of migraine. We looked at the number of people in whom the number of migraine days per month was reduced by half or more than half."
+    },
+    {
+      "heading": "Key results",
+      "text": "For this update, we reviewed 22 trials with 4985 people, published up to January 2016. We omitted five trials from the original review because they included people who had had migraine for less than 12 months. We included five new trials in this update.\nIn four trials, acupuncture added to usual care or treatment of migraine on onset only (usually with pain-killers) resulted in 41 in 100 people having the frequency of headaches at least halved, compared to 17 of 100 people given usual care only.\nIn 15 trials, acupuncture was compared with 'fake' acupuncture, where needles are inserted at incorrect points or do not penetrate the skin. The frequency of headaches halved in 50 of 100 people receiving true acupuncture, compared with 41 of 100 people receiving 'fake' acupuncture. The results were dominated by three good quality large trials (with about 1200 people) showing that the effect of true acupuncture was still present after six months. There were no differences in the number of side effects of real and 'fake' acupuncture, or the numbers dropping out because of side effects.\nIn five trials, acupuncture was compared to a drug proven to reduce the frequency of migraine attacks, but only three trials provided useful information. At three months, headache frequency halved in 57 of 100 people receiving acupuncture, compared with 46 of 100 people taking the drug. After six months, headache frequency halved in 59 of 100 people receiving acupuncture, compared with 54 of 100 people taking the drug. People receiving acupuncture reported side effects less often than people receiving drugs, and were less likely to drop out of the trial.\nOur findings about the number of days with migraine per month can be summarized as follows. If people have six days with migraine per month on average before starting treatment, this would be reduced to five days in people receiving only usual care, to four days in those receiving fake acupuncture or a prophylactic drug, and to three and a half days in those receiving true acupuncture."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall the quality of the evidence was moderate."
+    }
+  ]
+}

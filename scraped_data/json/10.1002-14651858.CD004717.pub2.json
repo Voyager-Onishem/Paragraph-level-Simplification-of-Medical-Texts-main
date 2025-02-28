@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004717.pub2",
+  "name": "Distraction techniques for schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Distraction techniques are a form of coping strategies used in cognitive behavioural techniques. They may be of value as an adjunctive treatment for people with schizophrenia or schizophrenia-like illnesses."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effects of distraction techniques for people with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Register (October 2003), manually searched reference lists and contacted relevant authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials comparing distraction techniques with other treatments for schizophrenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We reliably selected, quality assessed and data extracted studies. We excluded data where more than 50% of participants in any group were lost to follow up. For binary outcomes, we calculated a fixed effects risk ratio (RR) and its 95% confidence interval (CI), along with the number needed to treat/harm (NNT/H). For continuous data we calculated the weighted mean difference (WMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "In terms of mental state, distraction techniques did not have a clear effect (n=60, 1 RCT, MD endpoint BPRS 1.60 CI -0.49 to 3.69). Distraction does not obviously engage people in the studies (n=159, 5 RCTs, RR leaving the study before completion 1.08 CI 0.72 to 1.63)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Clinicians, researchers, policy makers and recipients of care cannot be confident of the effects of distraction techniques from the findings of this review. The few pioneering studies are small, short and poorly reported. Further data from already completed trials might help inform practice, but more trials do seem to be justified as some of these potentially simple techniques, even if their effect is negligible, could be widely implemented and prove more acceptable than other more intrusive treatments."
+    }
+  ],
+  "pls_title": "Distraction techniques for schizophrenia",
+  "pls_type": "long",
+  "pls": "People with schizophrenia often suffer from hallucinations. Various forms of distraction from these hallucinations have been evaluated in trials, but reporting is poor, and the few studies are small and short. Although there is no evidence that they have a major effect, further trials are justified as some of these potentially simple techniques, even if their effect is negligible, could be widely implemented and prove more acceptable than other more intrusive treatments."
+}

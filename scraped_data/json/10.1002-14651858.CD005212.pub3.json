@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005212.pub3",
+  "name": "Sequencing of chemotherapy and radiotherapy for early breast cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "After surgery for localised breast cancer, radiotherapy (RT) improves both local control and breast cancer-specific survival. In patients at risk of harbouring micro-metastatic disease, adjuvant chemotherapy (CT) improves 15-year survival. However, the best sequence of administering these two types of adjuvant therapy for early-stage breast cancer is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effects of different sequencing of adjuvant CT and RT for women with early breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "An updated search was carried out in the Cochrane Breast Cancer Group's Specialised Register (20 May 2011), MEDLINE (14 December 2011), EMBASE (20 May 2011) and World Health Organization (WHO) International Clinical Trials Registry Platform (20 May 2011). Details of the search strategy and methods of coding for the Specialised Register are described in the Group's module in The Cochrane Library. We extracted studies that had been coded as 'early', 'chemotherapy' and 'radiotherapy'."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials evaluating different sequencing of CT and RT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed the eligibility and quality of the identified studies and extracted data from the published reports of the included trials. We derived odds ratios (OR) and hazard ratios (HR) from the available numerical data. Toxicity data were extracted, where reported. We used a fixed-effect model for meta-analysis and conducted analyses on the basis of the method of sequencing of the two treatments."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three trials reporting two different sequencing comparisons were identified. There were no significant differences between the various methods of sequencing adjuvant therapy for local recurrence-free survival, overall survival, relapse-free survival and metastasis-free survival based on 1166 randomised women in three trials. Concurrent chemoradiation increased anaemia (OR 1.54; 95% confidence interval (CI) 1.10 to 2.15), telangiectasia (OR 3.85; 95% CI 1.37 to 10.87) and pigmentation (OR 15.96; 95% CI 2.06 to 123.68). Treated women did not report worse cosmesis with concurrent chemoradiation but physician-reported assessments did (OR 1.14; 95% CI 0.42 to 3.07). Other measures of toxicity did not differ between the two types of sequencing. On the basis of one trial (244 women), RT before CT was associated with an increased risk of neutropenic sepsis (OR 2.96; 95% CI 1.26 to 6.98) compared with CT before RT, but other measures of toxicity did not differ."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The data included in this review, from three well-conducted randomised trials, suggest that different methods of sequencing CT and RT do not appear to have a major effect on recurrence or survival for women with breast cancer if RT is commenced within seven months after surgery."
+    }
+  ],
+  "pls_title": "Sequencing of chemotherapy and radiotherapy for women following surgery for early breast cancer",
+  "pls_type": "long",
+  "pls": "Both chemotherapy and radiotherapy reduce the risk of breast cancer recurring and the risk of dying from breast cancer. Generally, these therapies are given after surgery but there is uncertainty about whether they should be given at the same time (concurrently) or one after the other (sequentially). If they are used sequentially, the radiotherapy or the chemotherapy could be used first and concerns have been expressed that the effectiveness of the therapy that is delayed might be reduced. However, it has also been suggested that using chemotherapy and radiotherapy at the same time may be more toxic than keeping them separate. This review examined the current evidence on the best way to administer chemotherapy and radiotherapy following breast-conserving surgery. We were able to include three randomised trials. Two of these, with 853 women, assessed radiotherapy and chemotherapy given at the same time versus chemotherapy given first followed by radiotherapy. The third trial randomised 244 women to radiotherapy followed by chemotherapy versus chemotherapy followed by radiotherapy. The evidence produced by these three well-conducted trials suggests that recurrence of a woman's cancer and her chances of dying from breast cancer are similar regardless of the order of the treatments, provided that both radiotherapy and chemotherapy are commenced within seven months of the surgery. The trials provided limited information regarding adverse events, side effects or quality of life associated with the different sequences of treatment. The limited evidence available does suggest that the frequency and severity of side effects of chemotherapy and radiotherapy are similar regardless of which sequence is used. However, it should be noted that the women in these trials were treated, on average, in the early 2000s. As a result, the trials do not assess the modern types of radiotherapy, and new types of chemotherapy (such as taxanes) or other drugs (such as Herceptin). We will add relevant trials that include these more recent treatments to future updates of this review."
+}

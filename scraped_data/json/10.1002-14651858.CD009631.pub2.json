@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009631.pub2",
+  "name": "Anticoagulants and antiplatelet agents for preventing central venous haemodialysis catheter malfunction in patients with end‐stage kidney disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Catheter malfunction, including thrombosis, is associated with reduced dialysis adequacy, as well as an increased risk of catheter-related bacteraemia and mortality. The role of anticoagulants in the prevention of catheter malfunction remains uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to compare the prophylactic effect of different anticoagulant agents, preparations, doses and administration on the incidence of central venous haemodialysis catheter-related malfunction and sepsis in patients with end-stage kidney disease (ESKD)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 7 January 2016 through contact with the Trials' Search Co-ordinator using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCT) assessing anticoagulants compared with conventional care for the prevention of catheter malfunction in adult patients receiving haemodialysis for ESKD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The primary outcome was catheter malfunction defined as a catheter blood flow of 200 mL/min or less, or as defined by study authors. Secondary outcomes were catheter-related bacteraemia, all-cause mortality and bleeding events. Relative risks (RR) with 95% confidence intervals (CI) for individual studies were pooled using random effects models within treatment classes. Analyses were conducted by class, with subgroup analyses performed of individual agents within classes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 27 studies (3003 participants) that were followed up for a median of six months. Study interventions included alternative anticoagulant locking solutions (19 studies, 2216 patients), systemic agents (6 studies, 664 patients) and low or no dose heparin (2 studies, 123 patients). The most common comparison treatment was a locking solution of heparin 5000 IU/mL, used in 17 studies. No significant effect on catheter malfunction was observed for alternative anticoagulant locking solutions (RR 0.96, 95% CI 0.74 to 1.26), systemic agents (RR 0.59, 95% CI 0.28 to 1.23), or low or no dose heparin (RR 0.90, 95% CI 0.10 to 8.31). A significant reduction on incidence of catheter-related bacteraemia was observed for alternative anticoagulant locking solutions (RR 0.46, 95% CI 0.32 to 0.66) but not systemic agents (RR 2.41, 95% CI 0.89 to 6.55), and could not be assessed in reports of low or no dose heparin studies. No significant effect on all-cause mortality was observed for alternative anticoagulant locking solutions (RR 0.88, 95% CI 0.54 to 1.43) or systemic agents (RR 0.78, 95% CI 0.37 to 1.65), and was not reported in studies of low or no dose heparin. Bleeding events were only reported in eight studies, including only 2/5 studies of systemic warfarin, with no clear effect demonstrated (RR 1.43, 95% CI 0.86 to 2.39). For individual agents, recombinant tissue plasminogen (rt-PA) was the only locking solution shown to reduce catheter malfunction (RR 0.58, 95% CI 0.37 to 0.91) based on the results of a single study. No significant on catheter malfunction was observed for other individual classes of alternative anticoagulant locking solutions (citrate: RR 1.14, 95% CI 0.76 to 1.69; antibiotic: RR 1.48, 95% CI 0.79 to 2.77; ethanol: RR 0.88, 95% CI 0.21 to 3.67). On the other hand, all individual classes of alternative anticoagulant locking solutions, except ethanol, reduced catheter-related bacteraemia (citrate: RR 0.49, 95% CI 0.36 to 0.68; antibiotic: RR 0.27, 95% CI 0.11 to 0.70; rt-PA: RR 0.35, 95% CI 0.13 to 0.93; ethanol: RR 0.33, 95% CI 0.03 to 4.05). No significant effect on all-cause mortality was observed for any individual agent within the class of alternative locking solutions. Studies were mainly of low quality and underpowered with an average participant number of 75 and study duration of six months. The interpretation of the study evidence was further limited by the variation in tested interventions and outcome reporting."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The relative net benefit of anticoagulant therapies for prevention of catheter malfunction remains uncertain. Multiple agents appear to reduce catheter-related bacteraemia although the lack of clear assessment of harms and the limitations of study quality mean these results should be interpreted with caution. Methodological approaches can be used to avoid methods of reporting unduly affecting on the results of meta-analyses incorporating studies employed mixed reporting methods. Further high quality randomised studies, including safety outcomes, are needed."
+    }
+  ],
+  "pls_title": "Anticoagulants and antiplatelet agents for preventing central venous haemodialysis catheter malfunction in patients with end-stage kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Patients with end-stage kidney disease require vascular access during haemodialysis. Central venous haemodialysis catheters are frequently used when permanent vascular access is not available. Catheter problems contribute to greater morbidity and mortality. Catheter malfunction leads to requirements for additional interventions, increased risk of catheter-related infection and hospitalisation.\nStandard care for the prevention of catheter malfunction is the use of heparin solutions as a post dialysis ‘lock’ in the catheter ports. The potential impact of heparin treatment on bleeding risk is an acknowledged concern. Therefore newer approaches have been proposed to seek improvements in catheter patency or treatment-associated harm rates."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review focused on randomised controlled trials (RCTs) of anticoagulants compared with conventional care for the prevention of catheter malfunction patients receiving haemodialysis."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 27 studies, involving 3003 patients followed for an average six months, which assessed alternative anticoagulant locking solutions, systemic agents and low or no dose heparin. Catheter malfunction were not affected by any of these classes of agents. Subgroup analysis showed that the only agent reducing catheter malfunction was recombinant tissue plasminogen locking solution based on the results of a single study. A significant reduction was observed on the incidence of catheter-related bacteraemia for alternative anticoagulant locking solutions. There was no evidence to suggest that alternative anticoagulants to heparin locking solutions had an effect on death rates or bleeding events, although only a small proportion of studies reported bleeding events."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Further high quality information is needed on both potential benefits and safety of alternative approaches to maintaining dialysis access catheter function."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009761.pub2",
+  "name": "Interventions for preventing high altitude illness: Part 1. Commonly‐used classes of drugs ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "High altitude illness (HAI) is a term used to describe a group of cerebral and pulmonary syndromes that can occur during travel to elevations above 2500 metres ( ˜ 8200 feet ). Acute hypoxia, acute mountain sickness (AMS), high altitude cerebral oedema (HACE) and high altitude pulmonary oedema (HAPE) are reported as potential medical problems associated with high altitude. In this review, the first in a series of three about preventive strategies for HAI, we assess the effectiveness of six of the most recommended classes of pharmacological interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effectiveness and adverse events of commonly-used pharmacological interventions for preventing acute HAI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OVID), Embase (OVID), LILACS and trial registries in January 2017. We adapted the MEDLINE strategy for searching the other databases. We used a combination of thesaurus-based and free-text terms to search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized-controlled and cross-over trials conducted in any setting where commonly-used classes of drugs were used to prevent acute HAI."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 64 studies (78 references) and 4547 participants in this review, and classified 12 additional studies as ongoing. A further 12 studies await classification, as we were unable to obtain the full texts. Most of the studies were conducted in high altitude mountain areas, while the rest used low pressure (hypobaric) chambers to simulate altitude exposure. Twenty-four trials provided the intervention between three and five days prior to the ascent, and 23 trials, between one and two days beforehand. Most of the included studies reached a final altitude of between 4001 and 5000 metres above sea level. Risks of bias were unclear for several domains, and a considerable number of studies did not report adverse events of the evaluated interventions. We found 26 comparisons, 15 of them comparing commonly-used drugs versus placebo. We report results for the three most important comparisons:\nAcetazolamide versus placebo (28 parallel studies; 2345 participants)\nThe risk of AMS was reduced with acetazolamide (risk ratio (RR) 0.47, 95% confidence interval (CI) 0.39 to 0.56; I2 = 0%; 16 studies; 2301 participants; moderate quality of evidence). No events of HAPE were reported and only one event of HACE (RR 0.32, 95% CI 0.01 to 7.48; 6 parallel studies; 1126 participants; moderate quality of evidence). Few studies reported side effects for this comparison, and they showed an increase in the risk of paraesthesia with the intake of acetazolamide (RR 5.53, 95% CI 2.81 to 10.88, I2 = 60%; 5 studies, 789 participants; low quality of evidence).\nBudenoside versus placebo (2 parallel studies; 132 participants)\nData on budenoside showed a reduction in the incidence of AMS compared with placebo (RR 0.37, 95% CI 0.23 to 0.61; I2 = 0%; 2 studies, 132 participants; low quality of evidence). Studies included did not report events of HAPE or HACE, and they did not find side effects (low quality of evidence).\nDexamethasone versus placebo (7 parallel studies; 205 participants)\nFor dexamethasone, the data did not show benefits at any dosage (RR 0.60, 95% CI 0.36 to 1.00; I2 = 39%; 4 trials, 176 participants; low quality of evidence). Included studies did not report events of HAPE or HACE, and we rated the evidence about adverse events as of very low quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our assessment of the most commonly-used pharmacological interventions suggests that acetazolamide is an effective pharmacological agent to prevent acute HAI in dosages of 250 to 750 mg/day. This information is based on evidence of moderate quality. Acetazolamide is associated with an increased risk of paraesthesia, although there are few reports about other adverse events from the available evidence. The clinical benefits and harms of other pharmacological interventions such as ibuprofen, budenoside and dexamethasone are unclear. Large multicentre studies are needed for most of the pharmacological agents evaluated in this review, to evaluate their effectiveness and safety."
+    }
+  ],
+  "pls_title": "Drugs commonly-used for preventing high altitude illness",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "High altitude illness (HAI) is a term used to describe a group of brain and breathing conditions that can occur while travelling to altitudes above 2500 metres ( ˜ 8200 feet ). HAI is generally characterized by headache, nausea, vomiting and tiredness (often called acute mountain sickness), but may affect the brain or the lungs in different individuals. In this review, we assessed the most commonly-used drugs to prevent the onset of this illness."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to January 2017. We included 64 studies related to six different types of drugs recommended for HAI prevention. Most of the studies were conducted in high altitude mountain areas, while the rest used low pressure (hypobaric) chambers to simulate altitude exposure. The participants' ages ranged between 16 and 65 years. Eleven studies included people at a high risk of this condition due to their history of HAI or other illnesses such as asthma. Twenty-four trials provided the intervention between three and five days prior to the ascent, and 23 trials, between one and two days beforehand. Most of the included studies reached a final altitude of between 4001 and 5000 metres above sea level. In 23 of the included studies, the source of funding was unclear. Only 18 studies declared their possible conflicts of interests. We classed 24 more studies as still ongoing or waiting for assessment."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our findings suggest that acetazolamide is an effective treatment for the prevention of acute HAI in dosages of 250 to 750 mg/day, when this drug is compared to a placebo (i.e. a pill with no active agent). Most of the available information relates to the prevention of uncomplicated HAI (headache, nausea, vomiting and tiredness) rather than to more serious brain or lung problems. We also found that acetazolamide is associated with an increased risk of paraesthesia in the fingers (i.e. a sensation of tingling, tickling, pricking, or burning of the skin), although this outcome is not well reported in the available evidence. The benefits and harms of other drugs such as ibuprofen, budenoside and dexamethasone are unclear, due to the small number of studies."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the evidence as moderate to very low. Several studies had quality shortcomings, including their use of small numbers of participants and a lack of reporting of important outcomes such as side effects. For most of the drugs covered by the studies, additional research is required to clarify their effectiveness and safety."
+    }
+  ]
+}

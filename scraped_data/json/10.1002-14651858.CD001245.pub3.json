@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001245.pub3",
+  "name": "Antifibrinolytic therapy for aneurysmal subarachnoid haemorrhage",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Rebleeding is an important cause of death and disability in people with aneurysmal subarachnoid haemorrhage. Rebleeding is probably related to the dissolution of the blood clot at the site of the aneurysm rupture by natural fibrinolytic activity. This review is an update of previously published Cochrane Reviews."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antifibrinolytic treatment in people with aneurysmal subarachnoid haemorrhage."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (May 2022), CENTRAL (in the Cochrane Library 2021, Issue 1), MEDLINE (December 2012 to May 2022), and Embase (December 2012 to May 2022). In an effort to identify further published, unpublished, and ongoing studies, we searched reference lists and trial registers, performed forward tracking of relevant references, and contacted drug companies (the latter in previous versions of this review)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials comparing oral or intravenous antifibrinolytic drugs (tranexamic acid, epsilon amino-caproic acid, or an equivalent) with control in people with subarachnoid haemorrhage of suspected or proven aneurysmal cause."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (MRG & WJD) independently selected trials for inclusion, and extracted the data for the current update. In total, three review authors (MIB & MRG in the previous update; MRG & WJD in the current update) assessed risk of bias. For the primary outcome, we dichotomised the outcome scales into good and poor outcome, with poor outcome defined as death, vegetative state, or (moderate) severe disability, assessed with either the Glasgow Outcome Scale or the Modified Rankin Scale. We assessed death from any cause, rates of rebleeding, delayed cerebral ischaemia, and hydrocephalus per treatment group. We expressed effects as risk ratios (RR) with 95% confidence intervals (CI). We used random-effects models for all analyses. We assessed the quality of the evidence with GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one new trial in this update, for a total of 11 included trials involving 2717 participants. The risk of bias was low in six studies. Five studies were open label, and we rated them at high risk of performance bias. We also rated one of these studies at high risk for attrition and reporting bias.\nFive trials reported on poor outcome (death, vegetative state, or (moderate) severe disability), with a pooled risk ratio (RR) of 1.03 (95% confidence interval (CI) 0.94 to 1.13; P = 0.53; 5 trials, 2359 participants; high-quality evidence), which showed no difference between groups. All trials reported on death from all causes, which showed no difference between groups, with a pooled RR of 1.02 (95% CI 0.90 to 1.16; P = 0.77; 11 trials, 2717 participants; high-quality evidence). In trials that combined short-term antifibrinolytic treatment (< 72 hours) with preventative measures for delayed cerebral ischaemia, the RR for poor outcome was 0.98 (95% CI 0.81 to 1.18; P = 0.83; 2 trials, 1318 participants; high-quality evidence).\nAntifibrinolytic treatment reduced the risk of rebleeding, reported at the end of follow-up (RR 0.65, 95% CI 0.47 to 0.91; P = 0.01; 11 trials, 2717 participants; absolute risk reduction 7%, 95% CI 3 to 12%; moderate-quality evidence), but there was heterogeneity (I² = 59%) between the trials. The pooled RR for delayed cerebral ischaemia was 1.27 (95% CI 1.00 to 1.62; P = 0.05; 7 trials, 2484 participants; moderate-quality evidence). However, this effect was less extreme after the implementation of ischaemia preventative measures and < 72 hours of treatment (RR 1.10, 95% CI 0.83 to 1.46; P = 0.49; 2 trials, 1318 participants; high-quality evidence). Antifibrinolytic treatment showed no effect on the reported rate of hydrocephalus (RR 1.09, 95% CI 0.99 to 1.20; P = 0.09; 6 trials, 1992 participants; high-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The current evidence does not support the routine use of antifibrinolytic drugs in the treatment of people with aneurysmal subarachnoid haemorrhage. More specifically, early administration with concomitant treatment strategies to prevent delayed cerebral ischaemia does not improve clinical outcome. There is sufficient evidence from multiple randomised controlled trials to incorporate this conclusion in treatment guidelines."
+    }
+  ],
+  "pls_title": "Drugs for preventing blood clot dissolution (antifibrinolytic therapy) to improve recovery after subarachnoid haemorrhage from a ruptured aneurysm (aneurysmal)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Research question",
+      "text": "What are the effects of antifibrinolytic treatment in people with aneurysmal subarachnoid haemorrhage?"
+    },
+    {
+      "heading": "Background",
+      "text": "A subarachnoid haemorrhage is bleeding into the small space between the brain and the skull that contains blood vessels that supply the brain (the subarachnoid space). The cause of this type of bleeding is most often a rupture of a weak spot (aneurysm) in one of the brain vessels. A subarachnoid haemorrhage is a relatively uncommon type of stroke, but often occurs at a young age (half the people are younger than 50 years), and therefore, has a significant socioeconomic impact. The outcome following a subarachnoid haemorrhage is often poor; one-third of people die after the haemorrhage, and of those who survive, one-fifth will require help for everyday activities. An important cause of poor recovery after a subarachnoid haemorrhage is repeated (recurrent) bleeding from the aneurysm (rebleeding). This is thought to be caused from natural blood clot dissolving (fibrinolytic) activity. Drugs that reduce the speed of the blood clot dissolving, called antifibrinolytic drugs, were introduced as a treatment to reduce the risk of recurrent bleeding and improve recovery after a subarachnoid haemorrhage."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to May 2022. This review included 11 trials, with a total of 2717 participants, which investigated the effect of antifibrinolytic drugs in people with a subarachnoid haemorrhage caused by a ruptured aneurysm."
+    },
+    {
+      "heading": "Key results",
+      "text": "Antifibrinolytic treatment reduces the risk of rebleeding, but does not improve overall survival, or the chance of being independent in everyday activities. We conclude that there is no evidence to support routinely giving antifibrinolytic treatment to people with a subarachnoid haemorrhage caused by a ruptured aneurysm."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We assessed the evidence for the outcomes as moderate- to high-quality, which means we are very, or moderately confident in the results."
+    }
+  ]
+}

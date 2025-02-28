@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD011364.pub3",
+  "name": "Ultrasound‐guided arterial cannulation in the paediatric population",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In arterial line cannulation in children and adolescents, traditional methods of locating the artery include palpation and Doppler auditory assistance. It is unclear whether ultrasound guidance is superior to these methods. This is an update of a review originally published in 2016."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of ultrasound guidance compared with traditional techniques (palpation, Doppler auditory assistance) for assisting arterial line placement at all potential sites in children and adolescents."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and Web of Science from inception to 30 October 2022. We also searched four trials registers for ongoing trials, and we checked the reference lists of included studies and relevant reviews for other potentially eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing ultrasound guidance versus other techniques (palpation or Doppler auditory assistance) to guide arterial line cannulation in children and adolescents (aged under 18 years). We planned to include quasi-RCTs and cluster-RCTs. For RCTs with both adult and paediatric populations, we planned to include only the paediatric population data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the risk of bias of included trials and extracted data. We used standard Cochrane meta-analytical procedures, and we applied the GRADE method to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine RCTs reporting 748 arterial cannulations in children and adolescents (under 18 years of age) undergoing different surgical procedures. Eight RCTs compared ultrasound with palpation, and one compared ultrasound with Doppler auditory assistance. Five studies reported the incidence of haematomas. Seven involved radial artery cannulation and two involved femoral artery cannulation.\nThe people performing arterial cannulation were physicians with different levels of experience. The risk of bias varied across studies, with some studies lacking details of allocation concealment. It was not possible to blind practitioners in any case; this adds a performance bias that is inherent to the type of intervention studied in our review.\nCompared to traditional methods, ultrasound guidance probably causes a large increase in first-attempt success rates (risk ratio (RR) 2.01, 95% confidence interval (CI) 1.64 to 2.46; 8 RCTs, 708 participants; moderate-certainty evidence) and probably causes a large reduction in the risk of complications such as haematoma formation (RR 0.26, 95% CI 0.14 to 0.47; 5 RCTs, 420 participants; moderate-certainty evidence). No studies reported data about ischaemic damage. Ultrasound guidance probably improves success rates within two attempts (RR 1.78, 95% CI 1.25 to 2.51; 2 RCTs, 134 participants; moderate-certainty evidence) and overall rate of successful cannulation (RR 1.32, 95% CI 1.10 to 1.59; 6 RCTs, 374 participants; moderate-certainty evidence). In addition, ultrasound guidance probably reduces the number of attempts to successful cannulation (mean difference (MD) −0.99 attempts, 95% CI −1.15 to −0.83; 5 RCTs, 368 participants; moderate-certainty evidence) and duration of the cannulation procedure (MD −98.77 seconds, 95% CI −150.02 to −47.52, 5 RCTs, 402 participants; moderate-certainty evidence).\nMore studies are needed to confirm whether the improvement in first-attempt success rates is more pronounced in neonates and younger children compared to older children and adolescents."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We identified moderate-certainty evidence that ultrasound guidance for arterial cannulation compared with palpation or Doppler auditory assistance improves first-attempt success rate, second-attempt success rate and overall success rate. We also found moderate-certainty evidence that ultrasound guidance reduces the incidence of complications, the number of attempts to successful cannulation and the duration of the cannulation procedure."
+    }
+  ],
+  "pls_title": "Ultrasound use for insertion of arterial catheters in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "An arterial catheter is a thin tube that can be inserted into an artery to monitor blood pressure during complex surgeries and during stays in intensive care. Ultrasound (an imaging method that uses sound waves to capture live images of soft tissue) can help doctors to locate the artery and insert the catheter. In children in particular, ultrasound may reduce the need for multiple needle sticks, the occurrence of haematoma (a collection of blood outside the blood vessels) and damage to the artery, compared with other techniques such as palpation of the artery (feeling through the skin for the pulse) or Doppler auditory assistance (listening for a change to a higher pitch at the exact location of the artery)."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We aimed to find out whether ultrasound offers any advantages over palpation of the artery or Doppler auditory assistance. Specifically, we wanted to find out if ultrasound improved the following outcomes.\n1. How often doctors can successfully insert the catheter on first attempt\n2. The occurrence of complications such as haematoma and injury caused by reduced blood flow\n3. How often doctors can successfully insert the catheter on the first two attempts\n4. How often doctors can successfully insert the catheter after several attempts\n5. The average number of attempts needed to insert the catheter\n6. How long it takes to insert the catheter"
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the literature for controlled clinical studies comparing use of ultrasound with traditional ways of placing a catheter into an artery in children under the age of 18 years. We compared and summarised the results of the studies and rated our confidence in the evidence based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found nine eligible studies: eight comparing ultrasound with palpation and one comparing ultrasound with Doppler auditory assistance. Seven studies were of radial artery cannulation and two studies were of femoral artery cannulation. Four studies did not mention any funding source and five studies had departmental funds. The studies included children aged from under one month to 18 years."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found that ultrasound guidance compared with traditional methods probably increases the rate of successful cannulation on first attempt, within the first two attempts, and after several attempts. Ultrasound guidance probably reduces the occurrence of haematoma, the number of attempts needed to successfully place an arterial catheter, and the time needed to perform successful cannulation. The evidence suggests that ultrasound is probably superior for arterial cannula insertion in children and adolescents, including very young children."
+    },
+    {
+      "heading": "Limitations of the evidence",
+      "text": "Our confidence in the evidence is only moderate because it was impossible to mask the doctors performing the cannulation (they knew which children had ultrasound-assisted cannulation), and because the studies included few children and reported few events."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is up to date to October 2022."
+    }
+  ]
+}

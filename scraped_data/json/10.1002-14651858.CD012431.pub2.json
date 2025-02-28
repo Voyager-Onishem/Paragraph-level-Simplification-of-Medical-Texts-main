@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012431.pub2",
+  "name": "Efficacy and safety of rapid tests to guide antibiotic prescriptions for sore throat",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sore throat is a common condition caused by viruses or bacteria, and is a leading cause of antibiotic prescription in primary care. The most common bacterial species is group A streptococcus (’strep throat’). Between 50% to 70% of pharyngitis cases are treated with antibiotics, despite the majority of cases being viral in origin. One strategy to reduce antibiotics is to use rapid tests for group A streptococcus to guide antibiotic prescriptions. Rapid tests can be used alone or in combination with a clinical scoring system."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of strategies based on rapid tests to guide antibiotic prescriptions for sore throat in primary care settings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, CINAHL, Web of Science, and LILACS, as well as the trial registries ClinicalTrials.gov and the WHO ICTRP on 5 June 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing rapid tests with management based on clinical grounds to guide the prescription of antibiotics for people with a sore throat in ambulatory care settings. We included trials that randomised individuals, as well as cluster-RCTs in which individual practitioners (or practices) or emergency departments were randomised."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data on the primary outcomes (number of participants provided with an antibiotic prescription; number of participants with an antibiotic dispensed) and secondary outcomes (duration of sore throat symptoms; duration of other symptoms; quality of life measures; number of participants with a complication attributed to the index infection; number of participants in need of re-consultation by the end of follow-up; number of participants in need of hospital admission by the end of follow-up; number of satisfied participants; number of participants with an adverse event attributed to the rapid test). We assessed the risk of bias of all included trials and used GRADE to assess the certainty of the evidence. We performed meta-analyses and sensitivity analyses when feasible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five trials (2891 children and adult participants in total; 2545 participants after adjusting for clustering). Management in the intervention group was as follows: in three trials rapid tests were used in combination with a clinical scoring system; in one trial, some physicians were asked to use rapid tests alone, while others were asked to use rapid tests in combination with a clinical scoring system; in one trial, rapid tests were used alone.\nBased on data from five trials (2545 participants), a large reduction in prescribed antibiotics was found in the rapid test group (481/1197) versus management based on clinical grounds (865/1348), for a summary risk difference (RD) of −25%, 95% confidence interval (CI) −31% to −18%; I2 = 62%; moderate-certainty evidence. Estimates of effect on antibiotic prescription rates were stable in various sensitivity analyses.\nBased on data from two trials (900 people) originating from the same overarching study, the evidence suggests that rapid tests may not reduce dispensed antibiotic treatments: rapid test group (156/445) versus management based on clinical grounds (197/455); summary RD −7%, 95% CI −17% to 2%; I2 = 53%; low-certainty evidence.\nFour trials (2075 participants) reported data on the number of participants with a complication attributed to the index infection; the summary odds ratio (OR) was 0.85, 95% CI 0.03 to 26.65; P = 0.93; I2 = 62%; very low-certainty evidence, which means that people in the rapid testing group were less likely to develop complications of the index infection, but the evidence is very uncertain.\nTwo trials (1161 participants) reported on the number of participants in need of re-consultation by the end of follow-up; the summary OR was 1.12, 95% CI 0.57 to 2.21; P = 0.74; I2 = 59%; low-certainty evidence, which means that participants in the rapid testing group were more likely to be in need of re-consultation by the end of the study follow-up, but the evidence is uncertain.\nLack of data impeded assessment of other secondary outcomes (including safety outcomes) and of sources of heterogeneity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Rapid testing to guide antibiotic treatment for sore throat in primary care probably reduces antibiotic prescription rates by 25% (absolute risk difference), but may have little or no impact on antibiotic dispensing. More studies are needed to assess the efficacy and safety of rapid test-guided antibiotic prescribing, notably to evaluate patient-centred outcomes and variability across subgroups (e.g. adults versus children)."
+    }
+  ],
+  "pls_title": "Use of rapid point-of-care testing for strep throat to guide doctors prescribing antibiotics for sore throat in primary care settings",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Can rapid point-of-care tests help reduce antibiotic use in people with acute sore throat in primary care?"
+    },
+    {
+      "heading": "Background",
+      "text": "Sore throat is one of the most common reasons for primary care visits. It can be caused by viruses or bacteria. The bacterial species most frequently identified in cases of sore throat is group A streptococcus (’strep throat’). Antibiotics are commonly prescribed for people with a sore throat, even though the majority of sore throats are caused by viruses, in which case antibiotics are ineffective and unnecessary. The concern is that antibiotics may cause side effects and contribute to antibiotic resistance, causing difficult-to-treat infections. It is particularly challenging for physicians to distinguish between sore throats of viral and bacterial origin by observation alone (clinically distinguish), even for experienced physicians. Throat swab cultures may take up to 48 hours to grow. This has led to the development of rapid tests. Several rapid tests are currently available to identify sore throat cases caused by group A streptococcus and can be used by doctors during primary care consultations for sore throat. These rapid tests could help reduce antibiotic prescriptions by withholding antibiotics in people with a negative test result. We assessed the available evidence from randomised controlled trials (a type of study in which participants are assigned to one of two or more treatment groups using a random method) to evaluate the effectiveness and safety of using rapid tests in primary care."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for randomised controlled trials published in any language up to June 2019. We identified five randomised controlled trials with a total of 2545 participants with sore throat in primary care settings."
+    },
+    {
+      "heading": "Key results",
+      "text": "Participants in the rapid test group were less likely to be prescribed antibiotics than participants managed based on clinical grounds (481/1197 versus 865/1348). A 25% reduction (i.e., a decrease of 25 percentage points) in antibiotic prescription rates is likely to be achieved by using rapid testing in people with sore throat in primary care. However, there may be little or no reduction between groups in dispensed antibiotic treatments. Antibiotic prescriptions refer to medicines prescribed by healthcare providers. Antibiotic dispensing refers to medicines accessed in pharmacies. In some cases, patients may not present to the pharmacy to get their prescription filled. Four trials reported data on the number of participants with a complication attributed to the initial infection (e.g., tonsil abscess): complications were rare (0 to 3 per trial), and there may be little or no difference between people managed on clinical grounds alone and those managed with rapid testing but the evidence is very uncertain."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We ranked the certainty of the evidence as moderate for the number of participants provided with an antibiotic prescription, low for the number of participants with an antibiotic dispensed, and very low for the number of participants with a complication attributed to the episode of sore throat (e.g., abscess of the tonsils), respectively."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Compared with usual decision-making based on clinical examination alone, implementing rapid tests can reduce antibiotic prescription rates, but may have little or no impact on antibiotic dispensing. More studies are needed to assess other outcomes that are important to patients, including safety."
+    }
+  ]
+}

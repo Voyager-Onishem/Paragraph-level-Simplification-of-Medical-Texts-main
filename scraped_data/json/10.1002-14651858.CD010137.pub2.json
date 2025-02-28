@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010137.pub2",
+  "name": "Glucose targets for preventing diabetic kidney disease and its progression",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Diabetes is the leading cause of end-stage kidney disease (ESKD) around the world. Blood pressure lowering and glucose control are used to reduce diabetes-associated disability including kidney failure. However there is a lack of an overall evidence summary of the optimal target range for blood glucose control to prevent kidney failure."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of intensive (HbA1c < 7% or fasting glucose levels < 120 mg/dL versus standard glycaemic control (HbA1c ≥ 7% or fasting glucose levels ≥ 120 mg/dL for preventing the onset and progression of kidney disease among adults with diabetes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register up to 31 March 2017 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings; and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials evaluating glucose-lowering interventions in which people (aged 14 year or older) with type 1 or 2 diabetes with and without kidney disease were randomly allocated to tight glucose control or less stringent blood glucose targets."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed studies for eligibility and risks of bias, extracted data and checked the processes for accuracy. Outcomes were mortality, cardiovascular complications, doubling of serum creatinine (SCr), ESKD and proteinuria. Confidence in the evidence was assessing using GRADE. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fourteen studies involving 29,319 people with diabetes were included and 11 studies involving 29,141 people were included in our meta-analyses. Treatment duration was 56.7 months on average (range 6 months to 10 years). Studies included people with a range of kidney function. Incomplete reporting of key methodological details resulted in uncertain risks of bias in many studies. Using GRADE assessment, we had moderate confidence in the effects of glucose lowering strategies on ESKD, all-cause mortality, myocardial infarction, and progressive protein leakage by kidney disease and low or very low confidence in effects of treatment on death related to cardiovascular complications and doubling of serum creatinine (SCr).\nFor the primary outcomes, tight glycaemic control may make little or no difference to doubling of SCr compared with standard control (4 studies, 26,874 participants: RR 0.84, 95% CI 0.64 to 1.11; I2= 73%, low certainty evidence), development of ESKD (4 studies, 23,332 participants: RR 0.62, 95% CI 0.34 to 1.12; I2= 52%; low certainty evidence), all-cause mortality (9 studies, 29,094 participants: RR 0.99, 95% CI 0.86 to 1.13; I2= 50%; moderate certainty evidence), cardiovascular mortality (6 studies, 23,673 participants: RR 1.19, 95% CI 0.73 to 1.92; I2= 85%; low certainty evidence), or sudden death (4 studies, 5913 participants: RR 0.82, 95% CI 0.26 to 2.57; I2= 85%; very low certainty evidence). People who received treatment to achieve tighter glycaemic control probably experienced lower risks of non-fatal myocardial infarction (5 studies, 25,596 participants: RR 0.82, 95% CI 0.67 to 0.99; I2= 46%, moderate certainty evidence), onset of microalbuminuria (4 studies, 19,846 participants: RR 0.82, 95% CI 0.71 to 0.93; I2= 61%, moderate certainty evidence), and progression of microalbuminuria (5 studies, 13,266 participants: RR 0.59, 95% CI 0.38 to 0.93; I2= 75%, moderate certainty evidence). In absolute terms, tight versus standard glucose control treatment in 1,000 adults would lead to between zero and two people avoiding non-fatal myocardial infarction, while seven adults would avoid experiencing new-onset albuminuria and two would avoid worsening albuminuria."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review suggests that people who receive intensive glycaemic control for treatment of diabetes had comparable risks of kidney failure, death and major cardiovascular events as people who received less stringent blood glucose control, while experiencing small clinical benefits on the onset and progression of microalbuminuria and myocardial infarction. The adverse effects of glycaemic management are uncertain. Based on absolute treatment effects, the clinical impact of targeting an HbA1c < 7% or blood glucose < 6.6 mmol/L is unclear and the potential harms of this treatment approach are largely unmeasured."
+    }
+  ],
+  "pls_title": "Glucose targets for preventing diabetic kidney disease and its progression",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "In many parts of the world, diabetes is the most common reason that people experience kidney failure and need treatment with a kidney transplant or dialysis. Disability (blindness, limb loss, kidney failure) due to diabetes is caused by high blood glucose (sugar) levels. An important question is whether extra treatment to control blood glucose levels to near normal can safely prevent the health consequences of diabetes including lower life expectancy and loss of kidney function, without causing problems such as low blood glucose leading to loss of awareness or seizures. Some medical care of diabetes includes careful blood glucose control to low levels (measured by a blood test called the HbA1C) through the use of extra medication and careful blood glucose monitoring with the help of health professionals."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked at the evidence for tighter blood glucose control (lower blood glucose in the long term, that is HbA1c < 7% ) compared with less tight blood glucose control (HbA1c > 7%) in people who have either type 1 or type 2 diabetes. Blood glucose was achieved by any sort of treatment including pills or insulin."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Fourteen studies involving 29,319 people with at risk of diabetes complications were included and 11 studies involving 29,141 people were included in our analyses. Tighter blood glucose control generally didn't show any benefits for patients compared to less tight glucose control. There was no difference in the risks for patients on kidney failure, death, or heart disease complications. A very small number of patients (1 in every 1000 treated each year) might avoid a heart attack with more intense blood glucose management. Some patients would expect to have less protein leakage through kidney function although the clinical impact of this benefit is unclear in the long term. The potential problems with treatment, such as side effects and risks of very low blood glucose (hypoglycaemia) were not generally measured in the studies."
+    },
+    {
+      "heading": "Our conclusions",
+      "text": "The review concludes that people with diabetes receive uncertain benefits from tighter blood glucose control in the long-term and the immediate complications of this treatment approach are difficult to know accurately."
+    }
+  ]
+}

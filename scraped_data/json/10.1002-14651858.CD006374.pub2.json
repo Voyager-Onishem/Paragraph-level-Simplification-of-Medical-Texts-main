@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006374.pub2",
+  "name": "Antipsychotic medication for early episode schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Long-term treatment with antipsychotic medications in early episode schizophrenia spectrum disorders is common, but both short and long-term effects on the illness are unclear. There have been numerous suggestions that people with early episodes of schizophrenia appear to respond differently than those with multiple prior episodes. The number of episodes may moderate response to drug treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antipsychotic medication treatment on people with early episode schizophrenia spectrum disorders."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group register (July 2007) as well as references of included studies. We contacted authors of studies for further data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies with a majority of first and second episode schizophrenia spectrum disorders comparing initial antipsychotic medication treatment with placebo, milieu, or psychosocial treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Working independently, we critically appraised records from 681studies, of which five studies met inclusion criteria. We calculated risk ratios (RR) and their 95% confidence intervals (CI) where possible. For continuous data, we calculated mean difference (MD). We calculated numbers needed to treat/harm (NNT/NNH) where appropriate."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies (combined total n=998) met inclusion criteria. Four studies (n=724) provided leaving the study early data and results suggested that individuals treated with a typical antipsychotic medication are less likely to leave the study early than those treated with placebo (Chlorpromazine: 3 RCTs n=353, RR 0.4 CI 0.3 to 0.5, NNT 3.2, Fluphenaxine: 1 RCT n=240, RR 0.5 CI 0.3 to 0.8, NNT 5; Thioridazine: 1 RCT n=236, RR 0.44 CI 0.3 to 0.7, NNT 4.3, Trifulperazine: 1 RCT n=94, RR 0.96 CI 0.3 to 3.6). Two studies contributed data to assessment of adverse effects and present a general pattern of more frequent side effects among individuals treated with typical antipsychotic medications compared to placebo. One trial suggested a higher rehospitalisation rate for those receiving chlorpromazine compared to placebo (n=80, RR 2.29 CI 1.3 to 4.0, NNH 2.9). However, a higher attrition in the placebo group is likely to have introduced a survivor bias into this comparison. One study contributes data to a comparison of trifluoperazine to psychotherapy on long-term health in favour of the trifluoperazine group (n=92, MD 5.8 CI 1.6 to 0.0); however, data from this study are also likely to contain biases due to selection and attrition. One other study contributes data to a comparison of typical antipsychotic medication to psychosocial treatment on six-week outcome measures of global psychopathology (n=89, MD 0.01 CI -0.6 to 0.6) and global improvement (n=89, MD -0.03 CI -0.5 to 0.4), indicating no between-group differences. On the whole, there is very little useable data in the few studies meeting inclusion criteria."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "With only a few studies meeting inclusion criteria, and with limited useable data in these studies, it is not possible to arrive at definitive conclusions. The preliminary pattern of evidence suggests that people with early episode schizophrenia treated with typical antipsychotic medications are less likely to leave the study early, but more likely to experience medication-related side effects. Data are too sparse to assess the effects of antipsychotic medication on outcomes in early episode schizophrenia."
+    }
+  ],
+  "pls_title": "Antipsychotic medication for early episode schizophrenia",
+  "pls_type": "long",
+  "pls": "There are only a few good quality studies comparing the acute treatment of early episode schizophrenia with an antipsychotic medication compared to placebo or psychosocial treatment. It appears that initial medication treatment reduces the study attrition rates while also increasing the risk for medication-induced side effects. Data are too limited to assess the effects of initial antipsychotic medication treatment on outcomes for individuals with an early episode of schizophrenia."
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007287.pub4",
+  "name": "Antigen‐specific active immunotherapy for ovarian cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is the second update of the review first published in the Cochrane Library (2010, Issue 2) and later updated (2014, Issue 9).\nDespite advances in chemotherapy, the prognosis of ovarian cancer remains poor. Antigen-specific active immunotherapy aims to induce tumour antigen-specific anti-tumour immune responses as an alternative treatment for ovarian cancer."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective \n• To assess the clinical efficacy of antigen-specific active immunotherapy for the treatment of ovarian cancer as evaluated by tumour response measured by Response Evaluation Criteria In Solid Tumors (RECIST) and/or cancer antigen (CA)-125 levels, response to post-immunotherapy treatment, and survival differences\n◦ In addition, we recorded the numbers of observed antigen-specific humoral and cellular responses\nSecondary objective \n• To establish which combinations of immunotherapeutic strategies with tumour antigens provide the best immunological and clinical results"
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the previous version of this review, we performed a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL; 2009, Issue 3), in the Cochrane Library, the Cochrane Gynaecological Cancer Group Specialised Register, MEDLINE and Embase databases, and clinicaltrials.gov (1966 to July 2009). We also conducted handsearches of the proceedings of relevant annual meetings (1996 to July 2009).\nFor the first update of this review, we extended the searches to October 2013, and for this update, we extended the searches to July 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomised controlled trials (RCTs), as well as non-randomised studies (NRSs), that included participants with epithelial ovarian cancer, irrespective of disease stage, who were treated with antigen-specific active immunotherapy, irrespective of type of vaccine, antigen used, adjuvant used, route of vaccination, treatment schedule, and reported clinical or immunological outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviews authors independently extracted the data. We evaluated the risk of bias for RCTs according to standard methodological procedures expected by Cochrane, and for NRSs by using a selection of quality domains deemed best applicable to the NRS."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 67 studies (representing 3632 women with epithelial ovarian cancer). The most striking observations of this review address the lack of uniformity in conduct and reporting of early-phase immunotherapy studies. Response definitions show substantial variation between trials, which makes comparison of trial results unreliable. Information on adverse events is frequently limited. Furthermore, reports of both RCTs and NRSs frequently lack the relevant information necessary for risk of bias assessment. Therefore, we cannot rule out serious biases in most of the included trials. However, selection, attrition, and selective reporting biases are likely to have affected the studies included in this review. GRADE ratings were high only for survival; for other primary outcomes, GRADE ratings were very low.\nThe largest body of evidence is currently available for CA-125-targeted antibody therapy (17 studies, 2347 participants; very low-certainty evidence). Non-randomised studies of CA-125-targeted antibody therapy suggest improved survival among humoral and/or cellular responders, with only moderate adverse events. However, four large randomised placebo-controlled trials did not show any clinical benefit, despite induction of immune responses in approximately 60% of participants. Time to relapse with CA-125 monoclonal antibody versus placebo, respectively, ranged from 10.3 to 18.9 months versus 10.3 to 13 months (six RCTs, 1882 participants; high-certainty evidence). Only one RCT provided data on overall survival, reporting rates of 80% in both treatment and placebo groups (three RCTs, 1062 participants; high-certainty evidence). Other small studies targeting many different tumour antigens have presented promising immunological results. As these strategies have not yet been tested in RCTs, no reliable inferences about clinical efficacy can be made. Given the promising immunological results and the limited side effects and toxicity reported, exploration of clinical efficacy in large well-designed RCTs may be worthwhile."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We conclude that despite promising immunological responses, no clinically effective antigen-specific active immunotherapy is yet available for ovarian cancer. Results should be interpreted cautiously, as review authors found a significant dearth of relevant information for assessment of risk of bias in both RCTs and NRSs."
+    }
+  ],
+  "pls_title": "Antigen-specific active immunotherapy for ovarian cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Ovarian cancer is the leading cause of death from gynaecological cancers. Standard therapy consists of surgery and chemotherapy. Responses to chemotherapy are generally good; however, most women experience relapse, for which no curative treatment is available. The presence of certain immune cells in tumours is associated with longer survival. This suggests that stimulation of anti-tumour immune responses (i.e. immunotherapy) might be a useful approach for improving outcomes among women with ovarian cancer."
+    },
+    {
+      "heading": "Review question",
+      "text": "This review evaluated the feasibility of antigen-specific active immunotherapy. Antigen-specific active immunotherapy aims to induce anti-tumour immune responses through administration of a tumour antigen - a molecule that is expressed by tumour cells and is hardly expressed by healthy cells. Reviewers collected information on clinical outcomes, immunological responses, and side effects."
+    },
+    {
+      "heading": "Main findings",
+      "text": "We identified 67 studies, which included 3632 women with ovarian cancer and were published between 1966 and 2017. The most frequently described strategy was administration of antibodies targeting the tumour antigen CA-125 (2347 participants in 17 studies). Most of these studies primarily evaluated safety and immunological responses. Severe flu-like and gastrointestinal symptoms occurred in 7% to 30% of participants. Researchers frequently detected antibodies and immune cells recognising the tumour antigen CA-125, albeit response rates varied between studies. Despite these promising immunological responses, four large studies reported no survival advantage for participants treated with CA-125-directed antibody over those given placebo.\nFor strategies not relying on antibody administration, similar conclusions cannot yet be drawn. Overall, study authors report that treatment was well tolerated and inflammatory side effects at the injection site were most frequently observed. Researchers observed responses of the immune system for most strategies studied, but the clinical benefit of these strategies remains to be evaluated in large trials."
+    },
+    {
+      "heading": "Certainty of the evidence and conclusions",
+      "text": "Because no high-certainty evidence of clinical benefit is currently available, antibody therapy targeting CA-125 should not be incorporated into standard treatment in its current form.\nBased on lack of uniformity in included studies, we strongly advocate universal adoption of response definitions, guidelines for adverse events reporting, and directives for trial conduct and reporting. Furthermore, results from ongoing randomised controlled trials (RCTs) are awaited, and further RCTs should be conducted."
+    }
+  ]
+}

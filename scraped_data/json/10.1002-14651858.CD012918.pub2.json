@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012918.pub2",
+  "name": "Shortened treatment regimens versus the standard regimen for drug‐sensitive pulmonary tuberculosis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tuberculosis causes more deaths than any other infectious disease worldwide, with pulmonary tuberculosis being the most common form. Standard first-line treatment for drug-sensitive pulmonary tuberculosis for six months comprises isoniazid, rifampicin, pyrazinamide, and ethambutol (HRZE) for two months, followed by HRE (in areas of high TB drug resistance) or HR, given over a four-month continuation phase. Many people do not complete this full course. Shortened treatment regimens that are equally effective and safe could improve treatment success."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of shortened treatment regimens versus the standard six-month treatment regimen for individuals with drug-sensitive pulmonary tuberculosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to 10 July 2019: the Cochrane Infectious Diseases Group Specialized Register; the Central Register of Controlled Trials (CENTRAL), in the Cochrane Library; MEDLINE (PubMed); Embase; the Latin American Caribbean Health Sciences Literature (LILACS); Science Citation Index-Expanded; Indian Medlars Center; and the South Asian Database of Controlled Clinical Trials. We also searched the World Health Organization (WHO) International Clinical Trials Registry Platform, ClinicalTrials.gov, the Clinical Trials Unit of the International Union Against Tuberculosis and Lung Disease, the UK Medical Research Council Clinical Trials Unit, and the Clinical Trials Registry India for ongoing trials. We checked the reference lists of identified articles to find additional relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomized controlled trials (RCTs) or quasi-RCTs that compared shorter-duration regimens (less than six months) versus the standard six-month regimen for people of all ages, irrespective of HIV status, who were newly diagnosed with pulmonary tuberculosis by positive sputum culture or GeneXpert, and with presumed or proven drug-sensitive tuberculosis. The primary outcome of interest was relapse within two years of completion of anti-tuberculosis treatment (ATT)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials, extracted data, and assessed risk of bias for the included trials. For dichotomous outcomes, we used risk ratios (RRs) with 95% confidence intervals (CIs). When appropriate, we pooled data from the included trials in meta-analyses. We assessed the certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five randomized trials that compared fluoroquinolone-containing four-month ATT regimens versus standard six-month ATT regimens and recruited 5825 adults with newly diagnosed drug-sensitive pulmonary tuberculosis from 14 countries with high tuberculosis transmission in Asia, Africa, and Latin Ameria. Three were multi-country trials that included a total of 572 HIV-positive people. These trials excluded children, pregnant or lactating women, people with serious comorbid conditions, and those with diabetes mellitus. Four trials had multiple treatment arms.\nMoxifloxacin replaced ethambutol in standard four-month, daily or thrice-weekly ATT regimens in two trials; moxifloxacin replaced isoniazid in four-month ATT regimens in two trials, was given daily in one trial, and was given with rifapentine instead of rifampicin daily for two months and twice weekly for two months in one trial. Moxifloxacin was added to standard ATT drugs for three to four months in one ongoing trial that reported interim results. Gatifloxacin replaced ethambutol in standard ATT regimens given daily or thrice weekly for four months in two trials. Follow-up ranged from 12 months to 24 months after treatment completion for the majority of participants.\nMoxifloxacin-containing four-month ATT regimens\nMoxifloxacin-containing four-month ATT regimens that replaced ethambutol or isoniazid probably increased the proportions who experienced relapse after successful treatment compared to standard ATT regimens (RR 3.56, 95% CI 2.37 to 5.37; 2265 participants, 3 trials; moderate-certainty evidence). For death from any cause, there was probably little or no difference between the two regimens (2760 participants, 3 trials; moderate-certainty evidence). Treatment failure was rare, and there was probably little or no difference in proportions with treatment failure between ATT regimens (2282 participants, 3 trials; moderate-certainty evidence). None of the participants given moxifloxacin-containing regimens developed resistance to rifampicin, and these regimens may not increase the risk of acquired resistance (2282 participants, 3 trials; low-certainty evidence). Severe adverse events were probably little or no different with moxifloxacin-containing four-month regimens that replaced ethambutol or isoniazid, and with three- to four-month regimens that augmented standard ATT with moxifloxacin, when compared to standard six-month ATT regimens (3548 participants, 4 trials; moderate-certainty evidence).\nGatifloxacin-containing four-month ATT regimens\nGatifloxacin-containing four-month ATT regimens that replaced ethambutol probably increased relapse compared to standard six-month ATT regimens in adults with drug-sensitive pulmonary tuberculosis (RR 2.11, 95% CI 1.56 to 2.84; 1633 participants, 2 trials; moderate-certainty evidence). The four-month regimen probably made little or no difference in death compared to the six-month regimen (1886 participants, 2 trials; moderate-certainty evidence). Treatment failure was uncommon and was probably little or no different between the four-month and six-month regimens (1657 participants, 2 trials; moderate-certainty evidence). Acquired resistance to isoniazid or rifampicin was not detected in those given the gatifloxacin-containing shortened ATT regimen, but we are uncertain whether acquired drug resistance is any different in the four- and six-month regimens (429 participants, 1 trial; very low-certainty evidence). Serious adverse events were probably no different with either regimen (1993 participants, 2 trials; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence to date does not support the use of shortened ATT regimens in adults with newly diagnosed drug-sensitive pulmonary tuberculosis. Four-month ATT regimens that replace ethambutol with moxifloxacin or gatifloxacin, or isoniazid with moxifloxacin, increase relapse substantially compared to standard six-month ATT regimens, although treatment success and serious adverse events are little or no different. The results of six large ongoing trials will help inform decisions on whether shortened ATT regimens can replace standard six-month ATT regimens."
+    }
+  ],
+  "pls_title": "Shorter treatment regimens for people with pulmonary tuberculosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if the duration of anti-tuberculosis treatment (ATT) for people with newly diagnosed drug-sensitive pulmonary tuberculosis can be shortened to less than six months. Cochrane Review authors collected and analysed all relevant studies to answer this question and found five relevant studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Shortened ATT regimens probably make little or no difference in death, treatment failure, or serious adverse events compared to six-month ATT regimens, but they probably increase relapse of tuberculosis. Six large ongoing trials are studying this question."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Tuberculosis is an infectious disease, and tuberculosis affecting the lungs (pulmonary tuberculosis) is the most common presentation of tuberculosis in adults. Tuberculosis is a major public health problem worldwide, and among infectious diseases, it is the leading cause of death.\nPeople with pulmonary tuberculosis are currently treated with a six-month combination of drugs that include isoniazid, rifampicin, ethambutol, and pyrazinamide for two months, followed by isoniazid and rifampicin (with or without ethambutol) for four months. Many people do not finish the treatment or they take the drugs irregularly because of the long treatment duration, or because of drug side effects. Incomplete or irregular treatment can lead to treatment failure and can increase disease relapse. Such treatment can also lead to drug resistance. If newer drug combinations given for less than six months are found to be as effective and safe as the currently recommended six-month ATT regimens, more people might be adherent and might complete treatment. This could help reduce drug resistance and could help to stop tuberculosis infection worldwide."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The five included trials studied 5825 adults with newly diagnosed drug-sensitive pulmonary tuberculosis from 14 countries with high tuberculosis transmission in Asia, Africa, and Latin Ameria. Three trials included 572 HIV-positive people, but all excluded people with other serious comorbid conditions and those with diabetes mellitus. This reduced the applicability of study results. All were funded by government or international agencies.\nFour studies replaced isoniazid or ethambutol with moxifloxacin or gatifloxacin in four-month ATT regimens. Follow-up was provided for 12 months to 24 months after treatment completion. In one ongoing study, moxifloxacin was added to four-month ATT, but study authors provided only interim results.\nThis review shows the following when four-month ATT regimens are compared to standard six-month ATT regimens.\n• Relapse after successful treatment is probably increased (moderate-certainty evidence).\n• Death from any cause, treatment failure, and serious adverse events are probably little or no different (moderate-certainty evidence).\n• Drug resistance may not be increased with moxifloxacin-containing four-month regimens (low-certainty evidence), but we are uncertain whether this applies to gatifloxacin-containing regimens (very low-certainty evidence)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for available studies up to 10 July 2019."
+    }
+  ]
+}

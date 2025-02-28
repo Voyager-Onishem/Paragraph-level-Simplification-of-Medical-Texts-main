@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010316.pub3",
+  "name": "First‐line combination therapy versus first‐line monotherapy for primary hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is the second update of a review originally published in 2017. Starting with one drug and with a combination of two drugs are strategies suggested in clinical guidelines as initial treatment for hypertension. The recommendations are not based on evidence about clinically relevant outcomes. Some antihypertensive combinations have been shown to be harmful. The actual harm-to-benefit balance of each strategy is unknown."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if there are differences in clinical outcomes between monotherapy and combination therapy as initial treatment for primary hypertension."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to March 2021: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1946), and Embase (from 1974). The World Health Organization International Clinical Trials Registry Platform and the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) were searched for ongoing trials. We also contacted authors of relevant papers regarding further published and unpublished work. We used no language restrictions. We also searched clinical studies repositories of pharmaceutical companies, reviews of combination drugs on the US Food and Drug Administration and European Medicines Agency websites, and lists of references in reviews and clinical practice guidelines."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised, double-blind trials with at least 12 months' follow-up in adults with primary hypertension (systolic blood pressure/diastolic blood pressure 140/90 mmHg or higher, or 130/80 mmHg or higher if participants had diabetes), which compared a combination of two first-line antihypertensive drugs with monotherapy as initial treatment. Trials had to include at least 50 participants per group and report mortality, cardiovascular mortality, cardiovascular events, or serious adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials for inclusion, evaluated the risks of bias, and performed data entry. The primary outcomes were mortality, serious adverse events, cardiovascular events, and cardiovascular mortality. Secondary outcomes were withdrawals due to drug-related adverse effects, reaching blood pressure control (as defined in each trial), and blood pressure change from baseline. Analyses were based on the intention-to-treat principle. We summarised data on dichotomous outcomes as risk ratios (RRs) with 95% confidence intervals (CIs). We used GRADE to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found no new trials for this update. The three original trials in the main comparison (monotherapy: 335 participants; combination therapy: 233 participants) included outpatients, mostly European and white people. Two trials only included people with type 2 diabetes; the remaining trial excluded people treated with diabetes, hypocholesterolaemia, or cardiovascular drugs. The follow-up was 12 months in two trials and 36 months in one trial. The following treatments were compared: perindopril + indapamide versus enalapril; perindopril + indapamide versus atenolol; and verapamil + trandolapril versus verapamil or trandolapril.\nOur 2019 update included one new study in which a subgroup of participants met our inclusion criteria. As none of the four included studies focused solely on people initiating antihypertensive treatment, we asked investigators for data for this subgroup. One study (PREVER-treatment 2016) used a combination of thiazide-type diuretic/potassium-sparing diuretic: chlorthalidone + amiloride compared to losartan. As the amiloride is not indicated in monotherapy, we analysed this study separately.\nIt is very uncertain whether combination therapy versus monotherapy reduces total mortality (RR 1.35, 95% CI 0.08 to 21.72), cardiovascular mortality (zero events reported), cardiovascular events (RR 0.98, 95% CI 0.22 to 4.41), serious adverse events (RR 0.77, 95% CI 0.31 to 1.92), or withdrawals due to adverse effects (RR 0.85, 95% CI 0.53 to 1.35); all outcomes had 568 participants, and we rated the evidence as of very low certainty due to serious imprecision and for using a subgroup that was not defined in advance. The confidence intervals were extremely wide for all important outcomes and included both appreciable harm and benefit.\nThe PREVER-treatment 2016 trial, which used a combination therapy with potassium-sparing diuretic (monotherapy: 84 participants; combination therapy: 116 participants), included outpatients. This trial was conducted in Brazil and had a follow-up of 18 months. The number of events was very low and confidence intervals very wide, with zero events reported for cardiovascular mortality and withdrawals due to adverse events. It is very uncertain if there are differences in clinical outcomes between monotherapy and combination therapy in this trial."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The numbers of included participants, and hence the number of events, were too small to draw any conclusion about the relative efficacy of monotherapy versus combination therapy, as initial treatment for primary hypertension. There is a need for large clinical trials that address the review question and report clinically relevant endpoints."
+    }
+  ],
+  "pls_title": "Beginning treatment of hypertension with one medicine versus with a combination of two medicines",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is high blood pressure?",
+      "text": "This is the second update of a review published for the first time in 2017. Hypertension (high blood pressure) is a long-term condition that increases the risk of health problems such as heart attack, stroke, or kidney disease."
+    },
+    {
+      "heading": "How is high blood pressure treated?",
+      "text": "Several types of medicines are used to treat hypertension. Over time a person with hypertension will often need more than one type of medicine to help control their blood pressure. A doctor prescribing medicines to reduce blood pressure for the first time in a patient has two options: using only one medicine (monotherapy) or using two medicines (combination therapy). Combination therapy can be in the same tablet or in different tablets."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if there are differences between treating people with high blood pressure with one medicine or with two medicines. The potential advantage of using two medicines is that blood pressure may fall faster, but we do not know if this is better or worse for avoiding harmful effects in the patient."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that compared starting treatment of hypertension in adults with one medicine versus studies that started treatment with two medicines. Studies had to talk about results such as deaths or other events caused by diseases of the heart or the blood vessels, such as heart attack, stroke, or heart failure. Studies could also talk about other kinds of health-related side effects. We only chose studies with 50 or more people in each group and that lasted at least 12 months."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "In this update we did not find any new studies, with a total of four studies included in the review, with 419 treated with one medicine and 349 people treated with more than one medicine. However, there was not enough information to answer our review question. There is a need for more and larger studies that compare using one medicine versus using two medicines as the first treatment for high blood pressure."
+    }
+  ]
+}

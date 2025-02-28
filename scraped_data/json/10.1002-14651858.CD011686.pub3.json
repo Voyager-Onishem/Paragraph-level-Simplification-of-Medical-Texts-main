@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD011686.pub3",
+  "name": "Triage tools for detecting cervical spine injury in paediatric trauma patients",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Paediatric cervical spine injury (CSI) after blunt trauma is rare but can have severe consequences. Clinical decision rules (CDRs) have been developed to guide clinical decision-making, minimise unnecessary tests and associated risks, whilst detecting all significant CSIs. Several validated CDRs are used to guide imaging decision-making in adults following blunt trauma and clinical criteria have been proposed as possible paediatric-specific CDRs. Little information is known about their accuracy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess and compare the diagnostic accuracy of CDRs or sets of clinical criteria, alone or in comparison with each other, for the evaluation of CSI following blunt trauma in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched CENTRAL, MEDLINE, Embase, and six other databases from 1 January 2015 to 13 December 2022. As we expanded the index test eligibility for this review update, we searched the excluded studies from the previous version of the review for eligibility. We contacted field experts to identify ongoing studies and studies potentially missed by the search. There were no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cross-sectional or cohort designs (retrospective and prospective) and randomised controlled trials that compared the diagnostic accuracy of any CDR or clinical criteria compared with a reference standard for the evaluation of paediatric CSI following blunt trauma. We included studies evaluating one CDR or comparing two or more CDRs (directly and indirectly). We considered X-ray, computed tomography (CT) or magnetic resonance imaging (MRI) of the cervical spine, and clinical clearance/follow-up as adequate reference standards."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts for relevance, and carried out eligibility, data extraction and quality assessment. A third review author arbitrated. We extracted data on study design, participant characteristics, inclusion/exclusion criteria, index test, target condition, reference standard and data (diagnostic two-by-two tables) and calculated and plotted sensitivity and specificity on forest plots for visual examination of variation in test accuracy. We assessed methodological quality using the Quality Assessment of Diagnostic Accuracy Studies Version 2 tool. We graded the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five studies with 21,379 enrolled participants, published between 2001 and 2021. Prevalence of CSI ranged from 0.5% to 1.85%. Seven CDRs were evaluated.\nThree studies reported on direct comparisons of CDRs. One study (973 participants) directly compared the accuracy of three index tests with the sensitivities of NEXUS, Canadian C-Spine Rule and the PECARN retrospective criteria being 1.00 (95% confidence interval (CI) 0.48 to 1.00), 1.00 (95% CI 0.48 to 1.00) and 1.00 (95% CI 0.48 to 1.00), respectively. The specificities were 0.56 (95% CI 0.53 to 0.59), 0.52 (95% CI 0.49 to 0.55) and 0.32 (95% CI 0.29 to 0.35), respectively (moderate-certainty evidence). One study (4091 participants) compared the accuracy of the PECARN retrospective criteria with the Leonard de novo model; the sensitivities were 0.91 (95% CI 0.81 to 0.96) and 0.92 (95% CI 0.83 to 0.97), respectively. The specificities were 0.46 (95% CI 0.44 to 0.47) and 0.50 (95% CI 0.49 to 0.52) (moderate- and low-certainty evidence, respectively). One study (270 participants) compared the accuracy of two NICE (National Institute for Health and Care Excellence) head injury guidelines; the sensitivity of the CG56 guideline was 1.00 (95% CI 0.48 to 1.00) compared to 1.00 (95% CI 0.48 to 1.00) with the CG176 guideline. The specificities were 0.46 (95% CI 0.40 to 0.52) and 0.07 (95% CI 0.04 to 0.11), respectively (very low-certainty evidence).\nTwo additional studies were indirect comparison studies. One study (3065 participants) tested the accuracy of the NEXUS criteria; the sensitivity was 1.00 (95% CI 0.88 to 1.00) and specificity was 0.20 (95% CI 0.18 to 0.21) (low-certainty evidence). One retrospective study (12,537 participants) evaluated the PEDSPINE criteria and found a sensitivity of 0.93 (95% CI 0.78 to 0.99) and specificity of 0.70 (95% CI 0.69 to 0.72) (very low-certainty evidence).\nWe did not pool data within the broader CDR categories or investigate heterogeneity due to the small quantity of data and the clinical heterogeneity of studies. Two studies were at high risk of bias.\nWe identified two studies that are awaiting classification pending further information and two ongoing studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to determine the diagnostic test accuracy of CDRs to detect CSIs in children following blunt trauma, particularly for children under eight years of age. Although most studies had a high sensitivity, this was often achieved at the expense of low specificity and should be interpreted with caution due to a small number of CSIs and wide CIs. Well-designed, large studies are required to evaluate the accuracy of CDRs for the cervical spine clearance in children following blunt trauma, ideally in direct comparison with each other."
+    }
+  ],
+  "pls_title": "Clinical tools for detecting cervical spine injury (CSI) in children with injuries",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "– There is currently insufficient evidence to determine which clinical decision tools should be used to assist in deciding whether children with potential cervical spine injuries (CSI) require imaging tests to aid diagnosis."
+    },
+    {
+      "heading": "What is a cervical spine injury and how is it detected?",
+      "text": "The cervical spine is the upper part of the spine between the head and shoulders (the neck). The incidence of traumatic CSI in children is very low. However, it is very important not to miss this injury as the consequences can be devastating, including death or lifelong disability. To detect CSI, several types of imaging techniques can be used: computed tomography (CT), magnetic resonance imaging (MRI) and X-rays. A CT scan uses detailed X-rays to produce cross-sectional images of the body and MRI uses radio waves and a powerful magnet to generate the images. While CT scans and X-rays are useful in detecting bone injuries, they do use radiation that can increase the risk of developing cancer, especially in children. To avoid exposing children to unnecessary radiation, it is important to find clinical tests that can determine whether children are at risk for CSI, how accurate they are (called diagnostic accuracy) and whether radiographic imaging is needed."
+    },
+    {
+      "heading": "What was the aim of this review?",
+      "text": "Clinical decision rules (CDRs) are tools that clinicians use to decide whether a diagnostic test is needed or another clinical action should be taken. We wanted to find out which CDRs are useful in determining which children are at risk for CSI after blunt trauma (for example, in motor vehicle-related accidents and falls), and whether radiographic imaging should be used to help diagnosis. Tools that have been developed for adults are also often used for children, but little information is known about their accuracy in children. The aim of this review was to evaluate all CDRs and tools used in this decision-making process and if they can be used safely and effectively in children."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched medical databases for studies that compared the diagnostic accuracy of any CDR with another CDR for the evaluation of CSI following blunt trauma in children."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included five studies recruiting 21,379 children, published between 2001 and 2021, that assessed the accuracy of seven CDRs (NEXUS, Canadian C-Spine Rule, PECARN retrospective criteria, NICE guidelines CG56 and CG176, Leonard de novo model and PEDSPINE) to evaluate CSIs following blunt trauma in children."
+    },
+    {
+      "heading": "Main results",
+      "text": "There is currently insufficient evidence to determine which CDRs are most effective at detecting CSIs following blunt trauma in children, particularly for those younger than eight years of age. Although most CDRs accurately identified children who had a CSI (called high sensitivity), they frequently did not correctly identify children who did not have a CSI (called low specificity). If these CDRs were applied as a rule, a large proportion of children without CSI attending the emergency department for a blunt trauma assessment would receive imaging potentially exposing them to unnecessary radiation. These CDRs are at best a guide to clinical assessment with current evidence not supporting strict use of CDRs in trauma care for children. More research is needed to evaluate the accuracy of CDRs for use in cervical spine assessment in children."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The quality of the studies was variable as there were differences in the children recruited, the number of CSIs, and the methods used making us uncertain about the results. There are currently two large ongoing studies that should contribute to the evidence of the accuracy of CDRs in children."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is up to date to 13 December 2022."
+    }
+  ]
+}

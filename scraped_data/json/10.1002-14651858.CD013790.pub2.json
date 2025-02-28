@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD013790.pub2",
+  "name": "Heated tobacco products for smoking cessation and reducing smoking prevalence",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Heated tobacco products (HTPs) are designed to heat tobacco to a high enough temperature to release aerosol, without burning it or producing smoke. They differ from e-cigarettes because they heat tobacco leaf/sheet rather than a liquid. Companies who make HTPs claim they produce fewer harmful chemicals than conventional cigarettes. Some people report stopping smoking cigarettes entirely by switching to using HTPs, so clinicians need to know whether they are effective for this purpose and relatively safe. Also, to regulate HTPs appropriately, policymakers should understand their impact on health and on cigarette smoking prevalence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of HTPs for smoking cessation and the impact of HTPs on smoking prevalence."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group's Specialised Register, CENTRAL, MEDLINE, and six other databases for relevant records to January 2021, together with reference-checking and contact with study authors and relevant groups."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) in which people who smoked cigarettes were randomised to switch to exclusive HTP use or a control condition. Eligible outcomes were smoking cessation, adverse events, and selected biomarkers.  RCTs conducted in clinic or in an ambulatory setting were deemed eligible when assessing safety, including those randomising participants to exclusively use HTPs, smoke cigarettes, or attempt abstinence from all tobacco. Time-series studies were also eligible for inclusion if they examined the population-level impact of heated tobacco on smoking prevalence or cigarette sales as an indirect measure."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methods for screening and data extraction. Our primary outcome measures were abstinence from smoking at the longest follow-up point available, adverse events, serious adverse events, and changes in smoking prevalence or cigarette sales. Other outcomes included biomarkers of harm and exposure to toxicants/carcinogens (e.g. NNAL and carboxyhaemoglobin (COHb)). We used a random-effects Mantel-Haenszel model to calculate risk ratios (RR) with 95% confidence intervals (CIs) for dichotomous outcomes. For continuous outcomes, we calculated mean differences on the log-transformed scale (LMD) with 95% CIs. We pooled data across studies using meta-analysis where possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 13 completed studies, of which 11 were RCTs assessing safety (2666 participants) and two were time-series studies. We judged eight RCTs to be at unclear risk of bias and three at high risk. All RCTs were funded by tobacco companies. Median length of follow-up was 13 weeks.\nNo studies reported smoking cessation outcomes.\nThere was insufficient evidence for a difference in risk of adverse events between smokers randomised to switch to heated tobacco or continue smoking cigarettes, limited by imprecision and risk of bias (RR 1.03, 95% CI 0.92 to 1.15; I2 = 0%; 6 studies, 1713 participants). There was insufficient evidence to determine whether risk of serious adverse events differed between groups due to very serious imprecision and risk of bias (RR 0.79, 95% CI 0.33 to 1.94; I2 = 0%; 4 studies, 1472 participants). There was moderate-certainty evidence for lower NNAL and COHb at follow-up in heated tobacco than cigarette smoking groups, limited by risk of bias (NNAL: LMD −0.81, 95% CI −1.07 to −0.55; I2 = 92%; 10 studies, 1959 participants; COHb: LMD −0.74, 95% CI −0.92 to −0.52; I2 = 96%; 9 studies, 1807 participants). Evidence for additional biomarkers of exposure are reported in the main body of the review.\nThere was insufficient evidence for a difference in risk of adverse events in smokers randomised to switch to heated tobacco or attempt abstinence from all tobacco, limited by risk of bias and imprecision (RR 1.12, 95% CI 0.86 to 1.46; I2 = 0%; 2 studies, 237 participants). Five studies reported that no serious adverse events occurred in either group (533 participants). There was moderate-certainty evidence, limited by risk of bias, that urine concentrations of NNAL at follow-up were higher in the heated tobacco use compared with abstinence group (LMD 0.50, 95% CI 0.34 to 0.66; I2 = 0%; 5 studies, 382 participants). In addition, there was very low-certainty evidence, limited by risk of bias, inconsistency, and imprecision, for higher COHb in the heated tobacco use compared with abstinence group for intention-to-treat analyses (LMD 0.69, 95% CI 0.07 to 1.31; 3 studies, 212 participants), but lower COHb in per-protocol analyses (LMD −0.32, 95% CI −1.04 to 0.39; 2 studies, 170 participants). Evidence concerning additional biomarkers is reported in the main body of the review.\nData from two time-series studies showed that the rate of decline in cigarette sales accelerated following the introduction of heated tobacco to market in Japan. This evidence was of very low-certainty as there was risk of bias, including possible confounding, and cigarette sales are an indirect measure of smoking prevalence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No studies reported on cigarette smoking cessation, so the effectiveness of heated tobacco for this purpose remains uncertain. There was insufficient evidence for differences in risk of adverse or serious adverse events between people randomised to switch to heated tobacco, smoke cigarettes, or attempt tobacco abstinence in the short-term. There was moderate-certainty evidence that heated tobacco users have lower exposure to toxicants/carcinogens than cigarette smokers and very low- to moderate-certainty evidence of higher exposure than those attempting abstinence from  all tobacco. Independently funded research on the effectiveness and safety of HTPs is needed.\nThe rate of decline in cigarette sales accelerated after the introduction of heated tobacco to market in Japan but, as data were observational, it is possible other factors caused these changes. Moreover, falls in cigarette sales may not translate to declining smoking prevalence, and changes in Japan may not generalise elsewhere. To clarify the impact of rising heated tobacco use on smoking prevalence, there is a need for time-series studies that examine this association."
+    }
+  ],
+  "pls_title": "Do heated tobacco products help people to quit smoking, are they safe for this purpose, and have they led to falls in smoking rates?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Heated tobacco probably exposes people to fewer toxins than cigarettes, but possibly more than not using any tobacco. Falls in cigarette sales appeared to speed up following the launch of heated tobacco in Japan, but we are uncertain whether this is caused by people switching from cigarettes to heated tobacco.\nWe need more independently funded research into whether heated tobacco helps people stop smoking, whether it results in unwanted effects, and the impact of rising heated tobacco use on smoking rates."
+    },
+    {
+      "heading": "What are heated tobacco products?",
+      "text": "Heated tobacco products are designed to heat tobacco to a high enough temperature to release vapour, without burning it or producing smoke. They differ from e-cigarettes because they heat tobacco leaf/sheet rather than a liquid. Many of the harmful chemicals in cigarette smoke are created by burning tobacco. So heating not burning tobacco could reduce the amount of chemicals a user ingests. Some people report stopping smoking cigarettes entirely by switching to using heated tobacco."
+    },
+    {
+      "heading": "Why we did this Cochrane Review",
+      "text": "Because cigarette smoking is addictive, many people find it difficult to stop despite the harm it causes. We aimed to find out whether trying to switch to heated tobacco helps people stop smoking cigarettes, and whether it results in unwanted effects. We also wanted to find out whether rising heated tobacco use has affected smoking rates or cigarette sales."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked for studies that reported on the use of heated tobacco for stopping smoking, and on unwanted effects and toxin exposure in people asked to use heated tobacco. Here we only included randomised controlled trials, where treatments were given to people at random. This type of study is considered the most reliable way of determining if a treatment works. Finally, we searched for studies looking at changes in smoking rates and cigarette sales following the launch of heated tobacco to market. We included studies published up to January 2021."
+    },
+    {
+      "heading": "What we found",
+      "text": "Our search found 13 relevant studies. No studies reported whether heated tobacco helps people stop smoking cigarettes. Eleven trials, all funded by tobacco companies and with 2666 adult smokers, compared unwanted effects and toxin levels in people randomly assigned to use heated tobacco or to continue smoking cigarettes or abstain from tobacco use.\nTwo studies looked at how trends in cigarette sales changed following the launch of heated tobacco in Japan."
+    },
+    {
+      "heading": "What are the results of our review?",
+      "text": "We do not know whether using heated tobacco helps people to stop smoking cigarettes (no studies measured this).\nWe are uncertain whether the chances of getting unwanted symptoms from being asked to use heated tobacco are different compared with cigarettes (6 studies, 1713 participants) or no tobacco (2 studies, 237 participants). Serious unwanted symptoms in the short time period studied (average 13 weeks) were rare in all groups, which means we are uncertain about any differences. Toxin levels were probably lower in people using heated tobacco than those smoking cigarettes (10 studies, 1959 participants), but may be higher than in people not using any tobacco products (5 studies, 382 participants).\nThe launch of heated tobacco products in Japan may have caused the decline in cigarette sales to speed up over time (two studies), but it is unclear whether the fall in the percentage of people who smoke also sped up because no studies looked at this."
+    },
+    {
+      "heading": "How reliable are these results?",
+      "text": "Results are based on data from a small number of studies, most of which were funded by tobacco companies.\nResults on unwanted effects are likely to change as more evidence becomes available. However, we are moderately confident that levels of measured toxins are lower in people using heated tobacco than smoking cigarettes, but less confident that levels were higher than in people not using any tobacco. We are also less confident that the launch of heated tobacco caused the fall in cigarette sales to speed up, as results came from a single country."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008788.pub3",
+  "name": "Abdominal drainage versus no drainage post‐gastrectomy for gastric cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Gastrectomy remains the primary therapeutic method for resectable gastric cancer. Thought of as an important measure to reduce post-operative complications and mortality, abdominal drainage has been used widely after gastrectomy for gastric cancer in previous decades. The benefits of abdominal drainage have been questioned by researchers in recent years."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objectives of this review were to assess the benefits and harms of routine abdominal drainage post-gastrectomy for gastric cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Upper Gastrointestinal and Pancreatic Diseases (UGPD) Group Specialised Register and the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (2014, Issue 11); MEDLINE (via PubMed) (1950 to November 2014); EMBASE (1980 to November 2014); and the Chinese National Knowledge Infrastructure (CNKI) Database (1979 to November 2014)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing an abdominal drain versus no drain in patients who had undergone gastrectomy (not considering the scale of gastrectomy and the extent of lymphadenectomy); irrespective of language, publication status, and the type of drain. We excluded RCTs comparing one drain with another."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We adhered to the standard methodological procedures of The Cochrane Collaboration. From each included trial, we extracted the data on the methodological quality and characteristics of the participants, mortality (30-day mortality), re-operations, post-operative complications (pneumonia, wound infection, intra-abdominal abscess, anastomotic leak, drain-related complications), operation time, length of post-operative hospital stay, and initiation of a soft diet. For dichotomous data, we calculated the risk ratio (RR) and 95% confidence interval (CI). For continuous data, we calculated mean difference (MD) and 95% CI. We tested heterogeneity using the Chi2 test. We used a fixed-effect model for data analysis with RevMan software, but we used a random-effects model if the P value of the Chi2 test was less than 0.1."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four RCTs involving 438 patients (220 patients in the drain group and 218 in the no-drain group). There was no evidence of a difference between the two groups in mortality (RR 1.73, 95% CI 0.38 to 7.84); re-operations (RR 2.49, 95% CI 0.71 to 8.74); post-operative complications (pneumonia: RR 1.18, 95% CI 0.55 to 2.54; wound infection: RR 1.23, 95% CI 0.47 to 3.23; intra-abdominal abscess: RR 1.27, 95% CI 0.29 to 5.51; anastomotic leak: RR 0.93, 95% CI 0.06 to 14.47); or initiation of soft diet (MD 0.15 days, 95% CI -0.07 to 0.37). However, the addition of a drain prolonged the operation time (MD 9.07 min, 95% CI 2.56 to 15.57) and post-operative hospital stay (MD 0.69 day, 95% CI 0.18 to 1.21) and led to drain-related complications. Additionally, we should note that 30-day mortality and re-operations are very rare events and, as a result, very large numbers of patients would be required to make any sensible conclusions about whether the two groups were similar. The overall quality of the evidence according to the GRADE approach was 'very low' for mortality and re-operations, and 'low' for post-operative complications, operation time, and post-operative length of stay."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no convincing evidence to support routine drain use after gastrectomy for gastric cancer."
+    }
+  ],
+  "pls_title": "Inserting a drain after gastrectomy for gastric cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Gastrectomy remains the primary therapeutic method for resectable gastric cancer. It is believed that abdominal drains can help in the earlier detection and drainage of anastomotic fistulas and the prevention of intra-abdominal abscesses. There is no consensus on the routine placement of abdominal drainage after gastrectomy for gastric cancer."
+    },
+    {
+      "heading": "Review question",
+      "text": "To assess the benefits and harms of routine abdominal drainage post-gastrectomy for gastric cancer, we included randomised controlled trials (RCTs) that compared inserting an abdominal drain versus no drain in patients with gastric cancer who had undergone gastrectomy. The main outcomes included deaths (30-day mortality), re-operations, post-operative complications, operation time, length of post-operative hospital stay, and time of initiation of a soft diet."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review included four RCTs involving 438 patients that investigated the benefits and harms of routine abdominal drainage post-gastrectomy for gastric cancer."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no evidence of a difference between the two groups in deaths, post-operative complications, and initiation of a soft diet. The results showed that drains increased harms by prolonging operation time and post-operative hospital stay, and led to drain-related complications without providing any additional benefit for patients with gastric cancer undergoing gastrectomy. There was no convincing evidence to support the routine use of drains after gastrectomy for gastric cancer."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The overall quality of the evidence according to the GRADE approach was 'very low' for deaths and re-operations, and 'low' for post-operative complications, operation time, and post-operative length of stay. This review included only four RCTs, and not all of the included studies reported all outcomes that we were assessing. Therefore, the quality was mainly limited by insufficient data."
+    }
+  ]
+}

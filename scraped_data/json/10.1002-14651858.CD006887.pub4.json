@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006887.pub4",
+  "name": "Risk scoring for the primary prevention of cardiovascular disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The current paradigm for cardiovascular disease (CVD) emphasises absolute risk assessment to guide treatment decisions in primary prevention. Although the derivation and validation of multivariable risk assessment tools, or CVD risk scores, have attracted considerable attention, their effect on clinical outcomes is uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of evaluating and providing CVD risk scores in adults without prevalent CVD on cardiovascular outcomes, risk factor levels, preventive medication prescribing, and health behaviours."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library (2016, Issue 2), MEDLINE Ovid (1946 to March week 1 2016), Embase (embase.com) (1974 to 15 March 2016), and Conference Proceedings Citation Index-Science (CPCI-S) (1990 to 15 March 2016). We imposed no language restrictions. We searched clinical trial registers in March 2016 and handsearched reference lists of primary studies to identify additional reports."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised and quasi-randomised trials comparing the systematic provision of CVD risk scores by a clinician, healthcare professional, or healthcare system compared with usual care (i.e. no systematic provision of CVD risk scores) in adults without CVD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently selected studies, extracted data, and evaluated study quality. We used the Cochrane 'Risk of bias' tool to assess study limitations. The primary outcomes were: CVD events, change in CVD risk factor levels (total cholesterol, systolic blood pressure, and multivariable CVD risk), and adverse events. Secondary outcomes included: lipid-lowering and antihypertensive medication prescribing in higher-risk people. We calculated risk ratios (RR) for dichotomous data and mean differences (MD) or standardised mean differences (SMD) for continuous data using 95% confidence intervals. We used a fixed-effects model when heterogeneity (I²) was at least 50% and a random-effects model for substantial heterogeneity (I² > 50%). We evaluated the quality of evidence using the GRADE framework."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 41 randomised controlled trials (RCTs) involving 194,035 participants from 6422 reports. We assessed studies as having high or unclear risk of bias across multiple domains. Low-quality evidence evidence suggests that providing CVD risk scores may have little or no effect on CVD events compared with usual care (5.4% versus 5.3%; RR 1.01, 95% confidence interval (CI) 0.95 to 1.08; I² = 25%; 3 trials, N = 99,070). Providing CVD risk scores may reduce CVD risk factor levels by a small amount compared with usual care. Providing CVD risk scores reduced total cholesterol (MD −0.10 mmol/L, 95% CI −0.20 to 0.00; I² = 94%; 12 trials, N = 20,437, low-quality evidence), systolic blood pressure (MD −2.77 mmHg, 95% CI −4.16 to −1.38; I² = 93%; 16 trials, N = 32,954, low-quality evidence), and multivariable CVD risk (SMD −0.21, 95% CI −0.39 to −0.02; I² = 94%; 9 trials, N = 9549, low-quality evidence). Providing CVD risk scores may reduce adverse events compared with usual care, but results were imprecise (1.9% versus 2.7%; RR 0.72, 95% CI 0.49 to 1.04; I² = 0%; 4 trials, N = 4630, low-quality evidence). Compared with usual care, providing CVD risk scores may increase new or intensified lipid-lowering medications (15.7% versus 10.7%; RR 1.47, 95% CI 1.15 to 1.87; I² = 40%; 11 trials, N = 14,175, low-quality evidence) and increase new or increased antihypertensive medications (17.2% versus 11.4%; RR 1.51, 95% CI 1.08 to 2.11; I² = 53%; 8 trials, N = 13,255, low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is uncertainty whether current strategies for providing CVD risk scores affect CVD events. Providing CVD risk scores may slightly reduce CVD risk factor levels and may increase preventive medication prescribing in higher-risk people without evidence of harm. There were multiple study limitations in the identified studies and substantial heterogeneity in the interventions, outcomes, and analyses, so readers should interpret results with caution. New models for implementing and evaluating CVD risk scores in adequately powered studies are needed to define the role of applying CVD risk scores in primary CVD prevention."
+    }
+  ],
+  "pls_title": "Clinical effects of cardiovascular risk scores in people without cardiovascular disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the evidence about the potential clinical benefits and harms of providing cardiovascular disease (CVD) risk scores in people without a history of heart disease or stroke?"
+    },
+    {
+      "heading": "Background",
+      "text": "Cardiovascular disease (CVD) is a group of conditions that includes heart disease and stroke. CVD prevention guidelines emphasise the use of risk scores, equations that use clinical variables to estimate the chance of a first heart attack or stroke, to guide treatment decisions in the general population. While there has been much attention to developing different types of CVD risk scores, there is uncertainty about the effects of providing a CVD risk score in clinical practice.\nThe aim of this systematic review was to assess the effects of evaluating CVD risk scores in adults without a history of heart disease or stroke on cardiovascular outcomes, risk factor levels, preventive medication prescribing, and health behaviours."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases for randomised trials (clinical studies that randomly put people into different treatment groups) that systematically provided CVD risk scores or usual care to adults without a history of heart disease or stroke. The evidence is current to March 2016. Funding for the majority of trials came from government sources or pharmaceutical companies."
+    },
+    {
+      "heading": "Key results",
+      "text": "We identified 41 trials that included 194,035 participants. Many of the studies had limitations. Low-quality evidence suggests that providing CVD risk scores had little or no effect on the number of people who develop heart disease or stroke. Providing CVD risk scores may reduce CVD risk factor levels (like cholesterol, blood pressure, and multivariable CVD risk) by a small amount and may increase cholesterol-lowering and blood pressure-lowering medication prescribing in higher risk people. Providing CVD risk scores may reduce harms, but the results were imprecise."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is low-quality evidence to guide the use of CVD risk scores in clinical practice. Studies had multiple limitations and used different methods to provide CVD risk scores. It is likely that further research will influence these results."
+    }
+  ]
+}

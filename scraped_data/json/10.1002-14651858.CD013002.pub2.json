@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD013002.pub2",
+  "name": "Mechanical assist devices for acute cardiogenic shock",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cardiogenic shock (CS) is a state of critical end-organ hypoperfusion due to a primary cardiac disorder. For people with refractory CS despite maximal vasopressors, inotropic support and intra-aortic balloon pump, mortality approaches 100%. Mechanical assist devices provide mechanical circulatory support (MCS) which has the ability to maintain vital organ perfusion, to unload the failing ventricle thus reduce intracardiac filling pressures which reduces pulmonary congestion, myocardial wall stress and myocardial oxygen consumption. This has been hypothesised to allow time for myocardial recovery (bridge to recovery) or allow time to come to a decision as to whether the person is a candidate for a longer-term ventricular assist device (VAD) either as a bridge to heart transplantation or as a destination therapy with a long-term VAD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether mechanical assist devices improve survival in people with acute cardiogenic shock."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and Web of Science Core Collection in November 2019. In addition, we searched three trials registers in August 2019. We scanned reference lists and contacted experts in the field to obtain further information. There were no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials on people with acute CS comparing mechanical assist devices with best current intensive care management, including intra-aortic balloon pump and inotropic support."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We performed data collection and analysis according to the published protocol.\nPrimary outcomes were survival to discharge, 30 days, 1 year and secondary outcomes included, quality of life, major adverse cardiovascular events (30 days/end of follow-up), dialysis-dependent (30 days/end of follow-up), length of hospital stay and length of intensive care unit stay and major adverse events.\nWe used the five GRADE considerations (study limitations, consistency of effect, imprecision, indirectness, and publication bias) to assess the quality of a body of evidence as it relates to the studies which contribute data to the meta-analyses for the prespecified outcomes\nSummary statistics for the primary endpoints were risk ratios (RR), hazard ratios (HRs) and odds ratios (ORs) with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified five studies from 4534 original citations reviewed. Two studies included acute CS of all causes randomised to treatment using TandemHeart percutaneous VAD and three studies included people with CS secondary to acute myocardial infarction who were randomised to Impella CP or best medical management. Meta-analysis was performed only to assess the 30-day survival as there were insufficient data to perform any further meta-analyses. The results from the five studies with 162 participants showed mechanical assist devices may have little or no effect on 30-day survival (RR of 1.01 95% CI 0.76 to 1.35) but the evidence is very uncertain.\nComplications such as sepsis, thromboembolic phenomena, bleeding and major adverse cardiovascular events were not infrequent in both the MAD and control group across the studies, but these could not be pooled due to inconsistencies in adverse event definitions and reporting.\nWe identified four randomised control trials assessing mechanical assist devices in acute CS that are currently ongoing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no evidence from this review of a benefit from MCS in improving survival for people with acute CS. Further use of the technology, risk stratification and optimising the use protocols have been highlighted as potential reasons for lack of benefit and are being addressed in the current ongoing clinical trials."
+    }
+  ],
+  "pls_title": "Mechanical heart pumps to aid a heart that fails suddenly",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Conditions that prevent the heart pumping effectively remain the leading cause of death globally. A heart attack is the most common condition that causes the heart pump to fail (called cardiogenic shock), but other causes exist such as viral infections, heart valve disease and problems with the muscle. When the heart muscle has been damaged so extensively that it can no longer pump effectively function has to be improved or organ damage and death will occur. Even with the best treatments that we currently have, the risk of dying is extremely high. Mechanical assist devices that can help the heart to pump more effectively have been developed so that the heart can recover from the insult.\nHowever, the evidence for these treatments is scare and the aim of this review is to assess if these devices do help more people to survive. We assessed randomised control trials (clinical studies where people are randomly put into one of two or more treatment groups) where these devices were used and compare the outcome of these people to those who did not receive a device and received best medical treatment (with medicines to help the heart to pump)."
+    },
+    {
+      "heading": "Results",
+      "text": "The evidence is current to 25 November 2019.\nWe identified five trials that enrolled 162 people in shock due to their heart failing. These people were randomised to using mechanical assist devices with current best management practice or current best medical management alone (which includes medicines to help the heart to pump more effectively).\nThe quality of the evidence was very low, due to difficulties in accounting for biases (one cannot hide the fact that a person receives a mechanical assist device, difficulty in enrolling participants, gaining consent when a person is very close to dying, and variations in the protocols on the timing of the devices and the types of devices used).\nFrom the data, there was little or no effect on survival at 30 days if a device was used alongside current best medical management or current best medical management alone. However, we are uncertain about these findings.\nComplications such as sepsis, thromboembolic phenomena, bleeding and major adverse cardiovascular events were not infrequent in both the MAD and control group across the studies, but these could not be pooled due to inconsistencies in adverse event definitions and reporting.\nCurrently there are four ongoing trials. They are assessing if they can improve outcomes by selecting the people who would most likely have a benefit."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "In conclusion, this review was unable to assess if mechanical assist devices help people with cardiogenic shock due to their heart failing. We await the results of the ongoing trials, which we anticipate will help clarify whether these devices will help people to survive with a full recovery or not."
+    }
+  ]
+}

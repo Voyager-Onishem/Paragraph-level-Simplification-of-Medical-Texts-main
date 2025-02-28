@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004787.pub2",
+  "name": "Transarterial (chemo)embolisation for unresectable hepatocellular carcinoma",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hepatocellular carcinoma (HCC) results in more than 600,000 deaths per year. Transarterial embolisation (TAE) and transarterial chemoembolisation (TACE) have become standard loco-regional treatments for unresectable HCC."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the beneficial and harmful effects of TACE or TAE."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Hepato-Biliary Group Controlled Trials Register , The Cochrane Cancer Network Register , The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE , EMBASE , Science Citation Index Expanded , and The Latin American Caribbean Health Sciences Literature (LILACS) from dates of inceptions up to September 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion all randomised trials that compared TACE or TAE versus placebo, sham, or no intervention. Co-interventions were allowed if comparable between intervention groups. Trials with inadequate randomisation were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For all-cause mortality, we calculated the log hazard ratio (HR) with standard error as point estimate and pooled them for meta-analysis using the inverse variance method. Sub-group analyses were performed regarding intervention regimen, trial truncation, or co-interventions. We validated the results with trial sequential analyses. We used random-effects model in all meta-analyses in anticipation of statistical heterogeneity among the trials."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine trials with 645 participants. Six trials assessed TACE versus control and three trials assessed TAE versus control. Seven trials had low risk of selection bias based on adequate generation of allocation sequence and concealment - but all these trials had other risks of bias. Three trials were stopped early due to interim inspections and one due to slow accrual. For all-cause mortality, statistical heterogeneity between trials was low to moderate (I2= 30%). Meta-analysis of trials with low risk of selection bias showed that TACE or TAE versus control does not significantly increase survival (HR 0.88; 95% CI 0.71 to 1.10). Two trials with low risk of selection bias, no early stopping, and no co-intervention did not establish any significant effect of TACE or TAE on overall survival (hazard ratio 1.22, 95% confidence interval 0.82 to 1.83; P = 0.33). Trial sequential analysis confirmed the absence of evidence for a beneficial effect of TACE or TAE on survival indicating the need for future randomisation of up to 383 additional participants. Substantial differences in criteria for assessing tumour response did not allow quantitative analyses. One trial investigated quality of life but did not detect any significant differences between the intervention groups. A range of adverse events including post-embolisation syndrome and serious complications were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no firm evidence to support or refute TACE or TAE for patients with unresectable HCC. More adequately powered and bias-protected trials are needed."
+    }
+  ],
+  "pls_title": "Transarterial (chemo)embolisation for unresectable hepatocellular carcinoma",
+  "pls_type": "long",
+  "pls": "Hepatocellular carcinoma (HCC) is the fifth most common cancer worldwide and the third most common cause of death from cancer. Several interventions have been tried in order to prolong survival and improve quality of life for such patients. During the last 20 years, transarterial embolisation (TAE) and transarterial chemoembolisation (TACE) have gained considerable attention and have been advocated as standard loco-regional treatment for unresectable HCC. The review included nine trials with 645 participants. Six trials assessed TACE versus control and three trials assessed TAE versus control. All trials had risks of systematic errors ('bias'). Contrary to current practice in many hospitals, we could not demonstrate any beneficial effect of TACE or TAE on either survival or tumour growth in patients with primary liver cancer not suitable for surgical resection. Furthermore, we calculated that more clinical trials involving a further 383 trial participants may be needed before firm evidence may become available. Importantly, TACE or TAE is associated with a wide range of adverse events, some being potentially serious. Accordingly, we recommend that TACE or TAE should not be used as standard treatment for liver cancer until firmer evidence is available from randomised clinical trials."
+}

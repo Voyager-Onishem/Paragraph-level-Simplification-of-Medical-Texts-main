@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD006419.pub4",
+  "name": "Antihelminthics in helminth‐endemic areas: effects on HIV disease progression",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Helminth infections, such as soil-transmitted helminths, schistosomiasis, onchocerciasis, and lymphatic filariasis, are prevalent in many countries where human immunodeficiency virus (HIV) infection is also common. There is some evidence from observational studies that HIV and helminth co-infection may be associated with higher viral load and lower CD4+ cell counts. Treatment of helminth infections with antihelminthics (deworming drugs) may have benefits for people living with HIV beyond simply clearance of worm infections.\nThis is an update of a Cochrane Review published in 2009 and we have expanded it to include outcomes of anaemia and adverse events."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of deworming drugs (antihelminthic therapy) on markers of HIV disease progression, anaemia, and adverse events in children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In this review update, we searched online for published and unpublished studies in the Cochrane Library, MEDLINE, EMBASE, CENTRAL, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICRTP), ClinicalTrials.gov, and the WHO Global Health Library up to 29 September 2015. We also searched databases listing conference abstracts, scanned reference lists of articles, and contacted the authors of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomized controlled trials (RCTs) that compared antihelminthic drugs with placebo or no intervention in HIV-positive people."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed trials for eligibility and risk of bias. The primary outcomes were changes in HIV viral load and CD4+ cell count, and secondary outcomes were anaemia, iron deficiency, adverse events, and mortality events. We compared the effects of deworming using mean differences, risk ratios (RR), and 95% confidence intervals (CIs). We assessed the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight trials met the inclusion criteria of this review, enrolling a total of 1612 participants. Three trials evaluated the effect of providing antihelminthics to all adults with HIV without knowledge of their helminth infection status, and five trials evaluated the effects of providing deworming drugs to HIV-positive individuals with confirmed helminth infections. Seven trials were conducted in sub-Saharan Africa and one in Thailand.\nAntihelminthics for people with unknown helminth infection status\nProviding antihelminthics (albendazole and praziquantel together or separately) to HIV-positive adults with unknown helminth infection status may have a small suppressive effect on mean viral load at six weeks but the 95% CI includes the possibility of no effect (difference in mean change −0.14 log10 viral RNA/mL, 95% CI −0.35 to 0.07, P = 0.19; one trial, 166 participants, low quality evidence).\nRepeated dosing with deworming drugs over two years (albendazole every three months plus annual praziquantel), probably has little or no effect on mean viral load (difference in mean change 0.01 log10 viral RNA, 95% CI: −0.03 to −0.05; one trial, 917 participants, moderate quality evidence ), and little or no effect on mean CD4+ count (difference in mean change 2.60 CD4+ cells/µL, 95% CI −10.15 to 15.35; P = 0.7; one trial, 917 participants, low quality evidence).\nAntihelminthics for people with confirmed helminth infections\nTreating confirmed helminth infections in HIV-positive adults may have a small suppressive effect on mean viral load at six to 12 weeks following deworming (difference in mean change −0.13 log10 viral RNA, 95% CI −0.26 to −0.00; P = 0.04; four trials, 445 participants, low quality evidence ). However, this finding is strongly influenced by a single study of praziquantel treatment for schistosomiasis. There may also be a small favourable effect on mean CD4+ cell count at 12 weeks after deworming in HIV-positive populations with confirmed helminth infections (difference in mean change 37.86 CD4+ cells/µL, 95% CI 7.36 to 68.35; P = 0.01; three trials, 358 participants, low quality evidence).\nAdverse events and mortality\nThere is no indication that antihelminthic drugs impart additional risks in HIV-positive populations. However, adverse events were not well reported (very low quality evidence ) and trials were underpowered to evaluate effects on mortality (low quality evidence )."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is low quality evidence that treating confirmed helminth infections in HIV-positive adults may have small, short-term favourable effects on markers of HIV disease progression. Further studies are required to confirm this finding. Current evidence suggests that deworming with antihelminthics is not harmful, and this is reassuring for the routine treatment of confirmed or suspected helminth infections in people living with HIV in co-endemic areas.\nFurther long-term studies are required to make confident conclusions regarding the impact of presumptively deworming all HIV-positive individuals irrespective of helminth infection status, as the only long-term trial to date did not demonstrate an effect."
+    }
+  ],
+  "pls_title": "Antihelminthics in helminth endemic areas: effects on HIV infection",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This Cochrane Review summarizes trials that evaluated the benefits and potential risks of providing deworming drugs (antihelminthics) to people infected with human immunodeficiency virus (HIV). After we searched for relevant trials up to 29 September 2015 we included eight trials that enrolled 1612 participants."
+    },
+    {
+      "heading": "What are deworming drugs and why might they delay HIV disease progression",
+      "text": "Deworming drugs are used to treat a variety of human helminth infections, such as soil-transmitted helminths, schistosomiasis, onchocerciasis, and lymphatic filariasis. In areas where these infections are common, the World Health Organization currently recommends that targeted populations are routinely treated every six to 12 months without prior confirmation of an individual's infection status. The use of empiric therapy, or treating all at-risk populations presumptively, is preferred to test-and-treat strategies because deworming drugs are inexpensive and well tolerated. Additionally, a strategy of testing before treatment is considered less cost-effective given that available diagnostic tests are relatively expensive and can exhibit poor sensitivity.\nHelminth infections are known to affect the human immune system. In people with HIV, some studies have suggested that helminth infections may reduce the number of CD4+ cells (which are a critical part of the immune response to HIV) and compromise a person's ability to control HIV viral replication. Thus, treatment of helminth infections could have important benefits for people living with HIV beyond the benefits observed in the general population as a result of deworming."
+    },
+    {
+      "heading": "What the evidence in this review suggests",
+      "text": "Treating all HIV-positive adults with deworming drugs without knowledge of their helminth infection status may have a small suppressive effect on viral load at six weeks (low quality evidence ), but repeated dosing over two years appears to have little or no effect on either viral load (moderate quality evidence ) or CD4+ cell count (low quality evidence). These findings are based on two included studies.\nProviding deworming drugs to HIV-positive adults with diagnosed helminth infection may result in a small suppressive effect on mean viral load at six to 12 weeks (low quality evidence ) and a small favourable effect on mean CD4+ cell count at 12 weeks (low quality evidence). However, these findings are based on small studies and are strongly influenced by a single study of praziquantel for schistosomiasis. Further studies from different settings and populations are needed for confirmation.\nAdverse events were not well reported (very low quality evidence), and trials were too small to evaluate the effects on mortality (low quality evidence ). However there is no suggestion that deworming drugs are harmful for HIV-positive individuals."
+    }
+  ]
+}

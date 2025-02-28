@@ -1,0 +1,699 @@
+2025-02-28 13:27:58,203 - INFO - Script started
+2025-02-28 13:27:58,203 - INFO - Starting main processing function
+2025-02-28 13:27:58,203 - INFO - Attempting to repair scraped_data/data.json...
+2025-02-28 13:28:17,026 - INFO - Successfully loaded 3890 articles from individual JSON files
+2025-02-28 13:28:18,096 - INFO - Successfully repaired scraped_data/data.json
+2025-02-28 13:28:18,129 - INFO - Starting data processing from file: scraped_data/data.json
+2025-02-28 13:28:18,693 - INFO - Successfully loaded 3890 articles from scraped_data/data.json
+2025-02-28 13:28:18,699 - INFO - Processing abstracts...
+2025-02-28 13:28:18,738 - INFO - Processed 3890 abstracts
+2025-02-28 13:28:18,753 - INFO - Filtered by length: 3890 → 3750 articles
+2025-02-28 13:28:18,763 - INFO - Split by type: 1610 long summaries, 2140 sectioned summaries
+2025-02-28 13:28:18,772 - INFO - Split long summaries: 827 single paragraph, 783 multi paragraph
+2025-02-28 13:28:18,772 - INFO - Processing single paragraph summaries...
+2025-02-28 13:29:04,221 - INFO - Processing multi-paragraph summaries...
+2025-02-28 13:30:14,969 - INFO - Filtered empty summaries: Single 827 → 827, Multi 783 → 783
+2025-02-28 13:30:14,973 - INFO - Processing sectioned summaries...
+2025-02-28 13:30:15,003 - INFO - Filtered empty sectioned summaries: 2140 → 1817
+2025-02-28 13:30:15,027 - INFO - Filtered by length ratio: Single 827 → 696
+2025-02-28 13:30:15,027 - INFO - Filtered by length ratio: Multi 783 → 610
+2025-02-28 13:30:15,027 - INFO - Filtered by length ratio: Sectioned 1817 → 1768
+2025-02-28 13:30:15,027 - INFO - Combined data: 3074 total articles
+2025-02-28 13:30:15,027 - INFO - Loading BART tokenizer...
+2025-02-28 13:30:18,884 - INFO - Tokenizer loaded successfully
+2025-02-28 13:30:18,888 - INFO - Processing articles for token length...
+2025-02-28 13:30:18,888 - INFO - Processing article 1/3074
+2025-02-28 13:30:19,268 - INFO - Processing article 11/3074
+2025-02-28 13:30:19,648 - INFO - Processing article 21/3074
+2025-02-28 13:30:20,081 - INFO - Processing article 31/3074
+2025-02-28 13:30:20,421 - INFO - Processing article 41/3074
+2025-02-28 13:30:20,581 - INFO - Article 44: Abstract tokens: 1093, PLS tokens: 257 - Truncating
+2025-02-28 13:30:20,873 - INFO - Processing article 51/3074
+2025-02-28 13:30:20,951 - INFO - Article 53: Abstract tokens: 1033, PLS tokens: 118 - Truncating
+2025-02-28 13:30:21,293 - INFO - Processing article 61/3074
+2025-02-28 13:30:21,818 - INFO - Processing article 71/3074
+2025-02-28 13:30:22,153 - INFO - Processing article 81/3074
+2025-02-28 13:30:22,598 - INFO - Processing article 91/3074
+2025-02-28 13:30:23,004 - INFO - Processing article 101/3074
+2025-02-28 13:30:23,424 - INFO - Processing article 111/3074
+2025-02-28 13:30:23,711 - INFO - Processing article 121/3074
+2025-02-28 13:30:24,306 - INFO - Processing article 131/3074
+2025-02-28 13:30:24,690 - INFO - Processing article 141/3074
+2025-02-28 13:30:25,187 - INFO - Processing article 151/3074
+2025-02-28 13:30:25,654 - INFO - Processing article 161/3074
+2025-02-28 13:30:26,020 - INFO - Processing article 171/3074
+2025-02-28 13:30:26,329 - INFO - Processing article 181/3074
+2025-02-28 13:30:26,647 - INFO - Processing article 191/3074
+2025-02-28 13:30:27,078 - INFO - Processing article 201/3074
+2025-02-28 13:30:27,467 - INFO - Processing article 211/3074
+2025-02-28 13:30:27,855 - INFO - Processing article 221/3074
+2025-02-28 13:30:28,177 - INFO - Processing article 231/3074
+2025-02-28 13:30:28,655 - INFO - Processing article 241/3074
+2025-02-28 13:30:28,990 - INFO - Processing article 251/3074
+2025-02-28 13:30:29,275 - INFO - Processing article 261/3074
+2025-02-28 13:30:29,721 - INFO - Processing article 271/3074
+2025-02-28 13:30:30,174 - INFO - Processing article 281/3074
+2025-02-28 13:30:30,607 - INFO - Processing article 291/3074
+2025-02-28 13:30:30,985 - INFO - Processing article 301/3074
+2025-02-28 13:30:31,370 - INFO - Processing article 311/3074
+2025-02-28 13:30:31,774 - INFO - Processing article 321/3074
+2025-02-28 13:30:32,093 - INFO - Processing article 331/3074
+2025-02-28 13:30:32,393 - INFO - Processing article 341/3074
+2025-02-28 13:30:32,864 - INFO - Processing article 351/3074
+2025-02-28 13:30:33,230 - INFO - Processing article 361/3074
+2025-02-28 13:30:33,626 - INFO - Processing article 371/3074
+2025-02-28 13:30:33,992 - INFO - Processing article 381/3074
+2025-02-28 13:30:34,324 - INFO - Processing article 391/3074
+2025-02-28 13:30:34,691 - INFO - Processing article 401/3074
+2025-02-28 13:30:35,027 - INFO - Processing article 411/3074
+2025-02-28 13:30:35,466 - INFO - Processing article 421/3074
+2025-02-28 13:30:36,047 - INFO - Processing article 431/3074
+2025-02-28 13:30:36,365 - INFO - Processing article 441/3074
+2025-02-28 13:30:36,749 - INFO - Processing article 451/3074
+2025-02-28 13:30:37,081 - INFO - Processing article 461/3074
+2025-02-28 13:30:37,538 - INFO - Processing article 471/3074
+2025-02-28 13:30:37,839 - INFO - Article 478: Abstract tokens: 1062, PLS tokens: 136 - Truncating
+2025-02-28 13:30:38,043 - INFO - Processing article 481/3074
+2025-02-28 13:30:38,561 - INFO - Processing article 491/3074
+2025-02-28 13:30:38,776 - INFO - Article 496: Abstract tokens: 1120, PLS tokens: 164 - Truncating
+2025-02-28 13:30:39,154 - INFO - Processing article 501/3074
+2025-02-28 13:30:39,273 - INFO - Article 503: Abstract tokens: 1063, PLS tokens: 192 - Truncating
+2025-02-28 13:30:39,625 - INFO - Processing article 511/3074
+2025-02-28 13:30:39,999 - INFO - Processing article 521/3074
+2025-02-28 13:30:40,453 - INFO - Processing article 531/3074
+2025-02-28 13:30:40,880 - INFO - Processing article 541/3074
+2025-02-28 13:30:41,240 - INFO - Processing article 551/3074
+2025-02-28 13:30:41,553 - INFO - Processing article 561/3074
+2025-02-28 13:30:42,009 - INFO - Processing article 571/3074
+2025-02-28 13:30:42,397 - INFO - Processing article 581/3074
+2025-02-28 13:30:42,823 - INFO - Processing article 591/3074
+2025-02-28 13:30:43,299 - INFO - Processing article 601/3074
+2025-02-28 13:30:43,716 - INFO - Processing article 611/3074
+2025-02-28 13:30:44,077 - INFO - Processing article 621/3074
+2025-02-28 13:30:44,451 - INFO - Processing article 631/3074
+2025-02-28 13:30:44,935 - INFO - Processing article 641/3074
+2025-02-28 13:30:45,416 - INFO - Processing article 651/3074
+2025-02-28 13:30:45,885 - INFO - Processing article 661/3074
+2025-02-28 13:30:46,537 - INFO - Processing article 671/3074
+2025-02-28 13:30:46,966 - INFO - Processing article 681/3074
+2025-02-28 13:30:47,450 - INFO - Processing article 691/3074
+2025-02-28 13:30:47,957 - INFO - Processing article 701/3074
+2025-02-28 13:30:48,546 - INFO - Processing article 711/3074
+2025-02-28 13:30:49,114 - INFO - Processing article 721/3074
+2025-02-28 13:30:49,449 - INFO - Article 728: Abstract tokens: 1025, PLS tokens: 686 - Truncating
+2025-02-28 13:30:49,689 - INFO - Processing article 731/3074
+2025-02-28 13:30:50,344 - INFO - Processing article 741/3074
+2025-02-28 13:30:50,980 - INFO - Processing article 751/3074
+2025-02-28 13:30:51,494 - INFO - Processing article 761/3074
+2025-02-28 13:30:52,011 - INFO - Processing article 771/3074
+2025-02-28 13:30:52,147 - INFO - Article 772: Abstract tokens: 1220, PLS tokens: 279 - Truncating
+2025-02-28 13:30:52,691 - INFO - Processing article 781/3074
+2025-02-28 13:30:53,140 - INFO - Processing article 791/3074
+2025-02-28 13:30:53,656 - INFO - Processing article 801/3074
+2025-02-28 13:30:54,191 - INFO - Processing article 811/3074
+2025-02-28 13:30:54,855 - INFO - Processing article 821/3074
+2025-02-28 13:30:55,448 - INFO - Processing article 831/3074
+2025-02-28 13:30:56,054 - INFO - Processing article 841/3074
+2025-02-28 13:30:56,641 - INFO - Processing article 851/3074
+2025-02-28 13:30:57,204 - INFO - Processing article 861/3074
+2025-02-28 13:30:57,819 - INFO - Processing article 871/3074
+2025-02-28 13:30:58,107 - INFO - Article 874: Abstract tokens: 1103, PLS tokens: 347 - Truncating
+2025-02-28 13:30:58,205 - INFO - Article 875: Abstract tokens: 1242, PLS tokens: 193 - Truncating
+2025-02-28 13:30:58,454 - INFO - Processing article 881/3074
+2025-02-28 13:30:59,069 - INFO - Processing article 891/3074
+2025-02-28 13:30:59,704 - INFO - Processing article 901/3074
+2025-02-28 13:31:00,291 - INFO - Processing article 911/3074
+2025-02-28 13:31:00,826 - INFO - Processing article 921/3074
+2025-02-28 13:31:01,393 - INFO - Processing article 931/3074
+2025-02-28 13:31:02,041 - INFO - Processing article 941/3074
+2025-02-28 13:31:02,481 - INFO - Processing article 951/3074
+2025-02-28 13:31:03,124 - INFO - Processing article 961/3074
+2025-02-28 13:31:03,721 - INFO - Processing article 971/3074
+2025-02-28 13:31:04,245 - INFO - Processing article 981/3074
+2025-02-28 13:31:04,998 - INFO - Processing article 991/3074
+2025-02-28 13:31:05,682 - INFO - Processing article 1001/3074
+2025-02-28 13:31:06,240 - INFO - Processing article 1011/3074
+2025-02-28 13:31:06,932 - INFO - Processing article 1021/3074
+2025-02-28 13:31:07,265 - INFO - Article 1026: Abstract tokens: 1194, PLS tokens: 628 - Truncating
+2025-02-28 13:31:07,680 - INFO - Processing article 1031/3074
+2025-02-28 13:31:08,346 - INFO - Processing article 1041/3074
+2025-02-28 13:31:08,827 - INFO - Processing article 1051/3074
+2025-02-28 13:31:09,201 - INFO - Article 1056: Abstract tokens: 1269, PLS tokens: 192 - Truncating
+2025-02-28 13:31:09,579 - INFO - Processing article 1061/3074
+2025-02-28 13:31:10,143 - INFO - Processing article 1071/3074
+2025-02-28 13:31:10,898 - INFO - Processing article 1081/3074
+2025-02-28 13:31:11,525 - INFO - Article 1087: Abstract tokens: 1050, PLS tokens: 184 - Truncating
+2025-02-28 13:31:11,794 - INFO - Processing article 1091/3074
+2025-02-28 13:31:12,465 - INFO - Processing article 1101/3074
+2025-02-28 13:31:13,015 - INFO - Processing article 1111/3074
+2025-02-28 13:31:13,424 - INFO - Article 1118: Abstract tokens: 1050, PLS tokens: 308 - Truncating
+2025-02-28 13:31:13,815 - INFO - Processing article 1121/3074
+2025-02-28 13:31:14,401 - INFO - Processing article 1131/3074
+2025-02-28 13:31:15,028 - INFO - Article 1139: Abstract tokens: 1027, PLS tokens: 492 - Truncating
+2025-02-28 13:31:15,197 - INFO - Processing article 1141/3074
+2025-02-28 13:31:15,751 - INFO - Processing article 1151/3074
+2025-02-28 13:31:16,561 - INFO - Processing article 1161/3074
+2025-02-28 13:31:17,404 - INFO - Processing article 1171/3074
+2025-02-28 13:31:17,954 - INFO - Processing article 1181/3074
+2025-02-28 13:31:18,659 - INFO - Processing article 1191/3074
+2025-02-28 13:31:19,313 - INFO - Processing article 1201/3074
+2025-02-28 13:31:19,983 - INFO - Processing article 1211/3074
+2025-02-28 13:31:20,130 - INFO - Article 1213: Abstract tokens: 1067, PLS tokens: 348 - Truncating
+2025-02-28 13:31:20,658 - INFO - Processing article 1221/3074
+2025-02-28 13:31:21,139 - INFO - Article 1229: Abstract tokens: 1042, PLS tokens: 430 - Truncating
+2025-02-28 13:31:21,290 - INFO - Processing article 1231/3074
+2025-02-28 13:31:22,052 - INFO - Processing article 1241/3074
+2025-02-28 13:31:22,640 - INFO - Article 1248: Abstract tokens: 687, PLS tokens: 1083 - Truncating
+2025-02-28 13:31:22,880 - INFO - Processing article 1251/3074
+2025-02-28 13:31:23,606 - INFO - Article 1260: Abstract tokens: 1320, PLS tokens: 563 - Truncating
+2025-02-28 13:31:23,723 - INFO - Processing article 1261/3074
+2025-02-28 13:31:24,430 - INFO - Processing article 1271/3074
+2025-02-28 13:31:25,063 - INFO - Processing article 1281/3074
+2025-02-28 13:31:25,908 - INFO - Processing article 1291/3074
+2025-02-28 13:31:26,747 - INFO - Processing article 1301/3074
+2025-02-28 13:31:27,686 - INFO - Processing article 1311/3074
+2025-02-28 13:31:27,749 - INFO - Article 1312: Abstract tokens: 1343, PLS tokens: 376 - Truncating
+2025-02-28 13:31:28,155 - INFO - Article 1315: Abstract tokens: 1189, PLS tokens: 729 - Truncating
+2025-02-28 13:31:28,646 - INFO - Article 1318: Abstract tokens: 1052, PLS tokens: 577 - Truncating
+2025-02-28 13:31:28,842 - INFO - Article 1319: Abstract tokens: 1170, PLS tokens: 490 - Truncating
+2025-02-28 13:31:29,059 - INFO - Processing article 1321/3074
+2025-02-28 13:31:29,344 - INFO - Article 1324: Abstract tokens: 1142, PLS tokens: 260 - Truncating
+2025-02-28 13:31:29,952 - INFO - Processing article 1331/3074
+2025-02-28 13:31:30,304 - INFO - Article 1335: Abstract tokens: 1224, PLS tokens: 368 - Truncating
+2025-02-28 13:31:30,446 - INFO - Article 1336: Abstract tokens: 1392, PLS tokens: 498 - Truncating
+2025-02-28 13:31:30,807 - INFO - Article 1339: Abstract tokens: 1395, PLS tokens: 542 - Truncating
+2025-02-28 13:31:30,997 - INFO - Article 1340: Abstract tokens: 1033, PLS tokens: 520 - Truncating
+2025-02-28 13:31:31,112 - INFO - Processing article 1341/3074
+2025-02-28 13:31:31,494 - INFO - Article 1347: Abstract tokens: 1255, PLS tokens: 528 - Truncating
+2025-02-28 13:31:31,847 - INFO - Article 1350: Abstract tokens: 1294, PLS tokens: 412 - Truncating
+2025-02-28 13:31:31,974 - INFO - Processing article 1351/3074
+2025-02-28 13:31:32,531 - INFO - Article 1357: Abstract tokens: 1075, PLS tokens: 412 - Truncating
+2025-02-28 13:31:32,714 - INFO - Article 1358: Abstract tokens: 1269, PLS tokens: 665 - Truncating
+2025-02-28 13:31:32,902 - INFO - Article 1359: Abstract tokens: 1057, PLS tokens: 782 - Truncating
+2025-02-28 13:31:33,148 - INFO - Processing article 1361/3074
+2025-02-28 13:31:33,590 - INFO - Article 1366: Abstract tokens: 1298, PLS tokens: 428 - Truncating
+2025-02-28 13:31:33,774 - INFO - Article 1367: Abstract tokens: 1043, PLS tokens: 536 - Truncating
+2025-02-28 13:31:34,418 - INFO - Processing article 1371/3074
+2025-02-28 13:31:34,558 - INFO - Article 1372: Abstract tokens: 1148, PLS tokens: 210 - Truncating
+2025-02-28 13:31:34,658 - INFO - Article 1373: Abstract tokens: 1072, PLS tokens: 303 - Truncating
+2025-02-28 13:31:35,510 - INFO - Processing article 1381/3074
+2025-02-28 13:31:35,536 - INFO - Article 1381: Abstract tokens: 1096, PLS tokens: 573 - Truncating
+2025-02-28 13:31:36,073 - INFO - Article 1387: Abstract tokens: 1086, PLS tokens: 663 - Truncating
+2025-02-28 13:31:36,205 - INFO - Article 1388: Abstract tokens: 1367, PLS tokens: 454 - Truncating
+2025-02-28 13:31:36,547 - INFO - Processing article 1391/3074
+2025-02-28 13:31:37,399 - INFO - Processing article 1401/3074
+2025-02-28 13:31:37,615 - INFO - Article 1403: Abstract tokens: 1124, PLS tokens: 628 - Truncating
+2025-02-28 13:31:37,977 - INFO - Article 1406: Abstract tokens: 1210, PLS tokens: 530 - Truncating
+2025-02-28 13:31:38,182 - INFO - Article 1409: Abstract tokens: 1109, PLS tokens: 283 - Truncating
+2025-02-28 13:31:38,387 - INFO - Processing article 1411/3074
+2025-02-28 13:31:38,425 - INFO - Article 1411: Abstract tokens: 1144, PLS tokens: 510 - Truncating
+2025-02-28 13:31:38,778 - INFO - Article 1414: Abstract tokens: 1145, PLS tokens: 520 - Truncating
+2025-02-28 13:31:39,203 - INFO - Article 1419: Abstract tokens: 1256, PLS tokens: 574 - Truncating
+2025-02-28 13:31:39,407 - INFO - Processing article 1421/3074
+2025-02-28 13:31:39,775 - INFO - Article 1425: Abstract tokens: 1106, PLS tokens: 160 - Truncating
+2025-02-28 13:31:40,146 - INFO - Article 1428: Abstract tokens: 1321, PLS tokens: 695 - Truncating
+2025-02-28 13:31:40,324 - INFO - Article 1429: Abstract tokens: 1251, PLS tokens: 544 - Truncating
+2025-02-28 13:31:40,597 - INFO - Processing article 1431/3074
+2025-02-28 13:31:41,153 - INFO - Article 1437: Abstract tokens: 1085, PLS tokens: 715 - Truncating
+2025-02-28 13:31:41,434 - INFO - Processing article 1441/3074
+2025-02-28 13:31:41,455 - INFO - Article 1441: Abstract tokens: 1157, PLS tokens: 574 - Truncating
+2025-02-28 13:31:41,798 - INFO - Article 1444: Abstract tokens: 1275, PLS tokens: 228 - Truncating
+2025-02-28 13:31:42,061 - INFO - Article 1447: Abstract tokens: 1257, PLS tokens: 521 - Truncating
+2025-02-28 13:31:42,445 - INFO - Article 1450: Abstract tokens: 1255, PLS tokens: 812 - Truncating
+2025-02-28 13:31:42,610 - INFO - Processing article 1451/3074
+2025-02-28 13:31:43,349 - INFO - Article 1459: Abstract tokens: 1379, PLS tokens: 553 - Truncating
+2025-02-28 13:31:43,563 - INFO - Processing article 1461/3074
+2025-02-28 13:31:43,594 - INFO - Article 1461: Abstract tokens: 1361, PLS tokens: 585 - Truncating
+2025-02-28 13:31:43,743 - INFO - Article 1462: Abstract tokens: 1261, PLS tokens: 472 - Truncating
+2025-02-28 13:31:43,910 - INFO - Article 1463: Abstract tokens: 1133, PLS tokens: 526 - Truncating
+2025-02-28 13:31:44,602 - INFO - Processing article 1471/3074
+2025-02-28 13:31:45,011 - INFO - Article 1474: Abstract tokens: 1216, PLS tokens: 361 - Truncating
+2025-02-28 13:31:45,152 - INFO - Article 1475: Abstract tokens: 1165, PLS tokens: 307 - Truncating
+2025-02-28 13:31:45,493 - INFO - Article 1478: Abstract tokens: 1181, PLS tokens: 700 - Truncating
+2025-02-28 13:31:45,722 - INFO - Article 1479: Abstract tokens: 1093, PLS tokens: 717 - Truncating
+2025-02-28 13:31:46,023 - INFO - Processing article 1481/3074
+2025-02-28 13:31:46,154 - INFO - Article 1482: Abstract tokens: 1115, PLS tokens: 287 - Truncating
+2025-02-28 13:31:46,754 - INFO - Article 1488: Abstract tokens: 1329, PLS tokens: 284 - Truncating
+2025-02-28 13:31:46,890 - INFO - Article 1489: Abstract tokens: 1084, PLS tokens: 553 - Truncating
+2025-02-28 13:31:47,123 - INFO - Processing article 1491/3074
+2025-02-28 13:31:47,401 - INFO - Article 1493: Abstract tokens: 1049, PLS tokens: 311 - Truncating
+2025-02-28 13:31:47,666 - INFO - Article 1496: Abstract tokens: 1234, PLS tokens: 332 - Truncating
+2025-02-28 13:31:48,293 - INFO - Processing article 1501/3074
+2025-02-28 13:31:48,318 - INFO - Article 1501: Abstract tokens: 1103, PLS tokens: 325 - Truncating
+2025-02-28 13:31:48,921 - INFO - Article 1506: Abstract tokens: 1324, PLS tokens: 748 - Truncating
+2025-02-28 13:31:49,077 - INFO - Article 1507: Abstract tokens: 1235, PLS tokens: 849 - Truncating
+2025-02-28 13:31:49,523 - INFO - Processing article 1511/3074
+2025-02-28 13:31:50,065 - INFO - Article 1516: Abstract tokens: 1545, PLS tokens: 480 - Truncating
+2025-02-28 13:31:50,253 - INFO - Article 1518: Abstract tokens: 1312, PLS tokens: 484 - Truncating
+2025-02-28 13:31:50,373 - INFO - Article 1519: Abstract tokens: 1078, PLS tokens: 382 - Truncating
+2025-02-28 13:31:50,513 - INFO - Article 1520: Abstract tokens: 1390, PLS tokens: 595 - Truncating
+2025-02-28 13:31:50,621 - INFO - Processing article 1521/3074
+2025-02-28 13:31:50,643 - INFO - Article 1521: Abstract tokens: 1125, PLS tokens: 190 - Truncating
+2025-02-28 13:31:50,861 - INFO - Article 1523: Abstract tokens: 1126, PLS tokens: 772 - Truncating
+2025-02-28 13:31:51,087 - INFO - Article 1525: Abstract tokens: 1269, PLS tokens: 337 - Truncating
+2025-02-28 13:31:51,551 - INFO - Processing article 1531/3074
+2025-02-28 13:31:52,149 - INFO - Article 1536: Abstract tokens: 1341, PLS tokens: 743 - Truncating
+2025-02-28 13:31:52,289 - INFO - Article 1537: Abstract tokens: 1060, PLS tokens: 308 - Truncating
+2025-02-28 13:31:52,563 - INFO - Processing article 1541/3074
+2025-02-28 13:31:52,593 - INFO - Article 1541: Abstract tokens: 1036, PLS tokens: 713 - Truncating
+2025-02-28 13:31:52,757 - INFO - Article 1542: Abstract tokens: 1092, PLS tokens: 511 - Truncating
+2025-02-28 13:31:53,535 - INFO - Processing article 1551/3074
+2025-02-28 13:31:54,375 - INFO - Article 1559: Abstract tokens: 1167, PLS tokens: 793 - Truncating
+2025-02-28 13:31:54,595 - INFO - Processing article 1561/3074
+2025-02-28 13:31:55,311 - INFO - Article 1569: Abstract tokens: 1332, PLS tokens: 244 - Truncating
+2025-02-28 13:31:55,431 - INFO - Article 1570: Abstract tokens: 1298, PLS tokens: 356 - Truncating
+2025-02-28 13:31:55,533 - INFO - Processing article 1571/3074
+2025-02-28 13:31:55,541 - INFO - Article 1571: Abstract tokens: 1099, PLS tokens: 535 - Truncating
+2025-02-28 13:31:56,364 - INFO - Processing article 1581/3074
+2025-02-28 13:31:57,097 - INFO - Article 1589: Abstract tokens: 1279, PLS tokens: 319 - Truncating
+2025-02-28 13:31:57,321 - INFO - Processing article 1591/3074
+2025-02-28 13:31:57,393 - INFO - Article 1592: Abstract tokens: 1277, PLS tokens: 582 - Truncating
+2025-02-28 13:31:57,602 - INFO - Article 1594: Abstract tokens: 1104, PLS tokens: 458 - Truncating
+2025-02-28 13:31:58,229 - INFO - Processing article 1601/3074
+2025-02-28 13:31:58,873 - INFO - Article 1609: Abstract tokens: 1218, PLS tokens: 721 - Truncating
+2025-02-28 13:31:59,208 - INFO - Processing article 1611/3074
+2025-02-28 13:31:59,245 - INFO - Article 1611: Abstract tokens: 1093, PLS tokens: 394 - Truncating
+2025-02-28 13:31:59,623 - INFO - Article 1615: Abstract tokens: 1090, PLS tokens: 624 - Truncating
+2025-02-28 13:31:59,814 - INFO - Article 1616: Abstract tokens: 1036, PLS tokens: 678 - Truncating
+2025-02-28 13:32:00,136 - INFO - Article 1620: Abstract tokens: 1032, PLS tokens: 636 - Truncating
+2025-02-28 13:32:00,274 - INFO - Processing article 1621/3074
+2025-02-28 13:32:00,904 - INFO - Article 1627: Abstract tokens: 1395, PLS tokens: 361 - Truncating
+2025-02-28 13:32:01,274 - INFO - Article 1630: Abstract tokens: 1112, PLS tokens: 616 - Truncating
+2025-02-28 13:32:01,392 - INFO - Processing article 1631/3074
+2025-02-28 13:32:01,440 - INFO - Article 1631: Abstract tokens: 1289, PLS tokens: 647 - Truncating
+2025-02-28 13:32:01,818 - INFO - Article 1636: Abstract tokens: 1036, PLS tokens: 264 - Truncating
+2025-02-28 13:32:01,918 - INFO - Article 1637: Abstract tokens: 1370, PLS tokens: 664 - Truncating
+2025-02-28 13:32:02,188 - INFO - Article 1640: Abstract tokens: 1325, PLS tokens: 266 - Truncating
+2025-02-28 13:32:02,285 - INFO - Processing article 1641/3074
+2025-02-28 13:32:02,490 - INFO - Article 1641: Abstract tokens: 1206, PLS tokens: 776 - Truncating
+2025-02-28 13:32:03,453 - INFO - Processing article 1651/3074
+2025-02-28 13:32:03,534 - INFO - Article 1653: Abstract tokens: 1144, PLS tokens: 227 - Truncating
+2025-02-28 13:32:03,647 - INFO - Article 1654: Abstract tokens: 1050, PLS tokens: 633 - Truncating
+2025-02-28 13:32:03,954 - INFO - Article 1657: Abstract tokens: 1061, PLS tokens: 572 - Truncating
+2025-02-28 13:32:04,095 - INFO - Article 1658: Abstract tokens: 1056, PLS tokens: 296 - Truncating
+2025-02-28 13:32:04,363 - INFO - Processing article 1661/3074
+2025-02-28 13:32:04,443 - INFO - Article 1662: Abstract tokens: 1508, PLS tokens: 779 - Truncating
+2025-02-28 13:32:04,959 - INFO - Article 1667: Abstract tokens: 1032, PLS tokens: 380 - Truncating
+2025-02-28 13:32:05,320 - INFO - Processing article 1671/3074
+2025-02-28 13:32:05,543 - INFO - Article 1674: Abstract tokens: 1032, PLS tokens: 465 - Truncating
+2025-02-28 13:32:05,789 - INFO - Article 1676: Abstract tokens: 1093, PLS tokens: 449 - Truncating
+2025-02-28 13:32:05,894 - INFO - Article 1677: Abstract tokens: 1171, PLS tokens: 357 - Truncating
+2025-02-28 13:32:06,199 - INFO - Article 1680: Abstract tokens: 1047, PLS tokens: 412 - Truncating
+2025-02-28 13:32:06,317 - INFO - Processing article 1681/3074
+2025-02-28 13:32:06,346 - INFO - Article 1681: Abstract tokens: 1076, PLS tokens: 412 - Truncating
+2025-02-28 13:32:06,672 - INFO - Article 1685: Abstract tokens: 1318, PLS tokens: 408 - Truncating
+2025-02-28 13:32:06,933 - INFO - Article 1687: Abstract tokens: 1272, PLS tokens: 783 - Truncating
+2025-02-28 13:32:07,058 - INFO - Article 1688: Abstract tokens: 1104, PLS tokens: 465 - Truncating
+2025-02-28 13:32:07,344 - INFO - Processing article 1691/3074
+2025-02-28 13:32:07,594 - INFO - Article 1695: Abstract tokens: 1030, PLS tokens: 475 - Truncating
+2025-02-28 13:32:07,773 - INFO - Article 1697: Abstract tokens: 1147, PLS tokens: 408 - Truncating
+2025-02-28 13:32:07,901 - INFO - Article 1698: Abstract tokens: 1221, PLS tokens: 532 - Truncating
+2025-02-28 13:32:08,094 - INFO - Article 1700: Abstract tokens: 1145, PLS tokens: 596 - Truncating
+2025-02-28 13:32:08,220 - INFO - Processing article 1701/3074
+2025-02-28 13:32:08,240 - INFO - Article 1701: Abstract tokens: 1109, PLS tokens: 469 - Truncating
+2025-02-28 13:32:08,835 - INFO - Article 1708: Abstract tokens: 1236, PLS tokens: 672 - Truncating
+2025-02-28 13:32:09,039 - INFO - Article 1709: Abstract tokens: 1332, PLS tokens: 762 - Truncating
+2025-02-28 13:32:09,285 - INFO - Processing article 1711/3074
+2025-02-28 13:32:09,893 - INFO - Article 1719: Abstract tokens: 1071, PLS tokens: 565 - Truncating
+2025-02-28 13:32:10,022 - INFO - Article 1720: Abstract tokens: 1128, PLS tokens: 565 - Truncating
+2025-02-28 13:32:10,152 - INFO - Processing article 1721/3074
+2025-02-28 13:32:10,173 - INFO - Article 1721: Abstract tokens: 1204, PLS tokens: 548 - Truncating
+2025-02-28 13:32:10,352 - INFO - Article 1723: Abstract tokens: 1426, PLS tokens: 858 - Truncating
+2025-02-28 13:32:11,094 - INFO - Processing article 1731/3074
+2025-02-28 13:32:11,234 - INFO - Article 1733: Abstract tokens: 1181, PLS tokens: 317 - Truncating
+2025-02-28 13:32:11,334 - INFO - Article 1734: Abstract tokens: 1109, PLS tokens: 553 - Truncating
+2025-02-28 13:32:11,721 - INFO - Article 1737: Abstract tokens: 1066, PLS tokens: 538 - Truncating
+2025-02-28 13:32:11,823 - INFO - Article 1738: Abstract tokens: 1124, PLS tokens: 486 - Truncating
+2025-02-28 13:32:11,938 - INFO - Article 1739: Abstract tokens: 1315, PLS tokens: 754 - Truncating
+2025-02-28 13:32:12,096 - INFO - Processing article 1741/3074
+2025-02-28 13:32:12,356 - INFO - Article 1744: Abstract tokens: 1430, PLS tokens: 217 - Truncating
+2025-02-28 13:32:12,679 - INFO - Article 1749: Abstract tokens: 1120, PLS tokens: 425 - Truncating
+2025-02-28 13:32:12,847 - INFO - Processing article 1751/3074
+2025-02-28 13:32:12,946 - INFO - Article 1752: Abstract tokens: 1165, PLS tokens: 680 - Truncating
+2025-02-28 13:32:13,150 - INFO - Article 1753: Abstract tokens: 1133, PLS tokens: 746 - Truncating
+2025-02-28 13:32:13,445 - INFO - Article 1755: Abstract tokens: 1484, PLS tokens: 690 - Truncating
+2025-02-28 13:32:13,973 - INFO - Processing article 1761/3074
+2025-02-28 13:32:14,056 - INFO - Article 1762: Abstract tokens: 1423, PLS tokens: 618 - Truncating
+2025-02-28 13:32:14,290 - INFO - Article 1764: Abstract tokens: 1209, PLS tokens: 888 - Truncating
+2025-02-28 13:32:14,497 - INFO - Article 1766: Abstract tokens: 1248, PLS tokens: 535 - Truncating
+2025-02-28 13:32:14,893 - INFO - Processing article 1771/3074
+2025-02-28 13:32:15,051 - INFO - Article 1774: Abstract tokens: 1156, PLS tokens: 589 - Truncating
+2025-02-28 13:32:15,504 - INFO - Processing article 1781/3074
+2025-02-28 13:32:15,698 - INFO - Article 1783: Abstract tokens: 1229, PLS tokens: 429 - Truncating
+2025-02-28 13:32:16,043 - INFO - Article 1787: Abstract tokens: 1099, PLS tokens: 545 - Truncating
+2025-02-28 13:32:16,164 - INFO - Article 1788: Abstract tokens: 1428, PLS tokens: 596 - Truncating
+2025-02-28 13:32:16,434 - INFO - Processing article 1791/3074
+2025-02-28 13:32:17,161 - INFO - Processing article 1801/3074
+2025-02-28 13:32:17,294 - INFO - Article 1802: Abstract tokens: 1243, PLS tokens: 760 - Truncating
+2025-02-28 13:32:17,858 - INFO - Processing article 1811/3074
+2025-02-28 13:32:18,304 - INFO - Article 1816: Abstract tokens: 1205, PLS tokens: 246 - Truncating
+2025-02-28 13:32:18,681 - INFO - Article 1820: Abstract tokens: 1084, PLS tokens: 335 - Truncating
+2025-02-28 13:32:18,836 - INFO - Processing article 1821/3074
+2025-02-28 13:32:19,049 - INFO - Article 1825: Abstract tokens: 1198, PLS tokens: 494 - Truncating
+2025-02-28 13:32:19,612 - INFO - Processing article 1831/3074
+2025-02-28 13:32:20,368 - INFO - Processing article 1841/3074
+2025-02-28 13:32:21,090 - INFO - Processing article 1851/3074
+2025-02-28 13:32:21,343 - INFO - Article 1853: Abstract tokens: 1143, PLS tokens: 471 - Truncating
+2025-02-28 13:32:22,020 - INFO - Processing article 1861/3074
+2025-02-28 13:32:22,117 - INFO - Article 1862: Abstract tokens: 1110, PLS tokens: 305 - Truncating
+2025-02-28 13:32:22,911 - INFO - Processing article 1871/3074
+2025-02-28 13:32:23,187 - INFO - Article 1874: Abstract tokens: 1027, PLS tokens: 272 - Truncating
+2025-02-28 13:32:23,347 - INFO - Article 1875: Abstract tokens: 1106, PLS tokens: 397 - Truncating
+2025-02-28 13:32:23,639 - INFO - Article 1879: Abstract tokens: 1121, PLS tokens: 546 - Truncating
+2025-02-28 13:32:23,794 - INFO - Article 1880: Abstract tokens: 1194, PLS tokens: 839 - Truncating
+2025-02-28 13:32:23,913 - INFO - Processing article 1881/3074
+2025-02-28 13:32:24,638 - INFO - Article 1889: Abstract tokens: 1586, PLS tokens: 542 - Truncating
+2025-02-28 13:32:24,874 - INFO - Processing article 1891/3074
+2025-02-28 13:32:24,911 - INFO - Article 1891: Abstract tokens: 1118, PLS tokens: 628 - Truncating
+2025-02-28 13:32:25,097 - INFO - Article 1892: Abstract tokens: 1344, PLS tokens: 665 - Truncating
+2025-02-28 13:32:25,238 - INFO - Article 1893: Abstract tokens: 1292, PLS tokens: 345 - Truncating
+2025-02-28 13:32:25,357 - INFO - Article 1894: Abstract tokens: 1353, PLS tokens: 174 - Truncating
+2025-02-28 13:32:25,848 - INFO - Processing article 1901/3074
+2025-02-28 13:32:26,184 - INFO - Article 1905: Abstract tokens: 1353, PLS tokens: 807 - Truncating
+2025-02-28 13:32:26,733 - INFO - Article 1910: Abstract tokens: 1236, PLS tokens: 340 - Truncating
+2025-02-28 13:32:26,863 - INFO - Processing article 1911/3074
+2025-02-28 13:32:27,568 - INFO - Processing article 1921/3074
+2025-02-28 13:32:27,629 - INFO - Article 1922: Abstract tokens: 1269, PLS tokens: 681 - Truncating
+2025-02-28 13:32:27,982 - INFO - Article 1925: Abstract tokens: 1034, PLS tokens: 383 - Truncating
+2025-02-28 13:32:28,483 - INFO - Article 1930: Abstract tokens: 1219, PLS tokens: 373 - Truncating
+2025-02-28 13:32:28,616 - INFO - Processing article 1931/3074
+2025-02-28 13:32:28,651 - INFO - Article 1931: Abstract tokens: 1224, PLS tokens: 446 - Truncating
+2025-02-28 13:32:28,828 - INFO - Article 1933: Abstract tokens: 1063, PLS tokens: 467 - Truncating
+2025-02-28 13:32:29,096 - INFO - Article 1936: Abstract tokens: 1331, PLS tokens: 645 - Truncating
+2025-02-28 13:32:29,536 - INFO - Processing article 1941/3074
+2025-02-28 13:32:29,827 - INFO - Article 1944: Abstract tokens: 1115, PLS tokens: 596 - Truncating
+2025-02-28 13:32:30,169 - INFO - Article 1947: Abstract tokens: 1092, PLS tokens: 367 - Truncating
+2025-02-28 13:32:30,453 - INFO - Processing article 1951/3074
+2025-02-28 13:32:30,854 - INFO - Article 1957: Abstract tokens: 1313, PLS tokens: 373 - Truncating
+2025-02-28 13:32:31,171 - INFO - Processing article 1961/3074
+2025-02-28 13:32:31,204 - INFO - Article 1961: Abstract tokens: 1413, PLS tokens: 654 - Truncating
+2025-02-28 13:32:32,033 - INFO - Processing article 1971/3074
+2025-02-28 13:32:32,830 - INFO - Processing article 1981/3074
+2025-02-28 13:32:33,127 - INFO - Article 1985: Abstract tokens: 1120, PLS tokens: 806 - Truncating
+2025-02-28 13:32:33,630 - INFO - Article 1990: Abstract tokens: 1130, PLS tokens: 368 - Truncating
+2025-02-28 13:32:33,715 - INFO - Processing article 1991/3074
+2025-02-28 13:32:34,436 - INFO - Processing article 2001/3074
+2025-02-28 13:32:34,762 - INFO - Article 2004: Abstract tokens: 1290, PLS tokens: 680 - Truncating
+2025-02-28 13:32:35,079 - INFO - Article 2008: Abstract tokens: 1153, PLS tokens: 465 - Truncating
+2025-02-28 13:32:35,278 - INFO - Processing article 2011/3074
+2025-02-28 13:32:35,294 - INFO - Article 2011: Abstract tokens: 1056, PLS tokens: 209 - Truncating
+2025-02-28 13:32:35,698 - INFO - Article 2016: Abstract tokens: 1099, PLS tokens: 605 - Truncating
+2025-02-28 13:32:36,199 - INFO - Article 2020: Abstract tokens: 1201, PLS tokens: 238 - Truncating
+2025-02-28 13:32:36,282 - INFO - Processing article 2021/3074
+2025-02-28 13:32:36,968 - INFO - Processing article 2031/3074
+2025-02-28 13:32:37,488 - INFO - Article 2036: Abstract tokens: 1961, PLS tokens: 629 - Truncating
+2025-02-28 13:32:38,033 - INFO - Processing article 2041/3074
+2025-02-28 13:32:38,851 - INFO - Processing article 2051/3074
+2025-02-28 13:32:38,882 - INFO - Article 2051: Abstract tokens: 1059, PLS tokens: 728 - Truncating
+2025-02-28 13:32:39,004 - INFO - Article 2052: Abstract tokens: 1181, PLS tokens: 651 - Truncating
+2025-02-28 13:32:39,595 - INFO - Article 2057: Abstract tokens: 1444, PLS tokens: 215 - Truncating
+2025-02-28 13:32:39,947 - INFO - Article 2060: Abstract tokens: 1116, PLS tokens: 658 - Truncating
+2025-02-28 13:32:40,062 - INFO - Processing article 2061/3074
+2025-02-28 13:32:40,902 - INFO - Processing article 2071/3074
+2025-02-28 13:32:41,021 - INFO - Article 2072: Abstract tokens: 1493, PLS tokens: 650 - Truncating
+2025-02-28 13:32:41,170 - INFO - Article 2073: Abstract tokens: 1281, PLS tokens: 773 - Truncating
+2025-02-28 13:32:41,593 - INFO - Article 2078: Abstract tokens: 1029, PLS tokens: 385 - Truncating
+2025-02-28 13:32:41,960 - INFO - Processing article 2081/3074
+2025-02-28 13:32:42,159 - INFO - Article 2083: Abstract tokens: 1100, PLS tokens: 294 - Truncating
+2025-02-28 13:32:42,900 - INFO - Processing article 2091/3074
+2025-02-28 13:32:43,546 - INFO - Article 2099: Abstract tokens: 1216, PLS tokens: 631 - Truncating
+2025-02-28 13:32:43,666 - INFO - Article 2100: Abstract tokens: 1044, PLS tokens: 202 - Truncating
+2025-02-28 13:32:43,765 - INFO - Processing article 2101/3074
+2025-02-28 13:32:44,665 - INFO - Processing article 2111/3074
+2025-02-28 13:32:45,009 - INFO - Article 2114: Abstract tokens: 1032, PLS tokens: 318 - Truncating
+2025-02-28 13:32:45,425 - INFO - Article 2118: Abstract tokens: 1106, PLS tokens: 761 - Truncating
+2025-02-28 13:32:45,700 - INFO - Processing article 2121/3074
+2025-02-28 13:32:45,798 - INFO - Article 2122: Abstract tokens: 1070, PLS tokens: 579 - Truncating
+2025-02-28 13:32:46,781 - INFO - Processing article 2131/3074
+2025-02-28 13:32:46,905 - INFO - Article 2132: Abstract tokens: 1050, PLS tokens: 630 - Truncating
+2025-02-28 13:32:47,063 - INFO - Article 2133: Abstract tokens: 1106, PLS tokens: 859 - Truncating
+2025-02-28 13:32:47,435 - INFO - Article 2136: Abstract tokens: 1056, PLS tokens: 226 - Truncating
+2025-02-28 13:32:47,755 - INFO - Processing article 2141/3074
+2025-02-28 13:32:48,038 - INFO - Article 2144: Abstract tokens: 1162, PLS tokens: 479 - Truncating
+2025-02-28 13:32:48,307 - INFO - Article 2146: Abstract tokens: 1031, PLS tokens: 566 - Truncating
+2025-02-28 13:32:48,446 - INFO - Article 2147: Abstract tokens: 1318, PLS tokens: 511 - Truncating
+2025-02-28 13:32:48,841 - INFO - Processing article 2151/3074
+2025-02-28 13:32:48,862 - INFO - Article 2151: Abstract tokens: 1327, PLS tokens: 363 - Truncating
+2025-02-28 13:32:49,410 - INFO - Article 2157: Abstract tokens: 1202, PLS tokens: 215 - Truncating
+2025-02-28 13:32:49,519 - INFO - Article 2158: Abstract tokens: 1066, PLS tokens: 763 - Truncating
+2025-02-28 13:32:49,711 - INFO - Article 2159: Abstract tokens: 1083, PLS tokens: 478 - Truncating
+2025-02-28 13:32:49,912 - INFO - Processing article 2161/3074
+2025-02-28 13:32:50,038 - INFO - Article 2162: Abstract tokens: 1257, PLS tokens: 384 - Truncating
+2025-02-28 13:32:50,140 - INFO - Article 2163: Abstract tokens: 1048, PLS tokens: 512 - Truncating
+2025-02-28 13:32:50,790 - INFO - Processing article 2171/3074
+2025-02-28 13:32:51,639 - INFO - Processing article 2181/3074
+2025-02-28 13:32:51,951 - INFO - Article 2185: Abstract tokens: 1171, PLS tokens: 710 - Truncating
+2025-02-28 13:32:52,454 - INFO - Processing article 2191/3074
+2025-02-28 13:32:52,560 - INFO - Article 2193: Abstract tokens: 1255, PLS tokens: 683 - Truncating
+2025-02-28 13:32:53,062 - INFO - Article 2198: Abstract tokens: 1154, PLS tokens: 696 - Truncating
+2025-02-28 13:32:53,255 - INFO - Processing article 2201/3074
+2025-02-28 13:32:53,349 - INFO - Article 2202: Abstract tokens: 1572, PLS tokens: 996 - Truncating
+2025-02-28 13:32:54,269 - INFO - Processing article 2211/3074
+2025-02-28 13:32:55,111 - INFO - Processing article 2221/3074
+2025-02-28 13:32:55,600 - INFO - Article 2229: Abstract tokens: 1147, PLS tokens: 257 - Truncating
+2025-02-28 13:32:55,871 - INFO - Processing article 2231/3074
+2025-02-28 13:32:55,905 - INFO - Article 2231: Abstract tokens: 1094, PLS tokens: 696 - Truncating
+2025-02-28 13:32:56,817 - INFO - Processing article 2241/3074
+2025-02-28 13:32:57,148 - INFO - Article 2245: Abstract tokens: 1070, PLS tokens: 354 - Truncating
+2025-02-28 13:32:57,296 - INFO - Article 2246: Abstract tokens: 1075, PLS tokens: 330 - Truncating
+2025-02-28 13:32:57,752 - INFO - Processing article 2251/3074
+2025-02-28 13:32:58,459 - INFO - Article 2258: Abstract tokens: 1026, PLS tokens: 329 - Truncating
+2025-02-28 13:32:58,787 - INFO - Processing article 2261/3074
+2025-02-28 13:32:59,739 - INFO - Article 2270: Abstract tokens: 1095, PLS tokens: 620 - Truncating
+2025-02-28 13:32:59,908 - INFO - Processing article 2271/3074
+2025-02-28 13:33:00,391 - INFO - Article 2277: Abstract tokens: 1329, PLS tokens: 667 - Truncating
+2025-02-28 13:33:00,599 - INFO - Article 2279: Abstract tokens: 1055, PLS tokens: 564 - Truncating
+2025-02-28 13:33:00,855 - INFO - Processing article 2281/3074
+2025-02-28 13:33:01,550 - INFO - Article 2289: Abstract tokens: 1195, PLS tokens: 523 - Truncating
+2025-02-28 13:33:01,805 - INFO - Processing article 2291/3074
+2025-02-28 13:33:02,209 - INFO - Article 2296: Abstract tokens: 1250, PLS tokens: 643 - Truncating
+2025-02-28 13:33:02,691 - INFO - Processing article 2301/3074
+2025-02-28 13:33:03,072 - INFO - Article 2305: Abstract tokens: 1243, PLS tokens: 213 - Truncating
+2025-02-28 13:33:03,277 - INFO - Article 2307: Abstract tokens: 1104, PLS tokens: 589 - Truncating
+2025-02-28 13:33:03,684 - INFO - Processing article 2311/3074
+2025-02-28 13:33:03,712 - INFO - Article 2311: Abstract tokens: 1095, PLS tokens: 461 - Truncating
+2025-02-28 13:33:04,045 - INFO - Article 2314: Abstract tokens: 1179, PLS tokens: 580 - Truncating
+2025-02-28 13:33:04,535 - INFO - Processing article 2321/3074
+2025-02-28 13:33:04,682 - INFO - Article 2323: Abstract tokens: 1211, PLS tokens: 345 - Truncating
+2025-02-28 13:33:05,099 - INFO - Article 2328: Abstract tokens: 1104, PLS tokens: 570 - Truncating
+2025-02-28 13:33:05,382 - INFO - Processing article 2331/3074
+2025-02-28 13:33:05,805 - INFO - Article 2335: Abstract tokens: 1040, PLS tokens: 593 - Truncating
+2025-02-28 13:33:06,078 - INFO - Article 2337: Abstract tokens: 1061, PLS tokens: 287 - Truncating
+2025-02-28 13:33:06,288 - INFO - Article 2339: Abstract tokens: 1081, PLS tokens: 285 - Truncating
+2025-02-28 13:33:06,507 - INFO - Processing article 2341/3074
+2025-02-28 13:33:07,327 - INFO - Processing article 2351/3074
+2025-02-28 13:33:07,647 - INFO - Article 2355: Abstract tokens: 1562, PLS tokens: 788 - Truncating
+2025-02-28 13:33:08,367 - INFO - Processing article 2361/3074
+2025-02-28 13:33:09,167 - INFO - Processing article 2371/3074
+2025-02-28 13:33:09,664 - INFO - Article 2376: Abstract tokens: 1315, PLS tokens: 254 - Truncating
+2025-02-28 13:33:10,165 - INFO - Processing article 2381/3074
+2025-02-28 13:33:10,311 - INFO - Article 2382: Abstract tokens: 1218, PLS tokens: 691 - Truncating
+2025-02-28 13:33:10,634 - INFO - Article 2386: Abstract tokens: 1407, PLS tokens: 338 - Truncating
+2025-02-28 13:33:11,009 - INFO - Article 2390: Abstract tokens: 1047, PLS tokens: 393 - Truncating
+2025-02-28 13:33:11,143 - INFO - Processing article 2391/3074
+2025-02-28 13:33:11,688 - INFO - Article 2395: Abstract tokens: 1316, PLS tokens: 607 - Truncating
+2025-02-28 13:33:12,178 - INFO - Article 2399: Abstract tokens: 1249, PLS tokens: 719 - Truncating
+2025-02-28 13:33:12,387 - INFO - Processing article 2401/3074
+2025-02-28 13:33:12,792 - INFO - Article 2406: Abstract tokens: 1137, PLS tokens: 291 - Truncating
+2025-02-28 13:33:13,101 - INFO - Article 2409: Abstract tokens: 1047, PLS tokens: 675 - Truncating
+2025-02-28 13:33:13,327 - INFO - Processing article 2411/3074
+2025-02-28 13:33:13,716 - INFO - Article 2415: Abstract tokens: 1202, PLS tokens: 297 - Truncating
+2025-02-28 13:33:13,828 - INFO - Article 2416: Abstract tokens: 1264, PLS tokens: 406 - Truncating
+2025-02-28 13:33:14,289 - INFO - Processing article 2421/3074
+2025-02-28 13:33:14,677 - INFO - Article 2425: Abstract tokens: 1565, PLS tokens: 421 - Truncating
+2025-02-28 13:33:15,426 - INFO - Processing article 2431/3074
+2025-02-28 13:33:15,603 - INFO - Article 2432: Abstract tokens: 1151, PLS tokens: 749 - Truncating
+2025-02-28 13:33:16,279 - INFO - Article 2438: Abstract tokens: 1105, PLS tokens: 555 - Truncating
+2025-02-28 13:33:16,629 - INFO - Processing article 2441/3074
+2025-02-28 13:33:17,260 - INFO - Article 2448: Abstract tokens: 1327, PLS tokens: 838 - Truncating
+2025-02-28 13:33:17,440 - INFO - Article 2449: Abstract tokens: 1393, PLS tokens: 524 - Truncating
+2025-02-28 13:33:17,688 - INFO - Processing article 2451/3074
+2025-02-28 13:33:17,712 - INFO - Article 2451: Abstract tokens: 1073, PLS tokens: 459 - Truncating
+2025-02-28 13:33:18,155 - INFO - Article 2457: Abstract tokens: 1120, PLS tokens: 509 - Truncating
+2025-02-28 13:33:18,716 - INFO - Processing article 2461/3074
+2025-02-28 13:33:19,557 - INFO - Processing article 2471/3074
+2025-02-28 13:33:19,911 - INFO - Article 2475: Abstract tokens: 1050, PLS tokens: 490 - Truncating
+2025-02-28 13:33:20,470 - INFO - Processing article 2481/3074
+2025-02-28 13:33:21,198 - INFO - Article 2488: Abstract tokens: 1102, PLS tokens: 713 - Truncating
+2025-02-28 13:33:21,494 - INFO - Processing article 2491/3074
+2025-02-28 13:33:21,616 - INFO - Article 2492: Abstract tokens: 1089, PLS tokens: 210 - Truncating
+2025-02-28 13:33:21,700 - INFO - Article 2493: Abstract tokens: 1044, PLS tokens: 533 - Truncating
+2025-02-28 13:33:22,531 - INFO - Processing article 2501/3074
+2025-02-28 13:33:23,389 - INFO - Article 2509: Abstract tokens: 1052, PLS tokens: 448 - Truncating
+2025-02-28 13:33:23,599 - INFO - Processing article 2511/3074
+2025-02-28 13:33:23,638 - INFO - Article 2511: Abstract tokens: 1274, PLS tokens: 632 - Truncating
+2025-02-28 13:33:24,037 - INFO - Article 2514: Abstract tokens: 1195, PLS tokens: 605 - Truncating
+2025-02-28 13:33:24,707 - INFO - Processing article 2521/3074
+2025-02-28 13:33:25,469 - INFO - Article 2527: Abstract tokens: 1207, PLS tokens: 738 - Truncating
+2025-02-28 13:33:25,970 - INFO - Processing article 2531/3074
+2025-02-28 13:33:26,590 - INFO - Article 2538: Abstract tokens: 1093, PLS tokens: 357 - Truncating
+2025-02-28 13:33:26,883 - INFO - Processing article 2541/3074
+2025-02-28 13:33:27,286 - INFO - Article 2547: Abstract tokens: 1214, PLS tokens: 367 - Truncating
+2025-02-28 13:33:27,409 - INFO - Article 2548: Abstract tokens: 1056, PLS tokens: 492 - Truncating
+2025-02-28 13:33:27,597 - INFO - Article 2550: Abstract tokens: 1290, PLS tokens: 577 - Truncating
+2025-02-28 13:33:27,724 - INFO - Processing article 2551/3074
+2025-02-28 13:33:27,753 - INFO - Article 2551: Abstract tokens: 1207, PLS tokens: 492 - Truncating
+2025-02-28 13:33:28,579 - INFO - Processing article 2561/3074
+2025-02-28 13:33:28,614 - INFO - Article 2561: Abstract tokens: 1430, PLS tokens: 194 - Truncating
+2025-02-28 13:33:28,835 - INFO - Article 2564: Abstract tokens: 1062, PLS tokens: 648 - Truncating
+2025-02-28 13:33:29,587 - INFO - Processing article 2571/3074
+2025-02-28 13:33:29,677 - INFO - Article 2572: Abstract tokens: 1190, PLS tokens: 879 - Truncating
+2025-02-28 13:33:30,168 - INFO - Article 2577: Abstract tokens: 1119, PLS tokens: 580 - Truncating
+2025-02-28 13:33:30,292 - INFO - Article 2578: Abstract tokens: 1316, PLS tokens: 597 - Truncating
+2025-02-28 13:33:30,503 - INFO - Processing article 2581/3074
+2025-02-28 13:33:30,535 - INFO - Article 2581: Abstract tokens: 1192, PLS tokens: 439 - Truncating
+2025-02-28 13:33:31,330 - INFO - Processing article 2591/3074
+2025-02-28 13:33:31,857 - INFO - Article 2597: Abstract tokens: 1082, PLS tokens: 688 - Truncating
+2025-02-28 13:33:32,023 - INFO - Article 2598: Abstract tokens: 1140, PLS tokens: 642 - Truncating
+2025-02-28 13:33:32,328 - INFO - Processing article 2601/3074
+2025-02-28 13:33:32,720 - INFO - Article 2606: Abstract tokens: 1060, PLS tokens: 428 - Truncating
+2025-02-28 13:33:33,116 - INFO - Processing article 2611/3074
+2025-02-28 13:33:33,351 - INFO - Article 2613: Abstract tokens: 1223, PLS tokens: 587 - Truncating
+2025-02-28 13:33:33,598 - INFO - Article 2615: Abstract tokens: 1152, PLS tokens: 561 - Truncating
+2025-02-28 13:33:34,126 - INFO - Article 2620: Abstract tokens: 1604, PLS tokens: 871 - Truncating
+2025-02-28 13:33:34,255 - INFO - Processing article 2621/3074
+2025-02-28 13:33:34,319 - INFO - Article 2622: Abstract tokens: 1052, PLS tokens: 804 - Truncating
+2025-02-28 13:33:34,832 - INFO - Article 2628: Abstract tokens: 1122, PLS tokens: 371 - Truncating
+2025-02-28 13:33:35,116 - INFO - Processing article 2631/3074
+2025-02-28 13:33:35,579 - INFO - Article 2637: Abstract tokens: 1105, PLS tokens: 490 - Truncating
+2025-02-28 13:33:35,714 - INFO - Article 2638: Abstract tokens: 1071, PLS tokens: 669 - Truncating
+2025-02-28 13:33:35,857 - INFO - Article 2639: Abstract tokens: 1047, PLS tokens: 511 - Truncating
+2025-02-28 13:33:35,994 - INFO - Processing article 2641/3074
+2025-02-28 13:33:36,982 - INFO - Processing article 2651/3074
+2025-02-28 13:33:37,830 - INFO - Processing article 2661/3074
+2025-02-28 13:33:38,580 - INFO - Processing article 2671/3074
+2025-02-28 13:33:38,783 - INFO - Article 2673: Abstract tokens: 1435, PLS tokens: 574 - Truncating
+2025-02-28 13:33:39,407 - INFO - Article 2680: Abstract tokens: 1178, PLS tokens: 540 - Truncating
+2025-02-28 13:33:39,553 - INFO - Processing article 2681/3074
+2025-02-28 13:33:40,222 - INFO - Article 2688: Abstract tokens: 1183, PLS tokens: 508 - Truncating
+2025-02-28 13:33:40,554 - INFO - Processing article 2691/3074
+2025-02-28 13:33:40,661 - INFO - Article 2692: Abstract tokens: 1126, PLS tokens: 411 - Truncating
+2025-02-28 13:33:41,434 - INFO - Processing article 2701/3074
+2025-02-28 13:33:41,943 - INFO - Article 2705: Abstract tokens: 1722, PLS tokens: 610 - Truncating
+2025-02-28 13:33:42,215 - INFO - Article 2708: Abstract tokens: 1199, PLS tokens: 545 - Truncating
+2025-02-28 13:33:42,392 - INFO - Article 2710: Abstract tokens: 1279, PLS tokens: 701 - Truncating
+2025-02-28 13:33:42,544 - INFO - Processing article 2711/3074
+2025-02-28 13:33:42,984 - INFO - Article 2716: Abstract tokens: 1410, PLS tokens: 371 - Truncating
+2025-02-28 13:33:43,487 - INFO - Processing article 2721/3074
+2025-02-28 13:33:43,927 - INFO - Article 2725: Abstract tokens: 1346, PLS tokens: 477 - Truncating
+2025-02-28 13:33:44,246 - INFO - Article 2728: Abstract tokens: 1043, PLS tokens: 756 - Truncating
+2025-02-28 13:33:44,536 - INFO - Processing article 2731/3074
+2025-02-28 13:33:44,771 - INFO - Article 2734: Abstract tokens: 1048, PLS tokens: 438 - Truncating
+2025-02-28 13:33:45,446 - INFO - Processing article 2741/3074
+2025-02-28 13:33:45,471 - INFO - Article 2741: Abstract tokens: 1056, PLS tokens: 639 - Truncating
+2025-02-28 13:33:46,351 - INFO - Article 2750: Abstract tokens: 1455, PLS tokens: 585 - Truncating
+2025-02-28 13:33:46,458 - INFO - Processing article 2751/3074
+2025-02-28 13:33:46,480 - INFO - Article 2751: Abstract tokens: 1029, PLS tokens: 625 - Truncating
+2025-02-28 13:33:46,821 - INFO - Article 2754: Abstract tokens: 1230, PLS tokens: 1033 - Truncating
+2025-02-28 13:33:46,985 - INFO - Article 2755: Abstract tokens: 1388, PLS tokens: 351 - Truncating
+2025-02-28 13:33:47,467 - INFO - Processing article 2761/3074
+2025-02-28 13:33:47,500 - INFO - Article 2761: Abstract tokens: 1095, PLS tokens: 248 - Truncating
+2025-02-28 13:33:47,694 - INFO - Article 2763: Abstract tokens: 1025, PLS tokens: 398 - Truncating
+2025-02-28 13:33:48,154 - INFO - Article 2767: Abstract tokens: 1261, PLS tokens: 302 - Truncating
+2025-02-28 13:33:48,390 - INFO - Processing article 2771/3074
+2025-02-28 13:33:48,685 - INFO - Article 2774: Abstract tokens: 1067, PLS tokens: 355 - Truncating
+2025-02-28 13:33:49,125 - INFO - Article 2779: Abstract tokens: 1053, PLS tokens: 738 - Truncating
+2025-02-28 13:33:49,354 - INFO - Processing article 2781/3074
+2025-02-28 13:33:49,758 - INFO - Article 2784: Abstract tokens: 1159, PLS tokens: 529 - Truncating
+2025-02-28 13:33:50,341 - INFO - Processing article 2791/3074
+2025-02-28 13:33:50,533 - INFO - Article 2794: Abstract tokens: 1126, PLS tokens: 508 - Truncating
+2025-02-28 13:33:50,662 - INFO - Article 2795: Abstract tokens: 1073, PLS tokens: 333 - Truncating
+2025-02-28 13:33:51,153 - INFO - Article 2800: Abstract tokens: 1314, PLS tokens: 454 - Truncating
+2025-02-28 13:33:51,247 - INFO - Processing article 2801/3074
+2025-02-28 13:33:52,011 - INFO - Processing article 2811/3074
+2025-02-28 13:33:52,890 - INFO - Article 2820: Abstract tokens: 1178, PLS tokens: 497 - Truncating
+2025-02-28 13:33:52,998 - INFO - Processing article 2821/3074
+2025-02-28 13:33:53,308 - INFO - Article 2824: Abstract tokens: 1161, PLS tokens: 743 - Truncating
+2025-02-28 13:33:53,911 - INFO - Processing article 2831/3074
+2025-02-28 13:33:53,983 - INFO - Article 2833: Abstract tokens: 1129, PLS tokens: 844 - Truncating
+2025-02-28 13:33:54,683 - INFO - Processing article 2841/3074
+2025-02-28 13:33:54,955 - INFO - Article 2844: Abstract tokens: 1138, PLS tokens: 481 - Truncating
+2025-02-28 13:33:55,529 - INFO - Article 2850: Abstract tokens: 1178, PLS tokens: 593 - Truncating
+2025-02-28 13:33:55,635 - INFO - Processing article 2851/3074
+2025-02-28 13:33:56,118 - INFO - Article 2856: Abstract tokens: 1221, PLS tokens: 237 - Truncating
+2025-02-28 13:33:56,344 - INFO - Article 2858: Abstract tokens: 1339, PLS tokens: 780 - Truncating
+2025-02-28 13:33:56,677 - INFO - Processing article 2861/3074
+2025-02-28 13:33:57,094 - INFO - Article 2864: Abstract tokens: 1071, PLS tokens: 486 - Truncating
+2025-02-28 13:33:57,673 - INFO - Article 2870: Abstract tokens: 1132, PLS tokens: 448 - Truncating
+2025-02-28 13:33:57,793 - INFO - Processing article 2871/3074
+2025-02-28 13:33:57,938 - INFO - Article 2872: Abstract tokens: 1106, PLS tokens: 457 - Truncating
+2025-02-28 13:33:58,891 - INFO - Processing article 2881/3074
+2025-02-28 13:33:59,446 - INFO - Article 2885: Abstract tokens: 1374, PLS tokens: 659 - Truncating
+2025-02-28 13:33:59,632 - INFO - Article 2886: Abstract tokens: 1228, PLS tokens: 613 - Truncating
+2025-02-28 13:33:59,778 - INFO - Article 2887: Abstract tokens: 1091, PLS tokens: 534 - Truncating
+2025-02-28 13:34:00,250 - INFO - Processing article 2891/3074
+2025-02-28 13:34:00,398 - INFO - Article 2892: Abstract tokens: 1166, PLS tokens: 672 - Truncating
+2025-02-28 13:34:00,550 - INFO - Article 2893: Abstract tokens: 1036, PLS tokens: 589 - Truncating
+2025-02-28 13:34:01,241 - INFO - Article 2898: Abstract tokens: 1300, PLS tokens: 645 - Truncating
+2025-02-28 13:34:01,534 - INFO - Processing article 2901/3074
+2025-02-28 13:34:01,648 - INFO - Article 2902: Abstract tokens: 1064, PLS tokens: 456 - Truncating
+2025-02-28 13:34:02,430 - INFO - Article 2910: Abstract tokens: 1187, PLS tokens: 855 - Truncating
+2025-02-28 13:34:02,594 - INFO - Processing article 2911/3074
+2025-02-28 13:34:02,632 - INFO - Article 2911: Abstract tokens: 1472, PLS tokens: 712 - Truncating
+2025-02-28 13:34:03,206 - INFO - Article 2916: Abstract tokens: 1030, PLS tokens: 535 - Truncating
+2025-02-28 13:34:03,322 - INFO - Article 2917: Abstract tokens: 1076, PLS tokens: 517 - Truncating
+2025-02-28 13:34:03,865 - INFO - Processing article 2921/3074
+2025-02-28 13:34:04,641 - INFO - Article 2927: Abstract tokens: 1055, PLS tokens: 756 - Truncating
+2025-02-28 13:34:04,992 - INFO - Article 2930: Abstract tokens: 1289, PLS tokens: 549 - Truncating
+2025-02-28 13:34:05,213 - INFO - Processing article 2931/3074
+2025-02-28 13:34:05,469 - INFO - Article 2934: Abstract tokens: 1028, PLS tokens: 751 - Truncating
+2025-02-28 13:34:05,842 - INFO - Article 2936: Abstract tokens: 1226, PLS tokens: 401 - Truncating
+2025-02-28 13:34:06,079 - INFO - Article 2937: Abstract tokens: 1079, PLS tokens: 956 - Truncating
+2025-02-28 13:34:06,575 - INFO - Processing article 2941/3074
+2025-02-28 13:34:06,945 - INFO - Article 2947: Abstract tokens: 1201, PLS tokens: 586 - Truncating
+2025-02-28 13:34:07,395 - INFO - Processing article 2951/3074
+2025-02-28 13:34:07,407 - INFO - Article 2951: Abstract tokens: 1068, PLS tokens: 341 - Truncating
+2025-02-28 13:34:07,540 - INFO - Article 2952: Abstract tokens: 1041, PLS tokens: 370 - Truncating
+2025-02-28 13:34:07,674 - INFO - Article 2953: Abstract tokens: 1050, PLS tokens: 777 - Truncating
+2025-02-28 13:34:07,857 - INFO - Article 2954: Abstract tokens: 1191, PLS tokens: 489 - Truncating
+2025-02-28 13:34:08,007 - INFO - Article 2955: Abstract tokens: 1086, PLS tokens: 410 - Truncating
+2025-02-28 13:34:08,518 - INFO - Article 2959: Abstract tokens: 1035, PLS tokens: 632 - Truncating
+2025-02-28 13:34:08,732 - INFO - Processing article 2961/3074
+2025-02-28 13:34:08,785 - INFO - Article 2961: Abstract tokens: 1831, PLS tokens: 1281 - Truncating
+2025-02-28 13:34:09,088 - INFO - Article 2963: Abstract tokens: 1138, PLS tokens: 994 - Truncating
+2025-02-28 13:34:09,781 - INFO - Article 2970: Abstract tokens: 1274, PLS tokens: 697 - Truncating
+2025-02-28 13:34:09,897 - INFO - Processing article 2971/3074
+2025-02-28 13:34:09,996 - INFO - Article 2972: Abstract tokens: 1723, PLS tokens: 769 - Truncating
+2025-02-28 13:34:10,196 - INFO - Article 2974: Abstract tokens: 1350, PLS tokens: 660 - Truncating
+2025-02-28 13:34:10,869 - INFO - Processing article 2981/3074
+2025-02-28 13:34:11,095 - INFO - Article 2984: Abstract tokens: 1383, PLS tokens: 758 - Truncating
+2025-02-28 13:34:11,494 - INFO - Article 2988: Abstract tokens: 1089, PLS tokens: 441 - Truncating
+2025-02-28 13:34:11,849 - INFO - Processing article 2991/3074
+2025-02-28 13:34:12,240 - INFO - Article 2994: Abstract tokens: 1034, PLS tokens: 507 - Truncating
+2025-02-28 13:34:12,390 - INFO - Article 2995: Abstract tokens: 1512, PLS tokens: 443 - Truncating
+2025-02-28 13:34:13,420 - INFO - Processing article 3001/3074
+2025-02-28 13:34:13,572 - INFO - Article 3002: Abstract tokens: 1067, PLS tokens: 453 - Truncating
+2025-02-28 13:34:14,118 - INFO - Article 3007: Abstract tokens: 1083, PLS tokens: 730 - Truncating
+2025-02-28 13:34:14,455 - INFO - Article 3009: Abstract tokens: 1229, PLS tokens: 771 - Truncating
+2025-02-28 13:34:14,715 - INFO - Processing article 3011/3074
+2025-02-28 13:34:15,022 - INFO - Article 3013: Abstract tokens: 1033, PLS tokens: 797 - Truncating
+2025-02-28 13:34:15,192 - INFO - Article 3014: Abstract tokens: 1255, PLS tokens: 556 - Truncating
+2025-02-28 13:34:15,456 - INFO - Article 3016: Abstract tokens: 1149, PLS tokens: 287 - Truncating
+2025-02-28 13:34:15,694 - INFO - Article 3018: Abstract tokens: 1063, PLS tokens: 939 - Truncating
+2025-02-28 13:34:15,898 - INFO - Article 3019: Abstract tokens: 1029, PLS tokens: 865 - Truncating
+2025-02-28 13:34:16,220 - INFO - Processing article 3021/3074
+2025-02-28 13:34:16,469 - INFO - Article 3023: Abstract tokens: 1148, PLS tokens: 806 - Truncating
+2025-02-28 13:34:16,674 - INFO - Article 3024: Abstract tokens: 1200, PLS tokens: 429 - Truncating
+2025-02-28 13:34:17,157 - INFO - Article 3028: Abstract tokens: 1102, PLS tokens: 500 - Truncating
+2025-02-28 13:34:17,278 - INFO - Article 3029: Abstract tokens: 1281, PLS tokens: 428 - Truncating
+2025-02-28 13:34:17,533 - INFO - Processing article 3031/3074
+2025-02-28 13:34:17,565 - INFO - Article 3031: Abstract tokens: 1110, PLS tokens: 354 - Truncating
+2025-02-28 13:34:18,013 - INFO - Article 3035: Abstract tokens: 1054, PLS tokens: 602 - Truncating
+2025-02-28 13:34:18,495 - INFO - Processing article 3041/3074
+2025-02-28 13:34:18,520 - INFO - Article 3041: Abstract tokens: 1179, PLS tokens: 541 - Truncating
+2025-02-28 13:34:18,634 - INFO - Article 3042: Abstract tokens: 1072, PLS tokens: 538 - Truncating
+2025-02-28 13:34:18,739 - INFO - Article 3043: Abstract tokens: 1071, PLS tokens: 410 - Truncating
+2025-02-28 13:34:19,439 - INFO - Processing article 3051/3074
+2025-02-28 13:34:19,469 - INFO - Article 3051: Abstract tokens: 1186, PLS tokens: 656 - Truncating
+2025-02-28 13:34:19,808 - INFO - Article 3054: Abstract tokens: 1125, PLS tokens: 958 - Truncating
+2025-02-28 13:34:20,358 - INFO - Article 3059: Abstract tokens: 1696, PLS tokens: 856 - Truncating
+2025-02-28 13:34:20,517 - INFO - Processing article 3061/3074
+2025-02-28 13:34:20,821 - INFO - Article 3064: Abstract tokens: 1229, PLS tokens: 434 - Truncating
+2025-02-28 13:34:21,086 - INFO - Article 3066: Abstract tokens: 1049, PLS tokens: 810 - Truncating
+2025-02-28 13:34:21,604 - INFO - Processing article 3071/3074
+2025-02-28 13:34:21,941 - INFO - Final dataset size: 3074 articles
+2025-02-28 13:34:21,955 - INFO - Saving results...
+2025-02-28 13:34:22,430 - INFO - Saved data_final.json
+2025-02-28 13:34:23,896 - INFO - Saved data_final_1024.json
+2025-02-28 13:34:23,921 - INFO - Processing complete
+2025-02-28 13:34:23,922 - INFO - Script finished

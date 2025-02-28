@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005091.pub4",
+  "name": "One dose per day compared to multiple doses per day of gentamicin for treatment of suspected or proven sepsis in neonates ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Animal studies and trials in older children and adults suggest that a 'one dose per day' regimen of gentamicin is superior to a 'multiple doses per day' regimen."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy and safety of one dose per day compared to multiple doses per day of gentamicin in suspected or proven sepsis in neonates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Eligible studies were identified by searching the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 3) in the Cochrane Library (searched 8 April 2016), MEDLINE (1966 to 8 April 2016), Embase (1980 to 8 April 2016), and CINAHL (December 1982 to 8 April 2016)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised or quasi-randomised controlled trials comparing one dose per day ('once a day') compared to multiple doses per day ('multiple doses a day') of gentamicin to newborn infants."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data collection and analysis was performed according to the standards of the Cochrane Neonatal Review Group."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eleven RCTs were included (N = 574) and 28 excluded. All except one study enrolled infants of more than 32 weeks' gestation. Limited information suggested that infants in both 'once a day' as well as 'multiple doses a day' regimens showed adequate clearance of sepsis (typical RR 1.00, 95% CI 0.84 to 1.19; typical RD 0.00, 95% CI −0.19 to 0.19; 3 trials; N = 37). 'Once a day' gentamicin regimen was associated with fewer failures to attain peak level of at least 5 µg/ml (typical RR 0.22, 95% CI 0.11 to 0.47; typical RD −0.13, 95% CI −0.19 to −0.08; number needed to treat for an additional beneficial outcome (NNTB) = 8; 9 trials; N = 422); and fewer failures to achieve trough levels of 2 µg/ml or less (typical RR 0.38, 95% CI 0.27 to 0.55; typical RD −0.22, 95% CI −0.29 to −0.15; NNTB = 4; 11 trials; N = 503). 'Once a day' gentamicin achieved higher peak levels (MD 2.58, 95% CI 2.26 to 2.89; 10 trials; N = 440) and lower trough levels (MD −0.57, 95% CI −0.69 to −0.44; 10 trials; N = 440) than 'multiple doses a day' regimen. There was no significant difference in ototoxicity between two groups (typical RR 1.69, 95% CI 0.18 to 16.25; typical RD 0.01, 95% CI −0.04 to 0.05; 5 trials; N = 214). Nephrotoxicity was not noted with either of the treatment regimens. Overall, the quality of evidence was considered to be moderate on GRADE analysis, given the small sample size and unclear/high risk of bias in some of the domains in a few of the included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence from the currently available RCTs to conclude whether a 'once a day' or a 'multiple doses a day' regimen of gentamicin is superior in treating proven neonatal sepsis. However, data suggest that pharmacokinetic properties of a 'once a day' gentamicin regimen are superior to a 'multiple doses a day' regimen in that it achieves higher peak levels while avoiding toxic trough levels. There was no change in nephrotoxicity or auditory toxicity. Based on the assessment of pharmacokinetics, a 'once a day regimen' may be superior in treating sepsis in neonates of more than 32 weeks' gestation."
+    }
+  ],
+  "pls_title": "Gentamicin dosage in neonates",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Gentamicin is a commonly used antibiotic that is very effective in treating bacterial infections in newborn babies."
+    },
+    {
+      "heading": "Review question",
+      "text": "Whether giving the full dose of gentamicin as a single dose per day is better than giving it as multiple small doses in a day in newborn babies."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Eleven scientific studies were analysed to derive the best available evidence. The majority of the studies included newborn babies born after 32 weeks' gestation. The main outcomes assessed were drug levels in the blood and kidney functions. The search was updated to 29 April 2016."
+    },
+    {
+      "heading": "Key results",
+      "text": "Safer and potentially more effective levels of the drug were maintained using a 'one dose per day' treatment schedule. No differences in the risk of adverse effects on the kidney function or hearing were noted between two regimens."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality was evidence was considered as moderate because the sample size was relatively small and two of the studies were scientifically less robust."
+    }
+  ]
+}

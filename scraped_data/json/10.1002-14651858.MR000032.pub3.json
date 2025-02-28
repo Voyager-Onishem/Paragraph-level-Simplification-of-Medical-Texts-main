@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.MR000032.pub3",
+  "name": "Strategies to improve retention in randomised trials",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Poor retention of participants in randomised trials can lead to missing outcome data which can introduce bias and reduce study power, affecting the generalisability, validity and reliability of results. Many strategies are used to improve retention but few have been formally evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the effect of strategies to improve retention of participants in randomised trials and to investigate if the effect varied by trial setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Scopus, PsycINFO, CINAHL, Web of Science Core Collection (SCI-expanded, SSCI, CPSI-S, CPCI-SSH and ESCI) either directly with a specified search strategy or indirectly through the ORRCA database. We also searched the SWAT repository to identify ongoing or recently completed retention trials. We did our most recent searches in January 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included eligible randomised or quasi-randomised trials of evaluations of strategies to increase retention that were embedded in 'host' randomised trials from all disease areas and healthcare settings. We excluded studies aiming to increase treatment compliance."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data on: the retention strategy being evaluated; location of study; host trial setting; method of randomisation; numbers and proportions in each intervention and comparator group. We used a risk difference (RD) and 95% confidence interval (CI) to estimate the effectiveness of the strategies to improve retention. We assessed heterogeneity between trials. We applied GRADE to determine the certainty of the evidence within each comparison."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 70 eligible papers that reported data from 81 retention trials. We included 69 studies with more than 100,000 participants in the final meta-analyses, of which 67 studies evaluated interventions aimed at trial participants and two evaluated interventions aimed at trial staff involved in retention. All studies were in health care and most aimed to improve postal questionnaire response. Interventions were categorised into broad comparison groups: Data collection; Participants; Sites and site staff; Central study management; and Study design.\nThese intervention groups consisted of 52 comparisons, none of which were supported by high-certainty evidence as determined by GRADE assessment. There were four comparisons presenting moderate-certainty evidence, three supporting retention (self-sampling kits, monetary reward together with reminder or prenotification and giving a pen at recruitment) and one reducing retention (inclusion of a diary with usual follow-up compared to usual follow-up alone). Of the remaining studies, 20 presented GRADE low-certainty evidence and 28 presented very low-certainty evidence.\nOur findings do provide a priority list for future replication studies, especially with regard to comparisons that currently rely on a single study."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Most of the interventions we identified aimed to improve retention in the form of postal questionnaire response. There were few evaluations of ways to improve participants returning to trial sites for trial follow-up. None of the comparisons are supported by high-certainty evidence. Comparisons in the review where the evidence certainty could be improved with the addition of well-done studies should be the focus for future evaluations."
+    }
+  ],
+  "pls_title": "Strategies that might help to encourage people to continue to participate in a randomised trial (a type of scientific study)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Randomised trials are a type of scientific study typically used to test new healthcare treatments. In a randomised trial, people who agree to take part are randomly (by chance) put into one of two or more treatment groups and then studied for a period of time. The research team try to keep in touch with them to collect information about how they are doing. This 'follow up' can last from days to years depending on the trial, but the longer the trial lasts, the more difficult it can be. This might be because people are too busy to reply, are unable to come to a clinic, or just do not want to participate any longer. Keeping people in a trial is called 'retention'. If retention is poor, it can make the trial results less certain but most trials do not get data from all the people who started out in the trial.\nThe information gathered during follow-up, sometimes called data, helps the trial team to determine which of the treatments being tested works the best. Often this information is collected directly from patients by asking them to complete a questionnaire or by asking them to come back for a clinic visit.\nThere are many ways to collect data from people in trials. These include using letters, the internet, telephone calls, text messaging, face-to-face meetings or the return of medical test kits. Research teams use different methods to try to collect data and it's important to know which strategies are effective and worthwhile, which is why we did this review to compare the success of different strategies."
+    },
+    {
+      "heading": "How did we identify and evaluate the evidence?",
+      "text": "We searched scientific databases for studies that compared strategies that research teams use to improve trial retention against each other or against not using such a strategy.We looked for studies that included participants from any age, gender, ethnic, language or geographic group. We then compared the results of the studies, and summarised the evidence that we had found. Finally, we rated our confidence in this evidence, based on factors such as the methods used in the studies and their size, and the consistency of findings across studies."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified 70 relevant articles, which reported 81 retention studies involving more than 100,000 participants, that had investigated different ways of trying to encourage randomised trial participants to provide data and stay in the trial. We organised these into broad comparison groups but, unfortunately, we are not able to say with confidence that any of the results we found is a true effect and not caused by other factors, such as flaws with the design of the studies. As such, the effect of ways to encourage people to stay involved in trials is still not clear and more research is needed to see if these retention methods really do work."
+    },
+    {
+      "heading": "How certain is the evidence and how up-to-date is this review?",
+      "text": "The strategies we identified were tested in randomised trials run in many different disease areas and settings but, in some cases, were tested in only one trial. None of the comparisons we made provided high quality evidence and more studies are needed to help provide more confidence for the results we did find. The evidence in this Cochrane Review is current to January 2020."
+    }
+  ]
+}

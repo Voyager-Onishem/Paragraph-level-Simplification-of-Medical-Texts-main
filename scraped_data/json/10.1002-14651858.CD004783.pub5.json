@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004783.pub5",
+  "name": "Antibiotics for acute laryngitis in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of the original review published in 2005. Acute laryngitis is a common illness worldwide. Diagnosis is often made by case history alone and treatment often targets symptoms."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of different antibiotic therapies in adults with acute laryngitis. A secondary objective was to report the rates of adverse events associated with these treatments."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2014, Issue 11), MEDLINE (January 1966 to November week 3, 2014), EMBASE (1974 to December 2014), LILACS (1982 to December 2014) and BIOSIS (1980 to December 2014)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing any antibiotic therapy with placebo for acute laryngitis. The main outcome was objective voice scores."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted and synthesised data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three RCTs (351 participants) that had moderate to high risk of bias. The quality of the evidence was very low for all outcomes. We downgraded the studies because of limitations in study design or execution (risk of bias), imprecision and inconsistency of results. We included a new trial presented only as a conference abstract in this update.\nIn one study of acute laryngitis in adults, 100 participants were randomised to receive penicillin V (800 mg twice daily for five days) or an identical placebo. A recording of each patient reading a standardised text was made at the first visit, during re-examination after one and two weeks, and at follow-up after two to six months. No significant differences were found between the groups. The trial also measured symptoms reported by participants and found no significant differences.\nOne study investigated erythromycin for acute laryngitis in 106 adults. The mean objective voice scores measured at the first visit, at re-examination after one and two weeks, and at follow-up after two to six months did not significantly differ between the groups. At one week there were significant beneficial differences in the severity of reported vocal symptoms (slight, moderate and severe) as judged by participants (P value = 0.042). However, the rates of participants having improved voice disturbance (subjective symptoms) at one and two weeks were not significantly different among groups. Comparing erythromycin and placebo groups on the rate of persistence of cough at two weeks, the risk ratio (RR) was 0.38 (95% confidence interval (CI) 0.15 to 0.97, P value = 0.04) and the number needed to treat for an additional beneficial outcome (NNTB) was 5.87 (95% CI 3.09 to 65.55). We calculated a RR of 0.64 (95% CI 0.46 to 0.90, P value = 0.034) and a NNTB of 3.76 (95% CI 2.27 to 13.52; P value = 0.01) for the subjective voice scores at one week.\nA third trial from Russia included 145 patients with acute laryngitis symptoms. Participants were randomised to three treatment groups: Group 1: seven-day course of fusafungine (six times a day by inhalation); Group 2: seven-day course of fusafungine (six times a day by inhalation) plus clarithromycin (250 mg twice daily for seven days); Group 3: no treatment. Clinical cure rates were measured at days 5 ± 1, 8 ± 1 and 28 ± 2. The authors reported significant differences in the rates of clinical cure at day 5 ± 1 favouring fusafungine (one trial; 93 participants; RR 1.50, 95% CI 1.02 to 2.20; P value = 0.04) and fusafungine plus clarithromycin (one trial 97 participants; RR 1.47, 95% CI 1.00 to 2.16; P value = 0.05) when compared to no treatment. However, no significant differences were found at days 8 ± 1 and 28 ± 2. Also, no significant differences were found when comparing fusafungine to fusafungine plus clarithromycin at days 5 ± 1, 8 ± 1 and 28 ± 2."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotics do not appear to be effective in treating acute laryngitis when assessing objective outcomes. They appear to be beneficial for some subjective outcomes. Erythromycin could reduce voice disturbance at one week and cough at two weeks when measured subjectively. Fusafungine could increase the cure rate at day five. The included RCTs had important methodological problems and these modest benefits from antibiotics may not outweigh their cost, adverse effects or negative consequences for antibiotic resistance patterns."
+    }
+  ],
+  "pls_title": "Antibiotics to treat adults with acute laryngitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Cochrane authors reviewed the available evidence from randomised controlled trials on the use of antibiotics for adults with acute laryngitis."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute laryngitis is an inflammation of the larynx. The most common symptoms are hoarseness, fever, sore throat, postnasal discharge and difficulty in swallowing. Antibiotics are frequently prescribed by physicians or self prescribed. Reasons for over-prescribing antibiotics in upper respiratory tract infections such as acute laryngitis are varied but they often involve physicians' and patients' attitudes and expectations."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review found three studies involving 351 participants evaluating the effectiveness of different antibiotic therapies in adults with acute laryngitis. The evidence is current to December 2014."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We ranked the quality of the evidence as low to very low, mainly because many studies had methodological limitations, outcome results were based on limited numbers of trials and the trials included participants that could not be pooled."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that penicillin V and erythromycin appear to have no benefit in treating acute laryngitis. Erythromycin could reduce voice disturbance at one week and cough at two weeks when measured subjectively. Fusafungine could improve the rates of cured patients at day five. Overall, there is no clear benefit for the primary outcome, which is an objective assessment of voice quality, but some improvements are seen in subjective measures (i.e. cough, hoarseness of voice) that could be important to patients. However, we consider that these modest benefits from antibiotics may not outweigh their cost, adverse effects or negative consequences for antibiotic resistance patterns. The implications for practice are that prescribing antibiotics should not be done in the first instance as they will not objectively improve symptoms"
+    }
+  ]
+}

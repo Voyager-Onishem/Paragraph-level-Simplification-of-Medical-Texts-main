@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011556.pub2",
+  "name": "Strategies to improve smoking cessation rates in primary care",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Primary care is an important setting in which to treat tobacco addiction. However, the rates at which providers address smoking cessation and the success of that support vary. Strategies can be implemented to improve and increase the delivery of smoking cessation support (e.g. through provider training), and to increase the amount and breadth of support given to people who smoke (e.g. through additional counseling or tailored printed materials)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of strategies intended to increase the success of smoking cessation interventions in primary care settings.\nTo assess whether any effect that these interventions have on smoking cessation may be due to increased implementation by healthcare providers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group's Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and trial registries to 10 September 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and cluster-RCTs (cRCTs) carried out in primary care, including non-pregnant adults. Studies investigated a strategy or strategies to improve the implementation or success of smoking cessation treatment in primary care. These strategies could include interventions designed to increase or enhance the quality of existing support, or smoking cessation interventions offered in addition to standard care (adjunctive interventions). Intervention strategies had to be tested in addition to and in comparison with standard care, or in addition to other active intervention strategies if the effect of an individual strategy could be isolated. Standard care typically incorporates physician-delivered brief behavioral support, and an offer of smoking cessation medication, but differs across studies. Studies had to measure smoking abstinence at six months' follow-up or longer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methods. Our primary outcome - smoking abstinence - was measured using the most rigorous intention-to-treat definition available. We also extracted outcome data for quit attempts, and the following markers of healthcare provider performance: asking about smoking status; advising on cessation; assessment of participant readiness to quit; assisting with cessation; arranging follow-up for smoking participants. Where more than one study investigated the same strategy or set of strategies, and measured the same outcome, we conducted meta-analyses using Mantel-Haenszel random-effects methods to generate pooled risk ratios (RRs) and 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 81 RCTs and cRCTs, involving 112,159 participants. Fourteen were rated at low risk of bias, 44 at high risk, and the remainder at unclear risk.\nWe identified moderate-certainty evidence, limited by inconsistency, that the provision of adjunctive counseling by a health professional other than the physician (RR 1.31, 95% CI 1.10 to 1.55; I2 = 44%; 22 studies, 18,150 participants), and provision of cost-free medications (RR 1.36, 95% CI 1.05 to 1.76; I2 = 63%; 10 studies,7560 participants) increased smoking quit rates in primary care. There was also moderate-certainty evidence, limited by risk of bias, that the addition of tailored print materials to standard smoking cessation treatment increased the number of people who had successfully stopped smoking at six months' follow-up or more (RR 1.29, 95% CI 1.04 to 1.59; I2 = 37%; 6 studies, 15,978 participants).\nThere was no clear evidence that providing participants who smoked with biomedical risk feedback increased their likelihood of quitting (RR 1.07, 95% CI 0.81 to 1.41; I2 = 40%; 7 studies, 3491 participants), or that provider smoking cessation training (RR 1.10, 95% CI 0.85 to 1.41; I2 = 66%; 7 studies, 13,685 participants) or provider incentives (RR 1.14, 95% CI 0.97 to 1.34; I2 = 0%; 2 studies, 2454 participants) increased smoking abstinence rates. However, in assessing the former two strategies we judged the evidence to be of low certainty and in assessing the latter strategies it was of very low certainty. We downgraded the evidence due to imprecision, inconsistency and risk of bias across these comparisons. There was some indication that provider training increased the delivery of smoking cessation support, along with the provision of adjunctive counseling and cost-free medications. However, our secondary outcomes were not measured consistently, and in many cases analyses were subject to substantial statistical heterogeneity, imprecision, or both, making it difficult to draw conclusions.\nThirty-four studies investigated multicomponent interventions to improve smoking cessation rates. There was substantial variation in the combinations of strategies tested, and the resulting individual study effect estimates, precluding meta-analyses in most cases. Meta-analyses provided some evidence that adjunctive counseling combined with either cost-free medications or provider training enhanced quit rates when compared with standard care alone. However, analyses were limited by small numbers of events, high statistical heterogeneity, and studies at high risk of bias. Analyses looking at the effects of combining provider training with flow sheets to aid physician decision-making, and with outreach facilitation, found no clear evidence that these combinations increased quit rates; however, analyses were limited by imprecision, and there was some indication that these approaches did improve some forms of provider implementation."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is moderate-certainty evidence that providing adjunctive counseling by an allied health professional, cost-free smoking cessation medications, and tailored printed materials as part of smoking cessation support in primary care can increase the number of people who achieve smoking cessation. There is no clear evidence that providing participants with biomedical risk feedback, or primary care providers with training or incentives to provide smoking cessation support enhance quit rates. However, we rated this evidence as of low or very low certainty, and so conclusions are likely to change as further evidence becomes available. Most of the studies in this review evaluated smoking cessation interventions that had already been extensively tested in the general population. Further studies should assess strategies designed to optimize the delivery of those interventions already known to be effective within the primary care setting. Such studies should be cluster-randomized to account for the implications of implementation in this particular setting. Due to substantial variation between studies in this review, identifying optimal characteristics of multicomponent interventions to improve the delivery of smoking cessation treatment was challenging. Future research could use component network meta-analysis to investigate this further."
+    }
+  ],
+  "pls_title": "Are there ways to improve stop-smoking treatment in primary care to help more people to quit smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is stop-smoking treatment in primary care?",
+      "text": "Primary care, also known as family medicine or general practice, is where people go to see a health professional for mostly day-to-day health issues. It is one of the best places for people who smoke tobacco to get help to quit. When people visit primary care they may be asked if they smoke. If they do, they may then be helped to quit, typically through counseling and medications."
+    },
+    {
+      "heading": "Why we did this Cochrane Review",
+      "text": "Support to stop smoking in primary care is not always delivered well or consistently. Health providers may be unsure how best to deliver treatment, may have limited time to deliver it, or lack the resources needed. Ways to improve the delivery and success of stop-smoking support in primary care have been suggested. Some of these are designed to make sure the treatment already available is delivered often and well, e.g. training providers on how best to help people quit, and some are designed to increase the support available for participants, e.g. providing additional counseling and printed materials. Our aim was to look at which of these approaches works best on their own or together."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at ways to improve standard stop-smoking support within primary care, and where the treatments people received were decided at random.\nWe wanted to find out:\n- how many people were asked about their smoking and provided with advice and support;\n- how many people tried to quit smoking; and\n- how many people stopped smoking for at least six months.\nWe included evidence published to 10th September 2020."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 81 studies including 112,159 smokers in primary care patients. Studies looked at many ways to improve the delivery and success of stop-smoking support in primary care. Some looked at just one strategy, and some looked at two or more in combination. More than one study looked at each of the following individual strategies: additional counseling; free medications; feedback to participants on markers of their individual health risk linked to smoking; printed materials tailored to participants; health provider training; and rewards to health providers for providing support.\nMost studies took place in Europe (39 studies) and the USA (26 studies)."
+    },
+    {
+      "heading": "What are the results of our review?",
+      "text": "More people probably stop smoking for at least six months when they are given additional counseling (22 studies, 18,150 people), free stop-smoking medications (10 studies, 7560 people), or printed materials tailored to them (6 studies, 15,978 people), as part of stop-smoking support in primary care. We are uncertain whether providing people with feedback on markers of their individual health risk, providing healthcare providers with training, or with rewards for providing stop-smoking support, help more people to quit.\nThirty-four studies looked at more than one strategy to improve stop-smoking treatment in primary care. Combinations differed greatly across studies, with different levels of success, and it was not possible to draw conclusions on what worked best.\nThere was not enough information to help us clearly understand whether there were increases in the amount of stop-smoking support provided or increases in the numbers of people making a quit attempt."
+    },
+    {
+      "heading": "How reliable are these results?",
+      "text": "For some of our results the data varied widely, for some there was not enough data, and in some cases there were quality issues with included studies.\nWe are moderately confident that people are more likely to quit smoking if someone in addition to the primary care doctor also provides stop-smoking counseling, if free stop-smoking medications are provided, or if printed materials tailored to the participant are provided as part of stop-smoking support offered in primary care. However, results might change as further evidence becomes available.\nWe are less confident about the effectiveness of providing people with feedback on markers of their individual health risk, giving healthcare providers training on stop-smoking treatments, or giving healthcare providers rewards for giving stop-smoking support. These results are likely to change when more evidence becomes available."
+    }
+  ]
+}

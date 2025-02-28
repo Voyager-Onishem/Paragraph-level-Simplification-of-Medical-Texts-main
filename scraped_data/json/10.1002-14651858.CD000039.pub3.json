@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000039.pub3",
+  "name": "Interventions for deliberately altering blood pressure in acute stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "It is unclear whether blood pressure should be altered actively during the acute phase of stroke. This is an update of a Cochrane review first published in 1997, and previously updated in 2001 and 2008."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effectiveness of altering blood pressure in people with acute stroke, and the effect of different vasoactive drugs on blood pressure in acute stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched in February 2014), the Cochrane Database of Systematic reviews (CDSR) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 2), MEDLINE (Ovid) (1966 to May 2014), EMBASE (Ovid) (1974 to May 2014), Science Citation Index (ISI, Web of Science, 1981 to May 2014) and the Stroke Trials Registry (searched May 2014)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of interventions that aimed to alter blood pressure compared with control in participants within one week of acute ischaemic or haemorrhagic stroke."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the inclusion criteria, assessed trial quality and extracted data. The review authors cross-checked data and resolved discrepancies by discussion to reach consensus. We obtained published and unpublished data where available."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 26 trials involving 17,011 participants (8497 participants were assigned active therapy and 8514 participants received placebo/control). Not all trials contributed to each outcome. Most data came from trials that had a wide time window for recruitment; four trials gave treatment within six hours and one trial within eight hours. The trials tested alpha-2 adrenergic agonists (A2AA), angiotensin converting enzyme inhibitors (ACEI), angiotensin receptor antagonists (ARA), calcium channel blockers (CCBs), nitric oxide (NO) donors, thiazide-like diuretics, and target-driven blood pressure lowering. One trial tested phenylephrine.\nAt 24 hours after randomisation oral ACEIs reduced systolic blood pressure (SBP, mean difference (MD) -8 mmHg, 95% confidence interval (CI) -17 to 1) and diastolic blood pressure (DBP, MD -3 mmHg, 95% CI -9 to 2), sublingual ACEIs reduced SBP (MD -12.00 mm Hg, 95% CI -26 to 2) and DBP (MD -2, 95%CI -10 to 6), oral ARA reduced SBP (MD -1 mm Hg, 95% CI -3 to 2) and DBP (MD -1 mm Hg, 95% CI -3 to 1), oral beta blockers reduced SBP (MD -14 mm Hg; 95% CI -27 to -1) and DBP (MD -1 mm Hg, 95% CI -9 to 7), intravenous (iv) beta blockers reduced SBP (MD -5 mm Hg, 95% CI -18 to 8) and DBP (-5 mm Hg, 95% CI -13 to 3), oral CCBs reduced SBP (MD -13 mmHg, 95% CI -43 to 17) and DBP (MD -6 mmHg, 95% CI -14 to 2), iv CCBs reduced SBP (MD -32 mmHg, 95% CI -65 to 1) and DBP (MD -13, 95% CI -31 to 6), NO donors reduced SBP (MD -12 mmHg, 95% CI -19 to -5) and DBP (MD -3, 95% CI -4 to -2) while phenylephrine, non-significantly increased SBP (MD 21 mmHg, 95% CI -13 to 55) and DBP (MD 1 mmHg, 95% CI -15 to 16).\nBlood pressure lowering did not reduce death or dependency either by drug class (OR 0.98, 95% CI 0.92 to 1.05), stroke type (OR 0.98, 95% CI 0.92 to 1.05) or time to treatment (OR 0.98, 95% CI 0.92 to 1.05). Treatment within six hours of stroke appeared effective in reducing death or dependency (OR 0.86, 95% CI 0.76 to 0.99) but not death (OR 0.70, 95% CI 0.38 to 1.26) at the end of the trial. Although death or dependency did not differ between people who continued pre-stroke antihypertensive treatment versus those who stopped it temporarily (worse outcome with continuing treatment, OR 1.06, 95% CI 0.91 to 1.24), disability scores at the end of the trial were worse in participants randomised to continue treatment (Barthel Index, MD -3.2, 95% CI -5.8, -0.6)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence that lowering blood pressure during the acute phase of stroke improves functional outcome. It is reasonable to withhold blood pressure-lowering drugs until patients are medically and neurologically stable, and have suitable oral or enteral access, after which drugs can than be reintroduced. In people with acute stroke, CCBs, ACEI, ARA, beta blockers and NO donors each lower blood pressure while phenylephrine probably increases blood pressure. Further trials are needed to identify which people are most likely to benefit from early treatment, in particular whether treatment started very early is beneficial."
+    }
+  ],
+  "pls_title": "Drug interventions for deliberately altering blood pressure in acute stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "In people who have just had a stroke (a sudden brain attack due to either blockage or rupture of an artery in the brain), very high and very low blood pressures may be harmful. Therefore, drugs that raise low blood pressure or lower high blood pressure might be beneficial. Up to 50% of people admitted with acute stroke are taking blood pressure tablets on hospital admission and it is not clear whether these medications should be continued or discontinued in the acute situation. This review looked at those trials that deliberately altered blood pressure or compared continuing or stopping blood pressure-lowering tablets taken before stroke."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review is up-to-date to May 2014. We included 26 trials involving 17,011 participants: 24 trials assessed lowering blood pressure, one trial tested raising blood pressure, and two trials assessed what to do with drugs taken before stroke. All studies took place in hospitals that were used to treating people with stroke. Not all trials contributed information to all outcomes, and we have used data that were available in publications."
+    },
+    {
+      "heading": "Key results",
+      "text": "There is insufficient evidence to say that lowering blood pressure saves lives or reduces disability in people with acute stroke. Immediately restarting blood pressure-lowering drugs taken before the stroke may increase disability."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "More research is needed to identify those people who are most likely to benefit from altering blood pressure in acute stroke, the time window in which the treatment is likely to be of benefit, what types of stroke are likely to respond favourably, and the environment in which such treatment may be best given in routine practice."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006452.pub4",
+  "name": "Rapid viral diagnosis for acute febrile respiratory illness in children in the Emergency Department ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pediatric acute respiratory infections (ARIs) represent a significant burden on pediatric Emergency Departments (EDs) and families. Most of these illnesses are due to viruses. However, investigations (radiography, blood, and urine testing) to rule out bacterial infections and antibiotics are often ordered because of diagnostic uncertainties. This results in prolonged ED visits and unnecessary antibiotic use. The risk of concurrent bacterial infection has been reported to be negligible in children over three months of age with a confirmed viral infection. Rapid viral testing in the ED may alleviate the need for precautionary testing and antibiotic use."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if the use of a rapid viral detection test for children with an acute respiratory infection (ARI) in Emergency Departments (EDs) changes patient management and resource use in the ED, compared to not using a rapid viral detection test. We hypothesized that rapid viral testing reduces antibiotic use in the ED as well as reduces the rate of ancillary testing and length of ED visits."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2014, Issue 6), MEDLINE (1950 to July week 1, 2014), MEDLINE In-Process & Other Non-Indexed Citations (15 July 2014), EMBASE.com (1988 to July 2014), HealthStar (1966 to 2009), BIOSIS Previews (1969 to July 2014), CAB Abstracts (1973 to July 2014), CBCA Reference (1970 to 2007) and ProQuest Dissertations and Theses (1861 to 2009)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) of rapid viral testing for children with ARIs in the ED."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors used the inclusion criteria to select trials, evaluate their quality, and extract data. We obtained missing data from trial authors. We expressed differences in rate of investigations and antibiotic use as risk ratios (RRs), and expressed difference in ED length of visits as mean differences (MDs), with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "No new trials were identified in this 2014 update. We included four trials (three RCTs and one quazi-RCT), with 759 children in the rapid viral testing group and 829 in the control group. Three out of the four studies were comparable in terms of young age of participants, with one study increasing the age of inclusion up to five years of age. All studies included either fever or respiratory symptoms as inclusion criteria (two required both, one required fever or respiratory symptoms, and one required only fever). All studies were comparable in terms of exclusion criteria, intervention, and outcome data. In terms of risk of bias, one study failed to utilize a random sequence generator, one study did not comment on completeness of outcome data, and only one of four studies included allocation concealment as part of the study design. None of the studies definitively blinded participants.\nRapid viral testing resulted in a trend toward decreased antibiotic use in the ED, but this was not statistically significant. We found lower rates of chest radiography (RR 0.77, 95% CI 0.65 to 0.91) in the rapid viral testing group, but no effect on length of ED visits, or blood or urine testing in the ED. No study made mention of any adverse effects related to viral testing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to support routine rapid viral testing to reduce antibiotic use in pediatric EDs. Rapid viral testing may or may not reduce rates of antibiotic use, and other investigations (urine and blood testing); these studies do not provide enough power to resolve this question. However, rapid viral testing does reduce the rate of chest X-rays in the ED. An adequately powered trial with antibiotic use as an outcome is needed."
+    }
+  ],
+  "pls_title": "Rapid viral testing for children in the Emergency Department with fever and respiratory symptoms",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does rapid viral testing in the Emergency Department influence the treatment of children with fever and breathing symptoms?"
+    },
+    {
+      "heading": "Background",
+      "text": "Otherwise healthy children, aged 0 to 18 years, admitted to Emergency Departments (EDs) with fever and respiratory symptoms represent a major burden to the healthcare system, as well as significant anxiety and expense to parents and caregivers. Physicians often order diagnostic tests and may prescribe antibiotics when they are unsure of the cause of the illness and are concerned about the possibility of serious bacterial infection. However, in most cases, fever and respiratory symptoms are caused by viruses. In addition, in children in whom a virus is found to be the cause of their illness, the risk of serious bacterial infection is very low. We conducted this review to assess whether a rapid viral test, done in the ED, changes what physicians do when treating these children."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We reviewed studies retrievable as of July 2014. We included four prospective controlled studies of previously healthy children under 18 years of age who attended an ED of an urgent care clinic because of fever and respiratory symptoms."
+    },
+    {
+      "heading": "Key results",
+      "text": "Based on these four studies, involving 759 study participants, we found that in previously healthy children coming to the ED with fever and respiratory symptoms, a rapid viral test showed a trend towards fewer antibiotic prescriptions, but this finding was not statistically significant. However, we found that rapid viral testing reduces the use of chest X-rays. There are also blood and urine investigations that can be undertaken. The true impact of this intervention on the frequency of blood and urine testing, as well as the length of the ED visit, requires trials with larger numbers of children. None of the included studies reported harm or adverse events related to the intervention tested."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was considered moderate with regard to risk of bias, indirectness, imprecision, publication bias and inconsistency. While none of the studies used blinding, the impact of the use of rapid viral testing is in its ability to provide diagnostic information. Blinding of this interventions to the clinician would be impossible and make the intervention useless."
+    }
+  ]
+}

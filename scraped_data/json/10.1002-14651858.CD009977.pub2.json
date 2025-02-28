@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD009977.pub2",
+  "name": "Computed tomography for diagnosis of acute appendicitis in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Diagnosing acute appendicitis (appendicitis) based on clinical evaluation, blood testing, and urinalysis can be difficult. Therefore, in persons with suspected appendicitis, abdominopelvic computed tomography (CT) is often used as an add-on test following the initial evaluation to reduce remaining diagnostic uncertainty. The aim of using CT is to assist the clinician in discriminating between persons who need surgery with appendicectomy and persons who do not."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective\nOur primary objective was to evaluate the accuracy of CT for diagnosing appendicitis in adults with suspected appendicitis.\nSecondary objectives\nOur secondary objectives were to compare the accuracy of contrast-enhanced versus non-contrast-enhanced CT, to compare the accuracy of low-dose versus standard-dose CT, and to explore the influence of CT-scanner generation, radiologist experience, degree of clinical suspicion of appendicitis, and aspects of methodological quality on diagnostic accuracy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, and Science Citation Index until 16 June 2017. We also searched references lists. We did not exclude studies on the basis of language or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included prospective studies that compared results of CT versus outcomes of a reference standard in adults (> 14 years of age) with suspected appendicitis. We excluded studies recruiting only pregnant women; studies in persons with abdominal pain at any location and with no particular suspicion of appendicitis; studies in which all participants had undergone ultrasonography (US) before CT and the decision to perform CT depended on the US outcome; studies using a case-control design; studies with fewer than 10 participants; and studies that did not report the numbers of true-positives, false-positives, false-negatives, and true-negatives. Two review authors independently screened and selected studies for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently collected the data from each study and evaluated methodological quality according to the Quality Assessment of Studies of Diagnostic Accuracy - Revised (QUADAS-2) tool. We used the bivariate random-effects model to obtain summary estimates of sensitivity and specificity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 64 studies including 71 separate study populations with a total of 10,280 participants (4583 with and 5697 without acute appendicitis). Estimates of sensitivity ranged from 0.72 to 1.0 and estimates of specificity ranged from 0.5 to 1.0 across the 71 study populations. Summary sensitivity was 0.95 (95% confidence interval (CI) 0.93 to 0.96), and summary specificity was 0.94 (95% CI 0.92 to 0.95). At the median prevalence of appendicitis (0.43), the probability of having appendicitis following a positive CT result was 0.92 (95% CI 0.90 to 0.94), and the probability of having appendicitis following a negative CT result was 0.04 (95% CI 0.03 to 0.05). In subgroup analyses according to contrast enhancement, summary sensitivity was higher for CT with intravenous contrast (0.96, 95% CI 0.92 to 0.98), CT with rectal contrast (0.97, 95% CI 0.93 to 0.99), and CT with intravenous and oral contrast enhancement (0.96, 95% CI 0.93 to 0.98) than for unenhanced CT (0.91, 95% CI 0.87 to 0.93). Summary sensitivity of CT with oral contrast enhancement (0.89, 95% CI 0.81 to 0.94) and unenhanced CT was similar. Results show practically no differences in summary specificity, which varied from 0.93 (95% CI 0.90 to 0.95) to 0.95 (95% CI 0.90 to 0.98) between subgroups. Summary sensitivity for low-dose CT (0.94, 95% 0.90 to 0.97) was similar to summary sensitivity for standard-dose or unspecified-dose CT (0.95, 95% 0.93 to 0.96); summary specificity did not differ between low-dose and standard-dose or unspecified-dose CT. No studies had high methodological quality as evaluated by the QUADAS-2 tool. Major methodological problems were poor reference standards and partial verification primarily due to inadequate and incomplete follow-up in persons who did not have surgery."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The sensitivity and specificity of CT for diagnosing appendicitis in adults are high. Unenhanced standard-dose CT appears to have lower sensitivity than standard-dose CT with intravenous, rectal, or oral and intravenous contrast enhancement. Use of different types of contrast enhancement or no enhancement does not appear to affect specificity. Differences in sensitivity and specificity between low-dose and standard-dose CT appear to be negligible. The results of this review should be interpreted with caution for two reasons. First, these results are based on studies of low methodological quality. Second, the comparisons between types of contrast enhancement and radiation dose may be unreliable because they are based on indirect comparisons that may be confounded by other factors."
+    }
+  ],
+  "pls_title": "How accurate is computed tomography for the diagnosis of acute appendicitis in adults?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of appendicitis important?",
+      "text": "The purpose of using computed tomography (CT) in persons with suspected appendicitis is to assist the clinician in differentiating between persons who need surgery with resection of the appendix (appendicectomy) and persons who do not need this procedure."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out how accurate CT of the abdomen and pelvis is for diagnosing appendicitis in adults. Researchers at Cochrane included 64 studies in the review to answer this question."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "A CT-scan can be performed in several ways. Image quality can be improved by using intravenous contrast material, and visualization of the appendix can be better when oral or rectal contrast material is used. CT can also be performed with low-dose radiation. The radiation exposure related to CT may increase lifetime risk of cancer. This Cochrane Review studied the accuracy of the following types of CT: any type of CT, CT according to type of contrast material, and low-dose CT."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "This review included 64 relevant studies that reported results for 71 separate study populations with a total of 10,280 participants. Overall results of these studies indicate that in theory, if CT of any type were to be used in an emergency department in a group of 1000 people, of whom 43% have appendicitis, then:• an estimated 443 people would have a CT result indicating appendicitis, and of these, 8% would not have acute appendicitis; and• of the 557 people with a CT result indicating that appendicitis is not present, 4% would actually have acute appendicitis.Low-dose CT appeared to be as accurate as standard-dose CT for diagnosing appendicitis. CT with intravenous, rectal, or oral and intravenous contrast material appeared to be equally accurate, and more accurate than CT without use of contrast material."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "Among the included studies, the final diagnosis of appendicitis was based on operative findings or microscopic examination of the resected appendix. Among participants who did not have surgery, appendicitis was ruled out by following up to see whether their symptoms resolved without appendicectomy. This is likely to have been a reliable method for deciding whether patients really had appendicitis when follow-up was careful and complete. Unfortunately, this was not so in a substantial proportion of the included studies. In general, some problems with how the studies were conducted were evident. This may have resulted in CT appearing more accurate than it really is, thereby increasing the number of correct CT results (green rectangles) in the diagram."
+    },
+    {
+      "heading": "To whom do the results of this review apply?",
+      "text": "Studies included in the review were carried out mainly in emergency departments. Appendicitis was suspected in all participants following clinical examination and blood testing. Included studies evaluated a wide range of types of CT. Participants' average age ranged from 25 to 46 years across studies, and the percentage of women varied between 26% and 100%. The percentage of study participants with a final diagnosis of appendicitis varied between 13% and 92% across studies (average, 43%)."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "CT is an accurate test that is likely to assist clinicians in treating persons with possible appendicitis. Results of this review indicate that the chance of a clinician wrongly diagnosing acute appendicitis appears to be low (8% among those whose CT results suggest they have appendicitis). The chance of missing a diagnosis of appendicitis is also low (4% among those whose CT results suggest they do not have appendicitis)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for and included studies published up to 16 June 2017."
+    }
+  ]
+}

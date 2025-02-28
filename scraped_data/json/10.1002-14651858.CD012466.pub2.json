@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012466.pub2",
+  "name": "Pharmacological interventions for heart failure in people with chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Approximately half of people with heart failure have chronic kidney disease (CKD). Pharmacological interventions for heart failure in people with CKD have the potential to reduce death (any cause) or hospitalisations for decompensated heart failure. However, these interventions are of uncertain benefit and may increase the risk of harm, such as hypotension and electrolyte abnormalities, in those with CKD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aims to look at the benefits and harms of pharmacological interventions for HF (i.e., antihypertensive agents, inotropes, and agents that may improve the heart performance indirectly) in people with HF and CKD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies through 12 September 2019 in consultation with an Information Specialist and using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials of any pharmacological intervention for acute or chronic heart failure, among people of any age with chronic kidney disease of at least three months duration."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened the records to identify eligible studies and extracted data on the following dichotomous outcomes: death, hospitalisations, worsening heart failure, worsening kidney function, hyperkalaemia, and hypotension. We used random effects meta-analysis to estimate treatment effects, which we expressed as a risk ratio (RR) with 95% confidence intervals (CI). We assessed the risk of bias using the Cochrane tool. We applied the GRADE methodology to rate the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "One hundred and twelve studies met our selection criteria: 15 were studies of adults with CKD; 16 studies were conducted in the general population but provided subgroup data for people with CKD; and 81 studies included individuals with CKD, however, data for this subgroup were not provided. The risk of bias in all 112 studies was frequently high or unclear. Of the 31 studies (23,762 participants) with data on CKD patients, follow-up ranged from three months to five years, and study size ranged from 16 to 2916 participants. In total, 26 studies (19,612 participants) reported disaggregated and extractable data on at least one outcome of interest for our review and were included in our meta-analyses.\nIn acute heart failure, the effects of adenosine A1-receptor antagonists, dopamine, nesiritide, or serelaxin on death, hospitalisations, worsening heart failure or kidney function, hyperkalaemia, hypotension or quality of life were uncertain due to sparse data or were not reported.\nIn chronic heart failure, the effects of angiotensin-converting enzyme inhibitors (ACEi) or angiotensin receptor blockers (ARB) (4 studies, 5003 participants: RR 0.85, 95% CI 0.70 to 1.02; I2 = 78%; low certainty evidence), aldosterone antagonists (2 studies, 34 participants: RR 0.61 95% CI 0.06 to 6.59; very low certainty evidence), and vasopressin receptor antagonists (RR 1.26, 95% CI 0.55 to 2.89; 2 studies, 1840 participants; low certainty evidence) on death (any cause) were uncertain. Treatment with beta-blockers may reduce the risk of death (any cause) (4 studies, 3136 participants: RR 0.69, 95% CI 0.60 to 0.79; I2 = 0%; moderate certainty evidence).\nTreatment with ACEi or ARB (2 studies, 1368 participants: RR 0.90, 95% CI 0.43 to 1.90; I2 = 97%; very low certainty evidence) had uncertain effects on hospitalisation for heart failure, as treatment estimates were consistent with either benefit or harm. Treatment with beta-blockers may decrease hospitalisation for heart failure (3 studies, 2287 participants: RR 0.67, 95% CI 0.43 to 1.05; I2 = 87%; low certainty evidence).\nAldosterone antagonists may increase the risk of hyperkalaemia compared to placebo or no treatment (3 studies, 826 participants: RR 2.91, 95% CI 2.03 to 4.17; I2 = 0%; low certainty evidence). Renin inhibitors had uncertain risks of hyperkalaemia (2 studies, 142 participants: RR 0.86, 95% CI 0.49 to 1.49; I2 = 0%; very low certainty). We were unable to estimate whether treatment with sinus node inhibitors affects the risk of hyperkalaemia, as there were few studies and meta-analysis was not possible. Hyperkalaemia was not reported for the CKD subgroup in studies investigating other therapies.\nThe effects of ACEi or ARB, or aldosterone antagonists on worsening heart failure or kidney function, hypotension, or quality of life were uncertain due to sparse data or were not reported.\nEffects of anti-arrhythmic agents, digoxin, phosphodiesterase inhibitors, renin inhibitors, sinus node inhibitors, vasodilators, and vasopressin receptor antagonists were very uncertain due to the paucity of studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of pharmacological interventions for heart failure in people with CKD are uncertain and there is insufficient evidence to inform clinical practice. Study data for treatment outcomes in patients with heart failure and CKD are sparse despite the potential impact of kidney impairment on the benefits and harms of treatment. Future research aimed at analysing existing data in general population HF studies to explore the effect in subgroups of patients with CKD, considering stage of disease, may yield valuable insights for the management of people with HF and CKD."
+    }
+  ],
+  "pls_title": "Heart failure drugs in people with chronic kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People with heart failure (when the heart doesn't pump blood properly) often need medicine to help with symptoms like fatigue, swelling, and breathing problems. Studies have looked at whether these medicines are harmful or helpful. However, but they do not clarify whether these treatments may help people with heart failure that also have kidney problems (when the kidneys don't remove waste and fluid from the body properly)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for all research studies that assessed the different treatments for heart failure up to September 2019. We evaluated whether medicines prevent death or hospital admissions, or increase risk of harm, for people with kidney disease. We also measured how certain we could be about the effects of these medicines on the body using a system called \"GRADE\"."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 31 studies involving 23,762 people with heart failure and chronic kidney disease. Patients were given either a heart failure medicine compared to standard care or a placebo. The treatment they received was decided by random chance. Although there were many different treatments studied, unfortunately, few of them looked at the same type of medicine. As well, there were many different ways that researchers measured what happened when patients took these medicines. As a result, we could not combine the studies together and clarify the benefits and harms of each treatment. Existing studies cannot really tell us whether medicines used to treat heart failure in the general population are effective or safe for people who have both heart failure and chronic kidney disease."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We are not able to recommend which heart failure medicines are best for people with heart failure and chronic kidney disease. We need more information from large clinical studies. Most of the heart failure studies did not report treatment effects separately based on levels of kidney function. Obtaining this information from existing studies may be helpful to learn more about how to treat heart failure in people with chronic kidney disease."
+    }
+  ]
+}

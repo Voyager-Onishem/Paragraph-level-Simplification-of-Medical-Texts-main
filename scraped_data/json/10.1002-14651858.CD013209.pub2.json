@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD013209.pub2",
+  "name": "Perioperative antibiotics for preventing post‐surgical site infections in solid organ transplant recipients ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Solid organ transplant recipients are at high risk for infections due to the complexity of surgical procedures combined with the impact of immunosuppression. No consensus exists on the role of antibiotics for surgical site infections in solid organ transplant recipients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of prophylactic antimicrobial agents for preventing surgical site infections in solid organ transplant recipients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Kidney and Transplant Register of Studies was searched up to 21 April 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) and quasi-RCTs in any language assessing prophylactic antibiotics in preventing surgical site infections in solid organ transplant recipients at any time point after transplantation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently determined study eligibility, assessed quality, and extracted data. Primary outcomes were surgical site infections and antimicrobial resistance. Other outcomes included urinary tract infections, pneumonias and septicaemia, death (any cause), graft loss, graft rejection, graft function, adverse reactions to antimicrobial agents, and outcomes identified by the Standardised Outcomes of Nephrology Group (SONG), specifically graft health, cardiovascular disease, cancer and life participation. Summary effect estimates were obtained using a random-effects model and results were expressed as risk ratios (RR) and 95% confidence intervals (CI). The quality of the evidence was assessed using the risk of bias and the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified eight eligible studies (718 randomised participants). Overall, five studies (248 randomised participants) compared antibiotics versus no antibiotics, and three studies (470 randomised participants) compared extended duration versus short duration antibiotics. Risk of bias was assessed as high for performance bias (eight studies), detection bias (eight studies) and attrition bias (two studies).\nIt is uncertain whether antibiotics reduce the incidence of surgical site infections as the certainty of the evidence has been assessed as very low (RR 0.42, 95% CI 0.21 to 0.85; 5 studies, 226 participants; I2 = 25%). The certainty of the evidence was very low for all other reported outcomes (death, graft loss, and other infections). It is uncertain whether extended duration antibiotics reduces the incidence of surgical site infections in either solid organ transplant recipients (RR 1.19, 95% CI 0.58 to 2.48; 2 studies, 302 participants; I2 = 0%) or kidney-only transplant recipients (RR 0.50, 95% CI 0.05 to 5.48; 1 study, 205 participants) as the certainty of the evidence has been assessed as very low. The certainty of the evidence was very low for all other reported outcomes (death, graft loss, and other infections). None of the eight included studies evaluated antimicrobial agent adverse reactions, graft health, cardiovascular disease, cancer, life participation, biochemical and haematological parameters, intervention cost, hospitalisation length, or overall hospitalisation costs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to methodological limitations, risk of bias and significant heterogeneity, the current evidence for the use of prophylactic perioperative antibiotics in transplantation is of very low quality. Further high quality, adequately powered RCTs would help better inform clinical practice."
+    }
+  ],
+  "pls_title": "Perioperative antibiotics for preventing post-surgical site infections in solid organ transplant recipients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People receiving organ transplants are at high risk of infections due to the complex surgery and the weakening of the body’s immune defence against infection by anti-rejection drugs. The germs causing infection around the time of transplantation may come from the person’s body, the transplanted organ, or the environment. Depending on the type of organ transplanted and the era in which the transplant took place, surgical site infections have been reported to occur following 3% to 53% of transplant operations. A surgical site infection is an infection that occurs after surgery in the part of the body where the surgery took place. This could include redness of the wound and/or a discharge of pus, which, if not treated with antibiotics or further surgery, could lead to bloodstream infection, infection of other organs in the body (including the transplant organ) or even death. Avoiding surgical site infection may improve patient and transplant survival. Giving antibiotics around the time of the transplant surgery may help to prevent surgical site infections but has not been studied in a systematic way. Giving antibiotics is also not without risk of harm since antibiotics are known to encourage the develop of antibiotic-resistant germs, cause side effects like diarrhoea, and cost money."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We reviewed the literature up to April 2020, and found eight studies (718 randomised participants) that assessed whether antibiotics given around the time of transplant surgery prevent surgical site infections in organ transplant recipients.What did we find?When compared with no antibiotics, we are uncertain whether antibiotics reduce the occurrence of surgical site infections as the certainty of the evidence has been assessed as very low. When compared with short duration antibiotics, we are uncertain whether extended duration antibiotics reduce the occurrence of surgical site infections as the certainty of the evidence has been assessed as very low. Studies were limited by small size, short follow-up duration, suboptimal methodological quality, and inconsistent reporting of outcomes. Consequently, the effects of antibiotics in preventing surgical site infections from occurring in people receiving organ transplant is uncertain.ConclusionsIt is uncertain whether antibiotics are beneficial in solid organ transplant recipients for the prevention of surgical site infections. We do not have enough data to estimate with precision some effects of antibiotics. A randomised controlled trial of antibiotic use versus placebo or single dose versus short course of antibiotic use is warranted."
+    }
+  ]
+}

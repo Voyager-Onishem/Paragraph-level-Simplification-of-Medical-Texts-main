@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003530",
+  "name": "Beclomethasone versus budesonide for chronic asthma",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Beclomethasone dipropionate (BDP) and budesonide (BUD) are used widely in the treatment of chronic asthma. The two drugs have different in vitro pharmacokinetic characteristics. It is unclear whether this translates into clinically significant differences in efficacy or safety when treating children and adults with chronic asthma."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess clinical outcomes in studies which have compared inhaled BDP and BUD in the treatment of chronic asthma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Trial Register (1999) and reference lists of articles. We contacted trialists and pharmaceutical companies for additional studies and searched abstracts of major respiratory society meetings (1997-1999)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Prospective, randomised trials comparing BDP to BUD in the treatment of chronic asthma. Two reviewers independently assessed articles for inclusion and methodological quality."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One reviewer extracted data; authors were contacted to clarify missing information. Quantitative analyses where undertaken using Review Manager 4.0.3 with MetaView 3.1."
+    },
+    {
+      "heading": "Main results",
+      "text": "24 studies met the criteria for inclusion (1174 participants). Methodological quality was variable. A meta-analysis of crossover studies did not demonstrate a significant difference between BDP and BUD for FEV1, morning PEF, evening PEF, asthma symptoms or rescue beta2 agonist use, over a dose range of 400 to 1000 mcg/d. The majority of crossover trials had significant design flaws related to a lack of washout and/or failure to exclude carryover effects so the results must be viewed with caution. A single crossover study with adequate washout showed that BUD 400 mcg/d delivered via Turbohaler dry powder inhaler (DPI) may be more effective than BDP 400 mcg/d delivered via Rotahaler DPI in reducing histamine bronchial hyper-responsiveness: Weighted Mean Difference (WMD) 0.43 log10 PC20 FEV1 (95% Confidence Intervals (CI) 0.05, 0.81 log10 PC20 FEV1). A meta-analysis of two parallel group, dose down-titration studies (231 patients) showed that less BUD delivered via a Turbohaler DPI was required to maintain control in adults asthmatics compared to BDP delivered via metered dose inhaler with or without a spacer: WMD 444 mcg/d (95% CI 332, 556 mcg/d)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited high quality randomised controlled trial data comparing the relative efficacy of BDP and BUD. Current guidelines (BTS 1997; GINA 1995; NHLBI 1997) assume BDP and BUD to have equal efficacy, such that for each defined level of asthma severity, the recommended doses BDP and BUD are the same. Although there is some data to suggest that BUD via Turbohaler is more effective than BDP via either Rotahaler or MDI (with and without spacer), these comparisons are confounded by use of different delivery devices, and are not sufficient to warrant a change in guideline recommendations."
+    }
+  ],
+  "pls_title": "The effects of beclomethasone or budesonide for chronic asthma",
+  "pls_type": "long",
+  "pls": "Beclomethasone and budesonide are commonly used to treat people with asthma in the long-term. Despite the large amount of research which has been conducted with these two steroids, very little can be concluded as to how effective they are, because the quality of the research to date has not been strong enough. The available research does not therefore provide a clear answer as to whether beclomethasone or budesonide are better for treating asthma."
+}

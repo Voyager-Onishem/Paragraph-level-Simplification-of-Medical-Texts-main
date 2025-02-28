@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009839.pub2",
+  "name": " Mesalamine (5‐ASA) for the prevention of recurrent diverticulitis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Diverticular disease is a common condition that increases in prevalence with age. Recent theories on the pathogenesis of diverticular inflammation have implicated chronic inflammation similar to that seen in ulcerative colitis. Mesalamine, or 5-aminosalicylic acid (5-ASA), is a mainstay of therapy for individuals with ulcerative colitis. Accordingly, 5-ASA has been studied for prevention of recurrent diverticulitis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy of mesalamine (5-ASA) for prevention of recurrent diverticulitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 8), in the Cochrane Library; Ovid MEDLINE (from 1950 to 9 September 2017); Ovid Embase (from 1974 to 9 September 2017); and two clinical trials registries for ongoing trials - Clinicaltrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform database (9 September 2017).\nWe also searched proceedings from major gastrointestinal conferences - Digestive Disease Week (DDW), United European Gastroenterology Week (UEGW), and the American College of Gastroenterology (ACG) Annual Scientific Meeting - from 2010 to September 2017. In addition, we scanned reference lists from eligible publications, and we contacted corresponding authors to ask about additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled clinical trials comparing the efficacy of 5-ASA versus placebo or another active drug for prevention of recurrent diverticulitis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as defined by Cochrane. Three review authors assessed eligibility for inclusion. Two review authors selected studies, extracted data, and assessed methodological quality independently. We calculated risk ratios (RRs) for prevention of diverticulitis recurrence using an intention-to-treat principle and random-effects models. We assessed heterogeneity using criteria for Chi2 (P < 0.10) and I2 tests (> 50%). To explore sources of heterogeneity, we conducted a priori subgroup analyses. To assess the robustness of our results, we carried out sensitivity analyses using different summary statistics (RR vs odds ratio (OR)) and meta-analytical models (fixed-effect vs random-effects)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in this review seven studies with a total of 1805 participants.\n\nWe judged all seven studies to have unclear or high risk of bias. Investigators found no evidence of an effect when comparing 5-ASA versus control for prevention of recurrent diverticulitis (31.3% vs 29.8%; RR 0.69, 95% confidence interval (CI) 0.43 to 1.09); very low quality of evidence).\nFive of the seven studies provided data on adverse events of 5-ASA therapy. The most commonly reported side effects were gastrointestinal symptoms (epigastric pain, nausea, and diarrhoea). No significant difference was seen between 5-ASA and control (67.8% vs 64.6%; RR 0.98, 95% CI 0.91 to 1.06; P = 0.63; moderate quality of evidence), nor was significant heterogeneity observed (I2 = 0%; P = 0.50)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of 5-ASA on recurrence of diverticulitis are uncertain owing to the small number of heterogenous trials included in this review. Rates of recurrent diverticulitis were similar among participants using 5-ASA and control participants. Effective medical strategies for prevention of recurrent diverticulitis are needed, and further randomised, double-blinded, placebo-controlled trials of rigorous design are warranted to specify the effects of 5-ASA (mesalamine) in the management of diverticulitis."
+    }
+  ],
+  "pls_title": "Does 5-ASA prevent the recurrence of diverticulitis?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Diverticula are small bulging pouches that can form in the lining of the digestive system, particularly in the colon. Diverticulitis is inflammation of these pouches, and it is an important complication of diverticular disease. Approximately one-third to one-quarter of patients who recover from one episode of diverticulitis will experience recurrence. The inflammation underlying diverticulitis may be similar to that seen in inflammatory bowel disease. 5-Aminosalicylic acid (5-ASA) is an anti-inflammatory drug that has proved effective as treatment for ulcerative colitis and therefore may be useful for prevention of recurrent diverticulitis"
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to evaluate whether 5-ASA prevented recurrence of diverticulitis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "A review of the literature identified seven studies with a total of 1805 participants for analysis. A search of the literature was conducted on 9 September 2017. These trials assigned participants with a diagnosis of diverticulitis to receive 5-ASA or an alternative therapy. Four trials compared 5-ASA versus placebo; one compared 5-ASA plus probiotic versus probiotic; one compared 5-ASA plus antibiotic versus antibiotic; and one compared 5-ASA versus no therapy. Participants were followed to compare the recurrence rate of diverticulitis and side effects among treatment arms."
+    },
+    {
+      "heading": "Key findings",
+      "text": "Our analysis determined that approximately one-third of participants receiving 5-ASA had recurrence of diverticulitis (31.3%). Participants receiving non-5-ASA therapy experienced a similar rate of recurrence (29.8%). Adverse event rates were similar among 5-ASA therapy and comparison therapies. The most commonly reported side effects of 5-ASA therapy were gastrointestinal symptoms (epigastric pain, nausea, and diarrhoea)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the quality of evidence available for analysis of recurrence of diverticulitis is considered to be very low. None of the included studies was considered to have low risk of bias for all criteria. These trials were designed differently. For example, some studies required a CT scan for diagnosis of diverticulitis, and others relied on less reliable clinical and laboratory criteria. Comparison therapies varied, with some studies using placebo, and others using antibiotics and probiotics. Although we combined the findings of these studies in our analysis, these different comparison arms made direct comparisons problematic. The confidence interval does not exclude an appreciable benefit or no difference.\nOverall, the quality of evidence available for analysis of adverse effects was moderate. Two of the included studies provided no usable data."
+    }
+  ]
+}

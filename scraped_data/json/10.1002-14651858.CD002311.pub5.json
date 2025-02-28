@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002311.pub5",
+  "name": "Late (≥ 7 days) inhaled corticosteroids to reduce bronchopulmonary dysplasia in preterm infants ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bronchopulmonary dysplasia (BPD), defined as oxygen dependence at 36 weeks' postmenstrual age (PMA), remains an important complication of prematurity. Pulmonary inflammation plays a central role in the pathogenesis of BPD. Attenuating pulmonary inflammation with postnatal systemic corticosteroids reduces the incidence of BPD in preterm infants but may be associated with an increased risk of adverse neurodevelopmental outcomes. Local administration of corticosteroids via inhalation may be an effective and safe alternative."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of inhaled corticosteroids versus placebo, initiated between seven days of postnatal life and 36 weeks' postmenstrual age, to preterm infants at risk of developing bronchopulmonary dysplasia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, CINAHL, and three trials registries to August 2022. We searched conference proceedings and the reference lists of retrieved articles for additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing inhaled corticosteroids to placebo, started between seven days' postnatal age (PNA) and 36 weeks' PMA, in infants at risk of BPD. We excluded trials investigating systemic corticosteroids versus inhaled corticosteroids."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We collected data on participant characteristics, trial methodology, and inhalation regimens. The primary outcomes were mortality, BPD, or both at 36 weeks' PMA. Secondary outcomes included short-term respiratory outcomes (mortality or BPD at 28 days' PNA, failure to extubate, total days of mechanical ventilation and oxygen use, and need for systemic corticosteroids) and adverse effects. We contacted the trial authors to verify the validity of extracted data and to request missing data. We analysed all data using Review Manager 5. Where possible, we reported the results of meta-analyses using risk ratios (RRs) and risk differences (RDs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, along with their 95% confidence intervals (CIs). We analysed ventilated and non-ventilated participants separately. We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven trials involving 218 preterm infants in this review. We identified no new eligible studies in this update. The evidence is very uncertain regarding whether inhaled corticosteroids affects the combined outcome of mortality or BPD at 36 weeks' PMA (RR 1.10, 95% CI 0.74 to 1.63; RD 0.07, 95% CI −0.21 to 0.34; 1 study, 30 infants; very low-certainty) or its separate components: mortality (RR 3.00, 95% CI 0.35 to 25.78; RD 0.07, 95% CI −0.08 to 0.21; 3 studies, 61 infants; very low-certainty) and BPD (RR 1.00, 95% CI 0.59 to 1.70; RD 0.00, 95% CI −0.31 to 0.31; 1 study, 30 infants; very low-certainty) at 36 weeks' PMA. Inhaled corticosteroids may reduce the need for systemic corticosteroids, but the evidence is very uncertain (RR 0.51, 95% CI 0.26 to 1.00; RD −0.22, 95% CI −0.42 to −0.02; number needed to treat for an additional beneficial outcome 5, 95% CI 2 to 115; 4 studies, 74 infants; very low-certainty). There was a paucity of data on short-term and long-term adverse effects. Despite a low risk of bias in the individual studies, we considered the certainty of the evidence for all comparisons discussed above to be very low, because the studies had few participants, there was substantial clinical heterogeneity between studies, and only three studies reported the primary outcome of this review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, we do not know if inhaled corticosteroids initiated from seven days of life in preterm infants at risk of developing BPD reduces mortality or BPD at 36 weeks' PMA. There is a need for larger randomised placebo-controlled trials to establish the benefits and harms of inhaled corticosteroids."
+    }
+  ],
+  "pls_title": "Inhaled steroids for lung disease in newborns",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is bronchopulmonary dysplasia and how can it be treated?",
+      "text": "Infants born prematurely are at risk of developing a chronic lung condition called bronchopulmonary dysplasia (BPD). Inflammation in the premature lung seems to play an important role in the development of BPD. Research has shown that medicines that suppress inflammation (corticosteroids) injected into the bloodstream reduce the risk of BPD but may also have serious side effects on other parts of the body, such as the brain. Corticosteroids given by inhalation may reduce these unwanted effects, because in theory these medicines should mainly stay in the lungs and not cause unwanted effects in other parts of the body."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if inhaled corticosteroids, compared to dummy treatment (placebo), given to premature infants from seven days of life could improve survival and reduce BPD. We also wanted to find out if inhaled corticosteroids produced unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that compared inhaled corticosteroids to placebo in premature infants who were at risk of BPD. We compared and summarised the results of the included studies, and rated our confidence in the evidence based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified seven studies that had investigated this therapy in 218 premature infants. We do not know whether inhaled corticosteroids compared with placebo started from seven days of life reduces death or BPD in premature infants who are at risk of BPD. Nor do we know whether this treatment has any unwanted effects. More research is needed to investigate the potential benefits and harms of inhaled corticosteroids in this population."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are not confident in the evidence, because it is based on very few cases, and because very few studies reported our main outcome of death or BPD."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is up to date to 29 August 2022."
+    }
+  ]
+}

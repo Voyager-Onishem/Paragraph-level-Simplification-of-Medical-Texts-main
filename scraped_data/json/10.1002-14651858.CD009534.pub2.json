@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009534.pub2",
+  "name": "Antibiotics for asymptomatic bacteriuria",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asymptomatic bacteriuria is commonly detected in women aged up to 60 years, patients with diabetes, and the elderly. The benefit of antibiotic treatment for this condition is controversial."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of antibiotics treatment for asymptomatic bacteriuria in adults. Specific objectives were to assess 1) the effectiveness of antibiotics for preventing development of symptomatic UTI, UTI-related complications, overall mortality, UTI-related mortality, and resolution of bacteriuria; 2) the development of resistance to antibiotic treatment by comparing resistance of grown bacteria in urine before and after therapy; and 3) the frequency of adverse events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register up to 24 February 2015 through contact with the Trials' Search Co-ordinator using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs comparing antibiotics to placebo or no treatment for asymptomatic bacteriuria in adults were included. The outcomes of interest were the development of symptomatic urinary tract infection (UTI), complications, death, any adverse event, development of antibiotic resistance, bacteriological cure, and decline in kidney function."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted the data and assessed study quality. Statistical analyses were performed using the random effects model and the results expressed as risk ratios (RR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies (1614 participants) in this review. Symptomatic UTI (RR 1.11, 95% CI 0.51 to 2.43), complications (RR 0.78, 95% CI 0. 35 to 1.74), and death (RR 0.99, 95% CI 0.70 to 1.41) were similar between the antibiotic and placebo or no treatment arms. Antibiotics were more effective for bacteriological cure (RR 2.67, 95% CI 1.85 to 3.85) but also more adverse events developed in this group (RR 3.77, 95% CI 1.40 to 10.15). No decline in the kidney function was observed across the studies; minimal data were available on the emergence of resistant strains after antimicrobial treatment.\nThe included studies were of medium and high quality, used different treatments for different durations of treatment and follow-up, different populations, but this did not appear to influence the results of review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No differences were observed between antibiotics versus no treatment of asymptomatic bacteriuria for the development of symptomatic UTI, complications or death. Antibiotics were superior to no treatment for the bacteriological cure but with significantly more adverse events. There was no clinical benefit from treating asymptomatic bacteriuria in the studies included in this review."
+    }
+  ],
+  "pls_title": "Antibiotic treatment for asymptomatic bacteriuria",
+  "pls_type": "long",
+  "pls": "Growth of bacteria in the urine without any complaints (asymptomatic bacteriuria) is commonly detected in women up to 60 years, people with diabetes and in the elderly. It is not clear whether antibiotic treatment for this condition is of benefit for non-pregnant adults.\nNine studies of medium to high quality, enrolling 1614 institutionalised participants or outpatients, assigned to antibiotics or placebo/no treatment for treating asymptomatic bacteriuria for different durations of treatment and follow-up were included in this review. The evidence is current to February 2015. No clinical benefit was found for antibiotic treatment. Antibiotics eradicated the growth of bacteria in more participants but at the cost of more adverse events than in the no treatment groups."
+}

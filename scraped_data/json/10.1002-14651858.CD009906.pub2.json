@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009906.pub2",
+  "name": "Intravenous nutrients for preventing inadvertent perioperative hypothermia in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inadvertent perioperative hypothermia (a drop in core temperature to below 36°C) occurs because normal temperature regulation is disrupted during surgery, mainly because of the effects of anaesthetic drugs and exposure of the skin for prolonged periods. Many different ways of maintaining body temperature have been proposed, one of which involves administration of intravenous nutrients during the perioperative period that may reduce heat loss by increasing metabolism, thereby increasing heat production."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of preoperative or intraoperative intravenous nutrients in preventing perioperative hypothermia and its complications during surgery in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; November 2015) in the Cochrane Library; MEDLINE, Ovid SP (1956 to November 2015); Embase, Ovid SP (1982 to November 2015); the Institute for Scientific Information (ISI) Web of Science (1950 to November 2015); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL, EBSCO host; 1980 to November 2015), as well as the reference lists of identified articles. We also searched the Current Controlled Trials website and ClincalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) of intravenous nutrients compared with control or other interventions given to maintain normothermia in adults undergoing surgery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data and assessed risk of bias for each included trial, and a third review author checked details if necessary. We contacted some study authors to request additional information."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 trials (n = 565), 13 (n = 525) of which compared intravenous administration of amino acids to a control (usually saline solution or Ringer's lactate). The remaining trial (n = 40) compared intravenous administration of fructose versus a control. We noted much variation in these trials, which used different types of surgery, variable durations of surgery, and different types of participants. Most trials were at high or unclear risk of bias owing to inappropriate or unclear randomization methods, and to unclear participant and assessor blinding. This may have influenced results, but it is unclear how results might have been influenced.\nNo trials reported any of our prespecified primary outcomes, which were risk of hypothermia and major cardiovascular events. Therefore, we decided to analyse data related to core body temperature instead as a primary outcome. It was not possible to conduct meta-analysis of data related to amino acid infusion for the 60-minute and 120-minute time points, as we observed significant statistical heterogeneity in the results. Some trials showed that higher temperatures were associated with amino acids, but not all trials reported statistically significant results, and some trials reported the opposite result, where the amino acid group had a lower core temperature than the control group. It was possible to conduct meta-analysis for six studies (n = 249) that provided data relating to the end of surgery. Amino acids led to a statistically significant increase in core temperature in comparison to those receiving control (MD = 0.46°C 95% CI 0.33 to 0.59; I2 0.0%; random-effects; moderate quality evidence).\nThree trials (n = 155) reported shivering as an outcome. Meta-analysis did not show a clear effect, and so it is uncertain whether amino acids reduce the risk of shivering (RR 0.36, 95% CI 0.13 to 1.00; I2 = 93%; random-effects model; very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Intravenous amino acids may keep participants up to a half-degree C warmer than the control. This difference was statistically significant at the end of surgery, but not at other time points. However, the clinical importance of this finding remains unclear. It is also unclear whether amino acids have any effect on the risk of shivering and if intravenous nutrients confer any other benefits or harms, as high-quality data about these outcomes are lacking."
+    }
+  ],
+  "pls_title": "Giving intravenous nutrients to adults during surgery to prevent hypothermia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to find out about the effects that intravenous nutrients (amino acids or sugars given into the bloodstream through a tube or a catheter in a vein) have on adults having surgery. Giving intravenous nutrients increases a person's metabolism, and this may increase the body heat produced. We wanted to know if giving intravenous nutrients during a surgical procedure could keep people warm, and if intravenous nutrients can keep them from having problems caused by being cold."
+    },
+    {
+      "heading": "Background",
+      "text": "People can get cold during surgery, particularly because of the drugs that are used to stop them from feeling pain and that keep them unconscious (anaesthetics). These drugs change how blood flows around the body, which can lead to heart problems and can cause wounds to heal more slowly. It may also cause blood to clot more slowly, and can make some drugs have uncertain effects. People can shiver when they wake from anaesthesia and often comment that this is a very uncomfortable experience. Keeping people warm may stop them from shivering. There are many ways of trying to keep people warm during surgery, including giving them intravenous nutrients."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We looked for evidence up to November 2015. We included 14 randomized studies (involving 565 participants). Thirteen studies compared people who received normal care with additional intravenous amino acids against people who received normal care but no amino acids (the control group). One study compared people who received fructose with those in a control group. Studies involved adults undergoing planned or emergency surgery. We did not include studies in which participants were deliberately kept cold during surgery, were receiving skin grafts or were under local anaesthetic."
+    },
+    {
+      "heading": "Key results",
+      "text": "We can be certain that at the end of surgery, people receiving intravenous nutrients are up to a half-degree warmer than people receiving control (based on evidence from six studies involving 249 participants). However, there was more uncertainty about the effects of intravenous nutrients at other time points, with some studies suggesting that intravenous nutrients keep participants warmer and other studies reporting that participants were colder than those receiving the control. We are uncertain if keeping people up to half a degree warmer is important to those involved in caring for people who are having surgery. We are also uncertain if giving intravenous nutrients reduces the risk of people shivering (based on evidence from three studies involving 155 participants)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Most of the evidence was moderate to low in quality. The methods used to assign participants to treatment groups was often inadequate or unclear, and we were uncertain if the people assessing outcomes were aware of which treatment group participants were in. This may have biased the results, but we are unsure what effect it may have had on results overall."
+    }
+  ]
+}

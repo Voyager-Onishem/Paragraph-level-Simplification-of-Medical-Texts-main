@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015311",
+  "name": "Lay health workers in primary and community health care for maternal and child health: identification and treatment of wasting in children ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Since the early 2010s, there has been a push to enhance the capacity to effectively treat wasting in children through community-based service delivery models and thus reduce morbidity and mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of identification and treatment of moderate and severe wasting in children aged five years or under by lay health workers working in the community compared with health providers working in health facilities."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, CENTRAL, two other databases, and two ongoing trials registers to 24 September 2021. We also screened the reference lists of related systematic reviews and all included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and non-randomised studies in children aged five years or under with moderate wasting (defined as weight-for-height Z-score (WHZ) below −2 but no lower than ≥ −3, or mid-upper-arm circumference (MUAC) below 125 mm but no lower than 115 mm, and no nutritional oedema) or severe wasting (WHZ below −3 or MUAC below 115 mm or nutritional oedema).\nEligible interventions were:\n• identification by lay health workers (LHWs) of children with wasting (intervention 1);\n• identification by LHWs of children with wasting and medical complications needing referral (intervention 2); and\n• identification by LHWs of children with wasting without medical complications needing referral (intervention 3).\nEligible comparators were:\n• identification and treatment of wasting by health professionals such as nurses or doctors (at health facilities); and\n• identification and treatment of wasting by health facility-based teams, including health professionals and LHWs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened trials, extracted data and assessed risk of bias using the Cochrane risk of bias tool (RoB 2) and Cochrane Effective Practice and Organisation of Care (EPOC) guidelines. We used a random-effects model to meta-analyse data, producing risk ratios (RRs) for dichotomous outcomes in trials with individual allocation, adjusted RRs for dichotomous outcomes in trials with cluster allocation (using the generic inverse variance method in Review Manager 5), and mean differences (MDs) for continuous outcomes. We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two RCTs and five non-RCTs. Six studies were from African countries, and one was from Pakistan. Six studies included children with severe wasting, and one included children with moderate wasting. All studies offered home-based ready-to-use therapeutic food treatment and monitoring. Children received antibiotics in three studies, vitamins or micronutrients in three studies, and deworming treatment in two studies. In three studies, the comparison arm involved LHWs screening children for malnutrition and referring them to health facilities for diagnosis and treatment.\nAll the non-randomised studies had a high overall risk of bias.\nInterventions 1 and 2\nIdentification and referral for treatment by LHWs, compared with treatment by health professionals following self-referral, may result in little or no difference in the percentage of children who recover from moderate or severe wasting (MD 1.00%, 95% confidence interval (CI) −2.53 to 4.53; 1 RCT, 29,475 households; low certainty).\nIntervention 3\nCompared with treatment by health professionals following identification by LHWs, identification and treatment of severe wasting in children by LHWs:\n• may slightly reduce improvement from severe wasting (RR 0.93, 95% CI 0.86 to 0.99; 1 RCT, 789 participants; low certainty);\n• may slightly increase non-response to treatment (RR 1.44, 95% CI 1.04 to 2.01; 1 RCT, 789 participants; low certainty);\n• may result in little or no difference in the number of children with WHZ above −2 on discharge (RR 0.94, 95% CI 0.28 to 3.18; 1 RCT, 789 participants; low certainty);\n• probably results in little or no difference in the number of children with WHZ between −3 and −2 on discharge (RR 1.09, 95% CI 0.87 to 1.36; 1 RCT, 789 participants; moderate certainty);\n• probably results in little or no difference in the number of children with WHZ below −3 (severe wasting) on discharge (RR 1.23, 95% CI 0.75 to 2.04; 1 RCT, 789 participants; moderate certainty);\n• probably results in little or no difference in the number of children with MUAC equal to or greater than 115 mm on discharge (RR 0.99, 95% CI 0.93 to 1.06; 1 RCT, 789 participants; moderate certainty);\n• results in little or no difference in weight gain per day (mean weight gain 0.50 g/kg/day higher, 95% CI 1.74 lower to 2.74 higher; 1 RCT, 571 participants; high certainty);\n• probably has little or no effect on relapse of severe wasting (RR 1.03, 95% CI 0.69 to 1.54; 1 RCT, 649 participants; moderate certainty);\n• may have little or no effect on mortality among children with severe wasting (RR 0.46, 95% CI 0.04 to 5.98; 1 RCT, 829 participants; low certainty);\n• probably has little or no effect on the transfer of children with severe wasting to inpatient care (RR 3.71, 95% CI 0.36 to 38.23; 1 RCT, 829 participants; moderate certainty); and\n• probably has little or no effect on the default of children with severe wasting (RR 1.48, 95% CI 0.65 to 3.40; 1 RCT, 829 participants; moderate certainty).\nThe evidence was very uncertain for total MUAC gain, MUAC gain per day, total weight gain, treatment coverage, and transfer to another LHW site or health facility.\nNo studies examined sustained recovery, deterioration to severe wasting, appropriate identification of children with wasting or oedema, appropriate referral of children with moderate or severe wasting, adherence, or adverse effects and other harms."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Identification and treatment of severe wasting in children who do not require inpatient care by LHWs, compared with treatment by health professionals, may lead to similar or slightly poorer outcomes. We found only two RCTs, and the evidence from non-randomised studies was of very low certainty for all outcomes due to serious risks of bias and imprecision. No studies included children aged under 6 months. Future studies must address these methodological issues."
+    }
+  ],
+  "pls_title": "Can lay health workers effectively identify and treat wasting in children?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "The aim of this Cochrane Review was to find out whether lay health workers were more or less effective than health professionals at identifying and treating children with wasting."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The results of this review suggest that children who receive care from lay health workers for severe wasting may have similar or slightly poorer results than children who receive care from health professionals."
+    },
+    {
+      "heading": "What is wasting?",
+      "text": "Childhood wasting refers to children being too thin for their height. Wasting happens when the child does not have enough food or enough healthy food, or because of disease. Children suffering from wasting are more often sick, can have developmental problems, and are more likely to die, particularly when the wasting is severe. Millions of children suffer from wasting, and most of them live in poor countries.\nThe best solution to this problem is to stop wasting occurring in the first place. When this is not possible, it is important to identify and treat children with wasting as soon as possible. However, treatment can take weeks or months, and it may be difficult or expensive for families to access care. As a result, many children are not getting the help they need."
+    },
+    {
+      "heading": "What is a lay health worker?",
+      "text": "One way of increasing children's access to care is to use lay health workers. A lay health worker is a member of the community who has received some training to carry out certain healthcare services but is not a healthcare professional. Research has shown that lay health workers are useful in some health interventions, such as increasing breastfeeding and childhood vaccination."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "In this review, we wanted to find whether lay health workers can effectively identify and treat moderate to severe wasting in children aged five years or younger. We looked for studies that evaluated the effect of using lay health workers in the community compared with health professionals working in health facilities."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included seven studies in this review. Six studies were from African countries, and one study was from Pakistan. Six studies included children with severe wasting, and one included children with moderate wasting. In some studies, lay health workers identified children with wasting and then referred them to clinics for treatment. In the other studies, lay health workers also treated the children.\nAll studies compared lay health workers with health professionals. No studies included children younger than 6 months old."
+    },
+    {
+      "heading": "Key results",
+      "text": "Identification and referral of children with wasting by lay health professionals, compared with treatment by health professionals after self-referral, may make little or no difference to the number of children who recover from moderate or severe wasting.\nIdentification and treatment of children with severe wasting by lay health workers, compared with treatment by health professionals after identification and referral by lay health workers:\n• may slightly reduce response to treatment (60 fewer children per 1000 responding to treatment);\n• may have little or no effect on the number of children who gain weight;\n• probably has little or no effect on the amount of weight gained;\n• probably has little or no effect on the number of children who relapse;\n• probably has little or no effect on the number of children who are transferred to inpatient care;\n• probably has little or no effect on the number of children who drop out of treatment; and\n• may have little or no effect on the number of children who die."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "We searched for studies that had been published up to 24 September 2021."
+    }
+  ]
+}

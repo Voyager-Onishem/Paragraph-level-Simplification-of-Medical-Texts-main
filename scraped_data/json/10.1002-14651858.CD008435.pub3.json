@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008435.pub3",
+  "name": "Skin‐to‐skin care for procedural pain in neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Skin-to-skin care (SSC), often referred to as 'kangaroo care' (KC) due to its similarity with marsupial behaviour of ventral maternal-infant contact, is one non-pharmacological intervention for pain control in infants."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objectives were to determine the effect of SSC alone on pain from medical or nursing procedures in neonates compared to no intervention, sucrose or other analgesics, or additions to simple SSC such as rocking; and to determine the effects of the amount of SSC (duration in minutes), method of administration (e.g. who provided the SSC) of SSC in reducing pain from medical or nursing procedures in neonates\nThe secondary objectives were to determine the safety of SSC care for relieving procedural pain in infants; and to compare the SSC effect in different postmenstrual age subgroups of infants."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1); MEDLINE via PubMed (1966 to 25 February 2016); Embase (1980 to 25 February 2016); and CINAHL (1982 to 25 February 2016). We also searched clinical trials' databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials and quasi-randomized trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies with randomisation or quasi-randomisation, double- or single-blinded, involving term infants (≥ 37 completed weeks' postmenstrual age (PMA) to a maximum of 44 weeks' PMA and preterm infants (< 37 completed weeks PMA) receiving SSC for painful procedures conducted by healthcare professionals."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The main outcome measures were physiological or behavioural pain indicators and composite pain scores. A mean difference (MD) with 95% confidence interval (CI) using a fixed-effect model was reported for continuous outcome measures. We included variations on type of tissue-damaging procedure, provider of care, and duration of SSC."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-five studies (n = 2001 infants) were included. Nineteen studies (n = 1065) used heel lance as the painful procedure, one study combined venepuncture and heel stick (n = 50), three used intramuscular injection (n = 776), one used 'vaccination' (n = 60), and one used tape removal (n = 50). The studies were generally strong and had low or uncertain risk of bias. Blinding of the intervention was not possible, making them subject to high risk, depending on the method of scoring outcomes.\nSeventeen studies (n = 810) compared SSC to a no-treatment control. Although 15 studies measured heart rate during painful procedures, data from only five studies (n = 161) could be combined for a mean difference (MD) of −10.78 beats per minute (95% CI −13.63 to −7.93) favouring SSC. Meta-analysis of four studies (n = 120) showed no difference in heart rate following the painful procedure (MD 0.08, 95% CI −4.39 to 4.55). Two studies (n = 38) reported heart rate variability with no significant differences. Two studies (n = 101) in a meta-analysis on oxygen saturation at 30 and 60 seconds following the painful procedure did not show a difference. Duration of crying meta-analysis was performed on four studies (n = 133): two (n = 33) investigated response to heel lance (MD = −34.16, 95% CI −42.86 to −25.45), and two (n = 100) following IM injection (MD = −8.83, 95% CI −14.63 to −3.02), favouring SSC. Five studies, one consisting of two substudies (n = 267), used the Premature Infant Pain Profile (PIPP) as a primary outcome, which favoured SCC at 30 seconds (MD −3.21, 95% CI −3.94 to −2.47), at 60 seconds (3 studies; n = 156) (MD −1.64, 95% CI −2.86 to −0.43), and at 90 seconds (n = 156) (MD −1.28, 95% CI −2.53 to −0.04); but at 120 seconds there was no difference (n = 156) (MD 0.07, 95% CI −1.11 to 1.25). No studies on return of heart rate to baseline level, cortisol levels, and facial actions could be combined for meta-analysis findings.\nEight studies compared SSC to another intervention with or without a no-treatment control. Two cross-over studies (n = 80) compared mother versus other provider (father, another female) on PIPP scores at 30, 60, 90, and 120 seconds with no significant difference. When SSC was compared to other interventions, there were not enough similar studies to pool results in an analysis. One study compared SSC (n = 640) with and without dextrose and found that the combination was most effective and that SSC alone was more effective than dextrose alone. Similarly, in another study SSC was more effective than oral glucose for heart rate (n = 95). SSC either in combination with breastfeeding or alone was favoured over a no-treatment control, but not different to breastfeeding. One study compared SSC alone and in combination with both sucrose and breastfeeding on heart rate (HR), NIPS scores, and crying time (n = 127). The combinations were more effective than SSC alone for NIPS and crying. Expressed breast milk was compared to SSC in one study (n = 50) and found both equally effective on PIPP scores. There were not enough participants with similar outcomes and painful procedures to compare age groups or duration of SSC. No adverse events were reported in any of the studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "SSC appears to be effective as measured by composite pain indicators with both physiological and behavioural indicators and, independently, using heart rate and crying time; and safe for a single painful procedure. Purely behavioural indicators tended to favour SSC but with facial actions there is greater possibility of observers not being blinded. Physiological indicators were mixed although the common measure of heart rate favoured SSC. Two studies compared mother-providers to others, with non-significant results. There was more heterogeneity in the studies with behavioural or composite outcomes. There is a need for replication studies that use similar, clearly defined outcomes. Studies examining optimal duration of SSC, gestational age groups, repeated use, and long-term effects of SSC are needed. Of interest would be to study synergistic effects of SSC with other interventions."
+    }
+  ],
+  "pls_title": "Skin-to-skin care with newborns cuts down procedural pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is skin-to-skin care effective in cutting down pain from procedures in newborns? Are there any safety issues?"
+    },
+    {
+      "heading": "Background",
+      "text": "Newborns wearing only a diaper being held next to their mother's bare chest is referred to as skin-to-skin contact and is also sometimes called 'kangaroo care' because of its similarity to the way kangaroo mothers care for their young. Newborns, especially those who must spend time in a Neonatal Intensive Care Unit, must have various tests and procedures as part of their care, for example heel stick, venous puncture, and injections. Giving analgesic drugs for these procedures can often pose problems so that alternatives to drugs must be found."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Twenty-eight studies in which newborn babies who were by chance in the kangaroo care group or condition were included from an extensive search of the literature. Skin-to-skin care was clearly defined and could have been compared to no pain-reducing strategies or other pain-reducing strategies such as sweet taste. Studies were examined which examined well-established signs of pain, both physiological and behavioural, as well as a combination of physiological and behavioural signs. Different providers of skin-to-skin care other than the mother were included."
+    },
+    {
+      "heading": "Key results",
+      "text": "Kangaroo care appears to reduce the pain response to, and recovery from, these frequent procedures, although few studies could be combined to provide strong evidence. As far as it has been reported, skin-to-skin care is safe. Although it appears that skin-to-skin care is effective, the size of the benefit remains uncertain."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of evidence in these studies was generally low for the response to the actual procedure but was moderate for recovery from the procedure."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000024.pub3",
+  "name": "New treatments compared to established treatments in randomized trials",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The proportion of proposed new treatments that are 'successful' is of ethical, scientific, and public importance. We investigated how often new, experimental treatments evaluated in randomized controlled trials (RCTs) are superior to established treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our main question was: \"On average how often are new treatments more effective, equally effective or less effective than established treatments?\" Additionally, we wanted to explain the observed results, i.e. whether the observed distribution of outcomes is consistent with the 'uncertainty requirement' for enrollment in RCTs. We also investigated the effect of choice of comparator (active versus no treatment/placebo) on the observed results."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Methodology Register (CMR) 2010, Issue 1 in The Cochrane Library (searched 31 March 2010); MEDLINE Ovid 1950 to March Week 2 2010 (searched 24 March 2010); and EMBASE Ovid 1980 to 2010 Week 11 (searched 24 March 2010)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Cohorts of studies were eligible for the analysis if they met all of the following criteria: (i) consecutive series of RCTs, (ii) registered at or before study onset, and (iii) compared new against established treatments in humans."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "RCTs from four cohorts of RCTs met all inclusion criteria and provided data from 743 RCTs involving 297,744 patients. All four cohorts consisted of publicly funded trials. Two cohorts involved evaluations of new treatments in cancer, one in neurological disorders, and one for mixed types of diseases. We employed kernel density estimation, meta-analysis and meta-regression to assess the probability of new treatments being superior to established treatments in their effect on primary outcomes and overall survival."
+    },
+    {
+      "heading": "Main results",
+      "text": "The distribution of effects seen was generally symmetrical in the size of difference between new versus established treatments. Meta-analytic pooling indicated that, on average, new treatments were slightly more favorable both in terms of their effect on reducing the primary outcomes (hazard ratio (HR)/odds ratio (OR) 0.91, 99% confidence interval (CI) 0.88 to 0.95) and improving overall survival (HR 0.95, 99% CI 0.92 to 0.98). No heterogeneity was observed in the analysis based on primary outcomes or overall survival (I2 = 0%). Kernel density analysis was consistent with the meta-analysis, but showed a fairly symmetrical distribution of new versus established treatments indicating unpredictability in the results. This was consistent with the interpretation that new treatments are only slightly superior to established treatments when tested in RCTs. Additionally, meta-regression demonstrated that results have remained stable over time and that the success rate of new treatments has not changed over the last half century of clinical trials. The results were not significantly affected by the choice of comparator (active versus placebo/no therapy)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Society can expect that slightly more than half of new experimental treatments will prove to be better than established treatments when tested in RCTs, but few will be substantially better. This is an important finding for patients (as they contemplate participation in RCTs), researchers (as they plan design of the new trials), and funders (as they assess the 'return on investment'). Although we provide the current best evidence on the question of expected 'success rate' of new versus established treatments consistent with a priori theoretical predictions reflective of 'uncertainty or equipoise hypothesis', it should be noted that our sample represents less than 1% of all available randomized trials; therefore, one should exercise the appropriate caution in interpretation of our findings. In addition, our conclusion applies to publicly funded trials only, as we did not include studies funded by commercial sponsors in our analysis."
+    }
+  ],
+  "pls_title": "New treatments versus established treatments in randomized trials",
+  "pls_type": "long",
+  "pls": "Random allocation to different groups to compare the effects of treatments is used in fair tests to find out which among the treatment options is preferable. Random allocation is only ethical, however, if there is genuine uncertainty about which of the treatment options is preferable. If a patient or their healthcare provider is certain which of the treatments being compared is preferable they should not agree to random allocation, because this would involve the risk that they would be assigned to a treatment they believed to be inferior. Decisions about whether to participate in randomized trials are made more difficult because of the widespread belief that new treatments must inevitably be superior to existing (standard) treatments. Indeed, it is understandable that people hope that this will be the case. If this was actually so, however, the ethical precondition of uncertainty would often not apply. This Cochrane methodology review addresses this important question: \"What is the likelihood that new treatments being compared to established treatments in randomized trials will be shown to be superior?\" Four cohorts of consecutive, publicly funded, randomized trials, which altogether included 743 trials that enrolled 297,744 patients, met our inclusion criteria for this review. We found that, on average, new treatments were very slightly more likely to have favorable results than established treatments, both in terms of the primary outcomes targeted and overall survival. In other words, when new treatments are compared with established treatments in randomized trials we can expect slightly more than half will prove to be better, and slightly less than half will prove to be worse than established treatments. This conclusion applies to publicly funded trials as we did not include studies funded by commercial sponsors in our analysis.The results are consistent with the ethical preconditions for random allocation – when people are enrolled in randomized trials, the results cannot be predicted in advance as there is genuine uncertainty about which of the treatments being compared in randomized trials will prove to be superior."
+}

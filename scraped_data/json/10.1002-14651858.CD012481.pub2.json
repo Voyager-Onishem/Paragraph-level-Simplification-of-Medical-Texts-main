@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012481.pub2",
+  "name": "Drug‐eluting stents versus bare‐metal stents for acute coronary syndrome",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Approximately 3.7 million people died from acute coronary syndrome worldwide in 2012. Acute coronary syndrome, also known as myocardial infarction or unstable angina pectoris, is caused by a sudden blockage of the blood supplied to the heart muscle. Percutaneous coronary intervention is often used for acute coronary syndrome, but previous systematic reviews on the effects of drug-eluting stents compared with bare-metal stents have shown conflicting results with regard to myocardial infarction; have not fully taken account of the risk of random and systematic errors; and have not included all relevant randomised clinical trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of drug-eluting stents versus bare-metal stents in people with acute coronary syndrome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, SCI-EXPANDED, and BIOSIS from their inception to January 2017. We also searched two clinical trials registers, the European Medicines Agency and the US Food and Drug Administration databases, and pharmaceutical company websites. In addition, we searched the reference lists of review articles and relevant trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials assessing the effects of drug-eluting stents versus bare-metal stents for acute coronary syndrome. We included trials irrespective of publication type, status, date, or language."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed our published protocol and the methodological recommendations of Cochrane. Two review authors independently extracted data. We assessed the risks of systematic error by bias domains. We conducted Trial Sequential Analyses to control the risks of random errors. Our primary outcomes were all-cause mortality, major cardiovascular events, serious adverse events, and quality of life. Our secondary outcomes were angina, cardiovascular mortality, and myocardial infarction. Our primary assessment time point was at maximum follow-up. We assessed the quality of the evidence by the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 25 trials randomising a total of 12,503 participants. All trials were at high risk of bias, and the quality of evidence according to GRADE was low to very low. We included 22 trials where the participants presented with ST-elevation myocardial infarction, 1 trial where participants presented with non-ST-elevation myocardial infarction, and 2 trials where participants presented with a mix of acute coronary syndromes.\nMeta-analyses at maximum follow-up showed no evidence of a difference when comparing drug-eluting stents with bare-metal stents on the risk of all-cause mortality or major cardiovascular events. The absolute risk of death was 6.97% in the drug-eluting stents group compared with 7.74% in the bare-metal stents group based on the risk ratio (RR) of 0.90 (95% confidence interval (CI) 0.78 to 1.03, 11,250 participants, 21 trials/22 comparisons, low-quality evidence). The absolute risk of a major cardiovascular event was 6.36% in the drug-eluting stents group compared with 6.63% in the bare-metal stents group based on the RR of 0.96 (95% CI 0.83 to 1.11, 10,939 participants, 19 trials/20 comparisons, very low-quality evidence). The results of Trial Sequential Analysis showed that we did not have sufficient information to confirm or reject our anticipated risk ratio reduction of 10% on either all-cause mortality or major cardiovascular events at maximum follow-up.\nMeta-analyses at maximum follow-up showed evidence of a benefit when comparing drug-eluting stents with bare-metal stents on the risk of a serious adverse event. The absolute risk of a serious adverse event was 18.04% in the drug-eluting stents group compared with 23.01% in the bare-metal stents group based on the RR of 0.80 (95% CI 0.74 to 0.86, 11,724 participants, 22 trials/23 comparisons, low-quality evidence), and Trial Sequential Analysis confirmed this result. When assessing each specific type of adverse event included in the serious adverse event outcome separately, the majority of the events were target vessel revascularisation. When target vessel revascularisation was analysed separately, meta-analysis showed evidence of a benefit of drug-eluting stents, and Trial Sequential Analysis confirmed this result.\nMeta-analyses at maximum follow-up showed no evidence of a difference when comparing drug-eluting stents with bare-metal stents on the risk of cardiovascular mortality (RR 0.91, 95% CI 0.76 to 1.09, 9248 participants, 14 trials/15 comparisons, very low-quality evidence) or myocardial infarction (RR 0.98, 95% CI 0.82 to 1.18, 10,217 participants, 18 trials/19 comparisons, very low-quality evidence). The results of the Trial Sequential Analysis showed that we had insufficient information to confirm or reject our anticipated risk ratio reduction of 10% on cardiovascular mortality and myocardial infarction.\nNo trials reported results on quality of life or angina."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The current evidence suggests that drug-eluting stents may lead to fewer serious adverse events compared with bare-metal stents without increasing the risk of all-cause mortality or major cardiovascular events. However, our Trial Sequential Analysis showed that there currently was not enough information to assess a risk ratio reduction of 10% for all-cause mortality, major cardiovascular events, cardiovascular mortality, or myocardial infarction, and there were no data on quality of life or angina. The evidence in this review was of low to very low quality, and the true result may depart substantially from the results presented in this review.\nMore randomised clinical trials with low risk of bias and low risks of random errors are needed if the benefits and harms of drug-eluting stents for acute coronary syndrome are to be assessed properly. More data are needed on the outcomes all-cause mortality, major cardiovascular events, quality of life, and angina to reduce the risk of random error."
+    }
+  ],
+  "pls_title": "Benefits and harms of drug-eluting versus bare-metal stents in people with acute coronary syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Acute coronary syndrome is a term applied to heart attacks as well as chest pain during rest. The syndrome is caused by decreased blood supply to the heart due to either a narrowing of the vessels supplying the heart or a blood clot. According to the World Health Organization, 3.7 million people died from acute coronary syndrome in 2012. Percutaneous coronary intervention, commonly known as coronary angioplasty, is used to treat the narrowed or blocked vessel of the heart by inflating a balloon to allow blood to flow through the vessel again. Coronary stents are then inserted into the vessel to ensure it remains open. Two types of stents are available for use, a stent that is coated with a drug intended to reduce the risk of future blockages (drug-eluting stent) and an uncoated stent (bare-metal stent). In this review, we aimed to assess the benefits and harms of drug-eluting stents compared with bare-metal stents."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases from their inception to January 2017 and found 25 trials where people were randomly allocated to either a group receiving drug-eluting stents or a group receiving bare-metal stents. The 25 trials (26 comparisons) included 12,503 adults with a mean age of 60.8 years."
+    },
+    {
+      "heading": "Key results",
+      "text": "The people receiving drug-eluting stents did seem to have a reduced risk of experiencing a serious adverse event compared with those receiving bare-metal stents, without affecting the risk of dying from any cause or specifically heart disease, or of having a heart attack. The serious adverse event likely to be avoided by those receiving drug-eluting stents seems to be repeat balloon angioplasty. No data were reported on quality of life or chest pain (angina) after receiving the stent."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence should be interpreted with caution, as we judged the quality to be low to very low due to limitations of the included randomised clinical trials. The reason for the very low-quality judgement was mainly due to all included trials being at high risk of bias. Consequently, the results may show more benefit of drug-eluting stents than the 'real life' effect would show. Furthermore, most of the outcomes in our review lacked sufficient statistical power. Future well-designed randomised clinical trials may therefore change the above-mentioned results."
+    }
+  ]
+}

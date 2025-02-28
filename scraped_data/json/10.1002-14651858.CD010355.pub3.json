@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010355.pub3",
+  "name": "Non‐invasive positive pressure ventilation for prevention of complications after pulmonary resection in lung cancer patients ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pulmonary complications are often seen during the postoperative period following lung resection for patients with lung cancer. Some situations such as intubation, a long stay in the intensive care unit, the high cost of antibiotics and mortality may be avoided with the prevention of postoperative pulmonary complications. Non-invasive positive pressure ventilation (NIPPV) is widely used in hospitals, and is thought to reduce the number of pulmonary complications and mortality after this type of surgery. Therefore, a systematic review is needed to critically assess the benefits and harms of NIPPV for patients undergoing lung resection. This is an update of a Cochrane review first published in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of NIPPV for preventing complications in patients following pulmonary resection for lung cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS and PEDro until 21 December 2018, to identify potentially eligible trials. We did not use any date or language restrictions in the electronic searches. We searched the reference lists of relevant papers and contacted experts in the field for information about additional published and unpublished studies. We also searched the Register of Controlled Trials (www.controlled-trials.com) and ClinicalTrials.gov (clinicaltrials.gov) to identify ongoing studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomised or quasi-randomised clinical trials that compared NIPPV in the immediate postoperative period after pulmonary resection with no intervention or conventional respiratory therapy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors collected data and assessed trial risk of bias. Where possible, we pooled data from the individual studies using a fixed-effect model (quantitative synthesis), but where this was not possible we tabulated or presented the data in the main text (qualitative synthesis). Where substantial heterogeneity existed, we applied a random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Of the 190 references retrieved from the searches, 7 randomised clinical trials (RCTs) (1 identified with the new search) and 1 quasi-randomised trial fulfilled the eligibility criteria for this review, including a total of 486 patients. Five studies described quantitative measures of pulmonary complications, with pooled data showing no difference between NIPPV compared with no intervention (RR 1.03; 95% CI 0.72 to 1.47). Three studies reported intubation rates and there was no significant difference between the intervention and control groups (RR 0.55; 95% CI 0.25 to 1.20). Five studies reported measures of mortality on completion of the intervention period. There was no statistical difference between the groups for this outcome (RR 0.60; 95% CI 0.24 to 1.53). Similar results were observed in the subgroup analysis considering ventilatory mode (bi-level versus continuous positive airway pressure (CPAP). No study evaluated the postoperative use of antibiotics. Two studies reported the length of intensive care unit stay and there was no significant difference between the intervention and control groups (MD -0.75; 95% CI -3.93 to 2.43). Four studies reported the length of hospital stay and there was no significant difference between the intervention and control groups (MD -0.12; 95% CI -6.15 to 5.90). None of the studies described any complications related to NIPPV. Of the seven included studies, four studies were considered as 'low risk of bias' in all domains, two studies were considered 'high risk of bias' for the allocation concealment domain, and one of these was also considered 'high risk of bias' for random sequence generation. One other study was considered ‘high risk of bias’ for including participants with more severe disease. The new study identified could not be included in the meta-analysis as its intervention differed from the other studies (use of pre and postoperative NIPPV in the same population)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review demonstrated that there was no additional benefit of using NIPPV in the postoperative period after pulmonary resection for all outcomes analysed (pulmonary complications, rate of intubation, mortality, postoperative consumption of antibiotics, length of intensive care unit stay, length of hospital stay and adverse effects related to NIPPV). However, the quality of evidence is 'very low', 'low' and 'moderate' since there were few studies, with small sample size and low frequency of outcomes. New well-designed and well-conducted randomised trials are needed to answer the questions of this review with greater certainty."
+    }
+  ],
+  "pls_title": "Non-invasive positive pressure ventilation for prevention of complications after pulmonary resection in lung cancer patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is the use of non-invasive positive pressure ventilation (NIPPV) safe and effective to prevent complications in the postoperative period in patients who underwent pulmonary resection for lung cancer?"
+    },
+    {
+      "heading": "Background",
+      "text": "Death after major lung surgery for lung cancer resection is usually caused by complications, particularly lung complications, in the first week or so. Some experts recommend the use of NIPPV, a technique that provides pressurised gas to the airway, inflating the lungs through a mask without using any tubes put into the nostrils or main airway."
+    },
+    {
+      "heading": "Search date",
+      "text": "The search was last updated on December 21, 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found seven randomised clinical trials and one quasi-randomised trial suitable for this review, involving a total of 486 patients."
+    },
+    {
+      "heading": "Key results",
+      "text": "When we put all the results together we could not show that using NIPPV was any better than not using it at preventing complications such as death, breathing problems, the need for extra breathing tubes or the length of stay in intensive care unit or in hospital. However, we thought the studies had problems with their methods and that the quality of evidence was either 'very low' or 'moderate'."
+    }
+  ]
+}

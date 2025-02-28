@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012262.pub2",
+  "name": "Adductor canal blocks for postoperative pain treatment in adults undergoing knee surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Peripheral regional anaesthesia techniques are well established for postoperative pain treatment following knee surgery. The adductor canal block (ACB) is a new technique, which can be applied as a single shot or by catheter for continuous regional analgesia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the analgesic efficacy and adverse events of ACB versus other regional analgesic techniques or systemic analgesic treatment for adults undergoing knee surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, and Embase, five other databases, and one trial register on 19 September 2018; we checked references, searched citations, and contacted study authors to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized controlled trials (RCTs) comparing single or continuous ACB versus other regional analgesic techniques or systemic analgesic treatment. Inclusion was independent of the technique used (landmarks, peripheral nerve stimulator, or ultrasound) and the level of training of providers."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used Cochrane’s standard methodological procedures. Our primary outcomes were pain intensity at rest and during movement; rate of accidental falls; and rates of opioid-related adverse events. We used GRADE to assess the quality of evidence for primary outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 25 RCTs (1688 participants) in this review (23 trials combined within meta-analyses). In 18 studies, participants underwent total knee arthroplasty (TKA), whereas seven trials investigated patients undergoing arthroscopic knee surgery. We identified 11 studies awaiting classification and 11 ongoing studies.\nWe investigated the following comparisons.\nACB versus sham treatment\nWe included eight trials for this comparison. We found no significant differences in postoperative pain intensity at rest (2 hours: standardized mean difference (SMD) -0.56, 95% confidence interval (CI) -1.20 to 0.07, 4 trials, 208 participants, low-quality evidence; 24 hours: SMD -0.49, 95% CI -1.05 to 0.07, 6 trials, 272 participants, low-quality evidence) or during movement (2 hours: SMD -0.59, 95% CI -1.5 to 0.33; 3 trials, 160 participants, very low-quality evidence; 24 hours: SMD 0.03, 95% CI -0.26 to 0.32, 4 trials, 184 participants, low-quality evidence). Furthermore, they noted no evidence of a difference in postoperative nausea between groups (24 hours: risk ratio (RR) 1.91, 95% CI 0.48 to 7.58, 3 trials, 121 participants, low-quality evidence). One trial reported that no accidental falls occurred 24 hours postoperatively (low-quality evidence).\nACB versus femoral nerve block\nWe included 15 RCTs for this comparison. We found no evidence of a difference in postoperative pain intensity at rest (2 hours: SMD -0.74, 95% CI -1.76 to 0.28, 5 trials, 298 participants, low-quality evidence; 24 hours: SMD 0.04, 95% CI -0.09 to 0.18, 12 trials, 868 participants, high-quality evidence) or during movement (2 hours: SMD -0.47, 95% CI -1.86 to 0.93, 2 trials, 88 participants, very low-quality evidence; 24 hours: SMD 0.56, 95% CI -0.00 to 1.12, 9 trials, 576 participants, very low-quality evidence). They noted no evidence of a difference in postoperative nausea (24 hours: RR 1.22, 95% CI 0.42 to 3.54, 2 trials, 138 participants, low-quality evidence) and no evidence that the rate of accidental falls during postoperative care was significantly different between groups (24 hours: RR 0.20, 95% CI 0.04 to 1.15, 3 trials, 172 participants, low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are currently uncertain whether patients treated with ACB suffer from lower pain intensity at rest and during movement, fewer opioid-related adverse events, and fewer accidental falls during postoperative care compared to patients receiving sham treatment. The same holds true for the comparison of ACB versus femoral nerve block focusing on postoperative pain intensity. The overall evidence level was mostly low or very low, so further research might change the conclusion. The 11 studies awaiting classification and the 11 ongoing studies, once assessed, may alter the conclusions of this review."
+    }
+  ],
+  "pls_title": "Advantages and problems of a specific nerve block in adults undergoing knee surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Postoperative pain following knee surgery continues to be a relevant healthcare problem. Combinations of different analgesics are the best way to treat postoperative pain. One way is to block specific nerves (called regional anaesthesia) that are responsible for pain development. For many years, blocking the femoral nerve, which is responsible for sensation (e.g. pain) and movement of the upper leg, was very important. In recent years, blocking only one specific part of this nerve (called adductor canal block), which does not influence movement of the upper leg, has become more interesting."
+    },
+    {
+      "heading": "Review question",
+      "text": "We investigated advantages and problems of the adductor canal block compared to sham treatment (patients received saline instead of drugs) and other regional anaesthesia for postoperative pain treatment in adults undergoing knee surgery."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 25 clinical studies in which people are randomly put into one of two or more treatment groups (called 'randomized controlled trials'), with results reported from a total of 1688 participants (929 females, 759 males). Participants were 29 to 72 years old. Eight trials compared participants receiving adductor canal block against patients receiving saline. A total of 15 RCTs compared adductor canal block versus femoral nerve block. The evidence is current to October 2018. No trial was funded by industry."
+    },
+    {
+      "heading": "Key results",
+      "text": "We are uncertain whether patients treated with adductor canal block have lower pain intensity at rest or during movement (e.g. walking) compared with those who received only saline. It is unclear whether rates of adverse events after taking opioids (e.g. nausea) or after accidental falls during postoperative care are lower. It is also uncertain whether patients receiving adductor canal block show different postoperative pain intensity at rest and during movement compared to those treated with femoral nerve block. We noted no differences in adverse events after taking opioids and after accidental falls."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of evidence for many outcomes as low or very low. In contrast, we rated pain at rest (at 24 hours) as high-quality evidence."
+    }
+  ]
+}

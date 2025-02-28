@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007717.pub2",
+  "name": "Telehealthcare for asthma",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Healthcare systems internationally need to consider new models of care to cater for the increasing numbers of people with asthma. Telehealthcare interventions are increasingly being seen by policymakers as a potential means of delivering asthma care. We defined telehealthcare as being healthcare delivered from a distance, facilitated electronically and involving the exchange of information through the personalised interaction between a healthcare professional using their skills and judgement and the patient providing information."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of telehealthcare interventions in people with asthma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched in the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED, and PsycINFO; this was supplemented by handsearching of respiratory journals. We also searched registers of ongoing and unpublished trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected completed randomised controlled trials of telehealthcare initiatives aiming to improve asthma care."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently appraised studies for inclusion and extracted data and performed meta-analyses. We analysed dichotomous variables to produce an odds ratio (OR) and continuous variables to produce a mean difference."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 trials in this review. The 21 included studies investigated a range of technologies aiming to support the provision of care from a distance. These included: telephone (n = 9); video-conferencing (n = 2); Internet (n = 2); other networked communications (n = 6); text Short Messaging Service (n = 1); or a combination of text and Internet (n = 1). Meta-analysis showed that these interventions did not result in clinically important improvements in asthma quality of life (minimum clinically important difference = 0.5): mean difference in Juniper's Asthma Quality of Life Questionnaire (AQLQ) 0.08 (95% CI 0.01 to 0.16). Telehealthcare for asthma resulted in a non-significant increase in the odds of emergency department visits over a 12-month period: OR 1.16 (95% CI 0.52 to 2.58). There was, however, a significant reduction in hospitalisations over a 12-month period: OR 0.21 (95% CI 0.07 to 0.61), the effect being most marked in people with more severe asthma managed predominantly in secondary care settings."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Telehealthcare interventions are unlikely to result in clinically relevant improvements in health outcomes in those with relatively mild asthma, but they may have a role in those with more severe disease who are at high risk of hospital admission. Further trials evaluating the effectiveness and cost-effectiveness of a range of telehealthcare interventions are needed."
+    }
+  ],
+  "pls_title": "Telehealthcare interventions for long-term asthma",
+  "pls_type": "long",
+  "pls": "Asthma is a common condition, affecting an estimated 300 million people worldwide. Its symptoms include cough, breathlessness, wheeze and associated limitation in activity.\nIncreases in the prevalence of long-term conditions such as asthma are presenting considerable challenges to health services internationally and traditional models of healthcare are struggling to cope. Emerging information and communication technologies (ICTs) have the potential to ameliorate some of the challenges being posed through enabling and supporting patient care at a distance. Collectively termed 'telehealthcare' services, these interventions include the use of the telephone, videoconferencing, text-message (also known as Short Message Service, SMS), instant messaging, email and the Internet to facilitate remote patient monitoring and decisions on care by healthcare professionals.\nThe potential benefits of telehealthcare include greater accessibility for patients, reduced time and cost expenditure associated with travelling, earlier detection of disease exacerbations and associated reduced risk of hospital admissions for asthma. These interventions are, however, not without risk and it is therefore important to study the effectiveness of such telehealthcare initiatives rigorously.\nWe undertook a systematic review of the literature, searching for randomised controlled trials that have either been published or are in progress, which studied the impact of telehealthcare on asthma outcomes.\nOur searches identified a large body of trial evidence and also a substantial body of work in progress. This revealed that telehealthcare initiatives are unlikely to be of benefit in improving quality of life for the majority of people with relatively mild asthma, but that these interventions may prove useful in preventing exacerbations and hospital admissions in people with more severe asthma. We believe it is important for more research to be done to establish the cost-effectiveness of these interventions."
+}

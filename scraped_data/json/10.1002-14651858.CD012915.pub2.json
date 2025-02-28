@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012915.pub2",
+  "name": "MVA85A vaccine to enhance BCG for preventing tuberculosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tuberculosis causes more deaths than any other infectious disease globally. Bacillus Calmette-Guérin (BCG) is the only available vaccine, but protection is incomplete and variable. The modified Vaccinia Ankara virus expressing antigen 85A (MVA85A) is a viral vector vaccine produced to prevent tuberculosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess and summarize the effects of the MVA85A vaccine boosting BCG in humans."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; Central Register of Controlled Trials (CENTRAL); MEDLINE (PubMed); Embase (Ovid); and four other databases. We searched the WHO ICTRP and ClinicalTrials.gov. All searches were run up to 10 May 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We evaluated randomized controlled trials of MVA85A vaccine given with BCG in people regardless of age or HIV status."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility and risk of bias of trials, and extracted and analyzed data. The primary outcome was active tuberculosis disease. We summarized dichotomous outcomes using risk ratios (RR) and risk differences (RD), with 95% confidence intervals (CI). Where appropriate, we combined data in meta-analyses. Where meta-analysis was inappropriate, we summarized results narratively."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified six studies relating to four Phase 2 randomized controlled trials enrolling 3838 participants. Funding was by government bodies, charities, and philanthropic donors. Five studies included infants, one of them infants born to HIV-positive mothers. One study included adults living with HIV. All trials included authors from Oxford University who led the laboratory development of the vaccine. Participants received intradermal MVA85A after BCG in some studies, and before selective deferred BCG in HIV-exposed infants.\nThe largest trial in 2797 African children was well conducted with low risk of bias for most parameters. Risk of bias was uncertain for selective reporting because there were no precise case definition endpoints for active tuberculosis published prior to the trial analysis.\nMVA85A added to BCG compared to BCG alone probably has no effect on the risk of developing microbiologically confirmed tuberculosis (RR 0.97, 95% CI 0.58 to 1.62; 3439 participants, 2 trials; moderate-certainty evidence), or the risk of starting on tuberculosis treatment (RR 1.10, 95% CI 0.92 to 1.33; 3687 participants, 3 trials; moderate-certainty evidence). MVA85A probably has no effect on the risk of developing latent tuberculosis (RR 1.01, 95% CI 0.85 to 1.21; 3831 participants, 4 trials; moderate-certainty evidence). Vaccinating people with MVA85A in addition to BCG did not cause life-threatening serious adverse effects (RD 0.00, 95% CI –0.00 to 0.00; 3692 participants, 3 trials; high-certainty evidence). Vaccination with MVA85A is probably associated with an increased risk of local skin adverse effects (3187 participants, 3 trials; moderate-certainty evidence), but not systemic adverse effect related to vaccination (144 participants, 1 trial; low-certainty evidence). This safety profile is consistent with Phase 1 studies which outlined a transient, superficial reaction local to the injection site and mild short-lived symptoms such as malaise and fever."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "MVA85A delivered by intradermal injection in addition to BCG is safe but not effective in reducing the risk of developing tuberculosis."
+    }
+  ],
+  "pls_title": "MVA85A vaccine as a booster to BCG for prevention of tuberculosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane review was to evaluate the effectiveness and safety of using MVA85A in addition to BCG compared to using BCG alone for prevention of tuberculosis."
+    },
+    {
+      "heading": "Key messages",
+      "text": "MVA85A in addition to BCG showed no added benefit to BCG in prevention of acquiring tuberculosis."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Tuberculosis is an infectious airborne disease which affects the lungs and other organs in the body. It can either be active when a person shows signs and symptoms or has confirmatory tests for tuberculosis or latent when a person has inhaled the bacteria before but does not show signs and symptoms of sickness. Currently, there is only one vaccine licensed for prevention of this disease, which is called BCG. However, the ability for the BCG vaccine to prevent tuberculosis differs in different settings and patient groups resulting in tuberculosis still remaining a problem worldwide despite children being immunized. MVA85A is a vaccine that was investigated for prevention of tuberculosis with the hope that when used in addition to BCG it will improve prevention of people getting tuberculosis."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "After examining the research published up to 10 May 2018, we included six study findings from four randomized controlled trials (clinical trials where people are randomly put into one of two or more treatment groups), enrolling 3838 children and adults. Based on these studies of mostly children and adults living in Africa, MVA85A added to BCG compared to BCG alone probably has no effect on the risk of developing active tuberculosis defined as microbiologically confirmed tuberculosis (moderate-certainty evidence) or the risk of starting on tuberculosis treatment (moderate-certainty evidence). MVA85A has no effect on the risk of developing latent tuberculosis (moderate-certainty evidence). MVA85A does not cause any life-threatening serious side effects (highly-certainty evidence). There were more local skin reactions in people vaccinated with MVA85A, however, there was no increase in overall side effects in people given MVA85A."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that have been published up to May 2018."
+    }
+  ]
+}

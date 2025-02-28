@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011119.pub2",
+  "name": "Routine use of patient reported outcome measures (PROMs) for improving treatment of common mental health disorders in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Routine outcome monitoring of common mental health disorders (CMHDs), using patient reported outcome measures (PROMs), has been promoted across primary care, psychological therapy and multidisciplinary mental health care settings, but is likely to be costly, given the high prevalence of CMHDs. There has been no systematic review of the use of PROMs in routine outcome monitoring of CMHDs across these three settings."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of routine measurement and feedback of the results of PROMs during the management of CMHDs in 1) improving the outcome of CMHDs; and 2) in changing the management of CMHDs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Depression Anxiety and Neurosis group specialised controlled trials register (CCDANCTR-Studies and CCDANCTR-References), the Oxford University PROMS Bibliography (2002-5), Ovid PsycINFO, Web of Science, The Cochrane Library, and International trial registries, initially to 30 May 2014, and updated to 18 May 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected cluster and individually randomised controlled trials (RCTs) including participants with CMHDs aged 18 years and over, in which the results of PROMs were fed back to treating clinicians, or both clinicians and patients. We excluded RCTs in child and adolescent treatment settings, and those in which more than 10% of participants had diagnoses of eating disorders, psychoses, substance use disorders, learning disorders or dementia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two authors independently identified eligible trials, assessed trial quality, and extracted data. We conducted meta-analysis across studies, pooling outcome measures which were sufficiently similar to each other to justify pooling."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 studies involving 8787 participants: nine in multidisciplinary mental health care, six in psychological therapy settings, and two in primary care. Pooling of outcome data to provide a summary estimate of effect across studies was possible only for those studies using the compound Outcome Questionnaire (OQ-45) or Outcome Rating System (ORS) PROMs, which were all conducted in multidisciplinary mental health care or psychological therapy settings, because both primary care studies identified used single symptom outcome measures, which were not directly comparable to the OQ-45 or ORS.\nMeta-analysis of 12 studies including 3696 participants using these PROMs found no evidence of a difference in outcome in terms of symptoms, between feedback and no-feedback groups (standardised mean difference (SMD) -0.07, 95% confidence interval (CI) -0.16 to 0.01; P value = 0.10). The evidence for this comparison was graded as low quality however, as all included studies were considered at high risk of bias, in most cases due to inadequate blinding of assessors and significant attrition at follow-up.\nQuality of life was reported in only two studies, social functioning in one, and costs in none. Information on adverse events (thoughts of self-harm or suicide) was collected in one study, but differences between arms were not reported.\nIt was not possible to pool data on changes in drug treatment or referrals as only two studies reported these. Meta-analysis of seven studies including 2608 participants found no evidence of a difference in management of CMHDs between feedback and no-feedback groups, in terms of the number of treatment sessions received (mean difference (MD) -0.02 sessions, 95% CI -0.42 to 0.39; P value = 0.93). However, the evidence for this comparison was also graded as low quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found insufficient evidence to support the use of routine outcome monitoring using PROMs in the treatment of CMHDs, in terms of improving patient outcomes or in improving management. The findings are subject to considerable uncertainty however, due to the high risk of bias in the large majority of trials meeting the inclusion criteria, which means further research is very likely to have an important impact on the estimate of effect and is likely to change the estimate. More research of better quality is therefore required, particularly in primary care where most CMHDs are treated.\nFuture research should address issues of blinding of assessors and attrition, and measure a range of relevant symptom outcomes, as well as possible harmful effects of monitoring, health-related quality of life, social functioning, and costs. Studies should include people treated with drugs as well as psychological therapies, and should follow them up for longer than six months."
+    }
+  ],
+  "pls_title": "Using patient-reported outcome measures to monitor progress among adults with common mental health disorders",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "One in six people suffer from a common mental health disorder (CMHD), including depression and anxiety disorders. Patient reported outcome measures (PROMs) are questionnaires on patients' symptoms, functioning, and relationships. Using PROMs to monitor the progress of people with CMHDs might improve treatment outcomes, and change the management of CMHDs."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "People with CMHDs; health professionals in primary care, psychological therapy and mental health services; health service commissioners."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "Does the use of PROMs to monitor progress in people with CMHDs improve health outcomes, including symptoms, quality of life, and social functioning?\nDoes the use of PROMs in people with CMHDs change the way their problems are managed, including drug therapy and referrals for specialist help?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "Trial databases were searched to find all high-quality studies of the use of PROMs to monitor the treatment of CMHDs published up to May 2015. Included studies had to be randomised controlled trials in adult participants, where the majority diagnosed had a CMHD.\nSeventeen studies involving 8787 participants were included in the review, nine from mental health, six from psychological therapy, and two from primary care settings.\nThe quality of the studies was rated ‘low’ to 'moderate'."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "Routine outcome monitoring of CMHDs using PROMs was not shown conclusively to be helpful in analyses combining study results, either in terms of improving patient symptom outcomes (across 12 studies), or in changing the duration of treatment for their conditions (across seven studies). It was not possible to analyse changes in drug treatment or referrals for further treatment as only two studies reported these. Similarly, health-related quality of life, social functioning, adverse events, and costs were reported in very few studies."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "More research of better quality is required, especially in primary care where most CMHDs are treated. Studies should include people treated with drugs as well as psychological therapies, and should follow them for longer than six months. As well as symptoms and length of treatment, studies should measure possible harms, quality of life, social functioning, and the costs of monitoring."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD000219.pub5",
+  "name": "Antibiotics for acute otitis media in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute otitis media (AOM) is one of the most common diseases in childhood for which antibiotics are commonly prescribed; a systematic review reported a pooled prevalence of 85.6% in high-income countries. This is an update of a Cochrane Review first published in the Cochrane Library in 1997 and updated in 1999, 2005, 2009, 2013 and 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antibiotics for children with AOM."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, Current Contents, CINAHL, LILACS and two trial registers. The date of the search was 14 February 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing 1) antimicrobial drugs with placebo, and 2) immediate antibiotic treatment with expectant observation (including delayed antibiotic prescribing) in children with AOM."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened trials for inclusion and extracted data using the standard methodological procedures recommended by Cochrane. Our primary outcomes were: 1) pain at various time points (24 hours, two to three days, four to seven days, 10 to 14 days), and 2) adverse effects likely to be related to the use of antibiotics. Secondary outcomes were: 1) abnormal tympanometry findings, 2) tympanic membrane perforation, 3) contralateral otitis (in unilateral cases), 4) AOM recurrences, 5) serious complications related to AOM and 6) long-term effects (including the number of parent-reported AOM symptom episodes, antibiotic prescriptions and health care utilisation as assessed at least one year after randomisation). We used the GRADE approach to rate the overall certainty of evidence for each outcome of interest."
+    },
+    {
+      "heading": "Main results",
+      "text": "Antibiotics versus placebo\nWe included 13 trials (3401 children and 3938 AOM episodes) from high-income countries, which we assessed at generally low risk of bias.\nAntibiotics do not reduce pain at 24 hours (risk ratio (RR) 0.89, 95% confidence interval (CI) 0.78 to 1.01; 5 trials, 1394 children; high-certainty evidence), or at four to seven days (RR 0.76, 95% CI 0.50 to 1.14; 7 trials, 1264 children), but result in almost a third fewer children having pain at two to three days (RR 0.71, 95% CI 0.58 to 0.88; number needed to treat for an additional beneficial outcome (NNTB) 20; 7 trials, 2320 children; high-certainty evidence), and likely result in two-thirds fewer having pain at 10 to 12 days (RR 0.33, 95% CI 0.17 to 0.66; NNTB 7; 1 trial, 278 children; moderate-certainty evidence). Antibiotics increase the risk of adverse events such as vomiting, diarrhoea or rash (RR 1.38, 95% CI 1.16 to 1.63; number needed to treat for an additional harmful outcome (NNTH) 14; 8 trials, 2107 children; high-certainty evidence).\nAntibiotics reduce the risk of children having abnormal tympanometry findings at two to four weeks (RR 0.83, 95% CI 0.72 to 0.96; NNTB 11; 7 trials, 2138 children), slightly reduce the risk of experiencing tympanic membrane perforations (RR 0.43, 95% CI 0.21 to 0.89; NNTB 33; 5 trials, 1075 children) and halve the risk of contralateral otitis episodes (RR 0.49, 95% CI 0.25 to 0.95; NNTB 11; 4 trials, 906 children). However, antibiotics do not reduce the risk of abnormal tympanometry findings at six to eight weeks (RR 0.89, 95% CI 0.70 to 1.13; 3 trials, 953 children) and at three months (RR 0.94, 95% CI 0.66 to 1.34; 3 trials, 809 children) or late AOM recurrences (RR 0.94, 95% CI 0.79 to 1.11; 6 trials, 2200 children). Severe complications were rare, and the evidence suggests that serious complications do not differ between children treated with either antibiotics or placebo.\nImmediate antibiotics versus expectant observation\nWe included six trials (1556 children) from high-income countries.\nThe evidence suggests that immediate antibiotics may result in a reduction of pain at two to three days (RR 0.53, 95% CI 0.35 to 0.79; NNTB 8; 1 trial, 396 children; low-certainty evidence), but probably do not reduce the risk of pain at three to seven days (RR 0.75, 95% CI 0.50 to 1.12; 4 trials, 959 children; moderate-certainty evidence), and may not reduce the risk of pain at 11 to 14 days (RR 0.91, 95% CI 0.75 to 1.10; 1 trial, 247 children; low-certainty evidence). Immediate antibiotics increase the risk of vomiting, diarrhoea or rash (RR 1.87, 95% CI 1.39 to 2.51; NNTH 10; 3 trials, 946 children; high-certainty evidence).\nImmediate antibiotics probably do not reduce the proportion of children with abnormal tympanometry findings at four weeks and evidence suggests that immediate antibiotics may not reduce the risk of tympanic membrane perforation and AOM recurrences. No serious complications occurred in either group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review reveals that antibiotics probably have no effect on pain at 24 hours, a slight effect on pain in the days following and only a modest effect on the number of children with tympanic perforations, contralateral otitis episodes and abnormal tympanometry findings at two to four weeks compared with placebo in children with AOM. In high-income countries, most cases of AOM spontaneously remit without complications. The benefits of antibiotics must be weighed against the possible harms: for every 14 children treated with antibiotics, one child experienced an adverse event (such as vomiting, diarrhoea or rash) that would not have occurred if antibiotics were withheld.\nFor most children with mild disease in high-income countries, an expectant observational approach seems justified. Therefore, clinical management should emphasise advice about adequate analgesia and the limited role for antibiotics."
+    }
+  ],
+  "pls_title": "Antibiotics for acute middle ear infection (acute otitis media) in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "In high-income countries, most children with acute otitis media (AOM) recover spontaneously without complications, and compared with placebo antibiotics have no early effect on pain and only a slight effect on pain in the days following.\nAny benefits of antibiotics must be weighed against the possible harms: for every 14 children treated with antibiotics one child experienced an adverse event (such as vomiting, diarrhoea or rash) that would not have occurred if antibiotics were not given.\nFor most children with mild disease in high-income countries, an expectant observational approach seems justified."
+    },
+    {
+      "heading": "What is AOM?",
+      "text": "AOM or acute middle ear infection is one of the most common diseases in early infancy and childhood, causing pain and general symptoms of illness such as fever, irritability and problems feeding and sleeping."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if antibiotics are effective for relieving signs and symptoms in children with AOM."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at the effectiveness of antibiotics compared with placebo or expectant observation (watchful waiting) in children aged from one month to 15 years with AOM. We compared and summarised their results, and rated our confidence in the evidence, based on factors such as study methods and effect sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found that antibiotics did not decrease the number of children with pain at 24 hours (when 60% of children recovered or improved), only slightly reduced the number of children with pain in the days following, and did not reduce the number of children with late AOM recurrences compared with placebo. However, antibiotics did slightly reduce the number of children with perforations (a rupture) of the eardrum and AOM in the initially unaffected ear compared with placebo. Antibiotics reduced the number of children with abnormal tympanometry (a test to evaluate how well the middle ear is functioning) findings at two to four weeks but not after six to eight weeks and three months.\nThere was not enough information to know if antibiotics reduced rare complications such as mastoiditis (infection of the bones around the ear). All the studies included in this review were from high-income countries. Data are lacking from populations in which the AOM incidence and risk of progression to mastoiditis is higher.\nAntibiotics caused unwanted effects such as diarrhoea, vomiting and rash. It is difficult to balance the small benefits against the small harms of antibiotics in children with AOM. However, for most children with mild disease in high-income countries, an expectant observational approach seems justified."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "From the review of antibiotics against placebo, we are confident that antibiotics have no effect on pain in the first 24 hours and only a slight effect in the days following. We are only moderately confident that antibiotics reduce pain experienced 10 to 12 days after children are initially assessed. Our confidence is moderate because only one study reported this result from a secondary analysis. We are confident that antibiotics modestly reduce the number of children with abnormal tympanometry results after two to four weeks, but that they do not reduce the risk at three months. We are confident that antibiotics increase the risk of unwanted effects.\nFor the review of immediate antibiotics versus expectant observation, we have little confidence that immediate antibiotics reduce pain two to three days after assessment and are moderately confident that immediate antibiotics probably do not reduce pain at three to seven days. Our confidence is limited because of concerns about how some of the studies were conducted."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "Our evidence is current to 14 February 2023. The findings of this update are consistent with previous versions of the review."
+    }
+  ]
+}

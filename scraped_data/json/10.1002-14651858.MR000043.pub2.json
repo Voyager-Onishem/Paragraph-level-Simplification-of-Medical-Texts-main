@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000043.pub2",
+  "name": "Comparison of central adjudication of outcomes and onsite outcome assessment on treatment effect estimates ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Assessment of events by adjudication committees (ACs) is recommended in multicentre randomised controlled trials (RCTs). However, its usefulness has been questioned."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of this systematic review was to compare 1) treatment effect estimates of subjective clinical events assessed by onsite assessors versus by AC, and 2) treatment effect estimates according to the blinding status of the onsite assessor as well as the process used to select events to adjudicate."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE, PsycINFO, CINAHL and Google Scholar (25 August 2015 as the last updated search date), using a combination of terms to retrieve RCTs with commonly used terms to describe ACs."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all reports of RCTs and the published RCTs included in reviews and meta-analyses that reported the same subjective outcome event assessed by both an onsite assessor and an AC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted the odds ratio (OR) from onsite assessment and the corresponding OR from AC assessment and calculated the ratio of the odds ratios (ROR). A ratio of odds ratios < 1 indicated that onsite assessors generated larger effect estimates in favour of the experimental treatment than ACs."
+    },
+    {
+      "heading": "Main results",
+      "text": "Data from 47 RCTs (275,078 patients) were used in the meta-analysis. We excluded 11 RCTs because of incomplete outcome data to calculate the OR for onsite and AC assessments. On average, there was no difference in treatment effect estimates from onsite assessors and AC (combined ROR: 1.00, 95% confidence interval (CI) 0.97 to 1.04; I2 = 0%, 47 RCTs). The combined ROR was 1.00 (95% CI 0.96 to 1.04; I2 = 0%, 35 RCTs) when onsite assessors were blinded; 0.76 (95% CI 0.48 to 1.12, I2 = 0%, two RCTs) when AC assessed events identified independently from unblinded onsite assessors; and 1.11 (95% CI 0.96 to 1.27, I2 = 0%, 10 RCTs) when AC assessed events identified by unblinded onsite assessors. However, there was a statistically significant interaction between these subgroups (P = 0.03)"
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "On average, treatment effect estimates for subjective outcome events assessed by onsite assessors did not differ from those assessed by ACs. Results of subgroup analysis showed an interaction according to the blinded status of onsite assessors and the process used to submit data to AC. These results suggest that the use of ACs might be most important when onsite assessors are not blinded and the risk of misclassification is high. Furthermore, research is needed to explore the impact of the different procedures used to select events to adjudicate."
+    }
+  ],
+  "pls_title": "Comparison of central adjudication of outcomes and onsite outcome assessment on treatment effect estimates",
+  "pls_type": "long",
+  "pls": "It is widely recommended that multicentre randomised controlled trials (RCTs) should have a central process for assessing whether or not a patient has had an event, rather than relying solely on the outcomes reported by assessors at the relevant site where the decision might be subjective. These Adjudication Committees (ACs) are commonly used, especially in large trials. For example, the US Food and Drug Administration (FDA) and the European Medicine Agency (EMA) recommend assessment of events by such committees to harmonise and standardise outcome assessment across a trial. However, there is a need for evidence to justify the use of ACs and to decide on how central adjudication of clinical events should be conducted. This is the first large meta-analysis across medical areas to evaluate the impact of central adjudication on the estimates for treatment effect produced by RCTs. We investigated whether using the event data from ACs produced different treatment effect estimates than the data from onsite for subjective outcomes in RCTs.\nWe defined an AC as a committee of clinical experts in a specific medical area that seeks to harmonise and standardise the outcome assessment; whereas onsite assessors would be investigators, research nurses, data collectors, or patients themselves doing an onsite evaluation of the occurrence of the outcome during the RCT. Onsite assessors may, or may not, be blinded to the treatment assigned. We included all reports of RCTs and meta-analyses of published RCTs that reported the same subjective binary clinical event outcome assessed by both an onsite assessor and an AC.\nWe combined the findings of 47 RCTs (275,078 patients) in our systematic review and meta-analysis in order to see if there is a difference between the results from ACs and from onsite assessment. Our results showed that treatment effect estimates of subjective clinical events did not differ, on average, from those assessed by ACs. When we divided the data into whether or not the onsite assessors knew the patient's allocated treatment in the RCT and the various ways of submitting data to ACs, we found that there might be important differences between onsite assessment and ACs depending on which methods are used. Our findings, which are up to date as of August 2015, raise important uncertainty about whether ACs are being used appropriately across all RCTs."
+}

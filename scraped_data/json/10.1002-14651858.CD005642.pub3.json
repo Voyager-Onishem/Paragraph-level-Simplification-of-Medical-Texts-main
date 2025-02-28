@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005642.pub3",
+  "name": "Peginterferon alpha‐2a versus peginterferon alpha‐2b for chronic hepatitis C",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A combination of weekly pegylated interferon (peginterferon) alpha and daily ribavirin still represents standard treatment of chronic hepatitis C infection in the majority of patients. However, it is not established which of the two licensed peginterferon products, peginterferon alpha-2a or peginterferon alpha-2b, is the most effective and has a better safety profile."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically evaluate the benefits and harms of peginterferon alpha-2a versus peginterferon alpha-2b in head-to-head randomised clinical trials in patients with chronic hepatitis C."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and LILACS until October 2013. We also searched conference abstracts, journals, and grey literature."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised clinical trials comparing peginterferon alpha-2a versus peginterferon alpha-2b given with or without co-intervention(s) (for example, ribavirin) for chronic hepatitis C. Quasi-randomised studies and observational studies as identified by the searches were also considered for assessment of harms. Our primary outcomes were all-cause mortality, liver-related morbidity, serious adverse events, adverse events leading to treatment discontinuation, other adverse events, and quality of life. The secondary outcome was sustained virological response in the blood serum."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently used a standardised data collection form. We meta-analysed data with both the fixed-effect and the random-effects models. For each outcome we calculated the relative risk (RR) with 95% confidence interval (CI) based on intention-to-treat analysis. We used domains of the trials to assess the risk of systematic errors (bias) and trial sequential analyses to assess the risks of random errors (play of chance). Intervention effects on the outcomes were assessed according to GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 randomised clinical trials which compared peginterferon alpha-2a plus ribavirin versus peginterferon alpha-2b plus ribavirin in 5847 patients. All trials had a high risk of bias. Very few trials reported data on very few patients for the patient-relevant outcomes all-cause mortality, liver-related morbidity, serious adverse events, and quality of life. Accordingly, we were unable to conduct meta-analyses on all-cause mortality, liver-related morbidity, and quality of life. Twelve trials reported on adverse events leading to discontinuation of treatment without clear evidence of a difference between the two peginterferons (197/2171 (9.1%) versus 311/3169 (9.9%); RR 0.84, 95% CI 0.57 to 1.22; I2 = 44%; low quality evidence). A trial sequential analysis showed that we could exclude a relative risk reduction of 20% or more on this outcome. Peginterferon alpha-2a significantly increased the number of patients who achieved a sustained virological response in the blood serum compared with peginterferon alpha-2b (1069/2099 (51%) versus 1327/3075 (43%); RR 1.12, 95% CI 1.06 to 1.18; I2= 0%, 12 trials; moderate quality evidence). Trial sequential analyses supported this result. Subgroup analyses based on risk of bias, viral genotype, and treatment history yielded similar results. Trial sequential analyses supported the results in patients with genotypes 1 and 4, but not in patients with genotypes 2 and 3."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is lack of evidence on patient-important outcomes and paucity of evidence on adverse events. Moderate quality evidence suggests that peginterferon alpha-2a is associated with a higher sustained virological response in serum than with peginterferon alpha-2b. This finding may be affected by the high risk of bias of the included studies . The clinical consequences of peginterferon alpha-2a versus peginterferon alpha-2b are unknown, and we cannot translate an effect on sustained virological response into comparable clinical effects because sustained virological response is still an unvalidated surrogate outcome for patient-important outcomes. The lack of evidence on patient-important outcomes and the paucity of evidence on adverse events means that we are unable to draw any conclusions about the effects of one peginterferon over the other."
+    }
+  ],
+  "pls_title": "Peginterferon alpha-2a versus peginterferon alpha-2b for chronic hepatitis C",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Importance of the review or background on the condition",
+      "text": "Hepatitis C is a disease of the liver caused by the hepatitis C virus. Globally, an estimated 170 million people are chronically infected with hepatitis C virus. Chronic hepatitis C can cause liver damage in the form of inflammation and scarring of the liver (cirrhosis). Liver damage can lead to liver failure and other complications, including liver cancer. The aim of the treatment for chronic hepatitis C is to prevent complications of hepatitis C infection. This might be achieved by clearing the virus from the blood of the patient. However, we still need to understand if clearance of virus from blood has any association with patient-relevant and clinically-relevant outcomes. A combination of weekly injections of peginterferon alpha and daily oral ribavirin still represents the standard of care for the majority of patients with chronic hepatitis C. Currently, there are two licensed products of peginterferon, peginterferon alpha-2a and peginterferon alpha-2b, on the market."
+    },
+    {
+      "heading": "The main findings of the review",
+      "text": "The review identified 17 randomised clinical trials. The trials reported on patient-relevant outcomes only occasionally. All trials had high risk of bias ie, a trial might systematically overestimate benefits or underestimate harms of the treatments). Both treatments were associated with a high risk of experiencing adverse events, which may lead to discontinuation of the treatment. Twelve trials reported on clearing the virus from blood six months after the end of treatment. A summary of the current evidence in this review suggests that peginterferon alpha-2a has higher chances of clearing the virus from the patient's blood than peginterferon alpha-2b (in 50% compared with 43%)."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We were unable to identify any evidence on the benefits of one peginterferon over the other on patient-important outcomes."
+    },
+    {
+      "heading": "Any limitations of the review",
+      "text": "There is lack of data regarding patient-important outcomes on this topic."
+    }
+  ]
+}

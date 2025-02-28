@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001120.pub3",
+  "name": "Reminiscence therapy for dementia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This updated Cochrane Review of reminiscence therapy (RT) for dementia was first published in 1998, and last updated in 2005. RT involves the discussion of memories and past experiences with other people using tangible prompts such as photographs or music to evoke memories and stimulate conversation. RT is implemented widely in a range of settings using a variety of formats."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of RT on people living with dementia and their carers, taking into account differences in its implementation, including setting (care home, community) and modality (group, individual)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS (the Cochrane Dementia and Cognitive Improvement Group's Specialized Register) on 6 April 2017 using the search term 'reminiscence.'"
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials of RT for dementia in which the duration of the intervention was at least four weeks (or six sessions) and that had a 'no treatment' or passive control group. Outcomes of interest were quality of life (QoL), cognition, communication, behaviour, mood and carer outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors (LOP and EF) independently extracted data and assessed risk of bias. Where necessary, we contacted study authors for additional information. We pooled data from all sufficiently similar studies reporting on each outcome. We undertook subgroup analysis by setting (community versus care home) and by modality (individual versus group). We used GRADE methods to assess the overall quality of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 22 studies involving 1972 people with dementia. Meta-analyses included data from 16 studies (1749 participants). Apart from six studies with risk of selection bias, the overall risk of bias in the studies was low.\nOverall, moderate quality evidence indicated RT did not have an important effect on QoL immediately after the intervention period compared with no treatment (standardised mean difference (SMD) 0.11, 95% confidence interval (CI) -0.12 to 0.33; I2 = 59%; 8 studies; 1060 participants). Inconsistency between studies mainly related to the study setting. There was probably a slight benefit in favour of RT in care homes post-treatment (SMD 0.46, 95% CI 0.18 to 0.75; 3 studies; 193 participants), but little or no difference in QoL in community settings (867 participants from five studies).\nFor cognitive measures, there was high quality evidence for a very small benefit, of doubtful clinical importance, associated with reminiscence at the end of treatment (SMD 0.11, 95% CI 0.00 to 0.23; 14 studies; 1219 participants), but little or no difference at longer-term follow-up. There was a probable slight improvement for individual reminiscence and for care homes when analysed separately, but little or no difference for community settings or for group studies. Nine studies included the widely used Mini-Mental State Examination (MMSE) as a cognitive measure, and, on this scale, there was high quality evidence for an improvement at the end of treatment (mean difference (MD) 1.87 points, 95% CI 0.54 to 3.20; 437 participants). There was a similar effect at longer-term follow-up, but the quality of evidence for this analysis was low (1.8 points, 95% CI -0.06 to 3.65).\nFor communication measures, there may have been a benefit of RT at the end of treatment (SMD -0.51 points, 95% CI -0.97 to -0.05; I2 = 62%; negative scores indicated improvement; 6 studies; 249 participants), but there was inconsistency between studies, related to the RT modality. At follow-up, there was probably a slight benefit of RT (SMD -0.49 points, 95% CI -0.77 to -0.21; 4 studies; 204 participants). Effects were uncertain for individual RT, with very low quality evidence available. For reminiscence groups, evidence of moderate quality indicated a probable slight benefit immediately (SMD -0.39, 95% CI -0.71 to -0.06; 4 studies; 153 participants), and at later follow-up. Community participants probably benefited at end of treatment and follow-up. For care home participants, the results were inconsistent between studies and, while there may be an improvement at follow-up, at the end of treatment the evidence quality was very low and effects were uncertain.\nOther outcome domains examined for people with dementia included mood, functioning in daily activities, agitation/irritability and relationship quality. There were no clear effects in these domains. Individual reminiscence was probably associated with a slight benefit on depression scales, although its clinical importance was uncertain (SMD -0.41, 95% CI -0.76 to -0.06; 4 studies; 131 participants). We found no evidence of any harmful effects on people with dementia.\nWe also looked at outcomes for carers, including stress, mood and quality of relationship with the person with dementia (from the carer's perspective). We found no evidence of effects on carers other than a potential adverse outcome related to carer anxiety at longer-term follow-up, based on two studies that had involved the carer jointly in reminiscence groups with people with dementia. The control group carers were probably slightly less anxious (MD 0.56 points, 95% CI -0.17 to 1.30; 464 participants), but this result is of uncertain clinical importance, and is also consistent with little or no effect."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of reminiscence interventions are inconsistent, often small in size and can differ considerably across settings and modalities. RT has some positive effects on people with dementia in the domains of QoL, cognition, communication and mood. Care home studies show the widest range of benefits, including QoL, cognition and communication (at follow-up). Individual RT is associated with probable benefits for cognition and mood. Group RT and a community setting are associated with probable improvements in communication. The wide range of RT interventions across studies makes comparisons and evaluation of relative benefits difficult. Treatment protocols are not described in sufficient detail in many publications. There have been welcome improvements in the quality of research on RT since the previous version of this review, although there still remains a need for more randomised controlled trials following clear, detailed treatment protocols, especially allowing the effects of simple and integrative RT to be compared."
+    }
+  ],
+  "pls_title": "Reminiscence therapy for dementia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to find out what effect reminiscence therapy (RT) has on people with dementia. In particular, we were interested in effects on quality of life, communication, cognition (the general ability to think and remember), mood, daily activities and relationships. We were also interested in any effects on carers."
+    },
+    {
+      "heading": "Background",
+      "text": "RT involves discussing events and experiences from the past. It aims to evoke memories, stimulate mental activity and improve well-being. Reminiscence is often assisted by props such as videos, pictures and objects. It can take place in a group or be done with a person on their own, when it often results in some form of life-story book being created. RT helps older people with depression. It may be suitable for people with dementia both because depression is common in dementia and because people with dementia typically have a better memory for the distant past than for recent events."
+    },
+    {
+      "heading": "Methods",
+      "text": "We searched for randomised, controlled trials in which RT was compared with no treatment or with a non-specific activity, such as time spent in general conversation. Our search covered all trials available up to April 2017."
+    },
+    {
+      "heading": "Results",
+      "text": "We found 22 trials with 1972 participants to include in the review. All the participants had dementia, mostly of mild or moderate severity. Some of the participants were living at home and some were in care homes. The length of the trials varied from four weeks to two years, and the overall amount of time spent on therapy varied from three to 39 hours. Overall, we thought most of the trials were well conducted.\nLooking at all the trials together, there did not seem to be an effect of RT on the quality of life reported by the participants. However, there was probably a slight benefit of treatment in the trials done in care homes, which was not seen in the trials done in the community.\nPeople having RT scored slightly better than the control group on tests of cognition immediately after the course of treatment, but not weeks to months later. It was not clear that the effect was large enough to be important. The effect was most evident in care home studies, which used individual RT, but not in community studies, which used group RT.\nWe found that group RT and RT in community settings may have a positive effect on the communication and interaction of the person with dementia immediately after the end of treatment, and probably also weeks to months later, although the effect was small.\nApart from a probable slight benefit of individual RT on scales measuring depressed mood, we found no evidence for effects of RT on other outcomes, such as agitation, ability to carry out daily activities or relationships with other people. We found no evidence of harmful effects of RT for the people with dementia themselves.\nWe found no effect of RT on family carers other than a suggestion that it made carers slightly more anxious in two large studies of joint reminiscence work. In this type of RT, the carers and the people with dementia were both directly involved in the reminiscence sessions."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We were encouraged to find that the amount and quality of research on RT for dementia has increased considerably since the last version of this review. We concluded that the effects of RT vary, depending on the way it is given and whether it takes place in care homes or the community. However, there is some evidence that RT can improve quality of life, cognition, communication and possibly mood in people with dementia in some circumstances, although all the benefits were small. More research is needed to understand these differences and to find out who is likely to benefit most from what type of RT."
+    }
+  ]
+}

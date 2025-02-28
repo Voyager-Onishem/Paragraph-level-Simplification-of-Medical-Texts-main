@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007004.pub4",
+  "name": "Aldosterone antagonists in addition to renin angiotensin system antagonists for preventing the progression of chronic kidney disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treatment with angiotensin-converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARB) is used to reduce proteinuria and retard the progression of chronic kidney disease (CKD). However, resolution of proteinuria may be incomplete with these therapies and the addition of an aldosterone antagonist may be added to further prevent progression of CKD. This is an update of a Cochrane review first published in 2009 and updated in 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of aldosterone antagonists (selective (eplerenone), non-selective (spironolactone or canrenone), or non-steroidal mineralocorticoid antagonists (finerenone)) in adults who have CKD with proteinuria (nephrotic and non-nephrotic range) on: patient-centred endpoints including kidney failure (previously know as end-stage kidney disease (ESKD)), major cardiovascular events, and death (any cause); kidney function (proteinuria, estimated glomerular filtration rate (eGFR), and doubling of serum creatinine); blood pressure; and adverse events (including hyperkalaemia, acute kidney injury, and gynaecomastia)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 13 January 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs that compared aldosterone antagonists in combination with ACEi or ARB (or both) to other anti-hypertensive strategies or placebo in participants with proteinuric CKD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed study quality and extracted data. Data were summarised using random effects meta-analysis. We expressed summary treatment estimates as a risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes, or standardised mean difference (SMD) when different scales were used together with their 95% confidence interval (CI). Risk of bias were assessed using the Cochrane tool. Evidence certainty was evaluated using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-four studies (5745 participants) were included. Risk of bias in the evaluated methodological domains were unclear or high risk in most studies. Adequate random sequence generation was present in 12 studies, allocation concealment in five studies, blinding of participant and investigators in 18 studies, blinding of outcome assessment in 15 studies, and complete outcome reporting in 24 studies.\nAll studies comparing aldosterone antagonists to placebo or standard care were used in addition to an ACEi or ARB (or both). None of the studies were powered to detect differences in patient-level outcomes including kidney failure, major cardiovascular events or death.\nAldosterone antagonists had uncertain effects on kidney failure (2 studies, 84 participants: RR 3.00, 95% CI 0.33 to 27.65, I² = 0%; very low certainty evidence ), death (3 studies, 421 participants: RR 0.58, 95% CI 0.10 to 3.50, I² = 0%; low certainty evidence ), and cardiovascular events (3 studies, 1067 participants: RR 0.95, 95% CI 0.26 to 3.56; I² = 42%; low certainty evidence ) compared to placebo or standard care. Aldosterone antagonists may reduce protein excretion (14 studies, 1193 participants: SMD -0.51, 95% CI -0.82 to -0.20, I² = 82%; very low certainty evidence ), eGFR (13 studies, 1165 participants, MD -3.00 mL/min/1.73 m², 95% CI -5.51 to -0.49, I² = 0%, low certainty evidence ) and systolic blood pressure (14 studies, 911 participants: MD -4.98 mmHg, 95% CI -8.22 to -1.75, I² = 87%; very low certainty evidence) compared to placebo or standard care.\nAldosterone antagonists probably increase the risk of hyperkalaemia (17 studies, 3001 participants: RR 2.17, 95% CI 1.47 to 3.22, I² = 0%; moderate certainty evidence ), acute kidney injury (5 studies, 1446 participants: RR 2.04, 95% CI 1.05 to 3.97, I² = 0%; moderate certainty evidence ), and gynaecomastia (4 studies, 281 participants: RR 5.14, 95% CI 1.14 to 23.23, I² = 0%; moderate certainty evidence) compared to placebo or standard care.\nNon-selective aldosterone antagonists plus ACEi or ARB had uncertain effects on protein excretion (2 studies, 139 participants: SMD -1.59, 95% CI -3.80 to 0.62, I² = 93%; very low certainty evidence ) but may increase serum potassium (2 studies, 121 participants: MD 0.31 mEq/L, 95% CI 0.17 to 0.45, I² = 0%; low certainty evidence ) compared to diuretics plus ACEi or ARB. Selective aldosterone antagonists may increase the risk of hyperkalaemia (2 studies, 500 participants: RR 1.62, 95% CI 0.66 to 3.95, I² = 0%; low certainty evidence) compared ACEi or ARB (or both). There were insufficient studies to perform meta-analyses for the comparison between non-selective aldosterone antagonists and calcium channel blockers, selective aldosterone antagonists plus ACEi or ARB (or both) and nitrate plus ACEi or ARB (or both), and non-steroidal mineralocorticoid antagonists and selective aldosterone antagonists."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of aldosterone antagonists when added to ACEi or ARB (or both) on the risks of death, major cardiovascular events, and kidney failure in people with proteinuric CKD are uncertain. Aldosterone antagonists may reduce proteinuria, eGFR, and systolic blood pressure in adults who have mild to moderate CKD but may increase the risk of hyperkalaemia, acute kidney injury and gynaecomastia when added to ACEi and/or ARB."
+    }
+  ],
+  "pls_title": "Aldosterone antagonists in addition to renin angiotensin system antagonists for preventing the progression of chronic kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People who have chronic kidney disease (CKD) have a higher risk of heart disease and declining kidney function. Increased amounts of protein in the urine is a sign of kidney stress and is linked to declining kidney function. Medications used to lower blood pressure and reduce protein levels in the urine - in particular, angiotensin-converting enzyme Inhibitors (ACEi) and angiotensin receptor blockers (ARBs) -remain the core treatment to prevent the declining of kidney function in CKD.\nProtecting kidney function with these medications may however be incomplete and adding an aldosterone antagonist (blocker) (for example, spironolactone, canrenone, eplerenone, or finerenone) may better protect kidney function in the long-term. By blocking the production of aldosterone, the kidneys excrete more water which can lead to a lowering of blood pressure. However, they can cause side effects including enlargement of male breast tissue, and when used with ACEi or ARBs may cause high levels of potassium in the blood or a decline in kidney function."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We reviewed the available studies looking at the addition of aldosterone blockers to standard treatment in people with CKD to see if they slowed the decline of kidney function and the subsequent need for dialysis or a kidney transplant. We looked at whether they reduced heart disease, the amount of protein in urine, or improved blood pressure. We also looked at whether aldosterone blockers were safe in terms of risks of male breast enlargement, potassium levels in the blood, and short-term effects on kidney function."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found that adding aldosterone blockers to a patient's current medications (ACEi or ARBs), lowered both protein in the urine and systolic blood pressure. Kidney function declined, however the effects on survival were uncertain. The addition of aldosterone blockers increased the amount of potassium in the blood. This may require medication changes, extra blood tests, and may be potentially harmful. Treatment with aldosterone blockers also increased the chance of short-term decline in kidney function and enlargement of male breast tissue."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "It is unclear as to whether aldosterone blockers protect kidney function or prevent heart disease in people who have CKD."
+    }
+  ]
+}

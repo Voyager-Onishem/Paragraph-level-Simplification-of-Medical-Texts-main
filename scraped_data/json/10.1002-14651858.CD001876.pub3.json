@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD001876.pub3",
+  "name": "Corticosteroids for tuberculous pleurisy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Corticosteroids used in addition to antituberculous therapy have been reported to benefit people with tuberculous pleurisy. However, research findings are inconsistent and raise doubt as to whether such treatment is worthwhile. There is also concern regarding the potential adverse effects of corticosteroids, especially in HIV-positive people."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of adding corticosteroids to drug regimens for tuberculous pleural effusion."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In April 2016, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (the Cochrane Library), MEDLINE, Embase, LILACS, Current Controlled Trials, and the reference lists of articles identified by the literature search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) and quasi-RCTs that compared any corticosteroid with no treatment, placebo, or other active treatment (both groups should have received the same antituberculous drug regimen) in people diagnosed with tuberculous pleurisy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the search results, extracted data from the included trials, and assessed trial methodological quality using the Cochrane 'Risk of bias' tool. We analysed the data using risk ratios (RR) with 95% confidence intervals (CIs). We applied the fixed-effect model in the absence of statistically significant heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials with 590 participants met the inclusion criteria, which were conducted in Asia (three trials), Africa (two trials), and Europe (one trial). Two trials were in HIV-negative people, one trial was in HIV-positive people, and three trials did not report HIV status.\nCorticosteroids may reduce the time to resolution of pleural effusion. Risk of residual pleural effusion on chest X-ray was reduced by 45% at eight weeks (RR 0.54, 95% CI 0.37 to 0.78; 237 participants, 2 trials, low certainty evidence ), and 65% at 24 weeks (RR 0.35, 95% CI 0.18 to 0.66; 237 participants, 2 trials, low certainty evidence).\nCompared with control, corticosteroids may reduce the risk of having pleural changes (such as pleural thickening or pleural adhesions), on chest X-ray at the end of follow-up by almost one third (RR 0.72, 95% CI 0.57 to 0.92; 393 participants, 5 trials,low certainty evidence), which translates to an absolute risk reduction of 16%.\nOne trial reported deaths in people that were HIV-positive, with no obvious difference between the groups; the trial authors' analysis suggests that the deaths observed in this trial were related to HIV disease rather than pleural TB (RR 0.91, 95% CI 0.64 to 1.31; 197 participants, 1 trial).\nWe found limited data on long-term functional respiratory impairment on 187 people in two trials, which reported that average percentage predicted forced vital capacity was similar in the group receiving prednisolone and in the control group (very low certainty evidence).\nThe risk of adverse events that led to discontinuation of the trial drug was higher in people with pleural TB receiving corticosteroids (RR 2.78, 95% CI 1.11 to 6.94; 587 participants, 6 trials, low certainty evidence ). The trial in HIV-positive people reported on six different HIV-related infections, with no obvious differences. However, cases of Kaposi's sarcoma were only seen in the corticosteroid group (with 6/99 cases in the steroid group compared to 0/98 in the control group) (very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Long-term respiratory function is potentially the most important outcome for assessing the effects of adjunctive treatments for people with pleural TB. However, the information on the impact of pleural TB on long-term respiratory function is unknown and could be eclipsed by other risk factors, such as concurrent pulmonary TB, smoking, and HIV. This probably needs to be quantified to help decide whether further trials of corticosteroids for pleural TB would be worthwhile."
+    }
+  ],
+  "pls_title": "What is tuberculous pleurisy and how might corticosteroids work?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Tuberculous pleurisy results from inflammation of the membrane that covers the lungs (the pleura) caused by exposure to Mycobacterium tuberculosis bacteria infecting the lungs. This results in a build up of fluid around the lung (pleural effusion) that causes pain and fever, impairs breathing, and may lead to impairment of lung function in the long term.\nSome clinicians believe that corticosteroids used in combination with antituberculous drugs can speed up the recovery from TB pleurisy and help to prevent long-term complications."
+    },
+    {
+      "heading": "What the evidence shows",
+      "text": "We examined the available evidence up to 13 April 2016 and included six trials with 590 people, which evaluated prednisolone given with antituberculous treatment (ATT). One included trial was of high quality, while the rest had uncertainties regarding trial quality. All the included trials were in adults; one trial included only HIV-positive people, two included only HIV-negative people, and three did not report the HIV status of the participants.\nCorticosteroids may reduce the time to resolution of the symptoms of TB pleurisy and the time to resolution of the pleural effusion on chest X-ray (low certainty evidence). Corticosteroids may also reduce the risk of having signs of pleural scarring on chest X-ray (pleural thickening and pleural adhesions) after the disease has resolved (low certainty evidence ). There was not enough information about lung function to be sure whether or not corticosteroids reduce the risk of lung function impairment after TB pleurisy (very low certainty evidence).\nCorticosteroids may increase the risk of adverse events leading to discontinuation of the trial drug (low certainty evidence ). From one trial in people living with HIV, there was no detectable increase in HIV-related conditions with corticosteroids, although cases of Kaposi's sarcoma were only seen in the corticosteroid group and numbers of participants and events were too small to rule out an effect of corticosteroids (very low certainty evidence).\nAs the risk of disability and long-term illness after TB pleurisy is unclear, research looking at the association between TB pleurisy and lung function impairment would be useful to inform future research into corticosteroids for TB pleurisy."
+    }
+  ]
+}

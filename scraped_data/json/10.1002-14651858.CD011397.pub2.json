@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011397.pub2",
+  "name": "Long‐acting muscarinic antagonists (LAMA) added to inhaled corticosteroids (ICS) versus the same dose of ICS alone for adults with asthma ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Despite the availability of several evidence-based therapies and non-pharmacological strategies to improve control of symptoms and prevent exacerbations of asthma, patients with asthma continue to be at risk for mortality and morbidity.\nPrevious trials have demonstrated the potentially beneficial effects of the long-acting muscarinic antagonist (LAMA) tiotropium on lung function in patients with asthma; however, a definitive conclusion on the benefit of LAMA in asthma is lacking, as is information on where in the current step-wise management strategy they would be most beneficial."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of a LAMA added to any dose of an inhaled corticosteroid (ICS) compared with the same dose of ICS alone for adults whose asthma is not well controlled."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register (CAGR) from inception to April 2015, and we imposed no restriction on language of publication. We also searched clinicaltrials.gov, the World Health Organization (WHO) trials portal and drug company registries to identify unpublished studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for parallel and cross-over randomised controlled trials in which adults whose asthma was not well controlled by ICS alone were randomly assigned to receive LAMA add-on or placebo (both combined with ICS) for at least 12 weeks."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the searches and extracted data from study reports. We used Covidence for duplicate screening, extraction of study characteristics and numerical data and risk of bias ratings. Pre-specified primary outcomes included exacerbations requiring oral corticosteroids, quality of life and all-cause serious adverse events."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified five studies that met the inclusion criteria. All studies applied a double-blind, double-dummy design, and the population of all studies totalled 2563 adult participants. Study duration ranged from 12 weeks to 52 weeks, and risk of bias across domains in all studies was low. Trials included more women than men (33% to 47% male), and mean age of participants ranged from 41 to 48 years. Participants generally had a long history of asthma, and mean baseline predicted forced expiratory volume in one second (FEV1) was between 72% and 75% in three studies reporting pre-bronchodilator values.\nThe rate of exacerbations requiring oral corticosteroids (OCS) was lower in patients prescribed an LAMA add-on than in those receiving the same dose of ICS alone (odds ratio (OR) 0.65, 95% confidence interval (CI) 0.46 to 0.93; 2277 participants; four studies; I2 = 0%; high-quality evidence), meaning that 27 fewer people per 1000 would have an exacerbation over 21 weeks requiring OCS with LAMA compared with ICS alone (95% CI 42 fewer to 6 fewer).\nAll-cause serious adverse events (SAEs) and exacerbations requiring hospital admission were rare and the effects too imprecise to permit firm conclusions, but effects suggested that LAMA add-on may be associated with fewer of both compared with ICS alone (SAEs: OR 0.60, 95% CI 0.23 to 1.57; 2532 participants; four studies; low-quality evidence; exacerbations requiring hospital admission: OR 0.42, 95% CI 0.12 to 1.47; 2562 participants; five studies; moderate-quality evidence). Additional therapy with a LAMA showed no clear benefit in terms of quality of life compared with ICS given alone; high-quality evidence showed only a small mean improvement in quality of life as measured on the Asthma Quality of Life Questionnaire (AQLQ), which was not statistically significant. The same was true for asthma control as measured on the Asthma Control Questionnaire (ACQ), which was based on moderate-quality evidence. LAMA combined with ICS showed consistent benefit in a range of lung function measures compared with the same dose of ICS alone, and LAMA was not associated with significantly higher rates of adverse events than were reported with placebo."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For adults taking ICS for asthma without a long-acting beta₂-agonist (LABA), LAMA given as add-on treatment reduces the likelihood of exacerbations requiring treatment with OCS and improves lung function. The benefits of LAMA combined with ICS for hospital admissions, all-cause serious adverse events, quality of life and asthma control remain unknown.\nResults of this review, along with findings of related reviews conducted to assess the use of LAMA in other clinical scenarios involving asthma, can help to define the role of LAMA in the management of asthma. Trials of longer duration (up to 52 weeks) would provide a better opportunity to observe rare events such as serious adverse events and exacerbations requiring hospital admission."
+    }
+  ],
+  "pls_title": "Does adding a long-acting muscarinic antagonist (LAMA) to an inhaled steroid help people with uncontrolled asthma more than an inhaled steroid alone?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Main point",
+      "text": "People with poorly controlled asthma are less likely to have an asthma attack needing treatment with oral steroids if they take a LAMA on top of their inhaled steroid. LAMA also improve lung function compared with inhaled steroids alone, but their benefit is uncertain for hospital admissions, serious adverse events, quality of life and asthma control."
+    },
+    {
+      "heading": "Why is this question important?",
+      "text": "Although lots of medicines are available to treat people with asthma, some patients remain at risk of dying when their disease is poorly controlled. A class of inhaled drugs called long-acting beta2-agonists (LABA) are usually given as an add-on to people whose asthma is not well controlled by inhaled steroids alone, and long-acting muscarinic antagonists (LAMA) are newer drugs now considered as an alternative add-on for these patients."
+    },
+    {
+      "heading": "How did we answer the question?",
+      "text": "We looked for randomised controlled studies of at least 12 weeks that compared LAMA as an add-on to inhaled steroids versus inhaled steroids alone. Two people searched through databases and websites, looked at all published and unpublished studies, and compiled a list of studies that looked at the review question. The most recent searches were done in April 2015."
+    },
+    {
+      "heading": "What did we find out?",
+      "text": "Over five months, fewer people using a LAMA required oral steroids for an asthma attack, and their lung function was improved over that of patients taking inhaled steroids alone. It looked as though people taking LAMA might be less likely to have to go to the hospital for an asthma attack or for another 'serious adverse event', but we couldn't be sure because the studies were short, and these things did not happen very often in either group. A LAMA added to an inhaled steroid did not appear to improve people's quality of life or control of asthma symptoms."
+    }
+  ]
+}

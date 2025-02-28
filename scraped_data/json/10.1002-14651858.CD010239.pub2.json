@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010239.pub2",
+  "name": "Lower versus higher oxygen concentrations titrated to target oxygen saturations during resuscitation of preterm infants at birth ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Initial resuscitation with air is well tolerated by most infants born at term. However, the optimal fractional inspired oxygen concentration (FiO2 - proportion of the breathed air that is oxygen) targeted to oxygen saturation (SpO2 - an estimate of the amount of oxygen in the blood) for infants born preterm is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether lower or higher initial oxygen concentrations, when titrated according to oxygen saturation targets during the resuscitation of preterm infants at birth, lead to improved short- and long-term mortality and morbidity."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted electronic searches of the Cochrane Central Register of Controlled Trials (13 October 2017), Ovid MEDLINE (1946 to 13 October 2017), Embase (1974 to 13 October 2017) and CINAHL (1982 to 13 October 2017); we also searched previous reviews (including cross-references), contacted expert informants, and handsearched journals."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (including cluster- and quasi-randomised trials) which enrolled preterm infants requiring resuscitation following birth and allocated them to receive either lower (FiO2 < 0.4) or higher (FiO2 ≥ 0.4) initial oxygen concentrations titrated to target oxygen saturation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility of studies for inclusion, extracted data and assessed methodological quality. Primary outcomes included mortality near term or at discharge (latest reported) and neurodevelopmental disability. We conducted meta-analysis using a fixed-effect model. We assessed the quality of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified 10 eligible trials. Meta-analysis of the 10 included studies (914 infants) showed no difference in mortality to discharge between lower (FiO2 < 0.4) and higher (FiO2 ≥ 0.4) initial oxygen concentrations targeted to oxygen saturation (risk ratio (RR) 1.05, 95% confidence interval (CI) 0.68 to 1.63). We identified no heterogeneity in this analysis. We graded the quality of the evidence as low due to risk of bias and imprecision. There were no significant subgroup effects according to inspired oxygen concentration strata (FiO2 0.21 versus ≥ 0.4 to < 0.6; FiO2 0.21 versus ≥ 0.6 to 1.0; and FiO2 ≥ 0.3 to < 0.4 versus ≥ 0.6 to 1.0). Subgroup analysis identified a single trial that reported increased mortality from use of lower (FiO2 0.21) versus higher (FiO2 1.0) initial oxygen concentration targeted to a lowest SpO2 of less than 85%, whereas meta-analysis of nine trials targeting a lowest SpO2 of 85% to 90% found no difference in mortality.\nMeta-analysis of two trials (208 infants) showed no difference in neurodevelopmental disability at 24 months between infants receiving lower (FiO2 < 0.4) versus higher (FiO2 > 0.4) initial oxygen concentrations targeted to oxygen saturation. Other outcomes were incompletely reported by studies. Overall, we found no difference in use of intermittent positive pressure ventilation or intubation in the delivery room; retinopathy (damage to the retina of the eyes, measured as any retinopathy and severe retinopathy); intraventricular haemorrhage (any and severe); periventricular leukomalacia (a type of white-matter brain injury); necrotising enterocolitis (a condition where a portion of the bowel dies); chronic lung disease at 36 weeks' gestation; mortality to follow up; postnatal growth failure; and patent ductus arteriosus. We graded the quality of the evidence for these outcomes as low or very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is uncertainty as to whether initiating post birth resuscitation in preterm infants using lower (FiO2 < 0.4) or higher (FiO2 ≥ 0.4) oxygen concentrations, targeted to oxygen saturations in the first 10 minutes, has an important effect on mortality or major morbidity, intubation during post birth resuscitation, other resuscitation outcomes, and long-term outcomes including neurodevelopmental disability. We assessed the quality of the evidence for all outcomes as low to very low. Further large, well designed trials are needed to assess the effect of using different initial oxygen concentrations and the effect of targeting different oxygen saturations."
+    }
+  ],
+  "pls_title": "Lower versus higher oxygen concentrations titrated to target oxygen saturations during resuscitation of preterm infants at birth",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "For infants born at full term, the use of air (21% oxygen) for resuscitation is generally well tolerated and may be associated with better outcomes. Infants born preterm (before 37 weeks' gestation) require more resuscitation after birth and have more problems with adaptation to life."
+    },
+    {
+      "heading": "Review question",
+      "text": "This review set out to investigate whether the use of lower or higher concentrations of oxygen (adjusted according to the infant's oxygen saturation, or percentage of hemoglobin binding sites in the bloodstream occupied by oxygen) are better for resuscitating preterm infants, when used in the first ten minutes after birth."
+    },
+    {
+      "heading": "Results",
+      "text": "We included ten trials in this review. The trials included a total of 914 infants, the majority of which were born before 32 weeks' gestation. The review found no evidence of an effect from use of a lower compared to a higher initial oxygen concentration targeted to infant oxygen saturation for resuscitation on mortality or other newborn health outcomes. There was also no difference in the rate of airway intubation (placement of a flexible plastic tube into the windpipe) during resuscitation between the infants who received lower concentrations of oxygen and those who received higher concentrations of oxygen. There was not enough information to determine the effect on long-term outcomes including neurodevelopmental disability (impairment in physical, learning, language, or behaviour areas). We judged the overall quality of the evidence to be low because of the uncertainty of the effects we found and also because we had concerns about the way in which many of the studies were carried out. The evidence in this review is current to October 2017."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "When targeted to the infant's oxygen saturation, it is currently unclear whether the initial oxygen concentration used for resuscitation of preterm infants affects short- or long-term infant outcomes. Further trials enrolling preterm infants at birth assessing both the initial oxygen concentration and the best level of oxygen saturation to target are needed."
+    }
+  ]
+}

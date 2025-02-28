@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD003523.pub2",
+  "name": "Electromagnetic fields for treating osteoarthritis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of a Cochrane review first published in 2002. Osteoarthritis is a disease that affects the synovial joints, causing degeneration and destruction of hyaline cartilage and subchondral bone. Electromagnetic field therapy is currently used by physiotherapists and may promote growth and repair of bone and cartilage. It is based on principles of physics which include Wolff's law, the piezoelectric effect and the concept of streaming potentials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of electromagnetic fields for the treatment of osteoarthritis as compared to placebo or sham."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 9), PreMEDLINE for trials published before 1966, MEDLINE from 1966 to October 2013, CINAHL and PEDro up to and including October 2013. Electronic searches were complemented by handsearches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of electromagnetic fields in osteoarthritis, with four or more weeks treatment duration. We included papers in any language."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for inclusion in the review and resolved differences by consensus with a third review author. We extracted data using pre-developed data extraction forms. The same review authors assessed the risk of bias of the trials independently using the Cochrane 'Risk of bias' tool. We extracted outcomes for osteoarthritis from the publications according to Outcome Measures in Rheumatology Clinical Trials (OMERACT) guidelines. We expressed results for continuous outcome measures as mean difference (MD) or standardised mean difference (SMD) with 95% confidence interval (CI). We pooled dichotomous outcome measures using risk ratio (RR) and calculated the number needed to treat (NNT)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine studies with a total of 636 participants with osteoarthritis were included, six of which were added in this update of the review. Selective outcome reporting was unclear in all nine included studies due to inadequate reporting of study design and conduct, and there was high risk of bias for incomplete outcome data in three studies. The overall risk of bias across the nine studies was low for the other domains.\nParticipants who were randomised to electromagnetic field treatment rated their pain relief 15.10 points more on a scale of 0 to 100 (MD 15.10, 95% CI 9.08 to 21.13; absolute improvement 15%) after 4 to 26 weeks' treatment compared with placebo. Electromagnetic field treatment had no statistically significant effect on physical function (MD 4.55, 95% CI -2.23 to 11.32; absolute improvement 4.55%) based on the Western Ontario and McMaster Universities osteoarthritis index (WOMAC) scale from 0 to 100 after 12 to 26 weeks' treatment. We also found no statistically significant difference in quality of life on a scale from 0 to 100 (SMD 0.09, 95% CI -0.36 to 0.54; absolute improvement 0.09%) after four to six weeks' treatment, based on the SF-36. No data were available for analysis of radiographic changes. Safety was evaluated in four trials including up to 288 participants: there was no difference in the experience of any adverse event after 4 to 12 weeks of treatment compared with placebo (RR 1.17, 95% CI 0.72 to 1.92). There was no difference in participants who withdrew because of adverse events (measured in one trial) after four weeks of treatment (RR 0.90, 95% CI 0.06 to 13.92). No participants experienced any serious adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence suggests that electromagnetic field treatment may provide moderate benefit for osteoarthritis sufferers in terms of pain relief. Further studies are required to confirm whether this treatment confers clinically important benefits in terms of physical function and quality of life. Our conclusions are unchanged from the previous review conducted in 2002."
+    }
+  ],
+  "pls_title": "Electromagnetic fields for the treatment of osteoarthritis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We conducted a review of the effect of electromagnetic fields on osteoarthritis. We found nine studies with 636 people."
+    },
+    {
+      "heading": "Background: what is osteoarthritis and what are electromagnetic fields?",
+      "text": "Osteoarthritis is the most common form of arthritis that can affect the hands, hips, shoulders and knees. In osteoarthritis, the cartilage that protects the ends of the bones breaks down and causes pain and swelling.\nAn electromagnetic field is the invisible force that attracts things to magnets. This invisible attraction can be created using an electrical current that may affect the cartilage around the joints. In osteoarthritis, electromagnetic fields are a kind of therapy using electrical currents applied to the skin around the joints. Small machines or mats can be used to deliver electromagnetic fields to the whole body or to certain joints. A doctor or physiotherapist can perform the therapy and some machines can be used at home."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "After searching for all relevant studies up to October 2013, we found nine studies that reviewed the effect of electromagnetic field treatment compared to a sham or fake treatment in 636 adults with osteoarthritis for a duration of 4 to 26 weeks."
+    },
+    {
+      "heading": "Key results",
+      "text": ""
+    },
+    {
+      "heading": "Pain (on a 0 to 100 scale; higher scores mean worse or more severe pain)",
+      "text": "- Electromagnetic fields probably relieve pain in osteoarthritis.\n- People who received electromagnetic field treatment experienced pain relief of 15 points more compared with people who received fake treatment (15% improvement).\n- People who received electromagnetic field treatment rated their pain to be 26 points lower on a scale of 0 to 100.\n- People who received fake treatment rated their pain to be 11 points lower on a scale of 0 to 100."
+    },
+    {
+      "heading": "Physical function",
+      "text": "- Electromagnetic fields may improve physical function but this may have happened by chance."
+    },
+    {
+      "heading": "Overall health and well-being",
+      "text": "- Electromagnetic fields probably make no difference to overall health and well-being."
+    },
+    {
+      "heading": "Side effects",
+      "text": "- Electromagnetic fields probably make no difference to whether people have side effects or stop taking the treatment because of side effects, but this may have happened by chance.\nWe do not have precise information about side effects and complications. This is particularly true for rare but serious side effects. Possible side effects could include skin rash and aggravated pain."
+    },
+    {
+      "heading": "X-ray changes",
+      "text": "There was no information available on whether electromagnetic fields show any improvement to a joint with osteoarthritis on an X-ray."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "- Electromagnetic fields probably improve pain and make no difference to overall health and well-being and side effects. This may change with further research.\n- Electromagnetic fields may improve physical function. This is very likely to change with further research."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012836.pub2",
+  "name": "Linezolid for drug‐resistant pulmonary tuberculosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Linezolid was recently re-classified as a Group A drug by the World Health Organization (WHO) for treatment of multi-drug resistant tuberculosis (MDR-TB) and extensively drug-resistant tuberculosis (XDR-TB), suggesting that it should be included in the regimen for all patients unless contraindicated. Linezolid use carries a considerable risk of toxicity, with the optimal dose and duration remaining unclear. Current guidelines are mainly based on evidence from observational non-comparative studies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of linezolid when used as part of a second-line regimen for treating people with MDR and XDR pulmonary tuberculosis, and to assess the prevalence and severity of adverse events associated with linezolid use in this patient group."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases: the Cochrane Infectious Diseases Specialized Register; CENTRAL; MEDLINE; Embase; and LILACS up to 13 July 2018. We also checked article reference lists and contacted researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies in which some participants received linezolid, and others did not. We included randomized controlled trials (RCTs) of linezolid for MDR and XDR pulmonary tuberculosis to evaluate efficacy outcomes. We added non-randomized cohort studies to evaluate adverse events.\nPrimary outcomes were all-cause and tuberculosis-associated death, treatment failure, and cure. Secondary outcomes were treatment interrupted, treatment completed, and time to sputum culture conversion. We recorded frequency of all and serious adverse events, adverse events leading to drug discontinuation or dose reduction, and adverse events attributed to linezolid, particularly neuropathy, anaemia, and thrombocytopenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (BS and DC) independently assessed the search results for eligibility and extracted data from included studies. All review authors assessed risk of bias using the Cochrane ‘Risk of bias' tool for RCTs and the ROBINS-I tool for non-randomized studies. We contacted study authors for clarification and additional data when necessary.\nWe were unable to perform a meta-analysis as one of the RCTs adopted a study design where participants in the study group received linezolid immediately and participants in the control group received linezolid after two months, and therefore there were no comparable data from this trial. We deemed meta-analysis of non-randomized study data inappropriate."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified three RCTs for inclusion. One of these studies had serious problems with allocation of the study drug and placebo, so we could not analyse data for intervention effect from it. The remaining two RCTs recruited 104 participants. One randomized 65 participants to receive linezolid or not, in addition to a background regimen; the other randomized 39 participants to addition of linezolid to a background regimen immediately, or after a delay of two months. We included 14 non-randomized cohort studies (two prospective, 12 retrospective), with a total of 1678 participants.\nSettings varied in terms of income and tuberculosis burden. One RCT and 7 out of 14 non-randomized studies commenced recruitment in or after 2009. All RCT participants and 38.7% of non-randomized participants were reported to have XDR-TB.\nDosing and duration of linezolid in studies were variable and reported inconsistently. Daily doses ranged from 300 mg to 1200 mg; some studies had planned dose reduction for all participants after a set time, others had incompletely reported dose reductions for some participants, and most did not report numbers of participants receiving each dose. Mean or median duration of linezolid therapy was longer than 90 days in eight of the 14 non-randomized cohorts that reported this information.\nDuration of participant follow-up varied between RCTs. Only five out of 14 non-randomized studies reported follow-up duration.\nBoth RCTs were at low risk of reporting bias and unclear risk of selection bias. One RCT was at high risk of performance and detection bias, and low risk for attrition bias, for all outcomes. The other RCT was at low risk of detection and attrition bias for the primary outcome, with unclear risk of detection and attrition bias for non-primary outcomes, and unclear risk of performance bias for all outcomes. Overall risk of bias for the non-randomized studies was critical for three studies, and serious for the remaining 11.\nOne RCT reported higher cure (risk ratio (RR) 2.36, 95% confidence interval (CI) 1.13 to 4.90, very low-certainty evidence), lower failure (RR 0.26, 95% CI 0.10 to 0.70, very low-certainty evidence), and higher sputum culture conversion at 24 months (RR 2.10, 95% CI 1.30 to 3.40, very low-certainty evidence), amongst the linezolid-treated group than controls, with no differences in other primary and secondary outcomes. This study also found more anaemia (17/33 versus 2/32), nausea and vomiting, and neuropathy (14/33 versus 1/32) events amongst linezolid-receiving participants. Linezolid was discontinued early and permanently in two of 33 (6.1%) participants who received it.\nThe other RCT reported higher sputum culture conversion four months after randomization (RR 2.26, 95% CI 1.19 to 4.28), amongst the group who received linezolid immediately compared to the group who had linezolid initiation delayed by two months. Linezolid was discontinued early and permanently in seven of 39 (17.9%) participants who received it.\nLinezolid discontinuation occurred in 22.6% (141/624; 11 studies), of participants in the non-randomized studies. Total, serious, and linezolid-attributed adverse events could not be summarized quantitatively or comparatively, due to incompleteness of data on duration of follow-up and numbers of participants experiencing events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found some evidence of efficacy of linezolid for drug-resistant pulmonary tuberculosis from RCTs in participants with XDR-TB but adverse events and discontinuation of linezolid were common. Overall, there is a lack of comparative data on efficacy and safety. Serious risk of bias and heterogeneity in conducting and reporting non-randomized studies makes the existing, mostly retrospective, data difficult to interpret. Further prospective cohort studies or RCTs in high tuberculosis burden low-income and lower-middle-income countries would be useful to inform policymakers and clinicians of the efficacy and safety of linezolid as a component of drug-resistant TB treatment regimens."
+    }
+  ],
+  "pls_title": "Linezolid for managing people with drug-resistant tuberculosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is drug-resistant tuberculosis, and how might linezolid work?",
+      "text": "Tuberculosis is caused by infection with Mycobacterium tuberculosis bacteria. When there are symptoms or signs of illness, this is called active tuberculosis. An estimated one-third of the world's population are infected with tuberculosis, and around 1.4 million people died from active tuberculosis in 2015.\nBacteria that cause tuberculosis can develop resistance to the drugs most commonly used to treat tuberculosis, also called first-line antibiotics. This is an increasing problem that makes treatment more difficult, because second-line tuberculosis treatment drugs are less powerful against the bacteria, and more likely to cause harmful effects. Standard treatment for drug-resistant tuberculosis requires patients to take multiple antibiotics for nearly two years. Linezolid is a second-line drug that laboratory studies have found to be good at killing bacteria that cause tuberculosis, but that can also cause frequent, serious harmful effects."
+    },
+    {
+      "heading": "The review question",
+      "text": "Recent international guidelines recommend trying to include linezolid in the treatment of all patients with multi-drug resistant tuberculosis, but there is concern about whether enough good evidence exists to tell us how well it works, what dose is best, and how safe it is for people who take it."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for evidence up to 13 July 2018. We analysed data from two trials, one of which randomly allocated 65 people with drug-resistant tuberculosis to either a linezolid-containing or linezolid-free drug combination, and another that randomly allocated 39 participants to receive linezolid as part of their treatment from the start or have it added after a delay of two months. We also included 14 studies, including 1678 people, in which some participants received linezolid but others did not, but this was not determined at random."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "One trial showed a higher likelihood of cure and lower risk of treatment failure in participants receiving linezolid compared to those who did not. The second trial showed that participants who received linezolid immediately had a higher chance of tuberculosis being cleared from their sputum four months after the start of the study than those who added linezolid after a two-month delay.\nWhen they examined safety, the first trial found a higher risk of developing low red blood cell counts, nausea and vomiting, and nerve damage in people receiving linezolid. From 11 of the non-randomized studies that reported this, 22.6% of people had to stop linezolid due to adverse effects (side effects), though further comparisons of harmful effects were not possible due to incomplete reporting in the non-randomized studies.\nOverall, although there is some evidence of benefit, we have very low certainty in its accuracy. More high-quality studies are required before we can be certain how effective and safe linezolid is for drug-resistant tuberculosis."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "This review is current up to 13 July 2018."
+    }
+  ]
+}

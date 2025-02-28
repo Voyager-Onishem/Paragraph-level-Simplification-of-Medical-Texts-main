@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.MR000051.pub2",
+  "name": "Monitoring strategies for clinical intervention studies",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Trial monitoring is an important component of good clinical practice to ensure the safety and rights of study participants, confidentiality of personal information, and quality of data. However, the effectiveness of various existing monitoring approaches is unclear. Information to guide the choice of monitoring methods in clinical intervention studies may help trialists, support units, and monitors to effectively adjust their approaches to current knowledge and evidence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the advantages and disadvantages of different monitoring strategies (including risk-based strategies and others) for clinical intervention studies examined in prospective comparative studies of monitoring interventions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We systematically searched CENTRAL, PubMed, and Embase via Elsevier for relevant published literature up to March 2021. We searched the online 'Studies within A Trial' (SWAT) repository, grey literature, and trial registries for ongoing or unpublished studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized or non-randomized prospective, empirical evaluation studies of different monitoring strategies in one or more clinical intervention studies. We applied no restrictions for language or date of publication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data on the evaluated monitoring methods, countries involved, study population, study setting, randomization method, and numbers and proportions in each intervention group. Our primary outcome was critical and major monitoring findings in prospective intervention studies. Monitoring findings were classified according to different error domains (e.g. major eligibility violations) and the primary outcome measure was a composite of these domains. Secondary outcomes were individual error domains, participant recruitment and follow-up, and resource use. If we identified more than one study for a comparison and outcome definitions were similar across identified studies, we quantitatively summarized effects in a meta-analysis using a random-effects model. Otherwise, we qualitatively summarized the results of eligible studies stratified by different comparisons of monitoring strategies. We used the GRADE approach to assess the certainty of the evidence for different groups of comparisons."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified eight eligible studies, which we grouped into five comparisons.\n1. Risk-based versus extensive on-site monitoring: based on two large studies, we found moderate certainty of evidence for the combined primary outcome of major or critical findings that risk-based monitoring is not inferior to extensive on-site monitoring. Although the risk ratio was close to 'no difference' (1.03 with a 95% confidence interval [CI] of 0.81 to 1.33, below 1.0 in favor of the risk-based strategy), the high imprecision in one study and the small number of eligible studies resulted in a wide CI of the summary estimate. Low certainty of evidence suggested that monitoring strategies with extensive on-site monitoring were associated with considerably higher resource use and costs (up to a factor of 3.4). Data on recruitment or retention of trial participants were not available.\n2. Central monitoring with triggered on-site visits versus regular on-site visits: combining the results of two eligible studies yielded low certainty of evidence with a risk ratio of 1.83 (95% CI 0.51 to 6.55) in favor of triggered monitoring intervention. Data on recruitment, retention, and resource use were not available.\n3. Central statistical monitoring and local monitoring performed by site staff with annual on-site visits versus central statistical monitoring and local monitoring only: based on one study, there was moderate certainty of evidence that a small number of major and critical findings were missed with the central monitoring approach without on-site visits: 3.8% of participants in the group without on-site visits and 6.4% in the group with on-site visits had a major or critical monitoring finding (odds ratio 1.7, 95% CI 1.1 to 2.7; P = 0.03). The absolute number of monitoring findings was very low, probably because defined major and critical findings were very study specific and central monitoring was present in both intervention groups. Very low certainty of evidence did not suggest a relevant effect on participant retention, and very low-quality evidence indicated an extra cost for on-site visits of USD 2,035,392. There were no data on recruitment.\n4. Traditional 100% source data verification (SDV) versus targeted or remote SDV: the two studies assessing targeted and remote SDV reported findings only related to source documents. Compared to the final database obtained using the full SDV monitoring process, only a small proportion of remaining errors on overall data were identified using the targeted SDV process in the MONITORING study (absolute difference 1.47%, 95% CI 1.41% to 1.53%). Targeted SDV was effective in the verification of source documents but increased the workload on data management. The other included study was a pilot study which compared traditional on-site SDV versus remote SDV and found little difference in monitoring findings and the ability to locate data values despite marked differences in remote access in two clinical trial networks. There were no data on recruitment or retention.\n5. Systematic on-site initiation visit versus on-site initiation visit upon request: very low certainty of evidence suggested no difference in retention and recruitment between the two approaches. There were no data on critical and major findings or on resource use."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence base is limited in terms of quantity and quality. Ideally, for each of the five identified comparisons, more prospective, comparative monitoring studies nested in clinical trials and measuring effects on all outcomes specified in this review are necessary to draw more reliable conclusions. However, the results suggesting risk-based, targeted, and mainly central monitoring as an efficient strategy are promising. The development of reliable triggers for on-site visits is ongoing; different triggers might be used in different settings. More evidence on risk indicators that identify sites with problems or the prognostic value of triggers is needed to further optimize central monitoring strategies. In particular, approaches with an initial assessment of trial-specific risks that need to be closely monitored centrally during trial conduct with triggered on-site visits should be evaluated in future research."
+    }
+  ],
+  "pls_title": "New monitoring strategies for clinical trials",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Our question",
+      "text": "We reviewed the evidence on the effects of new monitoring strategies on monitoring findings, participant recruitment, participant follow-up, and resource use in clinical trials. We also summarized the different components of tested strategies and qualitative evidence from process evaluations."
+    },
+    {
+      "heading": "Background",
+      "text": "Monitoring a clinical trial is important to ensure the safety of participants and the reliability of results. New methods have been developed for monitoring practices but further assessments of these new methods are needed to see if they do improve effectiveness without being inferior to established methods in terms of patient rights and safety, and quality assurance of trial results. We reviewed studies that examined this question within clinical trials, i.e. studies comparing different monitoring strategies used in clinical trials."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included eight studies which covered a variety of monitoring strategies in a wide range of clinical trials, including national and large international trials. They included primary (general), secondary (specialized), and tertiary (highly specialized) health care. The size of the studies ranged from 32 to 4371 participants at one to 196 sites."
+    },
+    {
+      "heading": "Key results",
+      "text": "We identified five comparisons. The first comparison of risk-based monitoring versus extensive on-site monitoring found no evidence that the risk-based approach is inferior to extensive on-site monitoring in terms of the proportion of participants with a critical or major monitoring finding not identified by the corresponding method, while resource use was three- to five-fold higher with extensive on-site monitoring. For the second comparison of central statistical monitoring with triggered on-site visits versus regular (untriggered) on-site visits, we found some evidence that central statistical monitoring can identify sites in need of support by an on-site monitoring intervention. In the third comparison, the evaluation of adding an on-site visit to local and central monitoring revealed a high percentage of participants with major or critical monitoring findings in the on-site visit group, but low numbers of absolute monitoring findings in both groups. This means that without on-site visits, some monitoring findings will be missed, but none of the missed findings had any serious impact on patient safety or the validity of the trial's results. In the fourth comparison, two studies assessed new source data verification processes, which are used to check that data recorded within the trial Case Report Form (CRF) match the primary source data (e.g. medical records), and reported little difference to full source data verification processes for the targeted as well as for the remote approach. In the fifth comparison, one study showed no difference in participant recruitment and participant follow-up between a monitoring approach with systematic initiation visits versus an approach with initiation visits upon request by study sites."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "We are moderately certain that risk-based monitoring is not inferior to extensive on-site monitoring with respect to critical and major monitoring findings in clinical trials. For the remaining body of evidence, there is low or very low certainty in results due to imprecision, small number of studies, or high risk of bias. Ideally, for each of the five identified comparisons, more high-quality monitoring studies that measure effects on all outcomes specified in this review are necessary to draw more reliable conclusions."
+    }
+  ]
+}

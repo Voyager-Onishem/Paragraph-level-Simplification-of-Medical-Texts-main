@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006857.pub2",
+  "name": "Antibiotics for treating lower urinary tract infection in children",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Urinary tract infection (UTI) is one of the most common bacterial infections in infants and children. Lower UTI is the most commonly presenting and in the majority of cases can be easily treated with a course of antibiotic therapy with no further complications. A number of antimicrobials have been used to treat children with lower UTIs; however is it unclear what are the specific benefits and harms of such treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aims to summarise the benefits and harms of antibiotics for treating lower UTI in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Renal Group's Specialised Register (April 2012), CENTRAL (The Cochrane Library 2012, Issue 5), MEDLINE OVID SP (from 1966), and EMBASE OVID SP (from 1988) without language restriction.\nDate of last search: May 2012."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs in which antibiotic therapy was used to treat bacteriologically proven, symptomatic, lower UTI in children aged zero to 18 years in primary and community healthcare settings were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random effects model and the results expressed as risk ratios (RR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixteen RCTs, analysing 1,116 children were included. Conventional 10-day antibiotic treatment significantly increased the number of children free of persistent bacteriuria compared to single-dose therapy (6 studies, 228 children: RR 2.01, 95%CI 1.06 to 3.80). No heterogeneity was observed. Persistent bacteriuria at the end of treatment was reported in 24% of children receiving single-dose therapy compared to 10% of children who were randomised to 10-day therapy. There were no significant differences between groups for persistent symptoms, recurrence following treatment, or re-infection following treatment. There was insufficient data to analyse the effect of antibiotics on renal parenchymal damage, compliance, development of resistant organisms or adverse events. Despite the inclusion of 16 RCTs, methodological weakness and small sample sizes made it difficult to conclude if any of the included antibiotics or regimens were superior to another."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although antibiotic treatment is effective for children with UTI, there are insufficient data to answer the question of which type of antibiotic or which duration is most effective to treat symptomatic lower UTI. This review found that 10-day antibiotic treatment is more likely to eliminate bacteria from the urine than single-dose treatments. No differences were observed for persistent bacteriuria, recurrence or re-infection between short and long-course antibiotics where the antibiotic differed between groups. This data adds to an existing Cochrane review comparing short and long-course treatment of the same antibiotic who also reported no evidence of difference between short and long-course antibiotics."
+    }
+  ],
+  "pls_title": "Antibiotics for lower urinary tract infection in children",
+  "pls_type": "long",
+  "pls": "Urinary tract infection (UTI) is one of the most common bacterial infections in infants and children. The most commonly presenting infection of the urinary tract is known as cystitis and in the majority of cases can be easily treated with a course of antibiotic therapy with no further complications. This review identified 16 studies investigating antibiotics for UTI in children. Results suggest that 10-day antibiotic treatment is more likely to eliminate bacteria from the urine than single-dose treatments; there was not enough data to draw conclusions about other treatment durations, or effectiveness of particular antibiotics. Although antibiotic treatment is effective for children with UTI, there are insufficient data to recommend any specific regimen."
+}

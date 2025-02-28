@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008818.pub2",
+  "name": "Allogeneic hematopoietic cell transplantation for adult acute lymphoblastic leukemia (ALL) in first complete remission ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Consolidation chemotherapy, autologous hematopoietic cell transplantation (HCT) and allogeneic HCT represent potential treatment alternatives for post-remission therapy in adult acute lymphoblastic leukemia (ALL), but there is genuine uncertainty regarding the optimal approach."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of matched sibling donor vs. no donor status for adults with ALL in first complete remission (CR1)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed a search of CENTRAL, MEDLINE and EMBASE electronic databases in September 2010 along with handsearching of literature cited in relevant primary articles, search of abstracts from American Society of Hematology and American Society of Clinical Oncology meetings, as well as consultation with content experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Review was performed by two authors, and Inclusion criteria included the following: controlled trials with donor vs. no donor comparison with assignment by genetic randomizationin adults with ALL in CR1."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data on benefits (overall survival, progression-free survival) and harms (treatment-related mortality, relapse) of compared treatments. Adverse events were considered, but analysis of individual adverse events was not possible from the reported literature. We pooled summary results from each study using a random-effects model. We assessed heterogeneity. We performed subgroup analyses for disease risk categories. We performed sensitivity analyses according to methodological quality."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 14 relevant trials were identified, consisting of a total of 3157 patients. There was a statistically significant overall survival advantage in favor of the donor versus no donor group (HR 0.86; 95% CI 0.77 to 0.97; P = 0.01), as well as significant improvement in disease-free survival in the donor group(HR 0.82; 95% CI 0.72 to 0.94; P = 0.004). Those in the donor group had significant reduction in primary disease relapse(RR 0.53; 95% CI 0.37 to 0.76; P = 0.0004) and significant increase in non-relapse mortality(RR 2.8; 95% CI 1.66 to 4.73; P = 0.001). Significant heterogeneity was detected in analysis of relapse (Chi2 40.51, df = 6, P < 0.00001; I2 = 85%). In regard to methodologic quality, the majority of included studies were free of selective reporting, and performed analyses according to intention to treat. Conversely, few reported sample size calculation that informed the study design. While blinding was considered as an important domain of methodological quality, none of the studies reported on whether any of the study personnel were blinded (e.g. subjects, personnel, outcome assessors, data analysts etc). Therefore, we did not consider blinding further in the analysis of methodological quality in this review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this systematic review and meta-analysis support matched sibling donor allogeneic hematopoietic cell transplantation as the optimal post-remission therapy in ALL patients aged 15 years or over. This therapy offers superior overall survival and disease-free survival, and significantly reduces the risk of disease relapse, but does impose an increased risk of non-relapse mortality. Importantly these data are based on adult ALL treated with largely total body irradiation-based myeloablative conditioning and sibling donor transplantation and, therefore, cannot be generalized to pediatric ALL, alternative donors including HLA (human leukocyte antigen) mismatched or unrelated donors, or reduced toxicity or non-myeloablative conditioning regimens."
+    }
+  ],
+  "pls_title": "Donor versus no donor comparison of hematopoietic cell transplantation for adult acute lymphoblastic leukemia in first complete remission",
+  "pls_type": "long",
+  "pls": "An area of uncertainty in the care of patients with acute lymphoblastic leukemia (ALL) is the choice of treatment that is given after a complete remission is achieved with induction chemotherapy. Therapeutic alternatives include consolidation chemotherapy, autologous transplant (transplantation of a patient's own stem cells) or allogeneic transplant (transplantation utilizing donor stem cells). Clinical trials have come to different conclusions about the best approach. We conducted a systematic review and meta-analysis to synthesize available clinical research studies that have examined outcome according to donor vs. no donor status, or genetic randomization. This is a method of analysis for assessing the effect of transplantation in this disease condition. Our analysis supports matched sibling donor allogeneic hematopoeitic cell transplantation as the approach which offers the best long-term outcomes, specifically providing optimal survival and reduced risk for ALL relapse."
+}

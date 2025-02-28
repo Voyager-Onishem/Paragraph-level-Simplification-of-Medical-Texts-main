@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009009.pub3",
+  "name": "General health checks in adults for reducing morbidity and mortality from disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "General health checks are common elements of health care in some countries. They aim to detect disease and risk factors for disease with the purpose of reducing morbidity and mortality. Most of the commonly used individual screening tests offered in general health checks have been incompletely studied. Also, screening leads to increased use of diagnostic and therapeutic interventions, which can be harmful as well as beneficial. It is therefore important to assess whether general health checks do more good than harm. This is the first update of the review published in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the benefits and harms of general health checks."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, two other databases and two trials registers on 31 January 2018. Two review authors independently screened titles and abstracts, assessed papers for eligibility and read reference lists. One review author used citation tracking (Web of Knowledge) and asked trial authors about additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials comparing health checks with no health checks in adults unselected for disease or risk factors. We did not include geriatric trials. We defined health checks as screening for more than one disease or risk factor in more than one organ system."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed the risk of bias in the trials. We contacted trial authors for additional outcomes or trial details when necessary. When possible, we analysed the results with a random-effects model meta-analysis; otherwise, we did a narrative synthesis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 trials, 15 of which reported outcome data (251,891 participants). Risk of bias was generally low for our primary outcomes. Health checks have little or no effect on total mortality (risk ratio (RR) 1.00, 95% confidence interval (CI) 0.97 to 1.03; 11 trials; 233,298 participants and 21,535 deaths; high-certainty evidence, I2 = 0%), or cancer mortality (RR 1.01, 95% CI 0.92 to 1.12; 8 trials; 139,290 participants and 3663 deaths; high-certainty evidence, I2 = 33%), and probably have little or no effect on cardiovascular mortality (RR 1.05, 95% CI 0.94 to 1.16; 9 trials; 170,227 participants and 6237 deaths; moderate-certainty evidence; I2 = 65%). Health checks have little or no effect on fatal and non-fatal ischaemic heart disease (RR 0.98, 95% CI 0.94 to 1.03; 4 trials; 164,881 persons, 10,325 events; high-certainty evidence; I2 = 11%), and probably have little or no effect on fatal and non-fatal stroke (RR 1.05 95% CI 0.95 to 1.17; 3 trials; 107,421 persons, 4543 events; moderate-certainty evidence, I2 = 53%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "General health checks are unlikely to be beneficial."
+    }
+  ],
+  "pls_title": "General health checks for reducing illness and mortality",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if general health checks reduce illness and deaths. This is an update of a previous Cochrane Review."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Systematic offers of health checks are unlikely to be beneficial and may lead to unnecessary tests and treatments."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "General health checks involve multiple tests in a person who does not feel ill. The purpose is to find disease early, prevent disease from developing, or provide reassurance. Health checks are a common element of health care in some countries. Experience from screening programmes for individual diseases have shown that the benefits may be smaller than expected and the harms greater. We identified and analysed all randomised trials that compared invitations for one or more health checks for the general public with no invitations. We analysed the effect on illness and the risk of death, as well as other outcomes that reflect illness, for example, hospitalisation and absence from work."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found 17 randomised trials that had compared a group of adults offered general health checks to a group not offered health checks.\nFifteen trials reported results and included 251,891 participants. Eleven of these trials had studied the risk of death, and included 233,298 participants and assessed 21,535 deaths. This is an unusually large amount of data in healthcare research, which allowed us to draw our main conclusions with a high degree of certainty. Health checks have little or no effect on the risk of death from any cause (high-certainty evidence), or on the risk of death from cancer (high-certainty evidence), and probably have little or no effect on the risk of death from cardiovascular causes (moderate-certainty evidence). Likewise, health checks have little or no effect on heart disease (high-certainty evidence) and probably have little or no effect on stroke (moderate-certainty evidence).\nWe propose that one reason for the apparent lack of effect may be that primary care physicians already identify and intervene when they suspect a patient to be at high risk of developing disease when they see them for other reasons. Also, those at high risk of developing disease may not attend general health checks when invited or may not follow suggested tests and treatments."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "The review authors searched for studies published up to 31 January 2018."
+    }
+  ]
+}

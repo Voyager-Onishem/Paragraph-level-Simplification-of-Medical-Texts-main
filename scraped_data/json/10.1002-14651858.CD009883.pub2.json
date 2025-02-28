@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009883.pub2",
+  "name": "Thrombopoietin mimetics for patients with myelodysplastic syndromes",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Myelodysplastic syndrome (MDS) is one of the most frequent haematologic malignancies of the elderly population and characterised by progenitor cell dysplasia with ineffective haematopoiesis and a high rate of transformation to acute myeloid leukaemia (AML). Thrombocytopenia represents a common problem for patients with MDS. ranging from mild to serious bleeding events and death. To manage thrombocytopenia, the current standard treatment includes platelet transfusion, unfortunately leading to a range of side effects. Thrombopoietin (TPO) mimetics represent an alternative treatment option for MDS patients with thrombocytopenia. However, it remains unclear, whether TPO mimetics influence the increase of blast cells and therefore to premature progression to AML."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of thrombopoietin (TPO) mimetics for patients with MDS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched for randomised controlled trials in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (January 2000 to August 2017), trials registries (ISRCTN, EU clinical trials register and clinicaltrials.gov) and conference proceedings. We did not apply any language restrictions. Two review authors independently screened search results, disagreements were solved by discussion."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing TPO mimetics with placebo, no further treatment or another TPO mimetic in patients with MDS of all risk groups, without gender, age or ethnicity restrictions. Additional chemotherapeutic treatment had to be equal in both arms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed the quality of trials, disagreements were resolved by discussion. Risk ratio (RR) was used to analyse mortality during study, transformation to AML, incidence of bleeding events, transfusion requirement, all adverse events, adverse events >= grade 3, serious adverse events and platelet response. Overall survival (OS) and progression-free survival (PFS) have been extracted as hazard ratios, but could not be pooled as results were reported in heterogenous ways. Health-related quality of life and duration of thrombocytopenia would have been analysed as standardised mean differences, but no trial reported these outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We did not identify any trial comparing one TPO mimetic versus another. We analysed six eligible trials involving 746 adult patients. All trials were reported as randomised and double-blind trials including male and female patients. Two trials compared TPO mimetics (romiplostim or eltrombopag) with placebo, one trial evaluated eltrombopag in addition to the hypomethylating agent azacitidine, two trials analysed romiplostim additionally to a hypomethylating agent (azacitidine or decitabine) and one trial evaluated romiplostim in addition to the immunomodulatory drug lenalidomide. There are more data on romiplostim (four included, completed, full-text trials) than on eltrombopag (two trials included: one full-text publication, one abstract publication). Due to small sample sizes and imbalances in baseline characteristics in three trials and premature termination of two studies, we judged the potential risk of bias of all included trials as high.\nDue to heterogenous reporting, we were not able to pool data for OS. Instead of that, we analysed mortality during study. There is little or no evidence for a difference in mortality during study for thrombopoietin mimetics compared to placebo (RR 0.97, 95% confidence interval (CI) 0.73 to 1.27, N = 6 trials, 746 patients, low-quality evidence ). It is unclear whether the use of TPO mimetics induces an acceleration of transformation to AML (RR 1.02, 95% CI 0.59 to 1.77, N = 5 trials, 372 patients, very low-quality evidence ).Thrombopoietin mimetics probably improve the incidence of all bleeding events (RR 0.92, 95% CI 0.86 to 0.99, N = 5 trials, 390 patients, moderate-quality evidence ). This means that in the study population, 713 out of 1000 in the placebo arm will have a bleeding event, compared to 656 of 1000 (95% CI 613 to 699) in the TPO mimetics arm. There is little or no evidence for a difference that TPO mimetics significantly diminish the rate of transfusion requirement (RR 0.83, 95% CI 0.66 to 1.05, N = 4 trials, 358 patients, low-quality evidence). No studies were found that looked at quality of life or duration of thrombocytopenia.\nThere is no evidence that patients given TPO mimetics suffer more all adverse events (RR 1.01, 95% CI 0.96 to 1.07, N = 5 trials, 390 patients, moderate-quality evidence ). There is uncertainty whether the number of serious adverse events decrease under therapy with TPO mimetics (RR 0.89, 95% CI 0.54 to 1.46, N = 4 trials, 356 patients, very low-quality evidence).\nWe identified one ongoing study and one study marked as completed (March 2015), but without publication of results for MDS patients (only results reported for AML and MDS patients together). Both studies evaluate MDS patients receiving eltrombopag in comparison to placebo."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No trial evaluated one TPO mimetic versus another.\nSix trials including adult patients analysed one TPO mimetic versus placebo, sometimes combined with standard therapy in both arms. Given the uncertainty of the quality of evidence, meta-analyses show that there is little or no evidence for a difference in mortality during study and premature progress to AML. However, these assumptions have to be further explored. Treatment with TPO mimetics resulted in a lower number of MDS patients suffering from bleeding events.There is no evidence for a difference between study groups regarding transfusion requirement. Enlarged sample sizes and a longer follow-up of future trials should improve the estimate of safety and efficacy of TPO mimetics, moreover health-related quality of life should be evaluated. As two ongoing studies currently investigate eltrombopag (one already completed, but without published results), we are awaiting results for this drug."
+    }
+  ],
+  "pls_title": "Thrombopoietin mimetics for patients with myelodysplastic syndromes",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Myelodysplastic syndromes (MDS) are a heterogeneous group of hematopoietic stem cell disorders associated with anaemia, bleedings or infections as a result of peripheral cytopenias and a premature progress to acute myeloid leukaemia (AML). Patients mainly suffer at an elderly age. Bone marrow transplantation remains the only curative option. Thrombocytopenia represents a life-threatening complication in the course of illness and alternative treatment options to platelet transfusion are limited.The introduction of TPO mimetics (raising platelet counts by imitating the effect of human TPO) in the treatment of MDS may extend the range of therapy."
+    },
+    {
+      "heading": "Review question",
+      "text": "With this review we aimed to take a closer look at TPO mimetics in the treatment of MDS patients. We intended to focus on changes of overall survival, mortality during study, transformation to AML, incidence of bleeding events, transfusion requirement, health-related quality of life, all adverse events, and serious adverse events to explore the effect of TPO mimetics."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched medical databases such as Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, conference proceedings and study registries (January 2000 to August 2017). No trial evaluated one TPO mimetic (romiplostim or eltrombopag) versus another. We found eight eligible trials (six included, two ongoing, one of which is completed but without final results for MDS patients) and we included 746 adult patients in our review. The trials were randomised, double-blinded and used either romiplostim or eltrombopag versus placebo. In four trials hypomethylating agents or immunomodulatory drugs were administered in combination to romiplostim or eltrombopag. Only adults were included."
+    },
+    {
+      "heading": "Key results",
+      "text": "A meta-analysis of overall survival data was not possible, since data were too heterogeneous to pool. Instead of that, we analysed mortality data. There was no evidence for a difference between TPO mimetics and placebo in terms of mortality during study, transformation to AML, transfusion requirement, adverse events and serious adverse events. Thrombopoietin mimetics probably decrease the number of patients having bleeding events. In the study population, 713 out of 1000 in the placebo arm had a bleeding event, compared to 656 of 1000 (95% confidence interval (CI) 613 to 699) in the TPO mimetics arm. No trial evaluated health-related quality."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of evidence for the outcomes incidence of bleeding events and all adverse events is moderate due to high risk of bias (small sample sizes and imbalances in baseline characteristics in three trials, premature closure of two trials, selective reporting in one trial, industrial sponsorship). The quality of evidence for the outcomes mortality during study and transfusion requirements is low, due to imprecision through small number of events and high risk of bias. It is very low for the outcomes transformation to AML and serious adverse events, because of very small number of events, high risk of bias and heterogeneity between trials."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Although this systematic review reveals a potential patient-relevant benefit regarding decreasing bleeding events for evaluated adult patients, future trials should focus on outcomes referring to safety, efficacy and quality of life aspects of TPO mimetics to test their everyday usage. The assumption of premature progress to AML could not be clearly verified. Because of the low number of included trials and small sample sizes, uncertainties of the findings in this review exist and demand further investigation with more trials and participants and longer follow-up periods."
+    }
+  ]
+}

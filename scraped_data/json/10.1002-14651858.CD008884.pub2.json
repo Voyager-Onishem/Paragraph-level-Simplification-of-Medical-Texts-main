@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008884.pub2",
+  "name": "The effects of high perioperative inspiratory oxygen fraction for adult surgical patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Available evidence on the effects of a high fraction of inspired oxygen (FIO2) of 60% to 90% compared with a routine fraction of inspired oxygen of 30% to 40%, during anaesthesia and surgery, on mortality and surgical site infection has been inconclusive. Previous trials and meta-analyses have led to different conclusions on whether a high fraction of supplemental inspired oxygen during anaesthesia may decrease or increase mortality and surgical site infections in surgical patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of an FIO2 equal to or greater than 60% compared with a control FIO2 at or below 40% in the perioperative setting in terms of mortality, surgical site infection, respiratory insufficiency, serious adverse events and length of stay during the index admission for adult surgical patients.\nWe looked at various outcomes, conducted subgroup and sensitivity analyses, examined the role of bias and applied trial sequential analysis (TSA) to examine the level of evidence supporting or refuting a high FIO2 during surgery, anaesthesia and recovery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, BIOSIS, International Web of Science, the Latin American and Caribbean Health Science Information Database (LILACS), advanced Google and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) up to February 2014. We checked the references of included trials and reviews for unidentified relevant trials and reran the searches in March 2015. We will consider two studies of interest when we update the review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized clinical trials that compared a high fraction of inspired oxygen with a routine fraction of inspired oxygen during anaesthesia, surgery and recovery in individuals 18 years of age or older."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data independently. We conducted random-effects and fixed-effect meta-analyses, and for dichotomous outcomes, we calculated risk ratios (RRs). We used published data and data obtained by contacting trial authors.\nTo minimize the risk of systematic error, we assessed the risk of bias of the included trials. To reduce the risk of random errors caused by sparse data and repetitive updating of cumulative meta-analyses, we applied trial sequential analyses. We used Grades of Recommendation, Assessment, Development and Evaluation (GRADE) to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 28 randomized clinical trials (9330 participants); in the 21 trials reporting relevant outcomes for this review, 7597 participants were randomly assigned to a high fraction of inspired oxygen versus a routine fraction of inspired oxygen.\nIn trials with an overall low risk of bias, a high fraction of inspired oxygen compared with a routine fraction of inspired oxygen was not associated with all-cause mortality (random-effects model: RR 1.12, 95% confidence interval (CI) 0.93 to 1.36; GRADE: low quality) within the longest follow-up and within 30 days of follow-up (Peto odds ratio (OR) 0.99, 95% CI 0.61 to 1.60; GRADE: low quality). In a trial sequential analysis, the required information size was not reached and the analysis could not refute a 20% increase in mortality. Similarly, when all trials were included, a high fraction of inspired oxygen was not associated with all-cause mortality to the longest follow-up (RR 1.07, 95% CI 0.87 to 1.33) or within 30 days of follow-up (Peto OR 0.83, 95% CI 0.54 to 1.29), both of very low quality according to GRADE. Neither was a high fraction of inspired oxygen associated with the risk of surgical site infection in trials with low risk of bias (RR 0.86, 95% CI 0.63 to 1.17; GRADE: low quality) or in all trials (RR 0.87, 95% CI 0.71 to 1.07; GRADE: low quality). A high fraction of inspired oxygen was not associated with respiratory insufficiency (RR 1.25, 95% CI 0.79 to 1.99), serious adverse events (RR 0.96, 95% CI 0.65 to 1.43) or length of stay (mean difference -0.06 days, 95% CI -0.44 to 0.32 days).\nIn subgroup analyses of nine trials using preoperative antibiotics, a high fraction of inspired oxygen was associated with a decrease in surgical site infections (RR 0.76, 95% CI 0.60 to 0.97; GRADE: very low quality); a similar effect was noted in the five trials adequately blinded for the outcome assessment (RR 0.79, 95% CI 0.66 to 0.96; GRADE: very low quality). We did not observe an effect of a high fraction of inspired oxygen on surgical site infections in any other subgroup analyses."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "As the risk of adverse events, including mortality, may be increased by a fraction of inspired oxygen of 60% or higher, and as robust evidence is lacking for a beneficial effect of a fraction of inspired oxygen of 60% or higher on surgical site infection, our overall results suggest that evidence is insufficient to support the routine use of a high fraction of inspired oxygen during anaesthesia and surgery. Given the risk of attrition and outcome reporting bias, as well as other weaknesses in the available evidence, further randomized clinical trials with low risk of bias in all bias domains, including a large sample size and long-term follow-up, are warranted."
+    }
+  ],
+  "pls_title": "The effects of giving adult patients a high inspiratory oxygen fraction around the time of surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "The normal air that we breathe contains 21% oxygen. This systematic review assesses the beneficial and harmful effects of a percentage of inspired oxygen of 60% to 90% compared with a routine percentage of 30% to 40% given during anaesthesia, during surgery and in the immediate recovery period on the numbers of deaths and surgical site infections reported in adult surgical patients."
+    },
+    {
+      "heading": "Background",
+      "text": "Reduced lung and circulatory function during surgery can lead to reduced levels of oxygen (hypoxia). Also, oxygen levels are often low in wounds at the end of surgery. This may impair bacterial killing and wound healing. Trials and previous meta-analyses have led to different conclusions as to whether a high percentage of inspired oxygen during anaesthesia may decrease or increase the risk of death or surgical site infections. This systematic review used improved Cochrane methodology for carrying out systematic reviews to reassess available evidence derived from randomized clinical trials."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 28 randomized clinical trials. Eight trials with 4918 participants reported on risk of death, and 15 trials with 7219 participants reported on surgical site infections within 14 to 30 days of surgery. Four trials reported serious adverse events, three trials respiratory insufficiency, nine trials length of stay during the associated hospital admission and one trial quality of life. All trials were conducted without direct industry funding.\nThe number of participants in each trial ranged from 38 to 2012. The mean age of participants was 50 years (range 15 to 92 years) and 63% were women. Types of surgery included abdominal surgery (eight trials), caesarean section (four trials), breast surgery (one trial), orthopaedic surgery (two trials) and various other surgical procedures (four trials)."
+    },
+    {
+      "heading": "Key results",
+      "text": "A high percentage of inspired oxygen was not statistically associated with increased risk of death, or with a decrease in surgical site infections, in all trials that measured these outcomes, in trials of highest quality and in those with longest follow-up.\nAn increased risk of adverse events could not be proved right or wrong for a high percentage of inspired oxygen during anaesthesia and surgery."
+    },
+    {
+      "heading": "Quality and quantity of the evidence",
+      "text": "Only five of the included trials had low risk of bias. The trials randomly assigned 9330 participants, of whom only 7537 participants provided data for this review. The number of participants required to detect or reject a 20% relative risk reduction in deaths was not reached; therefore the observed results were uncertain."
+    }
+  ]
+}

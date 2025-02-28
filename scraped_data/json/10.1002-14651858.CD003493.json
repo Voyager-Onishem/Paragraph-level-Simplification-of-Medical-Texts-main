@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003493",
+  "name": "Transcranial magnetic stimulation for treating depression",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Transcranial magnetic stimulation can either excite or inhibit cortical areas of the brain, depending on whether the speed of the repetitive stimulation is applied at high or low frequencies. It has been used for physiological studies and it has also been proposed as a treatment for depression."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical efficacy and safety of transcranial magnetic stimulationfor treating depression."
+    },
+    {
+      "heading": "Search methods",
+      "text": "An electronic search was performed including the Cochrane Collaboration Depression, Anxiety and Neurosis Review Group trials register (last searched June 2001), the Cochrane Controlled Trials Register (Issue 2, 2001), MEDLINE (1966-2001), EMBASE (1974-2001), PsycLIT (1980-2001), and bibliographies from reviewed articles. Unpublished data and grey literature were searched through personal communications with researchers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials assessing the therapeutic efficacy and safety of transcranial magnetic stimulation for depression."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All reviewers independently extracted the information and verified it by cross-checking. Disagreements were resolved through discussion. \nContinuous data: When similar studies were grouped, the overall standardised mean difference was calculated under a fixed effect model weighted by the inverse variance method with 95% confidence intervals. (In the presence of statistical heterogeneity, a random effects model was to be used.)"
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixteen trials were included in the review and fourteen contained data in a suitable form for quantitative analysis. Most comparisons did not show differences between rTMS and other interventions. No difference was seen between rTMS and sham TMS using the Beck Depression Inventory or the Hamilton Depression Rating Scale, except for one time period (after two weeks of treatment) for left dorsolateral prefrontal cortex and high frequency; and also for right dorsolateral prefrontal cortex and low frequency, both in favour of rTMS and both using the Hamilton scale. Comparison of rTMS (left dorsolateral prefrontal cortex and high frequency) with electroconvulsive therapy showed no difference except for psychotic patients after two weeks treatment, using the Hamilton scale, which indicated that electroconvulsive therapy was more effective than rTMS."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The information in this review suggests that there is no strong evidence for benefit from using transcranial magnetic stimulation to treat depression, although the small sample sizes do not exclude the possibility of benefit."
+    }
+  ],
+  "pls_title": "Transcranial magnetic stimulation (TMS) for depression",
+  "pls_type": "long",
+  "pls": "Transcranial magnetic stimulation can either excite or inhibit cortical areas of the brain, depending on whether the speed of the repetitive stimulation is applied at high or low frequencies. It has been used for physiological studies and it has also been proposed as a treatment for depression. Sixteen trials were included in the review and fourteen contained data in a suitable form for quantitative analysis. Most comparisons did not show differences between repetitive (rTMS) and other interventions. No difference was seen between rTMS and sham TMS using the Beck Depression Inventory or the Hamilton Depression Rating Scale, except for one time period (after two weeks of treatment) for left dorsolateral prefrontal cortex and high frequency; and also for right dorsolateral prefrontal cortex and low frequency, both in favour of rTMS and both using the Hamilton scale. Comparison of rTMS (left dorsolateral prefrontal cortex and high frequency) with electroconvulsive therapy showed no difference except for psychotic patients after two weeks treatment, using the Hamilton scale, which indicated that electroconvulsive therapy was more effective than rTMS."
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007483.pub2",
+  "name": "Artemisinin‐based combination therapy for treating uncomplicated malaria",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The World Health Organization recommends uncomplicated P. falciparum malaria is treated using Artemisinin-based Combination Therapy (ACT). This review aims to assist the decision making of malaria control programmes by providing an overview of the relative benefits and harms of the available options."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effects of ACTs with other available ACT and non-ACT combinations for treating uncomplicated P. falciparum malaria."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS, and the meta Register of Controlled Trials (mRCT) to March 2009."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized head to head trials of ACTs in uncomplicated P. falciparum malaria.\nThis review is limited to: dihydroartemisinin-piperaquine; artesunate plus mefloquine; artemether-lumefantrine (six doses); artesunate plus amodiaquine; artesunate plus sulfadoxine-pyrimethamine and amodiaquine plus sulfadoxine-pyrimethamine."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed trials for eligibility and risk of bias, and extracted data. We analysed primary outcomes in line with the WHO 'Protocol for assessing and monitoring antimalarial drug efficacy' and compared drugs using risk ratios (RR) and 95% confidence intervals (CI). Secondary outcomes were effects on P. vivax, gametocytes, haemoglobin, and adverse events."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty studies met the inclusion criteria. All five ACTs achieved PCR adjusted failure rates of < 10%, in line with WHO recommendations, at most study sites.\nDihydroartemisinin-piperaquine performed well compared to the ACTs in current use (PCR adjusted treatment failure versus artesunate plus mefloquine in Asia; RR 0.39, 95% CI 0.19 to 0.79; three trials, 1062 participants; versus artemether-lumefantrine in Africa; RR 0.39, 95% CI 0.24 to 0.64; three trials, 1136 participants).\nACTs were superior to amodiaquine plus sulfadoxine-pyrimethamine in East Africa (PCR adjusted treatment failure versus artemether-lumefantrine; RR 0.12, 95% CI 0.06 to 0.24; two trials, 618 participants; versus AS+AQ; RR 0.44, 95% CI 0.22 to 0.89; three trials, 1515 participants).\nDihydroartemisinin-piperaquine (RR 0.32, 95% CI 0.24 to 0.43; four trials, 1442 participants) and artesunate plus mefloquine (RR 0.30, 95% CI 0.21 to 0.41; four trials, 1003 participants) were more effective than artemether-lumefantrine at reducing the incidence of P.vivax over 42 days follow up."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Dihydroartemisinin-piperaquine is another effective first-line treatment for P. falciparum malaria.\nThe performance of the non-ACT (amodiaquine plus sulfadoxine-pyrimethamine) falls below WHO recommendations for first-line therapy in parts of Africa.\nIn areas where primaquine is not being used for radical cure of P. vivax, ACTs with long half-lives may provide some benefit."
+    }
+  ],
+  "pls_title": "Artemisinin-based combination treatments for uncomplicated malaria",
+  "pls_type": "long",
+  "pls": "Malaria is a major cause of illness and death in many of the world's poorest countries. It is spread from person to person by the bite of mosquitoes infected with a microorganism called Plasmodium . The Plasmodium species P. falciparum is the most common cause of malaria worldwide and causes the majority of deaths. Uncomplicated malaria is the mild form of the disease which, if left untreated, can progress rapidly to become life threatening. The drugs traditionally used to treat uncomplicated malaria have become ineffective in many parts of the world due to the development of drug resistance.\nThe World Health Organization now recommends Artemisinin-based Combination Therapy (ACTs) for treating uncomplicated malaria. The ACTs combine an artemisinin-derivative (a relatively new group of drugs which are very effective) with another longer-lasting drug to try and reduce the risk of further resistance developing.\nThis review summarizes the relative benefits and harms of the four ACTs in common use, one relatively new ACT (dihydroartemisinin plus piperaquine), and one combination which does not contain an artemisinin derivative but remains in use in some African countries (amodiaquine plus sulfadoxine-pyrimethamine).\nAll five ACTs were shown to be highly effective at treating P. falciparum in most places where they have been studied. However, there were several trials where ACTs had high levels of treatment failure, which emphasises the need to continue to monitor their performance.\nThe new ACT, dihydroartemisinin plus piperaquine, was shown to be at least as effective as the ACTs currently in widespread use in Asia and Africa, and represents another option for malaria treatment.\nACTs were shown to be more effective than amodiaquine plus sulfadoxine-pyrimethamine in countries from East Africa which probably represents high levels of resistance, to both drugs in this combination, in this region.\nThe second most common form of malaria, P. vivax , can also be treated with ACTs but requires additional treatment to cure the patient completely. This is because the P. vivax parasite can lie dormant in the liver for months or years before becoming active again. ACTs where the partner drug has a long duration of action may help to delay these relapses.\nThe ACTs seem to be relatively safe with few serious side effects. Minor side effects are more common but can be difficult to distinguish from the symptoms of malaria itself. Fifty trials were included in this review but did not include the most vulnerable populations; pregnant women and young infants (age < six months)."
+}

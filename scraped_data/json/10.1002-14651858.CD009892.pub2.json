@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009892.pub2",
+  "name": "Interventions for treating inadvertent postoperative hypothermia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inadvertent postoperative hypothermia (a drop in core body temperature to below 36°C) occurs as an effect of surgery when anaesthetic drugs and exposure of the skin for long periods of time during surgery result in interference with normal temperature regulation. Once hypothermia has occurred, it is important that patients are rewarmed promptly to minimise potential complications. Several different interventions are available for rewarming patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To estimate the effectiveness of treating inadvertent perioperative hypothermia through postoperative interventions to decrease heat loss and apply passive and active warming systems in adult patients who have undergone surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 2), MEDLINE (Ovid SP) (1956 to 21 February 2014), EMBASE (Ovid SP) (1982 to 21 February 2014), the Institute for Scientific Information (ISI) Web of Science (1950 to 21 February 2014) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), EBSCO host (1980 to 21 February 2014), as well as reference lists of articles. We also searched www.controlled-trials.com and www.clincialtrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of postoperative warming interventions aiming to reverse hypothermia compared with control or with each other."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors identified studies for inclusion in this review. One review author extracted data and completed risk of bias assessments; two review authors checked the details. Meta-analysis was conducted when appropriate by using standard methodological procedures as expected by The Cochrane Collaboration."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 trials with 699 participants. Ten trials provided data for analysis. Trials varied in the numbers and types of participants included and in the types of surgery performed. Most trials were at high or unclear risk of bias because of inappropriate or unclear randomization procedures, and because blinding of assessors and participants generally was not possible. This may have influenced results, but it is unclear how the results may have been influenced. Active warming was found to reduce the mean time taken to achieve normothermia by about 30 minutes in comparison with use of warmed cotton blankets (mean difference (MD) -32.13 minutes, 95% confidence interval (CI) -42.55 to -21.71; moderate-quality evidence), but no significant difference in shivering was noted. Active warming was found to reduce mean time taken to achieve normothermia by almost an hour and a half in comparison with use of unwarmed cotton blankets (MD -88.86 minutes, 95% CI -123.49 to -54.23; moderate-quality evidence), and people in the active warming group were less likely to shiver than those in the unwarmed cotton blanket group (Relative Risk=0.61 95% CI= 0.42 to 0.86; low quality evidence). There was no effect on mean temperature difference in degrees celsius at 60 minutes (MD=0.18°C, 95% CI=-0.10 to 0.46; moderate quality evidence), and no data were available in relation to major cardiovascular complications. Forced air warming was found to reduce time taken to achieve normothermia by about one hour in comparison to circulating hot water devices (MD=-54.21 minutes 95% CI= -94.95, -13.47). There was no statistically significant difference between thermal insulation and cotton blankets on mean time to achieve normothermia (MD =-0.29 minutes, 95% CI=-25.47 to 24.89; moderate quality evidence) or shivering (Relative Risk=1.36 95% CI= 0.69 to 2.67; moderate quality evidence), and no data were available for mean temperature difference or major cardiovascular complications. Insufficient evidence was available about other comparisons, adverse effects or any other secondary outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Active warming, particularly forced air warming, appears to offer a clinically important reduction in mean time taken to achieve normothermia (normal body temperature between 36°C and 37.5°C) in patients with postoperative hypothermia. However, high-quality evidence on other important clinical outcomes is lacking; therefore it is unclear whether active warming offers other benefits and harms. High-quality evidence on other warming methods is also lacking; therefore it is unclear whether other rewarming methods are effective in reversing postoperative hypothermia."
+    }
+  ],
+  "pls_title": "Treating unintentional hypothermia after surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to find out the effects of different methods of rewarming adult patients with unintentional hypothermia (a core body temperature below 36°C) after surgery."
+    },
+    {
+      "heading": "Background",
+      "text": "Patients can get cold during surgery, particularly because of the drugs used as anaesthetics. This can cause potentially dangerous heart problems. Cold can also make patients shiver and feel uncomfortable after an operation. Different ways of rewarming patients after surgery have been developed, such as using thermal insulation (e.g. reflective blankets) and active warming (whereby heat is transferred directly from the device to the patient, e.g. electric blanket, heat lamp)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We looked at the evidence up to February 2014 and included 11 studies involving 699 participants. Ten studies provided data for analysis.The studies involved adults (over 18 years of age) who were undergoing routine or emergency surgery. We did not include studies in which patients were kept cold deliberately during the operation, were having head surgery or skin grafts or were under a local anaesthetic. We looked at studies comparing different rewarming methods versus each other or versus normal care (hospital blankets)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We can be quite certain that temperature goes back to normal (between 36°C and 37.5°C) more than an hour faster when active warming methods are used to warm hypothermic patients than when hospital blankets are used, and that this result is important for people involved in the care of patients with hypothermia after surgery. Not enough evidence was found to show whether active warming methods provide other benefits or harms to patients. Some evidence suggests that forced air warming (one type of active warming) is better at rewarming patients than circulating hot water devices and radiant heaters (other types of active warming), but we do not know whether forced air warming is the best active warming method overall, as evidence on all methods of active warming was not available."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Quality of the evidenceMost of the evidence was moderate to low in quality. Methods used to assign patients to treatment groups were generally unclear or inadequate, and it was not possible to keep patients or people assessing patients unaware of the treatment given. This may have biased the results, but we are not sure what influence this could have had on the overall results."
+    }
+  ]
+}

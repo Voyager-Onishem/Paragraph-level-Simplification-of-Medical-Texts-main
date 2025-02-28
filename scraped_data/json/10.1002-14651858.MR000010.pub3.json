@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000010.pub3",
+  "name": "Grey literature in meta‐analyses of randomized trials of health care interventions",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The inclusion of grey literature (i.e. literature that has not been formally published) in systematic reviews may help to overcome some of the problems of publication bias, which can arise due to the selective availability of data."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review systematically research studies, which have investigated the impact of grey literature in meta-analyses of randomized trials of health care interventions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Methodology Register (The Cochrane Library Issue 3, 2005), MEDLINE (1966 to 20 May 2005), the Science Citation Index (June 2005) and contacted researchers who may have carried out relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "A study was considered eligible for this review if it compared the effect of the inclusion and exclusion of grey literature on the results of a cohort of meta-analyses of randomized trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted from each report independently by two reviewers. The main outcome measure was an estimate of the impact of trials from the grey literature on the pooled effect estimates of the meta-analyses. Information was also collected on the area of health care, the number of meta-analyses, the number of trials, the number of trial participants, the year of publication of the trials, the language and country of publication of the trials, the number and type of grey and published literature, and methodological quality."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies met the inclusion criteria. All five studies showed that published trials showed an overall greater treatment effect than grey trials. This difference was statistically significant in one of the five studies. Data could be combined for three of the five studies. This showed that, on average, published trials showed a 9% greater treatment effect than grey trials (ratio of odds ratios for grey versus published trials 1.09; 95% CI 1.03-1.16). Overall there were more published trials included in the meta-analyses than grey trials (median 224 (IQR 108-365) versus 45(IQR 40-102)). Published trials had more participants on average. The most common types of grey literature were abstracts (55%) and unpublished data (30%). There is limited evidence to show whether grey trials are of poorer methodological quality than published trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review shows that published trials tend to be larger and show an overall greater treatment effect than grey trials. This has important implications for reviewers who need to ensure they identify grey trials, in order to minimise the risk of introducing bias into their review."
+    }
+  ],
+  "pls_title": "Grey literature in meta-analyses of randomized trials of health care interventions",
+  "pls_type": "long",
+  "pls": "This methodology review identified five studies which investigated the effect of including trials found in the grey literature in systematic reviews of health care interventions. They showed that trials found in the published literature tend to be larger and show larger effects of a health care intervention than those trials found in the grey literature. There was limited evidence to show whether grey trials are of poorer methodological quality than published trials. This means that those carrying out systematic reviews need to search for trials in both the published and grey literature in order to help minimise the effects of publication bias in their review."
+}

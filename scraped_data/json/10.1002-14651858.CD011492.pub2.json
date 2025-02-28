@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011492.pub2",
+  "name": "Interventions for the treatment of brain radionecrosis after radiotherapy or radiosurgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Brain radionecrosis (tissue death caused by radiation) can occur following high-dose radiotherapy to brain tissue and can have a significant impact on a person's quality of life (QoL) and function. The underlying pathophysiological mechanism remains unclear for this condition, which makes establishing effective treatments challenging."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of interventions used for the treatment of brain radionecrosis in adults over 18 years old."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In October 2017, we searched the Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, Embase and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) for eligible studies. We also searched unpublished data through Physicians Data Query, www.controlled-trials.com/rct, www.clinicaltrials.gov, and www.cancer.gov/clinicaltrials for ongoing trials and handsearched relevant conference material."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of any intervention directed to treat brain radionecrosis in adults over 18 years old previously treated with radiation therapy to the brain. We anticipated a limited number of RCTs, so we also planned to include all comparative prospective intervention trials and quasi-randomised trials of interventions for brain radionecrosis in adults as long as these studies had a comparison group that reflects the standard of care (i.e. placebo or corticosteroids). Selection bias was likely to be an issue in all the included non-randomised studies therefore results are interpreted with caution."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (CC, PB) independently extracted data from selected studies and completed a 'Risk of bias' assessment. For dichotomous outcomes, the odds ratio (OR) for the outcome of interest was reported. For continuous outcomes, treatment effect was reported as mean difference (MD) between treatment arms with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two RCTs and one prospective non-randomised study evaluating pharmacological interventions met the inclusion criteria for this review. As each study evaluated a different drug or intervention using different endpoints, a meta-analysis was not possible. There were no trials of non-pharmacological interventions that met the inclusion criteria.\nA very small randomised, double-blind, placebo-controlled trial of bevacizumab versus placebo reported that 100% (7/7) of participants on bevacizumab had reduction in brain oedema by at least 25% and reduction in post-gadolinium enhancement, whereas all those receiving placebo had clinical or radiological worsening or both. This was an encouraging finding but due to the small sample size we did not report a relative effect. The authors also failed to provide adequate details regarding the randomisation and blinding procedures Therefore, the certainty of this evidence is low and a larger RCT adhering to reporting standards is needed.\nAn open-label RCT demonstrated a greater reduction in brain oedema (T2 hyperintensity) in the edaravone plus corticosteroid group than in the corticosteroid alone group (MD was 3.03 (95% CI 0.14 to 5.92; low-certainty evidence due to high risk of bias and imprecision); although the result approached borderline significance, there was no evidence of any important difference in the reduction in post-gadolinium enhancement between arms (MD = 0.47, 95% CI - 0.80 to 1.74; low-certainty evidence due to high risk of bias and imprecision).\nIn the RCT of bevacizumab versus placebo, all seven participants receiving bevacizumab were reported to have neurological improvement, whereas five of seven participants on placebo had neurological worsening (very low-certainty evidence due to small sample size and concerns over validity of analyses). While no adverse events were noted with placebo, three severe adverse events were noted with bevacizumab, which included aspiration pneumonia, pulmonary embolus and superior sagittal sinus thrombosis. In the RCT of corticosteroids with or without edaravone, the participants who received the combination treatment were noted to have significantly greater clinical improvement than corticosteroids alone based on LENT/SOMA scale (OR = 2.51, 95% CI 1.26 to 5.01; low-certainty evidence due to open-label design). No differences in treatment toxicities were observed between arms.\nOne included prospective non-randomised study of alpha-tocopherol (vitamin E) versus no active treatment was found but it did not include any radiological assessment. As only one included study was a double-blinded randomised controlled trial, the other studies were prone to selection and detection biases.\nNone of the included studies reported quality of life outcomes or adequately reported details about corticosteroid requirements.\nA limited number of prospective studies were identified but subsequently excluded as these studies had a limited number of participants evaluating different pharmacological interventions using variable endpoints."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is a lack of good certainty evidence to help quantify the risks and benefits of interventions for the treatment of brain radionecrosis after radiotherapy or radiosurgery. In an RCT of 14 patients, bevacizumab showed radiological response which was associated with minimal improvement in cognition or symptom severity. Although it was a randomised trial by design, the small sample size limits the quality of data. A trial of edaravone plus corticosteroids versus corticosteroids alone reported greater reduction in the surrounding oedema with combination treatment but no effect on the enhancing radionecrosis lesion. Due to the open-label design and wide confidence intervals in the results, the quality of this data was also low. There was no evidence to support any non-pharmacological interventions for the treatment of radionecrosis. Further prospective randomised studies of pharmacological and non-pharmacological interventions are needed to generate stronger evidence. Two ongoing RCTs, one evaluating bevacizumab and one evaluating hyperbaric oxygen therapy were identified."
+    }
+  ],
+  "pls_title": "Interventions for the treatment of brain radionecrosis (radiation-induced damage) after brain radiation treatment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "When brain tissue dies due to a reaction to radiotherapy it is calledbrain radionecrosis.Brain radionecrosis can cause damage to the patient’s ability function. What this looks like depends where the radionecrosis has happened in the brain and it can impact on a patient’s quality of life. There are currently limited available treatments for brain radionecrosis. Patients are commonly given powerful anti-inflammatory drugs (called corticosteroids) and some patients may require surgery to remove the area of brain that has radionecrosis. More effective treatments for this condition are needed."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In October 2017, we searched a list of literature databases and conference proceedings to identify studies that evaluated treatments for brain radionecrosis. A total of three studies were identified that evaluated drugs of which only two were RCTs and one of these RCTs had only 14 participants. No studies evaluating non-drug treatments were identified."
+    },
+    {
+      "heading": "Key findings",
+      "text": "The two drugs compared to corticosteroids alone in this review were bevacizumab (a drug affecting the blood vessels) and edaravone (a powerful antioxidant).\nA very small-sized study reported that bevacizumab improved the appearance of the radionecrosis on magnetic resonance imaging (MRI). This was associated with improvement in neurological symptoms than placebo but also with severe side effects.\nEdaravone in combination with corticosteroids improved the appearance of radionecrosis on MRI; this was associated with improvement in the reported symptoms using the LENT/SOMA scale. However, the patient and treating team were aware of the particular treatment the patient was receiving, so the reported symptoms may have been influenced by this.\nNone of the included studies reported quality of life outcomes or adequately reported details about corticosteroid requirements.\nFinally a two arm non-randomised study of vitamin E versus no active treatment based on patient preference reported improvement in learning and memory, but this study did not report any imaging response. The results may have been influenced as patients chose their study treatment thus introducing other potential biases."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Based on the findings of this review the certainty of the available evidence is low/very low, which limits our ability to help determine the risks and benefits of the evaluated treatments for brain radionecrosis. The studies were at risk of bias due to aspects of their study designs and/or very limited number of participants. There is a great need for higher-quality evidence with larger multi-centre randomised control trials of treatments for brain radionecrosis. In our search of the literature for this review, two ongoing RCTs, one evaluating bevacizumab and one evaluating hyperbaric oxygen therapy were identified."
+    }
+  ]
+}

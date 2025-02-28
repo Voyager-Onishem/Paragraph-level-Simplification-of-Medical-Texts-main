@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012012.pub2",
+  "name": "Routine Health Information System (RHIS) improvements for strengthened health system management ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A well-functioning routine health information system (RHIS) can provide the information needed for health system management, for governance, accountability, planning, policy making, surveillance and quality improvement, but poor information support has been identified as a major obstacle for improving health system management."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions to improve routine health information systems in terms of RHIS performance, and also, in terms of improved health system management performance, and improved patient and population health outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE Ovid and Embase Ovid in May 2019. We searched Global Health, Ovid and PsycInfo in April 2016. In January 2020 we searched for grey literature in the Grey Literature Report and in OpenGrey, and for ongoing trials using the International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov. In October 2019 we also did a cited reference search using Web of Science, and a ‘similar articles’ search in PubMed."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and non-randomised trials, controlled before-after studies and time-series studies comparing routine health information system interventions, with controls, in primary, hospital or community health care settings. Participants included clinical staff and management, district management and community health workers using routine information systems."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently reviewed records to identify studies for inclusion, extracted data from the included studies and assessed the risk of bias. Interventions and outcomes were too varied across studies to allow for pooled risk analysis. We present a 'Summary of findings' table for each intervention comparisons broadly categorised into Technical and Organisational (or a combination), and report outcomes on data quality and service quality. We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six studies: four cluster randomised trials and two controlled before-after studies, from Africa and South America. Three studies evaluated technical interventions, one study evaluated an organisational intervention, and two studies evaluated a combination of technical and organisational interventions. Four studies reported on data quality and six studies reported on service quality.\nIn terms of data quality, a web-based electronic TB laboratory information system probably reduces the length of time to reporting of TB test results, and probably reduces the overall rate of recording errors of TB test results, compared to a paper-based system (moderate certainty evidence). We are uncertain about the effect of the electronic laboratory information system on the recording rate of serious (misidentification) errors for TB test results compared to a paper-based system (very low certainty evidence). Misidentification errors are inaccuracies in transferring test results between an electronic register and patients' clinical charts. We are also uncertain about the effect of the intervention on service quality (timeliness of starting or changing a patient's TB treatment) (very low certainty evidence).\nA hand-held electronic device probably improves the length of time to report TB test results, and probably reduces the total frequency of recording errors in TB test results between the laboratory notebook and the electronic information record system, compared to a paper-based system (moderate-certainty evidence). We are, however, uncertain about the effect of the intervention on the frequency of serious (misidentification) errors in recording between the laboratory notebook and the electronic information record, compared to a paper-based system (very low certainty evidence).\nWe are uncertain about the effect of a hospital electronic health information system on service quality (length of time outpatients spend at hospital, length of hospital stay, and hospital revenue collection), compared to a paper-based system (very low certainty evidence).\nHigh-intensity brief text messaging (SMS) may make little or no difference to data quality (in terms of completeness of documentation of pregnancy outcomes), compared to low-intensity brief text messaging (low-certainty evidence).\nWe are uncertain about the effect of electronic drug stock notification (with either data management support or product transfer support) on service quality (in terms of transporting stock and stock levels), compared to paper-based stock notification (very low certainty evidence).\nWe are uncertain about the effect of health information strengthening (where it is part of comprehensive service quality improvement intervention) on service quality (health worker motivation, receipt of training by health workers, health information index scores, quality of clinical observation of children and adults) (very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The review indicates mixed effects of mainly technical interventions to improve data quality, with gaps in evidence on interventions aimed at enhancing data-informed health system management. There is a gap in interventions studying information support beyond clinical management, such as for human resources, finances, drug supply and governance. We need to have a better understanding of the causal mechanisms by which information support may affect change in management decision-making, to inform robust intervention design and evaluation methods."
+    }
+  ],
+  "pls_title": "Making improvements to routine health information systems to strengthen the management of health systems",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "For health services and systems to function well, managers need a routine information system that produces reliable information about how well these services are working and that supports the use of this information to improve services. The aim of this Cochrane Review was to see if different ways of improving the routine information system could improve the quality and use of this information and the quality and use of health services. The review authors collected and analysed all relevant studies to answer this question and found six studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Moving from paper-based information systems to electronic and digital systems probably allows staff at healthcare facilities to collect some types of routine health information faster and with fewer mistakes. But there are many evidence gaps, and we still need to know more about the effect of different approaches on information quality and use and on the quality of healthcare services and the broader health system."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Staff at healthcare facilities usually routinely collect information about the services they provide. This often includes information about their patients’ health and the type of treatments and tests they receive. Managers at different levels of the health system also collect information, for instance about human resources, finances, medicines and supply systems. Managers can then use this information to make decisions about how to organise and improve the services. This is referred to as a “routine health information system”. It is often a paper-based system, but information can also be gathered through electronic systems.\nIn many countries, these routine systems do not work well. This is often because the information is of poor quality or not that useful. Where good quality information is available, managers do not always use the information effectively to improve services. This may be because they have problems accessing the information, they lack the skills to use the information correctly, or they are not encouraged or supported in their use of the information.\nIn this review, we looked at different ways of improving routine health information systems and the effect this has on the quality and use of the information and the quality of healthcare services and the broader health system."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review authors found six relevant studies from countries in Africa and South America. Some of the studies assessed whether electronic systems were better than paper-based systems. Some of the studies also looked at other ways of improving the system, for instance by using SMS mobile-phone systems to help health workers and other staff notify central systems about supply levels, register patients, or monitor patients’ health."
+    },
+    {
+      "heading": "What effect do these types of systems have on the quality and use of the information that is collected and on health service and systems quality?",
+      "text": "- When healthcare staff use electronic and digital information systems to document and communicate tuberculosis (TB) laboratory test results, compared to paper-based systems, test results are probably reported faster and with fewer mistakes overall. But we do not know if these new systems lead to fewer serious mistakes (such as giving the wrong test results for a patient when moving information from the laboratory system to the clinic system), because the certainty of the evidence is very low.\n- When community health workers are sent frequent text-messages (SMS) motivating them to collect information about pregnancies, births and newborn deaths, this may make little or no difference to the quality of the information that is reported, compared to less frequent messages.\nWe do not know what the effects of other approaches to system improvements are on information quality and use or on the quality of the services because evidence is lacking or of very low certainty."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The review authors searched for studies that had been published up to May 2019."
+    }
+  ]
+}

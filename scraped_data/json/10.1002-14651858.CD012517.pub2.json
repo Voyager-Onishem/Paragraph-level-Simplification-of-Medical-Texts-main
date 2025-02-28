@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD012517.pub2",
+  "name": "Glucocorticoid replacement regimens for treating congenital adrenal hyperplasia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Congenital adrenal hyperplasia (CAH) is an autosomal recessive condition which leads to glucocorticoid deficiency and is the most common cause of adrenal insufficiency in children. In over 90% of cases, 21-hydroxylase enzyme deficiency is found which is caused by mutations in the 21-hydroxylase gene. Managing individuals with CAH due to 21-hydroxylase deficiency involves replacing glucocorticoids with oral glucocorticoids (including prednisolone and hydrocortisone), suppressing adrenocorticotrophic hormones and replacing mineralocorticoids to prevent salt wasting. During childhood, the main aims of treatment are to prevent adrenal crises and to achieve normal stature, optimal adult height and to undergo normal puberty. In adults, treatment aims to prevent adrenal crises, ensure normal fertility and to avoid the long-term consequences of glucocorticoid use. Current glucocorticoid treatment regimens can not optimally replicate the normal physiological cortisol level and over-treatment or under-treatment is often reported."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare and determine the efficacy and safety of different glucocorticoid replacement regimens in the treatment of CAH due to 21-hydroxylase deficiency in children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Inborn Errors of Metabolism Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles and reviews, and trial registries (ClinicalTrials.gov and WHO ICTRP).\nDate of last search of trials register: 24 June 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-RCTs comparing different glucocorticoid replacement regimens for treating CAH due to 21-hydroxylase deficiency in children and adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The authors independently extracted and analysed the data from different interventions. They undertook the comparisons separately and used GRADE to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Searches identified 1729 records with 43 records subject to further examination. After screening, we included five RCTs (six references) with a total of 101 participants and identified a further six ongoing RCTs. The number of participants in each trial varied from six to 44, with participants' ages ranging from 3.6 months to 21 years. Four trials were of cross-over design and one was of parallel design. Duration of treatment ranged from two weeks to six months per treatment arm with an overall follow-up between six and 12 months for all trials. Overall, we judged the quality of the trials to be at moderate to high risk of bias; with lack of methodological detail leading to unclear or high risk of bias judgements across many of the domains.\nAll trials employed an oral glucocorticoid replacement therapy, but with different daily schedules and dose levels. Three trials compared different dose schedules of hydrocortisone (HC), one three-arm trial compared HC to prednisolone (PD) and dexamethasone (DXA) and one trial compared HC with fludrocortisone to PD with fludrocortisone. Due to the heterogeneity of the trials and the limited amount of evidence, we were unable to perform any meta-analyses.\nNo trials reported on quality of life, prevention of adrenal crisis, presence of osteopenia, presence of testicular or ovarian adrenal rest tumours, subfertility or final adult height.\nFive trials (101 participants) reported androgen normalisation but using different measurements (very low-quality evidence for all measurements). Five trials reported 17 hydroxyprogesterone (17 OHP) levels, four trials reported androstenedione, three trials reported testosterone and one trial reported dehydroepiandrosterone sulphate (DHEAS). After four weeks, results from one trial (15 participants) showed a high morning dose of HC or a high evening dose made little or no difference in 17 OHP, testosterone, androstenedione and DHEAS. One trial (27 participants) found that HC and DXA treatment suppressed 17 OHP and androstenedione more than PD treatment after six weeks and a further trial (eight participants) reported no difference in 17 OHP between the five different dosing schedules of HC at between four and six weeks. One trial (44 participants) comparing HC and PD found no differences in the values of 17 OHP, androstenedione and testosterone at one year. One trial (26 participants) of HC versus HC plus fludrocortisone found that at six months 17 OHP and androstenedione levels were more suppressed on HC alone, but there were no differences noted in testosterone levels.\nWhile no trials reported on absolute final adult height, we reported some surrogate markers. Three trials reported on growth and bone maturation and two trials reported on height velocity. One trial found height velocity was reduced at six months in 26 participants given once daily HC 25 mg/m²/day compared to once daily HC 15 mg/m²/day (both groups also received fludrocortisone 0.1 mg/day), but as the quality of the evidence was very low we are unsure whether the variation in HC dose caused the difference. There were no differences noted in growth hormone or IGF1 levels. The results from another trial (44 participants) indicate no difference in growth velocity between HC and PD at one year (very low-quality evidence), but this trial did report that once daily PD treatment may lead to better control of bone maturation compared to HC in prepubertal children and that the absolute change in bone age/chronological age ratio was higher in the HC group compared to the PD group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There are currently limited trials comparing the efficacy and safety of different glucocorticoid replacement regimens for treating 21-hydroxylase deficiency CAH in children and adults and we were unable to draw any firm conclusions based on the evidence that was presented in the included trials.\nNo trials included long-term outcomes such as quality of life, prevention of adrenal crisis, presence of osteopenia, presence of testicular or ovarian adrenal rest tumours, subfertility and final adult height. There were no trials examining a modified-release formulation of HC or use of 24-hour circadian continuous subcutaneous infusion of hydrocortisone. As a consequence, uncertainty remains about the most effective form of glucocorticoid replacement therapy in CAH for children and adults.\nFuture trials should include both children and adults with CAH. A longer duration of follow-up is required to monitor biochemical and clinical outcomes."
+    }
+  ],
+  "pls_title": "Glucocorticoid replacement regimens in the treatment of 21-hydroxylase deficiency congenital adrenal hyperplasia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Steroid replacement therapy is used for treating congenital adrenal hyperplasia (CAH) due to 21-hydroxylase deficiency in children and adults; we looked at the evidence for how well different regimens work and how safe they are."
+    },
+    {
+      "heading": "Background",
+      "text": "CAH is a genetic disorder of the adrenal glands that affects the body's general health, growth, and development. Adrenal glands sit above the kidneys and are responsible for making the hormones cortisol and aldosterone. Cortisol helps to regulate blood sugar and blood pressure; and aldosterone is needed to control the salt concentration in the blood. The most common form of CAH is 21-hydroxylase deficiency (more than 90% of cases). In a child with this type of CAH, the adrenal glands can not make enough cortisol and aldosterone. The glands overwork trying to make these hormones and end up making too many androgens (steroid hormones which regulate the development and maintenance of male characteristics in a person). Steroid medicines similar to cortisol are used to replace cortisol, and fludrocortisone (hormones that are similar to aldosterone) are the usual treatment for CAH due to 21-hydroxylase deficiency.\nThere are many different schedules and formulations of steroid replacement therapies, e.g. daily, twice-daily, three-times daily, more than three-times daily medications, modified-release formulation of hydrocortisone or using a 24-hour circadian continuous infusion of hydrocortisone under the skin. We wanted to know which is more effective in treating 21-hydroxylase deficiency CAH in children and adults."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to: 24 June 2019."
+    },
+    {
+      "heading": "Trial characteristics",
+      "text": "The review included five trials (six references) comparing different steroid replacement regimens in 101 people with 21-hydroxylase deficiency CAH. The number of people in each trial varied from six to 44 and they ranged in age from 3.6 months to 21 years. We also found six studies that are still ongoing."
+    },
+    {
+      "heading": "Key results",
+      "text": "All trials used an oral therapy, but with different daily schedules and dose levels of steroids. Three trials compared different dose schedules of hydrocortisone, one trial compared hydrocortisone to prednisolone and dexamethasone and one trial compared hydrocortisone with fludrocortisone to prednisolone with fludrocortisone. We found no trials using a modified-release formulation of hydrocortisone or a continuous 24-hour delivery under the skin of hydrocortisone.\nFive trials reported androgen normalisation but using different measurements; none of these results showed any consistent and real difference between therapies. In one trial (26 participants) participants taking a higher dose of hydrocortisone reported a higher growth rate, but we are not sure whether this was directly due to the treatment. In a second trial (44 participants) comparing hydrocortisone to prednisolone we are unsure whether the therapies affect growth rate (due to the very low quality of the evidence).\nNo trials included long-term outcomes for quality of life, preventing an adrenal crisis, presence of bone fragility, presence of testicular or ovarian adrenal rest tumours, difficulty in conceiving and final adult height."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Many trials had a high or unclear overall risk of bias. There were problems with the quality of the evidence, which was judged to be very low for all outcomes we considered across all the trials. This was because the trials were only small and if they compared a second treatment after the first, they did not leave enough time for the effects of the first treatment to clear. Also, people taking part had previously been treated with different glucocorticoids."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is not enough evidence to show which steroid replacement treatment schedule results in better outcomes or which is the most effective form of steroid replacement therapy in CAH for adults and children. Large, well-designed trials are needed to assess the effectiveness and safety of different steroid replacement therapies for treating 21-hydroxylase deficiency CAH in children and adults. A longer duration of follow-up is needed to monitor biochemical and clinical outcomes."
+    }
+  ]
+}

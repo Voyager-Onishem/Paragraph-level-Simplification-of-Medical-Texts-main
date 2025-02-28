@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011427.pub2",
+  "name": "Prehospital stroke scales as screening tools for early identification of stroke and transient ischemic attack ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Rapid and accurate detection of stroke by paramedics or other emergency clinicians at the time of first contact is crucial for timely initiation of appropriate treatment. Several stroke recognition scales have been developed to support the initial triage. However, their accuracy remains uncertain and there is no agreement which of the scales perform better."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically identify and review the evidence pertaining to the test accuracy of validated stroke recognition scales, as used in a prehospital or emergency room (ER) setting to screen people suspected of having stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and the Science Citation Index to 30 January 2018. We handsearched the reference lists of all included studies and other relevant publications and contacted experts in the field to identify additional studies or unpublished data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies evaluating the accuracy of stroke recognition scales used in a prehospital or ER setting to identify stroke and transient Ischemic attack (TIA) in people suspected of stroke. The scales had to be applied to actual people and the results compared to a final diagnosis of stroke or TIA. We excluded studies that applied scales to patient records; enrolled only screen-positive participants and without complete 2 × 2 data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently conducted a two-stage screening of all publications identified by the searches, extracted data and assessed the methodologic quality of the included studies using a tailored version of QUADAS-2. A third review author acted as an arbiter. We recalculated study-level sensitivity and specificity with 95% confidence intervals (CI), and presented them in forest plots and in the receiver operating characteristics (ROC) space. When a sufficient number of studies reported the accuracy of the test in the same setting (prehospital or ER) and the level of heterogeneity was relatively low, we pooled the results using the bivariate random-effects model. We plotted the results in the summary ROC (SROC) space presenting an estimate point (mean sensitivity and specificity) with 95% CI and prediction regions. Because of the small number of studies, we did not conduct meta-regression to investigate between-study heterogeneity and the relative accuracy of the scales. Instead, we summarized the results in tables and diagrams, and presented our findings narratively."
+    },
+    {
+      "heading": "Main results",
+      "text": "We selected 23 studies for inclusion (22 journal articles and one conference abstract). We evaluated the following scales: Cincinnati Prehospital Stroke Scale (CPSS; 11 studies), Recognition of Stroke in the Emergency Room (ROSIER; eight studies), Face Arm Speech Time (FAST; five studies), Los Angeles Prehospital Stroke Scale (LAPSS; five studies), Melbourne Ambulance Stroke Scale (MASS; three studies), Ontario Prehospital Stroke Screening Tool (OPSST; one study), Medic Prehospital Assessment for Code Stroke (MedPACS; one study) and PreHospital Ambulance Stroke Test (PreHAST; one study). Nine studies compared the accuracy of two or more scales. We considered 12 studies at high risk of bias and one with applicability concerns in the patient selection domain; 14 at unclear risk of bias and one with applicability concerns in the reference standard domain; and the risk of bias in the flow and timing domain was high in one study and unclear in another 16.\nWe pooled the results from five studies evaluating ROSIER in the ER and five studies evaluating LAPSS in a prehospital setting. The studies included in the meta-analysis of ROSIER were of relatively good methodologic quality and produced a summary sensitivity of 0.88 (95% CI 0.84 to 0.91), with the prediction interval ranging from approximately 0.75 to 0.95. This means that the test will miss on average 12% of people with stroke/TIA which, depending on the circumstances, could range from 5% to 25%. We could not obtain a reliable summary estimate of specificity due to extreme heterogeneity in study-level results. The summary sensitivity of LAPSS was 0.83 (95% CI 0.75 to 0.89) and summary specificity 0.93 (95% CI 0.88 to 0.96). However, we were uncertain in the validity of these results as four of the studies were at high and one at uncertain risk of bias. We did not report summary estimates for the rest of the scales, as the number of studies per test per setting was small, the risk of bias was high or uncertain, the results were highly heterogenous, or a combination of these.\nStudies comparing two or more scales in the same participants reported that ROSIER and FAST had similar accuracy when used in the ER. In the field, CPSS was more sensitive than MedPACS and LAPSS, but had similar sensitivity to that of MASS; and MASS was more sensitive than LAPSS. In contrast, MASS, ROSIER and MedPACS were more specific than CPSS; and the difference in the specificities of MASS and LAPSS was not statistically significant."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In the field, CPSS had consistently the highest sensitivity and, therefore, should be preferred to other scales. Further evidence is needed to determine its absolute accuracy and whether alternatives scales, such as MASS and ROSIER, which might have comparable sensitivity but higher specificity, should be used instead, to achieve better overall accuracy. In the ER, ROSIER should be the test of choice, as it was evaluated in more studies than FAST and showed consistently high sensitivity. In a cohort of 100 people of whom 62 have stroke/TIA, the test will miss on average seven people with stroke/TIA (ranging from three to 16). We were unable to obtain an estimate of its summary specificity. Because of the small number of studies per test per setting, high risk of bias, substantial differences in study characteristics and large between-study heterogeneity, these findings should be treated as provisional hypotheses that need further verification in better-designed studies."
+    }
+  ],
+  "pls_title": "Accuracy of prehospital stroke scales to identify people with stroke or transient ischemic attack (TIA)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Stroke is a life-threatening medical condition in which brain tissue is damaged. This could be caused by a clot blocking the blood supply to part of the brain or bleeding in the brain. If symptoms resolve within 24 hours without lasting consequences, the condition is called TIA (mini stroke). Effective treatment depends on early identification of stroke and any delays may result in brain damage or death.\nEmergency medical services are the first point of contact for people experiencing symptoms suggestive of stroke. Medical responders could identify people with stroke more accurately if they use checklists called stroke recognition scales. Such scales include symptoms and other readily-available information. A positive result on the scale indicates high risk of stroke and the need of urgent specialist assessment. The scales do not differentiate between stroke and TIA; this is done in hospital by a neurologist or stroke physician.\nOur objective was to review the research evidence on how accurately stroke recognition scales can detect stroke or TIA when used by paramedics or other prehospital clinicians, who are the first point of contact for people suspected of stroke."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 30 January 2018. We included studies assessing the accuracy of stroke recognition scales when applied to adults suspected of stroke out of hospital.\nWe included 23 studies evaluating the following scales: Cincinnati Prehospital Stroke Scale (CPSS; 11 studies), Recognition of Stroke in the Emergency Room (ROSIER; eight studies), Face Arm Speech Time (FAST; five studies), Los Angeles Prehospital Stroke Scale (LAPSS; five studies), Melbourne Ambulance Stroke Scale (MASS; three studies), Ontario Prehospital Stroke Screening Tool (OPSST; one study), Medic Prehospital Assessment for Code Stroke (MedPACS; one study) and PreHospital Ambulance Stroke Test (PreHAST; one study). Nine studies compared two or more scales in the same people. The results from five studies were combined to estimate the accuracy of ROSIER in the emergency room (ER) and five studies to estimate the accuracy of LAPSS when used by ambulance clinicians."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Many of the studies were of poor or unclear quality and we could not be sure that their results were valid."
+    },
+    {
+      "heading": "Key results of the accuracy of the evaluated prehospital stroke scales",
+      "text": "Studies differed considerably in terms of included participants and other characteristics. As a consequence, studies evaluating the same scale reported variable results.\nWe combined five studies evaluating ROSIER in the ER and obtained average sensitivity of 88% (88 out of 100 people with stroke/TIA will test positive on ROSIER). We were unable to obtain an estimate of specificity (how many people without stroke/TIA will test negative).\nWe also combined the results for LAPSS, but the included studies were of poor quality and the results may not be valid. The rest of the scales were evaluated in a smaller number of studies or the results were too variable to be combined statistically.\nA small number of studies compared two or more scales when applied to the same participants. Such studies are more likely to produce valid results as the scales are used in the same circumstances. They reported that in the ER, ROSIER and FAST had similar accuracy, but ROSIER was evaluated in more studies. When used by ambulance staff, CPSS identified more people with stroke/TIA in all studies, but also more people without stroke/TIA tested positive."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Current evidence suggests that CPSS should be used by ambulance clinicians in the field. Further research is needed to estimate the proportion of wrong results and whether alternatives scales, such as MASS and ROSIER, which might have comparable sensitivity but higher specificity, should be used instead to achieve better overall accuracy. In the ER, ROSIER should be the test of choice. In a group of 100 people of whom 62 have stroke/TIA, the test will miss on average seven people with stroke/TIA (ranging from three to 16). Because of the small number of studies evaluating the tests in a specific setting, poor quality, substantial differences in study characteristics and variability in results, these findings should be treated with caution and need further verification in better-designed studies."
+    }
+  ]
+}

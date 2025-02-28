@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006420.pub2",
+  "name": "Isolation as a strategy for controlling the transmission of hepatitis C virus (HCV) infection in haemodialysis units ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The hepatitis C virus (HCV) infection affects about 2% of the world's population and can cause chronic liver infection and persistent long-term sequelae such as cirrhosis and liver cancer.\nThe prevalence of HCV infection among people on haemodialysis is often higher than the general population. The virus is easily transmitted parenterally, and blood transfusions have previously played a significant role in transmission; however, erythropoietin therapy has reduced the need for transfusions, and coupled with improved screening of donated blood, has significantly decreased transmission by transfusion. Although control of hospital-acquired infection has improved with the advent of biosafety measures, stopping HCV transmission in haemodialysis units remains challenging.\nIsolating people infected with HCV involves physical separation from others to limit direct or indirect transmission and includes a number of strategies during dialysis. The evidence for isolating people infected with HCV during haemodialysis is sparse with some inconsistencies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of isolation of HCV-infected patients during haemodialysis on the transmission of HCV to other patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register to 26 November 2015 through contact with the Information Specialist using search terms relevant to this review. We also searched the Latin American and Caribbean Health Sciences Literature Database (LILACS) (1982 to 2015), Web of Science Conference Proceedings Citation Index-Science (CPCI-S, 1990 to 2015), ProQuest Dissertations & Theses Database (1990 to 2015), and Open Grey (1990 to 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs), quasi-RCTs and cluster RCTs evaluating the clinical benefits and harms of isolating HCV-infected patients during haemodialysis on the transmission of HCV to other patients. We considered incidence of dialysis-acquired HCV infection, all-cause mortality, and adverse effects associated with isolation as the primary outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) or standardised mean difference (SMD) and 95% CI for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Only one study, which included 12 centres was identified: four centres used dedicated haemodialysis machines for HCV-infected patients and eight centres used non-dedicated machines. The total number of patients enrolled was 593. One centre was excluded after randomisation. Random sequence generation was not described and allocation concealment was not performed. Participants and personnel were not blinded and blinding of outcome assessors was not reported. Only 74.5% of the patients were followed for 9 months; and 47.3% were followed for an additional 9 months. The authors only reported one outcome, measuring the difference in the incidence of HCV in both groups. The authors did not consider the exposure time, to determine the adjusted rate of seroconversion risk/patient-year.\n\nThe study reported that the incidence of HCV infection during the first follow-up period (9 months) was 1.6% in the dedicated group, and 4.7% in the non-dedicated one (446 patients analysed out of 593 randomised; RR 0.34, 95% CI 0.11 to 1.07). During the second follow-up period (18 months) the incidence was 1.3% in the dedicated group and 5.8% in the control (281 patients analysed out of 593 randomised; RR 0.22, 95% CI 0.05 to 1.02). Therefore, we found no differences in terms of the number of participants developing HCV infection when comparing the dedicated group with the usual care. Moreover, the evidence was of very low quality, which means that we have very little confidence in the effect estimate."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The benefits and harms of isolation of HCV-infected patients during haemodialysis on the transmission of HCV to other patients are uncertain. Evidence from one short-duration cluster-randomised study with a high risk of bias did not find differences in terms of the number of participants developing HCV infection when comparing the use of dedicated haemodialysis machines for HCV infected patients with the use of non-dedicated machines."
+    }
+  ],
+  "pls_title": "Isolation as a strategy for controlling the transmission of hepatitis C virus (HCV) infection in haemodialysis units",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "The hepatitis C virus (HCV) is easily transmitted intravenously, such as blood transfusions and the use of haemodialysis. It can cause a persistent infection and chronic liver disease. The frequency of HCV is higher among people on haemodialysis than the general population; and is associated with increased risk of death from heart disease and liver. We wanted to find out if the isolation of people with HCV during haemodialysis (using a different room, machines or dedicated staff, a specific shift) was effective in limiting the direct or indirect transmission of the virus to non-infected patients."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We conducted an extensive literature search to November 26, 2015, but only found one study looking at isolation as a strategy for controlling the transmission of HCV infection."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "This one study included 12 centres (593 patients). Four centres assigned HCV-infected patients to a dedicated haemodialysis machine and eight centres did not. This study reported the incidence of HCV in haemodialysis patients decreased with the use of dedicated machines; however it was not possible to determine the benefits and harms associated with isolation, cost, or mortality from the disease."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is insufficient evidence, but additional studies would help clarify the role of isolation to reduce the transmission of HCV in haemodialysis patients."
+    }
+  ]
+}

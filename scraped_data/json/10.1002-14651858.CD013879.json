@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013879",
+  "name": "COVID‐19 and its cardiovascular effects: a systematic review of prevalence studies",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A small minority of people with coronavirus disease 2019 (COVID-19) develop a severe illness, characterised by inflammation, microvascular damage and coagulopathy, potentially leading to myocardial injury, venous thromboembolism (VTE) and arterial occlusive events. People with risk factors for or pre-existing cardiovascular disease may be at greater risk."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the prevalence of pre-existing cardiovascular comorbidities associated with suspected or confirmed cases of COVID-19 in a variety of settings, including the community, care homes and hospitals. We also assessed the nature and rate of subsequent cardiovascular complications and clinical events in people with suspected or confirmed COVID-19."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted an electronic search from December 2019 to 24 July 2020 in the following databases: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, covid-19.cochrane.org, ClinicalTrials.gov and EU Clinical Trial Register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included prospective and retrospective cohort studies, controlled before-and-after, case-control and cross-sectional studies, and randomised controlled trials (RCTs). We analysed controlled trials as cohorts, disregarding treatment allocation. We only included peer-reviewed studies with 100 or more participants, and excluded articles not written in English or only published in pre-print servers."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the search results and extracted data. Given substantial variation in study designs, reported outcomes and outcome metrics, we undertook a narrative synthesis of data, without conducting a meta-analysis. We critically appraised all included studies using the Joanna Briggs Institute (JBI) checklist for prevalence studies and the JBI checklist for case series."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 220 studies. Most of the studies originated from China (47.7%) or the USA (20.9%); 9.5% were from Italy. A large proportion of the studies were retrospective (89.5%), but three (1.4%) were RCTs and 20 (9.1%) were prospective.\nUsing JBI’s critical appraisal checklist tool for prevalence studies, 75 studies attained a full score of 9, 57 studies a score of 8, 31 studies a score of 7, 5 studies a score of 6, three studies a score of 5 and one a score of 3; using JBI’s checklist tool for case series, 30 studies received a full score of 10, six studies a score of 9, 11 studies a score of 8, and one study a score of 5\nWe found that hypertension (189 studies, n = 174,414, weighted mean prevalence (WMP): 36.1%), diabetes (197 studies, n = 569,188, WMP: 22.1%) and ischaemic heart disease (94 studies, n = 100,765, WMP: 10.5%)  are highly prevalent in people hospitalised with COVID-19, and are associated with an increased risk of death. In those admitted to hospital, biomarkers of cardiac stress or injury are often abnormal, and the incidence of a wide range of cardiovascular complications is substantial, particularly arrhythmias (22 studies, n = 13,115, weighted mean incidence (WMI) 9.3%), heart failure (20 studies, n = 29,317, WMI: 6.8%) and thrombotic complications (VTE: 16 studies, n = 7700, WMI: 7.4%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This systematic literature review indicates that cardiometabolic comorbidities are common in people who are hospitalised with a COVID-19 infection, and cardiovascular complications are frequent. We plan to update this review and to conduct a formal meta-analysis of outcomes based on a more homogeneous selected subsample of high-certainty studies."
+    }
+  ],
+  "pls_title": "What type of heart and blood vessel problems complicate COVID-19 infections, how common are they and what other medical conditions do these patients have?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Many people infected by COVID-19 have few or no symptoms. However, COVID-19 can make the blood ‘sticky’, clogging up both small blood vessels (capillaries) and large ones, which may cause heart attacks, strokes or blood clots in the legs or lungs. These can be fatal. People who have diabetes, high blood pressure or pre-existing heart problems are at greater risk of developing such complications if they get COVID-19."
+    },
+    {
+      "heading": "Our research question",
+      "text": "We wanted to find out, in cases of confirmed or suspected COVID-19:\n- what are the most common pre-existing heart and blood vessel (cardiovascular) problems (for example, diabetes, high blood pressure and obesity)\n- what are the most common complications affecting the heart and blood vessels (for example, irregular heartbeat, blood clots, heart failure and stroke)  in different setting (in the community, care homes or in hospital)."
+    },
+    {
+      "heading": "What we did",
+      "text": "We searched for published studies that reported heart and blood vessel problems in people with possible or confirmed COVID-19. Studies could be of any design and could take place anywhere, but they had to have been checked by other researchers (be peer-reviewed), be written in English, and include at least 100 cases.\nThe evidence is current until July 2020."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 220 studies that reported relevant information, but the quality of the information was often poor. Studies were mostly from China and the USA. Most studies only had information on the small minority of cases that were admitted to hospital with COVID-19, often to the intensive care unit.\nWe found that high blood pressure, diabetes and heart disease are very common in people hospitalised with COVID-19 and are associated with an increased risk of death. More than one-third of patients with COVID-19 had a history of high blood pressure, 23.5% had a pre-existing heart or blood vessel problem, 22.1% had diabetes, and 21.6% were obese (many people had more than one of these conditions).\nThe most common cardiovascular complication in people with COVID-19 was an irregular heartbeat (atrial fibrillation; 8.5%). Blood clots in the legs (6.1%) or lungs (4.3%), and heart failure (6.8%) were also common, but the reported rates may be underestimated because the studies did not always carry out appropriate investigations. Heart attacks (1.7%) and strokes (1.2%) were reported less often. Blood tests also often suggested heart damage or stress."
+    },
+    {
+      "heading": "Next steps",
+      "text": "The studies focused on people in hospital, with severe COVID-19, so the results may not apply to people who had milder COVID-19 who were not hospitalised. The studies were very different from each other and did not always report the results in the same way or use the most reliable methods. Accordingly, our confidence in the precision of the prevalence of pre-existing disease and of cardiovascular complications is not high.\nWe plan to update this review. However, in future, we will focus only on higher-quality evidence to increase the strength of our findings."
+    }
+  ]
+}

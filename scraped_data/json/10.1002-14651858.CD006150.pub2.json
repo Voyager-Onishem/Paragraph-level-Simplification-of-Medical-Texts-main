@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006150.pub2",
+  "name": "Adjunctive corticosteroids for Pneumocystis jiroveci pneumonia in patients with HIV infection ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pneumocystis jiroveci pneumonia (PCP) remains the most common opportunistic infection in patients infected with the human immunodeficiency virus (HIV). Among patients with HIV infection and PCP the mortality rate is 10% to 20% during the initial infection and this increases substantially with the need for mechanical ventilation. It has been suggested that corticosteroids adjunctive to standard treatment for PCP could prevent the need for mechanical ventilation and decrease mortality in these patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of adjunctive corticosteroids on overall mortality and the need for mechanical ventilation in HIV-infected patients with PCP and substantial hypoxaemia (arterial oxygen partial pressure < 70 mmHg or alveolar-arterial gradient > 35 mmHg on room air)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the original review we searched The Cochrane Library (2004, Issue 4), MEDLINE (January 1980 to December 2004) and EMBASE (January 1985 to December 2004) without language restrictions. We further reviewed the reference lists from previously published overviews, searched UptoDate version 2005 and Clinical Evidence Concise (Issue 12, 2004), contacted experts in the field and searched the reference lists of identified publications for citations of additional relevant articles.\nIn this update of our review, we searched the above-mentioned databases in September 2010 and April 2014 for trials published since our original review. We also searched for ongoing trials in ClinicalTrials.gov and the World Health Organization International Clinical Trial Registry Platform (ICTRP). We searched for conference abstracts via AEGIS."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials that compared corticosteroids to placebo or usual care in HIV-infected patients with PCP in addition to baseline treatment with trimethoprim-sulfamethoxazole, pentamidine or dapsone-trimethoprim, and reported mortality data. We excluded trials in patients with no or mild hypoxaemia (arterial oxygen partial pressure > 70 mmHg or an alveolar-arterial gradient < 35 mmHg on room air) and trials with a follow-up of less than 30 days."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two teams of review authors independently evaluated the methodology and extracted data from each primary study. We pooled treatment effects across studies and calculated a weighted average risk ratio of overall mortality in the treatment and control groups using a random-effects model.\nIn this update of our review, we used the GRADE methodology to assess evidence quality."
+    },
+    {
+      "heading": "Main results",
+      "text": "Of 2029 screened records, we included seven studies in the review and six in the meta-analysis. Risk of bias varied: the randomisation and allocation process was often not clearly described, five of seven studies were double-blind and there was almost no missing data. The quality of the evidence for mortality was high. Risk ratios for overall mortality for adjunctive corticosteroids were 0.56 (95% confidence interval (CI) 0.32 to 0.98) at one month and 0.59 (95% CI 0.41 to 0.85) at three to four months of follow-up. In adults, to prevent one death, numbers needed to treat are nine patients in a setting without highly active antiretroviral therapy (HAART) available, and 23 patients with HAART available. The three largest trials provided moderate quality data on the need for mechanical ventilation, with a risk ratio of 0.38 (95% CI 0.20 to 0.73) in favour of adjunctive corticosteroids. One study was conducted in infants, suggesting a risk ratio for death in hospital of 0.81 (95% CI 0.51 to 1.29; moderate quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The number and size of trials investigating adjunctive corticosteroids for HIV-infected patients with PCP is small, but the evidence from this review suggests a beneficial effect for adult patients with substantial hypoxaemia. There is insufficient evidence on the effect of adjunctive corticosteroids on survival in infants."
+    }
+  ],
+  "pls_title": "Adjunctive corticosteroids for Pneumocystis jiroveci pneumonia in patients with HIV infection",
+  "pls_type": "long",
+  "pls": "Pneumocystis jiroveci pneumonia (PCP), formerly called Pneumocystis carinii pneumonia, is the most common opportunistic infection among patients infected with HIV. In 1990, based on evidence from five randomised controlled trials, an expert panel recommended the use of corticosteroids for HIV-infected patients with PCP and substantial hypoxaemia (low levels of oxygen in the blood).\nThe objective of this systematic review was to assess the effects of adjunctive (additional) corticosteroids on mortality and the need for mechanical ventilation in patients co-infected with HIV and PCP. We searched for eligible studies up to April 2014. We included seven studies in this review and six in the meta-analysis (combining of study data).\nThe number and size of the trials investigating adjunctive corticosteroids for HIV-infected patients co-infected with PCP is small (the six trials included in the meta-analysis comprised 242 individuals in the intervention groups and 247 individuals in the control groups; the trial on infants comprised 47 individuals in the intervention group and 53 in the control group). Follow-up ranged from three to 14 months. The evidence from this review was of high quality for mortality and of moderate quality for need for mechanical ventilation and suggests a beneficial effect for adult patients with substantial hypoxaemia. For infants (18 months or younger) with HIV and suspected PCP there is insufficient evidence on whether the effect of adjunctive corticosteroids could improve survival (the confidence interval for the estimate of effect is wide, includes both clinically relevant benefit and harm and is of moderate quality)."
+}

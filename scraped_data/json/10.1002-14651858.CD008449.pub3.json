@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD008449.pub3",
+  "name": "Mirror therapy for improving motor function after stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Mirror therapy is used to improve motor function after stroke. During mirror therapy, a mirror is placed in the person's midsagittal plane, thus reflecting movements of the non-paretic side as if it were the affected side."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarise the effectiveness of mirror therapy compared with no treatment, placebo or sham therapy, or other treatments for improving motor function and motor impairment after stroke. We also aimed to assess the effects of mirror therapy on activities of daily living, pain, and visuospatial neglect."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group's Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, AMED, PsycINFO and PEDro (last searched 16 August 2017). We also handsearched relevant conference proceedings, trials and research registers, checked reference lists, and contacted trialists, researchers and experts in our field of study."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and randomised cross-over trials comparing mirror therapy with any control intervention for people after stroke."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials based on the inclusion criteria, documented the methodological quality, assessed risks of bias in the included studies, and extracted data. We assessed the quality of the evidence using the GRADE approach. We analysed the results as standardised mean differences (SMDs) or mean differences (MDs) for continuous variables, and as odds ratios (ORs) for dichotomous variables."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 62 studies with a total of 1982 participants that compared mirror therapy with other interventions. Of these, 57 were randomised controlled trials and five randomised cross-over trials. Participants had a mean age of 59 years (30 to 73 years). Mirror therapy was provided three to seven times a week, between 15 and 60 minutes for each session for two to eight weeks (on average five times a week, 30 minutes a session for four weeks).When compared with all other interventions, we found moderate-quality evidence that mirror therapy has a significant positive effect on motor function (SMD 0.47, 95% CI 0.27 to 0.67; 1173 participants; 36 studies) and motor impairment (SMD 0.49, 95% CI 0.32 to 0.66; 1292 participants; 39 studies). However, effects on motor function are influenced by the type of control intervention. Additionally, based on moderate-quality evidence, mirror therapy may improve activities of daily living (SMD 0.48, 95% CI 0.30 to 0.65; 622 participants; 19 studies). We found low-quality evidence for a significant positive effect on pain (SMD −0.89, 95% CI −1.67 to −0.11; 248 participants; 6 studies) and no clear effect for improving visuospatial neglect (SMD 1.06, 95% CI −0.10 to 2.23; 175 participants; 5 studies). No adverse effects were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results indicate evidence for the effectiveness of mirror therapy for improving upper extremity motor function, motor impairment, activities of daily living, and pain, at least as an adjunct to conventional rehabilitation for people after stroke. Major limitations are small sample sizes and lack of reporting of methodological details, resulting in uncertain evidence quality."
+    }
+  ],
+  "pls_title": "Mirror therapy for improving movement after stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does mirror therapy improve movement, the performance of daily activities, pain, and lack of attention to and awareness of the affected field of vision (visuospatial neglect) after stroke."
+    },
+    {
+      "heading": "Backround",
+      "text": "Paralysis of the arm or leg is common after stroke and frequently causes problems with activities of daily living such as walking, dressing, or eating. Mirror therapy (MT) is a rehabilitation therapy in which a mirror is placed between the arms or legs so that the image of a moving non-affected limb gives the illusion of normal movement in the affected limb. By this setup, different brain regions for movement, sensation, and pain are stimulated. However, the precise working mechanisms of mirror therapy are still unclear. We conducted a search for literature in various databases and extracted the data of relevant studies."
+    },
+    {
+      "heading": "Search date",
+      "text": "This review identified studies up to 16 August 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 62 relevant studies, of which 57 randomly allocated participants to receive either MT or a control therapy (randomised controlled trials) and five provided both therapies to all participants, but in random order (cross-over trials). The studies involved a total of 1982 participants with a mean age of 59 years (30 to 73 years) after stroke. Mirror therapy was provided three to seven times a week, between 15 and 60 minutes for each session for two to eight weeks (on average five times a week, 30 minutes a session for four weeks)."
+    },
+    {
+      "heading": "Key results",
+      "text": "At the end of treatment, mirror therapy moderately improved movement of the affected upper and lower limb and the ability to carry out daily activities for people within and also beyond six months after the stroke. Mirror therapy reduced pain after stroke, but mainly in people with a complex regional pain syndrome. We found no clear effect for visuospatial neglect. The beneficial effects on movement were maintained for six months, but not in all study groups. No adverse effects were reported."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The studies provide moderately-reliable evidence that MT improves movement (motor function, motor impairment) and the performance of daily activities. However, there was only low reliability that MT decreases pain and visuospatial neglect. This may be due to the small number of studies. Further research is needed, with larger methodologically-sound studies."
+    }
+  ]
+}

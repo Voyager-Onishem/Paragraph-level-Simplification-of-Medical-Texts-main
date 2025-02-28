@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006826.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Both long-acting beta2-agonists and inhaled corticosteroids have been recommended in guidelines for the treatment of chronic obstructive pulmonary disease (COPD). Their co-administration in a combined inhaler is intended to facilitate adherence to medication regimens and to improve efficacy. Three preparations are currently available: fluticasone propionate/salmeterol (FPS). budesonide/formoterol (BDF) and mometasone furoate/formoterol (MF/F)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of combined long-acting beta2-agonist and inhaled corticosteroid (LABA/ICS) preparations, as measured by clinical endpoints and pulmonary function testing, compared with inhaled corticosteroids (ICS) alone, in the treatment of adults with chronic obstructive pulmonary disease (COPD)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register of trials, which is compiled from systematic searches of multiple literature databases. The search was conducted in June 2013. In addition, we checked the reference lists of included studies and contacted the relevant manufacturers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were included if they were randomised and double-blind. Compared studies combined LABA/ICS with the ICS component."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. The primary outcomes were exacerbations, mortality and pneumonia. Health-related quality of life (as measured by validated scales), lung function and side effects were secondary outcomes. Dichotomous data were analysed as fixed-effect odds ratios with 95% confidence intervals (CIs), and continuous data as mean differences or rate ratios and 95% CIs."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 15 studies of good methodological quality met the inclusion criteria by randomly assigning 7814 participants with predominantly poorly reversible, severe COPD. Data were most plentiful for the FPS combination. Exacerbation rates were significantly reduced with combination therapies (rate ratio 0.87, 95% CI 0.80 to 0.94, 6 studies, N = 5601) compared with ICS alone. The mean exacerbation rate in the control (ICS) arms of the six included studies was 1.21 exacerbations per participant per year (range 0.88 to 1.60), and we would expect this to be reduced to a rate of 1.05 (95% CI 0.97 to 1.14) among those given combination therapy. Mortality was also lower with the combination (odds ratio (OR) 0.78, 95% CI 0.64 to 0.94, 12 studies, N = 7518) than with ICS alone, but this was heavily weighted by a three-year study of FPS. When this study was removed, no significant mortality difference was noted. The reduction in exacerbations did not translate into significantly reduced rates of hospitalisation due to COPD exacerbation (OR 0.93, 95% CI 0.80 to 1.07, 10 studies, N = 7060). Lung function data favoured combination treatment in the FPS, BDF and MF/F trials, but the improvement was small. Small improvements in health-related quality of life were measured on the St George's Respiratory Questionnaire (SGRQ) with FPS or BDF compared with ICS, but this was well below the minimum clinically important difference. Adverse event profiles were similar between the two treatments arms, and rates of pneumonia when it was diagnosed by chest x-ray (CXR) were lower than those reported in earlier trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Combination ICS and LABA offer some clinical benefits in COPD compared with ICS alone, especially for reduction in exacerbations. This review does not support the use of ICS alone when LABAs are available. Adverse events were not significantly different between treatments. Further long-term assessments using practical outcomes of current and new 24-hour LABAs will help determine their efficacy and safety. For robust comparisons as to their relative effects, long-term head-to-head comparisons are needed."
+    }
+  ],
+  "pls_title": "Combination therapy of inhaled steroids and long-acting beta2-agonists compared to inhaled steroids alone for people with COPD",
+  "pls_type": "long",
+  "pls": "Combinations of two classes of medication (long-acting beta2-agonists (LABAs) and inhaled corticosteroids (ICS)) in one inhaler have been developed to treat people with COPD, as this may make it easier to take the medication. Three brands of combined inhaler are currently available: budesonide/formoterol (BDF－'Symbicort'), fluticasone propionate/salmeterol (FPS－'Advair' or 'Seretide') and mometasone furoate/formoterol (MF/F－'Dulera'). Both the ICS part and the LABA component of each inhaler are aimed at reducing flare-ups of COPD, which can be debilitating and costly. In addition, the LABA component may improve day-to-day symptoms such as breathlessness and exercise tolerance.\nOur review found 15 studies that compared a combination of ICS/LABA with ICS alone. We found that on the whole, combination inhalers reduced the frequency of flare-ups (not including hospitalisations) compared with ICS alone. The studies showed that on average, the number of exacerbations per participant was reduced, as was the probability of death, during treatment. Quality of life and lung function showed improvement with combination treatment compared with ICS, but no difference between them was noted in terms of adverse effects, or the likelihood of having no flare-ups at all. Future research should assess the efficacy of BDF and MF/F because most evidence gathered to date, including for mortality, has been drawn from FPS studies."
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009259.pub2",
+  "name": "Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Colorectal cancer is the third most frequent cancer in the world. As the sojourn time for this cancer is several years and a good prognosis is associated with early stage diagnosis, screening has been implemented in a number of countries. Both screening with faecal occult blood test and flexible sigmoidoscopy have been shown to reduce mortality from colorectal cancer in randomised controlled trials. The comparative effectiveness of these tests on colorectal cancer mortality has, however, never been evaluated, and controversies exist over which test to choose."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effectiveness of screening for colorectal cancer with flexible sigmoidoscopy to faecal occult blood testing."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE and EMBASE (November 16, 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 11) and reference lists for eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing screening with flexible sigmoidoscopy or faecal occult blood testing to each other or to no screening. Only studies reporting mortality from colorectal cancer were included. Faecal occult blood testing had to be repeated (annually or biennially)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data retrieval and assessment of risk of bias were performed independently by two review authors. Standard meta-analyses using a random-effects model were conducted for flexible sigmoidoscopy and faecal occult blood testing (FOBT) separately and we calculated relative risks with 95% confidence intervals (CI). We used a Bayesian approach (a contrast-based network meta-analysis method) for indirect analyses and presented the results as posterior median relative risk with 95% credibility intervals. We assessed the quality of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified nine studies comprising 338,467 individuals randomised to screening and 405,919 individuals to the control groups. Five studies compared flexible sigmoidoscopy to no screening and four studies compared repetitive guaiac-based FOBT (annually and biennially) to no screening. We did not consider that study risk of bias reduced our confidence in our results. We did not identify any studies comparing the two screening methods directly. When compared with no screening, colorectal cancer mortality was lower with flexible sigmoidoscopy (relative risk 0.72; 95% CI 0.65 to 0.79, high quality evidence) and FOBT (relative risk 0.86; 95% CI 0.80 to 0.92, high quality evidence). In the analyses based on indirect comparison of the two screening methods, the relative risk of dying from colorectal cancer was 0.85 (95% credibility interval 0.72 to 1.01, low quality evidence) for flexible sigmoidoscopy screening compared to FOBT. No complications occurred after the FOBT test itself, but 0.03% of participants suffered a major complication after follow-up. Among more than 60,000 flexible sigmoidoscopy screening procedures and almost 6000 work-up colonoscopies, a major complication was recorded in 0.08% of participants. Adverse event data should be interpreted with caution as the reporting of adverse effects was incomplete."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is high quality evidence that both flexible sigmoidoscopy and faecal occult blood testing reduce colorectal cancer mortality when applied as screening tools. There is low quality indirect evidence that screening with either approach reduces colorectal cancer deaths more than the other. Major complications associated with screening require validation from studies with more complete reporting of harms."
+    }
+  ],
+  "pls_title": "Comparison of two methods used in screening for colorectal cancer",
+  "pls_type": "long",
+  "pls": "Cancer in the large intestine (colon) and rectum is one of the most frequent cancers in developed countries. The disease develops from benign lesions over a time span of about 10 years. If the lesion has turned into cancer, the prognosis is far better if the disease is detected at an early stage. Screening and detection for early cancers and benign precursors may therefore reduce the number of deaths caused by this disease. Cancers and benign precursors may bleed, and the blood can be detected in the stool by specific tests, the so-called faecal occult blood tests (FOBT). If the test is positive (that is blood is detected), the person will be offered a colonoscopy to find the source of bleeding. Unfortunately, FOBT fails to discover a considerable number of cancers and precursor lesions. Therefore, endoscopic examination of the rectum and lower large intestine (the sigmoid colon) has been advocated (called flexible sigmoidoscopy). Flexible sigmoidoscopy is performed with a flexible instrument inserted through the anus and introduced about 50 centimetres into the lower large intestine after cleansing with a small enema. This allows direct visual inspection of the interior wall of the intestine, and benign lesions and malignant tumours may be detected. Benign lesions may be removed in the same session without anaesthesia and without any discomfort for the patient, and a follow-up colonoscopy may be offered.\nThe purpose of this review was to compare the two screening methods (FOBT and flexible sigmoidoscopy) in their ability to reduce the number of deaths due to cancer in the large intestine and rectum.\nWe identified four trials which compared FOBT to no screening and five trials which compared flexible sigmoidoscopy to no screening. No studies compared the two methods directly. Mortality from colorectal cancer was reduced with FOBT screening and screening with flexible sigmoidoscopy. When we compared the two methods, we could not conclude that one was better than the other.\nNo complications occurred after the FOBT test itself, but 0.03% of participants suffered a major complication after follow-up. Among more than 60,000 flexible sigmoidoscopy screening procedures and almost 6000 work-up colonoscopies, a major complication was recorded in 0.08% of participants. These findings should be interpreted with caution as the reporting of adverse effects was incomplete."
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010995.pub3",
+  "name": "Intravenous thrombolytic treatment and endovascular thrombectomy for ischaemic wake‐up stroke ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "About one in five strokes occur during sleep (wake-up stroke). People with wake-up strokes have previously been considered to be ineligible for thrombolytic treatment because the time of stroke onset is unknown. However, recent studies suggest benefit from recanalisation therapies in selected patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of intravenous thrombolysis and endovascular thrombectomy versus control in people with acute ischaemic stroke presenting on awakening from sleep."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last search 24 of May 2021). In addition, we searched the following electronic databases in May 2021: Cochrane Central Register of Controlled Trials (CENTRAL; 2021, Issue 4 of 12, April 2021) in the Cochrane Library, MEDLINE, Embase, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform. We searched the Stroke Trials Registry (last search 7 December 2017, as the site is currently inactive). We also screened references lists of relevant trials, contacted trialists, and undertook forward tracking of relevant references."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of intravenous thrombolytic drugs or endovascular thrombectomy treatments in people with acute ischaemic stroke presenting upon awakening."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors applied the inclusion criteria, extracted data, and assessed risk of bias and the certainty of the evidence using the GRADE approach. We obtained both published and unpublished data for participants with wake-up strokes. We excluded participants with strokes of unknown onset if the symptoms did not begin upon awakening."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven trials with a total of 980 participants, of which five trials with 775 participants investigated intravenous thrombolytic treatment and two trials with 205 participants investigated endovascular thrombectomy in large vessel occlusion in the anterior intracranial circulation. All trials used advanced imaging for selecting patients to treat.\nFor intravenous thrombolytic treatment, good functional outcome (defined as modified Rankin Scale score 0 to 2) at 90 days follow-up was observed in 66% of participants randomised to thrombolytic treatment and 58% of participants randomised to control (risk ratio (RR) 1.13, 95% confidence interval (CI) 1.01 to 1.26; P = 0.03; 763 participants, 5 RCTs; high-certainty evidence). Seven per cent of participants randomised to intravenous thrombolytic treatment and 10% of participants randomised to control had died at 90 days follow-up (RR 0.68, 95% CI 0.43 to 1.07; P = 0.09; 763 participants, 5 RCTs; high-certainty evidence). Symptomatic intracranial haemorrhage occurred in 3% of participants randomised to intravenous thrombolytic treatment and 1% of participants randomised to control (RR 3.47, 95% CI 0.98 to 12.26; P = 0.05; 754 participants, 4 RCTs; high-certainty evidence).\nFor endovascular thrombectomy of large vessel occlusion, good functional outcome at 90 days follow-up was observed in 46% of participants randomised to endovascular thrombectomy and 9% of participants randomised to control (RR 5.12, 95% CI 2.57 to 10.17; P < 0.001; 205 participants, 2 RCTs; high-certainty evidence). Twenty-two per cent of participants randomised to endovascular thrombectomy and 33% of participants randomised to control had died at 90 days follow-up (RR 0.68, 95% CI 0.43 to 1.07; P = 0.10; 205 participants, 2 RCTs; high-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In selected patients with acute ischaemic wake-up stroke, both intravenous thrombolytic treatment and endovascular thrombectomy of large vessel occlusion improved functional outcome without increasing the risk of death. However, a possible increased risk of symptomatic intracranial haemorrhage associated with thrombolytic treatment cannot be ruled out. The criteria used for selecting patients to treatment differed between the trials. All studies were relatively small, and six of the seven studies were terminated early. More studies are warranted in order to determine the optimal criteria for selecting patients for treatment."
+    }
+  ],
+  "pls_title": "Recanalisation therapies for wake-up stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do people who wake up with new acute stroke symptoms benefit from treatments to reopen the blocked blood vessels (recanalisation therapies)?"
+    },
+    {
+      "heading": "Background",
+      "text": "Most strokes are caused by a blockage of a blood vessel in the brain by a blood clot (ischaemic stroke). This is a leading cause of death and disability worldwide. Treatments to reopen blood vessels such as clot-dissolving drugs (thrombolysis) or mechanical devices to remove blood clots (thrombectomy) may improve recovery after ischaemic stroke if blood flow is rapidly restored.\nAbout one in five strokes occur during sleep (wake-up stroke). People with wake-up stroke have traditionally been considered to be ineligible for recanalisation therapies because the time of stroke onset is unknown. However, recent studies of selected patients suggest benefit from recanalisation therapies."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched for randomised controlled trials (a type of study in which people are randomly allocated to one of two or more treatment groups) until 24 May 2021."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included seven trials with a total of 980 participants. Five trials with 775 wake-up stroke participants were randomised to intravenous thrombolytic treatment or to control (either placebo (dummy treatment) or standard medical treatment alone). Two trials with 205 wake-up stroke participants with a blood clot in a large brain artery were randomised to either endovascular mechanical thrombectomy plus standard medical treatment or standard medical treatment alone."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that recanalisation therapies can improve functional outcome and survival in selected patients with wake-up stroke. However, we cannot rule out the possibility that treatment increases the risk of bleeding in the brain. The optimal selection criteria with regard to imaging criteria or time window, or both, for choosing patients to treat is still unclear; these criteria differed between the trials. More trials to investigate this further are therefore warranted."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We judged the included trials to be at low or unclear risk of bias, and the overall certainty of the evidence as high."
+    }
+  ]
+}

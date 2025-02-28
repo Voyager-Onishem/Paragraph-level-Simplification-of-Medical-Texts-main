@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000204.pub2",
+  "name": "Anticholinergic medication for antipsychotic‐induced tardive dyskinesia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antipsychotic (neuroleptic) medication is used extensively to treat people with serious mental illnesses. However, it is associated with a wide range of adverse effects, including movement disorders. Because of this, many people treated with antipsychotic medication also receive anticholinergic drugs in order to reduce some of the associated movement side-effects. However, there is also a suggestion from animal experiments that the chronic administration of anticholinergics could cause tardive dyskinesia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether the use or the withdrawal of anticholinergic drugs (benzhexol, benztropine, biperiden, orphenadrine, procyclidine, scopolamine, or trihexylphenidyl) are clinically effective for the treatment of people with both antipsychotic-induced tardive dyskinesia and schizophrenia or other chronic mental illnesses."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We retrieved 712 references from searching the Cochrane Schizophrenia Group's Study-Based Register of Trials including the registries of clinical trials (16 July 2015 and 26 April 2017). We also inspected references of all identified studies for further trials and contacted authors of trials for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included reports identified in the search if they were controlled trials dealing with people with antipsychotic-induced tardive dyskinesia and schizophrenia or other chronic mental illness who had been randomly allocated to (a) anticholinergic medication versus placebo (or no intervention), (b) anticholinergic medication versus any other intervention for the treatment of tardive dyskinesia, or (c) withdrawal of anticholinergic medication versus continuation of anticholinergic medication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently extracted data from included trials and we estimated risk ratios (RR) with 95% confidence intervals (CIs). We assumed that people who left early had no improvement. We assessed risk of bias and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The previous version of this review included no trials. We identified two trials that could be included from the 2015 and 2017 searches. They randomised 30 in- and outpatients with schizophrenia in the USA and Germany. Overall, the risk of bias was unclear, mainly due to poor reporting: allocation concealment was not described; generation of the sequence was not explicit; studies were not clearly blinded; and outcome data were not fully reported.\nFindings were sparse. One study reported on the primary outcomes and found that significantly more participants allocated to procyclidine (anticholinergic) had not improved to a clinically important extent compared with those allocated to isocarboxazid (MAO-inhibitor) after 40 weeks' treatment (1 RCT, n = 20; RR 4.20, 95% CI 1.40 to 12.58; very low quality evidence ); that there was no evidence of a difference in the incidence of any adverse effects (1 RCT, n = 20; RR 0.33, 95% CI 0.02 to 7.32; very low quality evidence ); or acceptability of treatment (measured by participants leaving the study early) (1 RCT, n = 20; RR 0.33, 95% CI 0.02 to 7.32; very low quality evidence ). The other trial compared anticholinergic withdrawal with anticholinergic continuation and found no evidence of a difference in the incidence of acceptability of treatment (measured by participants leaving the study early) (1 RCT, n = 10; RR 2.14, 95% CI 0.11 to 42.52; very low quality evidence).\nNo trials reported on social confidence, social inclusion, social networks, or personalised quality of life — outcomes designated important to patients. No studies comparing either i. anticholinergics with placebo or no treatment, or ii. studies of anticholinergic withdrawal, were found that reported on the primary outcome 'no clinically important improvement in TD symptoms and adverse events'."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on currently available evidence, no confident statement can be made about the effectiveness of anticholinergics to treat people with antipsychotic-induced tardive dyskinesia. The same applies for the withdrawal of such medications. Whether the withdrawal of anticholinergics may benefit people with antipsychotic-induced TD should be evaluated in a parallel-group, placebo-controlled randomised trial, with adequate sample size and at least 6 weeks of follow-up."
+    }
+  ],
+  "pls_title": "Anticholinergic medication for people who have tardive dyskinesia after taking antipsychotic medication",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": ".\nAre anticholinergic drugs or withdrawal of anticholinergic drugs effective in the treatment of tardive dyskinesia in people with schizophrenia or other similar mental health problems."
+    },
+    {
+      "heading": "Background",
+      "text": ".\nPeople with schizophrenia often hear voices and see things (hallucinations) and have beliefs which are at odds with those held by people without schizophrenia (delusions). The main treatment of these symptoms are antipsychotic drugs. However, these drugs can have debilitating side-effects. Tardive dyskinesia is an involuntary movement that causes the face, mouth, tongue and jaw to convulse, spasm and grimace. It is caused by long-term use, or high doses, of antipsychotic drugs, is difficult to treat and can be incurable. Many people being treated with antipsychotic medication also receive anticholinergic drugs to try to reduce some of these movement side-effects. There is, however, evidence from animal experiments that anticholinergic drugs could cause tardive dyskinesia."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": ".\nThe review includes two small randomised studies with a total of 30 people with schizophrenia who had also developed antipsychotic-induced tardive dyskinesia. Participants in one study received either the anticholinergic drug procyclidine or isocarboxacid, an antidepressant drug. One participant group in the other study was withdrawn from the anticholinergic drug biperiden whereas the other group of participants continued taking biperiden."
+    },
+    {
+      "heading": "Key results",
+      "text": ".\nThere were sparse findings from two small and poorly reported trials. It is uncertain whether giving anticholinergic drugs is helpful in the treatment of tardive dyskinesia for people who are taking antipsychotic medication. It is also uncertain whether the withdrawal of anticholinergic medication improves the symptoms of tardive dyskinesia."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": ".\nAvailable evidence is very low or low quality, limited, and small scale. It is not possible to recommend these drugs or the withdrawal of these drugs as a treatment for tardive dyskinesia. To fully investigate whether the withdrawal of anticholinergic drugs has any positive effects for people with tardive dyskinesia, we need more high quality research data.\nThis plain language summary was adapted by the review authors from a summary originally written by Ben Gray, Senior Peer Researcher, McPin Foundation (mcpin.org)."
+    }
+  ]
+}

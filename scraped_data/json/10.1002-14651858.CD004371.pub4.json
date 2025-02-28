@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD004371.pub4",
+  "name": "Interventions to improve adherence to lipid‐lowering medication",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Lipid-lowering drugs are widely underused, despite strong evidence indicating they improve cardiovascular end points. Poor patient adherence to a medication regimen can affect the success of lipid-lowering treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions aimed at improving adherence to lipid-lowering drugs, focusing on measures of adherence and clinical outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO and CINAHL up to 3 February 2016, and clinical trials registers (ANZCTR and ClinicalTrials.gov) up to 27 July 2016. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We evaluated randomised controlled trials of adherence-enhancing interventions for lipid-lowering medication in adults in an ambulatory setting with a variety of measurable outcomes, such as adherence to treatment and changes to serum lipid levels. Two teams of review authors independently selected the studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors extracted and assessed data, following criteria outlined by the Cochrane Handbook for Systematic Reviews of Interventions. We assessed the quality of the evidence using GRADEPro."
+    },
+    {
+      "heading": "Main results",
+      "text": "For this updated review, we added 24 new studies meeting the eligibility criteria to the 11 studies from prior updates. We have therefore included 35 studies, randomising 925,171 participants. Seven studies including 11,204 individuals compared adherence rates of those in an intensification of a patient care intervention (e.g. electronic reminders, pharmacist-led interventions, healthcare professional education of patients) versus usual care over the short term (six months or less), and were pooled in a meta-analysis. Participants in the intervention group had better adherence than those receiving usual care (odds ratio (OR) 1.93, 95% confidence interval (CI) 1.29 to 2.88; 7 studies; 11,204 participants; moderate-quality evidence). A separate analysis also showed improvements in long-term adherence rates (more than six months) using intensification of care (OR 2.87, 95% CI 1.91 to 4.29; 3 studies; 663 participants; high-quality evidence). Analyses of the effect on total cholesterol and LDL-cholesterol levels also showed a positive effect of intensified interventions over both short- and long-term follow-up. Over the short term, total cholesterol decreased by a mean of 17.15 mg/dL (95% CI 1.17 to 33.14; 4 studies; 430 participants; low-quality evidence) and LDL-cholesterol decreased by a mean of 19.51 mg/dL (95% CI 8.51 to 30.51; 3 studies; 333 participants; moderate-quality evidence). Over the long term (more than six months) total cholesterol decreased by a mean of 17.57 mg/dL (95% CI 14.95 to 20.19; 2 studies; 127 participants; high-quality evidence). Included studies did not report usable data for health outcome indications, adverse effects or costs/resource use, so we could not pool these outcomes. We assessed each included study for bias using methods described in the Cochrane Handbook for Systematic Reviews of Interventions. In general, the risk of bias assessment revealed a low risk of selection bias, attrition bias, and reporting bias. There was unclear risk of bias relating to blinding for most studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence in our review demonstrates that intensification of patient care interventions improves short- and long-term medication adherence, as well as total cholesterol and LDL-cholesterol levels. Healthcare systems which can implement team-based intensification of patient care interventions may be successful in improving patient adherence rates to lipid-lowering medicines."
+    }
+  ],
+  "pls_title": "Interventions to improve people's drug-taking behaviour with lipid-lowering drugs",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Which interventions help improve people's ability to take lipid-lowering medications more regularly?"
+    },
+    {
+      "heading": "Background",
+      "text": "Lipid-lowering therapy has been shown to decrease the risk of both heart attacks and strokes. However, taking these medications as prescribed has not been as high as one would wish. In the past, several methods have been tried to improve the rate at which people take these lipid-lowering treatments. Previous Cochrane Reviews have not shown a clear benefit of any particular method. We have updated our review to see if any new methods in this digital age have been tested as ways of improving these rates."
+    },
+    {
+      "heading": "Search",
+      "text": "Our search included the 11 studies identified from previous versions in 2004 and 2010. We conducted an updated search of the same electronic databases on 3 February 2016, and we searched clinical trials registers up to 27 July 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The people included in the studies were adults over 18 years of age in outpatient settings, for whom lipid-lowering therapy was recommended. We now include 35 studies covering 925,171 participants in this review."
+    },
+    {
+      "heading": "Key results",
+      "text": "Of the 35 included studies, 16 compared interventions categorised as 'intensified patient care' versus usual care. These interventions included electronic reminders, pharmacist-led interventions, and healthcare professional education to help people better remember to take their medications. These types of interventions when compared to standard care demonstrated significantly better adherence rates both over the short term (up to and including six months) as well as the long term (longer than six months). Additionally, cholesterol levels were better over both long- and short-term periods in those offered the intervention, compared to those receiving usual care."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We considered only randomised controlled trials for this review. Given the nature of the interventions, it was not possible to keep participants unaware of which group they were in. However, analysis of other forms of bias indicated that generally the studies were at low risk of bias. We assessed the evidence for the outcomes using the GRADE system, and rated it as high quality for long-term adherence (more than six months) and for reduction in total cholesterol, and moderate quality for short-term medication adherence (up to six months) and for LDL-cholesterol levels. For the outcome total cholesterol levels at less than six months follow-up, we downgraded the evidence to low quality."
+    }
+  ]
+}

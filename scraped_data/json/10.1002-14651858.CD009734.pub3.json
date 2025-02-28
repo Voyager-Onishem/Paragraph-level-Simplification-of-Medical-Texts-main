@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009734.pub3",
+  "name": "Anti‐vascular endothelial growth factor (VEGF) drugs for treatment of retinopathy of prematurity ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vascular endothelial growth factor (VEGF) plays a key role in angiogenesis in foetal life. Researchers have recently attempted to use anti-VEGF agents for the treatment of retinopathy of prematurity (ROP), a vasoproliferative disorder. The safety and efficacy of these agents in preterm infants with ROP is currently uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of anti-VEGF drugs when used either as monotherapy, that is without concomitant cryotherapy or laser therapy, or in combination with planned cryo/laser therapy in preterm infants with type 1 ROP (defined as zone I any stage with plus disease, zone I stage 3 with or without plus disease, or zone II stage 2 or 3 with plus disease)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 11), MEDLINE (1966 to 11 December 2016), Embase (1980 to 11 December 2016), CINAHL (1982 to 11 December 2016), and conference proceedings."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised controlled trials that evaluated the efficacy or safety of administration, or both, of anti-VEGF agents compared with conventional therapy in preterm infants with ROP."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane and Cochrane Neonatal methods for data collection and analysis. We used the GRADE approach to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials involving a total of 383 infants fulfilled the inclusion criteria. Five trials compared intravitreal bevacizumab (n = 4) or ranibizumab (n = 1) with conventional laser therapy (monotherapy), while the sixth study compared intravitreal pegaptanib plus conventional laser therapy with laser/cryotherapy (combination therapy).\nWhen used as monotherapy, bevacizumab/ranibizumab did not reduce the risk of complete or partial retinal detachment (3 studies; 272 infants; risk ratio (RR) 1.04, 95% confidence interval (CI) 0.21 to 5.13; risk difference (RD) 0.00, 95% CI -0.04 to 0.04; very low-quality evidence), mortality before discharge (2 studies; 229 infants; RR 1.50, 95% CI 0.26 to 8.75), corneal opacity requiring corneal transplant (1 study; 286 eyes; RR 0.34, 95% CI 0.01 to 8.26), or lens opacity requiring cataract removal (3 studies; 544 eyes; RR 0.15, 95% CI 0.01 to 2.79). The risk of recurrence of ROP requiring retreatment also did not differ between groups (2 studies; 193 infants; RR 0.88, 95% CI 0.47 to 1.63; RD -0.02, 95% CI -0.12 to 0.07; very low-quality evidence). Subgroup analysis showed a significant reduction in the risk of recurrence in infants with zone I ROP (RR 0.15, 95% CI 0.04 to 0.62), but an increased risk of recurrence in infants with zone II ROP (RR 2.53, 95% CI 1.01 to 6.32). Pooled analysis of studies that reported eye-level outcomes also revealed significant increase in the risk of recurrence of ROP in the eyes that received bevacizumab (RR 5.36, 95% CI 1.22 to 23.50; RD 0.10, 95% CI 0.03 to 0.17). Infants who received intravitreal bevacizumab had a significantly lower risk of refractive errors (very high myopia) at 30 months of age (1 study; 211 eyes; RR 0.06, 95% CI 0.02 to 0.20; RD -0.40, 95% CI -0.50 to -0.30; low-quality evidence).\nWhen used in combination with laser therapy, intravitreal pegaptanib was found to reduce the risk of retinal detachment when compared to laser/cryotherapy alone (152 eyes; RR 0.26, 95% CI 0.12 to 0.55; RD -0.29, 95% CI -0.42 to -0.16; low-quality evidence). The incidence of recurrence of ROP by 55 weeks' postmenstrual age was also lower in the pegaptanib + laser therapy group (76 infants; RR 0.29, 95% CI 0.12 to 0.7; RD -0.35, 95% CI -0.55 to -0.16; low-quality evidence). There was no difference in the risk of perioperative retinal haemorrhages between the two groups (152 eyes; RR 0.62, 95% CI 0.24 to 1.56; RD -0.05, 95% CI -0.16 to 0.05; very low-quality evidence). However, the risk of delayed systemic adverse effects with any of the three anti-VEGF drugs is not known."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Implications for practice: Intravitreal bevacizumab/ranibizumab, when used as monotherapy, reduces the risk of refractive errors during childhood but does not reduce the risk of retinal detachment or recurrence of ROP in infants with type 1 ROP. While the intervention might reduce the risk of recurrence of ROP in infants with zone I ROP, it can potentially result in higher risk of recurrence requiring retreatment in those with zone II ROP. Intravitreal pegaptanib, when used in conjunction with laser therapy, reduces the risk of retinal detachment as well as the recurrence of ROP in infants with type 1 ROP. However, the quality of the evidence was very low to low for most outcomes due to risk of detection bias and other biases. The effects on other critical outcomes and, more importantly, the long-term systemic adverse effects of the drugs are not known. Insufficient data precludes strong conclusions favouring routine use of intravitreal anti-VEGF agents - either as monotherapy or in conjunction with laser therapy - in preterm infants with type 1 ROP.\nImplications for research: Further studies are needed to evaluate the effect of anti-VEGF agents on structural and functional outcomes in childhood and delayed systemic effects including adverse neurodevelopmental outcomes."
+    }
+  ],
+  "pls_title": "Anti-vascular endothelial growth factor (VEGF) drugs for treatment of retinopathy of prematurity",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Retinopathy of prematurity (ROP) is a vascular disorder of the immature retina that can result in impairment of vision and even blindness in preterm infants. It is treated primarily by ablation of the avascular retina, the removal of the part of the retina without any blood vessels by cryotherapy or laser therapy. Though these treatments result in a significant improvement in long-term outcomes, the results are far from perfect. In addition, they cause permanent loss of the peripheral visual field. Recently, studies have been done to evaluate the use of anti-VEGF agents to treat ROP. These agents inhibit the action of vascular endothelial growth factor (VEGF), a key regulator of new vessel formation in foetal life. Animal studies had shown significant reduction in the neovascular response following injection of anti-VEGF antibodies into the vitreous cavity of the eyes ('intravitreal' therapy)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases in December 2016 for studies evaluating the efficacy and safety of intravitreal therapy with anti-VEGF agents in preterm infants with ROP. We identified six randomised controlled trials involving 383 infants. Five trials compared intravitreal bevacizumab or ranibizumab with conventional laser therapy. One trial compared intravitreal pegaptanib plus laser therapy with laser/cryotherapy alone."
+    },
+    {
+      "heading": "Key results",
+      "text": "The results suggest that intravitreal anti-VEGF agents reduce the risk of refractive errors (high myopia) during childhood but do not reduce the risk of retinal detachment or recurrence of ROP when used alone. Intravitreal pegaptanib used in conjunction with laser therapy reduces the risk of retinal detachment. The effects on other critical outcomes, including delayed side effects such as stroke, are not known. Further studies are needed to assess these outcomes."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We graded the quality of the evidence as very low or low for most of the key outcomes."
+    },
+    {
+      "heading": "Setting",
+      "text": "Neonatal units in China, Czech Republic, Italy, Iran, Ireland, and USA."
+    }
+  ]
+}

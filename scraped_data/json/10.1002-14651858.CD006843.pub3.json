@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006843.pub3",
+  "name": "Fetal fibronectin testing for reducing the risk of preterm birth",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fetal fibronectin (FFN) is an extracellular matrix glycoprotein localized at the maternal-fetal interface of the amniotic membranes, between chorion and decidua, where it is concentrated in this area between decidua and trophoblast. In normal conditions, FFN is found at very low levels in cervicovaginal secretions. Levels greater than or equal to 50 ng/mL at or after 22 weeks have been associated with an increased risk of spontaneous preterm birth. In fact, FFN is one of the best predictors of preterm birth in all populations studied so far, and can help in selecting which women are at significant risk for preterm birth. This is an update of a review first published in 2008."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of management based on knowledge of FFN testing results for preventing preterm birth."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register (7 September 2018), ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (7 September 2018), and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of pregnant women screened with FFN for risk of preterm birth. Studies included are based exclusively on knowledge of FFN results versus no such knowledge, and we have excluded studies including women with only positive or only negative FFN results."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data, and checked them for accuracy. The quality of the evidence was assessed using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 16 trials, of which six were eligible for inclusion. The six included studies randomized 546 women with singleton gestations and threatened preterm labor (PTL) at 23 0/7 to 34 6/7 weeks. A total of 277 women were randomized to knowledge and 269 to no knowledge of FFN. No trials were identified on asymptomatic women or multiple gestations.\nThe risk of bias of included studies was mixed. For selected important outcomes, preterm birth before 37, 34, and 32 weeks, and maternal hospitalization, we graded the quality of the evidence and created a 'Summary of findings' table. For these outcomes, the evidence was graded as mainly low quality due to the imprecision of effect estimates.\nManagement based on knowledge of FFN results may reduce preterm birth before 37 weeks (20.7%) versus controls without such knowledge (29.2%) (risk ratio (RR) 0.72, 95% confidence interval (CI) 0.52 to 1.01; 5 trials; 434 women; low-quality evidence). However, management based on knowledge of FFN results may make little or no difference to preterm birth before 34 (RR 1.09, 95% CI 0.54 to 2.18; 4 trials; 357 women; low-quality evidence) or maternal hospitalization (RR 1.06, 95% CI 0.79 to 1.43; 5 trials; 441 women; low-quality evidence). The evidence for preterm birth before 32 weeks is uncertain because the quality was found to be very low (average RR 0.79, 95% CI 0.16 to 3.96; 4 trials; 357 women; very low-quality evidence).\nFor all other outcomes, for which there were available data (preterm birth less than 28 weeks; gestational age at delivery (weeks); birthweight less than 2500 g; perinatal death; tocolysis; steroids for fetal lung maturity; time to evaluate; respiratory distress syndrome; neonatal intensive care unit (NICU) admission; and NICU days), knowledge of FFN results may make little or no difference to the outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence from this review suggests that management based on knowledge of FFN results may reduce preterm birth before 37 weeks. However, our confidence in this result is limited as the evidence was found to be of low quality. Effects on other substantive outcomes are uncertain due to serious concerns in study design, inconsistency, and imprecision of effect estimates. No trials were identified on asymptomatic women, or multiple gestations.\nFuture studies are needed that include specific populations (e.g. singleton gestations with symptoms of preterm labor), a study group managed with a protocol based on the FFN results, and that report not only maternal but also important perinatal outcomes. Cost-effectiveness analyses are also needed."
+    }
+  ],
+  "pls_title": "Fetal fibronectin testing for reducing the risk of preterm birth",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "To assess the effectiveness of management of pregnant women based on a knowledge of fetal fibronectin test results for preventing preterm birth, compared with not having that knowledge. Fetal fibronectin (FFN) acts as a ‘glue’ between the pregnancy and the uterus. Normally very low levels of FFN can be found in secretions of the vagina and cervix. Raised levels at or after 22 weeks have been associated with an increased risk of spontaneous preterm birth."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Preterm birth before 37 weeks is the main cause of sickness and death for newborn infants. Most women who give birth preterm have preterm labor symptoms such as contractions but many of the women with symptoms go on to deliver at term (37 weeks or more). Fetal fibronectin (FFN) is a test that can identify the women with symptoms of preterm labor who are most at risk for preterm birth. The level of FFN is measured in secretions from the vagina or cervix."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We found six randomised controlled studies involving 546 women who were pregnant with one baby and were showing signs of preterm labor at between 23 to 34 weeks' gestation. We graded the following evidence as mainly low quality because of the low number of women in the studies and a wide variation in findings. We found that the number of births before 37 weeks may be slightly reduced when women and their doctors know the results of the FFN test (20.7% versus 29.2%; 5 trials; 434 women). However, knowledge of FFN results may make little or no difference for the other outcomes with available data, including: maternal hospitalization (5 trials; 441 women); use of uterine relaxants (tocolysis) to try to prevent labor; earlier preterm births; women’s gestational age at delivery; babies with a birthweight less than 2500 g; newborn deaths; the number of babies with respiratory distress syndrome; giving steroids to mature the unborn babies’ lungs; and number of days in a neonatal intensive care unit (NICU)."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "This review of six studies did not find enough evidence to say whether or not the FFN test should be used in the management of women showing signs of preterm labor. A screening test such as FFN can only be considered effective if interventions based on the screening results, such as giving drugs to relax the uterus, reduce the number of preterm births. Further research should be encouraged."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012631.pub3",
+  "name": "Higher versus lower fractions of inspired oxygen or targets of arterial oxygenation for adults admitted to the intensive care unit ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated review concerning 'Higher versus lower fractions of inspired oxygen or targets of arterial oxygenation for adults admitted to the intensive care unit'.\nSupplementary oxygen is provided to most patients in intensive care units (ICUs) to prevent global and organ hypoxia (inadequate oxygen levels). Oxygen has been administered liberally, resulting in high proportions of patients with hyperoxemia (exposure of tissues to abnormally high concentrations of oxygen). This has been associated with increased mortality and morbidity in some settings, but not in others. Thus far, only limited data have been available to inform clinical practice guidelines, and the optimum oxygenation target for ICU patients is uncertain. Because of the publication of new trial evidence, we have updated this review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To update the assessment of benefits and harms of higher versus lower fractions of inspired oxygen (FiO2) or targets of arterial oxygenation for adults admitted to the ICU."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Science Citation Index Expanded, BIOSIS Previews, and LILACS. We searched for ongoing or unpublished trials in clinical trial registers and scanned the reference lists and citations of included trials. Literature searches for this updated review were conducted in November 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared higher versus lower FiO2 or targets of arterial oxygenation (partial pressure of oxygen (PaO2), peripheral or arterial oxygen saturation (SpO2 or SaO2)) for adults admitted to the ICU. We included trials irrespective of publication type, publication status, and language.\nWe excluded trials randomising participants to hypoxaemia (FiO2 below 0.21, SaO2/SpO2 below 80%, or PaO2 below 6 kPa) or to hyperbaric oxygen, and cross-over trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four review authors independently, and in pairs, screened the references identified in the literature searches and extracted the data. Our primary outcomes were all-cause mortality, the proportion of participants with one or more serious adverse events (SAEs), and quality of life. We analysed all outcomes at maximum follow-up. Only three trials reported the proportion of participants with one or more SAEs as a composite outcome. However, most trials reported on events categorised as SAEs according to the International Conference on Harmonisation Good Clinical Practice (ICH-GCP) criteria. We, therefore, conducted two analyses of the effect of higher versus lower oxygenation strategies using 1) the single SAE with the highest reported proportion in each trial, and 2) the cumulated proportion of participants with an SAE in each trial. Two trials reported on quality of life.\nSecondary outcomes were lung injury, myocardial infarction, stroke, and sepsis. No trial reported on lung injury as a composite outcome, but four trials reported on the occurrence of acute respiratory distress syndrome (ARDS) and five on pneumonia. We, therefore, conducted two analyses of the effect of higher versus lower oxygenation strategies using 1) the single lung injury event with the highest reported proportion in each trial, and 2) the cumulated proportion of participants with ARDS or pneumonia in each trial.\nWe assessed the risk of systematic errors by evaluating the risk of bias in the included trials using the Risk of Bias 2 tool. We used the GRADEpro tool to assess the overall certainty of the evidence. We also evaluated the risk of publication bias for outcomes reported by 10b or more trials."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 RCTs (10,385 participants), of which 17 reported relevant outcomes for this review (10,248 participants). For all-cause mortality, 10 trials were judged to be at overall low risk of bias, and six at overall high risk of bias. For the reported SAEs, 10 trials were judged to be at overall low risk of bias, and seven at overall high risk of bias. Two trials reported on quality of life, of which one was judged to be at overall low risk of bias and one at high risk of bias for this outcome.\nMeta-analysis of all trials, regardless of risk of bias, indicated no significant difference from higher or lower oxygenation strategies at maximum follow-up with regard to mortality (risk ratio (RR) 1.01, 95% confidence interval (C)I 0.96 to 1.06; I2 = 14%; 16 trials; 9408 participants; very low-certainty evidence); occurrence of SAEs: the highest proportion of any specific SAE in each trial RR 1.01 (95% CI 0.96 to 1.06; I2 = 36%; 9466 participants; 17 trials; very low-certainty evidence), or quality of life (mean difference (MD) 0.5 points in participants assigned to higher oxygenation strategies (95% CI -2.75 to 1.75; I2 = 34%, 1649 participants; 2 trials; very low-certainty evidence)). Meta-analysis of the cumulated number of SAEs suggested benefit of a lower oxygenation strategy (RR 1.04 (95% CI 1.02 to 1.07; I2 = 74%; 9489 participants; 17 trials; very low certainty evidence)). However, trial sequential analyses, with correction for sparse data and repetitive testing, could reject a relative risk increase or reduction of 10% for mortality and the highest proportion of SAEs, and 20% for both the cumulated number of SAEs and quality of life. Given the very low-certainty of evidence, it is necessary to interpret these findings with caution.\nMeta-analysis of all trials indicated no statistically significant evidence of a difference between higher or lower oxygenation strategies on the occurrence of lung injuries at maximum follow-up (the highest reported proportion of lung injury RR 1.08, 95% CI 0.85 to 1.38; I2 = 0%; 2048 participants; 8 trials; very low-certainty evidence).\nMeta-analysis of all trials indicated harm from higher oxygenation strategies as compared with lower on the occurrence of sepsis at maximum follow-up (RR 1.85, 95% CI 1.17 to 2.93; I2 = 0%; 752 participants; 3 trials; very low-certainty evidence). Meta-analysis indicated no differences regarding the occurrences of myocardial infarction or stroke."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In adult ICU patients, it is still not possible to draw clear conclusions about the effects of higher versus lower oxygenation strategies on all-cause mortality, SAEs, quality of life, lung injuries, myocardial infarction, stroke, and sepsis at maximum follow-up. This is due to low or very low-certainty evidence."
+    }
+  ],
+  "pls_title": "Higher or lower levels of oxygen for adults admitted to the intensive care unit",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We set out to update the assessment on whether more supplemental oxygen is better than less supplemental oxygen for adults admitted to the intensive care unit (ICU)."
+    },
+    {
+      "heading": "Background",
+      "text": "Adults admitted to the ICU are critically ill and have a high risk of dying. Oxygen supplementation, or therapy, is provided to most adult ICU patients. Severe illness can result in a lack of oxygen in the blood which puts patients at risk of low tissue levels of oxygen and organ failure. The use of sedatives and strong pain relief medications can also depress breathing and therefore oxygen levels. Supplemental oxygen has generally been administered freely, possibly resulting in too high oxygen levels. Despite a lack of robust evidence of effectiveness, supplemental oxygen administration has been widely recommended in international clinical practice guidelines. However, newer guidelines recommend against high oxygen levels as some, but not all, trials have indicated a link between this practice and an increased risk of dying. The potential benefits of supplemental oxygen must be weighed against the potentially harmful effects of providing too much."
+    },
+    {
+      "heading": "Trial characteristics",
+      "text": "We identified 19 randomised controlled trials (RCTs) where participants were randomly allocated to either a higher or a lower level of oxygen, involving 10.385 participants up to November 2022. Seventeen of the trials (10,248 participants) provided findings on the number of deaths, serious adverse events (SAEs), quality of life, and risk of lung injuries, heart attack, or stroke at any time point following oxygen therapy in the ICU. The occurrence of lung injury was measured as the number of participants developing acute respiratory distress syndrome or pneumonia. Four trials included medically ill participants only; two included surgical patients only. Two trials assessed adults with traumatic brain injury; two trials assessed adults resuscitated from out-of-hospital cardiac arrest; and one trial assessed adults with stroke. In 11 trials, all participants received invasive mechanical ventilation via a tube inserted into the trachea; six trials involved adults who were both mechanically ventilated and others who were not. Two trials involved naturally breathing adults given oxygen. The use of more oxygen was compared with less oxygen in all trials, but the actual levels of oxygen differed greatly amongst the identified trials.\nOxygen therapy was provided for different time periods of time, ranging from one hour to the entire intensive care admission (up to 90 days)."
+    },
+    {
+      "heading": "Key results",
+      "text": "After this review update, we are still uncertain about the effects of higher versus lower levels of oxygen as our findings are based on low- or very low-certainty evidence.\nWe did not find evidence for a beneficial effect of higher compared with lower levels of oxygen for adult ICU patients, neither on the risk of death (16 trials; 9408 participants), the risk of SAEs (17 trials, 9466 participants), the quality of life (2 trial, 1649 participants), the risk of lung injury (8 trials; 2048 participants), the risk of heart attack (4 trials, 5002 participants), nor the risk of stroke (5 trials, 6110 participants). We found a potential reduction of the risk of developing new sepsis ('blood poisoning') during ICU admission with higher levels of oxygen (3 trials, 752 participants)."
+    },
+    {
+      "heading": "What are the limitations of this evidence?",
+      "text": "The number of participants enroled in the trials was too small to permit a clear judgement about the interventions' effect sizes on the outcomes examined in this review. The trials varied in the types of illness of the participants, their associated clinical care, disease severity, the targets for how much oxygen was given, and for how long this was supplied."
+    }
+  ]
+}

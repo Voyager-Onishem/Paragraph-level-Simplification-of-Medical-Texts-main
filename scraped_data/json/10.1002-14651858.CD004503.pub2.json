@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004503.pub2",
+  "name": "Long versus short inspiratory times in neonates receiving mechanical ventilation",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "When intermittent positive pressure ventilation (IPPV) was introduced in newborn infants with hypoxic respiratory failure from hyaline membrane disease (HMD), mortality was high and air leaks problematic. This barotrauma was caused by the high peak inspiratory pressures (PIP) required to oxygenate stiff lungs. The primary determinants of mean airway pressure (and thus oxygenation) on a conventional ventilator are the inspiratory time (IT), PIP, positive end expiratory pressure and gas flow rates. In the 1970s uncontrolled studies on a small number of infants demonstrated a benefit in reducing barotrauma using a long IT and slow rates. This strategy was subsequently widely adopted. Current neonatal ventilators have been designed to minimise lung injury but rates of bronchopulmonary dysplasia (BPD) remain high. It is therefore important that the inspiratory time causing least harm is used."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine in mechanically ventilated newborn infants whether the use of a long rather than a short IT reduces the rates of death, air leak and BPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The standard search strategy of the Cochrane Neonatal Review Group (CNRG) was used. Searches of electronic and other databases were performed. These included MEDLINE (1966 - April 2004) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 4, 2003). In order to detect trials that may not have been published, the abstracts of the Society for Pediatric Research, and the European Society for Pediatric Research were searched from 1998 - 2003."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised and quasi-randomised controlled trials enrolling mechanically ventilated infants with or without respiratory pathology evaluating the use of long versus short IT (including randomised crossover studies with outcomes restricted to differences in oxygenation)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The standard method of the Cochrane Collaboration and its Neonatal Review Group were used. Two authors independently assessed eligibility, and the methodological quality of each trial, and extracted the data. The data were analysed using relative risk (RR) and risk difference (RD) and their 95% confidence intervals. A fixed effect model was used for meta-analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "In five studies, recruiting a total of 694 infants, a long IT was associated with a significant increase in air leak [typical RR 1.56 (1.25, 1.94), RD 0.13 (0.07, 0.20), NNT 8 (5, 14)]. There was no significant difference in the incidence of BPD. Long IT was associated with an increase in mortality before hospital discharge that reached borderline statistical significance [typical RR 1.26 (1.00, 1.59), RD 0.07 (0.00, 0.13)]."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Caution should be exercised in applying these results to modern neonatal intensive care, because the studies included in this review were conducted prior to the introduction of antenatal steroids, post natal surfactant and the use of synchronised modes of ventilatory support. Most of the participants had single pathology (HMD) and no studies examined the effects of IT on newborns ventilated for other reasons such as meconium aspiration and congenital heart disease (lungs with normal compliance). However, the increased rates of air leaks and deaths using long ITs are clinically important; thus, infants with poorly compliant lungs should be ventilated with a short IT."
+    }
+  ],
+  "pls_title": "Long versus short inspiratory times in neonates receiving mechanical ventilation",
+  "pls_type": "long",
+  "pls": "Endotracheal intubation and positive pressure ventilation of newborn infants with respiratory failure has revolutionised neonatal intensive care. The majority of infants are ventilated because of lung immaturity and hyaline membrane disease, respiratory difficulties that resolve for most of these infants. Use of ventilators can cause lung inflammation and ventilator-induced lung injury, particularly in the neonate with compliant chest walls, highlighting the importance of protective ventilation strategies. In addition, an infant's own breathing efforts, when combined with ventilator inflations, can exacerbate lung injury. Managing the mean airway pressure is important to improve oxygenation and not cause excessive airway pressures that can damage the lungs and impede venous return (a factor implied in spontaneous intraventricular haemorrhage in preterm infants). Clinicians still need to set an inspiratory time on the ventilator, making it important to determine whether the use of a long rather than a short inspiratory time reduces the rates of death, air leak and bronchopulmonary dysplasia (BPD, requiring supplemental oxygen at 28 days) in mechanically ventilated newborn infants (term and preterm). The review authors identified five randomised studies reported from 1980 to 1992. These trials recruited a total of 694 newborn infants with acute respiratory failure mainly caused by hyaline membrane disease. A long inspiratory time was associated with a significant increase in air leak from the lungs (NNT 8). There was no significant difference in the incidence of BPD but an increase in mortality before hospital discharge reached borderline statistical significance. Caution should be exercised in applying these results to modern neonatal intensive care because these studies were conducted before the introduction of antenatal steroids, postnatal surfactant and the use of synchronised modes of ventilatory support. Whilst there is increasing use of non-invasive ventilation such as nasal continuous positive airway pressure to avoid ventilator-induced lung injury, mechanical ventilation will continue to have a role in extremely immature infants and those with hyaline membrane disease complicated by apnea."
+}

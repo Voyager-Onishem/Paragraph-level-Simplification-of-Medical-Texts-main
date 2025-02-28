@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006660.pub3",
+  "name": "Methods of preventing bacterial sepsis and wound complications after liver transplantation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bacterial sepsis and wound complications after liver transplantation increase mortality, morbidity, or hospital stay and are likely to increase overall transplant costs. All liver transplantation patients receive antibiotic prophylaxis. This is an update of our 2008 Cochrane systematic review on the same topic in which we identified seven randomised clinical trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of different methods aimed at preventing bacterial sepsis and wound complications in people undergoing liver transplantation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and Science Citation Index Expanded to February 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomised clinical trials irrespective of language or publication status. We excluded quasi-randomised and other observational studies for assessment of benefits, but not for harms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors collected the data independently. We calculated the risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI) using fixed-effect and the random-effects models based on available-case analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified only seven trials for inclusion, including 614 participants. Only one trial was of low risk of bias risk. Overall, the quality of evidence was very low. There were five comparisons in the seven trials: selective bowel decontamination versus inactive control; selective bowel decontamination versus prebiotics with probiotics; selective bowel decontamination versus prebiotics; prebiotics with probiotics versus prebiotics; and granulocyte-colony stimulating factor (G-CSF) versus control. Four trials compared selective bowel decontamination versus placebo or no treatment. In one trial, participants were randomised to selective bowel decontamination, active lactobacillus with fibres (probiotic with prebiotic), or to inactivated lactobacillus with fibres (prebiotic). In one trial, active lactobacillus with fibres (probiotic with prebiotic) was compared with inactive lactobacillus with fibres (prebiotic). In the remaining trial, different doses of G-CSF and placebo were compared. There was no trial comparing different antibiotic prophylactic regimens in people undergoing liver transplantation. Most trials included adults undergoing elective liver transplantation. There was no significant difference in proportion of people who died or required retransplantation between the intervention and control groups in any of the five comparison groups.\nMortality\nThere were no differences between 190 participants (three trials); 5/87 (adjusted proportion: 6.2%) in selective bowel decontamination group versus 7/103 (6.8%) in inactive control group; RR 0.91 (95% CI 0.31 to 2.72); 63 participants (one trial); 0/32 (0%) in selective bowel decontamination group versus 0/31 (0%) in prebiotics with probiotics group; RR - not estimable; 64 participants (one trial); 0/32 (0%) in selective bowel decontamination group versus 0/32 (0%) in prebiotics group; RR - not estimable; 129 participants (two trials); 0/64 (0%) in prebiotics with probiotics group versus 0/65 (0%) in prebiotics group; RR - not estimable; and 194 participants (one trial); 22/124 (17.7%) in G-CSF group versus 10/70 (14.3%) in placebo group; RR 1.24 (95% 0.62 to 2.47).\nRetransplantation\nThere were no differences between 132 participants (two trials); 4/58 (adjusted proportion: 6.9%) in selective bowel decontamination group versus 6/74 (8.1%) in inactive control group; RR 0.85 (95% CI 0.26 to 2.85); 63 participants (one trial); 1/32 (3.1%) in selective bowel decontamination group versus 0/31 (0%) in prebiotics with probiotics group; RR 2.91 (0.12 to 68.81); 64 participants (one trial); 1/32 (3.1%) in selective bowel decontamination group versus 0/32 (0%) in prebiotics group; RR 3.00 (95% CI 0.13 to 71.00); 129 participants (two trials); 0/64 (0%) in prebiotics with probiotics group versus 1/65 (1.5%) in prebiotics group; RR 0.33 (95% CI 0.01 to 7.9); and 194 participants (one trial); 10/124 (7.1%) in G-CSF group versus 5/70 (7.1%) in placebo group; RR 1.13 (95% CI 0.4 to 3.17).\nThere was no significant difference in the graft rejections, intensive therapy unit stay, or hospital stay between the intervention and control groups in any of the comparisons. Overall, 193/611 participants (31.6%) developed infective complications. The proportion of people who developed infective complications and the number of infective complication episodes were significantly higher in the selective bowel decontamination group than in the prebiotics with probiotics group (1 study; 63 participants; 15/32 (46.9%) in selective bowel decontamination group versus 4/31 (12.9%) in prebiotics with probiotics group; RR 3.63; 95% CI 1.36 to 9.74 and 23/32 participants (0.72 infective complications per participant) in selective bowel decontamination group versus 4/31 participants (0.13 infective complications per participant) in prebiotics with probiotics group; rate ratio 5.58; 95% CI 1.94 to 16.09). There was no significant difference between the proportion of participants who developed infection and the number of infection episodes between the intervention group and control group in any of the other comparisons.\nNo trials reported quality of life and overall serious adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently, there is no clear evidence for any intervention offering significant benefits in the reduction of bacterial infections and wound complications in liver transplantation. Selective bowel decontamination may even increase the rate of infections compared with prebiotics with probiotics. The confidence intervals were wide and further randomised clinical trials of low risk of bias are necessary."
+    }
+  ],
+  "pls_title": "Interventions to prevent bacterial infective complications and wound complications in liver transplantation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "The liver is an important organ of the body and has various functions including generation of energy from food; production of material necessary for congealing, processing, and excretion of drugs and waste products in blood; and filtering out the harmful bacteria that enter the body through the gut. Alcohol abuse and viral infections can cause damage to the liver usually in an insidious manner. Sometimes, the liver damage can be so severe that the liver is unable to carry out the normal functions, which results in liver failure. Liver transplantation is effective in treating liver failure. However, liver transplantation is major surgical procedure and a significant proportion of people develop infective and wound complications because of the medications given to suppress the recipient body mounting a foreign body response to the liver graft (immunosuppressive regimens). Various interventions have been attempted to prevent the bacterial infective complications and wound complications; however, the effectiveness is unknown. We performed a detailed review of the medical literature (to February 2013) to determine the benefits and harms of different interventions to prevent bacterial infective complications and wound complications in liver transplantation. We sought evidence from randomised clinical trials only. When conducted properly, such trials provide the best evidence. Two review authors independently identified the trials and obtained the information from the trials to minimise error."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified seven trials for inclusion including 614 people. Four trials compared selective bowel decontamination (prolonged use of antibiotics to clear bacteria in the gut) versus placebo (inactive intervention) or no treatment. In one trial, people were randomised to selective bowel decontamination, active lactobacillus with fibres (probiotic with prebiotic), or to inactivated lactobacillus with fibres (prebiotic). In one trial, probiotic with prebiotic was compared with prebiotic. In another trial, different doses of granulocyte-colony stimulating factor (G-CSF; substance that stimulates the immune response) and placebo were compared. Most trials included adults undergoing elective liver transplantation. There were five comparisons: selective bowel decontamination versus inactive control; selective bowel decontamination versus prebiotics with probiotics; selective bowel decontamination versus prebiotics; prebiotics with probiotics versus prebiotics; and G-CSF versus control. There was no trial comparing different antibiotics to prevent bacterial infective complications and wound complications in people undergoing liver transplantation."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no significant difference in proportion of people who died or required retransplantation between the intervention and control groups in any of the five comparisons. There was no significant difference in the graft rejections, intensive therapy unit stay, or hospital stay between the intervention and control groups in any of the comparisons. Overall, 193/611 (31.6%) participants developed infective complications. The proportion of people who developed infective complications and the number of infective complication episodes were significantly higher in the selective bowel decontamination group than prebiotics with probiotics group. There was no significant difference between the proportion of people who developed infection and the number of infective complication episodes between groups in any of the other comparisons. Quality of life and serious adverse events in the groups were not reported in any of the trials. There is no clear evidence that any of the interventions may be of benefit. Selective bowel decontamination may even increase the risk of infection compared to prebiotics with probiotics."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "Most of the trials were at high risk of systematic errors (there was a potential to arrive at wrong conclusions because of the way the trial was conducted) and random errors (there was a potential to arrive at the wrong conclusions because of the play of chance). The overall quality of evidence is very low."
+    },
+    {
+      "heading": "Future research",
+      "text": "Further well-designed randomised clinical trials are necessary in people undergoing liver transplantation. Such trials should include patient-oriented outcomes such as mortality, graft failure, quality of life, length of hospital stay, and serious adverse events related to the treatment."
+    }
+  ]
+}

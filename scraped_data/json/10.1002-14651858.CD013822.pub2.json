@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013822.pub2",
+  "name": "Shared decision‐making for supporting women’s decisions about breast cancer screening",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In breast cancer screening programmes, women may have discussions with a healthcare provider to help them decide whether or not they wish to join the breast cancer screening programme. This process is called shared decision-making (SDM) and involves discussions and decisions based on the evidence and the person's values and preferences. SDM is becoming a recommended approach in clinical guidelines, extending beyond decision aids. However, the overall effect of SDM in women deciding to participate in breast cancer screening remains uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of SDM on women's satisfaction, confidence, and knowledge when deciding whether to participate in breast cancer screening."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Breast Cancer Group's Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform on 8 August 2023. We also screened abstracts from two relevant conferences from 2020 to 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs) and cluster-RCTs assessing interventions targeting various components of SDM. The focus was on supporting women aged 40 to 75 at average or above-average risk of breast cancer in their decision to participate in breast cancer screening."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for inclusion and conducted data extraction, risk of bias assessment, and GRADE assessment of the certainty of the evidence. Review outcomes included satisfaction with the decision-making process, confidence in the decision made, knowledge of all options, adherence to the chosen option, women's involvement in SDM, woman-clinician communication, and mental health."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 19 studies with 64,215 randomised women, mostly with an average to moderate risk of breast cancer. Two studies covered all aspects of SDM; six examined shortened forms of SDM involving communication on risks and personal values; and 11 focused on enhanced communication of risk without other SDM aspects.\nSDM involving all components compared to control\nThe two eligible studies did not assess satisfaction with the SDM process or confidence in the decision. Based on a single study, SDM showed uncertain effects on participant knowledge regarding the age to start screening (risk ratio (RR) 1.18, 95% confidence interval (CI) 0.61 to 2.28; 133 women; very low certainty evidence) and frequency of testing (RR 0.84, 95% CI 0.68 to 1.04; 133 women; very low certainty evidence). Other review outcomes were not measured.\nAbbreviated forms of SDM with clarification of values and preferences compared to control\nOf the six included studies, none evaluated satisfaction with the SDM process. These interventions may reduce conflict in the decision made, based on two measures, Decisional Conflict Scale scores (mean difference (MD) −1.60, 95% CI −4.21 to 0.87; conflict scale from 0 to 100; 4 studies; 1714 women; very low certainty evidence) and the proportion of women with residual conflict compared to control at one to three months' follow-up (rate of women with a conflicted decision, RR 0.75, 95% CI 0.56 to 0.99; 1 study; 1001 women, very low certainty evidence).\nKnowledge of all options was assessed through knowledge scores and informed choice. The effect of SDM may enhance knowledge (MDs ranged from 0.47 to 1.44 higher scores on a scale from 0 to 10; 5 studies; 2114 women; low certainty evidence) and may lead to higher rates of informed choice (RR 1.24, 95% CI 0.95 to 1.63; 4 studies; 2449 women; low certainty evidence) compared to control at one to three months' follow-up. These interventions may result in little to no difference in anxiety (MD 0.54, 95% −0.96 to 2.14; scale from 20 to 80; 2 studies; 749 women; low certainty evidence) and the number of women with worries about cancer compared to control at four to six weeks' follow-up (RR 0.88, 95% CI 0.73 to 1.06; 1 study, 639 women; low certainty evidence). Other review outcomes were not measured.\nEnhanced communication about risks without other SDM aspects compared to control\nOf 11 studies, three did not report relevant outcomes for this review, and none assessed satisfaction with the SDM process. Confidence in the decision made was measured by decisional conflict and anticipated regret of participating in screening or not. These interventions, without addressing values and preferences, may result in lower confidence in the decision compared to regular communication strategies at two weeks' follow-up (MD 2.89, 95% CI −2.35 to 8.14; Decisional Conflict Scale from 0 to 100; 2 studies; 1191 women; low certainty evidence). They may result in higher anticipated regret if participating in screening (MD 0.28, 95% CI 0.15 to 0.41) and lower anticipated regret if not participating in screening (MD −0.28, 95% CI −0.42 to −0.14).\nThese interventions increase knowledge (MD 1.14, 95% CI 0.61 to 1.62; scale from 0 to 10; 4 studies; 2510 women; high certainty evidence), while it is unclear if there is a higher rate of informed choice compared to regular communication strategies at two to four weeks' follow-up (RR 1.27, 95% CI 0.83 to 1.92; 2 studies; 1805 women; low certainty evidence). These interventions result in little to no difference in anxiety (MD 0.33, 95% CI −1.55 to 0.99; scale from 20 to 80) and depression (MD 0.02, 95% CI −0.41 to 0.45; scale from 0 to 21; 2 studies; 1193 women; high certainty evidence) and lower cancer worry compared to control (MD −0.17, 95% CI −0.26 to −0.08; scale from 1 to 4; 1 study; 838 women; high certainty evidence). Other review outcomes were not measured."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Studies using abbreviated forms of SDM and other forms of enhanced communications indicated improvements in knowledge and reduced decisional conflict. However, uncertainty remains about the effect of SDM on supporting women's decisions. Most studies did not evaluate outcomes considered important for this review topic, and those that did measured different concepts. High-quality randomised trials are needed to evaluate SDM in diverse cultural settings with a focus on outcomes such as women's satisfaction with choices aligned to their values."
+    }
+  ],
+  "pls_title": "Does shared decision-making help women when making decisions about whether or not to participate in breast cancer screening?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Shared decision-making could help women feel less unsure or regretful and assist with learning during the decision-making process for breast cancer screening. However, it is important to note that our understanding of how exactly it may affect women's screening decisions is incomplete."
+    },
+    {
+      "heading": "What is shared decision-making?",
+      "text": "Shared decision-making is when a doctor and a patient work together to choose the best care. They talk about different options, the pros and cons, and what matters to the patient. They use tools like booklets or online guides (decision aids) to provide clear information and decide together."
+    },
+    {
+      "heading": "Why does shared decision-making matter for breast cancer screening?",
+      "text": "Breast cancer screening helps save lives and reduces health issues during treatment. However, it may sometimes give incorrect results or lead to too much treatment. When women and doctors make choices together, they can make informed decisions that align with women's values."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if shared decision-making could help women feel more satisfied, confident, and knowledgeable when deciding whether to participate in breast cancer screening."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We included studies that looked at how shared decision-making affects women making choices about breast cancer screening. We chose studies that compared some or all the important aspects of shared decision-making with routine care. We judged how certain we could be in the findings based on factors like study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We looked at 19 studies with 64,215 women. Women were given information about the pros and cons of breast cancer screening. Most studies used tools to provide this information. Six studies did not include a discussion with a healthcare professional, and 11 studies did not consider a woman’s values and preferences. The studies followed women for a short time, usually from one to three months, and were conducted in the USA, Europe, Australia, and one in Iran. Most studies were funded by government or schools, and some by private groups.\nShared decision-making involving all key components\nTwo studies included discussions with healthcare professionals and considered values and preferences. Based on a single study, shared-decision making may not affect women’s knowledge about when to start screening and screening frequency, but the results are uncertain. The two studies did not look at outcomes like women’s satisfaction with the shared decision-making process, confidence in screening choices, adherence to decisions, active participation in decision-making, effective communication with doctors, or changes in mental health.\nShortened forms of shared decision-making with clarification of values and preferences\nSix studies used decision-making tools and considered values and preferences but did not include conversations with a healthcare professional. This type of shared decision-making could make women feel more confident and knowledgeable about their choices, although it may not affect anxiety or cancer worry. These studies did not look at outcomes like women’s satisfaction with the shared decision-making process, adherence to decisions, active participation in decision-making, or effective communication with doctors.\nEnhanced communication about risks without other components of shared decision-making\nEleven studies provided women with information about options and the pros and cons but did not include a conversation with a healthcare professional or consider women’s values and preferences. This type of shared decision-making helps women feel more knowledgeable about their choices, although it is unclear if it increases confidence. It does not affect anxiety or depression, but does reduce cancer worry. These studies did not look at outcomes like women’s satisfaction with the shared decision-making process, adherence to decisions, active participation in decision-making, or effective communication with doctors."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Although there were many studies involving a total of over 60,000 women, the studies used different approaches to look at shared decision-making, presented data in varied formats, and did not look at outcomes considered important in our review. These differences prevented us from combining information in some cases for clear results. Also, some studies had issues with their methods. As a result, we cannot be certain about some of the conclusions in this review."
+    },
+    {
+      "heading": "How up-to-date is this information?",
+      "text": "The information is current to August 2023."
+    }
+  ]
+}

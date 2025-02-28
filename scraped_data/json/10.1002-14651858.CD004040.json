@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004040",
+  "name": "Olanzapine alone or in combination for acute mania",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Olanzapine, an atypical antipsychotic, is used in the treatment of mania both as monotherapy and combined with other medicines."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the efficacy and tolerability of olanzapine in the treatment of mania"
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Register (CCDANCTR), The Cochrane Central Register of Controlled Trials (CENTRAL), EMBASE, MEDLINE, CINAHL and PsycINFO were searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials comparing olanzapine with placebo or other drug in acute manic or mixed episodes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently extracted data from trial reports"
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials (1422 participants) were included in the review. There was a high rate of failure to complete treatment on all treatments which may have biased the estimates of relative efficacy. Olanzapine was superior to placebo at reducing manic symptoms as monotherapy (Young Mania Rating Scale (YMRS) - weighted mean difference (WMD): -5.94, 95% CI -9.09 to -2.80) and in combination with lithium/valproate (YMRS) (WMD -4.01, 95% confidence interval -6.06 to -1.96). Olanzapine monotherapy was superior at reducing psychotic symptoms (PANSS positive symptoms subscale WMD: -3.54, 95% CI -5.28 to -1.80). Olanzapine was superior to divalproex at reducing manic symptoms (standardised mean difference (SMD): -0.29, 95% CI -0.50 to -0.08). Olanzapine did not lead to a statistically higher rate of clinical response than haloperidol (RR: 1.03, 95% CI 0.77 to 1.38). Fewer patients discontinued treatment on olanzapine than placebo (RR: 0.62, 95% CI 0.48 to 0.80). Olanzapine caused greater weight gain than placebo (WMD 1.91Kg, 95% CI 1.29 to 2.53) and somnolence (RR: 2.13 95% CI 1.62 to 2.79) but not more depressive symptoms (RR: 0.95, 95% CI 0.65 to 1.40) or movement disorder (WMD: -0.33, 95% CI -0.74 to 0.09). Olanzapine caused more prolactin elevation than placebo (RR: 4.35 95%CI 1.77 to 10.70). Olanzapine caused greater weight gain (WMD: 1.54, 95% CI 1.02 to 2.05); somnolence (RR: 1.80 95% CI 1.32 to 2.46) and movement disorders (SAS - WMD: 0.72 95% CI 0.11 to 1.33) than divalproex but less nausea ( RR: 0.36 95% CI 0.20 to 0.65). Olanzapine caused more weight gain than haloperidol (RR: 3.59, 95% CI 1.49 to 8.64) but less movement disorder (EPS RR: 0.10, 95% CI 0.04 to 0.24)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Olanzapine is an effective treatment for mania and may be more efficacious than divalproex, though leads to more weight gain. Clinicians should consider both the relative efficacy and the different incidence of specific adverse effects of available drugs."
+    }
+  ],
+  "pls_title": "Olanzapine compared to placebo or other medicine as treatment for mania",
+  "pls_type": "long",
+  "pls": "High withdrawal rates from the trials limit the confidence that can be placed on the results. Olanzapine was superior to placebo in reduction of manic symptoms both as monotherapy and combined with mood stabilizers, though caused weight gain. Olanzapine was more efficacious than divalproex and caused less nausea but more weight gain, somnolence and movement disorders. Olanzapine was comparable to haloperidol in efficacy, caused less movement disorders but greater weight gain."
+}

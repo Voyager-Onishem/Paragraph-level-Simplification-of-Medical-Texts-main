@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005070.pub3",
+  "name": "Recombinant luteinizing hormone (rLH) and recombinant follicle stimulating hormone (rFSH) for ovarian stimulation in IVF/ICSI cycles ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "One of the various ovarian stimulation regimens used for in-vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) cycles is the use of recombinant follicle-stimulating hormone (rFSH) in combination with a gonadotrophin-releasing hormone (GnRH) analogue. GnRH analogues prevent premature luteinizing hormone (LH) surges. Since they deprive the growing follicles of LH, the question arises as to whether supplementation with recombinant LH (rLH) would increase live birth rates. This is an updated Cochrane Review; the original version was published in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effectiveness and safety of recombinant luteinizing hormone (rLH) combined with recombinant follicle-stimulating hormone (rFSH) for ovarian stimulation compared to rFSH alone in women undergoing in-vitro fertilisation/intracytoplasmic sperm injection (IVF/ICSI)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update we searched the following databases in June 2016: the Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO and ongoing trials registers, and checked the references of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing rLH combined with rFSH versus rFSH alone in IVF/ISCI cycles."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed risk of bias, and extracted data. We combined data to calculate odds ratios (ORs) and 95% confidence intervals (CIs). We assessed statistical heterogeneity using the I2 statistic. We assessed the overall quality of the evidence for the main comparisons using GRADE methods. Our primary outcomes were live birth rate and incidence of ovarian hyperstimulation syndrome (OHSS). Secondary outcomes included ongoing pregnancy rate, miscarriage rate and cancellation rates (for poor response or imminent OHSS)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 36 RCTs (8125 women). The quality of the evidence ranged from very low to moderate. The main limitations were risk of bias (associated with poor reporting of methods) and imprecision.\nLive birth rates: There was insufficient evidence to determine whether there was a difference between rLH combined with rFSH versus rFSH alone in live birth rates (OR 1.32, 95% CI 0.85 to 2.06; n = 499; studies = 4; I2 = 63%, very low-quality evidence). The evidence suggests that if the live birth rate following treatment with rFSH alone is 17% it will be between 15% and 30% using rLH combined with rFSH.\nOHSS: There may be little or no difference between rLH combined with rFSH versus rFSH alone in OHSS rates (OR 0.38, 95% CI 0.14 to 1.01; n = 2178; studies = 6; I2 = 10%, low-quality evidence). The evidence suggests that if the rate of OHSS following treatment with rFSH alone is 1%, it will be between 0% and 1% using rLH combined with rFSH.\nOngoing pregnancy rate: The use of rLH combined with rFSH probably improves ongoing pregnancy rates, compared to rFSH alone (OR 1.20, 95% CI 1.01 to 1.42; participants = 3129; studies = 19; I2 = 2%, moderate-quality evidence). The evidence suggests that if the ongoing pregnancy rate following treatment with rFSH alone is 21%, it will be between 21% and 27% using rLH combined with rFSH.\nMiscarriage rate: The use of rLH combined with rFSH probably makes little or no difference to miscarriage rates, compared to rFSH alone (OR 0.93, 95% CI 0.63 to 1.36; n = 1711; studies = 13; I2 = 0%, moderate-quality evidence). The evidence suggests that if the miscarriage rate following treatment with rFSH alone is 7%, the miscarriage rate following treatment with rLH combined with rFSH will be between 4% and 9%.\nCancellation rates: There may be little or no difference between rLH combined with rFSH versus rFSH alone in rates of cancellation due to low response (OR 0.77, 95% CI 0.54 to 1.10; n = 2251; studies = 11; I2 = 16%, low quality evidence). The evidence suggests that if the risk of cancellation due to low response following treatment with rFSH alone is 7%, it will be between 4% and 7% using rLH combined with rFSH.\nWe are uncertain whether use of rLH combined with rFSH improves rates of cancellation due to imminent OHSS compared to rFSH alone. Use of a fixed effect model suggested a benefit in the combination group (OR 0.60, 95% CI 0.40 to 0.89; n = 2976; studies = 8; I2 = 60%, very low quality evidence) but use of a random effects model did not support the conclusion that there was a difference between the groups (OR 0.82, 95% CI 0.34 to 1.97)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no clear evidence of a difference between rLH combined with rFSH and rFSH alone in rates of live birth or OHSS. The evidence for these comparisons was of very low-quality for live birth and low quality for OHSS. We found moderate quality evidence that the use of rLH combined with rFSH may lead to more ongoing pregnancies than rFSH alone. There was also moderate-quality evidence suggesting little or no difference between the groups in rates of miscarriage. There was no clear evidence of a difference between the groups in rates of cancellation due to low response or imminent OHSS, but the evidence for these outcomes was of low or very low quality.\nWe conclude that the evidence is insufficient to encourage or discourage stimulation regimens that include rLH combined with rFSH in IVF/ICSI cycles."
+    }
+  ],
+  "pls_title": "Recombinant luteinizing hormone (rLH) and recombinant follicle-stimulating hormone (rFSH) for ovarian stimulation in IVF/ICSI cycles",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the effectiveness and safety of a combination of recombinant luteinizing hormone (rLH) and recombinant follicle-stimulating hormone (rFSH) compared to rFSH alone for ovarian stimulation in women undergoing in-vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI)?"
+    },
+    {
+      "heading": "Background",
+      "text": "In natural ovarian cycles, luteinizing hormone and follicle-stimulating hormone (FSH) are necessary for the maturation of ovarian follicles. One of the various stimulation regimens in IVF or ICSI cycles is ovarian stimulation with rFSH in combination with a gonadotrophin-releasing hormone (GnRH) analogue. GnRH analogues prevent premature luteinizing hormone surges. Since they deprive the growing follicles of luteinizing hormone, the question arises as to whether supplementation with recombinant luteinizing hormone (rLH) would increase live birth rates."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 36 randomized controlled trials comparing rLH combined with rFSH versus rFSH alone among 8125 women undergoing IVF/ICSI. This is an update of a previous Cochrane Review, first published in 2007. The evidence is current to June 2016. Only seven of the 36 studies clearly stated that they were funded by government or research institutes. Six were funded by pharmaceutical companies and the rest did not state their source of funding."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found no clear evidence of a difference between rLH combined with rFSH and rFSH alone in rates of live birth or OHSS. The evidence for these comparisons was of very low-quality for live birth and low quality for OHSS. We found moderate quality evidence that the use of rLH combined with rFSH may lead to more ongoing pregnancies than rFSH alone. There was also moderate-quality evidence suggesting little or no difference between the groups in rates of miscarriage. There was no clear evidence of a difference between the groups in rates of cancellation due to low response or imminent OHSS, but the evidence for these outcomes was of low or very low quality.\nWe conclude that the evidence is too limited to encourage or discourage stimulation regimens that include rLH combined with rFSH in IVF/ICSI cycles."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of the evidence ranged from very low to moderate. The main limitations were risk of bias (associated with poor reporting of methods) and imprecision."
+    }
+  ]
+}

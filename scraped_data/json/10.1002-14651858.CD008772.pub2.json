@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008772.pub2",
+  "name": "Probiotics for preventing urinary tract infections in adults and children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Urinary tract infection (UTI) is a common bacterial infection that can lead to significant morbidity including stricture, abscess formation, fistula, bacteraemia, sepsis, pyelonephritis and kidney dysfunction. Mortality rates are reported to be as high as 1% in men and 3% in women due to development of pyelonephritis. Because probiotic therapy is readily available without a prescription, a review of their efficacy in the prevention of UTI may aid consumers in making informed decisions about potential prophylactic therapy. Institutions and caregivers also need evidence-based synopses of current evidence to make informed patient care decisions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Compared to placebo or no therapy, did probiotics (any formulation) provide a therapeutic advantage in terms of morbidity and mortality, when used to prevent UTI in susceptible patient populations?\nCompared to other prophylactic interventions, including drug and non-drug measures (e.g. continuous antibiotic prophylaxis, topical oestrogen, cranberry juice), did probiotics (any formulation) provide a therapeutic advantage in terms of morbidity and mortality when used to prevent UTIs in susceptible patient populations?"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register to 21 September 2015 through contact with the Trials' Search Co-ordinator using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of susceptible patients (e.g. past history of UTI) or healthy people in which any strain, formulation, dose or frequency of probiotic was compared to placebo or active comparators were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All RCTs and quasi-RCTs (RCTs in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) looking at comparing probiotics to no therapy, placebo, or other prophylactic interventions were included. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies that involved 735 people in this review. Four studies compared probiotic with placebo, two compared probiotic with no treatment, two compared probiotics with antibiotics in patients with UTI, and one study compared probiotic with placebo in healthy women. All studies aimed to measure differences in rates of recurrent UTI.\nOur risk of bias assessment found that most studies had small sample sizes and reported insufficient methodological detail to enable robust assessment. Overall, there was a high risk of bias in the included studies which lead to inability to draw firm conclusions and suggesting that any reported treatment effects may be misleading or represent overestimates.\nWe found no significant reduction in the risk of recurrent symptomatic bacterial UTI between patients treated with probiotics and placebo (6 studies, 352 participants: RR 0.82, 95% CI 0.60 to 1.12; I2 = 23%) with wide confidence intervals, and statistical heterogeneity was low. No significant reduction in the risk of recurrent symptomatic bacterial UTI was found between probiotic and antibiotic treated patients (1 study, 223 participants: RR 1.12, 95% CI 0.95 to 1.33).\nThe most commonly reported adverse effects were diarrhoea, nausea, vomiting, constipation and vaginal symptoms. None of the included studies reported numbers of participants with at least one asymptomatic bacterial UTI, all-cause mortality or those with at least one confirmed case of bacteraemia or fungaemia. Two studies reported study withdrawal due to adverse events and the number of participants who experienced at least one adverse event. One study reported withdrawal occurred in six probiotic participants (5.2%), 15 antibiotic participants (12.2%), while the second study noted one placebo group participant discontinued treatment due to an adverse event."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No significant benefit was demonstrated for probiotics compared with placebo or no treatment, but a benefit cannot be ruled out as the data were few, and derived from small studies with poor methodological reporting.\nThere was limited information on harm and mortality with probiotics and no evidence on the impact of probiotics on serious adverse events. Current evidence cannot rule out a reduction or increase in recurrent UTI in women with recurrent UTI who use prophylactic probiotics. There was insufficient evidence from one RCT to comment on the effect of probiotics versus antibiotics."
+    }
+  ],
+  "pls_title": "Probiotics for preventing urinary tract infections in adults and children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Urinary tract infections (UTIs) occur in kidneys, ureters, urethra or bladder. UTIs are one of the most common bacterial infections and can lead to other health problems.\nProbiotics (live micro-organisms which, when administered in adequate amounts, confer a health benefit on the host) are thought to work by preventing other infectious bacteria from climbing up the urinary tract and causing infection. We were interested in studying any form of probiotics (bacteria used to change balance of bacteria) compared with no treatment, antibiotics, hormone therapy, cranberry juice or other interventions in people at risk of UTI. To assess if probiotics were effective, we planned to measure how many people had recurrent UTIs."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We conducted a literature search up to September 2015 and nine studies were eligible for inclusion according to our selection criteria. The nine studies reported data on 735 participants and investigated probiotics for preventing UTI: seven studies involved women or girls with recurrent UTIs, one looked at children with abnormal urinary tracts, and one investigated UTI in healthy women."
+    },
+    {
+      "heading": "Key results",
+      "text": "Generally, studies were poor quality with high risk of bias. Aside from the different populations, there were also many different species of probiotics used, different dosage forms such as vaginal and oral, and probiotics were given for varying lengths of time. All of these factors may have affected our results.\nMost studies did not collect information on adverse effects so we were unable to estimate any harms associated with probiotic therapies. We found no significant reduction in the risk of recurrent symptomatic bacterial UTI between patients treated with probiotics and placebo and no significant reduction in the risk of recurrent symptomatic bacterial UTI was found between probiotic and patients treated with antibiotics."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The currently available evidence shows no reduction in UTI using probiotics."
+    }
+  ]
+}

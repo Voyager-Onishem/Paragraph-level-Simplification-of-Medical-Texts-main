@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD006275.pub4",
+  "name": "Non‐pharmacological management of infant and young child procedural pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Despite evidence of the long-term implications of unrelieved pain during infancy, it is evident that infant pain is still under-managed and unmanaged. Inadequately managed pain in infancy, a period of exponential development, can have implications across the lifespan. Therefore, a comprehensive and systematic review of pain management strategies is integral to appropriate infant pain management. This is an update of a previously published review update in the Cochrane Database of Systematic Reviews (2015, Issue 12) of the same title."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and adverse events of non-pharmacological interventions for infant and child (aged up to three years) acute pain, excluding kangaroo care, sucrose, breastfeeding/breast milk, and music."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched CENTRAL, MEDLINE-Ovid platform, EMBASE-OVID platform, PsycINFO-OVID platform, CINAHL-EBSCO platform and trial registration websites (ClinicalTrials.gov; International Clinical Trials Registry Platform) (March 2015 to October 2020). An update search was completed in July 2022, but studies identified at this point were added to 'Awaiting classification' for a future update.\nWe also searched reference lists and contacted researchers via electronic list-serves.\nWe incorporated 76 new studies into the review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Participants included infants from birth to three years in randomised controlled trials (RCTs) or cross-over RCTs that had a no-treatment control comparison. Studies were eligible for inclusion in the analysis if they compared a non-pharmacological pain management strategy to a no-treatment control group (15 different strategies). In addition, we also analysed studies when the unique effect of adding a non-pharmacological pain management strategy onto another pain management strategy could be assessed (i.e. additive effects on a sweet solution, non-nutritive sucking, or swaddling) (three strategies). The eligible control groups for these additive studies were sweet solution only, non-nutritive sucking only, or swaddling only, respectively. Finally, we qualitatively described six interventions that met the eligibility criteria for inclusion in the review, but not in the analysis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The outcomes assessed in the review were pain response (reactivity and regulation) and adverse events. The level of certainty in the evidence and risk of bias were based on the Cochrane risk of bias tool and the GRADE approach. We analysed the standardised mean difference (SMD) using the generic inverse variance method to determine effect sizes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included total of 138 studies (11,058 participants), which includes an additional 76 new studies for this update. Of these 138 studies, we analysed 115 (9048 participants) and described 23 (2010 participants) qualitatively. We described qualitatively studies that could not be meta-analysed due to being the only studies in their category or statistical reporting issues. We report the results of the 138 included studies here. An SMD effect size of 0.2 represents a small effect, 0.5 a moderate effect, and 0.8 a large effect. The thresholds for the I2 interpretation were established as follows: not important (0% to 40%); moderate heterogeneity (30% to 60%); substantial heterogeneity (50% to 90%); considerable heterogeneity (75% to 100%). The most commonly studied acute procedures were heel sticks (63 studies) and needlestick procedures for the purposes of vaccines/vitamins (35 studies). We judged most studies to have high risk of bias (103 out of 138), with the most common methodological concerns relating to blinding of personnel and outcome assessors. Pain responses were examined during two separate pain phases: pain reactivity (within the first 30 seconds after the acutely painful stimulus) and immediate pain regulation (after the first 30 seconds following the acutely painful stimulus). We report below the strategies with the strongest evidence base for each age group.\nIn preterm born neonates, non-nutritive sucking may reduce pain reactivity (SMD -0.57, 95% confidence interval (CI) -1.03 to -0.11, moderate effect; I2 = 93%, considerable heterogeneity) and improve immediate pain regulation (SMD -0.61, 95% CI -0.95 to -0.27, moderate effect; I2 = 81%, considerable heterogeneity), based on very low-certainty evidence. Facilitated tucking may also reduce pain reactivity (SMD -1.01, 95% CI -1.44 to -0.58, large effect; I2 = 93%, considerable heterogeneity) and improve immediate pain regulation (SMD -0.59, 95% CI -0.92 to -0.26, moderate effect; I2 = 87%, considerable heterogeneity); however, this is also based on very low-certainty evidence. While swaddling likely does not reduce pain reactivity in preterm neonates (SMD -0.60, 95% CI -1.23 to 0.04, no effect; I2 = 91%, considerable heterogeneity), it has been shown to possibly improve immediate pain regulation (SMD -1.21, 95% CI -2.05 to -0.38, large effect; I2 = 89%, considerable heterogeneity), based on very low-certainty evidence.\nIn full-term born neonates, non-nutritive sucking may reduce pain reactivity (SMD -1.13, 95% CI -1.57 to -0.68, large effect; I2 = 82%, considerable heterogeneity) and improve immediate pain regulation (SMD -1.49, 95% CI -2.20 to -0.78, large effect; I2 = 92%, considerable heterogeneity), based on very low-certainty evidence.\nIn full-term born older infants, structured parent involvement was the intervention most studied. Results showed that this intervention has little to no effect in reducing pain reactivity (SMD -0.18, 95% CI -0.40 to 0.03, no effect; I2 = 46%, moderate heterogeneity) or improving immediate pain regulation (SMD -0.09, 95% CI -0.40 to 0.21, no effect; I2 = 74%, substantial heterogeneity), based on low- to moderate-certainty evidence.\nOf these five interventions most studied, only two studies observed adverse events, specifically vomiting (one preterm neonate) and desaturation (one full-term neonate hospitalised in the NICU) following the non-nutritive sucking intervention. The presence of considerable heterogeneity limited our confidence in the findings for certain analyses, as did the preponderance of evidence of very low to low certainty based on GRADE judgements."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, non-nutritive sucking, facilitated tucking, and swaddling may reduce pain behaviours in preterm born neonates. Non-nutritive sucking may also reduce pain behaviours in full-term neonates. No interventions based on a substantial body of evidence showed promise in reducing pain behaviours in older infants. Most analyses were based on very low- or low-certainty grades of evidence and none were based on high-certainty evidence. Therefore, the lack of confidence in the evidence would require further research before we could draw a definitive conclusion."
+    }
+  ],
+  "pls_title": "How can caregivers manage pain in infants and young children undergoing painful procedures?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Non-nutritive sucking (an object, such as pacifier, being placed in an infant's mouth to stimulate sucking behaviours), facilitated tucking (containing the infant using a care-giver's hands on both head and lower limbs to maintain a 'folded-in' position), and swaddling (wrapping the infant tightly in a blanket to prevent excessive limb movement) are among the most promising strategies that may reduce pain behaviours in preterm newborns. Non-nutritive sucking may reduce pain behaviours in full-term newborns. None of the strategies analysed reduced pain behaviours in older infants with sufficient evidence. Structured parent involvement (parents instructed on using strategies, such as shushing, rocking, tickling, or distraction, without being given any materials to aid them) did have a more substantial evidence base but did not have an effect on reducing pain behaviours."
+    },
+    {
+      "heading": "Introduction of review topic",
+      "text": "Infants and young children get exposed to several acute (lasting a short time) painful medical procedures in the first three years of life. Receiving these painful procedures without adequate pain management strategies can have negative effects on their development."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We studied several pain management strategies (excluding kangaroo care, sucrose, breastfeeding/breast milk, and music due to existing reviews on these strategies) after acute medical procedures in preterm born newborns, full-term born newborns, and full-term born older infants up to the age of three, to understand how effective these strategies are at reducing pain."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We assessed 24 different strategies for reducing young children's pain after medical procedures using care-giving strategies that do not require medication, such as using a pacifier, swaddling a child, and massaging a child. We compared the pain-reducing effects of these strategies to groups receiving no pain management strategies. When possible, we also compared groups receiving one strategy to those receiving multiple strategies to see whether multiple strategies lead to more pain reduction. We looked at whether there was a difference in the impact of the interventions depending on whether the infant had just had the painful procedure (pain reactivity phase), as opposed to calming down from the peak distress (immediate pain regulation phase).\nWe converted different measures of pain intensity (coded by either trained nurses or research staff) into a standard scale to help readers interpret the findings. The standard scale ranges from 0 to 21, with 0 being no pain and 21 being very severe pain."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "This updated Cochrane Review included 138 randomised controlled trials (trials in which participants were randomly assigned to one of two or more treatment groups) involving 11,058 participants undergoing a painful acute medical procedure. Non-nutritive sucking, swaddling, facilitated tucking, and structured parent involvement were the four strategies most studied.\nIn preterm newborns, there was evidence that non-nutritive sucking, facilitated tucking, and swaddling may reduce pain. On the standard scale, preterm newborns receiving non-nutritive sucking may, on average, score two points lower than preterms receiving no strategies both immediately after the painful procedure and when calming down from peak distress. Preterm newborns receiving facilitated tucking may, on average, score 3.5 points lower immediately after a painful procedure and two points lower when calming down from peak distress compared to preterms receiving no pain management strategies. While swaddling does not seem to reduce pain scores immediately after the painful procedure, swaddled preterm newborns may score, on average, four points lower than newborns receiving no strategies when calming down from distress.\nIn full-term newborns, non-nutritive sucking may reduce pain. On the standard scale, full-term newborns receiving non-nutritive sucking may, on average, score four points lower immediately after a painful procedure and five points lower when calming down from peak distress compared to newborns receiving no pain management strategies.\nStructured parent involvement was the strategy most studied in full-term born older infants, but evidence showed that this strategy likely has little to no pain reduction effect in this age group.\nAdverse events were very rare across these strategies. Following non-nutritive sucking, one preterm newborn vomited and one full-term newborn had lower oxygen levels. No adverse events occurred following swaddling, facilitated tucking, or structured parent involvement."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The results of this review are based on very uncertain evidence. Many studies were too small or there were not enough studies on particular interventions to be certain about the results for our outcomes. There was also inconsistency across studies because the administration of non-pharmacological interventions varied widely across trials in different settings. Many studies also used methods likely to introduce errors in their results. Overall, none of the analyses presented here were based on enough evidence to allow us to draw firm conclusions (i.e. high-certainty studies from at least two independent research groups)."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "This review is based on evidence up until October 2020. The search for studies was updated up to July 2022 and 33 eligible studies are awaiting assessment and will be incorporated in to a future update of this review."
+    }
+  ]
+}

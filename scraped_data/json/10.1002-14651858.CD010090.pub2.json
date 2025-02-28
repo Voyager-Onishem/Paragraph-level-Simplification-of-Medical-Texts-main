@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010090.pub2",
+  "name": "Interventions for improving employment outcomes for workers with HIV",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The vast majority of people infected with human immunodeficiency virus (HIV) are adults of working age. Therefore unemployment and job loss resulting from HIV infection are major public health and economic concerns. Return to work (RTW) after diagnosis of HIV is a long and complex process, particularly if the individual has been absent from work for long periods. There have been various efforts to improve the RTW of persons living with HIV (HIV+), and many of these have been assessed formally in intervention studies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effect of interventions aimed at sustaining and improving employment in HIV+ persons."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a comprehensive search from 1981 until December 2014 in the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, OSH UPDATE databases (CISDOC, HSELINE, NIOSHTIC, NIOSHTIC-2, RILOSH), and PsycINFO."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion all randomized controlled trials (RCTs) or controlled before-after (CBA) studies assessing the effectiveness of pharmacological, vocational and psychological interventions with HIV+ working-aged (16 years or older) participants that had used RTW or other indices of employment as outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened all potential references for inclusion. We determined final selection of studies by consensus. We performed data extraction and management, as well as Risk of bias assessment, in duplicate. We measured the treatment effect using odds ratio (OR) for binary outcomes and mean difference (MD) for continuous outcomes. We applied the GRADE approach to appraise the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found one RCT with 174 participants and five CBAs with 48,058 participants assessing the effectiveness of vocational training (n = 1) and antiretroviral therapy (ART) (n = 5). We found no studies assessing psychological interventions. The one RCT was conducted in the United States; the five CBA studies were conducted in South Africa, India, Kenya, and Uganda. We graded all six studies as having a high risk of bias.\nThe effectiveness of vocational intervention was assessed in only one study but we could not infer the intervention effect due to a lack of data.\nFor pharmacological interventions, we found very low-quality evidence for a beneficial effect of ART on employment outcomes in five studies. Due to differences in outcome measurement we could only combine the results of two studies in a meta-analysis.\nTwo studies compared employment outcomes of HIV+ persons on ART therapy to healthy controls. One study found a MD of -1.22 days worked per month (95% confidence interval (CI) -1.74 to -1.07) at 24-months follow-up. The other study found that the likelihood of being employed steadily increased for HIV+ persons compared to healthy individuals from ART initiation (OR 0.35, 95% CI 0.26 to 0.47) to three- to five-years follow-up (OR 0.73, 95% CI 0.42 to 1.28).\nThree other studies compared HIV+ persons on ART to HIV+ persons not yet on ART. Two studies indicated an increase in the likelihood of employment over time due to the impact of ART for HIV+ persons compared to HIV+ persons pre-ART (OR 1.75, 95% CI 1.44 to 2.12). One study found that the group on ART worked 12.1 hours more (95% CI 6.99 to 17.21) per week at 24-months follow-up than the average of the cohort of ART and pre-ART HIV+ persons which was 20.1 hours.\nWe rated the evidence as very low quality for all comparisons due to a high risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found very low-quality evidence showing that ART interventions may improve employment outcomes for HIV+ persons. For vocational interventions, the one included study produced no evidence of an intervention effect. We found no studies that assessed psychological interventions. We need more high-quality, preferably randomized studies to assess the effectiveness of RTW interventions for HIV+ persons."
+    }
+  ],
+  "pls_title": "Interventions for improving employment outcomes for workers with HIV",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "For people living with HIV(HIV+), losing their job can make it even harder to cope with the illness. This review aimed to assess how we can prevent HIV+ people from losing their jobs or help them return to work. There are three approaches to achieve these aims. The first one is to use drugs, meaning antiretroviral therapy, to keep the disease and its symptoms from getting worse. The second is to make changes to work tasks or the work environment. The third is to offer psychological support to help the HIV+ person cope better with their condition, especially at work. We included studies that assessed the effects of one or more of these approaches. The effect of interventions can be measured as whether HIV+ persons are employed or not, and as the number of days or hours HIV+ persons were able to work following an intervention."
+    },
+    {
+      "heading": "Studies we found",
+      "text": "We found five controlled before-after (CBA) studies from South Africa, India, Uganda, and Kenya and one randomized controlled trial from the USA. The studies included over 48,000 participants. Five studies examined antiretroviral therapy and one study examined vocational interventions as a way of improving return to work in HIV+ people."
+    },
+    {
+      "heading": "Key findings",
+      "text": "The five CBA studies found that antiretroviral therapy interventions may increase employment outcomes in HIV+ people. One study assessed the effect of making changes to work tasks or the work environment but did not report enough data to say if it helped or not. We found no studies on psychological support to help HIV+ people cope better."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, we found very low-quality evidence because the included studies all had a high risk of bias."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "We found very low-quality evidence that antiretroviral therapy interventions could improve employment outcomes for HIV+ people. We need high-quality, randomized trials to find out if pharmacological, vocational, and psychological interventions can improve employment outcomes for HIV+ people."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013506.pub2",
+  "name": "Magnesium sulfate for acute exacerbations of chronic obstructive pulmonary disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is a chronic and progressive disease, often punctuated by recurrent flare-ups or exacerbations. Magnesium sulfate, having a bronchodilatory effect, may have a potential role as an adjunct treatment in COPD exacerbations. However, comprehensive evidence of its effects is required to facilitate clinical decision-making."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of magnesium sulfate for acute exacerbations of chronic obstructive pulmonary disease in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Trials Register, CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, the World Health Organization (WHO) trials portal, EU Clinical Trials Register and Iranian Registry of Clinical Trials. We also searched the proceedings of major respiratory conferences and reference lists of included studies up to 2 August 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included single- or double-blind parallel-group randomised controlled trials (RCTs) assessing magnesium sulfate in adults with COPD exacerbations. We excluded cross-over trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Two review authors independently selected trials for inclusion, extracted data and assessed risk of bias. The primary outcomes were: hospital admissions (from the emergency room); need for non-invasive ventilation (NIV), assisted ventilation or admission to intensive-care unit (ICU); and serious adverse events. Secondary outcomes were: length of hospital stay, mortality, adverse events, dyspnoea score, lung function and blood gas measurements. We assessed confidence in the evidence using GRADE methodology. For missing data, we contacted the study investigators."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 11 RCTs (10 double-blind and 1 single-blind) with a total 762 participants. The mean age of participants ranged from 62 to 76 years. Trials were single- or two-centre trials conducted in Iran, New Zealand, Nepal, Turkey, the UK, Tunisia and the USA between 2004 and 2018. We judged studies to be at low or unclear risk of bias for most of the domains. Three studies were at high risk for blinding and other biases.\nIntravenous magnesium sulfate versus placebo\nSeven studies (24 to 77 participants) were included. Fewer people may require hospital admission with magnesium infusion compared to placebo (odds ratio (OR) 0.45, 95% CI 0.23 to 0.88; number needed to treat for an additional beneficial outcome (NNTB) = 7; 3 studies, 170 participants; low-certainty evidence). Intravenous magnesium may result in little to no difference in the requirement for non-invasive ventilation (OR 0.74, 95% CI 0.31 to 1.75; very low-certainty evidence). There were no reported cases of endotracheal intubation (2 studies, 107 participants) or serious adverse events (1 study, 77 participants) in either group. Included studies did not report intensive care unit (ICU) admission or deaths. Magnesium infusion may reduce the length of hospital stay by a mean difference (MD) of 2.7 days (95% CI 4.73 days to 0.66 days; 2 studies, 54 participants; low-certainty evidence) and improve dyspnoea score by a standardised mean difference of -1.40 (95% CI -1.83 to -0.96; 2 studies, 101 participants; low-certainty evidence). We were uncertain about the effect of magnesium infusion on improving lung function or oxygen saturation. For all adverse events, the Peto OR was 0.14 (95% CI 0.02 to 1.00; 102 participants); however, the event rate was too low to reach a robust conclusion.\nNebulised magnesium sulfate versus placebo\nThree studies (20 to 172 participants) were included. Magnesium inhalation may have little to no impact on hospital admission (OR 0.77, 95% CI 0.21 to 2.82; very low-certainty evidence) or need for ventilatory support (NIV or mechanical ventilation) (OR 0.33, 95% CI 0.01 to 8.20; very low-certainty evidence). It may result in fewer ICU admissions compared to placebo (OR 0.39, 95% CI 0.15 to 1.00; very low-certainty evidence) and improvement in dyspnoea (MD -14.37, 95% CI -26.00 to -2.74; 1 study, 20 participants; very low-certainty evidence). There were no serious adverse events reported in either group. There was one reported death in the placebo arm in one trial, but the number of participants was too small for a conclusion. There was limited evidence about the effect of magnesium inhalation on length of hospital stay, lung function outcomes or oxygen saturation. Included studies did not report adverse events.\nMagnesium sulfate versus ipratropium bromide\nA single study with 124 participants assessed nebulised magnesium sulfate plus intravenous magnesium infusion versus nebulised ipratropium plus intravenous normal saline. There was little to no difference between these groups in terms of hospital admission (OR 1.62, 95% CI 0.78 to 3.37), endotracheal intubation (OR 1.69, 95% CI 0.61 to 4.71) and length of hospital stay (MD 1.10 days, 95% CI -0.22 to 2.42), all with very low-certainty evidence. There were no data available for non-invasive ventilation, ICU admission and serious adverse events. Adverse events were not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Intravenous magnesium sulfate may be associated with fewer hospital admissions, reduced length of hospital stay and improved dyspnoea scores compared to placebo. There is no evidence of a difference between magnesium infusion and placebo for NIV, lung function, oxygen saturation or adverse events. We found no evidence for ICU admission, endotracheal intubation, serious adverse events or mortality.\nFor nebulised magnesium sulfate, we are unable to draw conclusions about its effects in COPD exacerbations for most of the outcomes. Studies reported possibly lower ICU admissions and a lesser degree of dyspnoea with magnesium inhalation compared to placebo; however, larger studies are required to yield a more precise estimate for these outcomes. Similarly, we could not identify any robust evidence for magnesium sulfate compared to ipratropium bromide. Future well-designed multicentre trials with larger samples are required, including subgroups according to severity of exacerbations and COPD phenotypes."
+    }
+  ],
+  "pls_title": "Is magnesium sulfate effective for chronic obstructive pulmonary disease (COPD) flare-ups?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "COPD is a long-standing disease of the lungs that causes airway narrowing. COPD flare-ups are episodes of worsening symptoms in people diagnosed with COPD, described as exacerbations in this review. Magnesium sulfate is reported to be able to widen the airways to help breathing. Magnesium sulfate can be given as an infusion into the veins or as an inhalation via a device called a nebuliser. Some studies have shown it to be helpful as an add-on to usual care in people with COPD flare-ups. Therefore, we wanted to discover whether using magnesium sulfate was better or worse than other alternatives, such as usual care alone or placebo. Placebo is an infusion or inhalation of normal saline (salt water) through a nebuliser."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 11 studies involving 762 people with COPD flare-ups. These studies were funded by local health authorities, researchers or universities where researchers work. Usually, neither the participants nor the people doing the research knew which treatment the participants were getting; although in one study, treatment was known to the people who were doing the research. Studies were done in one or two centres in many countries between 2004 and 2018. The average age of participants ranged from 62 to 76 years. Seven studies tested magnesium infusion, three studies assessed magnesium inhalation, and one study examined both. The evidence in this review is current to 2 August 2021."
+    },
+    {
+      "heading": "Key results",
+      "text": "People who received magnesium infusion may have fewer admissions to hospital from the emergency room. Seven people with COPD flare-ups would need to be treated with magnesium infusion to prevent one additional person being admitted to hospital. There was little to no difference in terms of breathing support without intubation (putting a tube into the windpipe to help a person to breathe). None of the participants required breathing support with intubation. Included studies did not report ICU admission or deaths. Only one trial reported on serious adverse events, but no-one in the study experienced any. Magnesium infusion may shorten the duration of hospital stay and reduce breathlessness. However, we were not clear about its effect on lung function, oxygen concentration in blood or adverse events.\nMagnesium inhalation (nebuliser) had little or no effect on hospital admission or the need for breathing support (with or without intubation) compared to placebo. Nebulised magnesium may reduce ICU admission and improve breathlessness. However, we are not confident of these findings due to small number of participants and study limitations. There is no evidence of a difference for duration of hospital stay, lung function or oxygen saturation in blood. Serious adverse events were not reported. There is no available data for adverse events. One trial reported one death in the placebo group, but we are not confident to draw any conclusion as the trial had very few participants.\nOnly one study compared magnesium sulfate inhalation and infusion versus inhaled ipratropium bromide and placebo infusion. We could not identify any differences between the effects of these treatments."
+    },
+    {
+      "heading": "Limitations of the evidence",
+      "text": "Magnesium infusion may reduce hospital admissions, shorten length of hospital stay and improve breathlessness compared to placebo. We are very uncertain about its effect on the need for breathing support, lung function or blood oxygen concentration because the studies were small. We do not have enough information to assess any effects on serious adverse events or deaths. The effects of magnesium inhalation compared to placebo or magnesium sulfate versus ipratropium bromide are unclear.\nMagnesium sulfate infusion may be useful as an add-on treatment for COPD flare-ups. However, we cannot draw conclusions about whether magnesium sulfate inhalation is helpful for use in people with COPD flare-ups."
+    }
+  ]
+}

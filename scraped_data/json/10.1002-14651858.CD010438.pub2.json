@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010438.pub2",
+  "name": "Thromboelastography (TEG) and rotational thromboelastometry (ROTEM) for trauma‑induced coagulopathy in adult trauma patients with bleeding ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Trauma-induced coagulopathy (TIC) is a disorder of the blood clotting process that occurs soon after trauma injury. A diagnosis of TIC on admission is associated with increased mortality rates, increased burdens of transfusion, greater risks of complications and longer stays in critical care. Current diagnostic testing follows local hospital processes and normally involves conventional coagulation tests including prothrombin time ratio/international normalized ratio (PTr/INR), activated partial prothrombin time and full blood count. In some centres, thromboelastography (TEG) and rotational thromboelastometry (ROTEM) are standard tests, but in the UK they are more commonly used in research settings."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objective was to determine the diagnostic accuracy of thromboelastography (TEG) and rotational thromboelastometry (ROTEM) for TIC in adult trauma patients with bleeding, using a reference standard of prothrombin time ratio and/or the international normalized ratio."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We ran the search on 4 March 2013. Searches ran from 1970 to current. We searched The Cochrane Library, MEDLINE (OvidSP), EMBASE Classic and EMBASE, eleven other databases, the web, and clinical trials registers. The Cochrane Injuries Group's specialised register was not searched for this review as it does not contain diagnostic test accuracy studies. We also screened reference lists, conducted forward citation searches and contacted authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all cross-sectional studies investigating the diagnostic test accuracy of TEG and ROTEM in patients with clinically suspected TIC, as well as case-control studies. Participants were adult trauma patients in both military and civilian settings. TIC was defined as a PTr/INR reading of 1.2 or greater, or 1.5 or greater."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We piloted and performed all review stages in duplicate, including quality assessment using the QUADAS-2 tool, adhering to guidance in the Cochrane Handbook for Diagnostic Test Accuracy Reviews. We analysed sensitivity and specificity of included studies narratively as there were insufficient studies to perform a meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three studies were included in the final analysis. All three studies used ROTEM as the test of global haemostatic function, and none of the studies used TEG. Tissue factor-activated assay EXTEM clot amplitude (CA) was the focus of the accuracy measurements in blood samples taken near to the point of admission. These CAs were not taken at a uniform time after the start of the coagulopathic trace; the time varied from five minutes, to ten minutes and fifteen minutes. The three included studies were conducted in the UK, France and Afghanistan in both civilian and military trauma settings. In two studies, median Injury Severity Scores were 12, inter-quartile range (IQR) 4 to 24; and 22, IQR 12 to 34; and in one study the median New Injury Severity Score was 34, IQR 17 to 43.\nThere were insufficient included studies examining each of the three ROTEM CAs at 5, 10 and 15 minutes to make meta-analysis and investigation of heterogeneity valid. The results of the included studies are thus reported narratively and illustrated by a forest plot and results plotted on the receiver operating characteristic (ROC) plane.\nFor CA5 the accuracy results were sensitivity 70% (95% CI 47% to 87%) and specificity 86% (95% CI 82% to 90%) for one study, and sensitivity 96% (95% CI 88% to 100%) and specificity 58% (95% CI 44% to 72%) for the other.\nFor CA10 the accuracy results were sensitivity 100% (95% CI 94% to 100%) and specificity 70% (95% CI 56% to 82%).\nFor CA15 the accuracy results were sensitivity 88% (95% CI 69% to 97%) and specificity 100% (95% CI 94% to 100%).\nNo uninterpretable ROTEM study results were mentioned in any of the included studies.\nRisk of bias and concerns around applicability of findings was low across all studies for the patient and flow and timing domains. However, risk of bias and concerns around applicability of findings for the index test domain was either high or unclear, and the risk of bias for the reference standard domain was high. This raised concerns around the interpretation of the sensitivity and specificity results of the included studies, which may be misleading."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence on the accuracy of TEG and very little evidence on the accuracy of ROTEM. The value of accuracy estimates are considerably undermined by the small number of included studies, and concerns about risk of bias relating to the index test and the reference standard. We recognise that the reference standards of PT and INR are imperfect, but in the absence of embedded clinical consensus these are judged to be the best reflection of current clinical practice. We are unable to offer advice on the use of global measures of haemostatic function for trauma based on the evidence on test accuracy identified in this systematic review. This evidence strongly suggests that at present these tests should only be used for research. We consider more thoroughly what this research could be in the Discussion section."
+    }
+  ],
+  "pls_title": "TEG and ROTEM for diagnosing trauma‑induced coagulopathy (disorder of the clotting system) in adult trauma patients with bleeding",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is 'trauma-induced coagulopathy'?",
+      "text": "Trauma-induced coagulopathy (TIC) is a disorder of the blood clotting process that can occur soon after trauma injury that can lead to the patient bleeding to death. A diagnosis of TIC on admission to hospital is associated with increases in death rates, blood transfusions, risks of complications and length of stay in hospital."
+    },
+    {
+      "heading": "How is TIC diagnosed?",
+      "text": "Current testing for TIC normally involves coagulation tests on the patient's blood."
+    },
+    {
+      "heading": "What are thromboelastography (TEG) and rotational thromboelastometry (ROTEM)?",
+      "text": "Thromboelastography (TEG) and rotational thromboelastometry (ROTEM) are tests which involve a group of assessments that can be used to diagnose TIC. In some centres TEG and ROTEM are used routinely to test patients' blood, but in the UK their use is usually restricted to experimental and research settings."
+    },
+    {
+      "heading": "The purpose of this research",
+      "text": "The purpose of this research was to determine how good the TEG and ROTEM assessments are at diagnosing TIC in adult trauma patients who are bleeding. The accuracy of TEG and ROTEM was compared against another test that is currently used (the reference standard), which was the prothrombin time/international normalized ratio (PTr/INR)."
+    },
+    {
+      "heading": "What we discovered",
+      "text": "We identified 3 studies (with 300, 90 and 40 participants; 430 in total) that compared the diagnostic test accuracy of TEG or ROTEM for identifying TIC in bleeding adult trauma patients within the emergency setting against PTr/INR. We recognise that the reference standards of PT and INR are imperfect, but in the absence of embedded clinical consensus these are judged to be the best reflection of current clinical practice. Readers should note that the assessment of test accuracy was not the single purpose of any of these 3 included studies.\nNone of the 3 studies investigated the accuracy of the TEG assessment; they all investigated the ROTEM assessment. The 3 studies provided very little evidence on the accuracy of ROTEM, and provided results for only one potential indicator of TIC (clot amplitude (CA) at 5, 10 and 15 minutes (CA5, CA10 and CA15)), although other indicators could have been used.\nThe overall reliability of the estimates of accuracy for CA was undermined by the low number of studies (2 for CA5 measurements and 1 each for CA10 and CA15 measurements), as well as concerns that the studies might be subject to bias concerning aspects of the ROTEM test and the PTr/INR test being used as the reference standard.\nThere was not enough research available on the test accuracy of TEG or ROTEM for the researchers to determine whether these assessments provide a good test for diagnosing TIC in bleeding adult trauma patients.\nThis evidence strongly suggests that at the moment these tests should only be used for research. The review emphasises that it is not enough to define the index test solely in terms of the device (TEG and ROTEM). Both ROTEM and TEG offer a number of measures: time to initiate clotting; time of clot formation; alpha angle; clot amplitude; maximum strength of clot; time to maximum clot strength; time to lysis of different degrees. These are illustrated in Figure 7. In addition, the protocol for initiating clotting also needs to be specified e.g. INTEM, EXTEM or FIBTEM in the case of ROTEM. Greater clarity is needed on which of these measures is most reliable and which is most relevant for particular clinical tasks; there may be more than one. Finally, different test evaluations may help in assessing these various aspects of the tests. Evaluations of predictive studies may shed light on the link between test result and patient outcome, and provide insight into the best treatment strategies for this condition and patient group. The authors of this review are currently conducting a review of such predictive studies, and this is registered on the International Prospective Register of Systematic Reviews (PROSPERO)."
+    }
+  ]
+}

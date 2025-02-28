@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012042.pub2",
+  "name": "Providing physicians with feedback on medication adherence for people with chronic diseases taking long‐term medication ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Poor medication adherence decreases treatment efficacy and worsens clinical outcomes, but average rates of adherence to long-term pharmacological treatments for chronic illnesses are only about 50%. Interventions for improving medication adherence largely focus on patients rather than on physicians; however, the strategies shown to be effective are complex and difficult to implement in clinical practice. There is a need for new care models addressing the problem of medication adherence, integrating this problem into the patient care process. Physicians tend to overestimate how well patients take their medication as prescribed. This can lead to missed opportunities to change medications, solve adverse effects, or propose the use of reminders in order to improve patients' adherence. Thus, providing physicians with feedback on medication adherence has the potential to prompt changes that improve their patients' adherence to prescribed medications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of providing physicians with feedback about their patients' medication adherence for improving adherence. We also assessed the effects of the intervention on patient outcomes, health resource use, and processes of care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase, all from database inception to December 2016 and without any language restriction. We also searched ISI Web of Science, two trials registers, and grey literature."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials, controlled before-after studies, and interrupted time series studies that compared the effects of providing feedback to physicians about their patients' adherence to prescribed long-term medications for chronic diseases versus usual care. We included published or unpublished studies in any language. Participants included any physician and any patient prescribed with long-term medication for chronic disease. We included interventions providing the prescribing physician with information about patient adherence to medication. Only studies in which feedback to the physician was the sole intervention or the essential component of a multifaceted intervention were eligible. In the comparison groups, the physicians should not have had access to information about their patients' adherence to medication. We considered the following outcomes: medication adherence, patient outcomes, health resource use, processes of care, and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors extracted and analysed all data using standard methodological procedures expected by Cochrane and the Effective Practice and Organisation of Care group. Due to heterogeneity in study methodology, comparison groups, intervention settings, and measurements of outcomes, we did not carry out meta-analysis. We describe the impact of interventions on outcomes in tabular form and make a qualitative assessment of the effects of studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies (23,255 patient participants): eight randomised trials and one interrupted time series analysis. The studies took place in primary care and other outpatient settings in the USA and Canada. Seven interventions involved the systematic provision of feedback to physicians concerning all their patients' adherence to medication, and two interventions involved issuing an alert for non-adherent patients only. Seven studies used pharmacy refill data to assess medication adherence, and two used an electronic device or self-reporting. The definition of adherence differed across studies, making comparisons difficult. Eight studies were at high risk of bias, and one study was at unclear risk of bias. The most frequent source of bias was lack of protection against contamination.\nProviding physicians with feedback may lead to little or no difference in medication adherence (seven studies, 22,924 patients), patient outcomes (two studies, 1292 patients), or health resource use (two studies, 4181 patients). Providing physicians with feedback on medication adherence may improve processes of care (e.g. more medication changes, dialogue with patient, management of uncontrolled hypertension) compared to usual care (four studies, 2780 patients). None of the studies reported an adverse event due to the intervention. The certainty of evidence was low for all outcomes, mainly due to high risk of bias, high heterogeneity across studies, and indirectness of evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Across nine studies, we observed little or no evidence that provision of feedback to physicians regarding their patients adherence to prescribed medication improved medication adherence, patient outcomes, or health resource use. Feedback about medication adherence may improve processes of care, but due to the small number of studies assessing this outcome and high risk of bias, we cannot draw firm conclusions on the effect of feedback on this outcome. Future research should use a clear, standardised definition of medication adherence and cluster-randomisation to avoid the risk of contamination."
+    }
+  ],
+  "pls_title": "Providing physicians with feedback on medication adherence for people with chronic diseases taking long-term medication",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out whether providing physicians with feedback about the medication adherence of their patients with chronic disease that take long-term medication can improve adherence, patient outcomes, health resource use, and processes of care."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Providing physicians with feedback about the medication adherence of their patients may lead to little or no difference in patients' adherence to prescribed medications, patient outcomes, and health resource use, but it may improve processes of care. The certainty of the evidence is low."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Physicians tend to overestimate how well their patients take medication as prescribed and therefore miss opportunities to improve adherence. These opportunities include actions such as changing medications, solving adverse effects, and proposing the use of medication reminders. Thus, informing physicians about their patients' medication adherence could change physician behaviour and in turn improve medication adherence."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found nine well-designed studies involving 23,255 patients. All of the studies took place in outpatient settings. We found that providing physicians with feedback about their patients' medication adherence may lead to little or no difference in adherence, patient outcomes, or health resource use, but it may improve processes of care. Feedback to physicians alone is probably insufficient to affect adherence. The certainty of the evidence for each outcome is low."
+    },
+    {
+      "heading": "How up-to-date this review?",
+      "text": "We searched for studies that had been published up to 2 December 2016."
+    }
+  ]
+}

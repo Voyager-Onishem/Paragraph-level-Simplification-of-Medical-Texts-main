@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010135.pub2",
+  "name": "Spectral entropy monitoring for adults and children undergoing general anaesthesia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Anaesthetic drugs during general anaesthesia are titrated according to sympathetic or somatic responses to surgical stimuli. It is now possible to measure depth of anaesthesia using electroencephalography (EEG). Entropy, an EEG-based monitor can be used to assess the depth of anaesthesia using a strip of electrodes applied to the forehead, and this can guide intraoperative anaesthetic drug administration."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of this review was to assess the effectiveness of entropy monitoring in facilitating faster recovery from general anaesthesia. We also wanted to assess mortality at 24 hours, 30 days, and one year following general anaesthesia with entropy monitoring.\nThe secondary objectives were to assess the effectiveness of the entropy monitor in: preventing postoperative recall of intraoperative events (awareness) following general anaesthesia; reducing the amount of anaesthetic drugs used; reducing cost of the anaesthetic as well as in reducing time to readiness to leave the postanaesthesia care unit (PACU)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 10), MEDLINE via Ovid SP (1990 to September 2014) and EMBASE via Ovid SP (1990 to September 2014). We reran the search in CENTRAL, MEDLINE via Ovid SP and EMBASE via Ovid SP in January 2016. We added one potential new study of interest to the list of ‘Studies awaiting Classification' and we will incorporate this study into the formal review findings during the review update."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) conducted in adults and children (aged greater than two years of age), where in one arm entropy monitoring was used for titrating anaesthesia, and in the other standard practice (increase in heart rate, mean arterial pressure, lacrimation, movement in response to noxious surgical stimuli) was used for titrating anaesthetic drug administration. We also included trials with an additional third arm, wherein another EEG monitor, the Bispectral index (BIS) monitor was used to assess anaesthetic depth."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Two review authors independently extracted details of trial methodology and outcome data from trials considered eligible for inclusion. All analyses were made on an intention-to-treat basis. We used a random-effect model where there was heterogeneity. For assessments of the overall quality of evidence for each outcome that included pooled data from RCTs, we downgraded evidence from 'high quality' by one level for serious (or by two for very serious) study limitations (risk of bias, indirectness of evidence, serious inconsistency, imprecision of effect or potential publication bias)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 RCTs (962 participants). Eight RCTs (762 participants) were carried out on adults (18 to 80 years of age), two (128 participants) involved children (two to 16 years) and one RCT (72 participants) included patients aged 60 to 75 years. Of the 11 included studies, we judged three to be at low risk of bias, and the remaining eight RCTs at unclear or high risk of bias.\nSix RCTs (383 participants) estimated the primary outcome, time to awakening after stopping general anaesthesia, which was reduced in the entropy as compared to the standard practice group (mean difference (MD) -5.42 minutes, 95% confidence interval (CI) -8.77 to -2.08; moderate quality of evidence). We noted heterogeneity for this outcome; on performing subgroup analysis this was found to be due to studies that included participants undergoing major, long duration surgeries (off-pump coronary artery bypass grafting, major urological surgery). The MD for time to awakening with four studies on ambulatory procedures was -3.20 minutes (95% CI -3.94 to -2.45). No trial reported the second primary outcome, mortality at 24 hours, 30 days, and one year with the use of entropy monitoring.\nEight trials (797 participants) compared the secondary outcome, postoperative recall of intraoperative events (awareness) in the entropy and standard practice groups. Awareness was reported by only one patient in the standard practice group, making meaningful estimation of benefit of entropy monitoring difficult; moderate quality of evidence.\nAll 11 RCTs compared the amount of anaesthetic agent used between the entropy and standard practice groups. Six RCTs compared the amount of propofol, four compared the amount of sevoflurane and one the amount of isoflurane used between the groups. Analysis of three studies (166 participants) revealed that the MD of propofol consumption between the entropy group and control group was -11.56 mcg/kg/min (95% CI -24.05 to 0.92); low quality of evidence. Analysis of another two studies (156 participants) showed that the MD in sevoflurane consumption in the entropy group compared to the control group was -3.42 mL (95% CI -6.49 to -0.35); moderate quality of evidence.\nNo trial reported on the secondary outcome of the cost of general anaesthesia.\nThree trials (170 participants) estimated MD in time to readiness to leave the PACU of the entropy group as compared to the control group (MD -5.94 minutes, 95% CI -16.08 to 4.20; low quality of evidence). Heterogeneity was noted, which was due to the difference in anaesthetic technique (propofol-based general anaesthesia) in one study. The remaining two studies had used volatile-based general anaesthesia. The MD in time to readiness to leave the PACU was -4.17 minutes (95% CI -6.84 to -1.51) with these two studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence as regards time to awakening, recall of intraoperative awareness and reduction in inhalational anaesthetic agent use was of moderate quality. The quality of evidence of as regards reduction in intravenous anaesthetic agent (propofol) use, as well as time to readiness to leave the PACU was found to be of low quality. As the data are limited, further studies consisting of more participants will be required for ascertaining benefits of entropy monitoring.\nFurther studies are needed to assess the effect of entropy monitoring on focal issues such as short-term and long-term mortality, as well as cost of general anaesthesia."
+    }
+  ],
+  "pls_title": "Entropy or EEG-based depth of anaesthesia monitoring for adults and children undergoing general anaesthesia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to assess if giving anaesthetic medicines according to the values shown in the entropy monitor would help in avoiding overdosing or underdosing of patients with these drugs."
+    },
+    {
+      "heading": "Background",
+      "text": "General anaesthesia is a reversible state of unconsciousness produced by administering anaesthetic medicines that enable patients to undergo surgery without pain or recollection of intraoperative events. Electroencephalography (EEG) is a method whereby sensors attached on the scalp are used to pick up and record electrical activity of the brain. The entropy monitor measures the irregularity of the processed EEG signals and displays it as a numerical value, denoting level of anaesthesia.\nToo little anaesthesia can cause the patient to awaken during surgery, feel pain, hear conversations and realize that they are paralysed. Recollection of these experiences after awakening can lead to severe mental distress, anxiety and inability to function normally. Excessive anaesthesia can lead to delayed awakening and increased anaesthetic costs, as well as contribute to an increase in incidence of death within 24 hours, or up to a year after surgery.\nAn entropy monitor, by displaying values indicating adequate level of anaesthesia, can guide anaesthetic medicine administration, without increasing chances of awakening during surgery. Further, it can facilitate faster awakening at the end of surgery, reduce costs and decrease chances of death."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included studies that compared entropy monitoring to the standard practice of administering anaesthetic drugs according to changes in heart rate, blood pressure, tearing, sweating or movement in response to surgery. The evidence is current to September 2014. We included adults and children aged two to 16 years. The participants underwent all types of surgery, except brain surgery, under general anaesthesia. We reran the search in January 2016. We identified one potential new study of interest; we will incorporate it into the formal review findings during the review update."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 11 studies, with a total of 962 participants.\nSix studies (383 participants) found minimally shorter time to awakening in the entropy group. No study reported on death occurring in the first 24 hours after surgery or within 30 days to a year after surgery.\nEight studies (797 participants) evaluated recollection of intraoperative events (awareness). Adverse events were rare and no benefit was evident.\nAll 11 studies compared anaesthetic medicine use: six compared propofol (given in the vein) and five evaluated anaesthetic gas (sevoflurane or isoflurane). Limited studies were analysed because of differences in methodology and units of measurement. Analysis of three studies (166 participants) found reduced propofol use, and two studies (156 participants) found lower sevoflurane use in the entropy group.\nNo study reported on cost of general anaesthesia. Three studies found shorter length of stay in the postanaesthesia care unit (PACU) in the entropy group."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The evidence for assessing reduction in time to awakening, recall of intraoperative events and amount of inhalation of anaesthetic agents used is of moderate quality. The quality of evidence as regards intravenous anaesthetic agent used and length of stay in the PACU is of low quality."
+    }
+  ]
+}

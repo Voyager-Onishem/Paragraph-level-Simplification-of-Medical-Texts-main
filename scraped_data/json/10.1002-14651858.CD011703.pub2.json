@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011703.pub2",
+  "name": "Pharmaceutical policies: effects of regulating drug insurance schemes",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Drug insurance schemes are systems that provide access to medicines on a prepaid basis and could potentially improve access to essential medicines and reduce out-of-pocket payments for vulnerable populations."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects on drug use, drug expenditure, healthcare utilisation and healthcare outcomes of alternative policies for regulating drug insurance schemes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, nine other databases, and two trials registers between November 2014 and September 2020, including a citation search for included studies on 15 September 2021 using Web of Science. We screened reference lists of all the relevant reports that we retrieved and reports from the Background section. Authors of relevant papers, relevant organisations, and discussion lists were contacted to identify additional studies, including unpublished and ongoing studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We planned to include randomised trials, non-randomised trials, interrupted time-series studies (including controlled ITS [CITS] and repeated measures [RM] studies), and controlled before-after (CBA) studies. Two review authors independently assessed the search results and reference lists of relevant reports, retrieved the full text of potentially relevant references and independently applied the inclusion criteria to those studies. We resolved disagreements by discussion, and when necessary by including a third review author. We excluded studies of the following pharmaceutical policies covered in other Cochrane Reviews: those that determined how decisions were made about which conditions or drugs were covered; those that placed restrictions on reimbursement for drugs that were covered; and those that regulated out-of-pocket payments for drugs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included studies and assessed risk of bias for each study, with disagreements being resolved by consensus. We used the criteria suggested by  Cochrane Effective Practice and Organisation of Care (EPOC)  to assess the risk of bias of included studies. For randomised trials, non-randomised trials and controlled before-after studies, we planned to report relative effects. For dichotomous outcomes, we reported the risk ratio (RR) when possible and adjusted for baseline differences in the outcome measures. For interrupted time series and controlled interrupted time-series studies, we computed changes along two dimensions: change in level; and change in slope. We undertook a structured synthesis following the EPOC guidance on this topic, describing the range of effects found in the studies for each category of outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 58 studies that met the inclusion criteria (25 interrupted time-series studies and 33 controlled before-after studies). Most of the studies (54) assessed a single policy implemented in the United States (US) healthcare system: Medicare Part D. The other four assessed other drug insurance schemes from Canada and the US, but only one of them provided analysable data for inclusion in the quantitative synthesis. The introduction of drug insurance schemes may increase prescription drug use (low-certainty evidence). On the other hand, Medicare Part D may decrease drug expenditure measured as both out-of-pocket spending and total drug spending (low-certainty evidence). Regarding healthcare utilisation, drug insurance policies (such as Medicare Part D) may lead to a small increase in visits to the emergency department. However, it is uncertain whether this type of policy increases or decreases hospital admissions or outpatient visits by beneficiaries of the scheme because the certainty of the evidence was very low. Likewise, it is uncertain if the policy increases or reduces health outcomes such as mortality because the certainty of the evidence was very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The introduction of drug insurance schemes such as Medicare Part D in the US health system may increase prescription drug use and may decrease out-of-pocket payments by the beneficiaries of the scheme and total drug expenditures. It may also lead to a small increase in visits to the emergency department by the beneficiaries of the policy. Its effects on other healthcare utilisation outcomes and on health outcomes are uncertain because of the very low certainty of the evidence. The applicability of this evidence to settings outside US healthcare is limited."
+    }
+  ],
+  "pls_title": "Effects of policies regulating insurance for drugs",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "The aim of this Cochrane Review was to find out if drug insurance schemes change people’s use of medicines, the amount of money they spend on medicines, their health, and their use of healthcare. Cochrane Review authors collected and analysed all relevant studies to answer this question. They found 58 studies. Most of these studies were from the US assessing a single policy change (Medicare Part D) implemented in January 2006."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The USA’s Medicare Part D offers free prescription medicines to elderly people. This system may increase the amount of medicines elderly people use, but they may spend less money on medicines. We do not know if this system changes people’s health or their use of healthcare services because the certainty of the evidence was very low."
+    },
+    {
+      "heading": "What is a drug insurance scheme?",
+      "text": "In a drug insurance scheme, governments or private organisations offer people the medicines they need at a low cost or free of charge. The medicines are usually paid for through government taxes, people’s employers, people paying for membership in insurance schemes, or a combination of these systems.\nMany countries have mixed systems of public and private drug insurance. Some drug insurance schemes cover everyone in a country or setting. Other schemes only cover certain groups. For instance, some schemes only cover people in work, while other schemes only cover the poor and the elderly.\nSuccessful drug insurance schemes can improve people’s health by giving them the medicines they need either free or at a price they can afford. Drug insurance schemes can also save money for governments and private organisations. For instance, people using the right medicines may need fewer healthcare services. Governments and organisations running these schemes can also negotiate better prices with drug companies."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review authors found 58 relevant studies. Most of these studies were from the USA and 54 of them assessed one type of drug insurance scheme: Medicare Part D.\nMedicare Part D is a drug insurance scheme for elderly people. In this scheme, elderly people who are already on Medicare have free access to their prescription medicines up to a certain sum every year (in 2018, this sum was USD 3750 per person). After this sum is reached, other systems are used. These studies showed the following.\n- Medicare Part D may increase the amount of medicines people use (low-certainty evidence).\n- Medicare Part D may decrease the amount of money people spend on medicines (low-certainty evidence).\n- Medicare Part D may lead to a small increase in the number of emergency department visits by beneficiaries of the scheme (low-certainty evidence).\n- We do not know what the effect of Medicare Part D is on people’s health or on the use of other healthcare services because the certainty of the evidence was very low.\nOne of the reasons for our low confidence in these findings is that we do not know how relevant these results are to countries or settings outside the USA."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The review authors searched for studies that had been published up to September 2020."
+    }
+  ]
+}

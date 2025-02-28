@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD012065.pub3",
+  "name": "Topiramate versus carbamazepine monotherapy for epilepsy: an individual participant data review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane Review published in Issue 12, 2016. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.\nEpilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy, the majority of which may be able to achieve remission with a single antiepileptic drug (AED).\nThe correct choice of first-line AED for individuals with newly diagnosed seizures is of great importance and should be based on the highest-quality evidence available regarding the potential benefits and harms of various treatments for an individual.\nTopiramate and carbamazepine are commonly used AEDs. Performing a synthesis of the evidence from existing trials will increase the precision of results of outcomes relating to efficacy and tolerability, and may help inform a choice between the two drugs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the time to treatment failure, remission and first seizure with topiramate compared with carbamazepine when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised), or generalised onset tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the latest update we searched the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid); ClinicalTrials.gov; and the WHO International Clinical Trials Registry Platform (ICTRP) to 22 May 2018. We imposed no language restrictions. We also contacted pharmaceutical companies and trial investigators."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing monotherapy with either topiramate or carbamazepine in children or adults with focal onset seizures or generalised onset tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "This was an individual participant data (IPD), review. Our primary outcome was time to treatment failure. Our secondary outcomes were time to first seizure post-randomisation, time to six-month remission, time to 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs), with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "IPD were available for 1151 of 1239 eligible individuals from two of three eligible studies (93% of the potential data). A small proportion of individuals recruited into these trials had 'unclassified seizures;' for analysis purposes, these individuals are grouped with those with generalised onset seizures. For remission outcomes, a HR < 1 indicated an advantage for carbamazepine, and for first seizure and treatment failure outcomes, a HR < 1 indicated an advantage for topiramate.\nThe main overall results for the primary outcome, time to treatment failure, given as pooled HR adjusted for seizure type were: time to failure for any reason related to treatment 1.16 (95% CI 0.97 to 1.38); time to failure due to adverse events 1.02 (95% CI 0.82 to 1.27); and time to failure due to lack of efficacy 1.46 (95% CI 1.08 to 1.98). Overall results for secondary outcomes were time to first seizure 1.11 (95% CI 0.96 to 1.29); and time to six-month remission 0.88 (0.76 to 1.01). There were no statistically significant differences between the drugs. A statistically significant advantage for carbamazepine was shown for time to 12-month remission: 0.84 (95% CI 0.71 to 0.99).\nThe results of this review are applicable mainly to individuals with focal onset seizures; 81% of individuals included within the analysis experienced seizures of this type at baseline. For individuals with focal onset seizures, a statistically significant advantage for carbamazepine was shown for time to failure for any reason related to treatment (HR 1.21, 95% CI 1.01 to 1.46), time to treatment failure due to lack of efficacy (HR 1.47, 95% CI 1.07 to 2.02), and time to 12-month remission (HR 0.82, 95% CI 0.69 to 0.99). There was no statistically significant difference between topiramate and carbamazepine for 'time to first seizure' and 'time to six-month remission'.\nEvidence for individuals with generalised tonic-clonic seizures (9% of participants contributing to the analysis), and unclassified seizure types (10% of participants contributing to the analysis) was very limited; no statistically significant differences were found but CIs were wide; therefore we cannot exclude an advantage to either drug, or a difference between drugs.\nThe most commonly reported adverse events with both drugs were drowsiness or fatigue, \"pins and needles\" (tingling sensation), headache, gastrointestinal disturbance and anxiety or depression. The rate of adverse events was similar across the two drugs.\nWe judged the methodological quality of the included trials generally to be good; however, there was some evidence that the open-label design of the larger of the two trials may have influenced the treatment failure rate within the trial. Hence, we judged the certainty of the evidence for treatment failure to be moderate for individuals with focal onset seizures and low for individuals with generalised onset seizures. For efficacy outcomes (first seizure, remission), we judged the certainty of evidence from this review to be high for individuals with focal onset seizures and moderate for individuals with generalised onset or unclassified seizures."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For individuals with focal onset seizures, there is moderate-certainty evidence that carbamazepine is less likely to be withdrawn and high-certainty evidence that 12-month remission will be achieved earlier than with topiramate. We did not find any differences between the drugs in terms of the other outcomes measured in the review and for individuals with generalised tonic-clonic seizures or unclassified epilepsy; however, we encourage caution in the interpretation of results including small numbers of participants with these seizure types.\nFuture trials should be designed to the highest quality possible and take into consideration masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+    }
+  ],
+  "pls_title": "Topiramate versus carbamazepine as single drug treatment for epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This is an updated version of the Cochrane Review previously published in Issue 12, 2016 of the Cochrane Database of Systematic Reviews."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common disorder of the nervous system in which abnormal electrical discharges from the brain cause recurrent seizures (physical convulsions or thought disturbances or a combination of these symptoms). We studied two types of epileptic seizures in this review: generalised onset seizures in which electrical discharges begin in one part of the brain and move throughout the brain, and focal onset seizures (also known as partial onset seizures) in which the seizure is generated in and affects the same part of the brain. Focal onset seizures may become generalised (secondary generalisation) and move from one part of the brain to throughout the brain. Up to 70% of individuals with active epilepsy have the potential to go into long-term remission shortly after starting drug therapy and around 70% of these individuals can achieve seizure freedom using a single antiepileptic drug.\nThis review applies to people with focal onset seizures (with or without secondary generalisation) and people with tonic-clonic seizures, a specific type of generalised onset seizure, as the recommended treatments for these seizure types are similar."
+    },
+    {
+      "heading": "Objective",
+      "text": "Topiramate and carbamazepine are commonly used treatments for individuals with epilepsy. The aim of this review was to compare how effective these drugs are at controlling recently diagnosed seizures, whether they are associated with side effects that may result in individuals stopping the drug and to inform a choice between these drugs."
+    },
+    {
+      "heading": "Methods",
+      "text": "We assessed the evidence from three clinical trials that compared topiramate with carbamazepine. We were able to combine data for 1151 people from two trials; we were not able to use the data from the remaining trial, which included 88 participants."
+    },
+    {
+      "heading": "Results",
+      "text": "Most (81%) of the people included in the two trials experienced focal seizures, so the results of this review apply mainly to people with this seizure type. Many of the remaining 19% of people experienced a seizure type which was difficult to classify as focal or generalised (unclassified seizures). Considering only people with focal seizures, the results showed that those taking carbamazepine were more likely to take their treatment for longer and to achieve a remission of 12 months duration earlier than those taking topiramate. No differences were found between the drugs in individuals with generalised onset or unclassified epilepsy.\nThe most common side effects reported by the participants during the trials were fatigue, 'pins and needles' (tingling sensation), headache, gastrointestinal problems and anxiety or depression. These side effects were reported a similar number of times by people taking topiramate or carbamazepine."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "For people with focal onset seizures, we judged the certainty of the evidence to be moderate to high. The design of the trials (whether the people and treating clinicians knew which drug they were taking) may have influenced how long a participant stayed on their treatment. For the small number of people with generalised onset or unclassified seizures, we judged the certainty of the evidence to be low to moderate. The evidence is current to May 2018."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Carbamazepine is currently recommended by experts for the treatment of individuals who are newly diagnosed with focal onset seizures and the results of this review do not provide any evidence to contradict this. More information is needed for people with generalised onset or unclassified seizures. All future trials comparing these drugs, or any other antiepileptic drugs, should be designed using high-quality methods, and the types of seizure of the people included in any trials should be classified very carefully to ensure that the results are of high quality."
+    }
+  ]
+}

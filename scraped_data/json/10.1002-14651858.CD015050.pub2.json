@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015050.pub2",
+  "name": "Accuracy of routine laboratory tests to predict mortality and deterioration to severe or critical COVID‐19 in people with SARS‐CoV‐2 ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Identifying patients with COVID-19 disease who will deteriorate can be useful to assess whether they should receive intensive care, or whether they can be treated in a less intensive way or through outpatient care. In clinical care, routine laboratory markers, such as C-reactive protein, are used to assess a person's health status."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the accuracy of routine blood-based laboratory tests to predict mortality and deterioration to severe or critical (from mild or moderate) COVID-19 in people with SARS-CoV-2."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 25 August 2022, we searched the Cochrane COVID-19 Study Register, encompassing searches of various databases such as MEDLINE via PubMed, CENTRAL, Embase, medRxiv, and ClinicalTrials.gov. We did not apply any language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies of all designs that produced estimates of prognostic accuracy in participants who presented to outpatient services, or were admitted to general hospital wards with confirmed SARS-CoV-2 infection, and studies that were based on serum banks of samples from people. All routine blood-based laboratory tests performed during the first encounter were included. We included any reference standard used to define deterioration to severe or critical disease that was provided by the authors."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from each included study, and independently assessed the methodological quality using the Quality Assessment of Prognostic Accuracy Studies tool. As studies reported different thresholds for the same test, we used the Hierarchical Summary Receiver Operator Curve model for meta-analyses to estimate summary curves in SAS 9.4. We estimated the sensitivity at points on the SROC curves that corresponded to the median and interquartile range boundaries of specificities in the included studies. Direct and indirect comparisons were exclusively conducted for biomarkers with an estimated sensitivity and 95% CI of ≥ 50% at a specificity of ≥ 50%. The relative diagnostic odds ratio was calculated as a summary of the relative accuracy of these biomarkers."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified a total of 64 studies, including 71,170 participants, of which 8169 participants died, and 4031 participants deteriorated to severe/critical condition. The studies assessed 53 different laboratory tests. For some tests, both increases and decreases relative to the normal range were included. There was important heterogeneity between tests and their cut-off values. None of the included studies had a low risk of bias or low concern for applicability for all domains. None of the tests included in this review demonstrated high sensitivity or specificity, or both. The five tests with summary sensitivity and specificity above 50% were: C-reactive protein increase, neutrophil-to-lymphocyte ratio increase, lymphocyte count decrease, d-dimer increase, and lactate dehydrogenase increase.\nInflammation\nFor mortality, summary sensitivity of a C-reactive protein increase was 76% (95% CI 73% to 79%) at median specificity, 59% (low-certainty evidence). For deterioration, summary sensitivity was 78% (95% CI 67% to 86%) at median specificity, 72% (very low-certainty evidence). For the combined outcome of mortality or deterioration, or both, summary sensitivity was 70% (95% CI 49% to 85%) at median specificity, 60% (very low-certainty evidence). \nFor mortality, summary sensitivity of an increase in neutrophil-to-lymphocyte ratio was 69% (95% CI 66% to 72%) at median specificity, 63% (very low-certainty evidence). For deterioration, summary sensitivity was 75% (95% CI 59% to 87%) at median specificity, 71% (very low-certainty evidence).\nFor mortality, summary sensitivity of a decrease in lymphocyte count was 67% (95% CI 56% to 77%) at median specificity, 61% (very low-certainty evidence). For deterioration, summary sensitivity of a decrease in lymphocyte count was 69% (95% CI 60% to 76%) at median specificity, 67% (very low-certainty evidence). For the combined outcome, summary sensitivity was 83% (95% CI 67% to 92%) at median specificity, 29% (very low-certainty evidence). \nFor mortality, summary sensitivity of a lactate dehydrogenase increase was 82% (95% CI 66% to 91%) at median specificity, 60% (very low-certainty evidence). For deterioration, summary sensitivity of a lactate dehydrogenase increase was 79% (95% CI 76% to 82%) at median specificity, 66% (low-certainty evidence). For the combined outcome, summary sensitivity was 69% (95% CI 51% to 82%) at median specificity, 62% (very low-certainty evidence).\nHypercoagulability\nFor mortality, summary sensitivity of a d-dimer increase was 70% (95% CI 64% to 76%) at median specificity of 56% (very low-certainty evidence). For deterioration, summary sensitivity was 65% (95% CI 56% to 74%) at median specificity of 63% (very low-certainty evidence). For the combined outcome, summary sensitivity was 65% (95% CI 52% to 76%) at median specificity of 54% (very low-certainty evidence).\nTo predict mortality, neutrophil-to-lymphocyte ratio increase had higher accuracy compared to d-dimer increase (RDOR (diagnostic Odds Ratio) 2.05, 95% CI 1.30 to 3.24), C-reactive protein increase (RDOR 2.64, 95% CI 2.09 to 3.33), and lymphocyte count decrease (RDOR 2.63, 95% CI 1.55 to 4.46). D-dimer increase had higher accuracy compared to lymphocyte count decrease (RDOR 1.49, 95% CI 1.23 to 1.80), C-reactive protein increase (RDOR 1.31, 95% CI 1.03 to 1.65), and lactate dehydrogenase increase (RDOR 1.42, 95% CI 1.05 to 1.90). Additionally, lactate dehydrogenase increase had higher accuracy compared to lymphocyte count decrease (RDOR 1.30, 95% CI 1.13 to 1.49). To predict deterioration to severe disease, C-reactive protein increase had higher accuracy compared to d-dimer increase (RDOR 1.76, 95% CI 1.25 to 2.50). The neutrophil-to-lymphocyte ratio increase had higher accuracy compared to d-dimer increase (RDOR 2.77, 95% CI 1.58 to 4.84). Lastly, lymphocyte count decrease had higher accuracy compared to d-dimer increase (RDOR 2.10, 95% CI 1.44 to 3.07) and lactate dehydrogenase increase (RDOR 2.22, 95% CI 1.52 to 3.26)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Laboratory tests, associated with hypercoagulability and hyperinflammatory response, were better at predicting severe disease and mortality in patients with SARS-CoV-2 compared to other laboratory tests. However, to safely rule out severe disease, tests should have high sensitivity (> 90%), and none of the identified laboratory tests met this criterion. In clinical practice, a more comprehensive assessment of a patient's health status is usually required by, for example, incorporating these laboratory tests into clinical prediction rules together with clinical symptoms, radiological findings, and patient's characteristics."
+    }
+  ],
+  "pls_title": "How accurate are routine laboratory tests in predicting mortality and deterioration to severe or critical COVID-19 in people with SARS-CoV-2?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What are routine laboratory tests?",
+      "text": "Routine laboratory tests are a set of commonly performed blood tests that provide information about a patient's health status. These tests can be used to identify disease or monitor health."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "It is important to identify patients, presenting at a doctor's appointment at an outpatient service or at the emergency department who are at high risk of developing severe COVID-19 disease or dying. It can help clinicians in deciding if the patients need hospitalisation. We wanted to know if routine laboratory tests were sufficiently accurate to predict mortality and deterioration in patients with confirmed SARS-CoV-2."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that assessed how well routine laboratory tests predict mortality and deterioration in patients with confirmed SARS-CoV-2. We included studies of any design and set anywhere in the world. Patients of any age or sex were included."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 64 studies that looked at 53 different routine laboratory tests. These studies assessed how well these tests could predict mortality, deterioration, or both. A total of 71,170 patients were included, of which 8169 (11.5%) patients died, and 4031 (5.7%) patients deteriorated to severe/critical disease. Adult patients were included in 31 studies, two studies reported on patients more than 60 years, two studies included a mix of children and adults, and one study included only children. Most studies were done in China, followed by Spain and Italy. All studies took place in hospitals.\n'Sensitivity' and 'specificity' are often used to report the performance of tests. Sensitivity is the proportion of patients with the outcome (= mortality or deterioration) that are correctly detected by the test, and specificity is the proportion of people without the outcome that are correctly detected by the test. The closer the sensitivity and specificity of a test are to 100%, the more accurate the test is. To safely rule out patients who will not die or deteriorate, a high sensitivity of more than 90% is necessary. When four or more studies assessed the same tests, we pooled the data and analysed them together. We did not find any tests that were accurate enough to safely rule out a severe outcome, such as deterioration or death. We found five tests with both sensitivity and specificity exceeding 50%. Four of these laboratory tests indicate important inflammation in a SARS-CoV-2 infection. These four tests are C-reactive protein, neutrophil-to-lymphocyte ratio, lymphocyte count, and lactate dehydrogenase. The fifth test, d-dimer, reflects a state of increased blood clotting in a SARS-CoV-2 infection."
+    },
+    {
+      "heading": "How reliable are the results?",
+      "text": "We have low confidence in the evidence of this review, because there were important differences between the included studies, and it was, therefore, difficult to compare them. Sensitivity and specificity depend on where the cut-off point is made between positive (indicative of disease) and negative (disease-free). For some studies, the authors decided on the cut-off value (for a test) before doing the test (less likely to create bias) and in others, they chose the cut-off value after analysis of the test (more likely to be biassed)."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Routine laboratory tests can be performed at a doctor's appointment or at the emergency department. However, the included studies only assessed patients presenting to the hospital. We included patients with confirmed SARS-CoV-2 infection. Only one study reported on vaccinated patients, and we could not assess the effect of different SARS-CoV-2 variants of concern. Therefore, our results might not be representative for vaccinated patients or different variants of concern."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "These routine laboratory tests, linked to inflammation and blood clotting in patients with COVID-19 disease, can be used for risk stratification to assess a patient. However, none of these tests performed well enough to safely rule out progression to severe or deadly disease. These tests might serve to assess the overall health status of the patient. To predict deterioration or mortality, a more comprehensive assessment, including clinical symptoms, radiological findings and patient's characteristics, may be considered."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for all COVID-19 studies up to 25 August 2022."
+    }
+  ]
+}

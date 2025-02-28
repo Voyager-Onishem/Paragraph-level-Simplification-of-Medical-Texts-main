@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000076.pub2",
+  "name": "Electroconvulsive therapy for schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Electroconvulsive therapy (ECT) involves the induction of a seizure for therapeutic purposes by the administration of a variable frequency electrical stimulus shock via electrodes applied to the scalp. The effects of its use in people with schizophrenia are unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether electroconvulsive therapy (ECT) results in clinically meaningful benefit with regard to global improvement, hospitalisation, changes in mental state, behaviour and functioning for people with schizophrenia, and to determine whether variations in the practical administration of ECT influences outcome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook electronic searches of Biological Abstracts (1982-1996), EMBASE (1980-1996), MEDLINE (1966-2004), PsycLIT (1974-1996),SCISEARCH (1996) and the Cochrane Schizophrenia Group's Register (July 2004). We also inspected the references of all identified studies and contacted relevant authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled clinical trials that compared ECT with placebo, 'sham ECT', non-pharmacological interventions and antipsychotics and different schedules and methods of administration of ECT for people with schizophrenia, schizoaffective disorder or chronic mental disorder."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Working independently, we selected and critically appraised studies, extracted data and analysed on an intention-to-treat basis. Where possible and appropriate we calculated risk ratios (RR) and their 95% confidence intervals (CI) with the number needed to treat (NNT). For continuous data Weighted Mean Differences (WMD) were calculated. We presented scale data for only those tools that had attained pre-specified levels of quality. We also undertook tests for heterogeneity and publication bias."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 26 trials with 50 reports. When ECT is compared with placebo or sham ECT, more people improved in the real ECT group (n=392, 10 RCTs, RR 0.76 random CI 0.59 to 0.98, NNT 6 CI 4 to 12) and though data were heterogeneous (chi-square 17.49 df=9 P=0.04), its impact on variability of data was not substantial (I-squared 48.5%). There was a suggestion that ECT resulted in less relapses in the short term than sham ECT (n=47, 2 RCTs, RR fixed 0.26 CI 0.03 to 2.2), and a greater likelihood of being discharged from hospital (n=98, 1 RCT, RR fixed 0.59, CI 0.34 to 1.01). There is no evidence that this early advantage for ECT is maintained over the medium to long term. People treated with ECT did not drop out of treatment earlier than those treated with sham ECT (n=495, 14 RCTs, RR fixed 0.71 CI 0.33 to 1.52, I-squared 0%). Very limited data indicated that visual memory might decline after ECT compared with sham ECT (n=24, 1 RCT, WMD -14.0 CI -23 to -5); the results of verbal memory tests were equivocal.\nWhen ECT is directly compared with antipsychotic drug treatments (total n=443, 10 RCTs) results favour the medication group (n=175, 3 RCTs, RR fixed 'not improved at the end of ECT course' 2.18 CI 1.31 to 3.63). Limited evidence suggests that ECT combined with antipsychotic drugs results in greater improvement in mental state (n= 40, 1 RCT, WMD, Brief Psychiatric Rating Scale -3.9 CI - 2.28 to -5.52) than with antipsychotic drugs alone. One small study suggested more memory impairment after a course of ECT combined with antipsychotics than with antipsychotics alone (n=20, MD serial numbers and picture recall -4.90 CI -0.78 to -9.02), though this proved transient. When continuation ECT was added to antipsychotic drugs, the combination was superior to the use of antipsychotics alone (n=30, WMD Global Assessment of Functioning 19.06 CI 9.65 to 28.47), or CECT alone (n=30, WMD -20.30 CI -11.48 to -29.12).\nUnilateral and bilateral ECT were equally effective in terms of global improvement (n=78, 2 RCTs, RR fixed 'not improved at end of course of ECT' 0.79 CI 0.45 to 1.39). One trial showed a significant advantage for 20 treatments over 12 treatments for numbers globally improved at the end of the ECT course (n=43, RR fixed 2.53 CI 1.13 to 5.66)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence in this review suggests that ECT, combined with treatment with antipsychotic drugs, may be considered an option for people with schizophrenia, particularly when rapid global improvement and reduction of symptoms is desired. This is also the case for those with schizophrenia who show limited response to medication alone. Even though this initial beneficial effect may not last beyond the short term, there is no clear evidence to refute its use for people with schizophrenia. The research base for the use of ECT in people with schizophrenia continues to expand, but even after more than five decades of clinical use, there remain many unanswered questions regarding its role in the management of people with schizophrenia."
+    }
+  ],
+  "pls_title": "Electroconvulsive therapy for schizophrenia",
+  "pls_type": "long",
+  "pls": "The induction of a seizure (fit) for therapeutic purposes by the administration of an electrical stimulus (electroconvulsive therapy or ECT) remains a common treatment option for people with schizophrenia. This review pools data from 26 studies that included over 798 participants in receipt of this treatment. The evidence suggests that courses of ECT can, in the short term, result in an increase in global improvement for some people with schizophrenia."
+}

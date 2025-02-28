@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009228.pub3",
+  "name": "Helicopter emergency medical services for adults with major trauma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Although helicopters are presently an integral part of trauma systems in most developed nations, previous reviews and studies to date have raised questions about which groups of traumatically injured people derive the greatest benefit."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if helicopter emergency medical services (HEMS) transport, compared with ground emergency medical services (GEMS) transport, is associated with improved morbidity and mortality for adults with major trauma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We ran the most recent search on 29 April 2015. We searched the Cochrane Injuries Group's Specialised Register, The Cochrane Library (Cochrane Central Register of Controlled Trials; CENTRAL), MEDLINE (OvidSP), EMBASE Classic + EMBASE (OvidSP), CINAHL Plus (EBSCOhost), four other sources, and clinical trials registers. We screened reference lists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Eligible trials included randomized controlled trials (RCTs) and nonrandomized intervention studies. We also evaluated nonrandomized studies (NRS), including controlled trials and cohort studies. Each study was required to have a GEMS comparison group. An Injury Severity Score (ISS) of at least 15 or an equivalent marker for injury severity was required. We included adults age 16 years or older."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently extracted data and assessed the risk of bias of included studies. We applied the Downs and Black quality assessment tool for NRS. We analyzed the results in a narrative review, and with studies grouped by methodology and injury type. We constructed 'Summary of findings' tables in accordance with the GRADE Working Group criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 38 studies, of which 34 studies examined survival following transportation by HEMS compared with GEMS for adults with major trauma. Four studies were of inter-facility transfer to a higher level trauma center by HEMS compared with GEMS. All studies were NRS; we found no RCTs. The primary outcome was survival at hospital discharge. We calculated unadjusted mortality using data from 282,258 people from 28 of the 38 studies included in the primary analysis. Overall, there was considerable heterogeneity and we could not determine an accurate estimate of overall effect.\nBased on the unadjusted mortality data from six trials that focused on traumatic brain injury, there was no decreased risk of death with HEMS. Twenty-one studies used multivariate regression to adjust for confounding. Results varied, some studies found a benefit of HEMS while others did not. Trauma-Related Injury Severity Score (TRISS)-based analysis methods were used in 14 studies; studies showed survival benefits in both the HEMS and GEMS groups as compared with MTOS. We found no studies evaluating the secondary outcome, morbidity, as assessed by quality-adjusted life years (QALYs) and disability-adjusted life years (DALYs). Four studies suggested a small to moderate benefit when HEMS was used to transfer people to higher level trauma centers. Road traffic and helicopter crashes are adverse effects which can occur with either method of transport. Data regarding safety were not available in any of the included studies. Overall, the quality of the included studies was very low as assessed by the GRADE Working Group criteria."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to the methodological weakness of the available literature, and the considerable heterogeneity of effects and study methodologies, we could not determine an accurate composite estimate of the benefit of HEMS. Although some of the 19 multivariate regression studies indicated improved survival associated with HEMS, others did not. This was also the case for the TRISS-based studies. All were subject to a low quality of evidence as assessed by the GRADE Working Group criteria due to their nonrandomized design. The question of which elements of HEMS may be beneficial has not been fully answered. The results from this review provide motivation for future work in this area. This includes an ongoing need for diligent reporting of research methods, which is imperative for transparency and to maximize the potential utility of results. Large, multicenter studies are warranted as these will help produce more robust estimates of treatment effects. Future work in this area should also examine the costs and safety of HEMS, since multiple contextual determinants must be considered when evaluating the effects of HEMS for adults with major trauma."
+    }
+  ],
+  "pls_title": "Helicopter emergency medical services for adults with major trauma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Trauma is a leading cause of death and disability worldwide and, since the 1970s, helicopters have been used to transport people with injuries to hospitals that specialize in trauma care. Helicopters offer several potential advantages, including faster transport, and care from medical staff who are specifically trained in the management of major injuries."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the medical literature for clinical studies comparing the transport of adults who had major injuries by helicopter ambulance (HEMS) or ground ambulance (GEMS). The evidence is current to April 2015."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 38 studies which included people from 12 countries around the world. Researchers wanted to find out if using a helicopter ambulance was any better than a ground ambulance for improving an injured person's chance of survival, or reducing the severity of long-term disability. Some of these studies indicated some benefit of HEMS for survival after major trauma, but other studies did not. The studies were of varying sizes and used different methods to determine if more people survived when transported by HEMS versus GEMS. Some studies included helicopter teams that had specialized physicians on board whereas other helicopter crews were staffed by paramedics and nurses. Furthermore, people transported by HEMS or GEMS had varying numbers and types of procedures during travel to the trauma center. The use of some of these procedures, such as the placement of a breathing tube, may have helped improve survival in some of the studies. However, these medical procedures can also be provided during ground ambulance transport. Data regarding safety were not available in any of the included studies. Road traffic and helicopter crashes are adverse effects which can occur with either method of transport."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the quality of the included studies was low. It is possible that HEMS may be better than GEMS for people with certain characteristics. There are various reasons why HEMS may be better, such as staff having more specialty training in managing major injuries. But more research is required to determine what elements of helicopter transport improve survival. Some studies did not describe the care available to people in the GEMS group. Due to this poor reporting it is impossible to compare the treatments people received."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Based on the current evidence, the added benefits of HEMS compared with GEMS are unclear. The results from future research might help in better allocation of HEMS within a healthcare system, with increased safety and decreased costs."
+    }
+  ]
+}

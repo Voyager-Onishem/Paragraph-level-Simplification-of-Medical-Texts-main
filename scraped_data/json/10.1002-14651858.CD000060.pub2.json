@@ -1,0 +1,43 @@
+{
+  "doi": "10.1002/14651858.CD000060.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "There are several treatment options for managing acute asthma exacerbations (sustained worsening of symptoms that do not subside with regular treatment and require a change in management). Guidelines advocate the use of inhaled short acting beta2-agonists (SABAs) in children experiencing an asthma exacerbation. Anticholinergic agents, such as ipratropium bromide and atropine sulfate, have a slower onset of action and weaker bronchodilating effect, but may specifically relieve cholinergic bronchomotor tone and decrease mucosal edema and secretions. Therefore, the combination of inhaled anticholinergics with SABAs may yield enhanced and prolonged bronchodilation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether the addition of inhaled anticholinergics to SABAs provides clinical improvement and affects the incidence of adverse effects in children with acute asthma exacerbations."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (1966 to April 2000), EMBASE (1980 to April 2000), CINAHL (1982 to April 2000) and reference lists of studies of previous versions of this review. We also contacted drug manufacturers and trialists. For the 2012 review update, we undertook an 'all years' search of the Cochrane Airways Group's register on the 18 April 2012."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized parallel trials comparing the combination of inhaled anticholinergics and SABAs with SABAs alone in children (aged 18 months to 18 years) with an acute asthma exacerbation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. We used the GRADE rating system to assess the quality of evidence for our primary outcome (hospital admission)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty trials met the review eligibility criteria, generated 24 study comparisons and comprised 2697 randomised children aged one to 18 years, presenting predominantly with moderate or severe exacerbations. Most studies involved both preschool-aged children and school-aged children; three studies also included a small proportion of infants less than 18 months of age. Nine trials (45%) were at a low risk of bias. Most trials used a fixed-dose protocol of three doses of 250 mcg or two doses of 500 mcg of nebulized ipratropium bromide in combination with a SABA over 30 to 90 minutes while three trials used a single dose and two used a flexible-dose protocol according to the need for SABA.\nThe addition of an anticholinergic to a SABA significantly reduced the risk of hospital admission (risk ratio (RR) 0.73; 95% confidence interval (CI) 0.63 to 0.85; 15 studies, 2497 children, high-quality evidence). In the group receiving only SABAs, 23 out of 100 children with acute asthma were admitted to hospital compared with 17 (95% CI 15 to 20) out of 100 children treated with SABAs plus anticholinergics. This represents an overall number needed to treat for an additional beneficial outcome (NNTB) of 16 (95% CI 12 to 29).\nTrends towards a greater effect with increased treatment intensity and with increased asthma severity were observed, but did not reach statistical significance. There was no effect modification due to concomitant use of oral corticosteroids and the effect of age could not be explored. However, exclusion of the one trial that included infants (< 18 months) and contributed data to the main outcome, did not affect the results. Statistically significant group differences favoring anticholinergic use were observed for lung function, clinical score at 120 minutes, oxygen saturation at 60 minutes, and the need for repeat use of bronchodilators prior to discharge from the emergency department. No significant group difference was seen in relapse rates.\nFewer children treated with anticholinergics plus SABA reported nausea and tremor compared with SABA alone; no significant group difference was observed for vomiting."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Children with an asthma exacerbation experience a lower risk of admission to hospital if they are treated with the combination of inhaled SABAs plus anticholinergic versus SABA alone. They also experience a greater improvement in lung function and less risk of nausea and tremor. Within this group, the findings suggested, but did not prove, the possibility of an effect modification, where intensity of anticholinergic treatment and asthma severity, could be associated with greater benefit.\nFurther research is required to identify the characteristics of children that may benefit from anticholinergic use (e.g. age and asthma severity including mild exacerbation and impending respiratory failure) and the treatment modalities (dose, intensity, and duration) associated with most benefit from anticholinergic use better."
+    }
+  ],
+  "pls_title": "Combined inhaled anticholinergics and beta2-agonists for initial treatment of acute asthma in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "In an asthma attack, the airways (small tubes in the lungs) narrow because of inflammation (swelling), muscle spasms and mucus secretions. Other symptoms include wheezing, coughing and chest tightness. This makes breathing difficult. Reliever inhalers typically contain short-acting beta2-agonists (SABAs) that relax the muscles in the airways, opening the airways so that breathing is easier. Anticholinergic drugs work by opening the airways and decreasing mucus secretions.Review questionWe looked at randomised controlled trials to find out whether giving inhaled anticholinergics plus SABAs (instead of SABAs on their own) in the emergency department provides benefits or harms in children having an asthma attack.Key resultsWe found that children with a moderate or severe asthma attack who were given both drugs in the emergency department were less likely to be admitted to the hospital than those who only had SABAs. In the group receiving only SABAs, on average 23 out of 100 children with acute asthma were admitted to hospital compared with an average of 17 (95% CI 15 to 20) out of 100 children treated with SABAs plus anticholinergics. Taking both drugs was also better at improving lung function. Taking both drugs did not seem to reduce the possibility of another asthma attack. Fewer children treated with anticholinergics reported nausea and tremor, but no significant group difference was observed for vomiting.Quality of the evidence and further researchMost of the studies were in preschool- and school-aged children; three studies also included a small proportion of infants under 18 months of age, although there was no evidence that inclusion of these infants with wheezy episodes affected the results. Nine trials (45%) were at a low risk of bias and we regarded the evidence for hospitalisation as high quality. Physicians can administer the dose of anticholinergic and SABA in several different ways; as a single dose, or as a certain number of doses or more flexibly. Most of the trials gave the children two or three doses and we think that more research is needed to improve characterization of children that benefit from, and the most effective number and frequency of doses of, anticholinergic treatment."
+    }
+  ]
+}

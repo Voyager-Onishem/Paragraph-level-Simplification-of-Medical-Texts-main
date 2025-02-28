@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007260.pub4",
+  "name": "Mechanical versus manual chest compressions for cardiac arrest",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Mechanical chest compression devices have been proposed to improve the effectiveness of cardiopulmonary resuscitation (CPR)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of resuscitation strategies using mechanical chest compressions versus resuscitation strategies using standard manual chest compressions with respect to neurologically intact survival in patients who suffer cardiac arrest."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 19 August 2017 we searched the Cochrane Central Register of Controlled Studies (CENTRAL), MEDLINE, Embase, Science Citation Index-Expanded (SCI-EXPANDED) and Conference Proceedings Citation Index–Science databases. Biotechnology and Bioengineering Abstracts and Science Citation abstracts had been searched up to November 2009 for prior versions of this review. We also searched two clinical trials registries for any ongoing trials not captured by our search of databases containing published works: Clinicaltrials.gov (August 2017) and the World Health Organization International Clinical Trials Registry Platform portal (January 2018). We applied no language restrictions. We contacted experts in the field of mechanical chest compression devices and manufacturers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs), cluster-RCTs and quasi-randomised studies comparing mechanical chest compressions versus manual chest compressions during CPR for patients with cardiac arrest."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five new studies in this update. In total, we included 11 trials in the review, including data from 12,944 adult participants, who suffered either out-of-hospital cardiac arrest (OHCA) or in-hospital cardiac arrest (IHCA). We excluded studies explicitly including patients with cardiac arrest caused by trauma, drowning, hypothermia and toxic substances. These conditions are routinely excluded from cardiac arrest intervention studies because they have a different underlying pathophysiology, require a variety of interventions specific to the underlying condition and are known to have a prognosis different from that of cardiac arrest with no obvious cause. The exclusions were meant to reduce heterogeneity in the population while maintaining generalisability to most patients with sudden cardiac death.\nThe overall quality of evidence for the outcomes of included studies was moderate to low due to considerable risk of bias. Three studies (N = 7587) reported on the designated primary outcome of survival to hospital discharge with good neurologic function (defined as a Cerebral Performance Category (CPC) score of one or two), which had moderate quality evidence. One study showed no difference with mechanical chest compressions (risk ratio (RR) 1.07, 95% confidence interval (CI) 0.82 to 1.39), one study demonstrated equivalence (RR 0.79, 95% CI 0.60 to 1.04), and one study demonstrated reduced survival (RR 0.41, CI 0.21 to 0.79). Two other secondary outcomes, survival to hospital admission (N = 7224) and survival to hospital discharge (N = 8067), also had moderate quality level of evidence. No studies reported a difference in survival to hospital admission. For survival to hospital discharge, two studies showed benefit, four studies showed no difference, and one study showed harm associated with mechanical compressions. No studies demonstrated a difference in adverse events or injury patterns between comparison groups but the quality of data was low. Marked clinical and statistical heterogeneity between studies precluded any pooled estimates of effect."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence does not suggest that CPR protocols involving mechanical chest compression devices are superior to conventional therapy involving manual chest compressions only. We conclude on the balance of evidence that mechanical chest compression devices used by trained individuals are a reasonable alternative to manual chest compressions in settings where consistent, high-quality manual chest compressions are not possible or dangerous for the provider (eg, limited rescuers available, prolonged CPR, during hypothermic cardiac arrest, in a moving ambulance, in the angiography suite, during preparation for extracorporeal CPR [ECPR], etc.). Systems choosing to incorporate mechanical chest compression devices should be closely monitored because some data identified in this review suggested harm. Special attention should be paid to minimising time without compressions and delays to defibrillation during device deployment."
+    }
+  ],
+  "pls_title": "Mechanical chest compression machines for cardiac arrest",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed which method of chest compressions (applying the traditional hand technique versus using a machine) resulted in more lives saved during cardiopulmonary resuscitation (CPR) for cardiac arrest."
+    },
+    {
+      "heading": "Background",
+      "text": "'Sudden cardiac arrest' occurs when someone's heart stops beating unexpectedly. Cardiopulmonary resuscitation, referred to as CPR, involves rhythmical pushing on the chest of a cardiac arrest victim to provide forward blood flow. This can keep blood flowing to the victim's vital organs while the heart is not pumping. CPR has been shown to improve the chance that the heart will restart and the victim will survive. Machines have been developed to take over this chest pumping action using automated pistons, pneumatic vests, or band-like mechanisms. The theory is that these machines should be able to provide a more effective pumping action than is seen in humans because the machines do not pause or get tired. Furthermore, they provide consistent pressure and timing of each chest compression in line with latest evidenced-based practice. Some preliminary studies using these machines have shown that they are easy to use and can save people with cardiac arrest. This is an update of the Cochrane Review on mechanical chest compression devices originally published in 2011 and updated last in 2014."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to August 2017. We searched the literature and found a total of 2554 citations that were potentially relevant. After reviewing each of these, we found 11 articles describing clinical trials that could help us answer our question. Taken together, these trials included 12,944 adult participants who suffered cardiac arrest either in-hospital or out-of-hospital. The newest studies identified in this update are larger and of higher quality than those that had been identified in prior versions of this review. Several studies were sponsored by device manufacturers."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that available studies have important differences from one another. The most important differences were the type of mechanical device studied and the type of CPR protocol provided for patients assigned to the manual chest compression group. These differences make comparisons across studies challenging. Some studies reported improvements in rate of survival for patients treated with mechanical chest compressions compared to patients treated with manual chest compressions, while others reported no difference or even suggested harm associated with mechanical chest compressions. When considering all of the identified studies together, it seems like mechanical chest compression devices probably have a very similar effect on survival when compared with high-quality manual chest compressions."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "With the inclusion of several large studies, the overall quality of evidence has improved considerably, and now may be considered to be of low to moderate quality."
+    }
+  ]
+}

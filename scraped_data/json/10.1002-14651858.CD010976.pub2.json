@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010976.pub2",
+  "name": "Antibiotic regimens for management of intra‐amniotic infection",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chorioamnionitis is a common infection that affects both mother and infant. Infant complications associated with chorioamnionitis include early neonatal sepsis, pneumonia, and meningitis. Chorioamnionitis can also result in maternal morbidity such as pelvic infection and septic shock.\nClinical chorioamnionitis is estimated to occur in 1% to 2% of term births and in 5% to 10% of preterm births; histologic chorioamnionitis is found in nearly 20% of term births and in 50% of preterm births. Women with chorioamnionitis have a two to three times higher risk for cesarean delivery and a three to four times greater risk for endomyometritis, wound infection, pelvic abscess, bacteremia, and postpartum hemorrhage."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of administering antibiotic regimens for intra-amniotic infection on maternal and perinatal morbidity and mortality and on infection-related complications."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (1 October 2014), CENTRAL, MEDLINE, Embase, LILACS, and the WHO ICTRP (September 2014). We also searched reference lists of retrieved studies and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) that included women who experienced intra-amniotic infection. Trials were included if they compared antibiotic treatment with placebo or no treatment (if applicable), treatment with different antibiotic regimens, or timing of antibiotic therapy (intrapartum and/or postpartum). Therefore, this review assesses trials evaluating intrapartum antibiotics, intrapartum and postpartum antibiotic regimens, and postpartum antibiotics. Diagnosis of intra-amniotic infection was based on standard criteria (clinical/test), and no limit was placed on gestational age."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and trial quality. Two review authors independently extracted data and checked them for accuracy. We assessed the quality of the evidence using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach and included a 'Summary of findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our prespecified primary outcomes were maternal and neonatal mortality, maternal and neonatal severe infection, and duration of maternal and neonatal hospital stay.\nWe included 11 studies (involving 1296 women) and assessed them as having low to moderate risk of bias - mainly because allocation concealment methods were not adequately reported, most studies were open, and outcome reporting was incomplete. The quality of the evidence was low to very low for most outcomes, as per the GRADE approach. The following antibiotics were assessed in the included trials: ampicillin, ampicillin/sulbactam, gentamicin, clindamycin, and cefotetan.\nDuring labor: meta-analysis of two studies found no clear differences in rates of neonatal sepsis (163 neonates; risk ratio (RR) 1.07, 95% confidence interval (CI) 0.40 to 2.86; I² = 9%; low quality of evidence), treatment failure (endometritis) (163 participants; RR 0.86, 95% CI 0.27 to 2.70; I² = 0%; low quality of evidence), and postpartum hemorrhage (RR 1.39, 95% CI 0.76 to 2.56; I² = 0%; low quality of evidence) when two different dosages/regimens of gentamicin were assessed. No clear differences between groups were found for any reported maternal or neonatal outcomes. The review did not identify data for a comparison of antibiotics versus no treatment/placebo.\nPostpartum: meta-analysis of two studies that evaluated use of antibiotics versus placebo after vaginal delivery showed no significant differences between groups in rates of treatment failure or postpartum endometritis. No significant differences were found in rates of neonatal death and postpartum endometritis when use of antibiotics was compared with no treatment. Four trials assessing two different dosages/regimens of gentamicin or dual-agent therapy versus triple-agent therapy, or comparing antibiotics, found no significant differences in most reported neonatal or maternal outcomes; the duration of hospital stay showed a difference in favor of the group of women who received short-duration antibiotics (one study, 292 women; mean difference (MD) -0.90 days, 95% CI -1.64 to -0.16; moderate quality of evidence).\nIntrapartum versus postpartum: one small study (45 women) evaluating use of ampicillin/gentamicin during intrapartum versus immediate postpartum treatment found significant differences favoring the intrapartum group in the mean number of days of maternal postpartum hospital stay (one trial, 45 women; MD -1.00 days, 95% CI -1.94 to - 0.06; very low quality of evidence) and the mean number of neonatal hospital stay days (one trial, 45 neonates; MD -1.90 days, 95% CI -3.91 to -0.49; very low quality of evidence). Although no significant differences were found in the rate of maternal bacteremia or early neonatal sepsis, for the outcome of neonatal pneumonia or sepsis we observed a significant difference favoring intrapartum treatment (one trial, 45 neonates; RR 0.06, 95% CI 0.00 to 0.95; very low quality of evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review included 11 studies (having low to moderate risk of bias). The quality of the evidence was low to very low for most outcomes, as per the GRADE approach. Only one outcome (duration of hospital stay) was considered to provide moderate quality of evidence when antibiotics (short duration) were compared with antibiotics (long duration) during postpartum management of intra-amniotic infection. Our main reasons for downgrading the quality of evidence were limitations in study design or execution (risk of bias), imprecision, and inconsistency of results.\nCurrently, limited evidence is available to reveal the most appropriate antimicrobial regimen for the treatment of patients with intra-amniotic infection; whether antibiotics should be continued during the postpartum period; and which antibiotic regimen or what treatment duration should be used. Also, no evidence was found on adverse effects of the intervention (not reported in any of the included studies). One small RCT showed that use of antibiotics during the intrapartum period is superior to their use during the postpartum period in reducing the number of days of maternal and neonatal hospital stay."
+    }
+  ],
+  "pls_title": "Using antibiotics to treat intra-amniotic infection in pregnant women",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Cochrane authors reviewed available evidence from randomized controlled trials on the use of antibiotics for the treatment of pregnant women with intra-amniotic infection (chorioamnionitis)."
+    },
+    {
+      "heading": "Background",
+      "text": "chorioamnionitis is a common occurrence among pregnant women that affects both mother and baby and usually results in referral to hospital. It is an infection of the fetal membranes, amniotic fluid, and placenta that can cause complications for the newborn infant including whole body inflammation or sepsis, pneumonia, and meningitis. Chorioamnionitis can also result in health issues for the mother such as pelvic infection, sepsis, postpartum hemorrhage, and increased risk for cesarean delivery of the infant. Risk factors for developing chorioamnionitis include active labor for a long time, extended duration of rupture of membranes and internal monitoring, meconium staining of amniotic fluid, and a large number of digital vaginal examinations. Treatment for patients with intra-amniotic infection usually consists of antibiotics that can be administered during birth or immediately afterward. Currently, information is insufficient to suggest the most appropriate treatment regimen, which antibiotic regimen should be used, and whether antibiotics should be continued during the period immediately following birth and for what duration."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "a total of 11 studies were identified with 1296 women; most studies were conducted in the USA. Four studies evaluated the use of antibiotics before the birth (antepartum); six studies evaluated the use of antibiotics after birth (postpartum); and one compared antibiotic administration both before and after birth."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "the quality of the evidence was ranked low to very low, mainly because many studies had methodological limitations with outcome results based on limited numbers of trials and included participants that could be pooled."
+    },
+    {
+      "heading": "Key results",
+      "text": "based on the findings of one study, treatment during labor was found to be more effective than treatment after labor; however this finding relates only to maternal and neonatal length of hospital stay and to neonatal severe infection. No evidence indicated that a higher dose of antibiotics before birth was superior to a lower dose. Immediately following birth, no evidence showed that different types of antibiotics or longer or shorter treatment duration improved the health of the mother and her newborn. All women who participated in the postpartum trials received antibiotics before the time of birth. Therefore insufficient information was available from randomized controlled trials to reveal the most appropriate regimen of antibiotics for the treatment of patients with intra-amniotic infection, whether antibiotics should be continued during the postpartum period, and which antibiotic regimen should be used and for what duration. None of the included studies reported information related to adverse effects of the intervention."
+    }
+  ]
+}

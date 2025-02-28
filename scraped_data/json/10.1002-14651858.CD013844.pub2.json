@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD013844.pub2",
+  "name": "Prevention of self‐harm and suicide in young people up to the age of 25 in education settings ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In 2016, globally, suicide was the second leading cause of death amongst those aged 15 to 29 years. Self-harm is increasingly common among young people in many countries, particularly among women and girls. The risk of suicide is elevated 30-fold in the year following hospital presentation for self-harm, and those with suicidal ideation have double the risk of suicide compared with the general population.\nSelf-harm and suicide in young people are significant public health issues that cause distress for young people, their peers, and family, and lead to substantial healthcare costs. Educational settings are widely acknowledged as a logical and appropriate place to provide prevention and treatment. A comprehensive, high-quality systematic review of self-harm and suicide prevention programmes in all education settings is thus urgently required. This will support evidence-informed decision making to facilitate rational investment in prevention efforts in educational settings. Suicide and self-harm are distressing, and we acknowledge that the content of this review is sensitive as the data outlined below represents the lived and living experience of suicidal distress for individuals and their caregivers."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions delivered in educational settings to prevent or address self-harm and suicidal ideation in young people (up to the age of 25) and examine whether the relative effects on self-harm and suicide are modified by education setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Common Mental Disorders Specialised Register, CENTRAL, The Cochrane Database of Systematic Reviews, Ovid MEDLINE, PsycINFO, ERIC, Web of Science Social Science Citation Index, EBSCO host Australian Education Index, British Education Index, Educational Research Abstracts to 28 April 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included trials where the primary aim was to evaluate an intervention specifically designed to reduce self-harm or prevent suicide in an education setting. Randomised controlled trials (RCTs), cluster-RCTs, cross-over trials and quasi-randomised trials were eligible for inclusion. Primary outcomes were self-harm postintervention and acceptability; secondary outcomes included suicidal ideation, hopelessness, and two outcomes co-designed with young people: better or more coping skills, and a safe environment, with more acceptance and understanding."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as expected by Cochrane. Two review authors independently selected studies, extracted data, and assessed risk of bias. We analysed dichotomous data as odds ratios (ORs) and continuous data as standardised mean differences (SMDs) with 95% confidence intervals (CIs). We conducted random-effects meta-analyses and assessed certainty of evidence using the GRADE approach. For co-designed outcomes, we used vote counting based on the direction of effect, as there is a huge variation in the data and the effect measure used in the included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 51 trials involving 36,414 participants (minimum 23; maximum 11,100). Twenty-seven studies were conducted in secondary schools, one in middle school, one in primary school, 19 in universities, one in medical school, and one across education and community settings.\nEighteen trials investigated universal interventions, 11 of which provided data for at least one meta-analysis, but no trials provided data for self-harm postintervention. Evidence on the acceptability of universal interventions is of very low certainty, and indicates little or no difference between groups (OR 0.77, 95% CI 0.36 to 1.67; 9 studies, 8528 participants). Low-certainty evidence showed little to no effect on suicidal ideation (SMD −0.02, 95% CI −0.23 to 0.20; 4 studies, 379 participants) nor on hopelessness (MD −0.01, 95% CI −1.98 to 1.96; 1 trial, 121 participants).\nFifteen trials investigated selective interventions, eight of which provided data for at least one meta-analysis, but only one trial provided data for self-harm postintervention. Low-certainty evidence indicates that selective interventions may reduce self-harm postintervention slightly (OR 0.39, 95% CI 0.06 to 2.43; 1 trial, 148 participants). While no trial provided data for hopelessness, little to no effect was found on acceptability (OR 1.00, 95% CI 0.5 to 2.0; 6 studies, 10,208 participants; very low-certainty evidence) or suicidal ideation (SMD 0.04, 95% CI −0.36 to 0.43; 2 studies, 102 participants; low-certainty evidence).\nSeventeen trials investigated indicated interventions, 14 of which provided data for at least one meta-analysis, but only four trials provided data for self-harm postintervention and two reported no events in both groups. Low-certainty evidence suggests that indicated interventions may slightly reduce self-harm postintervention (OR 0.19, 95% CI 0.02 to 1.76; 2 studies, 76 participants). There is also low-certainty evidence indicating that these interventions may decrease the odds of non-suicidal self-injury (OR 0.65, 95% CI 0.24 to 1.79; 2 studies, 89 participants). Evidence of a slight decrease in acceptability in the intervention group is of low certainty (OR 1.44, 95% CI 0.86 to 2.42; 10 studies, 641 participants). Low-certainty evidence shows that indicated interventions may slightly reduce suicidal ideation (SMD −0.33, 95% CI −0.55 to −0.10; 10 studies, 685 participants) and may result in little to no difference in hopelessness postintervention (SMD −0.27, 95% CI −0.55 to 0.01; 6 studies, 455 participants).\nThere were mixed findings regarding the effect of suicide prevention interventions on a range of constructs relevant to coping skills and safe environment. None of the trials, however, measured the impact of improvements in these constructs on self-harm or suicidal ideation."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "While this review provides an update on the evidence about interventions targeting self-harm and suicide prevention in education settings, there remains significant uncertainty about the impact of these interventions.\nThere are some promising findings but large replication studies are needed, as are studies that examine the combination of different intervention approaches, and can be delivered in a safe environment and implemented over a long period of time. Further research is required to understand and measure outcomes that are meaningful to young people with lived experience, as they want coping skills and safety of the environment in which they conduct their everyday lives to be measured as key outcomes in future trials."
+    }
+  ],
+  "pls_title": "Are actions taken in schools, colleges and universities to prevent self-harm and suicide in young people up to the age of 25 effective?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• We found 51 studies to answer our question, but we remain uncertain about the impact of interventions in education settings to reduce self-harm.\n• There are some encouraging findings, but we need large studies to confirm them, and studies that examine the combination of different intervention approaches that are co-designed with young people, can be delivered in a safe environment and implemented over a long period of time."
+    },
+    {
+      "heading": "How are self-harm and suicide prevented?",
+      "text": "Self-harm and suicide in young people are significant public health issues that cause distress for young people, their friends and other young people they spend time with, and communities. Actions to prevent suicide and self-harm address the factors that can be changed, including building strengths that protect young people. There are three main types of actions.\n'Universal interventions' are typically aimed at increasing knowledge and skills about self-harm and suicide prevention, like mental health or suicide awareness education programmes. Also, teaching specific skills that act as protective factors, like problem-solving skills. This helps to decrease negative attitudes and shame, which then increases the likelihood that people will seek help if they are experiencing suicidal thoughts or are engaging in self-harm.\n'Selective interventions' ensure that those who are experiencing suicidal thinking or are engaging in self-harm will be noticed and provided with support. This often includes training people (peers and adults) to recognise distress in others by asking questions and getting them engaged in appropriate support.\n'Indicated interventions' tend to be targeted at individuals, such as talking therapies. They are typically provided in clinical settings. The way they work depends on the underlying approach of the intervention. The most common approaches are cognitive behavioural therapy (CBT), which includes helping people to recognise and challenge the unhelpful thinking that leads to distressing emotions and thoughts of suicide or self-harm; and dialectical behavioural therapy (DBT), which focuses on reducing life-threatening behaviours by increasing people’s abilities both to accept and to change, painful emotions and other responses."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if universal, selective and indicated interventions delivered in education settings reduced:\n• self-harm;\n• suicidal Ideation (thinking about suicide); and\n• hopelessness.\nWe also wanted to know if these interventions were acceptable to young people. We measured this by the number of people who did not complete the study (dropouts).\nWe explored whether studies measured outcomes that young people thought were important, including coping skills, and aspects of an environment that make them safe. We searched for any kind of measurement of coping skills and safe environment."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that examined universal, selective and indicated interventions designed to reduce self-harm or prevent suicide in any education setting. We compared and summarised the results of the trials and rated our confidence in the evidence, based on factors such as study methods, sample sizes and other biases evident in the study procedures."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 51 studies with 36,414 young people. Twenty-seven studies were conducted in secondary schools, one in middle school, one in primary school, 19 in universities, one in medical school, and one across education and community settings. None were conducted in alternative education or technical training school settings. Studies compared the interventions with no intervention, being on a waiting list, or other approaches, such as exercise or healthy eating.\nOverall, there was little evidence indicating the impact of universal, selective or indicated interventions for any outcomes. None of the studies on universal approaches provided data on self-harm. It is not clear whether selective and indicated interventions may slightly reduce self-harm compared to comparison groups. There might be a small reduction in non-suicidal self-injury (injuring yourself without any intention to die) for indicated interventions when compared to the comparison group. The evidence for the acceptability of the intervention showed that indicated participants might be more likely to drop out from indicated interventions when compared to control but showed no difference for universal or selective interventions. There might be a decrease in suicidal ideation and hopelessness for those who receive indicated interventions compared to control but probably little to no effect for universal and selective interventions. There was a wide range of measurement of coping skills and safe environments, but there was limited information to indicate any improvement."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Young people in the trials were probably aware of what intervention they received and not all the studies provided data about self-harm and other outcomes that we were interested in. There were few really large studies, which are important for understanding how interventions impact prevention.\nUnfortunately, our measurement of dropouts was not useful in the context of education settings, where it was often not clear whether young people had dropped out or were not at school that day."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is current to April 2023."
+    }
+  ]
+}

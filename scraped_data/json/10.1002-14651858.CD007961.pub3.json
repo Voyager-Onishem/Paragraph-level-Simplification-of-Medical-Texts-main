@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD007961.pub3",
+  "name": "Topical microbicides for preventing sexually transmitted infections",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is a updated version of our Cochrane Review published in Issue 6, 2012. Sexually-transmitted infections (STIs) continue to rise worldwide, imposing an enormous morbidity and mortality burden. Effective prevention strategies, including microbicides, are needed to achieve the goals of the World Heath Organization (WHO) global strategy for the prevention and control of these infections."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness and safety of topical microbicides for preventing acquisition of STIs, including HIV."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook a comprehensive search of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, CLIB, Web of Science, ClinicalTrials.gov, WHO International Clinical Trials Registry Platform, and reference lists of relevant articles up to August 2020. In addition, we contacted relevant organisations and experts."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials of vaginal microbicides compared to placebo (except for nonoxynol-9 because it is covered in related Cochrane Reviews). Eligible participants were sexually-active non-pregnant, WSM and MSM, who had no laboratory confirmed STIs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened and selected studies, extracted data, and assessed risks of bias in duplicate, resolving differences by consensus. We conducted a fixed-effect meta-analysis, stratified by type of microbicide, and assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight trials from the earlier version of the review and four new trials, i.e. a total of 12 trials with 32,464 participants (all WSM). We did not find any eligible study that enrolled MSM or reported fungal STI as an outcome. We have no study awaiting assessment.\nAll 12 trials were conducted in sub-Saharan Africa, with one having a study site in the USA, and another having a site in India. Vaginal microbicides tested were BufferGel and PRO 2000 (1 trial, 3101 women), Carraguard (1 trial, 6202 women), cellulose sulphate (2 trials, 3069 women), dapivirine (2 trials, 4588 women), PRO 2000 (1 trial, 9385 women), C31G (SAVVY) (2 trials, 4295 women), and tenofovir (3 trials, 4958 women). All microbicides were compared to placebo and all trials had low risk of bias.\nDapivirine probably reduces the risk of acquiring HIV infection: risk ratio (RR) 0.71, (95% confidence interval (CI) 0.57 to 0.89, I2 = 0%, 2 trials, 4588 women; moderate-certainty evidence). The other microbicides may result in little to no difference in the risk of acquiring HIV (low-certainty evidence); including tenofovir (RR 0.83, 95% CI 0.68 to 1.02, cellulose sulphate (RR 1.20, 95% CI 0.74 to 1.95, BufferGel (RR 1.05, 95% CI 0.73 to 1.52), Carraguard (RR 0.89, 95% CI 0.71 to 1.11), PRO 2000 (RR 0.93, 95% CI 0.77 to 1.14), and SAVVY (RR 1.38, 95% CI 0.79 to 2.41).\nExisting evidence suggests that cellulose sulphate (RR 0.99, 95% CI 0.37 to 2.62, 1 trial, 1425 women), and PRO 2000 (RR 0.95, 95% CI 0.73 to 1.23) may result in little to no difference in the risk of getting herpes simplex virus type 2 infection (low-certainty evidence). Two studies reported data on tenofovir's effect on this virus. One suggested that tenofovir may reduce the risk (RR 0.55, 95% CI 0.36 to 0.82; 224 participants) while the other did not find evidence of an effect (RR 0.94, 95% CI 0.85 to 1.03; 1003 participants). We have not reported the pooled result because of substantial heterogeneity of effect between the two studies (l2 = 85%).\nThe evidence also suggests that dapivirine (RR 1.70, 95% CI 0.63 to 4.59), tenofovir (RR 1.27, 95% CI 0.58 to 2.78), cellulose sulphate (RR 0.69, 95% CI 0.26 to 1.81), and (Carraguard (RR 1.07, 95% CI 0.75 to 1.52) may have little or no effect on the risk of acquiring syphilis (low-certainty evidence).\nIn addition, dapivirine (RR 0.97, 95% CI 0.89 to 1.07), tenofovir (RR 0.90, 95% CI 0.71 to 1.13), cellulose sulphate (RR 0.70, 95% CI 0.49 to 0.99), BufferGel (RR 0.97, 95% CI 0.65 to 1.45), Carraguard (RR 0.96, 95% CI 0.83 to 1.12), and PRO 2000 (RR 1.01, 95% CI 0.84 to 1.22) may result in little to no difference in the risk of acquiring chlamydia infection (low-certainty evidence).\nThe evidence also suggests that current topical microbicides may not have an effect on the risk of acquiring gonorrhoea, condyloma acuminatum, trichomoniasis, or human papillomavirus infection (low-certainty evidence). Microbicide use in the 12 trials, compared to placebo, did not lead to any difference in adverse event rates.\nNo study reported on acceptability of the intervention."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence shows that vaginal dapivirine microbicide probably reduces HIV acquisition in women who have sex with men. Other types of vaginal microbicides have not shown evidence of an effect on acquisition of STIs, including HIV. Further research should continue on the development and testing of new microbicides."
+    }
+  ],
+  "pls_title": "Vaginal inserts for prevention of sexually transmitted infections",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "In this Cochrane Review we assessed the effects of topical microbicides (chemical substances that can be applied inside the vagina or rectum), compared to placebo (inactive substance), to prevent women who have sex with men and men who have sex with men from getting sexually-transmitted infections (STIs), including HIV."
+    },
+    {
+      "heading": "Background",
+      "text": "This is an updated version of our Cochrane Review published in 2012. Both curable and incurable STIs continue to rise, despite the prevention strategies implemented to date. Women often have the highest rates of STIs and account for a disproportionate number of new infections. STIs are often without symptoms. Despite their greater vulnerability, current options to reduce the spread of STI remain limited for women. There is thus a clear need for new and effective strategies to prevent people from getting STIs, including HIV."
+    },
+    {
+      "heading": "Trial characteristics",
+      "text": "Cochrane researchers searched the available literature up to August 2020 and included 12 trials with 32,464 women who have sex with men. The trials included seven types of inserts (six vaginal gels and one vaginal ring) that were compared with placebo, all conducted among women aged over 16 years. All trials were conducted in sub-Saharan Africa, with one having a study site in India and another having a site in the USA. The Cochrane researchers did not find any studies that were conducted among men who have sex with men."
+    },
+    {
+      "heading": "Key results",
+      "text": "Compared with placebo, the rate of HIV infection was lower in the group that took vaginal inserts containing the antiretroviral drug known as dapivirine, but other STIs occurred at similar rates in dapivirine and placebo groups. Tenofovir gel may also reduce the rates of herpes simplex virus infection, but not other STIs. In addition, the cellulose sulphate gel resulted in lower rates of chlamydia infection, compared to placebo. When other microbicide gels were compared with placebo, could be little or no difference in the rates of STI. None of the trials reported fungal STI as outcome.\nCompared with placebo, the rate of HIV infection was lower in the group that took vaginal inserts containing the antiretroviral drug known as dapivirine, but other STIs occurred at similar rates in dapivirine and placebo groups. Tenofovir gel probably reduces the rates of herpes simplex virus infection, but not other STIs. Cellulose sulphate gel probably results in lower rates of chlamydia infection, compared to placebo. When other microbicide gels were compared with placebo, could be, there is little or no difference in the rates of STI. None of the trials reported fungal STI as outcome."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The certainty of evidence was low for most outcomes reported in this review, due to heterogeneity and small number of studies and participants for certain microbicides. This led to imprecision of the findings (ranging from large clinical benefits to substantial harm)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that were published up to August 2020."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010296.pub2",
+  "name": "Ultrasonography for endoleak detection after endoluminal abdominal aortic aneurysm repair ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with abdominal aortic aneurysm who receive endovascular aneurysm repair (EVAR) need lifetime surveillance to detect potential endoleaks. Endoleak is defined as persistent blood flow within the aneurysm sac following EVAR. Computed tomography (CT) angiography is considered the reference standard for endoleak surveillance. Colour duplex ultrasound (CDUS) and contrast-enhanced CDUS (CE-CDUS) are less invasive but considered less accurate than CT."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of colour duplex ultrasound (CDUS) and contrast-enhanced-colour duplex ultrasound (CE-CDUS) in terms of sensitivity and specificity for endoleak detection after endoluminal abdominal aortic aneurysm repair (EVAR)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, LILACS, ISI Conference Proceedings, Zetoc, and trial registries in June 2016 without language restrictions and without use of filters to maximize sensitivity."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Any cross-sectional diagnostic study evaluating participants who received EVAR by both ultrasound (with or without contrast) and CT scan assessed at regular intervals."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two pairs of review authors independently extracted data and assessed quality of included studies using the QUADAS 1 tool. A third review author resolved discrepancies. The unit of analysis was number of participants for the primary analysis and number of scans performed for the secondary analysis. We carried out a meta-analysis to estimate sensitivity and specificity of CDUS or CE-CDUS using a bivariate model. We analysed each index test separately. As potential sources of heterogeneity, we explored year of publication, characteristics of included participants (age and gender), direction of the study (retrospective, prospective), country of origin, number of CDUS operators, and ultrasound manufacturer."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 42 primary studies with 4220 participants. Twenty studies provided accuracy data based on the number of individual participants (seven of which provided data with and without the use of contrast). Sixteen of these studies evaluated the accuracy of CDUS. These studies were generally of moderate to low quality: only three studies fulfilled all the QUADAS items; in six (40%) of the studies, the delay between the tests was unclear or longer than four weeks; in eight (50%), the blinding of either the index test or the reference standard was not clearly reported or was not performed; and in two studies (12%), the interpretation of the reference standard was not clearly reported. Eleven studies evaluated the accuracy of CE-CDUS. These studies were of better quality than the CDUS studies: five (45%) studies fulfilled all the QUADAS items; four (36%) did not report clearly the blinding interpretation of the reference standard; and two (18%) did not clearly report the delay between the two tests.\nBased on the bivariate model, the summary estimates for CDUS were 0.82 (95% confidence interval (CI) 0.66 to 0.91) for sensitivity and 0.93 (95% CI 0.87 to 0.96) for specificity whereas for CE-CDUS the estimates were 0.94 (95% CI 0.85 to 0.98) for sensitivity and 0.95 (95% CI 0.90 to 0.98) for specificity. Regression analysis showed that CE-CDUS was superior to CDUS in terms of sensitivity (LR Chi2 = 5.08, 1 degree of freedom (df); P = 0.0242 for model improvement).\nSeven studies provided estimates before and after administration of contrast. Sensitivity before contrast was 0.67 (95% CI 0.47 to 0.83) and after contrast was 0.97 (95% CI 0.92 to 0.99). The improvement in sensitivity with of contrast use was statistically significant (LR Chi2 = 13.47, 1 df; P = 0.0002 for model improvement).\nRegression testing showed evidence of statistically significant effect bias related to year of publication and study quality within individual participants based CDUS studies. Sensitivity estimates were higher in the studies published before 2006 than the estimates obtained from studies published in 2006 or later (P < 0.001); and studies judged as low/unclear quality provided higher estimates in sensitivity. When regression testing was applied to the individual based CE-CDUS studies, none of the items, namely direction of the study design, quality, and age, were identified as a source of heterogeneity.\nTwenty-two studies provided accuracy data based on number of scans performed (of which four provided data with and without the use of contrast). Analysis of the studies that provided scan based data showed similar results. Summary estimates for CDUS (18 studies) showed 0.72 (95% CI 0.55 to 0.85) for sensitivity and 0.95 (95% CI 0.90 to 0.96) for specificity whereas summary estimates for CE-CDUS (eight studies) were 0.91 (95% CI 0.68 to 0.98) for sensitivity and 0.89 (95% CI 0.71 to 0.96) for specificity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review demonstrates that both ultrasound modalities (with or without contrast) showed high specificity. For ruling in endoleaks, CE-CDUS appears superior to CDUS. In an endoleak surveillance programme CE-CDUS can be introduced as a routine diagnostic modality followed by CT scan only when the ultrasound is positive to establish the type of endoleak and the subsequent therapeutic management."
+    }
+  ],
+  "pls_title": "Ultrasonography versus computed tomography scan for endoleak detection after endoluminal abdominal aortic aneurysm repair",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "An abdominal aortic aneurysm (AAA) is a localised swelling or widening of a major vessel that carries blood to the abdomen (tummy), pelvis, and legs. People with AAA are at risk from sudden death due to AAA rupture (bursting). Once detected, intervention (treatment) is recommended once the AAA is bigger than about 5 cm in diameter. Most repairs are now performed using a new vessel lining inside the aneurysm guided by x-ray control (endovascular aneurysm repair or EVAR).\nOnce the new lining is in place, the seals at either end may leak or vessel branches arising from the aneurysm wall may bleed backwards into the AAA sac. These are collectively referred to as endoleaks. Endoleaks are common after EVAR, developing in about 40% of people during monitoring (follow-up). Endoleaks can be associated with late aneurysm rupture and, therefore, detection and monitoring is essential. Ultrasound (uses high-frequency sound waves), computed tomography (uses x-rays), and magnetic resonance scans (uses strong magnetic fields and radio waves) have all been used to detect and monitor endoleaks. Sometimes, dye (contrast) is injected into a vein to improve the accuracy of ultrasound (contrast-enhanced ultrasound)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We collected the most recent evidence (to July 2016) and conducted a meta-analysis according to the most appropriate methods for diagnostic tests. We included 42 studies with 4220 participants in the review."
+    },
+    {
+      "heading": "Key results",
+      "text": "The analyses measured sensitivity (how well a test identified people with endoleak correctly) and specificity (how well a test identified people without endoleak correctly). The summary accuracy estimates were sensitivity 82% (95% confidence interval 66% to 91%) and specificity 93% (95% confidence interval 87% to 96%) for ultrasonography without contrast; and sensitivity 94% (95% confidence interval 85% to 98%) and specificity 95% (95% confidence interval 90% to 98%) for ultrasonography with contrast. Use of contrast improved the sensitivity of ultrasound significantly. Based on these results, we would expect 94% of people with endoleaks will be correctly identified by contrast-enhanced ultrasound."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Studies that evaluated contrast-enhanced ultrasound used better methods than the studies that evaluated ultrasound alone."
+    }
+  ]
+}

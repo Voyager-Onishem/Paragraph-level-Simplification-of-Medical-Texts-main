@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008685.pub2",
+  "name": "Optimal loading dose of warfarin for the initiation of oral anticoagulation",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Warfarin is used as an oral anticoagulant. However, there is wide variation in patient response to warfarin dose. This variation, as well as the necessity of keeping within a narrow therapeutic range, means that selection of the correct warfarin dose at the outset of treatment is not straightforward."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of different initiation doses of warfarin in terms of time in-range, time to INR in-range and effect on serious adverse events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, DARE and the NHS Health economics database on The Cochrane Library (2012, Issue 4); MEDLINE (1950 to April 2012) and EMBASE (1974 to April 2012)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials which compared different initiation regimens of warfarin."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently assessed studies for inclusion. Authors also assessed the risk of bias and extracted data from the included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 studies of patients commencing warfarin for inclusion in the review. The overall risk of bias was found to be variable, with most studies reporting adequate methods for randomisation but only two studies reporting adequate data on allocation concealment. Four studies (355 patients) compared 5 mg versus 10 mg loading doses. All four studies reported INR in-range by day five. Although there was notable heterogeneity, pooling of these four studies showed no overall difference between 5 mg versus 10 mg loading doses (RR 1.17, 95% CI 0.77 to 1.77, P = 0.46, I2 = 83%). Two of these studies used two consecutive INRs in-range as the outcome and showed no difference between a 5 mg and 10 mg dose by day five (RR 0.86, 95% CI 0.62 to 1.19, P = 0.37, I2 = 22%); two other studies used a single INR in-range as the outcome and showed a benefit for the 10 mg initiation dose by day 5 (RR 1.49, 95% CI 1.01 to 2.21, P = 0.05, I2 = 72%). Two studies compared a 5 mg dose to other doses: a 2.5 mg initiation dose took longer to achieve the therapeutic range (2.7 versus 2.0 days; P < 0.0001), but those receiving a calculated initiation dose achieved a target range quicker (4.2 days versus 5 days, P = 0.007). Two studies compared age adjusted doses to 10 mg initiation doses. More elderly patients receiving an age adjusted dose achieved a stable INR compared to those receiving a 10 mg initial dose (and Fennerty regimen). Four studies used genotype guided dosing in one arm of each trial. Three studies reported no overall differences; the fourth study, which reported that the genotype group spent significantly more time in-range (P < 0.001), had a control group whose INRs were significantly lower than expected. No clear impacts from adverse events were found in either arm to make an overall conclusion."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The studies in this review compared loading doses in several different situations. There is still considerable uncertainty between the use of a 5 mg and a 10 mg loading dose for the initiation of warfarin. In the elderly, there is some evidence that lower initiation doses or age adjusted doses are more appropriate, leading to fewer high INRs. However, there is insufficient evidence to warrant genotype guided initiation."
+    }
+  ],
+  "pls_title": "The optimal warfarin dose for patients beginning therapy",
+  "pls_type": "long",
+  "pls": "Warfarin is commonly prescribed to prevent blot clots in patients with medical conditions such as atrial fibrillation, heart valve replacement or previous blood clots. Warfarin is an effective treatment which has been used for many years but needs to be closely monitored, especially at the beginning of treatment, as there is a wide variation in response to dose. Monitoring of the response to dose is done using an International Normalized Ratio (INR) and it is important that patients remain within a narrow range (typically 2 to 3 INR) due to the need to balance the goal of preventing blood clots with the risk of causing excessive bleeding.\nThis review included 12 randomised controlled trials comparing different warfarin doses given to patients beginning warfarin treatment. Most of the studies had a high risk of bias so the results were interpreted with caution.\nThose trials that were included compared loading doses in several different situations. The review authors divided the trials into four categories, 5 mg versus 10 mg initial doses (four studies), 5 mg versus other doses (two studies), 5 mg or 10 mg versus age adjusted doses (two studies), 5 mg or 10 mg versus genotype adjusted doses (four studies).\nThe review authors concluded that there is still considerable uncertainty between the use of a 5 mg and a 10 mg loading dose for the initiation of warfarin. In the elderly, there is some evidence that lower initiation doses or age adjusted doses are more appropriate. However, there is insufficient evidence to warrant genotype adjusted dosing. We also found no data to suggest that any one method was safer than another."
+}

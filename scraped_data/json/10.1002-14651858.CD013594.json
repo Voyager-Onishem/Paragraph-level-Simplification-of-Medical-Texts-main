@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013594",
+  "name": "Treating progressive disseminated histoplasmosis in people living with HIV",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Progressive disseminated histoplasmosis (PDH) is a serious fungal infection that affects people living with HIV. The best way to treat the condition is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We assessed evidence in three areas of equipoise.\n1. Induction. To compare efficacy and safety of initial therapy with liposomal amphotericin B versus initial therapy with alternative antifungals.\n2. Maintenance. To compare efficacy and safety of maintenance therapy with 12 months of oral antifungal treatment with shorter durations of maintenance therapy.\n3. Antiretroviral therapy (ART). To compare the outcomes of early initiation versus delayed initiation of ART."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane CENTRAL; MEDLINE (PubMed); Embase (Ovid); Science Citation Index Expanded, Conference Proceedings Citation Index-Science, and BIOSIS Previews (all three in the Web of Science); the WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry, all up to 20 March 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We evaluated studies assessing the use of liposomal amphotericin B and alternative antifungals for induction therapy; studies assessing the duration of antifungals for maintenance therapy; and studies assessing the timing of ART. We included randomized controlled trials (RCT), single-arm trials, prospective cohort studies, and single-arm cohort studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors assessed eligibility and risk of bias, extracted data, and assessed certainty of evidence. We used the Cochrane 'Risk of bias' tool to assess risk of bias in randomized studies, and ROBINS-I tool to assess risk of bias in non-randomized studies. We summarized dichotomous outcomes using risk ratios (RRs), with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 17 individual studies. We judged eight studies to be at critical risk of bias, and removed these from the analysis.\n1. Induction\nWe found one RCT which compared liposomal amphotericin B to deoxycholate amphotericin B. Compared to deoxycholate amphotericin B, liposomal amphotericin B may have higher clinical success rates (RR 1.46, 95% CI 1.01 to 2.11; 1 study, 80 participants; low-certainty evidence). Compared to deoxycholate amphotericin B, liposomal amphotericin B has lower rates of nephrotoxicity (RR 0.25, 95% CI 0.09 to 0.67; 1 study, 77 participants; high-certainty evidence). We found very low-certainty evidence to inform comparisons between amphotericin B formulations and azoles for induction therapy.\n2. Maintenance\nWe found no eligible study that compared less than 12 months of oral antifungal treatment to 12 months or greater for maintenance therapy.\nFor both induction and maintenance, fluconazole performed poorly in comparison to other azoles.\n3. ART\nWe found one study, in which one out of seven participants in the 'early' arm and none of the three participants in the 'late' arm died."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Liposomal amphotericin B appears to be a better choice compared to deoxycholate amphotericin B for treating PDH in people with HIV; and fluconazole performed poorly compared to other azoles. Other treatment choices for induction, maintenance, and when to start ART have no evidence, or very low certainty evidence. PDH needs prospective comparative trials to help inform clinical decisions."
+    }
+  ],
+  "pls_title": "How best to treat progressive disseminated histoplasmosis in people with HIV",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was the aim of this review?",
+      "text": "The aim of this Cochrane Review was to investigate some treatment dilemmas with progressive disseminated histoplasmosis in people living with HIV. We collected and analysed all relevant studies to answer this question and found 17 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Liposomal amphotericin B may improve clinical success compared to deoxycholate amphotericin B when starting treatment.\nLiposomal amphotericin B results in less kidney damage compared to deoxycholate amphotericin B when starting treatment.\nWe are unsure how long people should stay on treatment after they have successfully completed the starting stage. We are unsure at what time during treatment of the fungal infection it is best to start treatment to fight the HIV virus."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Histoplasmosis is an infection caused by inhaling a fungus called Histoplasma. The most severe form of histoplasmosis is called progressive disseminated histoplasmosis, in which the infection spreads from the lungs to other organs. It is life-threatening for people with advanced HIV.\nThe treatment of progressive disseminated histoplasmosis starts with 'induction', in which medicines are started to rapidly attack the fungus. The next phase is called 'maintenance', in which medicines are used to prevent the fungus taking hold again. During treatment of the fungus, antiretroviral medicines are started to fight the HIV virus.\nWe wanted to find out the best induction treatment, if maintenance could be for less than one year, and when was the best time to start antiretroviral medicines."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found 17 studies. We removed eight from the review as they did not include important measurements that might change results. These included how severe the HIV infection was, or if the patients had other infections at the same time.\nOne study compared two forms of the same medicine for starting treatment of histoplasmosis, liposomal amphotericin B and deoxycholate amphotericin B. It found that the more expensive liposomal form is less likely to cause kidney damage and may have higher clinical success rates than the deoxycholate form.\nNone of the studies looked at whether maintenance could be less than one year. Two studies looked a antiretroviral medicines, but we do not know when it is best to start them."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "We searched for studies that had been published up to 20 March 2020."
+    }
+  ]
+}

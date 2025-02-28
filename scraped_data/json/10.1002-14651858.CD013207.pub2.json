@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013207.pub2",
+  "name": "Point‐of‐care tests detecting HIV nucleic acids for diagnosis of HIV‐1 or HIV‐2 infection in infants and children aged 18 months or less ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The standard method of diagnosing HIV in infants and children less than 18 months is with a nucleic acid amplification test reverse transcriptase polymerase chain reaction test (NAT RT-PCR) detecting viral ribonucleic acid (RNA). Laboratory testing using the RT-PCR platform for HIV infection is limited by poor access, logistical support, and delays in relaying test results and initiating therapy in low-resource settings. The use of rapid diagnostic tests at or near the point-of-care (POC) can increase access to early diagnosis of HIV infection in infants and children less than 18 months of age and timely initiation of antiretroviral therapy (ART)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarize the diagnostic accuracy of point-of-care nucleic acid-based testing (POC NAT) to detect HIV-1/HIV-2 infection in infants and children aged 18 months or less exposed to HIV infection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (until 2 February 2021), MEDLINE and Embase (until 1 February 2021), and LILACS and Web of Science (until 2 February 2021) with no language or publication status restriction. We also searched conference websites and clinical trial registries, tracked reference lists of included studies and relevant systematic reviews, and consulted experts for potentially eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We defined POC tests as rapid diagnostic tests conducted at or near the patient site. We included any primary study that compared the results of a POC NAT to a reference standard of laboratory NAT RT-PCR or total nucleic acid testing to detect the presence or absence of HIV infection denoted by HIV viral nucleic acids in infants and children aged 18 months or less who were exposed to HIV-1/HIV-2 infection. We included cross-sectional, prospective, and retrospective study designs and those that provided sufficient data to create the 2 × 2 table to calculate sensitivity and specificity. We excluded diagnostic case control studies with healthy controls."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted information on study characteristics using a pretested standardized data extraction form. We used the QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies) tool to assess the risk of bias and applicability concerns of the included studies. Two review authors independently selected and assessed the included studies, resolving any disagreements by consensus. The unit of analysis was the participant. We first conducted preliminary exploratory analyses by plotting estimates of sensitivity and specificity from each study on forest plots and in receiver operating characteristic (ROC) space. For the overall meta-analyses, we pooled estimates of sensitivity and specificity using the bivariate meta-analysis model at a common threshold (presence or absence of infection)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified a total of 12 studies (15 evaluations, 15,120 participants). All studies were conducted in sub-Saharan Africa. The ages of included infants and children in the evaluations were as follows: at birth (n = 6), ≤ 12 months (n = 3), ≤ 18 months (n = 5), and ≤ 24 months (n = 1). Ten evaluations were field evaluations of the POC NAT test at the point of care, and five were laboratory evaluations of the POC NAT tests.The POC NAT tests evaluated included Alere q HIV-1/2 Detect qualitative test (recently renamed m-PIMA q HIV-1/2 Detect qualitative test) (n = 6), Xpert HIV-1 qualitative test (n = 6), and SAMBA HIV-1 qualitative test (n = 3).\nPOC NAT pooled sensitivity and specificity (95% confidence interval (CI)) against laboratory reference standard tests were 98.6% (96.1 to 99.5) (15 evaluations, 1728 participants) and 99.9% (99.7 to 99.9) (15 evaluations, 13,392 participants) in infants and children ≤ 18 months.\nRisk of bias in the included studies was mostly low or unclear due to poor reporting. Five evaluations had some concerns for applicability for the index test, as they were POC tests evaluated in a laboratory setting, but there was no difference detected between settings in sensitivity (−1.3% (95% CI −4.1 to 1.5)); and specificity results were similar."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For the diagnosis of HIV-1/HIV-2 infection, we found the sensitivity and specificity of POC NAT tests to be high in infants and children aged 18 months or less who were exposed to HIV infection."
+    }
+  ],
+  "pls_title": "Point-of-care tests for detecting HIV viral molecules in infants and children aged 18 months or less",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of HIV infection important?",
+      "text": "It is estimated that 1.5 million infants are still exposed to HIV every year. If left untreated, about 50% to 60% of HIV-infected infants will die by the age of two years. Children infected before birth are especially at high risk of death. HIV is incurable; however, there are medications that suppress HIV, known as antiretroviral drugs (ART). When HIV is detected early, severe illness and death from HIV-related infections can be prevented by taking this medication. A test that detects HIV viral genetic molecules quickly and accurately at or near the patient's side (point-of-care) therefore can increase access to early appropriate treatment and minimize missing treatments in those whose HIV remains undetected."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To determine the accuracy of molecular point-of-care tests for detecting the main types of HIV infection (HIV-1/HIV-2) in infants and children aged 18 months or less."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Published reports of molecular point-of-care tests with results measured against laboratory viral-based tests (benchmark)."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "Twelve studies which completed 15 evaluations involving 15,120 participants compared molecular point-of-care tests for diagnosing HIV infection."
+    },
+    {
+      "heading": "What are the strengths and limitations of this review?",
+      "text": "The review included sufficient studies and participants. All studies were conducted in sub-Saharan Africa, making the results highly applicable for use in communities where the disease is regularly found and where disease control programmes are often targeted. However, one in three included evaluations of the molecular point-of-care tests were conducted in a laboratory setting and not near the patient but there was no difference in the test accuracy between settings."
+    },
+    {
+      "heading": "To whom do the results of this review apply?",
+      "text": "Infants and children aged 18 months or less who were exposed to HIV infection."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "In theory, for a population of 1000 children aged 18 months or less where 100 have HIV infection, 100 children will be positive with the molecular point-of-care test, of which one will not have the infection (false-positive result), and 900 will be negative with the molecular point-of-care test, of which one will indeed have the infection (false-negative result)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The evidence is current to 2 February 2021."
+    }
+  ]
+}

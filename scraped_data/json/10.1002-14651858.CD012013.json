@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012013",
+  "name": "Interventions for self‐harm in children and adolescents",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Self-harm (SH; intentional self-poisoning or self-injury) is common in children and adolescents, often repeated, and strongly associated with suicide. This is an update of a broader Cochrane review on psychosocial and pharmacological treatments for deliberate SH first published in 1998 and previously updated in 1999. We have now divided the review into three separate reviews; this review is focused on psychosocial and pharmacological interventions for SH in children and adolescents."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To identify all randomised controlled trials of psychosocial interventions, pharmacological agents, or natural products for SH in children and adolescents, and to conduct meta-analyses (where possible) to compare the effects of specific treatments with comparison types of treatment (e.g., treatment as usual (TAU), placebo, or alternative pharmacological treatment) for children and adolescents who SH."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update the Cochrane Depression, Anxiety and Neurosis Group (CCDAN) Trials Search Co-ordinator searched the CCDAN Specialised Register (30 January 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing psychosocial or pharmacological treatments with treatment as usual, alternative treatments, or placebo or alternative pharmacological treatment in children and adolescents (up to 18 years of age) with a recent (within six months) episode of SH resulting in presentation to clinical services."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently selected trials, extracted data, and appraised study quality, with consensus. For binary outcomes, we calculated odds ratios (OR) and their 95% confidence intervals (CI). For continuous outcomes measured using the same scale we calculated the mean difference (MD) and 95% CI; for those measured using different scales we calculated the standard mean difference (SMD) and 95% CI. Meta-analysis was only possible for two interventions: dialectical behaviour therapy for adolescents and group-based psychotherapy. For these analyses, we pooled data using a random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 trials, with a total of 1,126 participants. The majority of participants were female (mean = 80.6% in 10 trials reporting gender). All trials were of psychosocial interventions; there were none of pharmacological treatments. With the exception of dialectical behaviour therapy for adolescents (DBT-A) and group-based therapy, assessments of specific interventions were based on single trials. We downgraded the quality of evidence owing to risk of bias or imprecision for many outcomes.\nTherapeutic assessment appeared to increase adherence with subsequent treatment compared with TAU (i.e., standard assessment; n = 70; k = 1; OR = 5.12, 95% CI 1.70 to 15.39), but this had no apparent impact on repetition of SH at either 12 (n = 69; k = 1; OR 0.75, 95% CI 0.18 to 3.06; GRADE: low quality) or 24 months (n = 69; k = 1; OR = 0.69, 05% CI 0.23 to 2.14; GRADE: low quality evidence). These results are based on a single cluster randomised trial, which may overestimate the effectiveness of the intervention.\nFor patients with multiple episodes of SH or emerging personality problems, mentalisation therapy was associated with fewer adolescents scoring above the cut-off for repetition of SH based on the Risk-Taking and Self-Harm Inventory 12 months post-intervention (n = 71; k = 1; OR = 0.26, 95% CI 0.09 to 0.78; GRADE: moderate quality). DBT-A was not associated with a reduction in the proportion of adolescents repeating SH when compared to either TAU or enhanced usual care (n = 104; k = 2; OR 0.72, 95% CI 0.12 to 4.40; GRADE: low quality). In the latter trial, however, the authors reported a significantly greater reduction over time in frequency of repeated SH in adolescents in the DBT condition, in whom there were also significantly greater reductions in depression, hopelessness, and suicidal ideation.\nWe found no significant treatment effects for group-based therapy on repetition of SH for individuals with multiple episodes of SH at either the six (n = 430; k = 2; OR 1.72, 95% CI 0.56 to 5.24; GRADE: low quality) or 12 month (n = 490; k = 3; OR 0.80, 95% CI 0.22 to 2.97; GRADE: low quality) assessments, although considerable heterogeneity was associated with both (I2 = 65% and 77% respectively). We also found no significant differences between the following treatments and TAU in terms of reduced repetition of SH: compliance enhancement (three month follow-up assessment: n = 63; k = 1; OR = 0.67, 95% CI 0.15 to 3.08; GRADE: very low quality), CBT-based psychotherapy (six month follow-up assessment: n = 39; k = 1; OR = 1.88, 95% CI 0.30 to 11.73; GRADE: very low quality), home-based family intervention (six month follow-up assessment: n = 149; k = 1; OR = 1.02, 95% CI 0.41 to 2.51; GRADE: low quality), and provision of an emergency card (12 month follow-up assessment: n = 105, k = 1; OR = 0.50, 95% CI 0.12 to 2.04; GRADE: very low quality). No data on adverse effects, other than the planned outcomes relating to suicidal behaviour, were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There are relatively few trials of interventions for children and adolescents who have engaged in SH, and only single trials contributed to all but two comparisons in this review. The quality of evidence according to GRADE criteria was mostly very low. There is little support for the effectiveness of group-based psychotherapy for adolescents with multiple episodes of SH based on the results of three trials, the evidence from which was of very low quality according to GRADE criteria. Results for therapeutic assessment, mentalisation, and dialectical behaviour therapy indicated that these approaches warrant further evaluation. Despite the scale of the problem of SH in children and adolescents there is a paucity of evidence of effective interventions. Further large-scale trials, with a range of outcome measures including adverse events, and investigation of therapeutic mechanisms underpinning these interventions, are required. It is increasingly apparent that development of new interventions should be done in collaboration with patients to ensure that these are likely to meet their needs. Use of an agreed set of outcome measures would assist evaluation and both comparison and meta-analysis of trials."
+    }
+  ],
+  "pls_title": "Interventions for children and adolescents who self-harm",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Self-harm (SH), which includes intentional self-poisoning/overdose and self-injury, is a major problem in children and adolescents in many countries and is strongly linked to risk of future suicide. It is therefore important that effective treatments for SH patients are developed."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "Clinicians working with young people who engage in SH, policy makers, young people who themselves have self-harmed or may be at risk of doing so, and their families and relatives."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "This review is an update of a previous Cochrane review from 1999 which found little evidence of beneficial effects of interventions for SH aimed specifically at children and adolescents. This update aims to further evaluate the evidence for the effectiveness of psychosocial and pharmacological treatments for children and adolescents who engage in SH with a broader range of outcomes, particularly with regards to investigating whether there are specific treatments for children and adolescents who SH which have greater benefit compared to routine care in terms of treatment adherence and improvements in psychological well-being."
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "To be included in the review, studies had to be randomised controlled trials of either psychosocial or pharmacological treatments for children and adolescents up to 18 years of age who had recently engaged in SH and presented to clinical services."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "There have been surprisingly few investigations of treatments for SH in children and adolescents, despite the size of this problem in many countries. Providing therapeutic assessment may improve attendance at subsequent treatment sessions. Only one therapeutic approach - mentalisation - was associated with a reduction in frequency of repetition of SH. However this effect was only modest and the trial was small, which prevents us from being able to make firm conclusions about the effectiveness of this treatment. There was no clear evidence of effectiveness for compliance enhancement, individual cognitive behavioral therapy (CBT)-based psychotherapy, home-based family intervention, or provision of an emergency card, nor was there clear evidence for group therapy for adolescents with a history of multiple episodes of SH."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "Therapeutic assessment, mentalisation, and dialectical behaviour therapy warrant further investigation. While in a single small study, individual CBT-based psychotherapy appeared ineffective, further evaluation of this treatment is also desirable given the favourable results found in adults who SH. Given the extent of SH in children and adolescents, greater attention should be paid to the development and evaluation of specific therapies for this population."
+    }
+  ]
+}

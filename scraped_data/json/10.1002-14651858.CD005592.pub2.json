@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005592.pub2",
+  "name": "Huperzine A for Alzheimer's disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Alzheimer's disease (AD) has become a major public health problem around the world due to its increasing prevalence, long duration, caregiver burden, and high financial cost of care. The degeneration of acetylcholine-containing neurons in the basal forebrain has been implicated in the symptoms of AD. Cholinesterase inhibitors may block the degradation of acetylcholine, thus increasing the efficacy of the remaining cholinergic neurons. Huperzine A is a linearly competitive, reversible inhibitor of acetyl cholinesterase that is said to have both central and peripheral activity with the ability to protect cells against hydrogen peroxide, beta-amyloid protein (or peptide), glutamate, ischemia and staurosporine-induced cytotoxicity and apoptosis. These properties might qualify Huperzine A as a promising agent for treating dementia (including AD)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of Huperzine A for the treatment of patients with AD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group was searched on 1 February 2006 using the search term: huperzin*. The CDCIG Specialized register contains records from all major health care databases (MEDLINE, EMBASE, PsycINFO, CINAHL, SIGLE, ISTP, INSIDE, LILACS) as well as from many trials databases and grey literature sources. In addition, the CBM and AMED databases and relevant websites were searched and some journals were hand-searched. Specialists in the field were approached for unpublished material and any publications found were searched for additional references."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All relevant randomized controlled trials (RCTs) studying the efficacy and safety of Huperzine A for AD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two reviewers using a self-developed data extraction form and entered into RevMan 4.2.10 software. Meta-analyses were performed when more than one trial provided data on a comparable outcome on sufficiently similar patients. Random effects analyses were performed whenever heterogeneity between results appeared to be present. Standardized differences in mean outcome measures were used due to the use of different scales and periods of treatment."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials including a total of 454 patients met our inclusion criteria. The methodological quality of most included trials was not high. It was shown that compared to placebo, Huperzine A had beneficial effects on the improvement of general cognitive function measured by MMSE (WMD 2.81; 95% CI 1.87 to 3.76; P < 0.00001) and ADAS-Cog at six weeks (WMD 1.91; 95% CI 1.27 to 2.55) and at 12 weeks (WMD 2.51; 95% CI 1.74 to 3.28), global clinical assessment measured by CDR (WMD -0.80; 95% CI -0.95 to -0.65) and CIBIC-plus (OR 4.32, 95% CI 2.37 to 7.90), behavioral disturbance measured by ADAS-non-Cog at six weeks (WMD -1.33, 95%CI -2.12 to -0.54) and at 12 weeks (WMD -1.52, 95% CI-2.39 to -0.65), and functional performance measured by ADL (WMD = -7.17; 95% CI -9.13 to -5.22; P < 0.00001). However, Huperzine A was not superior to placebo in the improvement of general cognitive function measured by Hasegawa Dementia Scale (HDS) (WMD: 2.78; 95% CI -0.17 to 5.73, P = 0.06) and specific cognitive function measured by Weshler Memory Scale (WMS) (WMD = 6.64; 95% CI -3.22 to 16.50; P = 0.19). No data were available on quality of life and caregiver burden. The adverse events of Huperzine A were mild and there were no significant differences of adverse events between Huperzine A groups and control groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "From the available evidence, Huperzine A seems to have some beneficial effects on improvement of general cognitive function, global clinical status, behavioral disturbance and functional performance, with no obvious serious adverse events for patients with AD. However, only one study was of adequate quality and size. There is therefore inadequate evidence to make any recommendation about its use. Rigorous design, randomized, multi-centre, large-sample trials of Huperzine A for AD are needed to further assess the effects."
+    }
+  ],
+  "pls_title": "There is currently insufficient evidence of the effects of Huperzine A for Alzheimer's disease (AD).",
+  "pls_type": "long",
+  "pls": "Huperzine A is derived from Chinese club moss Huperzia serrata, and is described as having several properties which may be beneficial for AD. This review looked for randomized trials comparing Huperzine A with control in patients with AD. Six trials were identified but most trials were of low methodological quality. Although Huperzine A seemed to have some beneficial effects on improvement of general cognitive function, global clinical status, behavioral disturbance and functional performance for patients with AD, the small trials with limited numbers of patients and the low methodological quality resulted in cautious assessment of the results. More large, high-quality randomized trials are needed."
+}

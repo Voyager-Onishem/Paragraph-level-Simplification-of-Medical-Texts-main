@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD014966.pub2",
+  "name": "Sex and gender as predictors for allograft and patient‐relevant outcomes after kidney transplantation ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sex, as a biological construct, and gender, defined as the cultural attitudes and behaviours attributed by society, may be associated with allograft loss, death, cancer, and rejection. Other factors, such as recipient age and donor sex, may modify the association between sex/gender and post-transplant outcomes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We sought to evaluate the prognostic effects of recipient sex and, separately, gender as independent predictors of graft loss, death, cancer, and allograft rejection following kidney or simultaneous pancreas-kidney (SPK) transplantation. We aimed to evaluate this prognostic effect by defining the relationship between recipient sex or gender and post-transplantation outcomes identifying reasons for variations between sexes and genders, and then quantifying the magnitude of this relationship."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE and EMBASE databases from inception up to 12 April 2023, through contact with the Cochrane Kidney and Transplant Information Specialist, using search terms relevant to this review and no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Cohort, case-control, or cross-sectional studies were included if sex or gender were the primary exposure and clearly defined. Studies needed to focus on our defined outcomes post-transplantation. Sex was defined as the chromosomal, gonadal, and anatomical characteristics associated with the biological sex, and we used the terms “males” and “females”. Gender was defined as the attitudes and behaviours that a given culture associates with a person’s biological sex, and we used the terms “men” and “women”."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed the references for eligibility, extracted the data and assessed the risk of bias using the Quality in Prognosis Studies (QUIPS) tool. Whenever appropriate, we performed random-effects meta-analyses to estimate the mean difference in outcomes. The outcomes of interest included the Standardised Outcomes in Nephrology-Kidney Transplant (SONG-Tx) core outcomes, allograft loss, death, cancer (overall incidence and site-specific) and acute or chronic graft rejection."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty-three studies (2,144,613 patients; range 59 to 407,963) conducted between 1990 and 2023 were included. Sixteen studies were conducted in the Americas, 12 in Europe, 11 in the Western Pacific, four in the Eastern Mediterranean, three in Africa, two in Southeast Asia, and five across multiple regions. All but one study focused on sex rather than gender as the primary exposure of interest.\nThe number identified as male was 54%; 49 studies included kidney transplant recipients, and four studies included SPK transplant recipients. Twenty-four studies included adults and children, 25 studies included only adults, and four studies included only children. Data from 33 studies were included in the meta-analyses. Among these, six studies presented unadjusted hazard ratios (HRs) that assessed the effect of recipient sex on kidney allograft loss. The other studies reported risk ratios (RRs) for the pre-defined outcomes. Notably, the decision to restrict the meta-analyses to unadjusted estimates arose from the variation in covariate adjustment methods across studies, lacking a common set of adjusted variables.\nOnly three studies considered the modifying effect of recipient age on graft loss or death, which is likely crucial to evaluating sex differences in post-transplant outcomes. No studies considered the modifying effect of recipient age on cancer incidence or allograft rejection risk.\nIn low certainty evidence, compared with male recipients, being female may make little or no difference in kidney allograft loss post-transplantation (7 studies, 5843 patients: RR 0.91, 95% CI 0.73 to 1.12; I2 = 73%). This was also observed in studies that included time-to-event analyses (6 studies, 238,937 patients; HR 1.07, 95% CI, 0.95 to 1.20; I2 = 44%). Two recent large registry-based cohort studies that considered the modifying effects of donor sex and recipient age showed that female recipients under 45 years of age had significantly higher graft loss rates than age-matched male recipients in the setting of a male donor. In contrast, female recipients 60 years and older had lower graft loss rates than age-matched male recipients, regardless of donor sex.\nCompared with male recipients, being female may make little or no difference in death up to 30 years post-transplantation; however, the evidence is very uncertain (13 studies, 60,818 patients: RR 0.94, 95% CI 0.81 to 1.09; I2 = 92%). Studies that considered the modifying effect of recipient age and donor sex showed that female recipients had a higher excess death risk than males under 45 years of age in the setting of a male donor.\nCompared with male recipients, being female may make little or no difference in cancer incidence up to 20 years post-transplantation; however, the evidence is very uncertain (7 studies, 25,076 patients; RR 0.84, 95% CI 0.70 to 1.01; I2 = 60%).\nCompared with male recipients, being female may make little or no difference in the incidence of acute and chronic kidney allograft rejection up to 15 years post-transplantation (9 studies, 6158 patients: RR 0.89, 95% CI 0.75 to 1.05; I2 =54%; low certainty evidence).\nOne study assessed gender and reported that when compared with men, women experienced better five-year survival in high (HR 0.71, 95% CI 0.59 to 0.87) and middle-income areas (HR 0.82, 95% CI 0.74 to 0.92), with no difference in low-income areas (HR 0.85, 95% CI 0.72 to 1.01).\nThere was considerable uncertainty regarding any association between sex or gender and post-transplant patient-relevant outcomes. This was primarily due to clinical and methodological heterogeneity. The observed clinical heterogeneity between studies could be attributed to diverse patient characteristics within sample populations. As a result of limited sex-stratified demographic data being provided, further investigation of this heterogeneity was constrained. However, factors contributing to this finding may include recipient age, donor age, types, and sex. Methodological heterogeneity was noted with the interchangeable use of sex and gender, outcome misclassification, the use of different measures of effects, inconsistent covariate profiles, and disregard for important effect modification."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is very low to low certainty evidence to suggest there are no differences in kidney and pancreas allograft survival, patient survival, cancer, and acute and chronic allograft rejection between male and female kidney and SPK transplant recipients."
+    }
+  ],
+  "pls_title": "What are the effects of sex and gender on outcomes after kidney transplantation?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• There may be no differences in the loss of a transplanted kidney (a surgical procedure where a kidney is transferred from one person - the donor - to another person - the recipient), death, acute or chronic rejection (the body's immune system attacking the transplanted kidney), or the incidence of cancer between male and female kidney transplant recipients (the definition of “male” or “female” based on biological differences).\n• Only one study investigated gender (defined as the sociocultural identity of individuals), and no conclusions could be made about the effect of gender on kidney transplant outcomes."
+    },
+    {
+      "heading": "What is the issue?",
+      "text": "For a person with kidney failure (a condition where the kidneys no longer function well enough to keep a person alive), kidney transplantation (a surgical procedure where a kidney is transferred from one person - the donor - to another person - the recipient) significantly improves a person's survival and quality of life. As a result, it is essential that all factors that impact important outcomes, such as the survival of the transplanted kidney and the overall person's survival, are thoroughly assessed. Recipient sex, which is defined as “male” or “female” based on biological differences, may impact these outcomes through an immunological process affecting graft rejection. Gender, defined as the sociocultural identity of individuals, may influence factors such as medication adherence, which could also influence relevant outcomes. However, it is not clear currently if there is an impact."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if a person's sex or gender influences post-transplant outcomes such as rejection of the kidney (caused by the body's immune system attacking the transplanted kidney), loss of the transplanted kidney, development of cancer, or death."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the medical literature primarily for cohort studies (studies that follow people over a period of time), case-control studies (studies comparing two groups of people with and without our specific outcomes) and cross-sectional studies (data collected on many individuals at a single point in time) that focused on how sex and gender impact on graft survival, death, cancer incidence and rejection after kidney and simultaneous pancreas-kidney transplantation. We did not include studies that did not define sex and gender clearly. We compared and summarised the results of the studies and rated our confidence in the information based on factors such as study methods and size."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 53 studies with 2,940,273 patients, with the number ranging from 59 to 407,963, and of these, 46% were female and 54% male. Sixteen studies were conducted in the Americas, 12 in Europe, 11 in the Western Pacific, four in the Eastern Mediterranean, three in Africa, two in Southeast Asia and five across multiple regions. Compared to males, being female may make little or no difference to the loss of the transplanted kidney, death, those diagnosed with cancer, or the incidence of either acute or chronic rejection. We found only one study that focused on recipient gender and, therefore, cannot make any conclusions on the effect of gender on outcomes following kidney transplantation."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is low because most studies did not define sex or gender separately, and the terms were often used interchangeably. Studies were conducted over a very wide time frame (from 1990 to 2023), and definitions, particularly for acute rejection, have changed over this 30-year period."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "We searched databases up until 12 April 2023."
+    }
+  ]
+}

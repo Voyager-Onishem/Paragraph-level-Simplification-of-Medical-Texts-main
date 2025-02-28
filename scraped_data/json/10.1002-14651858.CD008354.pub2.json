@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008354.pub2",
+  "name": "Endothelin receptor antagonists for subarachnoid hemorrhage",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A subarachnoid hemorrhage (SAH) is a serious and potentially life-threatening condition where blood leaks out of blood vessels over the surface of the brain. Delayed ischemic neurological deficit (DIND) and the related feature of vasospasm, where patients experience a delayed deterioration, have long been recognized as the leading potentially treatable cause of death and disability in patients with SAH. Endothelin is a potent, long-lasting endogenous vasoconstrictor that has been implicated in the pathogenesis of DIND. Therefore, endothelin receptor antagonists (ETAs) have emerged as a promising therapeutic option for SAH-induced cerebral vasospasm."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and tolerability of ETAs for SAH."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (December 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 11), MEDLINE (1950 to December 2011), EMBASE (1946 to December 2011) and the Chinese Biomedical Database (1978 to December 2011). In an effort to identify further published, unpublished and ongoing trials we searched additional Chinese databases, ongoing trials registers, Google Scholar and Medical Matrix, handsearched journals, scanned reference lists, and contacted researchers and pharmaceutical companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We only included randomized controlled trials (RCTs) that compared an ETA with placebo for SAH in adult (18 years of age or older) patients who met the diagnostic criteria for SAH based on clinical symptoms, with confirmation on computerized tomography scan results or angiography. Two review authors independently selected RCTs according to the inclusion criteria. We resolved disagreements by discussion with a third review author."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected relevant articles and assessed their eligibility according to the inclusion and exclusion criteria. We resolved disagreements by discussion with a third review author. We used the random-effects model and expressed the results as risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four RCTs with 2024 participants that compared ETAs with placebo for SAH. All RCTs were multicenter, double-blind studies with a low risk of bias. ETAs reduced the incidence of DIND (RR 0.80; 95% CI 0.67 to 0.95) and angiographic vasospasm (RR 0.62; 95% CI 0.52 to 0.72) but did not reduce the incidence of unfavorable outcomes (RR 0.87; 95% CI 0.74 to 1.02) or mortality (RR 1.05; 95% CI 0.77 to 1.45). ETAs increased the incidence of hypotension (RR 2.53; 95% CI 1.77 to 3.62) and pneumonia (RR 1.56; 95% CI 1.23 to 1.97)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "ETAs appear to reduce DIND and angiographic vasospasm but there were adverse events and the impact on clinical outcome is unclear. Additional well-designed RCTs are needed."
+    }
+  ],
+  "pls_title": "Endothelin receptor antagonists for subarachnoid hemorrhage",
+  "pls_type": "long",
+  "pls": "Subarachnoid hemorrhage is an uncommon cause of stroke that often occurs at a young age, producing a relatively large burden of premature mortality. Delayed ischemic neurological deficit (DIND), a condition where the patient's condition deteriorates, has long been recognized as the leading potentially treatable cause of death and disability in patients with subarachnoid hemorrhage. Endothelin is a long-lasting agent that causes blood vessel constriction, which has been implicated in the cause of DIND. Drugs that reverse this effect (endothelin receptor antagonists, ETAs) have emerged as a promising treatment for subarachnoid hemorrhage. This review of four trials, involving 2024 participants, showed that ETAs reduced the risk of DIND but did not improve clinical outcomes and had potentially serious side effects, such as low blood pressure and chest infection. There is not enough evidence to conclude that ETAs are beneficial in SAH."
+}

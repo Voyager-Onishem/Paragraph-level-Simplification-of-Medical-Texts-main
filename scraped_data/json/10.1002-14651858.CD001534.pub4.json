@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD001534.pub4",
+  "name": "Long‐term antibiotics for preventing recurrent urinary tract infection in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Urinary tract infection (UTI) is common in children. Symptoms include fever, lethargy, anorexia, and vomiting. UTI is caused by Escherichia coli in over 80% of cases and treatment is a course of antibiotics. Due to acute illness caused by UTI and the risk of pyelonephritis-induced permanent kidney damage, many children are given long-term (several months to 2 years) antibiotics aimed at preventing recurrence. This is the third update of a review first published in 2001 and updated in 2006, and 2011."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether long-term antibiotic prophylaxis was more effective than placebo/no treatment in preventing recurrence of UTI in children, and if so which antibiotic in clinical use was the most effective. We also assessed the harms of long-term antibiotic treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 30 July 2018 through contact with the Cochrane Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised comparisons of antibiotics with other antibiotics, placebo or no treatment to prevent recurrent UTI in children."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed and extracted information for the initial and previous updates. A random-effects model was used to estimate risk ratio (RR) and risk difference (RD) for recurrent UTI with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this update sixteen studies (2036 children randomised, 1977 analysed) were included. Seven studies (612 children) compared two or more types of antibiotics, six (1088 children) compared antibiotics with placebo or no treatment, one four-armed study compared circumcision with and without antibiotic treatment, one study compared dose of antibiotic, and one three-armed study compared two different antibiotics as well as no treatment. Of the sixteen included studies only one study was judged to be at low risk of bias for all domains, with the majority judged to be at unclear risk of bias due to very poorly reported methodology. The number of studies judged to be a low risk of bias was: selection bias (7); performance bias (4); detection bias (1); attrition bias (6); reporting bias (7); and other bias (2). The number of studies judged to be at high risk of bias was: selection bias (0); performance bias (5); detection bias (1); attrition bias (4); reporting bias (6); and other bias (1).\nCompared to placebo/no treatment, antibiotics lead to a modest decrease in the number of repeat symptomatic UTI in children; however the estimate from combining all studies was not certain and the confidence interval indicates low precision indicating that antibiotics may make little or no difference to risk of repeat infection (RR 0.75, 95% CI 0.28 to 1.98). When we combined only the data from studies with concealed treatment allocation, there was a similar reduction in risk of repeat symptomatic UTI in children taking antibiotics (RR 0.68) and we have greater certainty in this estimate because of the more robust study designs, the confidence interval is smaller and it does not include the point of no effect (95% CI 0.48 to 0.95). The estimated reduction in risk of repeat symptomatic UTI for children taking antibiotics was similar in children with vesicoureteric reflux (VUR) (RR 0.65, 95% CI 0.39 to 1.07) compared to those without VUR (RR 0.56, 95% CI 0.15 to 2.12) however there was considerable uncertainty due to imprecision from fewer events in the smaller group of children with VUR. There was no consistency in occurrence of adverse events, with one study having more events in the placebo group and a second study having more events in the antibiotics group. Three studies reported data for antibiotic resistance with the analysis estimating the risk of a UTI caused by a bacteria resistant to the prophylactic antibiotic being almost 2.5 times greater in children on antibiotics than for children on placebo or no treatment (RR 2.40, 95% CI 0.62 to 9.26). However the confidence interval is wide, showing imprecision and there may be little or no difference between the two groups.\nEight studies involving 659 children compared one antibiotic with another but few studies compared the same combination for the same outcome so little data could be pooled. Two studies reported microbial resistance data and analysis showed that treatment with nitrofurantoin may lead to a lower risk of a UTI caused by a bacteria resistant to the treatment drug compared to children given trimethoprim-sulphamethoxazole as their prophylactic treatment (RR 0.54, 95% CI 0.31 to 0.92)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Long-term antibiotics may reduce the risk of repeat symptomatic UTI in children who have had one or more previous UTIs but the benefit may be small and must be considered together with the increased risk of microbial resistance."
+    }
+  ],
+  "pls_title": "Long-term antibiotics for preventing recurrent urinary tract infection in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Bladder and kidney infections (urinary tract infection - UTI) are common in children, especially girls. They cause an uncomfortable illness that can include vomiting, fever and tiredness. In some children kidney damage may occur, as can repeat illnesses. With repeated infections the risk of kidney damage increases. Some doctors prescribe long-term antibiotics to try to prevent infections recurring, but this may cause the child to be unwell in other ways, e.g. vomiting"
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched electronic databases and reference lists to identify and summarise findings from all randomised controlled trials that compared low dose antibiotics given for at least 2 months, with no treatment or a placebo in children at risk of a UTI. We also identified studies comparing different types and doses of antibiotics."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 16 studies (2036 children randomised, 1977 analysed). This review found that long-term antibiotics may reduce the risk of repeat symptomatic infections but the benefit is probably small and must be weighed against the likelihood that future infections are likely to be caused by bacteria that are resistant to the antibiotic given."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Long-term, low dose antibiotics to prevent repeat UTI should be reserved for those children at high risk of repeat infection, such as young infants, and children clinicians would strongly want to reduce the risk of further infections, such as children with renal abnormalities."
+    }
+  ]
+}

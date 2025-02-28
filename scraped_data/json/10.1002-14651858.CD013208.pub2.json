@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013208.pub2",
+  "name": "Point‐of‐care viral load tests to detect high HIV viral load in people living with HIV/AIDS attending health facilities ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Viral load (VL) testing in people living with HIV (PLHIV) helps to monitor antiretroviral therapy (ART). VL is still largely tested using central laboratory-based platforms, which have long test turnaround times and involve sophisticated equipment. VL tests with point-of-care (POC) platforms capable of being used near the patient are potentially easy to use, give quick results, are cost-effective, and could replace central or reference VL testing platforms."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To estimate the diagnostic accuracy of POC tests to detect high viral load levels in PLHIV attending healthcare facilities."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched eight electronic databases using standard, extensive Cochrane search methods, and did not use any language, document type, or publication status limitations. We also searched the reference lists of included studies and relevant systematic reviews, and consulted an expert in the field from the World Health Organization (WHO) HIV Department for potentially relevant studies. The latest search was 23 November 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included any primary study that compared the results of a VL test with a POC platform to that of a central laboratory-based reference test to detect high viral load in PLHIV on HIV/AIDS care or follow-up. We included all forms of POC tests for VL as defined by study authors, regardless of the healthcare facility in which the test was conducted. We excluded diagnostic case-control studies with healthy controls and studies that did not provide sufficient data to create the 2 × 2 tables to calculate sensitivity and specificity. We did not limit our study inclusion to age, gender, or geographical setting."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the titles, abstracts, and full texts of the search results to identify eligible articles. They also independently extracted data using a standardized data extraction form and conducted risk of bias assessment using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool. Using participants as the unit of analysis, we fitted simplified univariable models for sensitivity and specificity separately, employing a random-effects model to estimate the summary sensitivity and specificity at the current and commonly reported World Health Organization (WHO) threshold (≥ 1000 copies/mL). The bivariate models did not converge to give a model estimate."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 18 studies (24 evaluations, 10,034 participants) defining high viral loads at main thresholds ≥ 1000 copies/mL (n = 20), ≥ 5000 copies/mL (n = 1), and ≥ 40 copies/mL (n = 3). All evaluations were done on samples from PLHIV retrieved from routine HIV/AIDS care centres or health facilities. For clinical applicability, we included 14 studies (20 evaluations, 8659 participants) assessing high viral load at the clinical threshold of ≥ 1000 copies/mL in the meta-analyses. Of these, sub-Saharan Africa, Europe, and Asia contributed 16, three, and one evaluation respectively. All included participants were on ART in only nine evaluations; in the other 11 evaluations the proportion of participants on ART was either partial or not clearly stated. Thirteen evaluations included adults only (n = 13), five mixed populations of adults and children, whilst in the remaining two the age of included populations was not clearly stated. The majority of evaluations included commercially available tests (n = 18). Ten evaluations were POC VL tests conducted near the patient in a peripheral or onsite laboratory, whilst the other 10 were evaluations of POC VL tests in a central or reference laboratory setting. The test types evaluated as POC VL tests included Xpert HIV-1 Viral Load test (n = 8), SAMBA HIV-1 Semi-Q Test (n = 9), Alere Q NAT prototype assay for HIV-1 (n = 2) and m-PIMA HIV-1/2 Viral Load test (n = 1). The majority of evaluations (n = 17) used plasma samples, whilst the rest (n = 3) utilized whole blood samples.\nPooled sensitivity (95% confidence interval (CI)) of POC VL at a threshold of ≥ 1000 copies/mL was 96.6% (94.8 to 97.8) (20 evaluations, 2522 participants), and pooled specificity (95% CI) was 95.7% (90.8 to 98.0) (20 evaluations, 6137 participants). Median prevalence for high viral load (≥ 1000 copies/mL) (n = 20) was 33.4% (range 6.9% to 88.5%).\nLimitations\nThe risk of bias was mostly assessed as unclear across the four domains due to incomplete reporting."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found POC VL to have high sensitivity and high specificity for the diagnosis of high HIV viral load in PLHIV attending healthcare facilities at a clinical threshold of ≥ 1000 copies/mL."
+    }
+  ],
+  "pls_title": "Point-of-care tests for detecting high viral load in people living with HIV attending healthcare facilities",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of high HIV viral load infection important?",
+      "text": "It helps to monitor the HIV virus levels in people living with HIV (PLHIV) who are receiving antiretroviral therapy (ART). High virus levels indicate that the medications are failing to suppress the virus, a condition known as ART treatment failure, which has a risk of severe illness and death. Rapid diagnostic tests that detect high HIV virus levels quickly near the patient (point-of-care) can increase access to early changes in ART."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To determine the accuracy of point-of-care (POC) tests for diagnosing high HIV virus levels in PLHIV attending healthcare facilities."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Point-of-care tests for viral load detection with results measured against central laboratory tests (reference test). We included all forms of tests with POC platforms for VL regardless of the healthcare facility in which the test was conducted."
+    },
+    {
+      "heading": "What are the main results in this review?",
+      "text": "Fourteen studies that completed 20 evaluations involving 8659 participants compared molecular POC tests for diagnosing high virus levels at the clinically recommended positivity threshold of ≥ 1000 copies/mL."
+    },
+    {
+      "heading": "What are the strengths and limitations of this review?",
+      "text": "The review included sufficient studies done on samples from PLHIV retrieved from routine HIV/AIDS care centres or health facilities, but it was unclear if all included participants were on ART. Also, none of the included tests was a true POC test conducted at the patient's side: half of the included studies (n = 10) evaluated POC tests in onsite laboratories near the patient, and the other half were tests with POC platforms evaluated in a central or reference laboratory (n = 10)."
+    },
+    {
+      "heading": "To whom do the results of this review apply?",
+      "text": "PLHIV with suspected high viral loads attending healthcare facilities."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "In theory, for a population of 1000 PLHIV where 100 have high virus levels, 136 people would receive a positive result with the molecular POC test; of these, 39 will not have high viral levels (false-positive result) and would be incorrectly identified as not responding to ART treatment, possibly leading to unnecessary testing or further treatment; and 864 would receive a negative test result with the molecular POC test; of these, three will actually have high virus levels (false-negative result) and would be missed whilst failing ART treatment."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The evidence is current to 23 November 2020."
+    }
+  ]
+}

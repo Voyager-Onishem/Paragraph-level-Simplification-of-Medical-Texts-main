@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002217.pub3",
+  "name": "Phenobarbitone versus phenytoin monotherapy for epilepsy: an individual participant data review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of a Cochrane Review first published in 2001, and last updated in 2013. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.\nEpilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.\nWorldwide, particularly in the developing world, phenytoin and phenobarbitone are commonly used antiepileptic drugs, primarily because they are inexpensive. The aim of this review is to summarise data from existing trials comparing phenytoin and phenobarbitone."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the time to treatment failure, remission and first seizure with phenobarbitone compared with phenytoin when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised), or generalised onset tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the latest update, we searched the following databases on 21 August 2018: the Cochrane Register of Studies (CRS Web), which includes Cochrane Epilepsy's Specialized Register and CENTRAL; MEDLINE; the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov); and the World Health Organization International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators, and experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing monotherapy with either phenobarbitone or phenytoin in children or adults with focal onset seizures or generalised onset tonic-clonic seizures."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "This was an individual participant data (IPD), review. Our primary outcome was time to treatment failure. Our secondary outcomes were time to first seizure post-randomisation, time to six-month remission and time to 12-month remission. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs), with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "Individual participant data were obtained for five studies, which recruited a total of 635 participants, representing 80% of 798 individuals from all seven identified eligible trials. For remission outcomes, an HR of less than 1 indicates an advantage for phenytoin and for first seizure and treatment failure outcomes an HR of less than 1 indicates an advantage for phenobarbitone.\nResults for the primary outcome of the review were: time to treatment failure for any reason related to treatment (pooled HR adjusted for seizure type for 499 participants: 1.61, 95% CI 1.22 to 2.12, low-certainty evidence), time to treatment failure due to adverse events (pooled HR adjusted for seizure type for 499 participants: 1.99, 95% CI 1.37 to 2.87, low-certainty evidence), time to treatment failure due to lack of efficacy (pooled HR adjusted for seizure type for 499 participants: 1.87, 95% CI 1.32 to 2.66, moderate-certainty evidence), showing a statistically significant advantage for phenytoin compared to phenobarbitone.\nFor our secondary outcomes, we did not find any statistically significant differences between phenytoin and phenobarbitone: time to first seizure post-randomisation (pooled HR adjusted for seizure type for 624 participants: 0.85, 95% CI 0.69 to 1.06, moderate-certainty evidence), time to 12-month remission (pooled HR adjusted for seizure type for 588 participants: 0.90, 95% CI 0.69 to 1.19, moderate-certainty evidence), and time to six-month remission pooled HR adjusted for seizure type for 588 participants: 0.91, 95% CI 0.71 to 1.15, moderate-certainty evidence).\nFor individuals with focal onset seizures (73% of individuals contributing to analysis), numerical results were similar and conclusions the same as for analyses of all individuals and for individuals with generalised onset seizures (27% of individuals contributing to analysis), results were imprecise and no clear differences between the drugs were observed.\nSeveral confounding factors, most notably the differences in design of the trials with respect to blinding, were likely to have impacted on the results of the primary outcome 'time to treatment failure', and in turn, the treatment failure rates may have impacted on the secondary efficacy outcomes of time to first seizure and time to 12-month and six-month remission."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-certainty evidence from this review suggests that phenytoin may be a more effective drug than phenobarbitone in terms of treatment retention (treatment failures due to lack of efficacy or adverse events or both). Moderate-certainty evidence from this review also indicates no differences between the drugs in terms of time to seizure recurrence and seizure remission.\nHowever, the trials contributing to the analyses had methodological inadequacies and methodological design differences that may have impacted upon the results of this review. Therefore, we do not suggest that results of this review alone should form the basis of a treatment choice for a patient with newly onset seizures. We recommend that future trials should be designed to the highest quality possible with consideration of masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+    }
+  ],
+  "pls_title": "Phenobarbitone versus phenytoin monotherapy (single-drug treatment) for epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This is an updated version of the Cochrane Review previously published in 2013, Issue 1 of the Cochrane Database of Systematic Reviews."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common neurological disorder in which abnormal electrical discharges from the brain cause recurrent seizures. We studied two types of epileptic seizures in this review: generalised onset seizures, in which electrical discharges begin in one part of the brain and move throughout the brain; and focal onset seizures, in which the seizure is generated in and affects one part of the brain (the whole hemisphere of the brain or part of a lobe of the brain). Focal seizures may become generalised (secondary generalisation), and move from one part of the brain throughout the brain. For around 70% of people with epilepsy, a single antiepileptic medication can control generalised onset or focal onset seizures.\nThis review applies to people with focal seizures (with or without secondary generalisation) and people with generalised tonic-clonic seizures, a specific generalised seizure type. This review does not apply to people with other generalised seizure types such as absence seizures or myoclonic seizures, as the recommended treatments for these seizure types are different.\nWorldwide, particularly in low- and middle-income countries in Africa, Asia, and South America, phenobarbitone and phenytoin are commonly used antiepileptic drugs due to the low cost of these drugs."
+    },
+    {
+      "heading": "Objective",
+      "text": "The aim of this review was to compare how effective these drugs are at controlling seizures, to find out if they are associated with side effects that may result in individuals stopping the medication, and to inform a choice between these medications."
+    },
+    {
+      "heading": "Methods",
+      "text": "The last search for trials was in August 2018. We assessed the evidence from seven clinical trials in which people received either phenobarbitone or phenytoin and their treatment was decided randomly. We were able to combine data for 635 people from five of the seven trials; for the remaining 163 people from two trials, data were not available to use in this review"
+    },
+    {
+      "heading": "Key results",
+      "text": "This review found no evidence to suggest a difference between phenobarbitone and phenytoin in terms of the time to seizure recurrence and time to seizure remission (seizure free period of six or 12 months). Phenobarbitone treatment was more likely to be withdrawn than phenytoin treatment, however, this may have been influenced by the design of the included studies (whether the people and the clinicians treating them knew which treatment the person was receiving)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Some of the trials contributing data to the review had methodological problems, which may have introduced bias and inconsistent results into this review. Also, we believe that the difference in study design with regards to whether the treatment was masked from the patients and clinicians (e.g. with a placebo tablet) had an impact on the rates of withdrawal from the study treatments, which also is likely to have impacted on the outcomes related to seizure control\nThese problems may have affected the results of this review and we judged the quality of the evidence provided by this review to be moderate to low quality. We do not suggest using the results of this review alone for making a choice between phenytoin or phenobarbitone for the treatment of epilepsy. Future trials comparing these drugs or any other antiepileptic drugs should be designed using high-quality methods to ensure results are also of high quality."
+    }
+  ]
+}

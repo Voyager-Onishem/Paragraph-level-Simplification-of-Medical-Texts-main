@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000528.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Schistosoma mansoni is a parasitic infection common in the tropics and sub-tropics. Chronic and advanced disease includes abdominal pain, diarrhoea, blood in the stool, liver cirrhosis, portal hypertension, and premature death."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of antischistosomal drugs, used alone or in combination, for treating S. mansoni infection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, EMBASE and LILACS from inception to October 2012, with no language restrictions. We also searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2012) and mRCT. The reference lists of articles were reviewed and experts were contacted for unpublished studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of antischistosomal drugs, used alone or in combination, versus placebo, different antischistosomal drugs, or different doses of the same antischistosomal drug for treating S. mansoni infection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One author extracted data and assessed eligibility and risk of bias in the included studies, which were independently checked by a second author. We combined dichotomous outcomes using risk ratio (RR) and continuous data weighted mean difference (WMD); we presented both with 95% confidence intervals (CI). We assessed the quality of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty-two trials enrolling 10,269 participants were included. The evidence was of moderate or low quality due to the trial methods and small numbers of included participants.\nPraziquantel\nCompared to placebo, praziquantel 40 mg/kg probably reduces parasitological treatment failure at one month post-treatment (RR 3.13, 95% CI 1.03 to 9.53, two trials, 414 participants, moderate quality evidence ). Compared to this standard dose, lower doses may be inferior (30 mg/kg: RR 1.52, 95% CI 1.15 to 2.01, three trials, 521 participants, low quality evidence ; 20 mg/kg: RR 2.23, 95% CI 1.64 to 3.02, two trials, 341 participants, low quality evidence ); and higher doses, up to 60 mg/kg, do not appear to show any advantage (four trials, 783 participants, moderate quality evidence).\nThe absolute parasitological cure rate at one month with praziquantel 40 mg/kg varied substantially across studies, ranging from 52% in Senegal in 1993 to 92% in Brazil in 2006/2007.\nOxamniquine\nCompared to placebo, oxamniquine 40 mg/kg probably reduces parasitological treatment failure at three months (RR 8.74, 95% CI 3.74 to 20.43, two trials, 82 participants, moderate quality evidence ). Lower doses than 40 mg/kg may be inferior at one month (30 mg/kg: RR 1.78, 95% CI 1.15 to 2.75, four trials, 268 participants, low quality evidence ; 20 mg/kg: RR 3.78, 95% CI 2.05 to 6.99, two trials, 190 participants, low quality evidence ), and higher doses, such as 60 mg/kg, do not show a consistent benefit (four trials, 317 participants, low quality evidence).\nThese trials are now over 20 years old and only limited information was provided on the study designs and methods.\nPraziquantel versus oxamniquine\nOnly one small study directly compared praziquantel 40 mg/kg with oxamniquine 40 mg/kg and we are uncertain which treatment is more effective in reducing parasitological failure (one trial, 33 participants, very low quality evidence). A further 10 trials compared oxamniquine at 20, 30 and 60 mg/kg with praziquantel 40 mg/kg and did not show any marked differences in failure rate or percent egg reduction.\nCombination treatments\nWe are uncertain whether combining praziquantel with artesunate reduces failures compared to praziquantel alone at one month (one trial, 75 participants, very low quality evidence).\nTwo trials also compared combinations of praziquantel and oxamniquine in different doses, but did not find statistically significant differences in failure (two trials, 87 participants).\nOther outcomes and analyses\nIn trials reporting clinical improvement evaluating lower doses (20 mg/kg and 30 mg/kg) against the standard 40 mg/kg for both praziquantel or oxamniquine, no dose effect was demonstrable in resolving abdominal pain, diarrhoea, blood in stool, hepatomegaly, and splenomegaly (follow up at one, three, six, 12, and 24 months; three trials, 655 participants).\nAdverse events were not well-reported but were mostly described as minor and transient.\nIn an additional analysis of treatment failure in the treatment arm of individual studies stratified by age, failure rates with 40 mg/kg of both praziquantel and oxamniquine were higher in children."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Praziquantel 40 mg/kg as the standard treatment for S. mansoni infection is consistent with the evidence. Oxamniquine, a largely discarded alternative, also appears effective.\nFurther research will help find the optimal dosing regimen of both these drugs in children.\nCombination therapy, ideally with drugs with unrelated mechanisms of action and targeting the different developmental stages of the schistosomes in the human host should be pursued as an area for future research."
+    }
+  ],
+  "pls_title": "Drugs for treating Schistosoma mansoni infection",
+  "pls_type": "long",
+  "pls": "Schistosoma mansoni is a parasitic worm common in Africa, the Middle East and parts of South America. The worm larvae live in ponds and lakes contaminated by faeces, and can penetrate a persons’ skin when they swim or bathe. Inside the host, the larvae grow into adult worms; these produce eggs, which are excreted in the faeces. Eggs rather than worms cause disease. Long-term infection can cause bloody diarrhoea, abdominal pains, and enlargement of the liver and spleen.\nIn this review, researchers in the Cochrane Collaboration evaluated drug treatments for people infected with Schistosoma mansoni. After searching for all relevant studies, they found 52 trials, including 10,269 people, conducted in Africa, Brazil and the Middle East. Most trials report on whether or not the treatment stops eggs excretion; three reported the persons recovery from symptoms.\nThe results show that a single dose of praziquantel (40 mg/kg), as recommended by the World Health Organization, is an effective treatment for Schistosoma mansoni infection. Lower doses may be less effective, and higher doses probably have no additional benefit.\nOxamniquine (40 mg/kg), though now rarely used, is also effective. Again, lower doses may be less effective and no advantage has been demonstrated with higher doses.\nOnly one study directly compared praziquantel 40 mg/kg with oxamniquine 40 mg/kg, and based on this limited evidence, we are uncertain which intervention is more effective. Adverse events were not well reported for either drug, but were mostly described as minor and transient.\nIn children aged less than 5 years, there is limited evidence that these doses may be less effective, and further research will help optimise the dose for this age-group."
+}

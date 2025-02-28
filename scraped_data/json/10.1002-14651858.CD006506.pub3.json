@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD006506.pub3",
+  "name": "Chewing gum for postoperative recovery of gastrointestinal function",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ileus commonly occurs after abdominal surgery, and is associated with complications and increased length of hospital stay (LOHS). Onset of ileus is considered to be multifactorial, and a variety of preventative methods have been investigated. Chewing gum (CG) is hypothesised to reduce postoperative ileus by stimulating early recovery of gastrointestinal (GI) function, through cephalo-vagal stimulation. There is no comprehensive review of this intervention in abdominal surgery."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine whether chewing gum after surgery hastens the return of gastrointestinal function."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (via Ovid), MEDLINE (via PubMed), EMBASE (via Ovid), CINAHL (via EBSCO) and ISI Web of Science (June 2014). We hand-searched reference lists of identified studies and previous reviews and systematic reviews, and contacted CG companies to ask for information on any studies using their products. We identified proposed and ongoing studies from clinicaltrials.gov, World Health Organization (WHO) International Clinical Trials Registry Platform and metaRegister of Controlled Trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included completed randomised controlled trials (RCTs) that used postoperative CG as an intervention compared to a control group."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently collected data and assessed study quality using an adapted Cochrane risk of bias (ROB) tool, and resolved disagreements by discussion. We assessed overall quality of evidence for each outcome using Grades of Recommendation, Assessment, Development and Evaluation (GRADE). Studies were split into subgroups: colorectal surgery (CRS), caesarean section (CS) and other surgery (OS). We assessed the effect of CG on time to first flatus (TFF), time to bowel movement (TBM), LOHS and time to bowel sounds (TBS) through meta-analyses using a random-effects model. We investigated the influence of study quality, reviewers’ methodological estimations and use of Enhanced Recovery After Surgery (ERAS) programmes using sensitivity analyses. We used meta-regression to explore if surgical site or ROB scores predicted the extent of the effect estimate of the intervention on continuous outcomes. We reported frequency of complications, and descriptions of tolerability of gum and cost."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 81 studies that comprised 9072 participants for inclusion in our review. We categorised many studies at high or unclear risk of the bias' assessed. There was statistical evidence that use of CG reduced TFF [overall reduction of 10.4 hours (95% CI: -11.9, -8.9): 12.5 hours (95% CI: -17.2, -7.8) in CRS, 7.9 hours (95% CI: –10.0, -5.8) in CS, 10.6 hours (95% CI: -12.7, -8.5) in OS]. There was also statistical evidence that use of CG reduced TBM [overall reduction of 12.7 hours (95% CI: -14.5, -10.9): 18.1 hours (95% CI: -25.3, -10.9) in CRS, 9.1 hours (95% CI: -11.4, -6.7) in CS, 12.3 hours (95% CI: -14.9, -9.7) in OS]. There was statistical evidence that use of CG slightly reduced LOHS [overall reduction of 0.7 days (95% CI: -0.8, -0.5): 1.0 days in CRS (95% CI: -1.6, -0.4), 0.2 days (95% CI: -0.3, -0.1) in CS, 0.8 days (95% CI: -1.1, -0.5) in OS]. There was statistical evidence that use of CG slightly reduced TBS [overall reduction of 5.0 hours (95% CI: -6.4, -3.7): 3.21 hours (95% CI: -7.0, 0.6) in CRS, 4.4 hours (95% CI: -5.9, -2.8) in CS, 6.3 hours (95% CI: -8.7, -3.8) in OS]. Effect sizes were largest in CRS and smallest in CS. There was statistical evidence of heterogeneity in all analyses other than TBS in CRS.\nThere was little difference in mortality, infection risk and readmission rate between the groups. Some studies reported reduced nausea and vomiting and other complications in the intervention group. CG was generally well-tolerated by participants. There was little difference in cost between the groups in the two studies reporting this outcome.\nSensitivity analyses by quality of studies and robustness of review estimates revealed no clinically important differences in effect estimates. Sensitivity analysis of ERAS studies showed a smaller effect size on TFF, larger effect size on TBM, and no difference between groups for LOHS.\nMeta-regression analyses indicated that surgical site is associated with the extent of the effect size on LOHS (all surgical subgroups), and TFF and TBM (CS and CRS subgroups only). There was no evidence that ROB score predicted the extent of the effect size on any outcome. Neither variable explained the identified heterogeneity between studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review identified some evidence for the benefit of postoperative CG in improving recovery of GI function. However, the research to date has primarily focussed on CS and CRS, and largely consisted of small, poor quality trials. Many components of the ERAS programme also target ileus, therefore the benefit of CG alongside ERAS may be reduced, as we observed in this review. Therefore larger, better quality RCTS in an ERAS setting in wider surgical disciplines would be needed to improve the evidence base for use of CG after surgery."
+    }
+  ],
+  "pls_title": "Chewing gum after surgery to help recovery of the digestive system",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "When people have surgery on their abdomen, the digestive system can stop working for a few days. This is called ileus, and can be painful and uncomfortable. There are different causes of ileus, and several ways of treating or preventing it. One possible way of preventing ileus is by chewing gum. The idea is that chewing gum tricks the body into thinking it is eating, causing the digestive system to start working again. It is important to do this review because ileus is common: it is estimated that up to a third of people having bowel surgery suffer from ileus."
+    },
+    {
+      "heading": "Main Findings",
+      "text": "This review found 81 relevant studies that recruited over 9000 participants in total. The studies mainly focussed on people having bowel surgery or caesarean section, but there were some studies of other surgery types. There were few studies of children. Most studies were of poor quality, which may mean their results are less reliable. We found some evidence that people who chewed gum after an operation were able to pass wind and have bowel movements sooner than people who did not chew gum. We also found some evidence that people who chewed gum after an operation had bowel sounds (gurgling sounds heard using a stethoscope held to the abdomen) slightly sooner than people who did not chew gum. There was a small difference in how long people stayed in hospital between people who did or did not chew gum. There were no differences in complications (such as infection or death) between people who did or did not chew gum. There was also no difference in the overall cost of treatment between people who did or did not chew gum."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is some evidence that chewing gum after surgery may help the digestive system to recover. However, the studies included in this review are generally of poor quality, which meant that their results may not be reliable. We also know that there are many factors affecting ileus, and that modern treatment plans attempt to reduce risk of ileus. Therefore to further explore using chewing gum after surgery, more studies would be needed which are larger, of better quality, include different types of surgery, and consider recent changes in health care systems."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007784.pub3",
+  "name": "HMG CoA reductase inhibitors (statins) for people with chronic kidney disease not requiring dialysis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cardiovascular disease is the most frequent cause of death in people with early stages of chronic kidney disease (CKD), and the absolute risk of cardiovascular events is similar to people with coronary artery disease. This is an update of a review first published in 2009 and updated in 2014, which included 50 studies (45,285 participants)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of statins compared with placebo, no treatment, standard care or another statin in adults with CKD not requiring dialysis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 4 October 2023. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal and ClinicalTrials.gov. An updated search will be undertaken every three months."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs that compared the effects of statins with placebo, no treatment, standard care, or other statins, on death, cardiovascular events, kidney function, toxicity, and lipid levels in adults with CKD (estimated glomerular filtration rate (eGFR) 90 to 15 mL/min/1.73 m2) were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two or more authors independently extracted data and assessed the study risk of bias. Treatment effects were expressed as mean difference (MD) for continuous outcomes and risk ratios (RR) for dichotomous benefits and harms with 95% confidence intervals (CI). The risk of bias was assessed using the Cochrane risk of bias tool, and the certainty of the evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 63 studies (50,725 randomised participants); of these, 53 studies (42,752 participants) compared statins with placebo or no treatment. The median duration of follow-up was 12 months (range 2 to 64.8 months), the median dosage of statin was equivalent to 20 mg/day of simvastatin, and participants had a median eGFR of 55 mL/min/1.73 m2. Ten studies (7973 participants) compared two different statin regimens. We were able to meta-analyse 43 studies (41,273 participants). Most studies had limited reporting and hence exhibited unclear risk of bias in most domains.\nCompared with placebo or standard of care, statins prevent major cardiovascular events (14 studies, 36,156 participants: RR 0.72, 95% CI 0.66 to 0.79; I2 = 39%; high certainty evidence), death (13 studies, 34,978 participants: RR 0.83, 95% CI 0.73 to 0.96; I² = 53%; high certainty evidence), cardiovascular death (8 studies, 19,112 participants: RR 0.77, 95% CI 0.69 to 0.87; I² = 0%; high certainty evidence) and myocardial infarction (10 studies, 9475 participants: RR 0.55, 95% CI 0.42 to 0.73; I² = 0%; moderate certainty evidence). There were too few events to determine if statins made a difference in hospitalisation due to heart failure. Statins probably make little or no difference to stroke (7 studies, 9115 participants: RR 0.64, 95% CI 0.37 to 1.08; I² = 39%; moderate certainty evidence) and kidney failure (3 studies, 6704 participants: RR 0.98, 95% CI 0.91 to 1.05; I² = 0%; moderate certainty evidence) in people with CKD not requiring dialysis.\nPotential harms from statins were limited by a lack of systematic reporting. Statins compared to placebo may have little or no effect on elevated liver enzymes (7 studies, 7991 participants: RR 0.76, 95% CI 0.39 to 1.50; I² = 0%; low certainty evidence), withdrawal due to adverse events (13 studies, 4219 participants: RR 1.16, 95% CI 0.84 to 1.60; I² = 37%; low certainty evidence), and cancer (2 studies, 5581 participants: RR 1.03, 95% CI 0.82 to 1.30; I² = 0%; low certainty evidence). However, few studies reported rhabdomyolysis or elevated creatinine kinase; hence, we are unable to determine the effect due to very low certainty evidence. Statins reduce the risk of death, major cardiovascular events, and myocardial infarction in people with CKD who did not have cardiovascular disease at baseline (primary prevention). There was insufficient data to determine the benefits and harms of the type of statin therapy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Statins reduce death and major cardiovascular events by about 20% and probably make no difference to stroke or kidney failure in people with CKD not requiring dialysis. However, due to limited reporting, the effect of statins on elevated creatinine kinase or rhabdomyolysis is unclear. Statins have an important role in the primary prevention of cardiovascular events and death in people who have CKD and do not require dialysis.\nEditorial note: This is a living systematic review. We will search for new evidence every three months and update the review when we identify relevant new evidence. Please refer to the Cochrane Database of Systematic Reviews for the current status of this review."
+    }
+  ],
+  "pls_title": "Statins can help reduce risk of death in people with chronic kidney disease who do not need dialysis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Adults with chronic kidney disease (CKD) have a high risk of cardiovascular events, with elevated serum cholesterol and triglycerides, a factor that contributes to cardiovascular disease. Statin therapy helps to lower the level of bad cholesterol (low-density lipoprotein) and has cardiovascular protective effects beyond cholesterol reduction. For people not needing dialysis, statin therapy has been shown to reduce death and cardiovascular events. Still, studies in this population have shown unclear effects on stroke, kidney failure, and harms such as muscle damage (rhabdomyolysis)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked at 62 studies published before 4 October 2023 concerning statins in over 50,000 people with CKD who did not need dialysis treatment. This review is a living systematic review. A search for new evidence will be conducted every three months, and the review will be updated accordingly."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found that compared to placebo, statin therapy reduced death and major heart-related events, with one in 13 people receiving statin therapy avoiding heart-related events and one in 26 people avoiding death. Statin therapy probably had little or no effect on stroke and kidney failure (when people would benefit from dialysis or a kidney transplant). The benefits of statin therapy were also evident in patients with CKD but not heart disease. Statins have some potential harms; however, we found there was probably no effect on cancer, liver function or withdrawing from treatment due to adverse events. There was limited reporting of muscle damage in the studies.\nStudies did not identify a preferred type or dose of statin in treating people with CKD not requiring dialysis."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Statins decrease death, major cardiovascular events, and myocardial infarction in people with moderate CKD. Limited data related to treatment toxicity resulted in uncertain effects."
+    },
+    {
+      "heading": "Editorial note",
+      "text": "Please refer to the Cochrane Database of Systematic Reviews for the current status of this review."
+    }
+  ]
+}

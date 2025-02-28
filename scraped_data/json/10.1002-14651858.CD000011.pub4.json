@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD000011.pub4",
+  "name": "Interventions for enhancing medication adherence",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People who are prescribed self administered medications typically take only about half their prescribed doses. Efforts to assist patients with adherence to medications might improve the benefits of prescribed medications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of this review is to assess the effects of interventions intended to enhance patient adherence to prescribed medications for medical conditions, on both medication adherence and clinical outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated searches of The Cochrane Library, including CENTRAL (via http://onlinelibrary.wiley.com/cochranelibrary/search/), MEDLINE, EMBASE, PsycINFO (all via Ovid), CINAHL (via EBSCO), and Sociological Abstracts (via ProQuest) on 11 January 2013 with no language restriction. We also reviewed bibliographies in articles on patient adherence, and contacted authors of relevant original and review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included unconfounded RCTs of interventions to improve adherence with prescribed medications, measuring both medication adherence and clinical outcome, with at least 80% follow-up of each group studied and, for long-term treatments, at least six months follow-up for studies with positive findings at earlier time points."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted all data and a third author resolved disagreements. The studies differed widely according to medical condition, patient population, intervention, measures of adherence, and clinical outcomes. Pooling results according to one of these characteristics still leaves highly heterogeneous groups, and we could not justify meta-analysis. Instead, we conducted a qualitative analysis with a focus on the RCTs with the lowest risk of bias for study design and the primary clinical outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "The present update included 109 new RCTs published since the previous update in January 2007, bringing the total number of RCTs to 182; we found five RCTs from the previous update to be ineligible and excluded them. Studies were heterogeneous for patients, medical problems, treatment regimens, adherence interventions, and adherence and clinical outcome measurements, and most had high risk of bias. The main changes in comparison with the previous update include that we now: 1) report a lack of convincing evidence also specifically among the studies with the lowest risk of bias; 2) do not try to classify studies according to intervention type any more, due to the large heterogeneity; 3) make our database available for collaboration on sub-analyses, in acknowledgement of the need to make collective advancement in this difficult field of research. Of all 182 RCTs, 17 had the lowest risk of bias for study design features and their primary clinical outcome, 11 from the present update and six from the previous update. The RCTs at lowest risk of bias generally involved complex interventions with multiple components, trying to overcome barriers to adherence by means of tailored ongoing support from allied health professionals such as pharmacists, who often delivered intense education, counseling (including motivational interviewing or cognitive behavioral therapy by professionals) or daily treatment support (or both), and sometimes additional support from family or peers. Only five of these RCTs reported improvements in both adherence and clinical outcomes, and no common intervention characteristics were apparent. Even the most effective interventions did not lead to large improvements in adherence or clinical outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Across the body of evidence, effects were inconsistent from study to study, and only a minority of lowest risk of bias RCTs improved both adherence and clinical outcomes. Current methods of improving medication adherence for chronic health problems are mostly complex and not very effective, so that the full benefits of treatment cannot be realized. The research in this field needs advances, including improved design of feasible long-term interventions, objective adherence measures, and sufficient study power to detect improvements in patient-important clinical outcomes. By making our comprehensive database available for sharing we hope to contribute to achieving these advances."
+    }
+  ],
+  "pls_title": "Ways to help people follow prescribed medicines",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Patients who are prescribed medicines take only about half of their doses and many stop treatment entirely. Assisting patients to adhere better to medicines could improve their health, and many studies have tested ways to achieve this."
+    },
+    {
+      "heading": "Question",
+      "text": "We updated our review from 2007 to answer the question: What are the findings of high-quality studies that tested ways to assist patients with adhering to their medicines?"
+    },
+    {
+      "heading": "Search strategy",
+      "text": "We retrieved studies published until 11 January 2013. To find relevant studies we searched six online databases and references in other reviews, and we contacted authors of relevant studies and reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected studies reporting a randomized controlled trial (RCT) comparing a group receiving an intervention to improve medicine adherence with a group not receiving the intervention. We included trials if they measured both medicine adherence and a clinical outcome (e.g. blood pressure), with at least 80% of patients studied until the end."
+    },
+    {
+      "heading": "Main results",
+      "text": "The studies differed widely regarding included patients, treatments, adherence intervention types, medicine adherence measurement, and clinical outcomes. Therefore, we could not combine the results in statistical analysis to reach general conclusions, as it would be misleading to suggest that they are comparable. Instead, we provide the key features and findings of each study in tables, and we describe intervention effects in studies of the highest quality. The present update included 109 new studies, bringing the total number to 182. In the 17 studies of the highest quality, interventions were generally complex with several different ways to try to improve medicine adherence. These frequently included enhanced support from family, peers, or allied health professionals such as pharmacists, who often delivered education, counseling, or daily treatment support. Only five of these RCTs improved both medicine adherence and clinical outcomes, and no common characteristics for their success could be identified. Overall, even the most effective interventions did not lead to large improvements."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Characteristics and effects of interventions to improve medicine adherence varied among studies. It is uncertain how medicine adherence can consistently be improved so that the full health benefits of medicines can be realized. We need more advanced methods for researching ways to improve medicine adherence, including better interventions, better ways of measuring adherence, and studies that include sufficient patients to draw conclusions on clinically important effects."
+    }
+  ]
+}

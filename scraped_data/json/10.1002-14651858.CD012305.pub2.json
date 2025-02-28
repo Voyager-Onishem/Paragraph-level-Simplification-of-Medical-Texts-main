@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012305.pub2",
+  "name": "Antimicrobial agents for preventing urinary tract infections in adults undergoing cystoscopy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cystoscopy is commonly performed for diagnostic purposes to inspect the interior lining of the bladder. One disadvantage of cystoscopy is the risk of symptomatic urinary tract infection (UTI) due to pre-existing colonization or by introduction of bacteria at the time of the procedure. However, the incidence of symptomatic UTI following cystoscopy is low. Currently, there is no consensus on whether antimicrobial agents should be used to prevent symptomatic UTI for cystoscopy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antimicrobial agents compared with placebo or no treatment for prevention of UTI in adults undergoing cystoscopy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We comprehensively searched electronic databases of the Cochrane Library, PubMed, Embase, LILACS, and CINAHL. We searched the WHO ICTRP and ClinicalTrials.gov for ongoing trials. We used no language or date restrictions in the electronic searches. We searched the reference lists of identified articles and contacted authors for related information. The last search of the electronic databases was 4 February 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) or quasi-RCTs that compared any prophylactic antibiotic versus placebo, no treatment, or other non-antibiotic prophylaxis in adults undergoing cystoscopy. There was no restriction on the dose, frequency, formulation, duration, or mode of administration of the antibiotics."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Our primary outcomes were systemic UTI, symptomatic UTI (composite of systemic and/or localized UTI), and serious adverse events. Secondary outcomes were minor adverse events, localized UTI, asymptomatic bacteriuria, and bacterial resistance. We assessed the quality of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 20 RCTs and two quasi-RCTs with 7711 participants, all of which compared antibiotic prophylaxis with placebo or no treatment control. We found no studies comparing antibiotic prophylaxis with non-antibiotic prophylaxis.\nPrimary outcomes\nSystemic UTI: antibiotic prophylaxis may have little or no effect on the risk of systemic UTI compared with placebo or no treatment (risk ratio (RR) 1.12, 95% confidence interval (CI) 0.38 to 3.32; 5 RCTs; 504 participants; low-quality evidence); this corresponds to two more people (95% CI 12 fewer to 46 more) per 1000 people developing a systemic UTI. We downgraded the quality of the evidence for study limitations and imprecision.\nSymptomatic UTI: antibiotic prophylaxis may reduce the risk of symptomatic UTI (RR 0.49, 95% CI 0.28 to 0.86; 11 RCTs; 5441 participants; low-quality evidence); this corresponds to 30 fewer people (95% CI 42 fewer to 8 fewer) per 1000 people developing a symptomatic UTI when provided with antibiotic prophylaxis. We downgraded the quality of the evidence for study limitations and potential publication bias.\nSerious adverse events: the studies reported no serious adverse events in either the intervention group or control group and no effect size could be calculated. Antibiotic prophylaxis may have little or no effect on serious adverse events (4 RCTs, 630 participants; very low-quality evidence), but we are very uncertain of this finding. We downgraded the quality of the evidence for study limitations and very serious imprecision.\nSecondary outcomes\nMinor adverse events: prophylactic antibiotics may have little or no effect on minor adverse events when compared with placebo or no treatment (RR 2.82, 95% CI 0.54 to 14.80; 4 RCTs; 630 participants; low-quality evidence). We downgraded the quality of the evidence for study limitations and imprecision.\nLocalized UTI: prophylactic antibiotics may have little or no effect on the risk of localized UTI (RR 1.0, 95% CI 0.06 to 15.77; 1 RCT; 200 participants; very low-quality evidence), but we were very uncertain of this finding. We downgraded the quality of the evidence for study limitations and very serious imprecision.\nBacterial resistance: prophylactic antibiotics may increase bacterial resistance (RR 1.73, 95% CI 1.04 to 2.87; 38 participants; 2 RCTs; very low-quality evidence), but we were uncertain of this finding. We downgraded the quality of the evidence for study limitations, indirectness, and imprecision.\nWe were able to perform few secondary analyses; these did not suggest any subgroup effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotic prophylaxis may reduce the risk of symptomatic UTI but not systemic UTIs. Serious and minor adverse events may not be increased with the use of antibiotic prophylaxis. The findings are informed by low- and very low-quality evidence ratings for all outcomes."
+    }
+  ],
+  "pls_title": "Antimicrobial agents for preventing urinary tract infections in adults undergoing cystoscopy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence for the benefits and harms of using antibiotics for cystoscopy (an examination of the inside of bladder) to prevent urinary tract infections (UTI)."
+    },
+    {
+      "heading": "Background",
+      "text": "Cystoscopy may cause UTIs. This may cause bothersome symptoms like burning with urination due to an infection limited to the bladder or fevers and chills due to a more serious infection that has goes to the bloodstream, or a combination of burning, fevers, and chills. Antibiotics may prevent infections and reduce these symptoms but can also cause unwanted effects. It is uncertain whether people should be given antibiotics before this procedure."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 22 studies with 7711 participants. These studies were published from 1971 to 2017. In these studies, chance decided whether people received an antibiotic or a placebo/no treatment. The evidence is current to 4 February 2019."
+    },
+    {
+      "heading": "Key results",
+      "text": "Antibiotics given for UTI prevention before cystoscopy may have had little or no effect on the risk of developing a more serious infection that went into the bloodstream.\nThey may have reduced the risk of infection when both serious infection that went into the bloodstream and infections limited to the bladder were taken together.\nNone of the people included in the trials had serious unwanted effects. Therefore, we concluded that antibiotics given for prevention of UTIs may not cause serious unwanted effects but we are very uncertain of this finding.\nAntibiotics may also have had little or no effect on minor unwanted effects. They may also have had little or no effect on infections limited to the bladder taken alone, but we were very uncertain of this finding. People treated with antibiotics may have been more likely to have bacteria that were more resistant to antibiotics, but we are very uncertain of this finding."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the evidence as low or very low meaning that our confidence in the results was limited or very limited. The true effect of antibiotics for prevention of UTIs before cystoscopy may be quite different from what this review found."
+    }
+  ]
+}

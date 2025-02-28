@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009687.pub2",
+  "name": "Topical treatments for scalp psoriasis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with chronic plaque psoriasis often have lesions on the scalp. Hair makes the scalp difficult to treat and the adjacent facial skin is particularly sensitive to topical treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of topical treatments for scalp psoriasis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to August 2015: the Cochrane Skin Group Specialised Register, CENTRAL (2015, Issue 7), MEDLINE (from 1946), EMBASE (from 1974) and LILACS (from 1982). We also searched five trials registers, screened abstracts of six psoriasis-specific conferences and checked the reference lists of included studies for further references to relevant randomised controlled trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) with a parallel-group, cross-over or within-patient design of topical treatments for people of all ages with scalp psoriasis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently carried out study selection, data extraction and 'Risk of bias' assessment. Disagreements were settled by reference to a third author.\nTo assess the quality of evidence, we focused on the following outcomes: 'clearance' or 'response' as assessed by the investigator global assessment (IGA), improvement in quality of life, adverse events requiring withdrawal of treatment and 'response' as assessed by the patient global assessment (PGA).\nWe expressed the results of the single studies as risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes, and mean differences (MD) with 95% CI for continuous outcomes. If studies were sufficiently homogeneous, we meta-analysed the data by using the random-effects model. Where it was not possible to calculate a point estimate for a single study, we described the data qualitatively. We also presented the number needed to treat to benefit (NNTB).\nWe categorised topical corticosteroids according to the German classification of corticosteroid potency as mild, moderate, high and very high."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 59 RCTs with a total of 11,561 participants. Thirty studies were either conducted or sponsored by the manufacturer of the study medication. The risk of bias varied considerably among the included studies. For instance, most authors did not state the randomisation method and few addressed allocation concealment. Most findings were limited to short-term treatments, since most studies were conducted for less than six months. Only one trial investigated long-term therapy (12 months). Although we found a wide variety of different interventions, we limited the grading of the quality of evidence to three major comparisons: steroid versus vitamin D, two-compound combination of steroid and vitamin D versus steroid monotherapy and versus vitamin D.\nIn terms of clearance, as assessed by the IGA, steroids were better than vitamin D (RR 1.82; 95% CI 1.52 to 2.18; four studies, 2180 participants, NNTB = 8; 95% CI 7 to 11; moderate quality evidence). Statistically, the two-compound combination was superior to steroid monotherapy, however the additional benefit was small (RR 1.22; 95% CI 1.08 to 1.36; four studies, 2474 participants, NNTB = 17; 95% CI 11 to 41; moderate quality evidence). The two-compound combination was more effective than vitamin D alone (RR 2.28; 95% CI 1.87 to 2.78; four studies, 2008 participants, NNTB = 6; 95% CI 5 to 7; high quality evidence).\nIn terms of treatment response, as assessed by the IGA, corticosteroids were more effective than vitamin D (RR 2.09; 95% CI 1.80 to 2.41; three studies, 1827 participants; NNTB = 4; 95% CI 4 to 5; high quality evidence). The two-compound combination was better than steroid monotherapy, but the additional benefit was small (RR 1.15; 95% CI 1.06 to 1.25; three studies, 2444 participants, NNTB = 13; 95% CI 9 to 24; moderate quality evidence). It was also more effective than vitamin D alone (RR 2.31; 95% CI 1.75 to 3.04; four studies, 2222 participants, NNTB = 3; 95% CI 3 to 4; moderate quality evidence).\nReporting of quality of life data was poor and data were insufficient to be included for meta-analysis.\nSteroids caused fewer withdrawals due to adverse events than vitamin D (RR 0.22; 95% CI 0.11 to 0.42; four studies, 2291 participants; moderate quality evidence). The two-compound combination and steroid monotherapy did not differ in the number of adverse events leading withdrawal (RR 0.88; 95% CI 0.42 to 1.88; three studies, 2433 participants; moderate quality evidence). The two-compound combination led to fewer withdrawals due to adverse events than vitamin D (RR 0.19; 95% CI 0.11 to 0.36; three studies, 1970 participants; high quality evidence). No study reported the type of adverse event requiring withdrawal.\nIn terms of treatment response, as assessed by the PGA, steroids were more effective than vitamin D (RR 1.48; 95% CI 1.28 to 1.72; three studies, 1827 participants; NNTB = 5; 95% CI 5 to 7; moderate quality evidence). Statistically, the two-compound combination was better than steroid monotherapy, however the benefit was not clinically important (RR 1.13; 95% CI 1.06 to 1.20; two studies, 2226 participants; NNTB = 13; 95% CI 9 to 26; high quality evidence). The two-compound combination was more effective than vitamin D (RR 1.76; 95% CI 1.46 to 2.12; four studies, 2222 participants; NNTB = 4; 95% CI 3 to 6; moderate quality evidence).\nCommon adverse events with these three interventions were local irritation, skin pain and folliculitis. Systemic adverse events were rare and probably not drug-related.\nIn addition to the results of the major three comparisons we found that the two-compound combination, steroids and vitamin D monotherapy were more effective than the vehicle. Steroids of moderate, high and very high potency tended to be similarly effective and well tolerated. There are inherent limitations in this review concerning the evaluation of salicylic acid, tar, dithranol or other topical treatments."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The two-compound combination as well as corticosteroid monotherapy were more effective and safer than vitamin D monotherapy. Given the similar safety profile and only slim benefit of the two-compound combination over the steroid alone, monotherapy with generic topical steroids may be fully acceptable for short-term therapy.\nFuture RCTs should investigate how specific therapies improve the participants' quality of life. Long-term assessments are needed (i.e. 6 to 12 months)."
+    }
+  ],
+  "pls_title": "Topical treatments for psoriasis of the scalp",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "People with chronic plaque psoriasis often have lesions on the scalp. As well as itching, the reddish, scaly lesions are visible and are often embarrassing. 'Topical' treatments (drugs applied to the skin, e.g. as creams) are usually tried first, but applying them to the scalp is difficult because of the hair. There are a number of topical drugs in use, such as corticosteroids (also known as steroids), vitamin D, tar-based preparations, tacrolimus, dithranol or salicylic acid. Some topical corticosteroids have more potency than others so are categorised into four levels of strength: mild, moderate, high and very high. As psoriasis remains a long-term condition, it is of great importance to know which of the drugs work best, what kind of side effects they may have and how likely they are to occur."
+    },
+    {
+      "heading": "Review question",
+      "text": "What are the most effective and safest treatments for psoriasis on the scalp?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We looked at 59 randomised controlled trials with 11,561 participants. Thirty studies were either conducted or sponsored by the manufacturer of the study medication."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "On average, the overall quality of the evidence was moderate for the three most important comparisons that included corticosteroids (e.g. betamethasone dipropionate), vitamin D (e.g. calcipotriol) and their combination product. We looked for a reduction in the severity of the psoriasis, improvement in quality of life and harmful side effects of the treatments. Most findings were based on short-term therapies with a duration of less than six months."
+    },
+    {
+      "heading": "Key results",
+      "text": "Prior investigators found that the combination product was more effective than the steroid alone, but clinically the benefit was questionable. Both treatments reduced scalp psoriasis better than vitamin D.\nDue to poor information, we could not assess which treatment improved quality of life best. Most studies simply did not measure the improvement in quality of life.\nParticipants who applied vitamin D stopped treatment more often because of harmful side effects than those who applied a topical steroid or the combination product. Steroids were as likely as the combination product to cause discontinuation of the treatment because of side effects. However, only a few participants who used one of the three medications experienced harmful side effects. No study reported the type of side effect that made participants stop the treatment.\nParticipants assessed the efficacy of the treatments similarly to the investigator: those who applied a steroid or the combination product responded better to treatment than participants who used vitamin D alone. Statistically, the combination product was more effective than the steroid alone, but clinically the benefit was questionable.\nThe most common harmful side effects of these treatments were irritation, itching and skin pain at the site of application. Side effects on other sites of the body were very rare and most likely not caused by the drug.\nOther findings were the following: steroids, vitamin D and their combination product were more effective than the vehicle preparation (cream, shampoo etc) that did not contain the active drug. Compared to one another, steroids tended to be similarly effective and have similar side effects, even though some were of a higher strength.\nWe could not sufficiently assess the efficacy and safety of other topical treatments, such as salicylic acid, tar or dithranol."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Steroids and the two-compound combination of a steroid and vitamin D were most effective with the least risk of causing harmful side effects. Given the similar safety profile and only slim benefit of the two-compound combination over the steroid alone, topical steroids on their own may be fully acceptable for short-term therapy.\nThe following questions remain unanswered and should be investigated by future trials: Is there truly no difference in terms of effectiveness or safety between topical corticosteroids of different strength? Does the vehicle preparation (e.g. cream or shampoo) have any influence on how the active agent works? Which topical treatment leads to disease control over a long time span without risking patient's safety? Finally, there is a strong need for more studies that assess which topical treatments improve quality of life best."
+    }
+  ]
+}

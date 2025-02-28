@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013434.pub2",
+  "name": "Ultrasound guidance versus landmark method for peripheral venous cannulation in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Peripheral intravenous cannulation is one of the most fundamental and common procedures in medicine. Securing a peripheral line is occasionally difficult with the landmark method. Ultrasound guidance has become a standard procedure for central venous cannulation, but its efficacy in achieving peripheral venous cannulation is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of ultrasound guidance compared to the landmark method for peripheral intravenous cannulation in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 29 November 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs (RCTs in which participants are systematically allocated based on data such as date of birth or recruitment) comparing the effects of ultrasound guidance to the landmark method for peripheral intravenous cannulation in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were first-pass success of cannulation, overall success of cannulation, and pain. Our secondary outcomes were procedure time for first-pass cannulation, procedure time for overall cannulation, number of attempts, patient satisfaction, and overall complications. We used GRADE to assess the certainty of the evidence.\nPlacing a peripheral intravenous line in individuals can be classed as ‘difficult’, ‘moderate’, or ‘easy’. We use the terms ‘difficult participants’, ‘moderate/moderately difficult participants’ and ‘easy participants’ as shorthand to characterise the difficulty level in placing a peripheral line using the landmark method. We used the original studies’ definitions of difficulty levels of peripheral intravenous cannulation with the landmark method. We analysed the results in these subgroups: ‘difficult participants’, ‘moderate participants’, and ‘easy participants’. We did this because we expected the effect of ultrasound-guided peripheral venous cannulation to be largest in participants classed as ‘difficult’ and smaller in participants classed as ‘moderate’ and ‘easy’."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 RCTs and two quasi-RCTs involving 2267 participants undergoing peripheral intravenous cannulation. Participants were classed as 'difficult' in 12 studies (880 participants), 'moderate' in one study (401 participants), and 'easy' in one study (596 participants). Two studies (390 participants) did not restrict by landmark method difficulty level. The overall risk of bias assessments ranged from low to high. We judged studies to be at high risk of bias mainly because of concerns about blinding for subjective outcomes.\nIn difficult participants, ultrasound guidance increased the first-pass success of cannulation (risk ratio (RR) 1.50, 95% confidence interval (95% CI) 1.15 to 1.95; 10 studies, 815 participants; low-certainty evidence), and the overall success of cannulation (RR 1.40, 95% CI 1.10 to 1.77; 10 studies, 670 participants; very low-certainty evidence). There was no clear difference in pain (mean difference (MD) -0.20, 95% CI -1.13 to 0.72; 4 studies, 323 participants; very low-certainty evidence; numerical rating scale (NRS) 0 to 10 where 10 is maximum pain). Ultrasound guidance increased the procedure time for first-pass cannulation (MD 119.9 seconds, 95% CI 88.6 to 151.1; 2 studies, 219 participants; low-certainty evidence), and patient satisfaction (standardised mean difference (SMD) 0.49, 95% CI 0.07 to 0.92; 5 studies, 333 participants; very low-certainty evidence; NRS 0 to 10 where 10 is maximum satisfaction). Ultrasound guidance decreased the number of cannulation attempts (MD -0.33, 95% CI -0.64 to -0.02; 9 studies, 568 participants; very low-certainty evidence). Ultrasound guidance showed no clear difference in the procedure time for overall cannulation (MD -24.9 seconds, 95% CI -323.1 to 273.3; 8 studies, 413 participants; very low-certainty evidence) and overall complications (RR 0.64, 95% CI 0.37 to 1.10; 5 studies, 431 participants; low-certainty evidence).\nIn moderate participants, ultrasound guidance increased the first-pass success of cannulation (RR 1.14, 95% CI 1.02 to 1.27; 1 study, 401 participants; moderate-certainty evidence). No studies assessed the overall success of cannulation. There was no clear difference in pain (MD 0.10, 95% CI -0.47 to 0.67; 1 study, 401 participants; low-certainty evidence; NRS 0 to 10 where 10 is maximum pain). Ultrasound guidance increased the procedure time for first-pass cannulation (MD 95.2 seconds, 95% CI 72.8 to 117.6; 1 study, 401 participants; high-certainty evidence). Ultrasound guidance showed no clear difference in overall complications (RR 0.83, 95% CI 0.38 to 1.82; 1 study, 401 participants; moderate-certainty evidence). No studies assessed the procedure time for overall cannulation, number of cannulation attempts, or patient satisfaction.\nIn easy participants, ultrasound guidance decreased the first-pass success of cannulation (RR 0.89, 95% CI 0.85 to 0.94; 1 study, 596 participants; high-certainty evidence). No studies assessed the overall success of cannulation. Ultrasound guidance increased pain (MD 0.60, 95% CI 0.17 to 1.03; 1 study, 596 participants; moderate-certainty evidence; NRS 0 to 10 where 10 is maximum pain). Ultrasound guidance increased the procedure time for first-pass cannulation (MD 94.8 seconds, 95% CI 81.2 to 108.5; 1 study, 596 participants; high-certainty evidence). Ultrasound guidance showed no clear difference in overall complications (RR 2.48, 95% CI 0.90 to 6.87; 1 study, 596 participants; moderate-certainty evidence). No studies assessed the procedure time for overall cannulation, number of cannulation attempts, or patient satisfaction."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is very low- and low-certainty evidence that, compared to the landmark method, ultrasound guidance may benefit difficult participants for increased first-pass and overall success of cannulation, with no difference detected in pain. There is moderate- and low-certainty evidence that, compared to the landmark method, ultrasound guidance may benefit moderately difficult participants due to a small increased first-pass success of cannulation with no difference detected in pain. There is moderate- and high-certainty evidence that, compared to the landmark method, ultrasound guidance does not benefit easy participants: ultrasound guidance decreased the first-pass success of cannulation with no difference detected in overall success of cannulation and increased pain."
+    }
+  ],
+  "pls_title": "Is ultrasound guidance a good option for peripheral intravenous cannulation in adults?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is peripheral intravenous cannulation?",
+      "text": "Placing a peripheral intravenous line is one of the most essential procedures in medicine. It involves putting a thin, flexible tube (known as a catheter or cannula) into a vein using a needle. This process is known as 'cannulation'. It is necessary when administering fluids, drugs, and drawing blood samples.\nPeripheral intravenous cannulation is usually carried out by seeing and touching a target vein in the hand or arm. This is known as the landmark method. Placing a peripheral intravenous line is sometimes difficult, requiring multiple needle punctures if healthcare providers cannot find a suitable vein. If peripheral intravenous cannulation fails with the landmark method, a central venous line in the neck or chest is often the next step. However, central venous line placement can have serious complications, such as infection, thrombosis (blood clots), and pneumothorax (collapsed lung). It is also more time-consuming and costly. Therefore, the insertion of a central venous line should be a last resort."
+    },
+    {
+      "heading": "How can ultrasound guidance (USG) help?",
+      "text": "Ultrasound can find target veins invisible to the eye. Ultrasound also allows healthcare providers to see the needle and important surrounding structures that should not be damaged when inserting the tube. Ultrasound guidance is often used to help central venous cannulation, but the usefulness for peripheral venous cannulation remains unclear."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if ultrasound guidance was useful and safe compared to the landmark method for peripheral intravenous cannulation in adults. We also wanted to find out if using ultrasound guidance was different in people when cannulation was classed as difficult, moderately difficult, or easy."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We systematically searched for studies comparing the effects of ultrasound guidance to the landmark method on peripheral intravenous cannulation in adults.  We combined the studies' results, and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 16 studies with 2267 participants comparing peripheral intravenous cannulation using ultrasound guidance to the landmark method. The effect of ultrasound guidance was dependent on the difficulty levels of cannulating people using the landmark method. The largest effect was seen in people classed as 'difficult' to cannulate, and the effect became smaller as the difficulty decreased.\n- In 'difficult' patients, ultrasound guidance may increase the first-pass success of cannulation (that is, successful insertion of the tube on the first attempt), overall success of cannulation, and did not have a clear effect on people's pain.\n- In 'moderately difficult' patients, ultrasound guidance probably increased the first-pass success of cannulation, and there was no clear effect on people's pain. No studies assessed the overall success of cannulation.\n- In 'easy' patients, ultrasound guidance decreased the first-pass success of cannulation and probably increased people's pain. No studies assessed the overall success of cannulation."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are not very confident in this evidence because studies did not always measure outcomes in reliable ways. In addition, the studies varied in how they defined difficulty levels with the landmark method and 'puncture failure'."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This evidence is up to date to November 2021. We identified six ongoing studies. We will include results from these studies in future updates."
+    },
+    {
+      "heading": "Key messages",
+      "text": "In people where peripheral intravenous cannulation using the landmark method is difficult, ultrasound guidance may increase the first-pass and overall success of cannulation and has no clear effect on pain. In moderately difficult patients, ultrasound guidance probably increases the first-pass success of cannulation slightly and may have no clear effect on pain. In easy patients, ultrasound guidance reduces the first-pass success of cannulation and probably increases pain slightly.\nThe lack of common definitions amongst the included studies for difficulty levels with the landmark method and puncture failure undermined the results. Future studies should use common definitions."
+    }
+  ]
+}

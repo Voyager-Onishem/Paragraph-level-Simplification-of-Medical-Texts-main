@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD004123.pub4",
+  "name": "Hyperbaric oxygen therapy for chronic wounds",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic wounds are common and present a health problem with significant effect on quality of life. Various pathologies may cause tissue breakdown, including poor blood supply resulting in inadequate oxygenation of the wound bed. Hyperbaric oxygen therapy (HBOT) has been suggested to improve oxygen supply to wounds and therefore improve their healing."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of adjunctive HBOT for treating chronic ulcers of the lower limb."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this second update we searched the Cochrane Wounds Group Specialised Register (searched 18 February 2015); the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2015, Issue 1); Ovid MEDLINE (1946 to 17 February 2015); Ovid MEDLINE (In-Process & Other Non-Indexed Citations, 17 February 2015); Ovid EMBASE (1974 to 17 February 2015); and EBSCO CINAHL (1982 to 17 February 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing the effect on chronic wound healing of therapeutic regimens which include HBOT with those that exclude HBOT (with or without sham therapy)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently evaluated the risk of bias of the relevant trials using the Cochrane methodology and extracted the data from the included trials. We resolved any disagreement by discussion."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included twelve trials (577 participants). Ten trials (531 participants) enrolled people with a diabetic foot ulcer: pooled data of five trials with 205 participants showed an increase in the rate of ulcer healing (risk ratio (RR) 2.35, 95% confidence interval (CI) 1.19 to 4.62; P = 0.01) with HBOT at six weeks but this benefit was not evident at longer-term follow-up at one year. There was no statistically significant difference in major amputation rate (pooled data of five trials with 312 participants, RR 0.36, 95% CI 0.11 to 1.18). One trial (16 participants) considered venous ulcers and reported data at six weeks (wound size reduction) and 18 weeks (wound size reduction and number of ulcers healed) and suggested a significant benefit of HBOT in terms of reduction in ulcer area only at six weeks (mean difference (MD) 33.00%, 95% CI 18.97 to 47.03, P < 0.00001). We identified one trial (30 participants) which enrolled patients with non-healing diabetic ulcers as well as venous ulcers (\"mixed ulcers types\") and patients were treated for 30 days. For this \"mixed ulcers\" there was a significant benefit of HBOT in terms of reduction in ulcer area at the end of treatment (30 days) (MD 61.88%, 95% CI 41.91 to 81.85, P < 0.00001). We did not identify any trials that considered arterial and pressure ulcers."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In people with foot ulcers due to diabetes, HBOT significantly improved the ulcers healed in the short term but not the long term and the trials had various flaws in design and/or reporting that means we are not confident in the results. More trials are needed to properly evaluate HBOT in people with chronic wounds; these trials must be adequately powered and designed to minimise all kinds of bias."
+    }
+  ],
+  "pls_title": "Hyperbaric oxygen therapy for treating chronic wounds",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Chronic wounds are wounds that take a long time to heal, do not heal, or recur; these wounds are often ulcers associated with diabetes or arterial or venous disease (poor blood circulation). One characteristic of chronic wounds is that the wound tissues are hypoxic (have low oxygen levels). Chronic wounds are commonly occurring and reduce the quality of life of those affected.\nHyperbaric oxygen therapy (HBOT) is a treatment designed to increase the supply of oxygen to wounds that are not responding to other treatments. HBOT involves people breathing pure oxygen in a specially designed compression chamber (such as those used for deep-sea divers suffering pressure problems after resurfacing)."
+    },
+    {
+      "heading": "Review question",
+      "text": "Does hyperbaric oxygen therapy (HBOT) increase the rate of healing of people with chronic wounds and reduce the need for partial or total lower limb amputation? Is this treatment safe?"
+    },
+    {
+      "heading": "What we found",
+      "text": "We included twelve randomised trials (577 participants) in this updated review. Most of the included trials studied foot ulcers in people with diabetes (10 trials).\nFor diabetes-related foot ulcers, we found that HBOT seemed to improve the chance of healing in the short term (up to six weeks), but not with longer term follow-up. HBOT may reduce the number of major amputations in people with diabetes who have chronic foot ulcers.\nFor chronic wounds caused by disease to the veins of the leg, we found that HBOT may reduce the size of wounds.\nFor chronic wounds caused by lack of blood supply through the arteries or chronic pressure ulcers, we found no evidence to confirm or refute any effects of HBOT.\nWe could not assess safety as none of the trials included in our review reported whether there were any major adverse events.\nThis plain language summary is up-to-date as of 23/1/15"
+    }
+  ]
+}

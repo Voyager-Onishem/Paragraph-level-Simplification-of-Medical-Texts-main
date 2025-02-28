@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012142.pub2",
+  "name": "Early planned removal of umbilical venous catheters to prevent infection in newborn infants ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Lengthy duration of use may be a risk factor for umbilical venous catheter-associated bloodstream infection in newborn infants. Early planned removal of umbilical venous catheters (UVCs) is recommended to reduce the incidence of infection and associated morbidity and mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effectiveness of early planned removal of UVCs (up to two weeks after insertion) versus an expectant approach or a longer fixed duration in preventing bloodstream infection and other complications in newborn infants.\nTo perform subgroup analyses by gestational age at birth and prespecified planned duration of UVC placement (see \"Subgroup analysis and investigation of heterogeneity\")."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard Cochrane Neonatal search strategy including electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 4), Ovid MEDLINE, Embase, and the Maternity & Infant Care Database (until May 2017), as well as conference proceedings and previous reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised controlled trials that compared effects of early planned removal of UVCs (up to two weeks after insertion) versus an expectant approach or a longer fixed duration in preventing bloodstream infection and other complications in newborn infants."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors assessed trial eligibility and risk of bias and independently undertook data extraction. We analysed treatment effects and reported risk ratio (RR) and risk difference (RD) for dichotomous data, and mean difference (MD) for continuous data, with respective 95% confidence intervals (CIs). We planned to use a fixed-effect model in meta-analyses and to explore potential causes of heterogeneity in sensitivity analyses. We assessed the quality of evidence for the main comparison at the outcome level using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found one eligible trial. Participants were 210 newborn infants with birth weight less than 1251 grams. The trial was unblinded but otherwise of good methodological quality. This trial compared removal of an umbilical venous catheter within 10 days after insertion (and replacement with a peripheral cannula or a percutaneously inserted central catheter as required) versus expectant management (UVC in place up to 28 days). More infants in the early planned removal group than in the expectant management group (83 vs 33) required percutaneous insertion of a central catheter (PICC). Trial results showed no difference in the incidence of catheter-related bloodstream infection (RR 0.65, 95% CI 0.35 to 1.22), in hospital mortality (RR 1.12, 95% CI 0.42 to 2.98), in catheter-associated thrombus necessitating removal (RR 0.33, 95% confidence interval 0.01 to 7.94), or in other morbidity. GRADE assessment indicated that the quality of evidence was \"low\" at outcome level principally as the result of imprecision and risk of surveillance bias due to lack of blinding in the included trial."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently available trial data are insufficient to show whether early planned removal of umbilical venous catheters reduces risk of infection, mortality, or other morbidity in newborn infants. A large, simple, and pragmatic randomised controlled trial is needed to resolve this ongoing uncertainty."
+    }
+  ],
+  "pls_title": "Early planned removal of umbilical venous catheters to prevent infection in newborn infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "In newborn infants with an umbilical venous catheter, how does planned removal within two weeks after insertion compare with an expectant approach or a longer fixed duration in preventing bloodstream infection and other complications?"
+    },
+    {
+      "heading": "Background",
+      "text": "Preterm and sick term newborn babies may require an umbilical venous catheter (UVC) - a fine plastic tube that is inserted via the infant's umbilical vein (in the tummy button) several centimetres into the infant's major blood vessel to deliver nutrition and drugs. Infection in the bloodstream is a frequent and harmful complication for newborn infants who have a UVC in place. One method that may be used to reduce the risk of this and other serious complications is removal of the UVC within about two weeks after insertion (rather than leaving it until no longer required) and replacement with a cannula or a catheter inserted via a small vein (usually in the arm or leg)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found only one small randomised controlled trial (including 210 very low birth weight newborn infants) that addressed this question."
+    },
+    {
+      "heading": "Key results",
+      "text": "This trial did not show that early planned removal of UVCs from infants could reduce their chance of developing a bloodstream infection. However, because the trial was small, this finding is not certain."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The trial did not provide sufficient evidence to inform policy or practice; larger trials are needed to resolve this question fully."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD004370.pub4",
+  "name": "Intravenous immunoglobulin for presumed viral myocarditis in children and adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of a previous review. Case reports and case series have described dramatic responses to intravenous immunoglobulin (IVIG) in people with presumed viral myocarditis, and its administration has become commonplace."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of this review was to compare event-free (death, requirement for a cardiac transplant, or placement of a left ventricular assist device) or overall (death) survival of adults and children with presumed viral myocarditis treated with IVIG versus those who did not receive IVIG. A secondary objective was to determine if a group of patients with presumed viral myocarditis could be identified (on the basis of age, duration of symptoms, acuity of onset of symptoms, cardiac function at presentation, virological results, or the presence or absence of histological evidence of acute myocarditis on cardiac biopsy in patients in whom a biopsy was performed) who would be the most likely to benefit from IVIG."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, DARE, CINAHL, Web of Science Core Collection, and LILACS in July 2019, and two trial registries in November 2019. We contacted authors of trials and checked reference lists of relevant papers. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies if (1) participants had a clinical diagnosis of acute myocarditis with a left ventricular ejection fraction (LVEF) ≤ 0.45, left ventricular end-diastolic diameter (LVEDD) > 2 standard deviations (SDs) above the norm, or a left ventricular shortening fraction (LVSF) > 2 SDs below the mean, with duration of cardiac symptoms < 6 months; (2) participants had no evidence of non-infectious or bacterial cardiac disease; and (3) participants were randomly assigned to receive at least 1 g/kg of IVIG versus no IVIG or placebo.\nWe excluded studies if (1) participants had received immunosuppression before outcome assessment; or (2) onset of myocarditis was reported to have occurred < 6 months postpartum."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the search results and extracted data. We assessed risk of bias with the Cochrane 'Risk of bias' tool. We conducted meta-analysis for two outcomes (overall survival and improvement in LVEF) with two adult trials. Other meta-analyses were not possible because only three relevant trials were included, and researchers analysed markedly different populations and used different outcome measures."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this update we added two trials to the two previously included trials. A quasi-randomised trial was previously included due to a paucity of evidence from randomised trials; however, with the addition of two new randomised trials, it was removed from this update.\nFor two adult trials, the overall risk of bias was unclear with very low-certainty evidence for all outcomes. The first trial studied 62 adults with recent-onset dilated cardiomyopathy randomly assigned to receive IVIG or an equivalent volume of 0.1% albumin in a blinded fashion. The effect on event-free survival between groups was uncertain (risk ratio (RR) of any event 1.76, 95% confidence interval (CI) 0.48 to 6.40). The second trial studied 41 adults with acute myocarditis randomised to either high-dose IVIG (1 to 2 g/kg over two days) or no treatment. The IVIG group reported greater survival time after 60 days (no raw data, P < 0.01), but the evidence is uncertain. We pooled the reported number of deaths in both trials, with no evidence of a difference between groups (RR 0.91, 95% CI 0.23 to 3.62, I2 = 31%, very low-certainty evidence).\nThe evidence on the effect of IVIG treatment on LVEF (pooled mean difference (MD) −0.01, 95% CI −0.06 to 0.05) after 12 months and an unknown time frame is uncertain. The results for functional capacity, assessed by peak oxygen consumption at 12 months, were uncertain (MD −0.80, 95% CI −4.57 to 2.97). The results for infusion-related side effects were also uncertain due to a very large CI (RR 20.29, 95% CI 1.25 to 329.93). Lastly, there was uncertain evidence addressing failure to attain complete recovery (RR 0.46, 95% CI 0.19 to 1.14).  Evidence for improvement in LVEDD, left ventricular shortening fraction, and hospitalisation status in adults was not reported.\nIn the single included paediatric trial, the overall risk of bias was low with very low-certainty evidence for all outcomes. The trial included 86 children in Egypt presenting with acute myocarditis. Children were randomly assigned to 1 g/kg IVIG daily for two consecutive days or placebo followed by echocardiography one and six months post randomisation for recording of LVEDD and LVSF. The evidence for overall survival after six months was uncertain (risk of death RR 0.48, 95% CI 0.20 to 1.15). The evidence was also uncertain for improvement in LVEDD and LVSF after six months (LVEDD MD −4.00, 95% CI −9.52 to 1.52; LVSF no raw data).  Evidence for improvement in LVEF, functional capacity, side effects, complete recovery, and hospitalisation status in children was not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence from two trials of very low certainty and with unclear risk of bias provides contradictory evidence on the use of IVIG in the treatment of adults with presumed viral myocarditis. One trial reported that use of IVIG results in longer survival time after 60 days, whilst the other trial found that IVIG does not provide an appreciable benefit. The evidence of a difference in event-free or overall survival, LVEDD, or LVSF is of very low certainty in a single paediatric trial with a low risk of bias. Until higher-quality studies with low risk of bias and larger sample sizes have demonstrated benefit in a particular group of patients, the evidence for treatment with IVIG for presumed viral myocarditis is uncertain. Further studies of the pathophysiology of myocarditis would lead to improved diagnostic criteria, which would facilitate future research."
+    }
+  ],
+  "pls_title": "Intravenous immunoglobulin for presumed viral myocarditis in children and adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Acute myocarditis is inflammation of the heart and is thought to most commonly begin as a viral infection. The disease affects individuals of all ages. On the basis of multiple case reports and case series, intravenous immunoglobulin (IVIG) has become part of routine practice for treating adults and children with acute myocarditis at many centres."
+    },
+    {
+      "heading": "Results",
+      "text": "This is the second update of a previous review, which found one randomised controlled trial (RCT) (a type of study in which participants are assigned to one of two or more treatment groups using a random method) of 62 adults, which suggested that IVIG is not useful in myocarditis. The evidence in this update is current to 2 July 2019, at which point two studies were added: one RCT of 86 children did not find any evidence that IVIG increases survival over placebo, and one RCT of 41 adults did not find evidence of increased survival (less mortality), but did report that patients lived longer for the group treated with IVIG compared to the untreated group. After pooling the available data, there was uncertain evidence of the effect of IVIG in preventing deaths. More RCT evidence is required before IVIG can be routinely recommended for adults or children with myocarditis."
+    }
+  ]
+}

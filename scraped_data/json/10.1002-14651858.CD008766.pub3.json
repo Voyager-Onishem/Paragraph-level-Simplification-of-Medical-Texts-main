@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD008766.pub3",
+  "name": "Taxane monotherapy regimens for the treatment of recurrent epithelial ovarian cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ovarian cancer is the seventh most frequent cancer diagnosis worldwide, and the eighth leading cause of cancer mortality. Epithelial ovarian cancer is the most common kind, accounting for 90% of cases. First-line therapy for women with epithelial ovarian cancer consists of a combination of cytoreductive surgery and platinum and taxane-based chemotherapy. However, more than 50% of women with epithelial ovarian cancer will experience a relapse and require further chemotherapy and at some point develop resistance to platinum-based drugs.\nCurrently, guidance on the use of most chemotherapy drugs, including taxanes, is unclear for women whose epithelial ovarian cancer has recurred. Paclitaxel, topotecan, pegylated liposomal doxorubicin hydrochloride, trabectedin and gemcitabine are all licensed for use in the UK at the discretion of clinicians, following discussion with the women as to potential adverse effects. Taxanes can be given in once-weekly regimens (at a lower dose) or three-weekly regimens (at a higher dose), which may have differences in the severity of side effects and effectiveness. As relapsed disease suggests incurable disease, it is all the more important to consider side effects and the impact of treatment schedules, as well as quality of life, and not only the life-prolonging effects of treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and toxicity of different taxane monotherapy regimens for women with recurrent epithelial ovarian, tubal or primary peritoneal cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE and Embase, up to 22 March 2022. Other related databases and trial registries were searched as well as grey literature and no additional studies were identified. A total of 1500 records were identified."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials of taxane monotherapy for adult women diagnosed with recurrent epithelial ovarian, tubal or primary peritoneal cancer, previously treated with platinum-based chemotherapy. We included trials comparing two or more taxane monotherapy regimens. Participants could be experiencing their first recurrence of disease or any line of recurrence."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened, independently assessed studies, and extracted data from the included studies. The clinical outcomes we examined were overall survival, response rate, progression-free survival, neurotoxicity, neutropenia, alopecia, and quality of life. We performed statistical analyses using fixed-effect and random-effects models following standard Cochrane methodology. We rated the certainty of evidence according to the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our literature search yielded 1500 records of 1466 studies; no additional studies were identified by searching grey literature or handsearching. We uploaded the search results into Covidence. After the exclusion of 92 duplicates, we screened titles and abstracts of 1374 records. Of these, we identified 24 studies for full-text screening. We included four parallel-group randomised controlled trials (RCTs). All trials were multicentred and conducted in a hospital setting. The studies included 981 eligible participants with recurrent epithelial ovarian cancer, tubal or primary peritoneal cancer with a median age ranging between 56 to 62 years of age. All participants had a WHO (World Health Organization) performance status of between 0 to 2. The proportion of participants with serous histology ranged between 56% to 85%. Participants included women who had platinum-sensitive (71%) and platinum-resistant (29%) relapse. Some participants were taxane pre-treated (5.6%), whilst the majority were taxane-naive (94.4%). No studies were classified as having a high risk of bias for any of the domains in the Cochrane risk of bias tool.\nWe found that there may be little or no difference in overall survival (OS) between weekly paclitaxel and three-weekly paclitaxel, but the evidence is very uncertain (risk ratio (RR) of 0.94, 95% confidence interval (CI) 0.66 to 1.33, two studies, 263 participants, very low-certainty evidence). Similarly, there may be little or no difference in response rate (RR of 1.07, 95% CI 0.78 to 1.48, two studies, 263 participants, very low-certainty evidence) and progression-free survival (PFS) (RR of 0.83, 95% CI 0.46 to 1.52, two studies, 263 participants, very low-certainty evidence) between weekly and three-weekly paclitaxel, but the evidence is very uncertain.\nWe found differences in the chemotherapy-associated adverse events between the weekly and three-weekly paclitaxel regimens. The weekly paclitaxel regimen may result in a reduction in neutropenia (RR 0.51, 95% 0.27 to 0.95, two studies, 260 participants, low-certainty evidence) and alopecia (RR 0.58, 95% CI 0.46 to 0.73, one study, 205 participants, low-certainty evidence). There may be little or no difference in neurotoxicity, but the evidence was very low-certainty and we cannot exclude an effect (RR 0.53, 95% CI 0.19 to 1.45, two studies, 260 participants).\nWhen examining the effect of paclitaxel dosage in the three-weekly regimen, the 250 mg/m2 paclitaxel regimen probably causes more neurotoxicity compared to the 175 mg/m2 regimen (RR 0.41, 95% CI 0.21 to 0.80, one study, 330 participants, moderate-certainty evidence).\nQuality-of-life data were not extractable from any of the included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Fewer people may experience neutropenia when given weekly rather than three-weekly paclitaxel (low-certainty evidence), although it may make little or no difference to the risk of developing neurotoxicity (very low-certainty evidence). This is based on the participants receiving lower doses of drug more often. However, our confidence in this result is low and the true effect may be substantially different from the estimate of the effect. Weekly paclitaxel probably reduces the risk of alopecia, although the rates in both arms were high (46% versus 79%) (low-certainty evidence). A change to weekly from three-weekly chemotherapy could be considered to reduce the likelihood of toxicity, as it may have little or no negative impact on response rate (very low-certainty evidence), PFS (very low-certainty evidence) or OS (very low-certainty evidence).\nThree-weekly paclitaxel, given at a dose of 175 mg/m2 compared to a higher dose,probably reduces the risk of neurotoxicity.We are moderately confident in this result; the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. A change to 175 mg/m2 paclitaxel (from a higher dose), if a three-weekly regimen is used, probably has little or no negative impact on PFS or OS (very low-certainty evidence)."
+    }
+  ],
+  "pls_title": "How should we give taxane as a single chemotherapy agent to women with relapsed epithelial ovarian cancer?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "There are a variety of options for chemotherapy treatment of relapsed epithelial ovarian cancer. Decisions at relapse include not just what drug, but also what dose and timing of administration. Taxanes can be given in once-weekly (at a lower dose) or three-weekly (at a higher dose) regimens, which may lead to differences in the severity of side effects and effectiveness. As relapsed disease suggests incurable disease; it is all the more important to consider side effects and the impact of treatment schedules, as well as quality of life, and not only the life-prolonging effects of treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and side effects of different treatment intervals and different doses of taxane chemotherapy for women with relapsed epithelial ovarian cancer."
+    },
+    {
+      "heading": "Methods",
+      "text": "We included randomised-controlled trials (RCTs) (clinical studies where people are randomly put into one of two or more treatment groups) of two or more taxane treatments for women with relapsed epithelial ovarian cancer. The clinical outcomes we examined were: 1) overall survival - how long a participant survives after their diagnosis; 2) response rate - how many participants have scan or blood test evidence that their ovarian cancer reduces in size in response to chemotherapy; 3) progression-free survival - the amount of time a participant lives with the disease without evidence of it continuing to grow; 4) neurotoxicity - how many participants experienced nerve damage leading to sensory or motor co-ordination problems, usually in their hands and feet; 5) neutropenia - how many participants experienced a dangerous drop in white blood cells (neutrophils) which can lead to infection; 6) alopecia - how many participants experienced high levels of hair loss; 7) quality of life - a measure of the overall impact of the disease and treatment on the participants' daily life; this is recorded by a questionnaire.\nWe performed statistical analyses following Cochrane methodology."
+    },
+    {
+      "heading": "Results",
+      "text": "We included four RCTs which we assessed as being at low risk of bias, i.e. the results are likely to be a fair reflection of the differences between the groups studied. These studies included data for 981 women who had relapsed epithelial ovarian cancer."
+    },
+    {
+      "heading": "Weekly versus three-weekly taxane treatment",
+      "text": "We found that there are probably few or no differences in how long women survived after treatment and there may be little or no difference in how long it took for their cancers to re-grow if taxanes were given weekly or three-weekly. There may be little or no difference in the number of women who had evidence of their cancer shrinking in response to taxane treatment if given weekly or three-weekly.\nHowever, we found that there were probably differences in the side effects between the weekly and three-weekly regimens. Women probably experienced more severe hair loss (alopecia) and may be more likely to have neutropenia (a lower level of white blood cells, which can lead to infections) in the three-weekly paclitaxel treatment compared to a lower dose of taxane given more frequently with weekly treatment. There may or may not be an increased risk of neurotoxicity (nerve damage) with three-weekly paclitaxel when given at a higher dose, but we have low certainty about this result."
+    },
+    {
+      "heading": "Different doses of taxane given three-weekly",
+      "text": "Women who received a lower dose of taxane every three weeksprobably had less neurotoxicity and we have moderate certainty in this result. We found that there are probably few or no differences in how long women survived or how long it took for their cancer to progress after treatment between the groups."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Women who receive weekly paclitaxel probably have fewer side effects, as well as women who receive a lower dose three-weekly. The change to either a lower dose every three weeks, or weekly scheduling of a lower dose, may make little or no difference in how long women survive after treatment. Weekly treatment may offer similar treatment effects with fewer side effects, albeit at the cost of more frequent hospital visits."
+    }
+  ]
+}

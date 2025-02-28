@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015125",
+  "name": "Inhaled corticosteroids for the treatment of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inhaled corticosteroids are well established for the long-term treatment of inflammatory respiratory diseases such as asthma or chronic obstructive pulmonary disease. They have been investigated for the treatment of coronavirus disease 2019 (COVID-19). The anti-inflammatory action of inhaled corticosteroids might have the potential to reduce the risk of severe illness resulting from hyperinflammation in COVID-19."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether inhaled corticosteroids are effective and safe in the treatment of COVID-19; and to maintain the currency of the evidence, using a living systematic review approach."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (which includes CENTRAL, PubMed, Embase, ClinicalTrials.gov, WHO ICTRP, and medRxiv), Web of Science (Science Citation Index, Emerging Citation Index), and the WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies to 7 October 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) evaluating inhaled corticosteroids for COVID-19, irrespective of disease severity, age, sex, or ethnicity.\nWe included the following interventions: any type or dose of inhaled corticosteroids. We included the following comparison: inhaled corticosteroids plus standard care versus standard care (with or without placebo).\nWe excluded studies examining nasal or topical steroids."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology. For risk of bias assessment, we used the Cochrane RoB 2 tool. We rated the certainty of evidence using the GRADE approach for the outcomes of mortality, admission to hospital or death, symptom resolution, time to symptom resolution, serious adverse events, adverse events, and infections."
+    },
+    {
+      "heading": "Main results",
+      "text": "Inhaled corticosteroids plus standard care versus standard care (with/without placebo)\nPeople with a confirmed diagnosis of moderate-to-severe COVID-19\nWe found no studies that included people with a confirmed diagnosis of moderate-to-severe COVID-19.\nPeople with a confirmed diagnosis of asymptomatic SARS-CoV-2 infection or mild COVID-19\nWe included three RCTs allocating 3607 participants, of whom 2490 had confirmed mild COVID-19. We analysed a subset of the total number of participants recruited to the studies (2171, 52% female) as some trials had a platform design where not all participants were allocated to treatment groups simultaneously. The included studies were community-based, recruiting people who were able to use inhaler devices to deliver steroids and relied on remote assessment and self-reporting of outcomes. Most people were older than 50 years and had co-morbidities such as hypertension, lung disease, or diabetes. The studies were conducted in high-income countries prior to wide-scale vaccination programmes. A total of 1057 participants were analysed in the inhaled corticosteroid arm (budesonide: 860 participants; ciclesonide: 197 participants), and 1075 participants in the control arm. No studies included people with asymptomatic SARS-CoV-2 infection.\nWith respect to the following outcomes, inhaled corticosteroids compared to standard care:\n– may result in little to no difference in all-cause mortality (at up to day 30) (risk ratio (RR) 0.61, 95% confidence interval (CI) 0.22 to 1.67; 2132 participants; low-certainty evidence). In absolute terms, this means that for every nine deaths per 1000 people not receiving inhaled corticosteroids, there were six deaths per 1000 people who did receive the intervention (95% CI 2 to 16 per 1000 people);\n– probably reduces admission to hospital or death (at up to 30 days) (RR 0.72, 95% CI 0.51 to 0.99; 2025 participants; moderate-certainty evidence);\n– probably increases resolution of all initial symptoms at day 14 (RR 1.19, 95% CI 1.09 to 1.30; 1986 participants; moderate-certainty evidence);\n– may reduce the duration to symptom resolution (at up to day 30) (by −4.00 days, 95% CI −6.22 to −1.78 less than control group rate of 12 days; 139 participants; low-certainty evidence);\n– the evidence is very uncertain about the effect on serious adverse events (during study period) (RR 0.51, 95% CI 0.09 to 2.76; 1586 participants; very low-certainty evidence);\n– may result in little to no difference in adverse events (at up to day 30) (RR 0.78, 95% CI 0.47 to 1.31; 400 participants; low-certainty evidence);\n– may result in little to no difference in infections (during study period) (RR 0.88, 95% CI 0.30 to 2.58; 400 participants; low-certainty evidence).\nAs studies did not report outcomes for subgroups (e.g. age, ethnicity, sex), we did not perform subgroup analyses."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In people with confirmed COVID-19 and mild symptoms who are able to use inhaler devices, we found moderate-certainty evidence that inhaled corticosteroids probably reduce the combined endpoint of admission to hospital or death and increase the resolution of all initial symptoms at day 14. Low-certainty evidence suggests that corticosteroids make little to no difference in all-cause mortality up to day 30 and may decrease the duration to symptom resolution. We do not know whether inhaled corticosteroids increase or decrease serious adverse events due to heterogeneity in the way they were reported across the studies. There is low-certainty evidence that inhaled corticosteroids may decrease infections.\nThe evidence we identified came from studies in high-income settings using budesonide and ciclesonide prior to vaccination roll-outs.\nWe identified a lack of evidence concerning quality of life assessments, serious adverse events, and people with asymptomatic infection or with moderate-to-severe COVID-19. The 10 ongoing and four completed, unpublished RCTs that we identified in trial registries address similar settings and research questions as in the current body of evidence. We expect to incorporate the findings of these studies in future versions of this review.\nWe monitor newly published results of RCTs on inhaled corticosteroids on a weekly basis and will update the review when the evidence or our certainty in the evidence changes."
+    }
+  ],
+  "pls_title": "Are inhaled corticosteroids an effective treatment for people with mild COVID-19?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Inhaled corticosteroids (anti-inflammatory medicines) given via the oral inhaled route are evaluated for treatment of coronavirus disease 2019 (COVID-19).\nWe identified three published studies for people with mild disease. Inhaled corticosteroids probably reduce the risk of people going to hospital or death (admission to hospital or death before hospital admission). Inhaled corticosteroids may lower the number of days people have symptoms of mild COVID-19 and probably increase resolution of COVID-19 symptoms at day 14. They may make little to no difference in death from any cause, and we do not have enough evidence to know whether they cause serious harms.\nThere are no data for people with COVID-19 with no symptoms (asymptomatic) or people with moderate-to-severe COVID-19.\nWe found 10 ongoing and four completed unpublished studies. We will update this review when their results become available."
+    },
+    {
+      "heading": "What are inhaled corticosteroids?",
+      "text": "Inhaled corticosteroids are medicines that are breathed into the lower airways through an inhaler where they reduce inflammation in the lungs. They are commonly used to treat respiratory diseases like asthma and chronic obstructive pulmonary disease. Long-term use and incorrect inhaler technique may lead to side effects that include a mouth infection called thrush, a change in voice, and an increased risk of lung infections. Good inhaler technique means the medicine does not stay in the mouth and throat."
+    },
+    {
+      "heading": "Why are inhaled corticosteroids possible treatments for COVID-19?",
+      "text": "COVID-19 mainly affects the lungs and airways. When the immune system fights the virus, the lungs and airways become inflamed. This inflammation causes breathing difficulties, and the lungs cannot easily move oxygen into the blood and remove carbon dioxide from the blood."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "People need more and better treatment options for asymptomatic SARS-CoV-2 infection (the virus that causes COVID-19) or mild, moderate, or severe COVID-19. We wanted to know if inhaled corticosteroids are an effective and helpful treatment option for COVID-19 in any setting (for example, home or hospital) and whether they cause unwanted effects.\nWe were interested in:\n– death from any cause up to day 30, day 60, or longer if reported;\n– admission to hospital or death within 30 days;\n– whether symptoms resolved and how fast;\n– quality of life;\n– unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked for studies where the investigators compared inhaled corticosteroids and usual care to usual care only, sometimes in addition to a dummy medicine that did not contain any active ingredients (placebo) but was given in the same way. To make the comparison least skewed and more fair, patients in the studies must all have had the same random chance (like the flip of a coin) to receive the inhaled corticosteroids or the other treatment. The studies could include people of any age, sex, or ethnicity.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Three studies compared inhaled corticosteroids plus usual care compared to usual care with or without placebo in people with a confirmed diagnosis of mild COVID-19. These studies analysed 2171 participants mostly older than 50 years and with other medical problems, 52% of them were female, of whom 1057 received inhaled corticosteroids in our analyses. We found no studies that included people with asymptomatic infection or confirmed diagnosis of moderate-to-severe COVID-19.\nWe also found 10 ongoing studies, and four completed studies without published results."
+    },
+    {
+      "heading": "Main results",
+      "text": "All studies compared inhaled corticosteroids with usual care or placebo. The studies included only people with a confirmed diagnosis of SARS-CoV-2 infection and mild disease. No studies looked at hospitalised people or people with asymptomatic SARS-CoV-2 infection. Inhaled corticosteroids\n– may make little to no difference in death from any cause up to day 30;\n– probably reduce the risk of admission to hospital or occurrence of death up to day 30;\n– probably increase resolution of COVID-19 symptoms at day 14 and may reduce time to symptom resolution.\nWe are very uncertain about a possible difference in serious unwanted effects. Moreover, inhaled corticosteroids may result in little to no difference in the number of any unwanted effects or additional infections."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The studies were conducted in populations from wealthy countries, prior to the roll-out of COVID-19 vaccination programmes. We have moderate confidence in the evidence for the outcomes of symptom resolution at day 14 and hospital admission. We have low confidence in the evidence for the effects on deaths from any cause for people with mild COVID-19 and time to symptom resolution. The confidence in the unwanted or serious unwanted effects and infections is low or very low, because of the differences in the way investigators recorded and reported results. There was no evidence for people with asymptomatic infection or moderate-to-severe COVID-19 who were hospitalised."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "Our evidence is up-to-date to 7 October 2021."
+    }
+  ]
+}

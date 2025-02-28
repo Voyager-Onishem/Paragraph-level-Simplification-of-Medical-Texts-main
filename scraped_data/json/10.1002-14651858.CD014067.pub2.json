@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD014067.pub2",
+  "name": "Synbiotics to prevent necrotising enterocolitis in very preterm or very low birth weight infants ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Intestinal dysbiosis may contribute to the pathogenesis of necrotising enterocolitis (NEC) in very preterm or very low birth weight (VLBW) infants. Dietary supplementation with synbiotics (probiotic micro-organisms combined with prebiotic oligosaccharides) to modulate the intestinal microbiome has been proposed as a strategy to reduce the risk of NEC and associated mortality and morbidity."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of enteral supplementation with synbiotics (versus placebo or no treatment, or versus probiotics or prebiotics alone) for preventing NEC and associated morbidity and mortality in very preterm or VLBW infants."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, the Maternity and Infant Care database and CINAHL, from earliest records to 17 June 2021. We searched clinical trials databases and conference proceedings, and examined the reference lists of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs comparing prophylactic synbiotics supplementation with placebo or no synbiotics in very preterm (< 32 weeks' gestation) or very low birth weight (< 1500 g) infants."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors separately performed the screening and selection process,  evaluated risk of bias of the trials, extracted data, and synthesised effect estimates using risk ratio (RR), risk difference (RD), and mean difference, with associated 95% confidence intervals (CIs). We used the GRADE approach to assess the level of certainty for effects on NEC, all-cause mortality, late-onset invasive infection, and neurodevelopmental impairment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six trials in which a total of 925 infants participated. Most trials were small (median sample size 200). Lack of clarity on methods used to conceal allocation and mask caregivers or investigators were potential sources of bias in four of the trials. The studied synbiotics preparations contained lactobacilli or bifidobacteria (or both) combined with fructo- or galacto-oligosaccharides (or both).\nMeta-analyses suggested that synbiotics may reduce the risk of NEC (RR 0.18, 95% CI 0.09 to 0.40; RD 70 fewer per 1000, 95% CI 100 fewer to 40 fewer; number needed to treat for an additional beneficial outcome (NNTB) 14, 95% CI 10 to 25; six trials (907 infants); low certainty evidence); and all-cause mortality prior to hospital discharge (RR 0.53, 95% CI 0.33 to 0.85; RD 50 fewer per 1000, 95% CI 120 fewer to 100 fewer; NNTB 20, 95% CI 8 to 100; six trials (925 infants); low-certainty evidence). Synbiotics may have little or no effect on late-onset invasive infection, but the evidence is very uncertain (RR 0.84, 95% CI 0.58 to 1.21; RD 20 fewer per 1000, 95% CI 70 fewer to 30 more; five trials (707 infants); very low-certainty evidence). None of the trials assessed neurodevelopmental outcomes. In the absence of high levels of heterogeneity, we did not undertake any subgroup analysis (including the type of feeding)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available trial data provide only low-certainty evidence about the effects of synbiotics on the risk of NEC and associated morbidity and mortality for very preterm or very low birth weight infants. Our confidence in the effect estimates is limited; the true effects may be substantially different from these estimates. Large, high-quality trials would be needed to provide evidence of sufficient validity and applicability to inform policy and practice."
+    }
+  ],
+  "pls_title": "Do synbiotics prevent necrotising enterocolitis in very preterm or very low birth weight infants?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Very preterm (born more than eight weeks early) and very low birth weight (less than 1.5 kg) infants are at risk of developing necrotising enterocolitis, a severe condition where some of the lining of the infant's bowel becomes inflamed, and the cells of this tissue die. This condition is associated with death, serious infection, and long-term disability, as well as developmental problems."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "One way to help prevent necrotising enterocolitis may be to add synbiotics (combinations of probiotic bacteria or yeasts plus non-digestible sugars to support probiotic growth and colonisation) to milk feeds. We wanted to find out whether synbiotics might benefit very preterm and very low birth weight infants. Our outcomes of interest included necrotising enterocolitis, death from any cause, serious infection, duration of hospitalisation since birth and neurodevelopmental outcomes."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "For our Cochrane Review, we searched several important databases to identify randomized controlled trials that investigated the use of synbiotics for preventing necrotising enterocolitis in very preterm and very low birth weight infants. We used standard Cochrane methods to conduct our review and perform our analyses. We used the GRADE approach to assess the certainty of the evidence for each outcome."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found six trials with a total of 925 infant participants. Trials were mostly small, and most had design flaws that might have biased their findings."
+    },
+    {
+      "heading": "Main results",
+      "text": "Combined analyses showed that giving synbiotics to very preterm or very low birth weight infants may reduce the risk of necrotising enterocolitis and death. Synbiotics may have little or no effect in reducing the risk of serious infection, but the evidence is very uncertain. None of the studies that we identified assessed the effect of synbiotics on disability or developmental outcomes."
+    },
+    {
+      "heading": "What are the limitations of this evidence?",
+      "text": "Although the evidence from randomised controlled trials can potentially be of high certainty, the methods used in our review's included trials may have introduced biases that exaggerated the benefits of giving synbiotics to very preterm and very low birth weight infants. Also, because most of the trials were small, the effect estimates for some outcomes were imprecise. For these reasons, we graded down the certainty of the evidence. All evidence in our review is of low or very low certainty.\nThere is low-certainty evidence that synbiotics prevent necrotising enterocolitis and death from any cause. There is very low-certainty evidence that synbiotics may have little or no effect in preventing serious infection."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "We conducted our database searches on 17 June 2021."
+    }
+  ]
+}

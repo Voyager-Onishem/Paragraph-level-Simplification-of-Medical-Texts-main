@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009760.pub4",
+  "name": "Transcranial direct current stimulation (tDCS) for improving aphasia in adults with aphasia after stroke ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stroke is one of the leading causes of disability worldwide and aphasia among survivors is common. Current speech and language therapy (SLT) strategies have only limited effectiveness in improving aphasia. A possible adjunct to SLT for improving SLT outcomes might be non-invasive brain stimulation by transcranial direct current stimulation (tDCS) to modulate cortical excitability and hence to improve aphasia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of tDCS for improving aphasia in people who have had a stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (June 2018), CENTRAL (Cochrane Library, June 2018), MEDLINE (1948 to June 2018), Embase (1980 to June 2018), CINAHL (1982 to June 2018), AMED (1985 to June 2018), Science Citation Index (1899 to June 2018), and seven additional databases. We also searched trial registers and reference lists, handsearched conference proceedings and contacted authors and equipment manufacturers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomised controlled trials (RCTs) and randomised controlled cross-over trials (from which we only analysed the first period as a parallel group design) comparing tDCS versus control in adults with aphasia due to stroke."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and risk of bias, and extracted data. If necessary, we contacted study authors for additional information. We collected information on dropouts and adverse events from the trials."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 trials involving 421 participants in the qualitative synthesis. Three studies with 112 participants used formal outcome measures for our primary outcome measure of functional communication — that is, measuring aphasia in a real-life communicative setting. There was no evidence of an effect (standardised mean difference (SMD) 0.17, 95% confidence interval (CI) −0.20 to 0.55; P = 0.37; I² = 0%; low quality of evidence; inverse variance method with random-effects model; higher SMD reflecting benefit from tDCS; moderate quality of evidence). At follow-up, there also was no evidence of an effect (SMD 0.14, 95% CI −0.31 to 0.58; P = 0.55; 80 participants ; 2 studies; I² = 0%; very low quality of evidence; higher SMD reflecting benefit from tDCS; moderate quality of evidence).\nFor our secondary outcome measure, accuracy in naming nouns at the end of intervention, there was evidence of an effect (SMD 0.42, 95% CI 0.19 to 0.66; P = 0.0005; I² = 0%; 298 participants; 11 studies; inverse variance method with random-effects model; higher SMD reflecting benefit from tDCS; moderate quality of evidence). There was an effect for the accuracy in naming nouns at follow-up (SMD 0.87, 95% CI 0.25 to 1.48; P = 0.006; 80 participants; 2 studies; I² = 32%; low quality of evidence); however the results were not statistically significant in our sensitivity analysis regarding the assumptions of the underlying correlation coefficient for imputing missing standard deviations of change scores. There was no evidence of an effect regarding accuracy in naming verbs post intervention (SMD 0.19, 95% CI −0.68 to 1.06; P = 0.67; I² = 0%; 21 participants; 3 studies; very low quality of evidence). We found no studies examining the effect of tDCS on cognition in people with aphasia after stroke. We did not find reported serious adverse events and the proportion of dropouts and adverse events was comparable between groups (odds ratio (OR) 0.54, 95% CI 0.21 to 1.37; P = 0.19; I² = 0%; Mantel-Haenszel method with random-effects model; 345 participants; 15 studies; low quality of evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently there is no evidence of the effectiveness of tDCS (anodal tDCS, cathodal tDCS and Dual-tDCS) versus control (sham tDCS) for improving functional communication in people with aphasia after stroke (low quality of evidence). However, there is limited evidence that tDCS may improve naming performance in naming nouns (moderate quality of evidence), but not verbs (very low quality of evidence) at the end of the intervention period and possibly also at follow-up. Further methodologically rigorous RCTs with adequate sample size calculation are needed in this area to determine the effectiveness of this intervention. Data on functional communication and on adverse events should routinely be collected and presented in further publications as well as data at follow-up. Further study on the relationship between language/aphasia and cognition may be required, and improved cognitive assessments for patients with aphasia developed, prior to the use of tDCS to directly target cognition in aphasia. Authors should state total values at post-intervention as well as their corresponding change scores with standard deviations."
+    }
+  ],
+  "pls_title": "Direct electrical current to the brain for language difficulties after stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To assess the effects of tDCS for improving language difficulties in people who have had a stroke."
+    },
+    {
+      "heading": "Background",
+      "text": "Stroke is one of the leading causes of disability worldwide. Most strokes take place when a blood clot blocks a blood vessel leading to the brain. Without a proper blood supply the brain quickly suffers damage, which can be permanent, and this damage often causes language difficulties (aphasia) among stroke survivors. People with aphasia after stroke have difficulties in communicative settings, i.e. understanding or producing language, or both. Current speech and language therapy (SLT) strategies have limited effectiveness in improving these language difficulties. One possibility for enhancing the effects of SLT might be the addition of non-invasive brain stimulation provided by a technique known as transcranial direct current stimulation (tDCS). This technique manipulates brain functions and may be used to improve language difficulties. However, the effectiveness of this intervention for improving SLT outcomes is still unknown."
+    },
+    {
+      "heading": "Search date",
+      "text": "The search of this review is current to 12 June 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The review included 21 clinical trials comparing tDCS versus sham tDCS involving 421 participants with aphasia due to first-time stroke."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found no evidence that tDCS may help improve language recovery in terms of everyday communication or thinking abilities. However, there is limited evidence that tDCS may improve a person’s ability to name nouns. We could not identify any serious harmful effects and the number of harmful events and withdrawals from the trials was not increased. Further trials are needed in this area to determine whether this treatment works in routine practice. Authors of future research should adhere to current research quality standards."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was very low to moderate."
+    }
+  ]
+}

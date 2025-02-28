@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD003200.pub9",
+  "name": "Exercise therapy for chronic fatigue syndrome",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic fatigue syndrome (CFS) or myalgic encephalomyelitis (ME) is a serious disorder characterised by persistent postexertional fatigue and substantial symptoms related to cognitive, immune and autonomous dysfunction. There is no specific diagnostic test, therefore diagnostic criteria are used to diagnose CFS. The prevalence of CFS varies by type of diagnostic criteria used. Existing treatment strategies primarily aim to relieve symptoms and improve function. One treatment option is exercise therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objective of this review was to determine the effects of exercise therapy for adults with CFS compared with any other intervention or control on fatigue, adverse outcomes, pain, physical functioning, quality of life, mood disorders, sleep, self-perceived changes in overall health, health service resources use and dropout."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Common Mental Disorders Group controlled trials register, CENTRAL, and SPORTDiscus up to May 2014, using a comprehensive list of free-text terms for CFS and exercise. We located unpublished and ongoing studies through the World Health Organization International Clinical Trials Registry Platform up to May 2014. We screened reference lists of retrieved articles and contacted experts in the field for additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) about adults with a primary diagnosis of CFS, from all diagnostic criteria, who were able to participate in exercise therapy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently performed study selection, 'Risk of bias' assessments and data extraction. We combined continuous measures of outcomes using mean differences (MDs) or standardised mean differences (SMDs). To facilitate interpretation of SMDs, we re-expressed SMD estimates as MDs on more common measurement scales. We combined dichotomous outcomes using risk ratios (RRs). We assessed the certainty of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight RCTs with data from 1518 participants.\nExercise therapy lasted from 12 weeks to 26 weeks. The studies measured effect at the end of the treatment and at long-term follow-up, after 50 weeks or 72 weeks.\nSeven studies used aerobic exercise therapies such as walking, swimming, cycling or dancing, provided at mixed levels in terms of intensity of the aerobic exercise from very low to quite rigorous, and one study used anaerobic exercise. Control groups consisted of passive control, including treatment as usual, relaxation or flexibility (eight studies); cognitive behavioural therapy (CBT) (two studies); cognitive therapy (one study); supportive listening (one study); pacing (one study); pharmacological treatment (one study) and combination treatment (one study).\nMost studies had a low risk of selection bias. All had a high risk of performance and detection bias.\nExercise therapy compared with 'passive' control\nExercise therapy probably reduces fatigue at end of treatment (SMD −0.66, 95% CI −1.01 to −0.31; 7 studies, 840 participants; moderate-certainty evidence; re-expressed MD −3.4, 95% CI −5.3 to −1.6; scale 0 to 33). We are uncertain if fatigue is reduced in the long term because the certainty of the evidence is very low (SMD −0.62, 95 % CI −1.32 to 0.07; 4 studies, 670 participants; re-expressed MD −3.2, 95% CI −6.9 to 0.4; scale 0 to 33).\nWe are uncertain about the risk of serious adverse reactions because the certainty of the evidence is very low (RR 0.99, 95% CI 0.14 to 6.97; 1 study, 319 participants).\nExercise therapy may moderately improve physical functioning at end of treatment, but the long-term effect is uncertain because the certainty of the evidence is very low. Exercise therapy may also slightly improve sleep at end of treatment and at long term. The effect of exercise therapy on pain, quality of life and depression is uncertain because evidence is missing or of very low certainty.\nExercise therapy compared with CBT\nExercise therapy may make little or no difference to fatigue at end of treatment (MD 0.20, 95% CI -1.49 to 1.89; 1 study, 298 participants; low-certainty evidence), or at long-term follow-up (SMD 0.07, 95% CI −0.13 to 0.28; 2 studies, 351 participants; moderate-certainty evidence).\nWe are uncertain about the risk of serious adverse reactions because the certainty of the evidence is very low (RR 0.67, 95% CI 0.11 to 3.96; 1 study, 321 participants).\nThe available evidence suggests that there may be little or no difference between exercise therapy and CBT in physical functioning or sleep (low-certainty evidence) and probably little or no difference in the effect on depression (moderate-certainty evidence). We are uncertain if exercise therapy compared to CBT improves quality of life or reduces pain because the evidence is of very low certainty.\nExercise therapy compared with adaptive pacing\nExercise therapy may slightly reduce fatigue at end of treatment (MD −2.00, 95% CI −3.57 to −0.43; scale 0 to 33; 1 study, 305 participants; low-certainty evidence) and at long-term follow-up (MD −2.50, 95% CI −4.16 to −0.84; scale 0 to 33; 1 study, 307 participants; low-certainty evidence).\nWe are uncertain about the risk of serious adverse reactions (RR 0.99, 95% CI 0.14 to 6.97; 1 study, 319 participants; very low-certainty evidence).\nThe available evidence suggests that exercise therapy may slightly improve physical functioning, depression and sleep compared to adaptive pacing (low-certainty evidence). No studies reported quality of life or pain.\nExercise therapy compared with antidepressants\nWe are uncertain if exercise therapy, alone or in combination with antidepressants, reduces fatigue and depression more than antidepressant alone, as the certainty of the evidence is very low. The one included study did not report on adverse reactions, pain, physical functioning, quality of life, sleep or long-term results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Exercise therapy probably has a positive effect on fatigue in adults with CFS compared to usual care or passive therapies. The evidence regarding adverse effects is uncertain. Due to limited evidence it is difficult to draw conclusions about the comparative effectiveness of CBT, adaptive pacing or other interventions. All studies were conducted with outpatients diagnosed with 1994 criteria of the Centers for Disease Control and Prevention or the Oxford criteria, or both. Patients diagnosed using other criteria may experience different effects."
+    }
+  ],
+  "pls_title": "Exercise as treatment for adults with chronic fatigue syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "People with chronic fatigue syndrome have long-lasting fatigue, joint pain, headaches, sleep problems, poor concentration and short-term memory. These symptoms cause significant disability and distress. We wanted to find out whether exercise therapy can help people with chronic fatigue syndrome (myalgic encephalomyelitis)."
+    },
+    {
+      "heading": "Key messages",
+      "text": "People who have exercise therapy probably have less fatigue at the end of treatment than those who receive more passive therapies. We are uncertain if this improvement lasts in the long term. We are also uncertain about the risk of serious side effects from exercise therapy."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "We explored whether exercise therapy can reduce chronic fatigue syndrome symptoms. We searched for studies comparing the effect of exercise therapy with treatment as usual or other therapies."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found eight studies with 1518 participants. The studies compared participants who received exercise therapy to participants who received treatment as usual or more active treatments such as cognitive behavioural therapy.\nParticipants had exercise therapy for 12 weeks to 26 weeks. The studies measured the effect of the therapy at the end of the treatment and also long term, after 50 or 72 weeks. Participants exercised at different levels of intensity using variations of aerobic exercising such as walking, swimming or cycling."
+    },
+    {
+      "heading": "Exercise therapy compared to treatment as usual or relaxation",
+      "text": "Participants who have exercise therapy probably have less fatigue at the end of treatment, and they may have moderately better physical functioning. We are uncertain if these improvements last long term because we are very uncertain about the evidence.\nParticipants who have exercise therapy may have slightly better sleep, both at the end of treatment and long term.\nWe are uncertain about the risk of serious side effects and the effects of exercise therapy on pain, quality of life, and depression. This is because we lack evidence or because we are very uncertain about the evidence."
+    },
+    {
+      "heading": "Exercise therapy compared to cognitive behavioural therapy",
+      "text": "Exercise therapy may make little or no difference to participants’ fatigue at end of treatment or in the long term. Exercise therapy may make little or no difference to participants’ physical functioning at end of treatment, but the long-term effect on physical functioning is uncertain.\nNo studies looked at the effect of exercise therapy on depression at the end of treatment, but it probably has little or no long-term effect.\nWe are uncertain about the risk of side effects. We are also uncertain about the effects on pain, quality of life, or sleep. This is because we lack evidence or because we are very uncertain about the evidence."
+    },
+    {
+      "heading": "Exercise therapy compared to adaptive pacing (living within limits)",
+      "text": "Participants who have exercise therapy may have slightly less fatigue and depressive symptoms and slightly better physical functioning and sleep at the end of treatment and long term than participants who have adaptive pacing.\nWe are uncertain about the risk of serious side effects. We are also uncertain about the effect on quality of life or pain. This is because we lack evidence or we are very uncertain about the evidence."
+    },
+    {
+      "heading": "Exercise therapy compared to antidepressants",
+      "text": "We are uncertain if exercise therapy is better than antidepressants at reducing fatigue. We are also uncertain of its effect on depression, side effects, pain, physical functioning, quality of life or sleep. This is because we lack evidence or we are very uncertain about the evidence."
+    },
+    {
+      "heading": "Why is this review important?",
+      "text": "Exercise therapy is recommended by treatment guidelines and often used as treatment for people with chronic fatigue syndrome. People with chronic fatigue syndrome should have the opportunity to make informed decisions about their care and treatment based on robust research evidence and whether exercise therapy is effective, either as a stand-alone intervention or as part of a treatment plan.\nIt is important to note that the evidence in this review is from people diagnosed with 1994 criteria of the Centers for Disease Control and Prevention or the Oxford criteria. People diagnosed using other criteria may experience different effects."
+    }
+  ]
+}

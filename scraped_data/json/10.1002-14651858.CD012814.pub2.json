@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012814.pub2",
+  "name": "Postoperative adjuvant chemotherapy for resectable cholangiocarcinoma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cholangiocarcinoma (cancer in the bile duct) is an aggressive tumour for which surgical resection is a mainstay of treatment. Despite complete resection, recurrences of the cancer are common and lead to poor prognosis in patients. Postoperative adjuvant chemotherapy given after surgical resection may reduce the risk of cancer recurrence by eradicating residual cancer and micrometastatic lesions. The benefits and harms of postoperative adjuvant chemotherapy versus placebo, no intervention, or other adjuvant chemotherapies are unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of postoperative adjuvant chemotherapy versus placebo, no intervention, or other adjuvant chemotherapies for people with cholangiocarcinoma after curative-intent resection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed electronic searches in the Cochrane Hepato-Biliary Group Controlled Trials Register, Cochrane Central Register of Controlled Trials, MEDLINE, Embase, LILACS, Science Citation Index Expanded, and Conference Proceedings Citation Index - Science for trials that met the inclusion criteria up to 28 April 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials irrespective of blinding, publication status, or language comparing postoperative adjuvant chemotherapy versus placebo, no intervention, or a different postoperative adjuvant chemotherapy regimen for participants with curative-intent resection for cholangiocarcinoma."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods to develop and conduct the review. We conducted meta-analyses and presented results, where feasible, using a random-effects model and risk ratios (RR) with 95% confidence intervals (CI). We assessed risk of bias according to predefined domains suggested by Cochrane. We rated the certainty of evidence using the GRADE approach and presented outcome results in a summary of findings table."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five published randomised clinical trials. The trials included 931 adults (18 to 83 years old) who underwent curative-intent resection for cholangiocarcinoma. Four trials compared postoperative adjuvant chemotherapy (mitomycin-C and 5-fluorouracil (5-FU); gemcitabine; gemcitabine plus oxaliplatin; or capecitabine) versus no postoperative adjuvant chemotherapy (surgery alone) in 867 participants with cholangiocarcinoma only. A fifth trial compared postoperative adjuvant S-1 (a novel oral fluoropyrimidine derivative) chemotherapy versus gemcitabine in 70 participants with intrahepatic cholangiocarcinoma, perihilar cholangiocarcinoma (64 participants), and gallbladder carcinoma (6 participants). We assessed all of the included trials at overall high risk of bias. One trial was conducted in France, three in Japan, and one in the United Kingdom. We could not perform all planned comparison analyses due to lack of data. Three trials used intention-to-treat analyses. Another trial used per-protocol analysis. In the remaining trial one participant in the intervention group and one in the control group were lost to follow-up. However, the outcomes of these two participants were not described.\nPostoperative adjuvant chemotherapy versus no postoperative adjuvant chemotherapy\nWe are very uncertain as to whether postoperative adjuvant chemotherapy has little to no effect on all-cause mortality versus no postoperative adjuvant chemotherapy (RR 0.92, 95% CI 0.84 to 1.01; 4 trials, 867 participants, very low-certainty evidence). We are very uncertain of the effect of postoperative adjuvant chemotherapy on serious adverse events (RR 17.82, 95% CI 2.43 to 130.82; 1 trial, 219 participants, very low-certainty evidence). The trial indicated that postoperative adjuvant chemotherapy could increase serious adverse events, as 19/113 (20.5%) of participants developed an adverse event, compared to 1/106 (1.1%) of participants in the no-postoperative adjuvant chemotherapy group. None of the included trials reported data on health-related quality of life, cancer-related mortality, time to recurrence of the tumour, and non-serious adverse events in participants with only cholangiocarcinoma.\nAdjuvant S-1 chemotherapy (fluoropyrimidine derivative) versus adjuvant gemcitabine-based chemotherapy\nThe only available trial analysed all participants with intrahepatic, perihilar cholangiocarcinoma and gallbladder carcinoma together, with data on participants with cholangiocarcinoma not provided separately. The authors reported that one-year overall mortality after adjuvant S-1 therapy was lower than with adjuvant gemcitabine-based therapy following major hepatectomy for biliary tract cancer. There were no differences in two-year overall mortality.\nFunding: two trials received support from drug companies; one trial received funding from the Japan Society of Clinical Oncology; one trial received support from \"Programme Hospitalier de Recherche Clinique (PHRC2009) and Ligue Nationale Contre le Cancer\"; and one trial did not provide information on support or sponsorship.\nWe identified six ongoing randomised clinical trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the very low-certainty evidence found in four trials in people with curative-intent resection for cholangiocarcinoma, we are very uncertain of the effects of postoperative adjuvant chemotherapy (mitomycin-C and 5-FU; gemcitabine; gemcitabine plus oxaliplatin; or capecitabine) versus no postoperative adjuvant chemotherapy on mortality. The effects of postoperative adjuvant chemotherapy compared with no postoperative adjuvant chemotherapy on serious adverse events are also very uncertain, but the result of the single trial showed 20% higher occurrences of haematologic adverse events. We assessed the certainty of the evidence as very low due to overall high risk of bias, and imprecision. Due to insufficient power of the only identified trial, the best postoperative adjuvant chemotherapy regimen in people with only cholangiocarcinoma could not be established. We also lack randomised clinical trials with outcome data on adjuvant S-1 chemotherapy versus adjuvant gemcitabine-based chemotherapy in people with cholangiocarcinoma alone. There is a need for further randomised clinical trials designed to be at low risk of bias and with adequate sample size exploring the best adjuvant chemotherapy treatment after surgery in people with cholangiocarcinoma."
+    }
+  ],
+  "pls_title": "Postoperative chemotherapy for cholangiocarcinoma that can be surgically removed",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the benefits and harms of postoperative adjuvant chemotherapy (drugs administered after surgery, aiming to kill any cancer left after the operation) versus no postoperative adjuvant chemotherapy or another type or form of chemotherapy in people who underwent resection for cholangiocarcinoma (cancer in the bile ducts) with intent to cure."
+    },
+    {
+      "heading": "Background",
+      "text": "Cholangiocarcinoma is an aggressive tumour for which surgical resection is a mainstay of treatment. Bile ducts are the drainage 'pipes' that carry bile from the liver to the gallbladder, and from the gallbladder to the small intestine. Despite complete surgical removal (resection) of the cholangiocarcinoma, recurrences of tumour are common, leading to a poor prognosis for patients. It is thought that postoperative adjuvant chemotherapy (supplementary treatment after initial treatment) given after surgical resection may reduce the risk of cancer recurrence by eliminating residual cancer and micrometastatic lesions (microtumours that have spread from a cancer to distant areas of the body). The overall benefits and harms of this type of treatment are unclear."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for published articles describing randomised clinical trials (a type of study where participants are randomly assigned to one of two or more treatment groups) to identify the role of postoperative adjuvant chemotherapy, and found five studies with a total of 931 participants. Four studies (867 participants) compared surgery and postoperative adjuvant chemotherapy (mitomycin-C and 5-fluorouracil (5-FU); gemcitabine; gemcitabine plus oxaliplatin; or capecitabine) with surgery alone (no postoperative adjuvant chemotherapy). One study (70 participants; 64 with cholangiocarcinoma and 6 with gallbladder carcinoma) compared surgery and a new adjuvant oral chemotherapy (S-1) (fluoropyrimidine derivative) versus surgery and adjuvant gemcitabine-based chemotherapy.\nFunding: two trials received support from drug companies; one trial received funding from the Japan Society of Clinical Oncology; one trial received support from \"Programme Hospitalier de Recherche Clinique (PHRC 2009) and Ligue Nationale Contre le Cancer\"; and one trial did not provide information on support or sponsorship.\nWe also identified six ongoing randomised clinical trials."
+    },
+    {
+      "heading": "Key results",
+      "text": "We are very unsure as to whether postoperative adjuvant chemotherapy has any effect on death from any cause. Only one trial reported on adverse events. Whilst this trial indicated that postoperative adjuvant chemotherapy could increase serious adverse events, this result is very uncertain due to the lack of studies (i.e. only one found) and the low number of participants. No information was available on quality of life, death from cancer, time to tumour recurrence, and non-serious adverse events."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Due to poor study quality, an insufficient number of studies, and low number of participants, the effects of postoperative adjuvant chemotherapy versus no postoperative adjuvant chemotherapy on mortality and serious adverse events are very uncertain. More randomised clinical trials designed with better study methods and larger participant numbers are needed."
+    }
+  ]
+}

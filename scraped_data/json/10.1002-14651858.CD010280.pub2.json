@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010280.pub2",
+  "name": "Mycophenolate mofetil versus methotrexate for prevention of graft‐versus‐host disease in people receiving allogeneic hematopoietic stem cell transplantation ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Allogeneic hematopoietic stem cell transplantation (allo-HCT) is associated with improved outcomes for people with various hematologic diseases; however, the morbidity and mortality resulting from acute and subsequently chronic graft-versus-host disease (GVHD) pose a serious challenge to wider applicability of allo-HCT. Intravenous methotrexate in combination with a calcineurin inhibitor, cyclosporine or tacrolimus, is a widely used regimen for the prophylaxis of acute GVHD, but the administration of methotrexate is associated with a number of adverse events. Mycophenolate mofetil, in combination with a calcineurin inhibitor, has been used extensively in people undergoing allo-HCT. Conflicting results regarding various clinical outcomes following allo-HCT have been observed when comparing mycophenolate mofetil-based regimens against methotrexate-based regimens for acute GVHD prophylaxis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective: to assess the effect of mycophenolate mofetil versus methotrexate for prevention of acute GVHD in people undergoing allo-HCT.\nSecondary objectives: to evaluate the effect of mycophenolate mofetil versus methotrexate for overall survival, prevention of chronic GVHD, incidence of relapse, treatment-related harms, nonrelapse mortality, and quality of life."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Central Register of Controlled Trials (CENTRAL) and MEDLINE from inception to March 2014. We handsearched conference abstracts from the last two meetings (2011 and 2012) of relevant societies in the field. We searched ClinicalTrials.gov, Novartis clinical trials database (www.novctrd.com), Roche clinical trial protocol registry (www.roche-trials.com), Australian New Zealand Clinical Trials Registry (ANZCTR), and the metaRegister of Controlled Trials for ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Two review authors independently reviewed all titles/abstracts and selected full-text articles for inclusion. We included all references that reported results of randomized controlled trials (RCTs) of mycophenolate mofetil versus methotrexate for the prophylaxis of GVHD among people undergoing allo-HCT in this review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data on outcomes from all studies and compared prior to data entry and analysis. We expressed results as risk ratios (RR) and 95% confidence intervals (CI) for dichotomous outcomes and hazard ratios (HR) and 95% CIs for time-to-event outcomes. We pooled the individual study effects using the random-effects model. Estimates lower than one indicate that mycophenolate mofetil was favored over methotrexate."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three trials enrolling 177 participants (174 participants analyzed). All participants in the trials by Keihl et al. and Bolwell et al. received cyclosporine while all participants enrolled in the trial by Perkins et al. received tacrolimus. However, the results did not differ by the type of calcineurin inhibitor employed (cyclosporine versus tacrolimus). There was no evidence for a difference between mycophenolate mofetil versus methotrexate for the outcomes of incidence of acute GVHD (RR 1.25; 95% CI 0.75 to 2.09; P value = 0.39, very low quality evidence), overall survival (HR 0.73; 95% CI 0.45 to 1.17; P value = 0.19, low-quality evidence), median days to neutrophil engraftment (HR 0.77; 95% CI 0.51 to 1.17; P value = 0.23, low-quality evidence), incidence of relapse (RR 0.84; 95% CI 0.52 to 1.38; P value = 0.50, low-quality evidence), non-relapse mortality (RR 1.21; 95% CI 0.62 to 2.36; P value = 0.57, low-quality evidence), and incidence of chronic GVHD (RR 0.92; 95% CI 0.65 to 1.30; P value = 0.62, low-quality evidence). There was low-quality evidence that mycophenolate mofetil compared with methotrexate improved platelet engraftment period (HR 0.87; 95% CI 0.81 to 0.93; P value < 0.0001, low-quality evidence). There was low-quality evidence that mycophenolate mofetil compared with methotrexate resulted in decreased incidence of severe mucositis (RR 0.48; 95% CI 0.32 to 0.73; P value = 0.0006, low-quality evidence), use of parenteral nutrition (RR 0.48; 95% CI 0.26 to 0.91; P value = 0.02, low-quality evidence), and medication for pain control (RR 0.76; 95% CI 0.63 to 0.91; P value = 0.002, low-quality evidence). Overall heterogeneity was not detected in the analysis except for the outcome of neutrophil engraftment. None of the included studies reported any outcomes related to quality of life. Overall quality of evidence was low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of mycophenolate mofetil compared with methotrexate for primary prevention of GVHD seems to be associated with a more favorable toxicity profile, without an apparent compromise on disease relapse, transplant-associated mortality, or overall survival. The effects on incidence of GVHD between people receiving mycophenolate mofetil compared with people receiving methotrexate were uncertain. There is a need for additional high-quality RCTs to determine the optimal GVHD prevention strategy. Future studies should take into account a comprehensive view of clinical benefit, including measures of morbidity, symptom burden, and healthcare resource utilization associated with interventions."
+    }
+  ],
+  "pls_title": "Mycophenolate mofetil versus methotrexate for prevention of graft-versus-host disease following allogeneic hematopoietic stem cell transplantation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Allogeneic hematopoietic stem cell transplantation is a procedure in which a portion of a healthy donor's stem cells (cells that can develop into various types of blood cells) or bone marrow is obtained and prepared for intravenous infusion. Hematopoietic stem cells are taken from a healthy donor and transplanted into the patient (recipient). People undergoing allogeneic hematopoietic stem cell transplantation are at risk of developing graft-versus-host disease (GVHD). GVHD results when the transplanted cells from the donor (graft) attack the recipient's (host) body cells because they perceive the recipient's body as foreign. Mycophenolate mofetil and methotrexate are two drugs often used to suppress the human body's reaction against the graft (immune response) and prevent GVHD. We conducted a systematic review of three randomized controlled trials (RCTs, which are clinical studies where people are randomly put into one of two or more treatment groups) that compared mycophenolate mofetil versus methotrexate for use in preventing GVHD among 174 participants. We searched for the relevant studies in March 2014."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "All participants in these RCTs received a drug aimed at suppressing the immune response (cyclosporine or tacrolimus). The study by Perkins and coworkers was funded by public and industry sources. The study by Kiehl and coworkers was funded by public sources. The funding source for the study by Bolwell and coworkers was not specified."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our results show no clinically meaningful difference between mycophenolate mofetil and methotrexate on length of survival, incidence of GVHD, disease relapse, or treatment-related death. People treated with mycophenolate mofetil had a shorter time to make new platelets (cells that help the blood to clot) from the donor cells compared with people treated with methotrexate. In addition, in terms of side effects, people treated with mycophenolate mofetil were less likely to have severe mucositis (inflammation of the mucus membranes), require parenteral nutrition (feeding through a vein), or pain medication.\nNone of the included studies reported any data related to quality of life.\nIn summary, mycophenolate mofetil and methotrexate both remain acceptable medications for the prevention of GVHD; however, mycophenolate mofetil seems to be associated with a smaller incidence of harms such as severe mucositis and related supportive care."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The overall quality of evidence was low."
+    }
+  ]
+}

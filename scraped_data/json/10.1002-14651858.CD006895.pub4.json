@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD006895.pub4",
+  "name": "Probiotics for preventing acute upper respiratory tract infections",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Probiotics are live micro-organisms that may give a beneficial physiological effect when administered in adequate amounts. Some trials show that probiotic strains can prevent respiratory infections. Even though our previously published review showed the benefits of probiotics for acute upper respiratory tract infections (URTIs), several new studies have been published. This is an update of a review first published in 2011 and updated in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of probiotics (any specified strain or dose), compared with placebo or no treatment, in the prevention of acute URTIs in people of all ages, at risk of acute URTIs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2022, Issue 6), MEDLINE (1950 to May week 2, 2022), Embase (1974 to 10 May 2022), Web of Science (1900 to 10 May 2022), the Chinese Biomedical Literature Database, which includes the China Biological Medicine Database (from 1978 to 10 May 2022), the Chinese Medicine Popular Science Literature Database (from 2000 to 10 May 2022), and the Master's Degree Dissertation of Beijing Union Medical College Database (from 1981 to 10 May 2022). We searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov for completed and ongoing trials on 10 May 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included individual randomised controlled trials (RCTs) and cluster-RCTs comparing probiotics with placebo or no treatment to prevent acute URTIs. The participants were children, adults, or the elderly in the community, care facilities, schools, or hospitals. Our main outcomes were the number of participants diagnosed with URTIs (at least one event and at least three events), the incidence rate (number of cases/person year) of acute URTIs, and the mean duration of an episode of URTIs. Our secondary outcomes were the number of participants who were absent from childcare centre, school, or work due to acute URTIs; the number of participants who used prescribed antibiotics for acute URTIs; and the number of participants who experienced at least one adverse event from probiotics. We excluded studies if they did not specify acute respiratory infections as 'upper'; studies with more than 50% of participants vaccinated against influenza or other acute URTIs within the last 12 months; and studies with significantly different proportions of vaccinated participants between the probiotics arm and the placebo or no treatment arm."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility of trials and extracted data using standard Cochrane methodological procedures. We analysed both intention-to-treat and per-protocol data and used a random-effects model. We expressed results as risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, both with 95% confidence intervals (CIs). We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 individual RCTs and one cluster-RCT. As one of the individual RCTs did not report outcomes in a usable way, we could only meta-analyse data from 23 trials, involving a total of 6950 participants including children (aged from one month to 11 years old), adults (mean age 37.3), and older people (mean age 84.6 years). One trial reported 22.5% flu-vaccine participants within the last 12 months, and 25.4% flu-vaccine participants during the intervention. Probiotics were more likely to be given with milk-based food in children; administered in powder form in adults; and given with milk-based food or in capsules in the elderly. Most of the studies used one or two strains (e.g. Lactobacillus plantarum HEAL9, Lactobacillus paracasei (8700:2 or N1115)) and 109 or 1011 colony-forming units (CFU)/day of probiotics for more than three months.\nWe found that probiotics may reduce the number of participants diagnosed with URTIs (at least one event) (RR 0.76, 95% CI 0.67 to 0.87; P < 0.001; 16 studies, 4798 participants; low-certainty evidence); likely reduce the number of participants diagnosed with URTIs (at least three events) (RR 0.59, 95% CI 0.38 to 0.91; P = 0.02; 4 studies, 763 participants; moderate-certainty evidence); may reduce the incidence rate (number of cases/person year) of URTIs (rate ratio 0.82, 95% CI 0.73 to 0.92, P = 0.001; 12 studies, 4364 participants; low-certainty evidence); may reduce the mean duration of an episode of acute URTIs (MD −1.22 days, 95% CI −2.12 to −0.33; P = 0.007; 6 studies, 2406 participants; low-certainty evidence); likely reduce the number of participants who used prescribed antibiotics for acute URTIs (RR 0.58, 95% CI 0.42 to 0.81; P = 0.001; 6 studies, 1548 participants; moderate-certainty evidence); and may not increase the number of participants who experienced at least one adverse event (RR 1.02, 95% CI 0.90 to 1.15; P = 0.79; 8 studies, 2456 participants; low-certainty evidence). Evidence showing a decrease in the number of people absent from childcare centre, school, or work due to acute URTIs with probiotics is very uncertain (RR 0.14, 95% CI 0.03 to 0.59; 1 study, 80 participants; very low-certainty evidence). Adverse events from probiotics were minor, and most commonly gastrointestinal symptoms, such as vomiting, flatulence, diarrhoea, and bowel pain."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, we found that probiotics were better than placebo or no treatment in preventing acute URTIs."
+    }
+  ],
+  "pls_title": "Can probiotics (live micro-organisms) prevent upper respiratory tract infections such as the common cold?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Probiotics may be beneficial in preventing at least one occurrence of acute upper respiratory tract infection (URTI), and are likely beneficial in preventing at least three occurrences of URTIs. More studies conducted in the elderly are needed. Larger, well-designed studies are needed to give better estimates of the benefits and potential harms of probiotics use."
+    },
+    {
+      "heading": "What are acute upper respiratory tract infections?",
+      "text": "Acute URTIs include colds, influenza, and infections of the throat, nose, or sinuses. Symptoms include fever, cough, pain and headaches. Most acute URTIs are caused by viruses, and usually get better within three to seven days."
+    },
+    {
+      "heading": "What are probiotics?",
+      "text": "A common description of probiotics is live micro-organisms that give a beneficial effect to the body when consumed in adequate amounts. Lactic acid bacteria and bifidobacteria are the most common types and are commonly consumed in fermented foods, such as yoghurt and soy yoghurt, or as dietary supplements."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if probiotics prevent acute URTIs in people of all ages with a healthy immune system."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated probiotics for URTIs. We compared and summarised the results of the studies, and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 24 studies. We analysed data from 6950 people, including children (aged from 1 month to 11 years old), adults (mean age 37.3 years), and older people (mean age 84.6 years) from Italy, Japan, the United States, Croatia, England, Finland, Sweden, Chile, China, Denmark, Germany, Thailand, and Turkey. It was not clear in which countries two trials were conducted. Most of the studies were conducted in the community, care facilities, schools, and hospitals for three months during the winter/spring. Probiotics were more likely to be given with milk-based food in children, in powder form in adults, and with milk-based food or capsules in the elderly. One or two strains (e.g. Lactobacillus plantarum HEAL9, Lactobacillus paracasei (8700:2 or N1115)) and 109 or 1011 colony-forming units (CFU)/day of probiotics were used in most of the studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "Probiotics may reduce the number of people diagnosed with at least one URTI by about 24%; likely reduce the number of people diagnosed with at least three URTIs by about 41%; may reduce the incidence rate (number of new cases during a specified period of time) of acute URTIs by about 18%; may reduce the mean duration of an episode of acute URTIs by about 1.22 days; likely reduce the number of people who used antibiotics for URTIs by about 42%; and may not increase the number of people who experienced side effects (any harm). Evidence showing a decrease in the number of people absent from childcare centre, school, or work due to acute URTIs with probiotics was very uncertain."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are moderately confident that probiotics decrease the number of people diagnosed with at least three URTIs and the number of people who used antibiotics for URTIs, and have low confidence in the evidence that probiotics decrease the number of people diagnosed with at least one URTI, the incidence rate of acute URTIs, the mean duration of an episode of acute URTIs, and increase the number of people who experienced side effects (any harm). Evidence showing a decrease in the number of people absent from childcare centre, school, or work due to acute URTIs with probiotics was very uncertain. The main reasons for the limitations of the evidence were that people in the studies may have known which treatment they were getting, and not all of the studies provided data about everything that we were interested in."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to 10 May 2022."
+    }
+  ]
+}

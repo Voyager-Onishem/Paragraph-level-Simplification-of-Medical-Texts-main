@@ -1,0 +1,43 @@
+{
+  "doi": "10.1002/14651858.CD007749.pub2",
+  "name": "Antioxidant supplements for liver diseases",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Several liver diseases have been associated with oxidative stress. Accordingly, antioxidants have been suggested as potential therapeutics for various liver diseases. The evidence supporting these suggestions is equivocal."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of antioxidant supplements for patients with liver diseases."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Library , MEDLINE , EMBASE , LILACS, the Science Citation Index Expanded , and Conference Proceedings Citation Index-Science to January 2011. We scanned bibliographies of relevant publications and asked experts and pharmaceutical companies for additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion randomised trials that compared antioxidant supplements (beta-carotene, vitamin A, C, E, and selenium) versus placebo or no intervention for autoimmune liver diseases, viral hepatitis, alcoholic liver disease, and cirrhosis (any aetiology)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four authors independently selected trials for inclusion and extracted data. Outcome measures were all-cause mortality, liver-related mortality, liver-related morbidity, biochemical indices at maximum follow-up in the individual trials as well as adverse events, quality-of-life measures, and cost-effectiveness. For patients with hepatitis B or C we also considered end of treatment and sustained virological response. We conducted random-effects and fixed-effect meta-analyses. Results were presented as relative risks (RR) or mean differences (MD), both with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty randomised trials with 1225 participants were included. The trials assessed beta-carotene (3 trials), vitamin A (2 trials), vitamin C (9 trials), vitamin E (15 trials), and selenium (8 trials). The majority of the trials had high risk of bias and showed heterogeneity. Overall, the assessed antioxidant supplements had no significant effect on all-cause mortality (relative risk [RR] 0.84, 95% confidence interval [CI] 0.60 to 1.19, I2 = 0%), or liver-related mortality (RR 0.89, 95% CI 0.39 to 2.05, I2 = 37%). Stratification according to the type of liver disease did not affect noticeably the results. Antioxidant supplements significantly increased activity of gamma glutamyl transpeptidase (MD 24.21 IU/l, 95% CI 6.67 to 41.75, I2 = 0%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence to support or refute antioxidant supplements in patients with liver disease. Antioxidant supplements may increase liver enzyme activity."
+    }
+  ],
+  "pls_title": "Antioxidant supplements for liver disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Beta-carotene, vitamin A, vitamin C, and vitamin E cannot be recommended for treatment of liver diseases.",
+      "text": "An imbalance between too much oxidative stress and too little antioxidative defence has been suggested to cause a variety of liver diseases. Therefore, antioxidant supplements (beta-carotene, vitamin A, vitamin C, vitamin E, and selenium) could have a potential role in patients with liver disease. The evidence on whether antioxidant supplements are effective in treatment of liver diseases is contradictory.\nIn this review treatment with antioxidant supplements of alcoholic, autoimmune, hepatitis B or hepatitis C virus liver diseases, or liver cirrhosis is assessed. The review includes 20 randomised clinical trials. In total, 1225 participants were randomised to antioxidant supplements (beta-carotene, vitamin A, vitamin C, vitamin E, and selenium) versus placebo or no intervention. The low number of randomised participants increases the risk of random errors ('play of chance'). Trial quality was low and accordingly the risk of systematic errors ('bias') was high.\nBased on the conducted randomised clinical trials, convincing evidence that beta-carotene, vitamin A, vitamin C, and vitamin E or their combinations are beneficial for treatment of alcoholic, autoimmune, hepatitis B or hepatitis C virus liver diseases, or liver cirrhosis could not be found."
+    }
+  ]
+}

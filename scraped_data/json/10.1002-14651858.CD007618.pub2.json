@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007618.pub2",
+  "name": "Nonsteroidal anti‐inflammatory drugs for assisted reproductive technology",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Despite substantial improvements in the success of treatments through assisted reproduction technologies (ART), live birth rates remain constantly low, and practitioners are seeking aetiologic treatments to improve the outcomes.\nLocal inflammatory response is believed to contribute to implantation failure, where prostaglandins may increase uterine contractions and decrease uterine receptivity, decreasing the possibility of an IVF cycle leading to successful embryo transfer. In this context, nonsteroidal anti-inflammatory drugs (NSAIDs) have been employed to inhibit the negative prostaglandin effect. They are often offered in clinical practice to improve ART outcomes, but current robust evidence on their efficacy is lacking."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of nonsteroidal anti-inflammatory drugs as co-treatments in infertile women undergoing assisted reproduction, in terms of improving live birth and miscarriage rates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We designed the search using standard Cochrane methods and performed it on databases from their inception to 20 February 2019.\nWe searched the Cochrane Gynaecology and Fertility Group Specialised Register of controlled trials, CENTRAL via the Cochrane Central Register of Studies Online, MEDLINE, Embase, CINAHL, and the trial registers for ongoing and registered trials, grey literature and treatment guidelines. We handsearched reference lists of relevant systematic reviews and RCTs, and PubMed and Google for any recent trials. There were no restrictions by language or country of origin."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All RCTs on the use of NSAIDs as co-treatment during an ART cycle compared with no use or the use of placebo or any other similar drug, along with the comparison of any NSAID to another."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures recommended by Cochrane. Our primary outcomes were live birth/ongoing pregnancy and miscarriage. We performed statistical analysis using Review Manager 5. We assessed evidence quality using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 11 RCTs (1884 women) suitable for inclusion in the review. Most studies were at unclear or high risk of bias. The main limitations in the overall quality of the evidence were high risk of bias, unexplained heterogeneity and serious imprecision and indirectness.\nThere were no data on our primary outcome — live birth per woman randomised — in any review comparisons.\nNSAIDs vs. placebo/no treatment\nWe are uncertain of an effect on ongoing pregnancy when NSAIDs were compared to placebo/no treatment (risk ratio (RR) 1.06, 95% confidence interval (CI) 0.71 to 1.59; 4 studies, 1159 participants; I² = 53%; very low quality evidence). Results suggest that if the chance of ongoing pregnancy following placebo or no treatment is assumed to be 15%, the chance following the use of NSAIDs is estimated to be between 12% and 24%. Subgroup analysis according to the type of NSAID yielded similar results.\nWe are also uncertain of an effect on miscarriage rates when NSAIDs were compared to placebo/no treatment (RR 0.62, 95% CI 0.33 to 1.16; 4 studies, 525 participants; I² = 43%; very low quality evidence). Results suggest that if the chance of miscarriage following placebo or no treatment is assumed to be 21%, the chance following the use of NSAIDs is estimated to be between 7% and 27%. The results were similar when two studies were excluded due to high risk of bias.\nConcerning the secondary outcomes, we are uncertain of an effect on clinical pregnancy rates (RR 1.23, 95% CI 1.00 to 1.52; 6 studies, 1570 participants; I² = 49%; low-quality evidence); on ectopic pregnancy (RR 0.56, 95% CI 0.05 to 5.89; 1 study, 72 participants); on multiple pregnancy (RR 2.00, 95% CI 0.18 to 21.67; 1 study, 180 participants); and on side effects (RR 1.39, 95% CI 0.02 to 119.35; 3 studies, 418 participants; I² = 79%). The evidence suggests that if the chance of clinical pregnancy following placebo or no treatment is assumed to be 30%, the chance following the use of NSAIDs is estimated to be between 31% and 45%. If the chance of ectopic pregnancy following placebo or no treatment is assumed to be 5%, the chance following the use of NSAIDs is estimated to be between 0.3% and 31%. If the chance of multiple pregnancy following placebo or no treatment is assumed to be 1%, the chance following the use of NSAIDs is estimated to be between 0.2 % and 24%.\nThere were no cases of congenital anomalies during antenatal ultrasound screening of the women in one study.\nNSAID vs. another NSAID\nOnly one study compared piroxicam with indomethacin: we are uncertain of an effect on ongoing pregnancy (RR 1.12, 95% CI 0.63 to 2.00; 1 study, 170 participants; very low quality evidence); and on miscarriage (RR 1.00, 95% CI 0.44 to 2.28; 1 study, 170 participants; very low quality evidence). The evidence suggests that if the chance of ongoing pregnancy following indomethacin is assumed to be 20%, the chance following the use of piroxicam is estimated to be between 13% and 40%; while for miscarriage, the evidence suggests that if the chance following indomethacin is assumed to be 12%, the chance following the use of piroxicam is estimated to be between 5% and 27%.\nSimilar results were reported for clinical pregnancy (RR 1.07, 95% CI 0.71 to 1.63; 1 study, 170 participants; very low quality evidence).\nThere were no data for the other outcomes specified in this review.\nNSAID vs. aspirin\nNo study reported this comparison."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently we are uncertain of an effect of the routine use of NSAIDs as co-treatments in infertile women undergoing assisted reproduction in order to improve ongoing pregnancy and miscarriage rates. This is based on available data from RCTs, where very low quality evidence showed that there is no single outcome measure demonstrating a benefit with their use. Further large, well-designed randomised placebo-controlled trials reporting on live births are required to clarify the exact role of NSAIDs."
+    }
+  ],
+  "pls_title": "Nonsteroidal anti-inflammatory drugs for assisted reproductive technology",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Researchers reviewed the evidence about the effect of nonsteroidal anti-inflammatory drugs (NSAIDs) as co-treatments when applied in infertile women undergoing assisted reproduction."
+    },
+    {
+      "heading": "Background",
+      "text": "Assisted reproductive technologies (ART) include techniques used for treating subfertility, and in vitro fertilization (IVF) is the most common. Despite both clinical and laboratory efforts and improvements in the success of these treatments, pregnancy rates remain low. Local inflammatory response is believed to cause implantation difficulties for the embryo, through the action of prostaglandins. These substances mainly cause a differentiated local inflammatory response and uterine contractions during embryo transfer, inhibiting the embryo from implanting successfully. For this reason, clinicians usually use anti-prostaglandin agents to block this action: NSAIDs are such agents. In clinical practice, they are often offered to improve ART outcomes, but evidence is based on various types of studies. Thus because there is lack of clear evidence, their efficacy and safety still remain controversial. In this Cochrane Review we have summarised the available evidence on the use of NSAIDs in infertile women undergoing IVF, in an attempt to identify gaps and limitations in our current understanding."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We performed a comprehensive literature search of the standard medical databases (from database inception to February 2019) in consultation with the Cochrane Gynaecology and Fertility Group Information Specialist, for all randomised controlled trials (studies in which participants are assigned to a treatment group using a random method) investigating the efficiency of NSAIDs compared to the use of placebo or no treatment or compared to each other in infertile women undergoing IVF. We searched for and included studies irrespective of language and country of origin. Two review authors independently selected and evaluated studies, extracted data, and attempted to contact the authors of studies for which data were missing. We found 11 studies (2384 women); data were not available in one study, so we analysed data on 1884 patients; two studies were published as abstracts in international conference reports; and we found one ongoing trial that met our inclusion requirements."
+    },
+    {
+      "heading": "Key results",
+      "text": "We are uncertain of an effect on ongoing pregnancy and miscarriage when NSAIDs were compared to placebo/no treatment. Results suggest that if the chance of ongoing pregnancy and miscarriage following placebo or no treatment is assumed to be 15% and 21%, respectively, the chance following the use of NSAIDs is estimated to be between 12% and 24%, and 7% and 27%, respectively. Only one study compared piroxicam with indomethacin: we are uncertain of an effect on ongoing pregnancy and on miscarriage. The evidence suggests that if the chance of ongoing pregnancy following indomethacin is assumed to be 20%, the chance following the use of piroxicam is estimated to be between 13% and 40%; while for miscarriage, the evidence suggests that if the chance following indomethacin is assumed to be 12%, the chance following the use of piroxicam is estimated to be between 5% and 27%.\nConcerning the secondary outcomes, we are equally uncertain of any effect.\nCurrently we are uncertain of an effect of the routine use of NSAIDs as co-treatments in infertile women undergoing assisted reproduction in order to improve pregnancy rates. This is based on available data from randomised controlled trials, where no single outcome reported in the studies demonstrated a benefit with their use."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was very low for all outcomes. This is because of several limitations including poorly reported study methods, imprecision, small study numbers and low numbers of events reported."
+    }
+  ]
+}

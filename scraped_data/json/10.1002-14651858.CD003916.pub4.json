@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003916.pub4",
+  "name": "Adjuvant radiotherapy for stage I endometrial cancer",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane review published in Issue 2, 2007. The role of radiotherapy (both pelvic external beam radiotherapy (EBRT) and vaginal intracavity brachytherapy (VBT)) in stage I endometrial cancer following hysterectomy remains controversial."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of adjuvant radiotherapy following surgery for stage I endometrial cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and the Specialised Register to end-2005 for the original review, and extended the search to January 2012 for the update."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared post-operative adjuvant radiotherapy (either EBRTor VBT, or both) versus no radiotherapy or VBT in women with stage I endometrial cancer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials and extracted data to a specifically designed data collection form. The primary outcome was overall survival. Secondary outcomes were endometrial cancer-related deaths, locoregional recurrence and distant recurrence. Meta-analyses were performed using Cochrane Review Manager Software 5.1."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight trials. Seven trials (3628 women) compared EBRT with no EBRT (or VBT), and one trial (645 women) compared VBTwith no additional treatment. We considered six of the eight trials to be of a high quality. Time-to-event data were not available for all trials and all outcomes.\nEBRT (with or without VBT) compared with no EBRT (or VBT alone) for stage I endometrial carcinoma significantly reduced locoregional recurrence (time-to-event data: five trials, 2965 women; Hazard Ratio (HR) 0.36, 95% Confidence Interval (CI) 0.25 to 0.52; and dichotomous data: seven trials, 3628 women; Risk Ratio (RR) 0.33, 95% CI 0.23 to 0.47). This reduced risk of locoregional recurrence did not translate into improved overall survival (time-to-event data: five trials, 2,965 women; HR 0.99, 95% CI 0.82 to1.20; and dichotomous data: seven trials, 3628 women; RR 0.98, 95% CI 0.83 to 1.15) or improved endometrial cancer-related survival (time-to-event data: five trials, 2965 women; HR 0.96, 95% CI 0.72 to 1.28; and dichotomous data: seven trials, 3628 women; RR 1.02, 95% CI 0.81 to 1.29) or improved distant recurrence rates (dichotomous data: seven trials, 3628 women; RR 1.04, 95% CI 0.80 to1.35).\nEBRT did not improve survival outcomes in either the intermediate-risk or high-risk subgroups, although high-risk data were limited, and a benefit of EBRT for high-risk women could not be excluded. One trial (PORTEC-2) compared EBRT with VBT in the high-intermediate risk group and reported that VBT was effective in ensuring vaginal control with a non-significant difference in loco-regional relapse rate compared to EBRT (5.1% versus 2.1%; HR 2.08, 95% CI 0.71 to 6.09; P = 0·17). In the subgroup of low-risk patients (IA/B and grade 1/2), EBRT increased the risk of endometrial carcinoma-related deaths (including treatment-related deaths) (two trials, 517 women; RR 2.64, 95% CI 1.05 to 6.66) but there was a lack of data on overall survival. We considered the evidence for the low-risk subgroup to be of a low quality.\nEBRT was associated with significantly increased severe acute toxicity (two trials, 1328 patients, RR 4.68, 95% CI 1.35 to 16.16), increased severe late toxicity (six trials, 3501 women; RR 2.58, 95% CI 1.61 to 4.11) and significant reductions in quality of life scores and rectal and bladder function more than 10 years after randomisation (one trial, 351 women) compared with no EBRT.\nOne trial of VBT versus no additional treatment in women with low-risk lesions reported a non-significant reduction in locoregional recurrence in the VBT group compared with the no additional treatment group (RR 0.39, (95% CI 0.14 to 1.09). There were no significant differences in survival outcomes in this trial."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "EBRT reduces the risk of locoregional recurrence but has no significant impact on cancer-related deaths or overall survival. It is associated with significant morbidity and a reduction in quality of life. There is no demonstrable survival advantage from adjuvant EBRT for high-risk stage I endometrial cancer, however, the meta-analyses of this subgroup were underpowered and also included high-intermediate risk women, therefore we cannot exclude a small benefit in the high-risk subgroup. EBRT may have an adverse effect on endometrial cancer survival when used to treat uncomplicated low-risk (IA/B grade 1/2) endometrial cancer. For the intermediate to high-intermediate risk group, VBT alone appears to be adequate in ensuring vaginal control compared to EBRT. Further research is needed to guide practice for lesions that are truly high risk. In addition, the definitions of risk should be standardised."
+    }
+  ],
+  "pls_title": "Adjuvant radiotherapy for stage I endometrial cancer",
+  "pls_type": "long",
+  "pls": "Women with stage I (early) endometrial cancer have a low risk of recurrence of their disease. Less than 10% of women treated with surgery alone have a recurrence after surgery. This risk is significantly higher (and may be double) for some women with high risk factors including aggressive cell types (grade 3) and deep invasion of the muscle (stage IC). External beam radiotherapy (EBRT) after surgery reduces the risk that the cancer will initially recur in the pelvis by around two-thirds compared to surgery alone, but does not reduce the risk of death.\nEBRT carries an inherent risk of lasting treatment-related side-effects and routine use should be avoided in stage I endometrial cancer. However, from the available evidence, we cannot exclude the possibility of EBRT benefiting women with high-risk stage I disease. Vaginal brachytherapy (VBT) appears to be useful in reducing locoregional recurrence and may be associated with less side-effects than EBRT."
+}

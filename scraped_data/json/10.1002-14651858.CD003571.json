@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003571",
+  "name": "Heliox for treatment of exacerbations of chronic obstructive pulmonary disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Due to its low density properties, helium-oxygen mixtures have the potential to decrease the work of breathing and possibly avoid the need for intubation and mechanical ventilation in patients with respiratory failure."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of the addition of helium/oxygen mixtures (heliox) to standard medical care during ventilated and non-ventilated acute exacerbations of COPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Randomized controlled trials were identified from the Cochrane Airways Review Group asthma Register. Primary authors and experts were contacted. References from included and excluded studies, known reviews and texts were also searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were selected for inclusion if they compared treatment with heliox to placebo (oxygen or air) in randomized controlled trials in adults with an exacerbation of COPD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data from all trials were combined using the Review Manager (version 4.1). We planned to perform: 1) random effects weighted mean difference (WMD), with 95% confidence intervals (95% CI), 2) Homogeneity of effect sizes with the Dersimonian and Laird method with p<0.1 as the cut point for significance, and 3) sensitivity analysis on different helium-oxygen mixtures (80/20 vs 70/30), and 4) methodological quality (Jadad score >2 vs. <3). An update search conducted in September 2002 identified one further excluded study."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four studies, all published between 1997 and 2000 met the inclusion criteria. Two studies compared heliox-oxygen vs. air-oxygen in decompensated COPD patients who were not ventilated. One study was performed in mechanical ventilated patients and one in patients undergoing noninvasive pressure support ventilation (NIPSV). Data could be obtained for only two of the studies. One was a randomized crossover study of 70:30 helium-oxygen vs air-oxygen that involved nineteen patients with acute severe COPD, hospitalized in an intensive care unit for NIPSV . In the patients receiving heliox, arterial PCO2 fell more; WMD 0.8 kPa (95% CI 0.26, -1.34). The second was a trial involving 47 patients with acute COPD, who presented to an Emergency Department, randomized to receive updraft nebulization of albuterol and ipratropium bromide using 80% helium and 20% oxygen or compressed air as the driving gas. Treatments were administered at 0, 20, 40, and 120 minutes after randomization. There were no significant differences in the change of FEV1 and FVC between the two groups by either the 1 or 2 hours point, although a small improvement in FEF 25-75 was significantly greater in the heliox group than in the air group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently insufficient evidence to support the use of helium-oxygen mixtures to treat acute exacerbations of COPD in either ventilated or non-ventilated patients. Suitably designed randomised controlled trials with the endpoint being the avoidance of mechanical ventilation may be justified."
+    }
+  ],
+  "pls_title": "Helium-oxygen mixture for the treatment of exacerbations of chronic obstructive pulmonary disease",
+  "pls_type": "long",
+  "pls": "Mixtures of helium and oxygen (heliox) may make breathing easier, but there is not enough evidence from trials to show whether these mixtures can relieve attacks of COPD (chronic obstructive pulmonary disease)."
+}

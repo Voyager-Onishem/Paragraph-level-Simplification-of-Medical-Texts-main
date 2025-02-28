@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005583.pub3",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Gastric cancer is the third most common cause of cancer death worldwide. Individuals infected with Helicobacter pylori have a higher likelihood of developing gastric cancer than individuals who are not infected. Eradication of H. pylori in healthy asymptomatic individuals in the general population may reduce the incidence of gastric cancer, but the magnitude of this effect is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of eradication of H. pylori in healthy asymptomatic individuals in the general population in reducing the incidence of gastric cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials by searching the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 1), MEDLINE (1946 to February 2020), and EMBASE (1974 to February 2020). We handsearched reference lists from trials selected by electronic searching to identify further relevant trials. We handsearched published abstracts from conference proceedings from the United European Gastroenterology Week (published in Gut ) and Digestive Disease Week (published in Gastroenterology) between 2001 and 2019. We contacted members of the Cochrane Upper Gastrointestinal and Pancreatic Diseases Review Group and experts in the field and asked them to provide details of outstanding clinical trials and any relevant unpublished materials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We analysed randomised controlled trials comparing at least one week of H. pylori therapy with placebo or no treatment in preventing subsequent development of gastric cancer in otherwise healthy and asymptomatic H. pylori-positive adults. Trials had to follow up participants for at least two years and needed to have at least two participants with gastric cancer as an outcome. We defined gastric cancer as any gastric adenocarcinoma, including intestinal (differentiated) or diffuse (undifferentiated) type, with or without specified histology."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We collected data on incidence of gastric cancer, incidence of oesophageal cancer, deaths from gastric cancer, deaths from any cause, and adverse effects arising due to therapy."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials met all our eligibility criteria and provided extractable data in the previous version. Following our updated search, one new RCT was identified, meaning that seven trials were included in this updated review. In addition, one previously included trial provided fully published data out to 10 years, and another previously included trial provided fully published data out to 22 years of follow-up. Four trials were at low risk of bias, one trial was at unclear risk, and two trials were at high risk of bias. Six trials were conducted in Asian populations.\nIn preventing development of subsequent gastric cancer, H. pylori eradication therapy was superior to placebo or no treatment (RR 0.54, 95% confidence interval (CI) 0.40 to 0.72, 7 trials, 8323 participants, moderate certainty evidence). Only two trials reported the effect of eradication of H. pylori on the development of subsequent oesophageal cancer. Sixteen (0.8%) of 1947 participants assigned to eradication therapy subsequently developed oesophageal cancer compared with 13 (0.7%) of 1941 participants allocated to placebo (RR 1.22, 95% CI 0.59 to 2.54, moderate certainty evidence). H. pylori eradication reduced mortality from gastric cancer compared with placebo or no treatment (RR 0.61, 95% CI 0.40 to 0.92, 4 trials, 6301 participants, moderate certainty evidence). There was little or no evidence in all-cause mortality (RR 0.97, 95% CI 0.85 to 1.12, 5 trials, 7079 participants, moderate certainty evidence). Adverse events data were poorly reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found moderate certainty evidence that searching for and eradicating H. pylori reduces the incidence of gastric cancer and death from gastric cancer in healthy asymptomatic infected Asian individuals, but we cannot necessarily extrapolate this data to other populations."
+    }
+  ],
+  "pls_title": "Helicobacter pylori treatment for the prevention of stomach cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Whether testing healthy people for Helicobacter pylori and treating those infected with a course of antibiotics decreases the number of new cases of gastric cancer."
+    },
+    {
+      "heading": "Background",
+      "text": "Helicobacter pylori (H. pylori ) is a bacteria that lives in the lining of the stomach with people usually not aware they are carrying the infection. People with H. pylori infection are more likely to develop gastric cancer than people who are not infected with the bacterium. For this reason, H. pylori is classed as carcinogenic (causing cancer) to humans. Many people worldwide die of gastric cancer every year, because by the time those affected seek the opinion of a doctor, the condition is often advanced. However, H. pylori infection is easily treatable with a one-week course of antibiotics."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "A literature search up to 02 Feburary 2020 found seven trials (containing 8323 participants, four trials at low risk of bias). Six of the studies were based in Asia."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that antibiotics for H. pylori have a small benefit in preventing gastric cancer (68 (1.6%) of 4206 participants given treatment developed gastric cancer subsequently, compared with 125 (3.0%) of 4117 given no treatment or a placebo), and in decreasing the number of deaths from gastric cancer (36 (1.1%) of 3154, compared with 59 (1.9%) of 3147); but it is unclear whether or not they increase or decrease the number of deaths due to any cause, or increase or decrease the number of cases of oesophageal cancer. Data about side effects of treatment were poorly reported."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Four trials were at low risk of bias, one trial was at unclear risk, and two trials were at high risk of bias. One study was at high risk of bias because no placebo was used for the active eradication therapy regimen, and so this part of the trial was unblinded, and the other study was at high risk of bias due to inconsistencies in data reporting at the two points of follow-up. We were unable to resolve this discrepancy despite contacting the original authors. As a result, we downgraded the quality of evidence from high to moderate due to serious risk of bias."
+    }
+  ]
+}

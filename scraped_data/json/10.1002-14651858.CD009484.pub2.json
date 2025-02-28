@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD009484.pub2",
+  "name": "Vapocoolants (cold spray) for pain treatment during intravenous cannulation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Intravenous cannulation is a painful procedure that can provoke anxiety and stress. Injecting local anaesthetic can provide analgesia at the time of cannulation, but it is a painful procedure. Topical anaesthetic creams take between 30 and 90 minutes to produce an effect. A quicker acting analgesic allows more timely investigation and treatment. Vapocoolants have been used in this setting, but studies have reported mixed results."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine effects of vapocoolants on pain associated with intravenous cannulation in adults and children. To explore variables that might affect the performance of vapocoolants, including time required for application, distance from the skin when applied and time to cannulation. To look at adverse effects associated with the use of vapocoolants."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Latin American Caribbean Health Sciences Literature (LILACS), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Institute for Scientific Information (ISI) Web of Science and the http://clinicaltrials.gov/, http://www.controlled-trials.com/ and http://www.trialscentral.org/ databases to 1 May 2015. We applied no language restrictions. We also scanned the reference lists of included papers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all blinded and unblinded randomized controlled trials (RTCs) comparing any vapocoolant with placebo or control to reduce pain during intravenous cannulation in adults and children."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently assessed trial quality and extracted data, contacted study authors for additional information and assessed included studies for risk of bias. We collected and analysed data for the primary outcome of pain during cannulation, and for the secondary outcomes of pain associated with application of the vapocoolant, first attempt success rate of intravenous cannulation, adverse events and participant satisfaction. We performed subgroup analyses for the primary outcome to examine differences based on age of participant, type of vapocoolant used, application time of vapocoolant and clinical situation (emergency vs elective). We used random-effects model meta-analysis in RevMan 5.3 and assessed heterogeneity between trial results by examining forest plots and calculating the I2 statistic."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found nine suitable studies of 1070 participants and included them in the qualitative analyses. We included eight studies of 848 participants in the meta-analysis for the primary outcome (pain during intravenous cannulation). Use of vapocoolants resulted in a reduction in pain scores as measured by a linear 100 mm visual analogue scale (VAS 100) compared with controls (difference between means -12.5 mm, 95% confidence interval (CI) -18.7 to -6.4 mm; moderate-quality evidence). We could not include in the meta-analysis one study, which showed no effects of the intervention.\nUse of vapocoolants resulted in increased pain scores at the time of application as measured by a VAS 100 compared with controls (difference between means 6.3 mm, 95% CI 2.2 to 10.3 mm; four studies, 461 participants; high-quality evidence) and led to no difference in first attempt success compared with controls (risk ratio (RR) 1.00, 95% CI 0.94 to 1.06; six studies, 812 participants; moderate-quality evidence). We documented eight minor adverse events reported in 279 vapocoolant participants (risk difference (RD) 0.03, 95% CI 0 to 0.05; five studies, 551 participants; low quality-evidence).\nThe overall risk of bias of individual studies ranged from low to high, with high risk of bias for performance and detection bias in four studies. Sensitivity analysis showed that exclusion of studies at high or unclear risk of bias did not materially alter the results of this review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-quality evidence indicates that use of a vapocoolant immediately before intravenous cannulation reduces pain during the procedure. Use of vapocoolant does not increase the difficulty of cannulation nor cause serious adverse effects but is associated with mild discomfort during application."
+    }
+  ],
+  "pls_title": "Vapocoolants (cold spray) for pain treatment during intravenous cannulation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Intravenous cannulation for blood tests or treatment is a common, often painful, procedure. Vapocoolant sprays or \"cold sprays\" are delivered onto the skin just before needle insertion to provide some pain relief. Vapocoolants offer several advantages over other pain relief techniques, particularly their rapid effects (a few seconds).\nWe reviewed the evidence showing how effective vapocoolants are in reducing the pain associated with inserting an intravenous cannula. The evidence is current to May 2015."
+    },
+    {
+      "heading": "Results",
+      "text": "We identified nine studies of 1070 participants that compared use of vapocoolants with use of placebo spray, or no spray, in children and adults undergoing intravenous cannulation in any healthcare setting. Investigators in three studies received funding from a source not reported to be involved in the study design and analysis. Vapocoolant manufacturers provided vapocoolant and placebo sprays for two studies, and were not involved in study design nor in analysis of results.\nWe found that vapocoolants are likely to reduce pain during intravenous cannulation and are not likely to make cannulation more difficult nor cause serious adverse events. We noted that application of vapocoolants caused some discomfort, but that using the spray resulted in reduced pain. Using a pain score range from 0 to 100 mm (0 = no pain and 100 = worst possible pain), we found that average pain scores were reduced by 12.5 mm in participants receiving vapocoolant spray."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the quality of the evidence was moderate rather than high. However, excluding studies of poorer quality did not materially alter the results of the review."
+    }
+  ]
+}

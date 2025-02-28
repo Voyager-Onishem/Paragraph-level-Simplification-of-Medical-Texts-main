@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD001261.pub4",
+  "name": "Vaccines for preventing typhoid fever",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Typhoid fever and paratyphoid fever continue to be important causes of illness and death, particularly among children and adolescents in south-central and southeast Asia. Two typhoid vaccines are widely available, Ty21a (oral) and Vi polysaccharide (parenteral). Newer typhoid conjugate vaccines are at varying stages of development and use. The World Health Organization has recently recommended a Vi tetanus toxoid (Vi-TT) conjugate vaccine, Typbar-TCV, as the preferred vaccine for all ages."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of vaccines for preventing typhoid fever."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In February 2018, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, Embase, LILACS, and mRCT. We also searched the reference lists of all included trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and quasi-randomized controlled trials (RCTs) comparing typhoid fever vaccines with other typhoid fever vaccines or with an inactive agent (placebo or vaccine for a different disease) in adults and children. Human challenge studies were not eligible."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied inclusion criteria and extracted data, and assessed the certainty of the evidence using the GRADE approach. We computed vaccine efficacy per year of follow-up and cumulative three-year efficacy, stratifying for vaccine type and dose. The outcome addressed was typhoid fever, defined as isolation of Salmonella enterica serovar Typhi in blood. We calculated risk ratios (RRs) and efficacy (1 − RR as a percentage) with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "In total, 18 RCTs contributed to the quantitative analysis in this review: 13 evaluated efficacy (Ty21a: 5 trials; Vi polysaccharide: 6 trials; Vi-rEPA: 1 trial; Vi-TT: 1 trial), and 9 reported on adverse events. All trials but one took place in typhoid-endemic countries. There was no information on vaccination in adults aged over 55 years of age, pregnant women, or travellers. Only one trial included data on children under two years of age.\nTy21a vaccine (oral vaccine, three doses)\nA three-dose schedule of Ty21a vaccine probably prevents around half of typhoid cases during the first three years after vaccination (cumulative efficacy 2.5 to 3 years: 50%, 95% CI 35% to 61%, 4 trials, 235,239 participants, moderate-certainty evidence). These data include patients aged 3 to 44 years.\nCompared with placebo, this vaccine probably does not cause more vomiting, diarrhoea, nausea or abdominal pain (2 trials, 2066 participants; moderate-certainty evidence), headache, or rash (1 trial, 1190 participants; moderate-certainty evidence); however, fever (2 trials, 2066 participants; moderate-certainty evidence) is probably more common following vaccination.\nVi polysaccharide vaccine (injection, one dose)\nA single dose of Vi polysaccharide vaccine prevents around two-thirds of typhoid cases in the first year after vaccination (year 1: 69%, 95% CI 63% to 74%; 3 trials, 99,979 participants; high-certainty evidence). In year 2, trial results were more variable, with the vaccine probably preventing between 45% and 69% of typhoid cases (year 2: 59%, 95% CI 45% to 69%; 4 trials, 194,969 participants; moderate-certainty evidence). These data included participants aged 2 to 55 years of age.The three-year cumulative efficacy of the vaccine may be around 55% (95% CI 30% to 70%; 11,384 participants, 1 trial; low-certainty evidence). These data came from a single trial conducted in South Africa in the 1980s in participants aged 5 to 15 years.\nCompared with placebo, this vaccine probably did not increase the incidence of fever (3 trials, 132,261 participants; moderate-certainty evidence) or erythema (3 trials, 132,261 participants; low-certainty evidence); however, swelling (3 trials, 1767 participants; moderate-certainty evidence) and pain at the injection site (1 trial, 667 participants; moderate-certainty evidence) were more common in the vaccine group.\nVi-rEPA vaccine (two doses)\nAdministration of two doses of the Vi-rEPA vaccine probably prevents between 50% and 96% of typhoid cases during the first two years after vaccination (year 1: 94%, 95% CI 75% to 99%; year 2: 87%, 95% CI 56% to 96%, 1 trial, 12,008 participants; moderate-certainty evidence). These data came from a single trial with children two to five years of age conducted in Vietnam.\nCompared with placebo, both the first and the second dose of this vaccine increased the risk of fever (1 trial, 12,008 and 11,091 participants, low-certainty evidence) and the second dose increase the incidence of swelling at the injection site (one trial, 11,091 participants, moderate-certainty evidence).\nVi-TT vaccine (two doses)\nWe are uncertain of the efficacy of administration of two doses of Vi-TT (PedaTyph) in typhoid cases in children during the first year after vaccination (year 1: 94%, 95% CI −1% to 100%, 1 trial, 1625 participants; very low-certainty evidence). These data come from a single cluster-randomized trial in children aged six months to 12 years and conducted in India. For single dose Vi-TT (Typbar-TCV), we found no efficacy trials evaluating the vaccine with natural exposure.\nThere were no reported serious adverse effects in RCTs of any of the vaccines studied."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The licensed Ty21a and Vi polysaccharide vaccines are efficacious in adults and children older than two years in endemic countries. The Vi-rEPA vaccine is just as efficacious, although data is only available for children. The new Vi-TT vaccine (PedaTyph) requires further evaluation to determine if it provides protection against typhoid fever. At the time of writing, there were only efficacy data from a human challenge setting in adults on the Vi-TT vaccine (Tybar), which clearly justify the ongoing field trials to evaluate vaccine efficacy."
+    }
+  ],
+  "pls_title": "Vaccines for preventing typhoid fever",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was studied in this review?",
+      "text": "Typhoid fever is a bacterial infection found mainly among children and adolescents in southern and eastern Asia, Africa, Latin America, and the Caribbean. Typhoid fever spreads through contaminated food, drink, or water. It is usually characterized initially by fever, headache, and abdominal symptoms, although other non-specific symptoms may be present. The infection also sometimes causes confusion or psychosis. In late stages of the infection, intestinal perforation or massive intestinal haemorrhage may occur. Treatment normally consists of antibiotics, but problems with drug-resistant bacteria strains have been reported. Improved sanitation and food hygiene are important control measures. However, these are associated with socioeconomic progress that has been slow in most affected areas. Therefore vaccination is an effective way to try to prevent this disease."
+    },
+    {
+      "heading": "What are the main results?",
+      "text": "We found 18 relevant trials that evaluated four vaccines: 9 reported on vaccine effectiveness only, 4 reported on effectiveness and side effects, and 5 reported on side effects only (we could not analyse one additional trial on adverse events that met the inclusion criteria as it did not provide enough information). The two main vaccines currently licensed for use, Ty21a and Vi polysaccharide, were effective in reducing typhoid fever in adults and children over two years in endemic countries; adverse events such as nausea, vomiting, and fever were rare. Other vaccines, such as new, modified, conjugated Vi vaccines called Vi-rEPA and Vi-TT, are in development. These could be given to infants, which would be helpful as they are probably at higher risk for infection, although further evidence for these vaccines is still needed."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies published up to 14 February 2018."
+    }
+  ]
+}

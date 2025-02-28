@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001015",
+  "name": "Lecithin for dementia and cognitive impairment",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Alzheimer's disease sufferers have been found to lack the enzyme responsible for converting choline into acetylcholine within the brain. Lecithin is a major dietary source of choline, so extra consumption may reduce the progression of dementia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of lecithin in the treatment of dementia or cognitive impairment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Dementia and Cognitive Improvement Group's Specialized Register was searched on 6 May 2004 using the terms lecithin and phosphatidylcholine. This register contains records from all major databases and many trials databases and is updated regularly. Reference lists and relevant books have been examined."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All unconfounded, randomized trials comparing lecithin with placebo in a treatment period longer than one day, in patients with dementia of the Alzheimer type, vascular dementia, mixed vascular and Alzheimer's disease, unclassified or other dementia or unclassified cognitive impairment not fulfilling the criteria for dementia are eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two reviewers and cross-checked. Meta-analyses were performed when more than one trial provided data on a comparable outcome on sufficiently similar patients. Random effects analyses were performed whenever heterogeneity between results appeared to be present. Standardised differences in mean outcome measures were used due to the use of different scales and periods of treatment. Odds ratios for dichotomous data were pooled using the Mantel-Haenszel or DerSimonian and Laird methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twelve randomized trials have been identified involving patients with Alzheimer's disease (265 patients), Parkinsonian dementia (21 patients) and subjective memory problems (90 patients). No trials reported any clear clinical benefit of lecithin for Alzheimer's disease or Parkinsonian dementia. Few trials contributed data to meta-analyses. The only statistically significant result was in favour of placebo for adverse events, based on one trial, which appears likely to be a spurious result. A dramatic result in favour of lecithin was obtained in a trial of subjects with subjective memory problems."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence from randomized trials does not support the use of lecithin in the treatment of patients with dementia. A moderate effect cannot be ruled out, but results from the small trials to date do not indicate priority for a large randomized trial."
+    }
+  ],
+  "pls_title": "Doubtful effect of lecithin as a treatment for dementia",
+  "pls_type": "long",
+  "pls": "Lecithin is a major dietary source of choline, a substance that may theoretically improve brain functioning in people with dementia or similar problems (including Alzheimer's disease). This review did not find any evidence that lecithin does have a benefit for patients with Alzheimer's disease or other forms of dementia. However, one small study has observed a dramatic benefit of lecithin in people with subjective memory problems, but there are no similar studies with which to compare it."
+}

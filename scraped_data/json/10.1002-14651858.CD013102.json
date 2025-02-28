@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013102",
+  "name": "Pharmacist services for non‐hospitalised patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This review focuses on non-dispensing services from pharmacists, i.e. pharmacists in community, primary or ambulatory-care settings, to non-hospitalised patients, and is an update of a previously-published Cochrane Review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effect of pharmacists' non-dispensing services on non-hospitalised patient outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, two other databases and two trial registers in March 2015, together with reference checking and contact with study authors to identify additional studies. We included non-English language publications. We ran top-up searches in January 2018 and have added potentially eligible studies to 'Studies awaiting classification'."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials of pharmacist services compared with the delivery of usual care or equivalent/similar services with the same objective delivered by other health professionals."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures of Cochrane and the Effective Practice and Organisation of Care Group. Two review authors independently checked studies for inclusion, extracted data and assessed risks of bias. We evaluated the overall certainty of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 116 trials comprising 111 trials (39,729 participants) comparing pharmacist interventions with usual care and five trials (2122 participants) comparing pharmacist services with services from other healthcare professionals. Of the 116 trials, 76 were included in meta-analyses. The 40 remaining trials were not included in the meta-analyses because they each reported unique outcome measures which could not be combined. Most trials targeted chronic conditions and were conducted in a range of settings, mostly community pharmacies and hospital outpatient clinics, and were mainly but not exclusively conducted in high-income countries. Most trials had a low risk of reporting bias and about 25%-30% were at high risk of bias for performance, detection, and attrition. Selection bias was unclear for about half of the included studies.\nCompared with usual care, we are uncertain whether pharmacist services reduce the percentage of patients outside the glycated haemoglobin target range (5 trials, N = 558, odds ratio (OR) 0.29, 95% confidence interval (CI) 0.04 to 2.22; very low-certainty evidence). Pharmacist services may reduce the percentage of patients whose blood pressure is outside the target range (18 trials, N = 4107, OR 0.40, 95% CI 0.29 to 0.55; low-certainty evidence) and probably lead to little or no difference in hospital attendance or admissions (14 trials, N = 3631, OR 0.85, 95% CI 0.65 to 1.11; moderate-certainty evidence). Pharmacist services may make little or no difference to adverse drug effects (3 trials, N = 590, OR 1.65, 95% CI 0.84 to 3.24) and may slightly improve physical functioning (7 trials, N = 1329, mean difference (MD) 5.84, 95% CI 1.21 to 10.48; low-certainty evidence). Pharmacist services may make little or no difference to mortality (9 trials, N = 1980, OR 0.79, 95% CI 0.56 to 1.12, low-certaintly evidence).\nOf the five studies that compared services delivered by pharmacists with other health professionals, no studies evaluated the impact of the intervention on the percentage of patients outside blood pressure or glycated haemoglobin target range, hospital attendance and admission, adverse drug effects, or physical functioning."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results demonstrate that pharmacist services have varying effects on patient outcomes compared with usual care. We found no studies comparing services delivered by pharmacists with other healthcare professionals that evaluated the impact of the intervention on the six main outcome measures. The results need to be interpreted cautiously because there was major heterogeneity in study populations, types of interventions delivered and reported outcomes.There was considerable heterogeneity within many of the meta-analyses, as well as considerable variation in the risks of bias."
+    }
+  ],
+  "pls_title": "Can services delivered by pharmacists improve patient health?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To test whether services provided by pharmacists improve patient health. We identified 116 studies to answer this question."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Some services provided by pharmacists can have positive effects on patient health, including improved management of blood pressure and physical function. The pharmacist services did not reduce hospital visits or admissions. Services delivered by pharmacists produced similar effects on patient health compared with services delivered by other healthcare professionals."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Pharmacists deliver a wide range of services to patients. We need to know which pharmacist services are effective in helping patients to improve their health. This review included studies of pharmacist services for a wide range of conditions including high blood pressure and diabetes. The review measured the effect of these services on benefits (improved health outcomes) as well as harms (unplanned hospital admissions, adverse drug effects)."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found 116 relevant studies which involved 41,851 participants. Studies were conducted in 25 countries with the USA, UK, Canada and Australia contributing most studies. Many were conducted in community pharmacies (chemist shops) and hospital outpatient clinics. The studies compared services delivered by pharmacists with either usual care or with care delivered by other health professionals. The studies were of overall high quality, although some had problems because they did not include all the relevant information needed to assess quality.\nOf the 111 studies that compared pharmacist services with usual care, 47 studies reported the most important outcomes. Compared with usual care, pharmacist services may reduce the percentage of patients whose blood pressure is outside the target range. It is uncertain whether services delivered by pharmacists reduce the number of patients with glycated haemoglobin levels outside the target range, because the certainty of the evidence is very low. Pharmacist services may make little or no difference to hospital attendance or admissions or to adverse drug effects or to death rates. Pharmacist services may slightly improve physical functioning.\nWe found no studies comparing services delivered by pharmacists with other healthcare professionals that evaluated the impact of the intervention on the six main outcome measures."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to March 2015. We ran top-up searches in January 2018 and have added potentially eligible studies to 'Studies awaiting classification'."
+    }
+  ]
+}

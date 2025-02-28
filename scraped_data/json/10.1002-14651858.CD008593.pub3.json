@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008593.pub3",
+  "name": "Irinotecan chemotherapy combined with fluoropyrimidines versus irinotecan alone for overall survival and progression‐free survival in patients with advanced and/or metastatic colorectal cancer ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chemotherapy is the treatment of choice in patients with advanced or metastatic colorectal cancer (CRC) where surgical resection of metastases is not an option. Both irinotecan (IRI) and fluoropyrimidines are often included in first- or second- line chemotherapy treatment regimens in such patients. However, it is not clear whether combining these agents is superior to irinotecan alone."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy and safety of two chemotherapeutic regimens, irinotecan monotherapy or irinotecan in combination with fluoropyrimidines, for patients with advanced CRC when administered in the first or second-line settings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases to identify randomized controlled trials: Cochrane Colorectal Cancer Group Specialised Register (January 13, 2016), Cochrane Central Register of Controlled Trials (CENTRAL)(The Cochrane Library Issue 12, 2016), Ovid MEDLINE (1950 to January 13, 2016), Ovid EMBASE (1974 to January 13, 2016), registers of controlled trials in progress, references cited in relevant publications and conference proceedings in related fields (BioMed Central and Medscape's Conference). The key authors or investigators of all eligible studies, and professionals in the field were contacted when necessary. The search from January 2016 identified one eligible study, an ongoing trial currently presented as an abstract, to be considered in an update of this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) investigating the efficacy and safety of IRI chemotherapy combined with fluoropyrimidine compared with IRI alone for the treatment of patients with advanced CRC, regardless of treatment line settings."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Study eligibility and methodological quality were assessed independently by the two authors, and any disagreement was solved by a third author. The data collected from the studies were reviewed qualitatively and quantitatively using the Cochrane Collaboration statistical software RevMan 5.3."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies were included in this review with a total of 1,726 patients. The top-up search resulted in an additional ongoing trial, the results of which have not been incorporated in this review. Among five included studies, no reduction in all-cause mortality was observed in the combination arm, with a summary hazard ratio (HR) of 0.91 (95% CI: 0.81-1.02). Longer progression-free survival was observed in those treated with the combination chemotherapy (HR: 0.68, 95% CI: 0.53-0.87), however, this result may have been driven by findings from the single first-line treatment setting study.\nThe quality of evidence for overall survival was low and for progression-free survival was moderate, mainly due to study limitation from the lack of information on randomisation methods and allocation concealment.\nThere were higher risks of toxicity outcomes grade 3 or 4 diarrhoea and grade 1 or 2 alopecia, and a lower risk of grade 3 or 4 neutropenia in controls compared to the invervention group. Evidence for toxicity has been assessed to be low to moderate quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was no overall survival benefit of the irinotecan and fluoropyrimidine treatment over irinotecan alone, thus both regimens remain reasonable options in treating patients with advanced or metastatic CRC. Given the low and moderate quality of the evidence, future studies with sufficient numbers of patients in each treatment arms are needed to clarify the benefit observed in progression-free survival with combination irinotecan and fluoropyrimidines."
+    }
+  ],
+  "pls_title": "Irinotecan chemotherapy combined with fluoropyrimidines versus irinotecan alone for overall survival and progression-free survival in patients with advanced and/or metastatic colorectal cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Patients with inoperable colorectal cancer (CRC) are likely to receive chemotherapy drugs as their primary treatment. Irinotecan (IRI) and fluoropyrimidines are two such drugs widely used in this setting, either alone or as part of multi-drug chemotherapy treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Currently, there is lack of evidence comparing the combination of IRI and fluoropyrimidine with IRI alone. Therefore it was the aim of this review to compare the two treatments for patients with inoperable advanced or metastatic CRC."
+    },
+    {
+      "heading": "Investigation and study characteristics",
+      "text": "We searched the literature on January 13, 2016. We identified five randomised controlled trials with a total of 1,726 patients comparing the combination of IRI and fluoropyrimidine with IRI alone. The search in January 2016 resulted in an additional ongoing trial, the results of which have not been incorporated in this review.\nThis review compared IRI and fluoropyrimidine with IRI alone in terms of overall survival, progression-free survival, toxicity, response rates and quality of life."
+    },
+    {
+      "heading": "Main results",
+      "text": "There is no evidence to suggest any superiority of the combination of IRI and fluoropyrimidine over IRI alone, but our results on overall survival are limited by the number of studies available to date. Longer progression-free survival was seen from adding fluoropyrimidines to IRI. Based on current evidence, both the combination regimens and IRI alone seem equally effective for treating advanced or metastatic patients. Patients in the intervention arm were less likely to develop grade 3 or 4 diarrhea and grade 1 or 2 alopecia, and more likely to have grade 3 or 4 neutropenia, compared to patients receiving IRI alone."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There was moderate quality evidence from these studies suggesting longer progression-free survival from adding fluoropyrimidines to IRI. However, findings need to be confirmed by larger, high-quality randomised clinical trials."
+    }
+  ]
+}

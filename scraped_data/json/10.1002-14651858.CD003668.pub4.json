@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003668.pub4",
+  "name": "Infant position in neonates receiving mechanical ventilation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In patients of various ages undergoing mechanical ventilation (MV), it has been observed that positions other than the standard supine position, such as the prone position, may improve respiratory parameters. The benefits of these positions have not been clearly defined for critically ill newborns receiving MV.\nThis is an update of a review first published in 2005 and last updated in 2013."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective\nTo assess the effects of different positioning of newborn infants receiving MV (supine vs prone, lateral decubitus or quarter turn from prone) in improving short-term respiratory outcomes.\nSecondary objective\nTo assess the effects of different positioning of newborn infants receiving MV on mortality and neuromotor and developmental outcomes over the long term, and on other complications of prematurity."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 8), MEDLINE via PubMed (1966 to 22 August 2016), Embase (1980 to 22 August 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 22 August 2016). We also searched clinical trials databases, conference proceedings and reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised clinical trials comparing different positions in newborns receiving mechanical ventilation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three unblinded review authors independently assessed trials for inclusion in the review and extracted study data. We used standard methodological procedures as expected by The Cochrane Collaboration and assessed the quality of the evidence using the GRADE approach. If the meta-analysis was not appropriate owing to substantial clinical heterogeneity between trials, we presented review findings in narrative format."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in this review 19 trials involving 516 participants. Seven of the included studies (N = 222) had not been evaluated in the previous review. Investigators compared several positions: prone versus supine, prone alternant versus supine, prone versus lateral right, lateral right versus supine, lateral left versus supine, lateral alternant versus supine, lateral right versus lateral left, quarter turn from prone versus supine, quarter turn from prone versus prone and good lung dependent versus good lung uppermost.\nApart from two studies that compared lateral alternant versus supine, one comparing lateral right versus supine and two comparing prone or prone alternant versus the supine position, all included studies had a cross-over design. In five studies, infants were ventilated with continuous positive airway pressure (CPAP); in the other studies, infants were treated with conventional ventilation (CV).\nRisks of bias did not differ substantially for different comparisons and outcomes. This update detects a moderate to high grade of inconsistency, similar to previous versions. However, for the analysed outcomes, the direction of effect was the same in all studies. Therefore, we consider that this inconsistency had little effect on the conclusions of the meta-analysis. When comparing prone versus supine position, we observed an increase in arterial oxygen tension (PO2) in the prone position (mean difference (MD) 5.49 mmHg, 95% confidence interval (CI) 2.92 to 8.05 mmHg; three trials; 116 participants; I2= 0). When percent haemoglobin oxygen saturation was measured with pulse oximetry (SpO2), improvement in the prone position was between 1.13% and 3.24% (typical effect based on nine trials with 154 participants; I2= 89%). The subgroup ventilated with CPAP (three trials; 59 participants) showed a trend towards improving SpO2 in the prone position compared with the supine position, although the mean difference (1.91%) was not significant (95% CI -1.14 to 4.97) and heterogeneity was extreme (I2= 95%).\nSensitivity analyses restricted to studies with low risk of selection bias showed homogeneous results and verified a small but significant effect (MD 0.64, 95% CI 0.26 to 1.02; four trials; 92 participants; I2= 0).\nWe also noted a slight improvement in the number of episodes of desaturation; it was not possible to establish whether this effect continued once the intervention was stopped. Investigators studied few adverse effects from the interventions in sufficient detail. Two studies analysed tracheal cultures of neonates after five days on MV, reporting lower bacterial colonisation in the alternating lateral position than in the supine posture. Other effects - positive or negative - cannot be excluded in light of the relatively small numbers of neonates studied."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This update of our last review in 2013 supports previous conclusions. Evidence of low to moderate quality favours the prone position for slightly improved oxygenation in neonates undergoing mechanical ventilation. However, we found no evidence to suggest that particular body positions during mechanical ventilation of the neonate are effective in producing sustained and clinically relevant improvement."
+    }
+  ],
+  "pls_title": "Best position for newborns who need assisted ventilation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "For newborn infants who need assisted ventilation, can changing the infant's body position improve breathing or other clinical outcomes including survival?"
+    },
+    {
+      "heading": "Background",
+      "text": "Newborns admitted to an intensive care unit often need help breathing (mechanical ventilation). This support is generally provided by a device placed inside the newborn's nose or mouth (which sometimes reaches the trachea), through which different pressures and concentrations of oxygen are sent.The usual practice is to position the newborn in supine (face-up) position during ventilation. However, it is not certain whether other positions, for example, “face-down” (prone position), could be more advantageous for breathing or other pursuits, including survival. This is an update of previously published reviews."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is up to date as of August 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included in this review 19 trials involving 516 participants. Comparisons included supine position versus prone and different lateral positions (right, left, alternant or quarter for prone). The outcome most often reported in these studies was change in oxygenation."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found no clear evidence that particular body positions in newborn babies who need assisted ventilation are effective in producing relevant and sustained improvement. However, putting infants who receive assisted ventilation in the face-down (prone) position for a short time slightly improves levels of oxygen in the blood (evidence of moderate quality), and these infants undergo fewer episodes of poor oxygenation (evidence of low quality).\nResearchers described no adverse effects for any of the positions compared, although studies did not last long enough for investigators to detect all possible effects. What's more, most of the babies participating in the studies were placed in alternate positions. For this reason, medium- or long-term adverse effects cannot be attributed to a given position."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Confidence in review conclusions depends on the characteristics of included studies such as risk of bias (design limitations), consistency (heterogeneity across studies), precision (small confidence interval) and directness (same effect), and requires that all included studies were published independently of their outcomes.\nThe quality of evidence for these outcomes allows us to have very low to moderate confidence in our conclusions."
+    }
+  ]
+}

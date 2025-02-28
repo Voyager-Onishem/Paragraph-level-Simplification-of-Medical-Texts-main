@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD012558.pub2",
+  "name": "Clinical judgement by primary care physicians for the diagnosis of all‐cause dementia or cognitive impairment in symptomatic people ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In primary care, general practitioners (GPs) unavoidably reach a clinical judgement about a patient as part of their encounter with patients, and so clinical judgement can be an important part of the diagnostic evaluation. Typically clinical decision making about what to do next for a patient incorporates clinical judgement about the diagnosis with severity of symptoms and patient factors, such as their ideas and expectations for treatment. When evaluating patients for dementia, many GPs report using their own judgement to evaluate cognition, using information that is immediately available at the point of care, to decide whether someone has or does not have dementia, rather than more formal tests."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of GPs’ clinical judgement for diagnosing cognitive impairment and dementia in symptomatic people presenting to primary care. To investigate the heterogeneity of test accuracy in the included studies."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (Ovid SP), Embase (Ovid SP), PsycINFO (Ovid SP), Web of Science Core Collection (ISI Web of Science), and LILACs (BIREME) on 16 September 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected cross-sectional and cohort studies from primary care where clinical judgement was determined by a GP either prospectively (after consulting with a patient who has presented to a specific encounter with the doctor) or retrospectively (based on knowledge of the patient and review of the medical notes, but not relating to a specific encounter with the patient). The target conditions were dementia and cognitive impairment (mild cognitive impairment and dementia) and we included studies with any appropriate reference standard such as the Diagnostic and Statistical Manual of Mental Disorders (DSM), International Classification of Diseases (ICD), aetiological definitions, or expert clinical diagnosis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened titles and abstracts for relevant articles and extracted data separately with differences resolved by consensus discussion. We used QUADAS-2 to evaluate the risk of bias and concerns about applicability in each study using anchoring statements. We performed meta-analysis using the bivariate method."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 18,202 potentially relevant articles, of which 12,427 remained after de-duplication. We assessed 57 full-text articles and extracted data on 11 studies (17 papers), of which 10 studies had quantitative data. We included eight studies in the meta-analysis for the target condition dementia and four studies for the target condition cognitive impairment. Most studies were at low risk of bias as assessed with the QUADAS-2 tool, except for the flow and timing domain where four studies were at high risk of bias, and the reference standard domain where two studies were at high risk of bias. Most studies had low concern about applicability to the review question in all QUADAS-2 domains.\nAverage age ranged from 73 years to 83 years (weighted average 77 years). The percentage of female participants in studies ranged from 47% to 100%. The percentage of people with a final diagnosis of dementia was between 2% and 56% across studies (a weighted average of 21%). For the target condition dementia, in individual studies sensitivity ranged from 34% to 91% and specificity ranged from 58% to 99%. In the meta-analysis for dementia as the target condition, in eight studies in which a total of 826 of 2790 participants had dementia, the summary diagnostic accuracy of clinical judgement of general practitioners was sensitivity 58% (95% confidence interval (CI) 43% to 72%), specificity 89% (95% CI 79% to 95%), positive likelihood ratio 5.3 (95% CI 2.4 to 8.2), and negative likelihood ratio 0.47 (95% CI 0.33 to 0.61).\nFor the target condition cognitive impairment, in individual studies sensitivity ranged from 58% to 97% and specificity ranged from 40% to 88%. The summary diagnostic accuracy of clinical judgement of general practitioners in four studies in which a total of 594 of 1497 participants had cognitive impairment was sensitivity 84% (95% CI 60% to 95%), specificity 73% (95% CI 50% to 88%), positive likelihood ratio 3.1 (95% CI 1.4 to 4.7), and negative likelihood ratio 0.23 (95% CI 0.06 to 0.40).\nIt was impossible to draw firm conclusions in the analysis of heterogeneity because there were small numbers of studies. For specificity we found the data were compatible with studies that used ICD-10, or applied retrospective judgement, had higher reported specificity compared to studies with DSM definitions or using prospective judgement. In contrast for sensitivity, we found studies that used a prospective index test may have had higher sensitivity than studies that used a retrospective index test."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Clinical judgement of GPs is more specific than sensitive for the diagnosis of dementia. It would be necessary to use additional tests to confirm the diagnosis for either target condition, or to confirm the absence of the target conditions, but clinical judgement may inform the choice of further testing. Many people who a GP judges as having dementia will have the condition. People with false negative diagnoses are likely to have less severe disease and some could be identified by using more formal testing in people who GPs judge as not having dementia. Some false positives may require similar practical support to those with dementia, but some - such as some people with depression - may suffer delayed intervention for an alternative treatable pathology."
+    }
+  ],
+  "pls_title": "Why is improving dementia diagnosis important?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Dementia refers to a group of brain conditions that lead to progressive problems with memory, working-things-out, or functioning in everyday life. Doctors use a variety of tests to diagnose dementia. People have often reported that it can take a long time to get a diagnosis of dementia from initially presenting to a healthcare provider with symptoms suggestive of dementia.\nCognitive impairment is a broader term that includes people whose brain is not functioning as well as expected given their age, but they do not have dementia, as well as people with dementia. Some people with cognitive impairment who do not have dementia may have a condition called mild cognitive impairment (MCI). Some people with MCI (but not all) will develop dementia over time."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The review authors aimed to investigate the diagnostic accuracy of clinical judgement of general practitioners (GPs) for diagnosing dementia, and cognitive impairment, in primary care."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "The authors included extracted data from 11 studies, including 10 with complete data on diagnostic accuracy. The authors included eight studies in the statistical summary with a total of 2790 people, of whom 826 (30%) had dementia. The authors included four studies that investigated cognitive impairment as the condition to diagnose, with a total of 1497 people of whom 594 had cognitive impairment (40%)."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The results of the review indicate that in theory, if GPs used their clinical judgement in practice for dementia, they would correctly identify 58% of the people who have dementia as having the condition (sensitivity) and 89% of the people who do not have dementia as being free of the condition (specificity).\nThe results of the review indicate that in theory, if GPs used their clinical judgement in practice for cognitive impairment, they would correctly identify 84% of the people who have cognitive impairment as having the condition (sensitivity) and 73% of the people who do not have cognitive impairment as being free of the condition (specificity)."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "In this review there were some technical problems with the design of the original studies, and there were differences between studies that made it difficult to compare them to each other. This means that it is difficult to be certain how applicable these findings are in clinical practice."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Researchers who conducted the studies in the review carried out their investigations mostly in Europe, with one study in the USA and one study in Australia. All studies included people attending their GP. Average age ranged from 73 years to 83 years (weighted average 77 years). The percentage of female participants in studies ranged from 47% to 100%. The percentage of people with a final diagnosis of dementia was between 2% and 56% across studies (a weighted average of 21%). If applying these findings in settings with fewer number of people with dementia then the accuracy of the test may be different."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "If these studies are indeed representative of GPs practice, then if GPs used their clinical judgement alone to diagnose dementia then this might mean that some people with dementia are incorrectly 'missed', and it is important to do further tests to confirm that the person does not have a problem. However, if a GP thinks someone has dementia there is a good chance that the diagnosis is correct and the test to confirm dementia might be different and potentially less time consuming and burdensome. The studies included in this review suggest that clinical judgement could be a useful test to determine what to do next."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for and used studies published up to 16 September 2021."
+    }
+  ]
+}

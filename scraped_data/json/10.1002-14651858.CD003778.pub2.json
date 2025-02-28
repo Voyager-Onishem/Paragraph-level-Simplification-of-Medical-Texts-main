@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003778.pub2",
+  "name": "Glucocorticosteroids for primary biliary cirrhosis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Primary biliary cirrhosis is a chronic progressive cholestatic liver disease of presumed autoimmune etiology, characterised by the destruction of small intrahepatic bile ducts and the eventual development of cirrhosis and liver failure. Its progression may be influenced by immunosuppression. Glucocorticosteroids are potent immunosuppressive agents, but they are associated with significant adverse effects, including osteoporosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically evaluate the beneficial and harmful effects of glucocorticosteroids versus placebo or no intervention for patients with primary biliary cirrhosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hepato-Biliary Controlled Trials Register, The Cochrane Library , MEDLINE , EMBASE, and the full text of the identified studies were searched until June 2004. The search strategy included terms for primary biliary cirrhosis and glucocorticosteroids (including the names of frequently used preparations). Previous research groups and manufacturers were contacted for additional references. No language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Double-blind, single-blind, or unblinded randomised clinical trials evaluating any preparation of glucocorticosteroids versus placebo or no intervention in patients with primary biliary cirrhosis diagnosed by abnormal liver function tests and either anti-mitochondrial antibodies or histology were included. Additional agents were allowed if they were administered to both groups equally."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The quality of the randomised clinical trials was evaluated by methodology components (generation of allocation sequence; allocation concealment; blinding; follow up). Analyses were performed according to the intention-to-treat method with missing data being accounted for by imputation."
+    },
+    {
+      "heading": "Main results",
+      "text": "Only two underpowered trials (reporting 36 and 40 patients) were identified. These differed markedly in their inclusion criteria and treatment protocols. Both stated that they used placebo. However, allocation concealment was unclear. Only one trial reported any patient deaths. No significant improvement in mortality was identified (odds ratio (OR) 0.42, 95% confidence interval (CI) 0.10 to 1.76). Improvements in serum markers of liver inflammation and liver histology were identified. Potentially prognostically linked markers such as bilirubin and albumin were incompletely reported. Bone mineral density (weighted mean difference -2.84%, 95% CI -4.16 to -1.53) and the number of patients with any adverse event (OR 8.99, 95% CI 2.15 to 37.58) were significantly increased in the glucocorticosteroid group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient data to support or reject the use of glucocorticosteroids for patients with primary biliary cirrhosis. It may be appropriate to consider a large prospective randomised clinical trial on this topic."
+    }
+  ],
+  "pls_title": "No evidence to support or refute glucocorticosteroids for patients with primary biliary cirrhosis",
+  "pls_type": "long",
+  "pls": "Primary biliary cirrhosis is a chronic progressive cholestatic liver disease of presumed autoimmune aetiology. The clinical course might be improved by glucocorticosteroids. Only two small randomised clinical trials on this topic were identified. The trials were not large enough in terms of sample size or length of follow up to allow changes in mortality to be adequately evaluated. Glucocorticosteroids were associated with improvement in serum markers of inflammation and liver histology, both of which were of uncertain clinical significance. Glucocorticosteroids were also associated with adverse events, including reduced bone mineral density. Further trials are necessary if the effectiveness of glucocorticosteroids is to be properly evaluated."
+}

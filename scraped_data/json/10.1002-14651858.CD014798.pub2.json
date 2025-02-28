@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014798.pub2",
+  "name": "Magnetic resonance imaging for the diagnosis of hepatocellular carcinoma in adults with chronic liver disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hepatocellular carcinoma occurs mostly in people with chronic liver disease and ranks sixth in terms of global incidence of cancer, and third in terms of cancer deaths. In clinical practice, magnetic resonance imaging (MRI) is used as a second-line diagnostic imaging modality to confirm the presence of focal liver lesions suspected as hepatocellular carcinoma on prior diagnostic test such as abdominal ultrasound or alpha-fetoprotein, or both, either in surveillance programmes or in clinical settings. According to current guidelines, a single contrast-enhanced imaging study (computed tomography (CT) or MRI) showing typical hallmarks of hepatocellular carcinoma in people with cirrhosis is considered valid to diagnose hepatocellular carcinoma. The detection of hepatocellular carcinoma amenable to surgical resection could improve the prognosis. However, a significant number of hepatocellular carcinomas do not show typical hallmarks on imaging modalities, and hepatocellular carcinoma may, therefore, be missed. There is no clear evidence of the benefit of surveillance programmes in terms of overall survival: the conflicting results can be a consequence of inaccurate detection, ineffective treatment, or both. Assessing the diagnostic accuracy of MRI may clarify whether the absence of benefit could be related to underdiagnosis. Furthermore, an assessment of the accuracy of MRI in people with chronic liver disease who are not included in surveillance programmes is needed for either ruling out or diagnosing hepatocellular carcinoma."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary: to assess the diagnostic accuracy of MRI for the diagnosis of hepatocellular carcinoma of any size and at any stage in adults with chronic liver disease.\nSecondary: to assess the diagnostic accuracy of MRI for the diagnosis of resectable hepatocellular carcinoma in adults with chronic liver disease, and to identify potential sources of heterogeneity in the results."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Hepato-Biliary Group Diagnostic Test of Accuracy Studies Register, the Cochrane Library, MEDLINE, Embase, and three other databases to 9 November 2021. We manually searched articles retrieved, contacted experts, handsearched abstract books from meetings held during the last 10 years, and searched for literature in OpenGrey (9 November 2021). Further information was requested by e-mails, but no additional information was provided. No data was obtained through correspondence with investigators. We applied no language or document-type restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies assessing the diagnostic accuracy of MRI for the diagnosis of hepatocellular carcinoma in adults with chronic liver disease, with cross-sectional designs, using one of the acceptable reference standards, such as pathology of the explanted liver and histology of resected or biopsied focal liver lesion with at least a six-month follow-up."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently screened studies, extracted data, and assessed the risk of bias and applicability concerns, using the QUADAS-2 checklist. We presented the results of sensitivity and specificity, using paired forest plots, and we tabulated the results. We used a hierarchical meta-analysis model where appropriate. We presented uncertainty of the accuracy estimates using 95% confidence intervals (CIs). We double-checked all data extractions and analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 34 studies, with 4841 participants. We judged all studies to be at high risk of bias in at least one domain because most studies used different reference standards, often inappropriate to exclude the presence of the target condition, and the time interval between the index test and the reference standard was rarely defined. Regarding applicability, we judged 15% (5/34) of studies to be at low concern and 85% (29/34) of studies to be at high concern mostly owing to characteristics of the participants, most of whom were on waiting lists for orthotopic liver transplantation, and due to pathology of the explanted liver being the only reference standard.\nMRI for hepatocellular carcinoma of any size and stage: sensitivity 84.4% (95% CI 80.1% to 87.9%) and specificity 93.8% (95% CI 90.1% to 96.1%) (34 studies, 4841 participants; low-certainty evidence).\nMRI for resectable hepatocellular carcinoma: sensitivity 84.3% (95% CI 77.6% to 89.3%) and specificity 92.9% (95% CI 88.3% to 95.9%) (16 studies, 2150 participants; low-certainty evidence).\nThe observed heterogeneity in the results remains mostly unexplained. The sensitivity analyses, which included only studies with clearly prespecified positivity criteria and only studies in which the reference standard results were interpreted without knowledge of the results of the index test, showed no variation in the results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found that using MRI as a second-line imaging modality to diagnose hepatocellular carcinoma of any size and stage, 16% of people with hepatocellular carcinoma would be missed, and 6% of people without hepatocellular carcinoma would be unnecessarily treated. For resectable hepatocellular carcinoma, we found that 16% of people with resectable hepatocellular carcinoma would improperly not be resected, while 7% of people without hepatocellular carcinoma would undergo inappropriate surgery. The uncertainty resulting from the high risk of bias in the included studies and concerns regarding their applicability limit our ability to confidently draw conclusions based on our results."
+    }
+  ],
+  "pls_title": "How accurate are magnetic resonance imaging (MRI) scans for detecting liver cancer?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "In people with chronic liver disease, magnetic resonance imaging (MRI: cross-sectional scans inside the body) probably misses liver cancer in 16% of people, who would not receive timely or appropriate treatment, and incorrectly finds liver cancer in 6% of people, who would receive unnecessary treatment.\nMRI probably misses liver cancer in 16% of people with liver cancer who could have surgery to remove part of their liver, and incorrectly finds liver cancer in 7% of people who undergo inappropriate surgery.\nThe studies were at high risk of bias and too different from each other to allow us to draw firm conclusions based on the evidence."
+    },
+    {
+      "heading": "Why is it important to diagnose liver cancer accurately?",
+      "text": "Liver cancer, or 'hepatocellular carcinoma', occurs mostly in people with chronic liver disease, regardless of the cause. It is the sixth most common cancer in the world and the third most common cause of deaths due to cancer. It is difficult to diagnose because early symptoms are similar to those of liver disease. People with blood test or ultrasound results that suggest liver cancer may go on to have further tests, such as scans that produce images of the liver, or biopsy where a small piece of the liver is removed and examined. If liver cancer is detected early, people may be treated with surgery to remove part of the liver (called a liver resection) or with a liver transplant. If the liver cancer is more advanced, they may need chemotherapy. If liver cancer is missed at the diagnostic test, people will not receive appropriate treatment. However, incorrectly diagnosing liver cancer when it is not present means that people may undergo unnecessary testing or treatment."
+    },
+    {
+      "heading": "What is magnetic resonance imaging (MRI) and how might it diagnose liver cancer?",
+      "text": "MRI produces images that show a cross-section or 'slice' of the bones, blood vessels, and tissues inside the body. The images are a series of signal intensities that are directed and combined by a computer. MRI scans can detect the presence of abnormalities in the liver that might be cancer. Current guidelines recommend using either MRI or another type of imaging, computed tomography, or a combination to confirm the presence of liver cancer in people who might have liver cancer."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if MRI is accurate enough to diagnose liver cancer in adults with chronic liver disease. We were interested first, in liver cancers of any size and stage and second, in liver cancers that were suitable for resection."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that assessed the accuracy of MRI scans compared to the best available tests to confirm liver cancer in adults with chronic liver disease. The best available tests are examination of the liver, or part of the liver under a microscope."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 34 studies assessing 4841 people.\nAround 560 of 1000 (56%) adults with chronic liver disease have confirmed liver cancer. Of these 1000 people, MRI may:\n- correctly detect liver cancer in 473 people;\n- miss liver cancer in 87 people;\n- incorrectly detect liver cancer in 27 cancer-free people;\n- correctly detect no liver cancer in 413 people.\nBased on the studies, around 560 of 1000 (56%) adults with chronic liver disease have confirmed resectable liver cancer. Of these 1000 people, MRI may:\n- correctly detect resectable liver cancer in 472 people;\n- miss resectable liver cancer in 88 people;\n- incorrectly detect resectable liver cancer in 31 people;\n- correctly detect no resectable liver cancer in 409 people."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is limited because the studies used different methods to select study participants and used different definitions for the presence of liver disease. This means MRI scans could be more or less accurate than suggested by our analyses of the evidence."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to 9 November 2021."
+    }
+  ]
+}

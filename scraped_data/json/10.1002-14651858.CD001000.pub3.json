@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001000.pub3",
+  "name": "Corticosteroids for the prevention and treatment of post‐extubation stridor in neonates, children and adults ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Post-extubation stridor may prolong length of stay in the intensive care unit, particularly if airway obstruction is severe and re-intubation proves necessary. Some clinicians use corticosteroids to prevent or treat post-extubation stridor, but corticosteroids may be associated with adverse effects ranging from hypertension to hyperglycaemia, so a systematic assessment of the efficacy of this therapy is indicated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether corticosteroids are effective in preventing or treating post-extubation stridor in critically ill infants, children, or adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and reference lists of articles. The most recent searches were conducted in January 2011."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials comparing administration of corticosteroids by any route with placebo in infants, children, or adults receiving mechanical ventilation via an endotracheal tube in an intensive care unit."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently assessed trial quality and extracted data."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eleven trials involving 2301 people were included: six in adults, two in neonates, three in children. All but one examined use of steroids for the prevention of post-extubation stridor; the remaining one concerned treatment of existing post-extubation stridor in children. Patients were drawn from heterogeneous medical/surgical populations. Dexamethasone given intravenously at least once prior to extubation was the most common steroid regimen utilized (uniformly in neonates and children). In neonates the two studies found heterogeneous results, with no overall statistically significant reduction in post extubation stridor (RR 0.42; 95% CI 0.07 to 2.32). One of these studies was on high-risk patients treated with multiple doses of steroids around the time of extubation, and this study showed a significant reduction in stridor. In children, the two studies were clinically heterogeneous. One study included children with underlying airway abnormalities and the other excluded this group. Prophylactic corticosteroids tended to reduce reintubation and significantly reduced post-extubation stridor in the study that included children with underlying airway abnormalities (N = 62) but not in the study that excluded these children (N = 153). In six adult studies (total N = 1953), the use of prophylactic corticosteroid administration did not significantly reduce the risk of re-intubation (RR 0.48; 95% CI 0.19 to 1.22). While there was a significant reduction in the incidence of post extubation stridor (RR 0.47; 95% CI 0.22 to 0.99), there was significant heterogeneity (I2=81%, X2=26.36, df=5, p<0.0001). Subgroup analysis revealed that post extubation stridor could be reduced in adults with a high likelihood of post extubation stridor when corticosteroids were administered as multiple doses begun 12-24 hours prior to extubation compared to single doses closer to extubation; the test for interaction for multiple versus single doses indicated RRR 0.22 (95% CI 0.10 to 0.47) for stridor with multiple doses. Side effects were uncommon and could not be aggregated."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Using corticosteroids to prevent (or treat) stridor after extubation has not proven effective for neonates or children. However, given the consistent trends towards benefit, this intervention does merit further study, particularly for high risk children or neonates. In adults, multiple doses of corticosteroids begun 12-24 hours prior to extubation do appear beneficial for patients with a high likelihood of post extubation stridor."
+    }
+  ],
+  "pls_title": "Does taking inhaled steorids either before or after being intubated (having a tube down the throat to help you breathe) prevent the painful swelling that can result?",
+  "pls_type": "long",
+  "pls": "When people in intensive care need assistance breathing, they may need to have a breathing tube inserted down through their windpipe (trachea or airway - the passage to the lungs). After it is taken out (extubation), the airways can be swollen (inflamed). This swelling can make it hard to breathe, cause stridor (noisy breathing), and the tube may need to be replaced. Corticosteroids are anti-inflammatory drugs that might reduce this swelling. The review of 11 trials involving 2301 people found that using corticosteroids to prevent (or treat) stridor after extubation has not been proven overall effective for babies or children, but this intervention does merit further study particularly for those at high risk to fail extubation. For high risk adults, multiple doses of corticosteroids begun 12-24 hours before extubation appear to be helpful."
+}

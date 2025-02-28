@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010514.pub2",
+  "name": "Triclosan/copolymer containing toothpastes for oral health",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Periodontal disease and dental caries are highly prevalent oral diseases that can lead to pain and discomfort, oral hygiene and aesthetic problems, and eventually tooth loss, all of which can be costly to treat and are a burden to healthcare systems. Triclosan is an antibacterial agent with low toxicity, which, along with a copolymer for aiding retention, can be added to toothpastes to reduce plaque and gingivitis (inflammation of the gums). It is important that these additional ingredients do not interfere with the anticaries effect of the fluoride present in toothpastes, and that they are safe."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of triclosan/copolymer containing fluoride toothpastes, compared with fluoride toothpastes, for the long-term control of caries, plaque and gingivitis in children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Oral Health's Trials Register (to 19 August 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 7), MEDLINE via OVID (1946 to 19 August 2013), Embase via OVID (1980 to 19 August 2013), and the US National Institutes of Health Trials Register (clinicaltrials.gov) (to 19 August 2013). We applied no restrictions regarding language or date of publication in the searches of the electronic databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) assessing the effects triclosan/copolymer containing toothpastes on oral health."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the search results against the inclusion criteria for this review, extracted data and carried out risk of bias assessments. We attempted to contact study authors for missing information or clarification when feasible. We combined sufficiently similar studies in meta-analyses using random-effects models when there were at least four studies (fixed-effect models when fewer than four studies), reporting mean differences (MD) for continuous data and risk ratios (RR) for dichotomous data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 30 studies, analysing 14,835 participants, in this review. We assessed 10 studies (33%) as at low risk of bias, nine (30%) as at high risk of bias and 11 (37%) as unclear.\nPlaque\nCompared with control, after six to seven months of use, triclosan/copolymer toothpaste reduced plaque by 0.47 on a 0 to 5 scale (MD -0.47, 95% confidence interval (CI) -0.60 to -0.34, 20 studies, 2675 participants, moderate-quality evidence). The control group mean was 2.17, representing a 22% reduction in plaque. After six to seven months of use, it also reduced the proportion of sites scoring 3 to 5 on a 0 to 5 scale by 0.15 (MD -0.15, 95% CI -0.20 to -0.10, 13 studies, 1850 participants, moderate-quality evidence). The control group mean was 0.37, representing a 41% reduction in plaque severity.\nGingivitis\nAfter six to nine months of use, triclosan/copolymer toothpaste reduced inflammation by 0.27 on a 0 to 3 scale (MD -0.27, 95% CI -0.33 to -0.21, 20 studies, 2743 participants, moderate-quality evidence). The control group mean was 1.22, representing a 22% reduction in inflammation. After six to seven months of use, it reduced the proportion of bleeding sites (i.e. scoring 2 or 3 on the 0 to 3 scale) by 0.13 (MD -0.13, 95% CI -0.17 to -0.08, 15 studies, 1998 participants, moderate-quality evidence). The control group mean was 0.27, representing a 48% reduction in bleeding.\nPeriodontitis\nAfter 36 months of use, there was no evidence of a difference between triclosan/copolymer toothpaste and control in the development of periodontitis (attachment loss) (RR 0.92, 95% CI 0.67 to 1.27, one study, 480 participants, low-quality evidence).\nCaries\nAfter 24 to 36 months of use, triclosan/copolymer toothpaste slightly reduced coronal caries when using the decayed and filled surfaces (DFS) index (MD -0.16, 95% CI -0.31 to -0.02, four studies, 9692 participants, high-quality evidence). The control group mean was 3.44, representing a 5% reduction in coronal caries. After 36 months of use, triclosan/copolymer toothpaste probably reduced root caries (MD -0.31, 95% CI -0.39 to -0.23, one study, 1357 participants, moderate-quality evidence).\nCalculus\nAfter six months of use, triclosan/copolymer toothpaste may have reduced the mean total calculus per participant by 2.12 mm (MD -2.12 mm, 95% CI -3.39 to -0.84, two studies, 415 participants, low-quality evidence). The control group mean was 14.61 mm, representing a 15% reduction in calculus.\nAdverse effects\nThere were no data available for meta-analysis regarding adverse effects, but 22 studies (73%) reported that there were no adverse effects caused by either the experimental or control toothpaste.\nThere was considerable heterogeneity present in the meta-analyses for plaque, gingivitis and calculus. Plaque and gingivitis showed such consistent results that it did not affect our conclusions, but the reader may wish to interpret the results with more caution."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was moderate-quality evidence showing that toothpastes containing triclosan/copolymer, in addition to fluoride, reduced plaque, gingival inflammation and gingival bleeding when compared with fluoride toothpastes without triclosan/copolymer. These reductions may or may not be clinically important, and are evident regardless of initial plaque and gingivitis levels, or whether a baseline oral prophylaxis had taken place or not. High-quality evidence showed that triclosan/copolymer toothpastes lead to a small reduction in coronal caries. There was weaker evidence to show that triclosan/copolymer toothpastes may have reduced root caries and calculus, but insufficient evidence to show whether or not they prevented periodontitis. There do not appear to be any serious safety concerns regarding the use of triclosan/copolymer toothpastes in studies up to three years in duration."
+    }
+  ],
+  "pls_title": "Triclosan/copolymer containing toothpastes for oral health",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This Cochrane Review has been conducted to assess the effects of using a toothpaste containing triclosan (an antibacterial ingredient) plus copolymer (an ingredient to reduce the amount of triclosan that is washed away by rinsing or saliva) plus fluoride (a mineral that prevents tooth decay) compared with using a fluoride toothpaste (without triclosan/copolymer) for oral health."
+    },
+    {
+      "heading": "Background",
+      "text": "Gum disease and dental decay are the main reasons for tooth loss. Unless brushed away, plaque (a sticky film containing bacteria) can build up on the teeth. This can lead to gingivitis (a swelling and redness of the gums that affects most adults), which, if not treated, can then lead to a more serious form of gum disease called periodontitis (which affects up to one out of every five adults aged 35 to 44 years worldwide). Periodontitis can cause pain, eating difficulties, an unpleasant facial appearance and eventually tooth loss. Plaque build-up can also lead to tooth decay, a problem affecting up to 90% of schoolchildren in industrialised countries, and the majority of adults. Vast healthcare resources are used worldwide to treat gum disease and tooth decay, which are both preventable. Currently there is a lot of ongoing research into possible links between periodontitis and other medical conditions such as diabetes, rheumatoid arthritis, heart disease and also to the premature (too early) birth of underweight babies.\nAdding an effective and safe antibacterial ingredient to toothpastes could be an easy and low-cost answer to these problems. It is thought that triclosan could fight the harmful bacteria in plaque while also reducing the swelling that leads to serious gum disease. It is important that adding triclosan to fluoride toothpastes does not reduce the beneficial effects that fluoride has on preventing tooth decay."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Authors from the Cochrane Oral Health Group carried out this review of existing studies and the evidence is current up to 19 August 2013. It includes 30 studies published from 1990 to 2012 in which 14,835 participants were randomised to receive a triclosan/copolymer containing fluoride toothpaste or a fluoride toothpaste that did not include triclosan/copolymer. The toothpaste that was used in most of the studies is sold by the manufacturer Colgate."
+    },
+    {
+      "heading": "Key results",
+      "text": "The evidence produced shows benefits in using a triclosan/copolymer fluoride toothpaste when compared with a fluoride toothpaste (without triclosan/copolymer). There was a 22% reduction in plaque, a 22% reduction in gingivitis, a 48% reduction in bleeding gums and a 5% reduction in tooth decay. There was insufficient evidence to show a difference between either toothpaste in preventing periodontitis. There was no evidence of any harmful effects associated with the use of triclosan/copolymer toothpastes in studies up to three years in length."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence relating to plaque and gingivitis was considered to be of moderate quality. The evidence on tooth decay was high quality, while the evidence on periodontitis was low quality."
+    }
+  ]
+}

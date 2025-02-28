@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD010196.pub3",
+  "name": "Different unfractionated heparin doses for preventing arterial thrombosis in children undergoing cardiac catheterization ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The role of cardiac catheterization in pediatrics has progressed significantly over the last two decades, evolving from a primary diagnostic tool to a primary treatment modality in children with congenital heart disease. Vascular complications, particularly arterial thrombosis, are among the most common unwanted post-cardiac catheterization events. In 1974, unfractionated heparin proved to be superior to placebo in decreasing the incidence of arterial thrombosis in pediatric patients. However, the optimal dose of unfractionated heparin to be utilized in this setting remains a matter of controversy. This is an update of the review first published in 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the use of low-dose (< 100 units/kg) versus high-dose (≥ 100 units/kg) unfractionated heparin administered as an intravenous bolus at the time of initiation of cardiac catheterization (that is, immediately after arterial puncture), with or without subsequent heparin maintenance doses, for the prevention of post-procedural arterial thrombosis in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 15 October 2019. We planned to undertake reference checking of identified trials to identify additional studies. No language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized or quasi-randomized trials that compared low dose to high dose unfractionated heparin administered prior to cardiac catheterization. We selected studies conducted in children aged 0 to 18 years."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The first screening of potentially eligible studies was conducted by one of the authors (MLA). The second screening, risk of bias assessment and data extraction were independently conducted by two authors (MLA, LRB). Outcomes (thrombotic events, bleeding complications, other complications) were treated as dichotomous variables. The effect measures used were risk ratio (RR), risk difference (RD) and number needed to treat (NNT), with 95% confidence intervals (CI). We assessed the certainty of evidence for each outcome using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified no new studies for inclusion in this review. In total, two studies with a total of 492 participants were included. We had concerns about risk of bias for one of the two studies. The certainty of the evidence for our key outcomes was downgraded to moderate due to risk of bias concerns and imprecision. The confidence interval for the risk of arterial thrombotic events was compatible with benefits of either high or low unfractionated heparin dose regimens (RR low-dose versus high-dose 1.06, 95% CI 0.58 to 1.92). Only one of the studies reported the frequency of bleeding events and found no clear difference in the incidence of major or minor bleeding events between arms (RR low-dose versus high-dose 2.96, 95% CI 0.12 to 71.34 for major bleeding events; RR low-dose versus high-dose 1.38, 95% CI 0.46 to 4.13 for minor bleeding). This study also reported on the incidence of deep vein thrombosis when comparing the high versus low dose of heparin and reported a non-significant difference (RR low-dose versus high-dose 0.34, 95% CI 0.01 to 8.28). The other study lacked information about bleeding. Additional side effects of heparin other than bleeding events were not reported in either of the studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to the limitations of the current evidence, small number of included studies, and lack of details reported in one study, we are unable to determine the effects of different dosing regimens of unfractionated heparin for the prevention of vascular thrombosis during cardiac catheterization in children. Further adequately powered, randomized clinical trials are needed."
+    }
+  ],
+  "pls_title": "Heparin regimens to prevent arterial thrombosis in children requiring heart catheterization",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Children with heart defects since birth (that is, congenital heart disease) frequently undergo a particular type of invasive procedure termed cardiac catheterization, to help diagnose or correct their condition. This procedure consists of inserting a flexible plastic tube (catheter) into the blood vessels of the patient and guiding it to his or her heart, where a dye is injected before pictures of the heart are taken. Children undergoing this type of procedure may suffer unwanted complications in the arteries into which the catheter is inserted. It is estimated that approximately 1 out of 5 to 10 patients develop arterial blood clots (that is, thrombosis) and thus require additional treatment to prevent those clots from growing further.\nHeparin, a medication known as a 'blood thinner' (that is, an anticoagulant drug), employed in clinical practice since 1935, has been used to decrease the number of arterial blood clots during heart catheterization. However, the best dose of heparin to be used in children during heart catheterization remains to be determined."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review included two small randomized controlled trials with a total of 492 participants (current until 15 October 2019). These two studies found imprecise evidence that the risk of arterial clots was similar in both the low-dose and high-dose heparin groups. Only one study reported bleeding and the frequency of clots in veins, which were also not different between groups. Side effects of heparin other than bleeding were not reported in either of the studies."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The certainty of the evidence provided by these studies is moderate. We downgraded the certainty of evidence from high to moderate due to the small size and number of studies and concerns over the methods used (risk of bias). Further larger studies are needed to determine the effects of different heparin doses."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008420.pub3",
+  "name": "Endothelial keratoplasty versus penetrating keratoplasty for Fuchs endothelial dystrophy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fuchs endothelial dystrophy (FED) is a condition in which there is premature degeneration of corneal endothelial cells. When the number of endothelial cells is reduced to a significant degree, fluid begins to accumulate within the cornea. As a result, the cornea loses its transparency and the individual suffers a reduction in vision. The only successful surgical treatment for this condition is replacement of part or all of the cornea with healthy tissue from a donor. The established procedure, penetrating keratoplasty (PKP), has been used for many years and its safety and efficacy are well known. Endothelial keratoplasty (EK) techniques are relatively new surgical procedures and their safety and efficacy relative to PKP are uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objective of this review was to compare the benefits and complications related to two surgical methods (EK and PKP) of replacing the diseased endothelial layer of the cornea with a healthy layer in people with FED."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2014, Issue 1), MEDLINE (January 1950 to January 2014), EMBASE (January 1980 to January 2014), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2014), the meta Register of Controlled Trials (mRCT) (www.controlled-trials.com) and ClinicalTrials.gov (www.clinicaltrials.gov). There were no date or language restrictions in the electronic searches for trials. The electronic databases were last searched on 27 January 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) comparing EK versus PKP for people (of any age and gender) who had been clinically diagnosed with FED."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened the search results, assessed trial quality and extracted data using the standard methodological procedures expected by The Cochrane Collaboration."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three RCTs that enrolled a total of 139 eyes of 136 participants and analysed 123 (88%) eyes. Two RCTs randomised eyes into either the endothelial keratoplasty (EK) group or penetrating keratoplasty (PKP) group and one RCT randomised eyes into either the femtosecond laser-assisted endothelial keratoplasty (FLEK) group or PKP group. The RCTs comparing EK with PKP did not show any significant differences between procedures with respect to best corrected visual acuity (BCVA) at two years (mean difference (MD) 0.14 logMAR; 95% confidence interval (CI) -0.08 to 0.36; P = 0.23) or at one year (MD 0.09 logMAR; 95% CI -0.05 to 0.23; P = 0.22), whereas the trial comparing FLEK with PKP showed significantly better BCVA after PKP (MD 0.20 logMAR; 95% CI 0.10 to 0.30; P = 0.0001). Only one RCT reported on irregular astigmatism (higher-order aberration), which was less with EK than PKP (MD -1.20 µm; 95% CI -1.53 to -0.87; P < 0.001). Only one RCT reported on endothelial cell counts (lower after FLEK than PKP: MD -969 cells/mm²; 95% CI -1161 to -777; P < 0.001), primary graft failure (higher after FLEK than PKP: RR 7.76; 95% CI 0.41 to 145.22; P = 0.10), and graft rejection (more after FLEK than PKP: RR 1.11; 95% CI 0.07 to 17.12; P = 0.94). Only one RCT reported that 27.8% of participants had graft dislocation, 2.8% had epithelial ingrowth and postoperative pupillary block, and 13.9% had intraocular pressure (IOP)-related problems in the FLEK group compared with the PKP group, in whom 10% had suture-related problems, 5% had wound dehiscence and 10% had suture revision to correct astigmatism. Overall, the adverse events in the FLEK group appeared to be more frequent than in the PKP group. No trials reported information about quality of life or economic data. The overall methodological quality of the three trials was not satisfactory as most did not perform allocation concealment or masking of participants and outcome assessors, and all trials had a small sample size."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The rapid growth of endothelial keratoplasty as the treatment of choice for FED is based upon the belief that visual recovery is more rapid, surgically induced astigmatism (regular and irregular) is less and rates of transplant rejection are lower with EK. This change in practice also assumes that the rates of long term transplant survival are equal for the two procedures. The practical differences between the surgical procedures mean that visual recovery is inherently more rapid following EK, but this review found no strong evidence from RCTs of any difference in the final visual outcome between EK and PKP for people with FED. This review also found that higher order aberrations are fewer following EK but endothelial cell loss is greater following EK. The RCTs that we included employed different EK techniques, which may have a bearing on these findings. EK procedures have evolved over the years and can be performed using different techniques, for example deep lamellar endothelial keratoplasty, Descemets stripping endothelial keratoplasty (DSEK), Descemets stripping automated endothelial keratoplasty (DSAEK), femtosecond laser-assisted endothelial keratoplasty and Descemet membrane endothelial keratoplasty (DMEK). More RCTs are needed to compare PKP with commonly performed EK procedures such as DSEK, DSAEK and DMEK in order to determine the answers to two key questions, whether there is any difference in the final visual outcome between these techniques and whether there are differences in the rates of graft survival in the long term?"
+    }
+  ],
+  "pls_title": "Endothelial keratoplasty versus penetrating keratoplasty for Fuchs endothelial dystrophy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We compared the benefits and harms of penetrating keratoplasty (PKP) and endothelial keratoplasty (EK) in people with Fuchs endothelial dystrophy (FED) to determine whether one is more effective or safer than the other."
+    },
+    {
+      "heading": "Background",
+      "text": "The innermost layer (endothelial cell layer) of the cornea (transparent front of the eye) is essential for maintaining corneal transparency by pumping fluid out and preventing swelling, which leads to opacification. FED is a disease caused by premature degeneration of the endothelial cells leading to fluid in the cornea (oedema), blisters on the surface of the eye (bullous keratopathy) and blurred vision. Severe cases can be treated by corneal transplants, which can be broadly classified into the two types of procedures of PKP (the central cornea is replaced using full thickness corneal tissue from a deceased donor) and EK (where only the innermost layer of the cornea is transplanted).\nThe EK procedure can be performed using several methods such as deep lamellar endothelial keratoplasty (DLEK), Descemet's stripping endothelial keratoplasty (DSEK), Descemet's stripping automated endothelial keratoplasty (DSAEK) or femtosecond laser-assisted endothelial keratoplasty (FLEK)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found three randomised controlled trials that compared EK with PKP, one of which used the FLEK method. The evidence was current to January 2014. The three trials enrolled a total of 139 eyes of 136 participants, of which 123 eyes were included in the final analyses. The trial on FLEK and PKP was conducted from 2005 to 2007 in the Netherlands; the other two trials were conducted in the United States and were reported in 2008 and 2009 but the study dates were not specified. Over 70% of the included participants were diagnosed with FED, and the remaining participants had other ocular conditions."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no difference in best corrected visual acuity (BCVA) between the two groups in one study at 12 months and another at 24 months. Chances of having an irregular shape of the front of the cornea (astigmatism) was less but endothelial cell loss was higher following EK procedures than after PKP. Only one trial reported harms of the interventions, and indicated that FLEK may result in slightly more complications than PKP (for example, 8% graft failure in the FLEK group versus none in the PKP group; and 3% graft rejection in the FLEK group versus 2% in the PKP group). No trials reported information about quality of life or economic data."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was not high due to some limitations with the study designs and because all trials had small numbers of participants with FED."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001461",
+  "name": "Azathioprine for treating rheumatoid arthritis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Azathioprine is a purine analogue with immunosuppressive properties. Although several trials have reported a beneficial effect in patients with rheumatoid arthritis (RA), because of concerns over its safety it is generally used only in severe RA."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the short-term effects of azathioprine for the treatment of rheumatoid arthritis (RA)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Musculoskeletal Group's trials register, the Cochrane Controlled Trials Register (issue 3, 2000), Medline up to and including August 2000 and Embase from 1988 to August 2000. We also conducted a handsearch of the reference lists of the trials retrieved from the electronic search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomized controlled trials and controlled clinical trials comparing azathioprine against placebo in patients with rheumatoid arthritis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data was extracted independently by two reviewers (CS, EB); disagreements were resolved by discussion or third party adjudication (MS). The same reviewers (CS, EB) assessed the methodological quality of the trials using a validated quality assessment tool. Rheumatoid arthritis outcome measures were extracted from the publications for the six-month endpoint. The pooled analysis was performed using standardized mean differences for joint counts, pain and functional status assessments. Weighted mean differences were used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios for withdrawals and for adverse reactions. The 95% confidence intervals (95% CI) are presented. A chi-square test was used to assess heterogeneity among trials. Fixed effects models were used throughout, since no statistical heterogeneity was found."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three trials with a total of 81 patients were included in the analysis. Forty patients were randomized to azathioprine and forty-one to placebo. A pooled estimate was calculated for two outcomes. A statistically significant benefit was observed for azathioprine when compared to placebo for tender joint scores. The standardized weighted mean difference between treatment and placebo was -0.98 (95% CI -1.45, -0.50). Withdrawals from adverse reactions were significantly higher in the azathioprine group OR=4.56 (95% CI 1.16, 17.85)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Azathioprine appears to have a statistically significant benefit on the disease activity in joints of patients with RA. This evidence however is based on a small number of patients, included in older trials. Its effects on long-term functional status and radiological progression were not assessed due to lack of data. Toxicity is shown to be higher and more serious than that observed with other disease-modifying anti-rheumatic drugs (DMARDs). Given this high risk to benefit ratio, there is no evidence to recommend the use of azathioprine over other DMARDs."
+    }
+  ],
+  "pls_title": "Azathioprine for treating rheumatoid arthritis",
+  "pls_type": "long",
+  "pls": "Azathioprine is a drug that suppresses the immune system. This review includes three trials with a total of 81 patients. Forty patients were given azathioprine and forty-one were given placebo. Patients taking azathioprine had lower tender joint scores when compared to patients taking placebo. Significantly more patients in the azathioprine group withdrew from the studies due to adverse reactions compared to patients in the placebo group.\nThis evidence is based on a small number of patients in older trials. These findings suggest that several other drugs should be used before considering azathioprine for a patient with rheumatoid arthritis."
+}

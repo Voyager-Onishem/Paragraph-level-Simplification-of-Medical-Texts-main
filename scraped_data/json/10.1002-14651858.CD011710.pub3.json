@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011710.pub3",
+  "name": "Internet‐based cognitive and behavioural therapies for post‐traumatic stress disorder (PTSD) in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Therapist-delivered trauma-focused psychological therapies are effective for post-traumatic stress disorder (PTSD) and have become the accepted first-line treatments. Despite the established evidence-base for these therapies, they are not always widely available or accessible. Many barriers limit treatment uptake, such as the number of qualified therapists available to deliver the interventions; cost; and compliance issues, such as time off work, childcare, and transportation, associated with the need to attend weekly appointments. Delivering Internet-based cognitive and behavioural therapy (I-C/BT) is an effective and acceptable alternative to therapist-delivered treatments for anxiety and depression."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of I-C/BT for PTSD in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, PsycINFO and the Cochrane Central Register of Controlled Trials to June 2020. We also searched online clinical trial registries and reference lists of included studies and contacted the authors of included studies and other researchers in the field to identify additional and ongoing studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for RCTs of I-C/BT compared to face-to-face or Internet-based psychological treatment, psychoeducation, wait list, or care as usual. We included studies of adults (aged over 16 years), in which at least 70% of the participants met the diagnostic criteria for PTSD, according to the Diagnostic and Statistical Manual (DSM) or the International Classification of Diseases (ICD)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed abstracts, extracted data, and entered data into Review Manager 5. The primary outcomes were severity of PTSD symptoms and dropouts. Secondary outcomes included diagnosis of PTSD after treatment, severity of depressive and anxiety symptoms, cost-effectiveness, adverse events, treatment acceptability, and quality of life. We analysed categorical outcomes as risk ratios (RRs), and continuous outcomes as mean differences (MD) or standardised mean differences (SMDs), with 95% confidence intervals (CI). We pooled data using a fixed-effect meta-analysis, except where heterogeneity was present, in which case we used a random-effects model. We independently assessed the included studies for risk of bias and we evaluated the certainty of available evidence using the GRADE approach; we discussed any conflicts with at least one other review author, with the aim of reaching a unanimous decision."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 13 studies with 808 participants. Ten studies compared I-C/BT delivered with therapist guidance to a wait list control. Two studies compared guided I-C/BT with I-non-C/BT. One study compared guided I-C/BT with face-to-face non-C/BT. There was substantial heterogeneity among the included studies.\nI-C/BT compared with face-to-face non-CBT\nVery low-certainty evidence based on one small study suggested face-to-face non-CBT may be more effective than I-C/BT at reducing PTSD symptoms post-treatment (MD 10.90, 95% CI 6.57 to 15.23; studies = 1, participants = 40). There may be no evidence of a difference in dropout rates between treatments (RR 2.49, 95% CI 0.91 to 6.77; studies = 1, participants = 40; very low-certainty evidence). The study did not measure diagnosis of PTSD, severity of depressive or anxiety symptoms, cost-effectiveness, or adverse events.\nI-C/BT compared with wait list\nVery low-certainty evidence showed that, compared with wait list, I-C/BT may be associated with a clinically important reduction in PTSD post-treatment (SMD –0.61, 95% CI –0.93 to –0.29; studies = 10, participants = 608). There may be no evidence of a difference in dropout rates between the I-C/BT and wait list groups (RR 1.25, 95% CI 0.97 to 1.60; studies = 9, participants = 634; low-certainty evidence). I-C/BT may be no more effective than wait list at reducing the risk of a diagnosis of PTSD after treatment (RR 0.53, 95% CI 0.28 to 1.00; studies = 1, participants = 62; very low-certainty evidence). I-C/BT may be associated with a clinically important reduction in symptoms of depression post-treatment (SMD –0.51, 95% CI –0.97 to –0.06; studies = 7, participants = 473; very low-certainty evidence). Very low-certainty evidence also suggested that I-C/BT may be associated with a clinically important reduction in symptoms of anxiety post-treatment (SMD –0.61, 95% CI –0.89 to –0.33; studies = 5, participants = 345). There were no data regarding cost-effectiveness. Data regarding adverse events were uncertain, as only one study reported an absence of adverse events.\nI-C/BT compared with I-non-C/BT\nThere may be no evidence of a difference in PTSD symptoms post-treatment between the I-C/BT and I-non-C/BT groups (SMD –0.08, 95% CI –0.52 to 0.35; studies = 2, participants = 82; very low-certainty evidence). There may be no evidence of a difference between dropout rates from the I-C/BT and I-non-C/BT groups (RR 2.14, 95% CI 0.97 to 4.73; studies = 2, participants = 132; I² = 0%; very low-certainty evidence). Two studies found no evidence of a difference in post-treatment depressive symptoms between the I-C/BT and I-non-C/BT groups (SMD –0.12, 95% CI –0.78 to 0.54; studies = 2, participants = 84; very low-certainty evidence). Two studies found no evidence of a difference in post-treatment symptoms of anxiety between the I-C/BT and I-non-C/BT groups (SMD 0.08, 95% CI –0.78 to 0.95; studies = 2, participants = 74; very low-certainty evidence). There were no data regarding cost-effectiveness. Data regarding adverse effects were uncertain, as it was not discernible whether adverse effects reported were attributable to the intervention."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "While the review found some beneficial effects of I-C/BT for PTSD, the certainty of the evidence was very low due to the small number of included trials. This review update found many planned and ongoing studies, which is encouraging since further work is required to establish non-inferiority to current first-line interventions, explore mechanisms of change, establish optimal levels of guidance, explore cost-effectiveness, measure adverse events, and determine predictors of efficacy and dropout."
+    }
+  ],
+  "pls_title": "Internet-based cognitive and behavioural therapies for post-traumatic stress disorder (PTSD)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why was this review important?",
+      "text": "Post-traumatic stress disorder, or PTSD, is a common mental illness that can occur after a serious traumatic event. Symptoms include re-experiencing the trauma as nightmares, flashbacks, and distressing thoughts; avoiding reminders of the traumatic event; experiencing negative changes to thoughts and mood; and hyperarousal, which includes feeling on edge, being easily startled, feeling angry, having difficulties sleeping, and problems concentrating. PTSD can be treated effectively with talking therapies that focus on the trauma. Some of the most effective therapies are those based on cognitive behavioural therapy (CBT). Unfortunately, there are a limited number of qualified therapists who can deliver these therapies. There are also other factors that limit access to treatment, such as the need to take time off work to attend appointments, and transportation issues.\nAn alternative is to deliver psychological therapy on the Internet, with or without guidance from a therapist. Internet-based cognitive and behavioural therapies (I-C/BT) have received a great deal of attention and are now used routinely to treat depression and anxiety. There have been fewer studies of I-C/BT for PTSD, yet research is expanding and there is a growing evidence base for their efficacy."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "– People with PTSD and their families and friends.\n– Professionals working in mental health services.\n– General practitioners.\n– Commissioners."
+    },
+    {
+      "heading": "What questions did this review try to answer?",
+      "text": "In adults with PTSD, we tried to find out if I-C/BT:\n– was more effective than no therapy (wait list);\n– was as effective as psychological therapies delivered by a therapist;\n– was more effective than other psychological therapies delivered online; or\n– was more effective than education about the condition delivered online, at reducing symptoms of PTSD, and improving quality of life; or\n– was cost effective, compared to face-to-face therapy?"
+    },
+    {
+      "heading": "Which studies did the review include?",
+      "text": "We searched for randomised controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) that examined I-C/BT for adults with PTSD, published between 1970 and 5 June 2020.\nWe included 13 studies with 808 participants."
+    },
+    {
+      "heading": "What did the evidence from the review tell us?",
+      "text": "– Analyses including 10 studies found that I-C/BT was more effective than no therapy (waiting list), at reducing PTSD. However, the certainty of the evidence was very low, which means we have very little confidence in this finding.\n– Analyses including two studies found there was no difference between I-C/BT and another type of psychological therapy delivered online. However, the certainty of the evidence was very low, which means we have very little confidence in this finding.\n– One study found that face-to-face non-CBT was more effective than I-C/BT. However, baseline levels of PTSD symptoms were not controlled for and the certainty of this evidence was very low, which limits our confidence in this finding.\n– We found no studies using standardised or validated measures of acceptability to tell us whether people who received I-C/BT felt it was an acceptable treatment.\n– We found no studies that reported the cost-effectiveness of I-C/BT."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "The current evidence base is growing but still small. More studies are needed to decide if I-C/BT should be used routinely for the treatment of PTSD."
+    }
+  ]
+}

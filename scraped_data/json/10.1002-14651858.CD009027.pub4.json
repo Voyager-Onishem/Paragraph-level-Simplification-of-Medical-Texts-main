@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD009027.pub4",
+  "name": "Antiepileptic drugs for seizure control in people with neurocysticercosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Neurocysticercosis is the most common parasitic infection of the brain. Epilepsy is the most common clinical presentation, though people may also present with headache, symptoms of raised intracranial pressure, hydrocephalus, and ocular symptoms depending upon the localisation of the parasitic cysts. Anthelmintic drugs, antiepileptic drugs (AEDs), and anti-oedema drugs, such as steroids, form the mainstay of treatment.\nThis is an updated version of the Cochrane Review previously published in 2019."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects (benefits and harms) of AEDs for the primary and secondary prevention of seizures in people with neurocysticercosis.\nFor the question of primary prevention, we examined whether AEDs reduce the likelihood of seizures in people who had neurocysticercosis but had not had a seizure.\nFor the question of secondary prevention, we examined whether AEDs reduce the likelihood of further seizures in people who had had at least one seizure due to neurocysticercosis.\nAs part of primary prevention studies, we also aimed to examine which AED was beneficial in people with neurocysticercosis in terms of duration, dose, and side-effect profile."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the 2021 update of this review, we searched the Cochrane Register of Studies (CRS Web), MEDLINE, and LILACS to January 2021. CRS Web includes randomised or quasi-randomised, controlled trials from CENTRAL, the Specialised Registers of Cochrane Review Groups, including Epilepsy, PubMed, Embase, ClinicalTrials.gov, and the World Health Organisation International Clinical Trials Registry Platform. We also checked the reference lists of identified studies, and contacted experts and colleagues in the field to search for additional and ongoing studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised controlled trials.\nSingle-blind, double-blind, or unblinded studies were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard methodological procedures expected by Cochrane. Two review authors independently selected trials for inclusion and extracted the relevant data. The primary outcomes of interest were: proportion of individuals experiencing seizures, and time to first seizure post randomisation. Secondary outcomes included: seizure freedom, number of withdrawals, side effects, number of people seizure free with short or long durations of treatment, quality of life, therapy costs, hospitalisations, and mortality.\nWe used an intention-to-treat analysis for the primary analysis. We calculated odds ratio (OR) for dichotomous data (proportion of individuals who experienced seizures, were seizure free for a specific time period (12 or 24 months), withdrew from treatment, developed drug-related side effects or complications, were seizure-free with each treatment policy, mortality), and planned to use mean difference (MD) for continuous data, if any continuous data were identified (quality of life, cost of treatment). We intended to evaluate time to first seizure after randomisation by calculating hazard ratios (HRs). We assessed precision using 95% confidence intervals (CIs). We stratified the analysis by treatment comparison. We also considered the duration of drug usage, co-medications, and the length of follow-up."
+    },
+    {
+      "heading": "Main results",
+      "text": "We did not find any trials that investigated the role of AEDs in preventing seizures among people with neurocysticercosis, presenting with symptoms other than seizures.\nWe did not find any trials that directly compared individual AEDs for primary prevention in people with neurocysticercosis.\nWe included four trials that evaluated the efficacy of short-term versus longer-term AED treatment for people with solitary neurocysticercosis (identified on computed tomography (CT) scan) who presented with seizures. In total, 466 people were enrolled. These studies compared AED treatment durations of 6, 12, and 24 months.\nThe risk of seizure recurrence with six months of treatment compared with 12 to 24 months of treatment was inconclusive (odds ratio (OR) 1.34, 95% confidence interval (CI) 0.73 to 2.47; three studies, 360 participants; low-certainty evidence). The risk of seizure recurrence with six to 12 months of treatment compared with 24 months of treatment was inconclusive (OR 1.36, 95% CI 0.72 to 2.57; three studies, 385 participants; very low-certainty evidence).\nTwo studies compared seizure recurrence with CT findings, and suggested that persistent and calcified lesions had a higher recurrence risk, and suggest longer duration of treatment with AEDs. One study reported no side effects, while the rest did not comment on side effects of the drugs.\nNone of the studies addressed the quality of life of the participants. These studies had methodological deficiencies, such as small sample sizes, and a possibility of bias due to lack of blinding, which affect the results of the review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Despite neurocysticercosis being the most common cause of epilepsy worldwide, there is currently no evidence available regarding the use of AEDs as seizure prophylaxis among people presenting with symptoms other than seizures. For those presenting with seizures, there is no reliable evidence regarding the duration of treatment required. Therefore, there is a need for large scale randomised controlled trials to address these questions."
+    }
+  ],
+  "pls_title": "Treatment of epilepsy in people with neurocysticercosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Neurocysticercosis is a common infection of the brain. It is caused by the larvae of the pork tapeworm that migrate to the brain and form an enclosed sac around themselves (called a cyst). Seizures are the most common symptoms, although some people may present with headache, vomiting, or other symptoms of brain swelling.\nThis review investigated the usefulness of antiepileptic drugs (AEDs) in preventing seizures in people who did not have seizures to start with, but presented with these other symptoms. We also examined the usefulness of AEDs in people with epilepsy due to neurocysticercosis, in terms of choice of drug, dosage, duration of treatment, side effects, and the quality of life."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included four trials, with a total of 466 participants, which focused on the comparison of short-duration and long-duration of AED treatment in people with a single brain cyst. The trials considered six to 12 months as short-duration treatment, and 12 to 24 months as long-duration treatment."
+    },
+    {
+      "heading": "Key results",
+      "text": "There were inconclusive results for the benefit of one duration of AED over the other (six, 12, or 24 months) for people with a single cyst. In people with calcified cysts, longer duration of therapy may be preferable.\nAll four included trials enrolled people with a single brain lesion. The findings of our review cannot be generalised to people with multiple cysts, or with cysts in unusual parts of the brain.\nThe evidence is current to January 2021."
+    }
+  ]
+}

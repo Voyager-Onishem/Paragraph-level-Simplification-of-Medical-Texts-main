@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003785",
+  "name": "Infliximab for the treatment of rheumatoid arthritis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Infliximab is a human murine chimeric anti-tumour necrosis factor alpha monoclonal antibody recently approved for the treatment of refractory RA."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of infliximab for the treatment of rheumatoid arthritis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Electronic databases including Biological Abstracts, CINAHL, Current Contents, Dissertation Abstracts, EBM Reviews, HealthSTAR and MEDLINE were searched from 1966 to March 2002. Rheumatoid arthritis was searched as an exploded MESH heading. Infliximab was searched as a text word as it is not currently indexed . The search was not limited by language, year of publication or type of publication. The specific search strategy is shown below."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomized controlled trials comparing infliximab 1, 3, 5 or 10 mg/kg with methotrexate(MTX) to MTX alone, or without MTX to placebo, with a minimum duration of 6 months and at least 2 infusions were eligible."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data was extracted by 2 independent reviewers and the methodological quality of the trials was assessed using a validated assessment tool scale. Outcome variables included the ACR core set of disease activity measures for RA clinical trials and radiographic outcome data. Withdrawals and toxicity were also included. End of trial results were pooled. Continuous data were pooled using weighted mean differences and dichotomous data using relative risks."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two trials with a total of 529 patients met the inclusion criteria. Patients fulfilling the American Rheumatism Association 1987 RA diagnostic criteria were randomized to receive either infliximab 1mg/kg (with and without MTX), 3mg/kg(with and without MTX) , 10mg/kg of infliximab (with and without MTX) or placebo infusion plus MTX. Infusions were given every 4 or 8 weeks. After 6 months ACR 20, ACR 50 and ACR 70 response rates were significantly improved in all infliximab doses compared to control.\nThe number needed to treat with infliximab to achieve an ACR 20, 50 or 70 response in patients with refractory RA under specialist care ranged from 2.94-3.33 for ACR 20, 3.57-4.76 for ACR 50 and 5.88 -12.5 for ACR 70 depending on the dose (3mg/kg or 10mg/kg given either every 4 or 8 weeks).\nTotal withdrawals and withdrawals due to lack of efficacy were lower for all doses of infliximab versus controls. Withdrawals for adverse events and withdrawals for other reasons were not statistically significantly different for those receiving infliximab from control."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Treatment with infliximab for 6 and 12 months significantly reduces RA disease activity and appeared to have an acceptable safety profile in these trials. Total radiographic scores improved, fewer patients showed radiographic progression, and more patients showed radiographic improvement with infliximab treatment at 12 months compared to controls. However, only 2 trials met the inclusion criteria, and these results are largely driven by the largest trial. The available efficacy and toxicity data is relatively short-term (6-12 months). In order to detect rare events that may be associated with infliximab, larger and longer term studies are required."
+    }
+  ],
+  "pls_title": "Infliximab for rheumatoid arthritis",
+  "pls_type": "long",
+  "pls": "Infliximab in combination with methotrexate is an effective treatment for rheumatoid arthritis( RA).\nInfliximab is a relatively new disease modifying anti-rheumatic drug that inhibits tumour necrosis factor alpha. Short term (six to twelve month) studies suggest infliximab is well tolerated, and in combination with methotrexate, decreases disease activity in RA. Infliximab 3mg/kg or 10mg/kg, in combination with methotrexate, taken every 4 or 8 weeks for either 6 or 12 months, significantly improved disease activity as measured by tender and swollen joints and ACR response rates. Pain and physical function also improved compared to those taking methotrexate alone. Infliximab significantly reduced radiographic progression at 12 months."
+}

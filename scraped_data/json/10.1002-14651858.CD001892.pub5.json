@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD001892.pub5",
+  "name": "Low protein diets for non‐diabetic adults with chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic kidney disease (CKD) is defined as reduced function of the kidneys present for 3 months or longer with adverse implications for health and survival. For several decades low protein diets have been proposed for participants with CKD with the aim of slowing the progression to end-stage kidney disease (ESKD) and delaying the onset of renal replacement therapy. However the relative benefits and harms of dietary protein restriction for preventing progression of CKD have not been resolved. This is an update of a systematic review first published in 2000 and updated in 2006, 2009, and 2018."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of low protein diets in preventing the natural progression of CKD towards ESKD and in delaying the need for commencing dialysis treatment in non-diabetic adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 7 September 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) or quasi RCTs in which adults with non-diabetic CKD (stages 3 to 5) not on dialysis were randomised to receive a very low protein intake (0.3 to 0.4 g/kg/day) compared with a low protein intake (0.5 to 0.6 g/kg/day) or a low protein intake compared with a normal protein intake (≥ 0.8 g/kg/day) for 12 months or more."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies and extracted data. For dichotomous outcomes (death, all causes), requirement for dialysis, adverse effects) the risk ratios (RR) with 95% confidence intervals (CI) were calculated and summary statistics estimated using the random effects model. Where continuous scales of measurement were used (glomerular filtration rate (GFR), weight), these data were analysed as the mean difference (MD) or standardised mean difference (SMD) if different scales had been used. The certainty of the evidence was assessed using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 17 studies with 2996 analysed participants (range 19 to 840). Four larger multicentre studies were subdivided according to interventions so that the review included 21 separate data sets. Mean duration of participant follow-up ranged from 12 to 50 months.\nRandom sequence generation and allocation concealment were considered at low risk of bias in eleven and nine studies respectively. All studies were considered at high risk for performance bias as they were open-label studies. We assessed detection bias for outcome assessment for GFR and ESKD separately. As GFR measurement was a laboratory outcome all studies were assessed at low risk of detection bias. For ESKD, nine studies were at low risk of detection bias as the need to commence dialysis was determined by personnel independent of the study investigators. Five studies were assessed at high risk of attrition bias with eleven studies at low risk. Ten studies were at high risk for reporting bias as they did not include data which could be included in a meta-analysis. Eight studies reported funding from government bodies while the remainder did not report on funding.\nTen studies compared a low protein diet with a normal protein diet in participants with CKD categories 3a and b (9 studies) or 4 (one study). There was probably little or no difference in the numbers of participants who died (5 studies 1680 participants: RR 0.77, 95% CI 0.51 to 1.18; 13 fewer deaths per 1000; moderate certainty evidence). A low protein diet may make little or no difference in the number of participants who reached ESKD compared with a normal protein diet (6 studies, 1814 participants: RR 1.05, 95% CI 0.73 to 1.53; 7 more per 1000 reached ESKD; low certainty evidence). It remains uncertain whether a low protein diet compared with a normal protein intake impacts on the outcome of final or change in GFR (8 studies, 1680 participants: SMD -0.18, 95% CI -0.75 to 0.38; very low certainty evidence).\nEight studies compared a very low protein diet with a low protein diet and two studies compared a very low protein diet with a normal protein diet. A very low protein intake compared with a low protein intake probably made little or no difference to death (6 studies, 681 participants: RR 1.26, 95% CI 0.62 to 2.54; 10 more deaths per 1000; moderate certainty evidence). However it probably reduces the number who reach ESKD (10 studies, 1010 participants: RR 0.65, 95% CI 0.49 to 0.85; 165 per 1000 fewer reached ESKD; moderate certainty evidence). It remains uncertain whether a very low protein diet compared with a low or normal protein intake influences the final or change in GFR (6 studies, 456 participants: SMD 0.12, 95% CI -0.27 to 0.52; very low certainty evidence).\nFinal body weight was reported in only three studies. It is uncertain whether the intervention alters final body weight (3 studies, 89 participants: MD -0.40 kg, 95% CI -6.33 to 5.52; very low certainty evidence).Twelve studies reported no evidence of protein energy wasting (malnutrition) in their study participants while three studies reported small numbers of participants in each group with protein energy wasting. Most studies reported that adherence to diet was satisfactory. Quality of life was not formally assessed in any studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review found that very low protein diets probably reduce the number of people with CKD 4 or 5, who progress to ESKD. In contrast low protein diets may make little difference to the number of people who progress to ESKD. Low or very low protein diets probably do not influence death. However there are limited data on adverse effects such as weight differences and protein energy wasting. There are no data on whether quality of life is impacted by difficulties in adhering to protein restriction. Studies evaluating the adverse effects and the impact on quality of life of dietary protein restriction are required before these dietary approaches can be recommended for widespread use."
+    }
+  ],
+  "pls_title": "Low protein diets for non-diabetic adults with chronic kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Various forms of kidney disease can lead to kidney failure with affected people ultimately requiring dialysis treatment. A diet low in protein may be recommended to try to slow the progress of kidney disease to kidney failure. We still do not know whether low protein diets can slow the progress of kidney disease and delay the need to start dialysis."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register up to 7 September 2020 for randomised controlled trials (RCT), which enrolled non-diabetic adult patients with chronic kidney disease, not yet requiring dialysis, and which compared different dietary protein intakes, including very low (0.3 to 0.4 g/kg/day), low (0.5 to 0.6 g/kg/day) or normal protein intakes (≥ 0.8 g/kg/day) for 12 months or more."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We examined the evidence from 17 studies (21 data sets) with 2996 people with reduced kidney function. We found that very low protein diets compared with low or normal protein intakes probably reduce the number of people with advanced kidney failure, who progress to dialysis. When low protein diets were compared with normal protein diets, there was little of no difference in the number of people with less severe kidney failure, who progressed to dialysis. Side effects of low protein diets such as weight loss were uncommon but many studies did not report on side effects."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "In people with advanced kidney failure, a very low protein intake probably slows the progress to kidney failure. However we need more information on the side effects of low protein diets and on whether quality of life is reduced because of difficulties in keeping to such a diet."
+    }
+  ]
+}

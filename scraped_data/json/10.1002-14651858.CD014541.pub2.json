@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014541.pub2",
+  "name": "Standard‐ versus extended‐duration anticoagulation for primary venous thromboembolism prophylaxis in acutely ill medical patients ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolism (VTE) includes two interrelated conditions, deep vein thrombosis (DVT) and pulmonary embolism (PE). Risk factors include dehydration, prolonged immobilization, acute medical illness, trauma, clotting disorders, previous thrombosis, varicose veins with superficial vein thrombosis, exogenous hormones, malignancy, chemotherapy, infection, inflammation, pregnancy, obesity, smoking, and advancing age. It is estimated that hospitalized patients are 100 times more likely to develop VTE and, compared with surgical patients, medical patients often have more severe forms of VTE. VTE carries a significant risk of morbidity and mortality. Prophylactic strategies, including mechanical and pharmacological methods, are recommended for patients at risk of VTE. Pharmacological prophylaxis is considered the standard practice for acutely ill medical patients at risk of developing VTE in the absence of contraindications. For hospitalized patients, the risk of VTE extends beyond hospital stay and up to 90 days, with most events occurring within 45 days of discharge. Despite that, it remains unclear whether extended-duration anticoagulation for primary VTE prophylaxis would provide benefits without added risks or harm."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and risks of standard- versus extended-duration anticoagulation for primary VTE prophylaxis in acutely ill medical patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialized Register, CENTRAL, MEDLINE, Embase, CINAHL and Web of Science databases, as well as the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers up to 27 March 2023. We also searched reference lists of all included studies for additional references and searched the last five years of the American Society of Hematology conference proceedings."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing standard-duration versus extended-duration anticoagulation for primary VTE prophylaxis in acutely ill medical patients (adults being treated in a medical inpatient setting)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures set by Cochrane. At least two authors independently screened titles and abstracts for inclusion and performed data extraction. Two authors independently assessed the risk of bias (RoB) using the Cochrane RoB 2 tool. We analyzed outcomes data using the risk ratio (RR) with 95% confidence intervals (CIs). We used the GRADE approach to assess the certainty of evidence for each outcome. Our outcomes of interest were assessed in the short term (during the treatment period and within 45 days of hospitalization) and long term (assessed beyond 45 days of hospitalization). Primary outcomes were symptomatic VTE, major bleeding, and all-cause mortality. Secondary outcomes were total VTE, a composite of fatal and irreversible vascular events (including myocardial infarction, non-fatal PE, cardiopulmonary death, stroke), fatal bleeding, and VTE-related mortality."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of seven RCTs fulfilled our inclusion criteria, comprising 40,846 participants. All studies contributing data to our outcomes were at low risk of bias in all domains. Most studies reported the outcomes in the short term.\nExtended-duration anticoagulation, compared with standard-duration anticoagulation, for primary VTE prophylaxis in acutely ill medical patients reduced the risk of short-term symptomatic VTE (RR 0.60, 95% CI 0.46 to 0.78; standard-duration 12 per 1000, extended-duration 7 per 1000, 95% CI 6 to 10; number needed to treat for an additional beneficial outcome [NNTB] 204, 95% CI 136 to 409; 4 studies, 24,773 participants; high-certainty evidence). This benefit, however, was offset by an increased risk of short-term major bleeding (RR 2.05, 95% CI 1.51 to 2.79; standard-duration 3 per 1000, extended duration 6 per 1000, 95% CI 5 to 8; number needed to treat for an additional harmful outcome [NNTH] 314, 95% CI 538 to 222; 7 studies, 40,374 participants; high-certainty evidence). Extended-duration anticoagulation, compared with standard-duration, results in little to no difference in short-term all-cause mortality (RR 0.97, 95% CI 0.87 to 1.08; standard-duration 34 per 1000, extended-duration 33 per 1000, 95% CI 30 to 37; 5 studies, 38,080 participants; high-certainty evidence), reduced short-term total VTE (RR 0.75, 95% CI 0.67 to 0.85; standard-duration 37 per 1000, extended duration 28 per 1000, 95% CI 25 to 32; NNTB 107, 95% CI 76 to 178; 5 studies, 33,819 participants; high-certainty evidence), and short-term composite of fatal and irreversible vascular events (RR 0.71, 95% CI 0.56 to 0.91; standard-duration 41 per 1000, extended-duration 29 per 1000, 95% CI 23 to 37; NNTB 85, 95% CI 50 to 288; 1 study, 7513 participants; high-certainty evidence). Extended-duration anticoagulation may result in little to no difference in short-term fatal bleeding (RR 2.28, 95% CI 0.84 to 6.22; standard-duration 0 per 1000, extended-duration 0 per 1000, 95% CI 0 to 1; 7 studies, 40,374 participants; low-certainty evidence), and likely results in little to no difference in short-term VTE-related mortality (RR 0.78, 95% CI 0.58 to 1.05; standard-duration 5 per 1000, extended-duration 4 per 1000 95% CI 3 to 6; 6 studies, 36,170 participants; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In the short term, extended- versus standard-duration anticoagulation for primary VTE prophylaxis in acutely ill medical patients reduced the risk of symptomatic VTE at the expense of an increased risk of major bleeding. Extended-duration anticoagulation resulted in little to no difference in all-cause mortality. Extended-duration anticoagulation reduced the risk of total VTE and the composite of fatal and irreversible vascular events, but may show little to no difference in fatal bleeding and VTE-related mortality. Further data, with longer follow-up, are needed to determine the optimal agent and duration for primary VTE prophylaxis in acutely ill medical patients."
+    }
+  ],
+  "pls_title": "Does a strategy of extended-duration blood thinners for preventing the development of blood clots in the legs and lungs improve the outcomes of patients admitted to the hospital for an acute medical illness?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "Extending blood thinners beyond the hospital stay (after discharge) decreased the probability of developing blood thrombi (blood clots) in the legs and emboli (blood clots) in the lungs at the expense of an increased risk of major bleeding."
+    },
+    {
+      "heading": "What is venous thromboembolism (VTE)?",
+      "text": "Venous thrombosis is when a blood thrombus (blood clot) is formed in a vein. This can cause symptoms such as pain and swelling due to obstruction of the blood flow. It most commonly occurs in the deep veins of the legs, commonly referred to as deep venous thrombosis (DVT). In some instances, the blood thrombi can dislodge, forming an embolus (blood clot that has migrated) that travels through the venous system to another part of the body, most commonly the lungs. This condition is called pulmonary embolism (PE), which can sometimes be fatal. Venous thromboembolism (VTE) is a term used to describe both DVT and PE. Hospitalization due to medical illness is amongst the predisposing factors for VTE. This is likely due to a variety of risk factors, including underlying medical problems, new illness, decreased mobility and possibly medications, which is why prevention is crucial in these patient populations."
+    },
+    {
+      "heading": "How is VTE prevented in acutely ill hospitalized patients?",
+      "text": "Patients who are hospitalized due to medical illness and who are at high risk of developing VTE can undergo prevention strategies. Unless there is a reason not to do so, patients usually receive blood thinners to decrease the risk of VTE. Usually, blood thinners are administered throughout hospitalization. It has been proposed that extending blood thinners after hospital discharge might have beneficial effects and could better prevent VTE."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether extending the administration of blood thinners beyond the hospital stay would lower the risk of developing VTE and its associated dangers compared to its administration only during the hospital stay. We also sought to explore the unwanted effects related to extending the duration of blood thinners."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated extending blood thinners beyond the hospital stay in acutely ill medical patients and compared them to blood thinners only during hospitalization. We then summarised the results of these studies and rated our confidence in the evidence based on factors such as the respective study sizes and research methods."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Our search yielded seven clinical trials, including 40,846 participants that addressed our review question. Most studies reported the outcomes in the short term (i.e. during the treatment period and within 45 days of hospitalization).\nExtended-duration blood thinners, compared with standard-duration blood thinners, reduced the risk of short-term symptomatic VTE (i.e. VTE that manifests because of patient-reported symptoms). However, that benefit was counteracted by an increased risk of short-term major bleeding (e.g. requiring blood transfusion and/or associated with a severe drop in haemoglobin). There was little to no difference between either strategy in terms of death from any cause. Extended-duration blood thinners, compared with standard-duration blood thinners, resulted in a reduction of short-term total VTE (including those manifesting with and without symptoms, only discovered via routine testing/screening) and the composite outcome of fatal and irreversible vascular events (including non-fatal heart attack, non-fatal PE, death due to heart/lung causes, or stroke). However, there is likely little to no difference between either strategy in terms of fatal bleeding (significant bleeding resulting in death) or death due to VTE."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "When assessing for fatal bleeding and death related to VTE, the results from the studies varied widely."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to March 2023."
+    }
+  ]
+}

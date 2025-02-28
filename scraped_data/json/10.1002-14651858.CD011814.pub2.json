@@ -1,0 +1,43 @@
+{
+  "doi": "10.1002/14651858.CD011814.pub2",
+  "name": "Concomitant atrial fibrillation surgery for people undergoing cardiac surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with atrial fibrillation (AF) often undergo cardiac surgery for other underlying reasons and are frequently offered concomitant AF surgery to reduce the frequency of short- and long-term AF and improve short- and long-term outcomes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of concomitant AF surgery among people with AF who are undergoing cardiac surgery on short-term and long-term (12 months or greater) health-related outcomes, health-related quality of life, and costs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Starting from the year when the first “maze” AF surgery was reported (1987), we searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library (March 2016), MEDLINE Ovid (March 2016), Embase Ovid (March 2016), Web of Science (March 2016), the Database of Abstracts of Reviews of Effects (DARE, April 2015), and Health Technology Assessment Database (HTA, March 2016). We searched trial registers in April 2016. We used no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials evaluating the effect of any concomitant AF surgery compared with no AF surgery among adults with preoperative AF, regardless of symptoms, who were undergoing cardiac surgery for another indication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies and extracted data. We evaluated the risk of bias using the Cochrane 'Risk of bias' tool. We included outcome data on all-cause and cardiovascular-specific mortality, freedom from atrial fibrillation, flutter, or tachycardia off antiarrhythmic medications, as measured by patient electrocardiographic monitoring greater than three months after the procedure, procedural safety, 30-day rehospitalisation, need for post-discharge direct current cardioversion, health-related quality of life, and direct costs. We calculated risk ratios (RR) for dichotomous data with 95% confidence intervals (CI) using a fixed-effect model when heterogeneity was low (I² ≤ 50%) and random-effects model when heterogeneity was high (I² > 50%). We evaluated the quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework to create a 'Summary of findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 34 reports of 22 trials (1899 participants) with five additional ongoing studies and three studies awaiting classification. All included studies were assessed as having high risk of bias across at least one domain. The effect of concomitant AF surgery on all-cause mortality was uncertain when compared with no concomitant AF surgery (7.0% versus 6.6%, RR 1.14, 95% CI 0.81 to 1.59, I² = 0%, 20 trials, 1829 participants, low-quality evidence), but the intervention increased freedom from atrial fibrillation, atrial flutter, or atrial tachycardia off antiarrhythmic medications > three months (51.0% versus 24.1%, RR 2.04, 95% CI 1.63 to 2.55, I² = 0%, eight trials, 649 participants, moderate-quality evidence). The effect of concomitant AF surgery on 30-day mortality was uncertain (2.3% versus 3.1%, RR 1.25 95% CI 0.71 to 2.20, I² = 0%, 18 trials, 1566 participants, low-quality evidence), but the intervention increased the risk of permanent pacemaker implantation (6.0% versus 4.1%, RR 1.69, 95% CI 1.12 to 2.54, I² = 0%, 18 trials, 1726 participants, moderate-quality evidence). Investigator-defined adverse events, including but limited to, need for surgical re-exploration or mediastinitis, were not routinely reported but were not different between the two groups (other adverse events: 24.8% versus 23.6%, RR 1.07, 95% CI 0.85 to 1.34, I² = 45%, nine trials, 858 participants), but the quality of this evidence was very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For patients with AF undergoing cardiac surgery, there is moderate-quality evidence that concomitant AF surgery approximately doubles the risk of freedom from atrial fibrillation, atrial flutter, or atrial tachycardia off anti-arrhythmic drugs while increasing the risk of permanent pacemaker implantation. The effects on mortality are uncertain. Future, high-quality and adequately powered trials will likely affect the confidence on the effect estimates of AF surgery on clinical outcomes."
+    }
+  ],
+  "pls_title": "Atrial fibrillation surgery for patients undergoing heart surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the evidence about potential benefits and harms of concomitant atrial fibrillation surgery in people who have atrial fibrillation and are undergoing heart surgery?BackgroundPeople who undergo heart surgery may have an abnormal heart rhythm disorder known as atrial fibrillation, which increases the risk of developing a stroke. Some patients may experience symptoms of palpitations, and many patients are recommended to take blood thinners to reduce their risk of having a stroke. Many surgeons will offer patients a procedure to treat this heart rhythm disorder at the same time of a heart surgery.The aim of this systematic review was to assess the effects of this heart rhythm procedure, known as atrial fibrillation surgery, at the time of heart surgery.Study characteristicsWe searched scientific databases in March 2016 and found 22 randomised trials (clinical studies where people are randomly put into one of two or more treatment groups) including 1899 adults that met our inclusion criteria. Most trials had at least one methodological limitation. Funding for most trials was either not reported or came from intramural funds or national funding bodies, including professional and governmental organisations.Key resultsThere is uncertainty about the effect of atrial fibrillation surgery on all-cause mortality because rates were similar between individuals who underwent the additional procedure to treat their atrial fibrillation and those who did not. Individuals who underwent this additional procedure were twice as likely to be free from atrial fibrillation and off medications three months following the surgery (51% [range: 39% to 62%] compared with 24%), but these individuals were also more likely to need a pacemaker following the procedure (7% [range: 5% to 10%] compared with 4%). Other outcomes, including procedural safety, stroke risk, and health-related quality of life were similar between the two groups, but there is uncertainty in the confidence of our estimates for these outcomes. We did not find any benefit of one type of atrial fibrillation surgical treatment compared with another.Quality of the evidenceThe quality of evidence supporting atrial fibrillation surgery to treat atrial fibrillation is low to moderate because of the limitations of the original studies. It is likely that further research may influence these results."
+    }
+  ]
+}

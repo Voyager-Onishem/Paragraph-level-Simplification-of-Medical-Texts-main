@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD013636",
+  "name": "Effects of total fat intake on body fatness in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The ideal proportion of energy from fat in our food and its relation to body weight is not clear. In order to prevent overweight and obesity in the general population, we need to understand the relationship between the proportion of energy from fat and resulting weight and body fatness in the general population."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of proportion of energy intake from fat on measures of body fatness (including body weight, waist circumference, percentage body fat and body mass index) in people not aiming to lose weight, using all appropriate randomised controlled trials (RCTs) of at least six months duration."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, Clinicaltrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) to October 2019. We did not limit the search by language."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Trials fulfilled the following criteria: 1) randomised intervention trial, 2) included adults aged at least 18 years, 3) randomised to a lower fat versus higher fat diet, without the intention to reduce weight in any participants, 4) not multifactorial and 5) assessed a measure of weight or body fatness after at least six months. We duplicated inclusion decisions and resolved disagreement by discussion or referral to a third party."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data on the population, intervention, control and outcome measures in duplicate. We extracted measures of body fatness (body weight, BMI, percentage body fat and waist circumference) independently in duplicate at all available time points. We performed random-effects meta-analyses, meta-regression, subgrouping, sensitivity, funnel plot analyses and GRADE assessment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 37 RCTs (57,079 participants). There is consistent high-quality evidence from RCTs that reducing total fat intake results in small reductions in body fatness; this was seen in almost all included studies and was highly resistant to sensitivity analyses (GRADE high-quality evidence, not downgraded). The effect of eating less fat (compared with higher fat intake) is a mean body weight reduction of 1.4 kg (95% confidence interval (CI) -1.7 to -1.1 kg, in 53,875 participants from 26 RCTs, I2 = 75%). The heterogeneity was explained in subgrouping and meta-regression. These suggested that greater weight loss results from greater fat reductions in people with lower fat intake at baseline, and people with higher body mass index (BMI) at baseline. The size of the effect on weight does not alter over time and is mirrored by reductions in BMI (MD -0.5 kg/m2, 95% CI -0.6 to -0.3, 46,539 participants in 14 trials, I2 = 21%), waist circumference (MD -0.5 cm, 95% CI -0.7 to -0.2, 16,620 participants in 3 trials; I2 = 21%), and percentage body fat (MD -0.3% body fat, 95% CI -0.6 to 0.00, P = 0.05, in 2350 participants in 2 trials; I2 = 0%).\nThere was no suggestion of harms associated with low fat diets that might mitigate any benefits on body fatness. The reduction in body weight was reflected in small reductions in LDL (-0.13 mmol/L, 95% CI -0.21 to -0.05), and total cholesterol (-0.23 mmol/L, 95% CI -0.32 to -0.14), with little or no effect on HDL cholesterol (-0.02 mmol/L, 95% CI -0.03 to 0.00), triglycerides (0.01 mmol/L, 95% CI -0.05 to 0.07), systolic (-0.75 mmHg, 95% CI -1.42 to -0.07) or diastolic blood pressure(-0.52 mmHg, 95% CI -0.95 to -0.09), all GRADE high-quality evidence or quality of life (0.04, 95% CI 0.01 to 0.07, on a scale of 0 to 10, GRADE low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Trials where participants were randomised to a lower fat intake versus a higher fat intake, but with no intention to reduce weight, showed a consistent, stable but small effect of low fat intake on body fatness: slightly lower weight, BMI, waist circumference and percentage body fat compared with higher fat arms. Greater fat reduction, lower baseline fat intake and higher baseline BMI were all associated with greater reductions in weight. There was no evidence of harm to serum lipids, blood pressure or quality of life, but rather of small benefits or no effect."
+    }
+  ],
+  "pls_title": "Effect of cutting down the fat we eat on body weight",
+  "pls_type": "long",
+  "pls": "The ideal proportion of energy from fat in our food and its relation to body fatness is not clear. This review looked at the effect of cutting down the proportion of energy from fat in our food on body fatness in adults who are not aiming to lose weight. Body fatness was measured using body weight, body mass index, waist circumference and percent body fatness. The evidence is current to October 2019. The review found that cutting down on the proportion of fat in our food leads to a small but noticeable decrease in body weight, body mass index, percentage body fat and waist circumference. The effect did not change over time, but reducing fat intake to a greater extent results in greater weight reduction. We assessed potential harms of reducing total fat, but found no evidence of harm on serum lipids, blood pressure or quality of life."
+}

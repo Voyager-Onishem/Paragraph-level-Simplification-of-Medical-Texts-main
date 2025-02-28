@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012017.pub2",
+  "name": "Grommets (ventilation tubes) for recurrent acute otitis media in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute otitis media (AOM) is one of the most common childhood illnesses. While many children experience sporadic AOM episodes, an important group suffer from recurrent AOM (rAOM), defined as three or more episodes in six months, or four or more in one year. In this subset of children AOM poses a true burden through frequent episodes of ear pain, general illness, sleepless nights and time lost from nursery or school. Grommets, also called ventilation or tympanostomy tubes, can be offered for rAOM."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of bilateral grommet insertion with or without concurrent adenoidectomy in children with rAOM."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; CENTRAL; MEDLINE; EMBASE; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 4 December 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing bilateral grommet insertion with or without concurrent adenoidectomy and no ear surgery in children up to age 16 years with rAOM. We planned to apply two main scenarios: grommets as a single surgical intervention and grommets as concurrent treatment with adenoidectomy (i.e. children in both the intervention and comparator groups underwent adenoidectomy). The comparators included active monitoring, antibiotic prophylaxis and placebo medication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures expected by Cochrane. Primary outcomes were: proportion of children who have no AOM recurrences at three to six months follow-up (intermediate-term) and persistent tympanic membrane perforation (significant adverse event). Secondary outcomes were: proportion of children who have no AOM recurrences at six to 12 months follow-up (long-term); total number of AOM recurrences, disease-specific and generic health-related quality of life, presence of middle ear effusion and other adverse events at short-term, intermediate-term and long-term follow-up. We used GRADE to assess the quality of the evidence for each outcome; this is indicated in italics."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five RCTs (805 children) with unclear or high risk of bias were included. All studies were conducted prior to the introduction of pneumococcal vaccination in the countries' national immunisation programmes. In none of the trials was adenoidectomy performed concurrently in both groups.\nGrommets versus active monitoring\nGrommets were more effective than active monitoring in terms of:\n- proportion of children who had no AOM recurrence at six months (one study, 95 children, 46% versus 5%; risk ratio (RR) 9.49, 95% confidence interval (CI) 2.38 to 37.80, number needed to treat to benefit (NNTB) 3; low-quality evidence);\n- proportion of children who had no AOM recurrence at 12 months (one study, 200 children, 48% versus 34%; RR 1.41, 95% CI 1.00 to 1.99, NNTB 8; low-quality evidence);\n- number of AOM recurrences at six months (one study, 95 children, mean number of AOM recurrences per child: 0.67 versus 2.17, mean difference (MD) -1.50, 95% CI -1.99 to -1.01; low-quality evidence);\n- number of AOM recurrences at 12 months (one study, 200 children, one-year AOM incidence rate: 1.15 versus 1.70, incidence rate difference -0.55, 95% -0.17 to -0.93; low-quality evidence).\nChildren receiving grommets did not have better disease-specific health-related quality of life (Otitis Media-6 questionnaire) at four (one study, 85 children) or 12 months (one study, 81 children) than those managed by active monitoring (low-quality evidence ).\nOne study reported no persistent tympanic membrane perforations among 54 children receiving grommets (low-quality evidence).\nGrommets versus antibiotic prophylaxis\nIt is uncertain whether or not grommets are more effective than antibiotic prophylaxis in terms of:\n- proportion of children who had no AOM recurrence at six months (two studies, 96 children, 60% versus 35%; RR 1.68, 95% CI 1.07 to 2.65, I2 = 0%, fixed-effect model, NNTB 5; very low-quality evidence);\n- number of AOM recurrences at six months (one study, 43 children, mean number of AOM recurrences per child: 0.86 versus 1.38, MD -0.52, 95% CI -1.37 to 0.33; very low-quality evidence).\nGrommets versus placebo medication\nGrommets were more effective than placebo medication in terms of:\n- proportion of children who had no AOM recurrence at six months (one study, 42 children, 55% versus 15%; RR 3.64, 95% CI 1.20 to 11.04, NNTB 3; very low-quality evidence);\n- number of AOM recurrences at six months (one study, 42 children, mean number of AOM recurrences per child: 0.86 versus 2.0, MD -1.14, 95% CI -2.06 to -0.22; very low-quality evidence).\nOne study reported persistent tympanic membrane perforations in 3 of 76 children (4%) receiving grommets (low-quality evidence).\nSubgroup analysis\nThere were insufficient data to determine whether presence of middle ear effusion at randomisation, type of grommet or age modified the effectiveness of grommets."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence on the effectiveness of grommets in children with rAOM is limited to five RCTs with unclear or high risk of bias, which were conducted prior to the introduction of pneumococcal vaccination. Low to very low-quality evidence suggests that children receiving grommets are less likely to have AOM recurrences compared to those managed by active monitoring and placebo medication, but the magnitude of the effect is modest with around one fewer episode at six months and a less noticeable effect by 12 months. The low to very low quality of the evidence means that these numbers need to be interpreted with caution since the true effects may be substantially different. It is uncertain whether or not grommets are more effective than antibiotic prophylaxis. The risk of persistent tympanic membrane perforation after grommet insertion was low.\nWidespread use of pneumococcal vaccination has changed the bacteriology and epidemiology of AOM, and how this might impact the results of prior trials is unknown. New and high-quality RCTs of grommet insertion in children with rAOM are therefore needed. These trials should not only focus on the frequency of AOM recurrences, but also collect data on the severity of AOM episodes, antibiotic consumption and adverse effects of both surgery and antibiotics. This is particularly important since grommets may reduce the severity of AOM recurrences and allow for topical rather than oral antibiotic treatment."
+    }
+  ],
+  "pls_title": "Grommets for children with recurring acute middle ear infections",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do children with recurring acute middle ear infections benefit from placement of grommets in both ears (with or without surgical removal of the adenoids at the same time)?"
+    },
+    {
+      "heading": "Background",
+      "text": "An acute middle ear infection is one of the most common childhood illnesses. While most children have an occasional episode, some suffer from recurring ear infections (three or more infections over a period of a six months, or four or more in a year). Such recurring infections cause considerable distress through frequent ear pain, fever, general illness, sleepless nights and time lost from nursery or school for the child and from work for their carers. Grommets, also known as ventilation or tympanostomy tubes, can be offered as a treatment. They are tiny plastic tubes put into the eardrum by an ENT surgeon during a short operation."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review includes evidence up to 4 December 2017. We included five randomised controlled trials with a total of 805 children with recurring acute middle ear infections. All studies were performed before the introduction of vaccination against pneumococcus, a bacterium that commonly causes ear infections. Surgical removal of the adenoids was not performed in both groups in any of the trials."
+    },
+    {
+      "heading": "Key results",
+      "text": "We primarily looked at the difference in the proportion of children who had no further acute middle ear infections at three to six months follow-up (intermediate-term), and who had a persisting perforation (hole) in the ear drum. We also looked at some other outcomes, including the proportion of children who had no further episodes of acute middle ear infection.\nGrommets versus active monitoring\nWe found low-quality evidence that fewer children who were treated with grommets had further episodes of ear infection at six and 12 months follow-up than those managed with active monitoring; three and eight children needed to be treated with grommets to benefit one, respectively. The number of ear infections at six and 12 months follow-up was also lower in the grommets group; the difference was, however, at best modest with around one fewer episode at six months and a less noticeable effect by 12 months (low to very low-quality evidence ). Children treated with grommets did not have better quality of life at four or 12 months follow-up (low-quality evidence).\nGrommets versus antibiotic prophylaxis\nIt is uncertain whether or not grommets are more effective than antibiotic prophylaxis; we found very low-quality evidence that fewer children who were treated with grommets had further ear infections at six months than those receiving antibiotic prophylaxis (preventative antibiotics); five children needed to be treated with grommets to benefit one. The number of ear infections at six months, however, did not significantly differ between children treated with grommets and those receiving antibiotic prophylaxis (very-low quality evidence).\nGrommets versus placebo drugs\nWe found very low-quality evidence that fewer children who were treated with grommets had further ear infections at six months than those receiving placebo drugs; three children needed to be treated with grommets to benefit one. The number of ear infections at six months was also lower in the grommets group; the difference was however at best modest with around one fewer episode (very low-quality evidence).\nNegative effects of grommets were not systematically reported in the studies. Two studies reported on the number of children with a persistent perforation of the ear drum; this occurred in 0% (0/54) and 4% (3/76) of children receiving grommets, respectively (low-quality evidence)."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We judged the quality of the evidence on the benefits and harms of placement of grommets in both ears for children with recurring acute middle ear infections to be low to very low due to study limitations (risk of bias) and the small to very small sample sizes of included studies (leading to imprecise effect estimates). This means that the findings of this review should be interpreted with caution since the true effects of grommets in this group of children may be different than the numbers presented."
+    }
+  ]
+}

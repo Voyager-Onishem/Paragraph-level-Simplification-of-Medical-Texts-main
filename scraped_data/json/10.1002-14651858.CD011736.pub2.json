@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011736.pub2",
+  "name": "E‐learning for health professionals",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The use of e-learning, defined as any educational intervention mediated electronically via the Internet, has steadily increased among health professionals worldwide. Several studies have attempted to measure the effects of e-learning in medical practice, which has often been associated with large positive effects when compared to no intervention and with small positive effects when compared with traditional learning (without access to e-learning). However, results are not conclusive."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of e-learning programmes versus traditional learning in licensed health professionals for improving patient outcomes or health professionals' behaviours, skills and knowledge."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, five other databases and three trial registers up to July 2016, without any restrictions based on language or status of publication. We examined the reference lists of the included studies and other relevant reviews. If necessary, we contacted the study authors to collect additional information on studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials assessing the effectiveness of e-learning versus traditional learning for health professionals. We excluded non-randomised trials and trials involving undergraduate health professionals."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies, extracted data and assessed risk of bias. We graded the certainty of evidence for each outcome using the GRADE approach and standardised the outcome effects using relative risks (risk ratio (RR) or odds ratio (OR)) or standardised mean difference (SMD) when possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 16 randomised trials involving 5679 licensed health professionals (4759 mixed health professionals, 587 nurses, 300 doctors and 33 childcare health consultants).\nWhen compared with traditional learning at 12-month follow-up, low-certainty evidence suggests that e-learning may make little or no difference for the following patient outcomes: the proportion of patients with low-density lipoprotein (LDL) cholesterol of less than 100 mg/dL (adjusted difference 4.0%, 95% confidence interval (CI) −0.3 to 7.9, N = 6399 patients, 1 study) and the proportion with glycated haemoglobin level of less than 8% (adjusted difference 4.6%, 95% CI −1.5 to 9.8, 3114 patients, 1 study). At 3- to 12-month follow-up, low-certainty evidence indicates that e-learning may make little or no difference on the following behaviours in health professionals: screening for dyslipidaemia (OR 0.90, 95% CI 0.77 to 1.06, 6027 patients, 2 studies) and treatment for dyslipidaemia (OR 1.15, 95% CI 0.89 to 1.48, 5491 patients, 2 studies). It is uncertain whether e-learning improves or reduces health professionals' skills (2912 health professionals; 6 studies; very low-certainty evidence), and it may make little or no difference in health professionals' knowledge (3236 participants; 11 studies; low-certainty evidence).\nDue to the paucity of studies and data, we were unable to explore differences in effects across different subgroups. Owing to poor reporting, we were unable to collect sufficient information to complete a meaningful 'Risk of bias' assessment for most of the quality criteria. We evaluated the risk of bias as unclear for most studies, but we classified the largest trial as being at low risk of bias. Missing data represented a potential source of bias in several studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "When compared to traditional learning, e-learning may make little or no difference in patient outcomes or health professionals' behaviours, skills or knowledge. Even if e-learning could be more successful than traditional learning in particular medical education settings, general claims of it as inherently more effective than traditional learning may be misleading."
+    }
+  ],
+  "pls_title": "Is e-learning more effective than traditional learning for health professionals?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review is to find out whether e-learning, that is, interactive online educational programmes, is more effective than traditional learning (with no access to e-learning) in licensed health professionals for improving patient outcomes or health professionals' behaviours, skills and knowledge. Cochrane researchers collected and analysed all relevant evidence to answer this question and identified 16 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "When compared to traditional learning, e-learning may make little or no difference for improving patient outcomes or health professionals' behaviours and knowledge, and it is uncertain whether it improves or reduces health professionals' skills."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Modern technologies have created new platforms for advancing medical education. E-learning has gained popularity due to the potential benefits of personalised instruction, allowing learners to tailor the pace and content of courses to their individual needs, increasing the accessibility of information to remote learners, decreasing costs and facilitating frequent content updates.\nPrevious reviews have not identified differences, but they were limited by the type of participants included (mix of licensed health professionals and medical students) and study types evaluated (randomised together with non-randomised trials)."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review authors identified 16 relevant studies from 10 different countries, providing data on 5679 participants (4759 mixed health professionals, 587 nurses, 300 doctors and 33 childcare health consultants). Companies funded three studies, whereas government agencies financed six.\nOne study with 847 health professionals found little or no difference between e-learning and traditional learning on patient outcomes at one year, and two studies with 950 health professionals suggested little to no difference in health professionals' behaviours at 3 to 12 months, as the certainty of the evidence was low. We are uncertain whether e-learning improves or reduces health professionals' skills at 0 to 12 weeks' follow-up, based on the results of six studies with 2912 participants and very low certainty of evidence. E-learning may also make little or no difference on health professionals' knowledge, based on the results from 11 studies with 3236 participants at 0 to 12 weeks follow-up, as the certainty of the evidence was low."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to July 2016."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD012707.pub2",
+  "name": "Adult patient access to electronic health records",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "To support patient-centred care, healthcare organisations increasingly offer patients access to data stored in the institutional electronic health record (EHR)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective\n1. To assess the effects of providing adult patients with access to electronic health records (EHRs) alone or with additional functionalities on a range of patient, patient-provider, and health resource consumption outcomes, including patient knowledge and understanding, patient empowerment, patient adherence, patient satisfaction with care, adverse events, health-related quality of life, health-related outcomes, psychosocial health outcomes, health resource consumption, and patient-provider communication.\nSecondary objective\n1. To assess whether effects of providing adult patients with EHR access alone versus EHR access with additional functionalities differ among patient groups according to age, educational level, or different status of disease (chronic or acute)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and Scopus in June 2017 and in April 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials and cluster-randomised trials of EHR access with or without additional functionalities for adults with any medical condition."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 studies with 78 to 4500 participants and follow-up from 3 to 24 months. Nine studies assessed the effects of EHR with additional functionalities, each addressing a subset of outcomes sought by this review. Five studies focused on patients with diabetes mellitus, four on patients with specific diseases, and one on all patients. All studies compared EHR access alone or with additional functionalities plus usual care versus usual care only. No studies assessing the effects of EHR access alone versus EHR access with additional functionalities were identified. Interventions required a variety of data within the EHR, such as patient history, problem list, medication, allergies, and lab results. In addition to EHR access, eight studies allowed patients to share self-documented data, seven offered individualised disease management functions, seven offered educational disease-related information, six supported secure communication, and one offered preventive reminders.\nOnly two studies were at low or unclear risk of bias across domains. Meta-analysis could not be performed, as participants, interventions, and outcomes were too heterogeneous, and most studies presented results based on different adjustment methods or variables. The quality of evidence was rated as low or very low across outcomes. Overall differences between intervention and control groups, if any, were small. The relevance of any small effects remains unclear for most outcomes because in most cases, trial authors did not define a minimal clinically important difference. Overall, results suggest that the effects of EHR access alone and with additional functionalities are mostly uncertain when compared with usual care.\nPatient knowledge and understanding: very low-quality evidence is available from one study, so we are uncertain about effects of the intervention on patient knowledge about diabetes and blood glucose testing.\nPatient empowerment: low-quality evidence from three studies suggests that the intervention may have little or no effect on patient empowerment measures.\nPatient adherence: low-quality evidence from two studies suggests that the intervention may slightly improve adherence to the process of monitoring risk factors and preventive services. Effects on medication adherence are conflicting in two studies; this may or may not improve to a clinically relevant degree.\nPatient satisfaction with care: low-quality evidence from three studies suggests that the intervention may have little or no effect on patient satisfaction, with conflicting results.\nAdverse events: two small studies reported on mortality; one of these also reported on serious and other adverse events, but sample sizes were too small for small differences to be detected. Therefore, low-quality evidence suggests that the intervention may have little to no effect on mortality and other adverse events.\nHealth-related quality of life: only very low-quality evidence from one study is available. We are uncertain whether the intervention improves disease-specific quality of life of patients with asthma.\nHealth-related outcomes: low-quality evidence from eight studies suggests that the intervention may have little to no effect on asthma control, glycosylated haemoglobin (HbA1c) levels, blood pressure, low-density lipoprotein or total cholesterol levels, body mass index or weight, or 10-year Framingham risk scores. Low-quality evidence from one study suggests that the composite scores of risk factors for diabetes mellitus may improve slightly with the intervention, but there is uncertainty about effects on ophthalmic medications or intraocular pressure.\nPsychosocial health outcomes: no study investigated psychosocial health outcomes in a more than anecdotal way.\nHealth resource consumption: low-quality evidence for adult patients in three studies suggests that there may be little to no effect of the intervention on different measures of healthcare use.\nPatient-provider communication: very low-quality evidence is available from a single small study, and we are uncertain whether the intervention improves communication measures, such as the number of messages sent."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of EHR access with additional functionalities in comparison with usual care for the most part are uncertain. Only adherence to the process of monitoring risk factors and providing preventive services as well as a composite score of risk factors for diabetes mellitus may improve slightly with EHR access with additional functionalities. Due to inconsistent terminology in this area, our search may have missed relevant studies.\nAs the overall quality of evidence is very low to low, future research is likely to change these results. Further trials should investigate the impact of EHR access in a broader range of countries and clinical settings, including more patients over a longer period of follow-up, as this may increase the likelihood of detecting effects of the intervention, should these exist. More studies should focus on assessing outcomes such as patient empowerment and behavioural outcomes, rather than concentrating on health-related outcomes alone. Future studies should distinguish between effects of EHR access only and effects of additional functionalities, and investigate the impact of mobile EHR tools. Future studies should include information on usage patterns, and consider the potential for widening health inequalities with implementation of EHR access. A taxonomy for EHR access and additional functionalities should be developed to promote consistency and comparability of outcome measures, and facilitate future reviews by better enabling cross-study comparisons."
+    }
+  ],
+  "pls_title": "Adult patient access to electronic health records",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Do patients manage their healthcare better if they can access their electronic health records?",
+      "text": ""
+    },
+    {
+      "heading": "What are electronic health records?",
+      "text": "Healthcare providers maintain health-related information about a patient in an electronic health record, which is held in a digital form and is accessed by a computer. Healthcare professionals use these records to access all health-related information for a patient's care, whenever and wherever they need it. Information may include a person's medical history, medicines, allergies, test results, and immunisation history.\nSome healthcare providers let patients see their own electronic health records, usually by giving them web-based access. Patients may also be offered other web-based services, such as health-related reminders, secure messaging, and general educational health information."
+    },
+    {
+      "heading": "Why we did this Cochrane Review",
+      "text": "Access to electronic health records might encourage patients to talk with a healthcare professional about their health and potential treatments, and might help them to take part in decision-making. We wanted to find out whether access to electronic health records benefits patients or causes any potentially unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at patients’ access to electronic health records. We also looked for studies where access came with extra services. We were interested in changes in:\n1. how much patients knew, and understood, about their healthcare;\n2. whether patients felt more in control of their care (empowerment);\n3. taking medicines, or keeping up with monitoring (prevention) programmes;\n4. patients' satisfaction with their care;\n5. how patients rated their well-being (quality of life);\n6. patients' health;\n7. patients' levels of anxiety, worry, or depression;\n8. how often patients used healthcare services (numbers of phone calls or visits);\n9. communication between patients and their healthcare providers; and\n10. whether patients experienced any unwanted effects."
+    },
+    {
+      "heading": "Search date",
+      "text": "we included evidence published from 2000 up to April 2020."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 10 relevant studies, published between 2000 and 2016, that enrolled from 78 to 4500 adults. These studies took place in the USA (seven studies), Canada (two), and Japan (one). Five studies were conducted in doctors' offices and five in hospital clinics. People taking part in the studies were followed up for three months to two years. Two studies were funded in part by pharmaceutical companies.\nThe studies focused on patients with type 2 diabetes (five studies), asthma (one study), glaucoma (one study), congestive heart failure (one study), and hypertension (one study); one study focused on patients who visited their doctor for any reason.\nStudies compared usual care plus access to electronic health records against usual care alone. In nine studies, access to electronic health records came with extra services.\nWe could not combine study results because of differences in how studies were conducted, types of patients enrolled, and how results were measured, so we had to evaluate them separately."
+    },
+    {
+      "heading": "What are the main results of our review?",
+      "text": "Compared with usual care, we are uncertain whether access to electronic health records affected:\n1. patients' knowledge and understanding of diabetes and of blood glucose testing (evidence from one study in 379 patients with diabetes); or\n2. how often patients communicated with their healthcare provider (one study in 107 patients).\nCompared with usual care, access to electronic health records may make little to no difference in:\n1. patients feeling empowered (three studies; 601 patients) or satisfied with their care (three studies; 903 patients); or\n2. how many patients died or reported serious unwanted effects (two studies; 486 patients).\nFour studies (in 5466 patients) looked at how well patients kept up with monitoring programmes and continued to take their medicines. Although access to electronic health records may slightly improve keeping up with monitoring programmes, studies assessing how patients continued to take their medications showed different results, so we are unclear about effects of the intervention.\nAccessing electronic health records may not have affected how often patients used healthcare services (three studies).\nNo studies reported on any unwanted effects nor on whether access to health records may have affected patients' anxiety, worry, or depression."
+    },
+    {
+      "heading": "How confident are we about our results?",
+      "text": "We are not confident in our results because of the small number of studies found. Our search may have missed some relevant studies because of differences in terms used for electronic health records. In addition, we identified limitations in the ways most studies were designed or conducted. Further evidence is likely to change our results."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Access to electronic health records (and extra services) may provide little to no benefit for patients' feelings of empowerment or satisfaction, nor for risk factors for diabetes, cardiovascular disease, and high pressure inside the eye (a risk factor for glaucoma). Such access may slightly increase how many patients keep up with monitoring for risk factors.\nFuture studies should use up-to-date technologies such as mobile devices to find out:\n1. effects of access to electronic health records;\n2. for which groups of patients access is most suitable; and\n3. which extra services should be included."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009938.pub2",
+  "name": "Closure versus medical therapy for preventing recurrent stroke in patients with patent foramen ovale and a history of cryptogenic stroke or transient ischemic attack ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The optimal therapy for preventing recurrent stroke in people with cryptogenic stroke and patent foramen ovale (PFO) has not been defined. The choice between medical therapy (antithrombotic treatment with antiplatelet agents or anticoagulants) and transcatheter device closure has been the subject of intense debate over the past several years. Despite the lack of scientific evidence, a substantial number of people undergo transcatheter device closure (TDC) for secondary stroke prevention."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To: 1) compare the safety and efficacy of TDC with best medical therapy alone for preventing recurrent stroke (fatal or non-fatal) or transient ischemic attacks (TIAs) in people with PFO and a history of cryptogenic stroke or TIA; 2) identify specific subgroups of people most likely to benefit from closure for secondary prevention; and 3) assess the cost-effectiveness of this strategy, if possible."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (July 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2014), MEDLINE (1950 to July 2014) and EMBASE (1980 to July 2014). In an effort to identify unpublished and ongoing trials we searched seven trials registers and checked reference lists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), irrespective of blinding, publication status, and language, comparing the safety and efficacy of device closure with medical therapy for preventing recurrent stroke or TIA in people with PFO and a history of cryptogenic stroke or TIA."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials for inclusion, assessed quality and risk of bias, and extracted data. The primary outcome measures of this analysis were the composite endpoint of ischemic stroke or TIA events as well as recurrent fatal or non-fatal ischemic stroke. Secondary endpoints included all-cause mortality, serious adverse events (atrial fibrillation, myocardial infarction, bleeding) and procedural success and effective closure. We used the Mantel-Haenszel method to obtain pooled risk ratios (RRs) using the random-effects model regardless of the level of heterogeneity. We pooled data for the primary outcome measure with the generic inverse variance method using the random-effects model, yielding risk estimates as pooled hazard ratio (HR), which accounts for time-to-event outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three RCTs involving a total of 2303 participants: 1150 participants were randomized to receive TDC and 1153 participants were randomized to receive medical therapy. Overall, the risk of bias was regarded as high. The mean follow-up period of all three included trials was less than five years. Baseline characteristics (age, sex, and vascular risk factors) were similar across trials. Intention-to-treat analyses did not show a statistically significant risk reduction in the composite endpoint of recurrent stroke or TIA in the TDC group when compared with medical therapy (RR 0.73, 95% CI 0.45 to 1.17). A time-to-event analysis combining the results of two RCTs also failed to show a significant risk reduction with TDC (HR 0.69, 95% CI 0.43 to 1.13). When assessing stroke prevention alone, TDC still did not show a statistically significant benefit (RR 0.61, 95% CI 0.29 to 1.27) (HR 0.55, 95% CI 0.26 to 1.18). In a sensitivity analysis including the two studies using the Amplatzer PFO occluder, TDC showed a possible protective effect on recurrent stroke compared with medical therapy (HR 0.38, 95% CI 0.14 to 1.02); however, it did not reach statistical significance. Safety analysis found that the overall risks for all-cause mortality and adverse events were similar in both the TDC and medical therapy groups. However, TDC increased the risk of new-onset atrial fibrillation (RR 3.50, 95% CI 1.47 to 8.35) and may be associated with the type of device used."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The combined data from recent RCTs have shown no statistically significant differences between TDC and medical therapy in the prevention of recurrent ischemic stroke. TDC closure was associated with an increased risk of atrial fibrillation but not with serious adverse events."
+    }
+  ],
+  "pls_title": "Patent foramen ovale closure versus medical therapy for preventing further stroke or similar events in people who have had a stroke of unknown cause",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "We wanted to compare the safety and effectiveness of transcatheter device closure (TDC) versus medical therapy in people with a patent foramen ovale (PFO) who have suffered a stroke of unknown cause in order to prevent strokes or similar events occurring again."
+    },
+    {
+      "heading": "Background",
+      "text": "Some people who have had a stroke of no known cause (cryptogenic stroke) are found to have a PFO, which is a hole between the upper chambers of the heart. It is believed that the existence of a PFO may cause further strokes or similar events so it is important to close the PFO to prevent this from happening. It is not clear whether using TDC (by placing a device over the hole in the heart via a tube that is inserted through a vein in the groin) is superior to medical therapy for preventing recurrent stroke or other similar events."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to July 2014. We included in our analysis three multicenter randomized trials involving a total of 2303 participants. All three trials recruited participants aged 60 years or younger with a cryptogenic stroke or minor stroke and had a PFO diagnosed by specialist heart scan. 1150 participants were randomized to the TDC group where the procedure was performed with the Amplatzer device in two studies, and with the STARFlex device in one study. The mean follow-up period of all three included trials was less than five years. Two studies were sponsored by St Jude Medical and one study was sponsored by NMT Medical."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that, when compared with medical therapy, TDC failed to show any significant benefit in reducing the risk of recurrent stroke or similar events. However, there was a possible protective effect on recurrent strokes in those participants for whom an Amplatzer device was used compared with medical therapy. We did not find evidence that TDC increased the rate of serious adverse events overall. However, TDC increased the risk of new-onset atrial fibrillation (where there is a problem with the rate or rhythm of the heartbeat) and may be associated with the type of device used."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We performed this systematic review of three randomized trials to compare both the safety and efficacy of TDC with medical therapy on recurrent cerebrovascular events in people with cryptogenic stroke and PFO following theCochrane Handbook for Systematic Reviews of Interventions.The major problem in terms of risk of bias is the high dropout rate compared with event rate in these three trials and different dropout rates between groups. Meanwhile, we lack individual-level data for analysis. Although there is a suggestion of potential benefit with the Amplatzer device closure in preventing recurrent stroke, our findings still need to be confirmed in further studies."
+    }
+  ]
+}

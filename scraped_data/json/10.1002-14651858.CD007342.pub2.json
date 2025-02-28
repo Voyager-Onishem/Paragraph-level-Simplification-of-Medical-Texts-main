@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007342.pub2",
+  "name": "Antibiotic prophylaxis for leptospirosis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Leptospira infection is a global zoonosis with significant health impact for agricultural workers and those persons whose work or recreation takes them into endemic areas."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This systematic review assessed the current literature for evidence for or against use of antibiotic prophylaxis against Leptospira infection (leptospirosis)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The authors searched The Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL ) in The Cochrane Library , MEDLINE, EMBASE , and SCI-Expanded as well as relevant professional society meeting abstracts until January 2009."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Prospective, randomised clinical trials studying antibiotic prophylaxis against leptospirosis were selected."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data collection abstracted participant demographics and outcomes as well as features of trial design and quality. Trial results were analysed to independently determine outcomes, while multiple trial data was pooled when relevant."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three trials were included, all of which evaluated doxycyline use. Trial quality suffered from a lack of intention-to-treat analysis and variability across trials in methodology and targeted outcomes. One trial assessed post-exposure prophylaxis in an indigenous population after a flood without apparent efficacy in reduction of clinical or laboratory identified Leptospira infection. Two trials assessed pre-exposure prophylaxis, one among deployed soldiers and another in an indigenous population. Despite an odds ratio of 0.05 (95% CI 0.01 to 0.36) for laboratory-identified infection among deployed soldiers on doxycyline in one of these two trials, pooled data showed no statistically significant reduction in Leptospira infection among participants (Odds ratio 0.28 (95% CI 0.01 to 7.48). Minor adverse events (predominantly nausea and vomiting) were more common among those on doxycycline with an odds ratio of 11 (95% CI 2.1 to 60)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Regular use of weekly oral doxycycline 200 mg increases the odds for nausea and vomiting with unclear benefit in reducing Leptospira seroconversion or clinical consequences of infection."
+    }
+  ],
+  "pls_title": "Use of antibiotics may or may not prevent leptospirosis",
+  "pls_type": "long",
+  "pls": "This is a systematic review of clinical research testing whether taking the antibiotic can prevent infection from a water-borne bacteria called Leptospira. Data from different trials had conflicting results, and these trials targeted different kinds of people - travellers and people who live in at risk areas, encompassing soldiers, farmers, and students. Taken together, the data does not support the practice in all cases, though short term travellers with a potential for high risk exposure may be helped. People who took doxycycline were more likely to have stomach pain, nausea, and vomiting but the medication had to be stopped in only a few participants."
+}

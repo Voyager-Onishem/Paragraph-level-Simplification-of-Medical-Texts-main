@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009608.pub2",
+  "name": "Cognitive behavioural therapy (group) for schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a disabling psychotic disorder characterised by positive symptoms of delusions, hallucinations, disorganised speech and behaviour; and negative symptoms such as affective flattening and lack of motivation. Cognitive behavioural therapy (CBT) is a psychological intervention that aims to change the way in which a person interprets and evaluates their experiences, helping them to identify and link feelings and patterns of thinking that underpin distress. CBT models targeting symptoms of psychosis (CBTp) have been developed for many mental health conditions including schizophrenia. CBTp has been suggested as a useful add-on therapy to medication for people with schizophrenia. While CBT for people with schizophrenia was mainly developed as an individual treatment, it is expensive and a group approach may be more cost-effective. Group CBTp can be defined as a group intervention targeting psychotic symptoms, based on the cognitive behavioural model. In group CBTp, people work collaboratively on coping with distressing hallucinations, analysing evidence for their delusions, and developing problem-solving and social skills. However, the evidence for effectiveness is far from conclusive."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate efficacy and acceptability of group CBT applied to psychosis compared with standard care or other psychosocial interventions, for people with schizophrenia or schizoaffective disorder."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 10 February 2021, we searched the Cochrane Schizophrenia Group's Study-Based Register of Trials, which is based on CENTRAL, MEDLINE, Embase, four other databases and two trials registries. We handsearched the reference lists of relevant papers and previous systematic reviews and contacted experts in the field for supplemental data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials allocating adults with schizophrenia to receive either group CBT for schizophrenia, compared with standard care, or any other psychosocial intervention (group or individual)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We complied with Cochrane recommended standard of conduct for data screening and collection. Where possible, we calculated risk ratio (RR) and 95% confidence interval (CI) for binary data and mean difference (MD) and 95% CI for continuous data. We used a random-effects model for analyses. We assessed risk of bias for included studies and created a summary of findings table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review includes 24 studies (1900 participants). All studies compared group CBTp with treatments that a person with schizophrenia would normally receive in a standard mental health service (standard care) or any other psychosocial intervention (group or individual). None of the studies compared group CBTp with individual CBTp. Overall risk of bias within the trials was moderate to low.\nWe found no studies reporting data for our primary outcome of clinically important change. With regard to numbers of participants leaving the study early, group CBTp has little or no effect compared to standard care or other psychosocial interventions (RR 1.22, 95% CI 0.94 to 1.59; studies = 13, participants = 1267; I2 = 9%; low-certainty evidence). Group CBTp may have some advantage over standard care or other psychosocial interventions for overall mental state at the end of treatment for endpoint scores on the Positive and Negative Syndrome Scale (PANSS) total (MD –3.73, 95% CI –4.63 to –2.83; studies = 12, participants = 1036; I2 = 5%; low-certainty evidence). Group CBTp seems to have little or no effect on PANSS positive symptoms (MD –0.45, 95% CI –1.30 to 0.40; studies =8, participants = 539; I2 = 0%) and on PANSS negative symptoms scores at the end of treatment (MD –0.73, 95% CI –1.68 to 0.21; studies = 9, participants = 768; I2 = 65%). Group CBTp seems to have an advantage over standard care or other psychosocial interventions on global functioning measured by Global Assessment of Functioning (GAF; MD –3.61, 95% CI –6.37 to –0.84; studies = 5, participants = 254; I2 = 0%; moderate-certainty evidence), Personal and Social Performance Scale (PSP; MD 3.30, 95% CI 2.00 to 4.60; studies = 1, participants = 100), and Social Disability Screening Schedule (SDSS; MD –1.27, 95% CI –2.46 to –0.08; studies = 1, participants = 116). Service use data were equivocal with no real differences between treatment groups for number of participants hospitalised (RR 0.78, 95% CI 0.38 to 1.60; studies = 3, participants = 235; I2 = 34%). There was no clear difference between group CBTp and standard care or other psychosocial interventions endpoint scores on depression and quality of life outcomes, except for quality of life measured by World Health Organization Quality of Life Assessment Instrument (WHOQOL-BREF) Psychological domain subscale (MD –4.64, 95% CI –9.04 to –0.24; studies = 2, participants = 132; I2 = 77%). The studies did not report relapse or adverse effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Group CBTp appears to be no better or worse than standard care or other psychosocial interventions for people with schizophrenia in terms of leaving the study early, service use and general quality of life. Group CBTp seems to be more effective than standard care or other psychosocial interventions on overall mental state and global functioning scores. These results may not be widely applicable as each study had a low sample size. Therefore, no firm conclusions concerning the efficacy of group CBTp for people with schizophrenia can currently be made. More high-quality research, reporting useable and relevant data is needed."
+    }
+  ],
+  "pls_title": "Group cognitive behavioural therapy for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is group cognitive behavioural therapy (talking therapy) that targets psychoses (CBTp) more effective than standard care (the care a person would normally receive) or other forms of talking therapies (for example, counselling, supportive therapy; either group or individual) for people with schizophrenia?"
+    },
+    {
+      "heading": "What is schizophrenia?",
+      "text": "Schizophrenia is a disabling serious mental illness. It is characterised by delusions (bizarre beliefs), hallucinations (seeing or hearing things that are not there), negative symptoms (social withdrawal, apathy) and disorganised behaviour. Medications known as antipsychotics are the main treatment but are not always very effective at helping with the negative symptoms of schizophrenia. CBTp has been suggested as a useful add-on treatment to medication for people with mental illness, but evidence for its effectiveness for people with schizophrenia is uncertain. CBTp is usually an individual therapy but can also be delivered to a group of people, which may be more cost-effective. It is important to find out if group CBTp for people with schizophrenia is effective and acceptable."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "The Information Specialist of Cochrane Schizophrenia ran an electronic search of their specialised register up to 10 February 2021 for clinical trials that randomised group CBTp versus standard care or other psychosocial therapies (either group or individual) in people with schizophrenia."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 24 studies involving 1900 participants that met the review requirements and provided usable data. All studies compared group CBTp with standard care. Our evidence suggests there is no substantial difference between group CBTp and standard care or other psychosocial interventions in terms of numbers of participants leaving the study early. Group CBTp may be better than standard care or other psychosocial interventions for overall mental state for total symptoms of schizophrenia. Group CBTp seems to show no difference on positive and negative symptoms of schizophrenia compared to standard care or other psychosocial interventions. Group CBTp seems to be better than standard care or other psychosocial interventions on global functioning. There were no real differences between treatment groups for number of participants hospitalised for group CBTp compared to standard care or other psychosocial interventions."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Group CBTp seems to be better than standard care or other psychosocial interventions on total symptoms of schizophrenia and global functioning."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Studies with larger sample sizes and low risk of bias should be conducted. Longer-term outcomes need to be addressed to establish whether any effect is transient or long-lasting. Trials should improve their quality of data reporting."
+    }
+  ]
+}

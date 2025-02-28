@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012473.pub2",
+  "name": "Probiotics to prevent infantile colic",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Infantile colic is typically defined as full-force crying for at least three hours per day, on at least three days per week, for at least three weeks. Infantile colic affects a large number of infants and their families worldwide. Its symptoms are broad and general, and while not indicative of disease, may represent a serious underlying condition in a small percentage of infants who may need a medical assessment. Probiotics are live microorganisms that alter the microflora of the host and provide beneficial health effects. The most common probiotics used are of Lactobacillus , Bifidobacterium and Streptococcus. There is growing evidence to suggest that intestinal flora in colicky infants differ from those in healthy infants, and it is suggested that probiotics can redress this balance and provide a healthier intestinal microbiota landscape. The low cost and easy availability of probiotics makes them a potential prophylactic solution to reduce the incidence and prevalence of infantile colic."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of prophylactic probiotics in preventing or reducing severity of infantile colic."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In January 2018 we searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, 10 other databases and two trials registers. In addition, we handsearched the abstracts of relevant meetings, searched reference lists, ran citation searches of included studies, and contacted authors and experts in the field, including the manufacturers of probiotics, to identify unpublished trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised control trials (RCTs) of newborn infants less than one month of age without the diagnosis of infantile colic at recruitment. We included any probiotic, alone or in combination with a prebiotic (also known as synbiotics), versus no intervention, another intervention(s) or placebo, where the focus of the study was the effect of the intervention on infantile colic."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures of Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our search yielded 3284 records, and of these, we selected 21 reports for full-text review. Six studies with 1886 participants met our inclusion criteria, comparing probiotics with placebo. Two studies examined Lactobacillus reuteri DSM , two examined multi-strain probiotics, one examined Lactobacillus rhamnosus , and one examined Lactobacillus paracasei and Bifidobacterium animalis. Two studies began probiotics during pregnancy and continued administering them to the baby after birth.\nWe considered the risk of bias for randomisation as low for all six trials; for allocation concealment as low in two studies and unclear in four others. All studies were blinded, and at low risk of attrition and reporting bias.\nA random-effects meta-analysis of three studies (1148 participants) found no difference between the groups in relation to occurrence of new cases of colic: risk ratio (RR) 0.46, 95% confidence interval (CI) 0.18 to 1.19; low-certainty evidence; I2 = 72%.\nA random-effects meta-analysis of all six studies (1851 participants) found no difference between the groups in relation to serious adverse effects (RR 1.02, 95% CI 0.14 to 7.21; low-certainty evidence; I2 not calculable (only four serious events for one comparison, two in each group: meconium plug obstruction, patent ductus arteriosus and neonatal hepatitis).\nA random-effects meta-analysis of three studies (707 participants) found a mean difference (MD) of –32.57 minutes per day (95% CI –55.60 to –9.54; low-certainty evidence; I2 = 93%) in crying time at study end in favour of probiotics.\nA subgroup analysis of the most studied agent, Lactobacillus reuteri, showed a reduction of 44.26 minutes in daily crying with a random-effects model (95% CI –66.6 to –21.9; I2 = 92%), in favour of probiotics."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no clear evidence that probiotics are more effective than placebo at preventing infantile colic; however, daily crying time appeared to reduce with probiotic use compared to placebo. There were no clear differences in adverse effects.\nWe are limited in our ability to draw conclusions by the certainty of the evidence, which we assessed as being low across all three outcomes, meaning that we are not confident that these results would not change with the addition of further research."
+    }
+  ],
+  "pls_title": "Probiotics to prevent infantile colic",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was the aim of this review?",
+      "text": "The aim of this review was to investigate if probiotics given to healthy babies prevent infantile colic, and if they are safe."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Although probiotics make little or no difference to the occurrence of infantile colic, they may reduce crying time and there were no safety concerns. We still require more research to work out if the onset of colic can be reduced."
+    },
+    {
+      "heading": "What did the review study?",
+      "text": "Infantile colic affects a large number of infants and their families worldwide. Infantile colic is a problem characterised by episodes of inconsolable crying lasting for longer than three hours per day, for more than three days a week, for at least three weeks.\nProbiotics are live bacteria that, when ingested, can be beneficial for patients. Probiotics are cheap and readily available, and there is recent research investigating their use for this problem."
+    },
+    {
+      "heading": "What were the main results of the review?",
+      "text": "This review included six studies. The infants in the probiotics group were given different types of probiotics, and in different doses, and compared to infants who were given a placebo (dummy medicine).\nThe review found that, compared to placebo, probiotics made little or no difference to the occurrence of infantile colic, but appeared to reduce crying time. There was no difference in the reporting of side effects, with only four serious events reported in one large study, and these were clinically unlikely to be linked to the taking of either of the study products."
+    },
+    {
+      "heading": "How up-to-date was this review?",
+      "text": "We searched for studies that had been published up to January 2018."
+    }
+  ]
+}

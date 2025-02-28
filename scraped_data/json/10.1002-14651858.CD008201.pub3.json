@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD008201.pub3",
+  "name": "Interventions for implementation of thromboprophylaxis in hospitalized patients at risk for venous thromboembolism ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolism (VTE) is a leading cause of morbidity and mortality in hospitalized patients. While numerous randomized controlled trials (RCTs) have shown that the appropriate use of thromboprophylaxis in hospitalized patients at risk for VTE is safe, effective, and cost-effective, thromboprophylaxis remains underused or inappropriately used. Our previous review suggested that system-wide interventions, such as education, alerts, and multifaceted interventions were more effective at improving the prescribing of thromboprophylaxis than relying on individual providers’ behaviors. However, 47 of the 55 included studies in our previous review were observational in design. Thus, an update to our systematic review, focused on the higher level of evidence of RCTs only, was warranted."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of system-wide interventions designed to increase the implementation of thromboprophylaxis and decrease the incidence of VTE in hospitalized adult medical and surgical patients at risk for VTE, focusing on RCTs only."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Our research librarian conducted a systematic literature search of MEDLINE Ovid, and subsequently translated it to CENTRAL, PubMed, Embase Ovid, BIOSIS Previews Ovid, CINAHL, Web of Science, the Database of Abstracts of Reviews of Effects (DARE; in the Cochrane Library), NHS Economic Evaluation Database (EED; in the Cochrane Library), LILACS, and clinicaltrials.gov from inception to 7 January 2017. We also screened reference lists of relevant review articles. We identified 12,920 potentially relevant records."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all types of RCTs, with random or quasi-random methods of allocation of interventions, which either randomized individuals (e.g. parallel group, cross-over, or factorial design RCTs), or groups of individuals (cluster RCTs (CRTs)), which aimed to increase the use of prophylaxis or appropriate prophylaxis, or decrease the occurrence of VTE in hospitalized adult patients. We excluded observational studies, studies in which the intervention was simply distribution of published guidelines, and studies whose interventions were not clearly described. Studies could be in any language."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We collected data on the following outcomes: the number of participants who received prophylaxis or appropriate prophylaxis (as defined by study authors), the occurrence of any VTE (symptomatic or asymptomatic), mortality, and safety outcomes, such as bleeding. We categorized the interventions into alerts (computer or human alerts), multifaceted interventions (combination of interventions that could include an alert component), educational interventions (e.g. grand rounds, courses), and preprinted orders (written predefined orders completed by the physician on paper or electronically). We meta-analyzed data across RCTs using a random-effects model. For CRTs, we pooled effect estimates (risk difference (RD) and risk ratio (RR), with 95% confidence interval (CI), adjusted for clustering, when possible. We pooled results if three or more trials were available for a particular intervention. We assessed the certainty of the evidence according to the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "From the 12,920 records identified by our search, we included 13 RCTs (N = 35,997 participants) in our qualitative analysis and 11 RCTs (N = 33,207 participants) in our meta-analyses.\nPrimary outcome: Alerts were associated with an increase in the proportion of participants who received prophylaxis (RD 21%, 95% CI 15% to 27%; three studies; 5057 participants; I² = 75%; low-certainty evidence). The substantial statistical heterogeneity may be in part explained by patient types, type of hospital, and type of alert. Subgroup analyses were not feasible due to the small number of studies included in the meta-analysis.\nMultifaceted interventions were associated with a small increase in the proportion of participants who received prophylaxis (cluster-adjusted RD 4%, 95% CI 2% to 6%; five studies; 9198 participants; I² = 0%; moderate-certainty evidence). Multifaceted interventions with an alert component were found to be more effective than multifaceted interventions that did not include an alert, although there were not enough studies to conduct a pooled analysis.\nSecondary outcomes: Alerts were associated with an increase in the proportion of participants who received appropriate prophylaxis (RD 16%, 95% CI 12% to 20%; three studies; 1820 participants; I² = 0; moderate-certainty evidence). Alerts were also associated with a reduction in the rate of symptomatic VTE at three months (RR 64%, 95% CI 47% to 86%; three studies; 5353 participants; I² = 15%; low-certainty evidence). Computer alerts were associated with a reduction in the rate of symptomatic VTE, although there were not enough studies to pool computer alerts and human alerts results separately."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We reviewed RCTs that implemented a variety of system-wide strategies aimed at improving thromboprophylaxis in hospitalized patients. We found increased prescription of prophylaxis associated with alerts and multifaceted interventions, and increased prescription of appropriate prophylaxis associated with alerts. While multifaceted interventions were found to be less effective than alerts, a multifaceted intervention with an alert was more effective than one without an alert. Alerts, particularly computer alerts, were associated with a reduction in symptomatic VTE at three months, although there were not enough studies to pool computer alerts and human alerts results separately.\nOur analysis was underpowered to assess the effect on mortality and safety outcomes, such as bleeding.\nThe incomplete reporting of relevant study design features did not allow complete assessment of the certainty of the evidence. However, the certainty of the evidence for improvement in outcomes was judged to be better than for our previous review (low- to moderate-certainty evidence, compared to very low-certainty evidence for most outcomes). The results of our updated review will help physicians, hospital administrators, and policy makers make practical decisions about adopting specific system-wide measures to improve prescription of thromboprophylaxis, and ultimately prevent VTE in hospitalized patients."
+    }
+  ],
+  "pls_title": "Interventions to increase the use of measures to prevent the development of blood clots in hospitalized medical and surgical patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane review was to find out if system-wide interventions increased the use of measures to prevent blood clots (thromboprophylaxis), and decreased the incidence of blood clots (venous thromboembolism) in hospitalized adult medical and surgical patients at risk for this problem."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Providing system-wide interventions, particularly alerts, to doctors and other healthcare professionals probably improves the use of thromboprophylaxis or appropriate thromboprophylaxis, and decreases the number of symptomatic blood clots (clots showing symptoms) at three months. However, the certainty of the evidence was rated as moderate or low, thus more high-quality studies examining the effectiveness of system-wide interventions are needed to confirm the findings of this review."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Blood clots that occur in the leg veins (deep vein thrombosis) or in the lung circulation (pulmonary embolism) are together known as venous thromboembolism (VTE). VTE is a potential complication for patients who have been hospitalized for medical or surgical reasons. These complications lengthen hospital stay and are a leading cause of death and long-term disability. Risk factors for VTE include hospitalization for surgical or medical illness, cancer, trauma or immobilization, medications, such as oral contraceptives or hormone replacement therapy, and pregnancy or postpartum. Other risk factors are older age, obesity, previous blood clots, and family history of blood clots.\nThromboprophylaxis involves the administration of small doses of anticoagulant (i.e. blood thinning) medications, such as heparin, low molecular weight heparin, or oral blood thinners, or the application of physical measures, such as graduated compression stockings or sequential compression devices. In the USA, thromboprophylaxis has been ranked as the number one strategy to improve patient safety in hospitals, and interventions to improve the implementation of thromboprophylaxis were recently ranked as a top-10 patient safety strategy that demanded action."
+    },
+    {
+      "heading": ",",
+      "text": ",and received appropriate prophylaxis (did the patient receive prophylaxis that was appropriate for them?). We considered prophylaxis to be appropriate if the study authors did."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "We did a systematic review of randomized controlled trials (trials in which people are randomly put into one of two or more treatment groups) that tested various system-wide interventions, which aimed to increase the use of thromboprophylaxis in hospitalized patients. Our search found 13 relevant studies; two could not be pooled with the others because they did not report data in which we were interested. We included 11 studies, with a total of 33,207 participants, in our analyses. Our review showed that interventions using alerts seemed to be the most reliable way to increase the use of thromboprophylaxis.\nCombined data showed that:\n- Computer or human alerts increased the number of participants who received thromboprophylaxis by 21% (three studies, 5057 participants, low-certainty evidence).\n- Alerts increased the number of participants who received appropriate thromboprophylaxis by 16% (three studies, 1820 participants, moderate-certainty evidence).\n- Alerts decreased the relative rate of symptomatic VTE at three months by 36% (three studies, 5353 participants, low-certainty evidence).\n- Multifaceted interventions were associated with only a modest 4% increase in the prescription of thromboprophylaxis (five studies, 9198 participants, moderate-certainty evidence).\n- While not directly compared to each other, alerts, whether computer or human alerts, appeared to be more effective than multifaceted interventions.\n- While not directly compared to each other, computer alerts may have been more effective than human alerts for increasing appropriate thromboprophylaxis and reducing symptomatic VTE."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "We searched for studies that had been published up to 7 January 2017."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001526",
+  "name": "Maximal androgen blockade for advanced prostate cancer",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Prostate cancer is the second leading cause of cancer death in men. Long standing observations have found prostate cancer responsive to androgen suppression. The primary approach to androgen suppression for men with advanced disease (cancer that has spread outside the prostate gland) has been castration. However, medical or surgical castration eliminates only 90% to 95% of the daily testosterone production. The remainder is produced in the adrenal glands. In the 1980s Labrie hypothesized that counteracting adrenal androgens would further inhibit tumor growth and possibly improve symptoms and survival beyond the response achieved with monotherapy. In response to this hypothesis a number of anti-androgen agents were identified and used in combination with medical or surgical castration to obtain maximal androgen blockade (MAB). Despite multiple clinical trials and several meta-analyses the clinical efficacy and cost effectiveness of MAB compared with monotherapy has not been clearly established."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This systematic review assessed the effect of maximal androgen blockade (MAB) on survival when compared to castration (medical or surgical) alone for patients with advanced prostate cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Randomized controlled trials were searched in general and specialized databases (MEDLINE, EMBASE, Cancerlit, Cochrane Library, VA Cochrane Prostate Disease register) and by reviewing bibliographies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All published randomized trials were eligible for inclusion provided they (1) randomized men with advanced prostate cancer to receive a non-steroidal anti-androgen (NSAA) medication in addition to castration (medical or surgical) or to castration alone, and (2) reported overall survival, progression-free survival, cancer-specific survival, and/or adverse events. Eligibility was assessed by two independent reviewers."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Information on patients, interventions, and outcomes were extracted by two independent reviewers using a standardized form. The main outcome measure for comparing effectiveness was overall survival at one, two, and five years. Secondary outcome measures included progression-free survival and cancer-specific survival. The relationship of specific NSAA on outcome was evaluated. Additionally, the incidence of adverse effects was measured."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty trials enrolling 6320 patients were included. The pooled OR for overall survival was 1.03 (95% CI:0.85 to 1.25), 1.16 (95% CI:1.00 to 1.33), and 1.29 (95% CI:1.11 to 1.50) at 1, 2, and 5 years respectively. Overall survival was only significant at five years. The risk difference at 5 years was 0.048 (95% CI:0.02 to 0.077) and NNT at 5 years 20.8. Progression-free survival was improved only at 1-year follow up (OR = 1.38) and cancer-free survival was improved only at 5 years (OR = 1.22). Adverse events occurred more frequently in those assigned to MAB and resulted in withdrawal in 10%. Quality of life was measured in only one study favored orchiectomy alone (less diarrhea and better emotional functioning in the first six months)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "MAB produces a modest overall and cancer-specific survival at five years but is associated with increased adverse events and reduced quality of life."
+    }
+  ],
+  "pls_title": "Maximal androgen (hormone) blockade therapy may improve chances of longer survival in men with advanced prostate cancer, but may not be suitable for all men.",
+  "pls_type": "long",
+  "pls": "The prostate gland is a common site of cancer in older men. Treatments for prostate cancer include surgery and radiation therapy. Male hormones (androgens) stimulate prostate cancer growth. Hormone suppression therapy, which decreases hormone levels, is therefore also used to try to treat the cancer. Maximal androgen blockade (MAB) uses drugs to completely block male hormones. The review found that there is modest evidence that MAB improves the chances of longer survival for men with advanced prostate cancer. However, there are also adverse effects of MAB treatment that may mean that it is not a suitable treatment for all men."
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000031.pub2",
+  "name": "Comparison of protocols and registry entries to published reports for randomised controlled trials ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Publication of complete trial results is essential if people are to be able to make well-informed decisions about health care. Selective reporting of randomised controlled trials (RCTs) is a common problem."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically review studies of cohorts of RCTs to compare the content of trial reports with the information contained in their protocols, or entries in a trial registry."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted electronic searches in Ovid MEDLINE (1950 to August 2010); Ovid EMBASE (1980 to August 2010); ISI Web of Science (1900 to August 2010) and the Cochrane Methodology Register (Issue 3, 2010), checked reference lists, and asked authors of eligible studies to identify further studies. Studies were not excluded based on language of publication or our assessment of their quality."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Published or unpublished cohort studies comparing the content of protocols or trial registry entries with published trial reports."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted by two authors independently. Risk of bias in the cohort studies was assessed in relation to follow up and selective reporting of outcomes. Results are presented separately for the comparison of published reports to protocols and trial registry entries."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 16 studies assessing a median of 54 RCTs (range: 2 to 362). Twelve studies compared protocols to published reports and four compared trial registry entries to published reports. In two studies, eligibility criteria differed between the protocol and publication in 19% and 100% RCTs. In one study, 16% (9/58) of the reports included the same sample size calculation as the protocol. In one study, 6% (4/63) of protocol-report pairs gave conflicting information regarding the method of allocation concealment, and 67% (49/73) of blinded studies reported discrepant information on who was blinded. In one study unacknowledged discrepancies were found for methods of handling protocol deviations (44%; 19/43), missing data (80%; 39/49), primary outcome analyses (60%; 25/42) and adjusted analyses (82%; 23/28). One study found that of 13 protocols specifying subgroup analyses, 12 of these 13 trials reported only some, or none, of these. Two studies found that statistically significant outcomes had a higher odds of being fully reported compared to nonsignificant outcomes (range of odds ratios: 2.4 to 4.7). Across the studies, at least one primary outcome was changed, introduced, or omitted in 4-50% of trial reports."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Discrepancies between protocols or trial registry entries and trial reports were common, although reasons for these were not discussed in the reports. Full transparency will be possible only when protocols are made publicly available or the quality and extent of information included in trial registries is improved, and trialists explain substantial changes in their reports."
+    }
+  ],
+  "pls_title": "Comparison of protocols and registry entries to published reports for randomised controlled trials",
+  "pls_type": "long",
+  "pls": "The non-reporting of a piece of research and the selective reporting of only some of its findings has been identified as a problem for research studies such as randomised trials and systematic reviews of these. If the decision about what to report and what to keep unpublished is based on the results obtained in the trial, this will lead to bias and potentially misleading conclusions by users of the research. One way to see if there might be discrepancies between what was planned or done in a trial and what is eventually reported is to compare the protocol or entry in a trial registry for the trial with the content of its published report. This might reveal that changes were made between the registration and planning of the trial and its eventual analysis. Any such changes should be described in the published report, to reassure readers and others who will use the trial's results that the risk of bias has been kept low.\nThis Cochrane methodology review examines the reporting of randomised trials by reviewing research done by others in which the information in protocols or trial registry entries were compared to that in the published reports for groups of trials, to see if this detected any inconsistencies for any aspects of the trials. We included 16 studies in this review and the results indicate that there are often discrepancies between the information provided in protocol and trial registry entries and that contained in the published reports for randomised trials. These discrepancies cover many aspects of the trials and are not explained or stated in the published reports."
+}

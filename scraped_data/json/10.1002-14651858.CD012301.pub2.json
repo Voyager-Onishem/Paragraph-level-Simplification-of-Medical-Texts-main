@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012301.pub2",
+  "name": "Extended‐field radiotherapy for locally advanced cervical cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The para-aortic lymph nodes (located along the major vessels in the mid and upper abdomen) are a common place for disease recurrence after treatment for locally advanced cervical cancer. The para-aortic area is not covered by standard pelvic radiotherapy fields and so treatment to the pelvis alone is inadequate for women at a high risk of occult cancer within para-aortic lymph nodes. Extended-field radiotherapy (RT) widens the pelvic RT field to include the para-aortic lymph node area. Extended-field RT may improve outcomes in women with locally advanced cervical cancer by treating occult disease in para-aortic nodes not identified at pretreatment imaging. However, RT treatment of the para-aortic area can cause severe adverse effects, so may increase harms.\nStudies of pelvic chemoradiotherapy (CRT) demonstrated improved survival rates compared to pelvic RT alone. CRT is now the standard of care in the treatment of locally advanced cervical cancer. Studies comparing pelvic RT alone (without concurrent chemotherapy) with extended-field RT should therefore be viewed with caution, since they compare treatments against what is now substandard treatment (pelvic RT alone). This review should therefore be read with this in mind and comparisons with pelvic RT cannot be extrapolated to pelvic CRT."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and toxicity of extended-field radiotherapy in women undergoing first-line treatment for locally advanced cervical cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 7), MEDLINE via Ovid (1946 to August week 4, 2018), and Embase via Ovid (1980 to 2018, week 35). We checked registers of clinical trials, grey literature, conference reports, and citation lists of included studies to August 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) evaluating the effectiveness and toxicity of extended-field RT for locally advanced cervical cancer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected potentially relevant RCTs, extracted data, assessed risk of bias, compared results, and made judgements on the quality and certainty of the evidence for each outcome. Any disagreements were resolved by discussion or consultation with a third review author."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies met the inclusion criteria. Three included studies compared extended-field RT versus pelvic RT, one included study compared extended-field RT with pelvic CRT, and one study compared extended-field CRT versus pelvic CRT.\nExtended-field radiotherapy versus pelvic radiotherapy alone\nCompared to pelvic RT, extended-field RT probably reduces the risk of death (hazard ratio (HR) 0.67, 95% confidence interval (CI) 0.48 to 0.94; 1 study; 337 participants; moderate-certainty evidence) and para-aortic lymph node recurrence (risk ratio (RR) 0.36, 95% CI 0.18 to 0.70; 2 studies; 477 participants; moderate-certainty evidence), although there may or may not have been improvement in the risk of disease progression (HR 0.92, 95% CI 0.69 to 1.22; 1 study; 337 participants; moderate-certainty evidence) and severe adverse events (RR 1.05, 95% CI 0.79 to 1.41; 2 studies; 776 participants; moderate-certainty evidence).\nExtended-field radiotherapy versus pelvic chemoradiotherapy\nIn a comparison of extended-field RT versus pelvic CRT, women given pelvic CRT probably had a lower risk of death (HR 0.50, 95% CI 0.39 to 0.64; 1 study; 389 participants; moderate-certainty evidence) and disease progression (HR 0.52, 95% CI 0.37 to 0.72; 1 study; 389 participants; moderate-certainty evidence). Participants given extended-field RT may or may not have had a lower risk of para-aortic lymph node recurrence (HR 0.44, 95% CI 0.20 to 0.99; 1 study; 389 participants; low-certainty evidence) and acute severe adverse events (RR 0.05, 95% CI 0.02 to 0.11; 1 study; 388 participants; moderate-certainty evidence). There were no clear differences in terms of late severe adverse events among the comparison groups (RR 1.06, 95% CI 0.69 to 1.62; 1 study; 386 participants; moderate-certainty evidence).\nExtended-field chemoradiotherapy versus pelvic chemoradiotherapy\nVery low-certainty evidence obtained from one small study (74 participants) showed that, compared to pelvic CRT, extended-field CRT may or may not have reduced risk of death (HR 0.37, 95% CI 0.14 to 0.96) and disease progression (HR 0.25, 95% CI 0.07 to 0.87). There were no clear differences between the groups in the risks of para-aortic lymph node recurrence (RR 0.19, 95% CI 0.02 to 1.54; very low-certainty evidence) and severe adverse events (acute: RR 0.95, 95% CI 0.20 to 4.39; late: RR 0.95, 95% CI 0.06 to 14.59; very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-certainty evidence shows that, compared with pelvic RT alone, extended-field RT probably improves overall survival and reduces risk of para-aortic lymph node recurrence. However, pelvic RT alone would now be considered substandard treatment, so this result cannot be extrapolated to modern standards of care. Low- to moderate-certainty evidence suggests that pelvic CRT may increase overall and progression-free survival compared to extended-field RT, although there may or may not be a higher rate of para-aortic recurrence and acute adverse events. Extended-field CRT versus pelvic CRT may improve overall or progression-free survival, but these findings should be interpreted with caution due to very low-certainty evidence.\nHigh-quality RCTs, comparing modern treatment techniques in CRT, are needed to more fully inform treatment for locally advanced cervical cancer without obvious para-aortic node involvement."
+    }
+  ],
+  "pls_title": "Does extended-field radiotherapy reduce death from locally advanced cervical cancer and what are the side effects?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "The issue",
+      "text": "Radiotherapy (RT) to the pelvis is used to treat cervical cancer. However, pelvic RT will not treat cancer that has spread to para-aortic lymph nodes (lymph nodes lying along main blood vessels in the mid and upper stomach), since these are outside the target area (field) of RT. Extended-field RT targets areas containing both pelvic and para-aortic lymph nodes. Widening the RT field to include the para-aortic area may reduce the risk of cancer returning.\nChemotherapy is now normally given at the same time as RT for the treatment of cervical cancer (concurrent chemotherapy) and the combine treatment is called chemoradiotherapy (CRT). This is now standard treatment because studies have shown that addition of chemotherapy during RT improved survival for women with cervical cancer thought to be confined to the pelvis. Older studies, which compared treatments with pelvic RT alone, would not now be considered the standard of care for women well enough to have CRT. We cannot assume that results from studies which compared extended-field RT with pelvic RT apply to modern CRT treatments."
+    },
+    {
+      "heading": "The aim of this review",
+      "text": "In women with locally advanced cervical cancer, does extending the RT field to cover the para-aortic area reduce the risk of death from cervical cancer and what are the harms?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched databases from their inception to August 2018 and found five studies that met the inclusion criteria. Three studies compared extended-field RT versus pelvic RT. None of these three studies compared against the current gold-standard of pelvic CRT. One study compared extended-field RT versus pelvic CRT and one study compared extended-field CRT versus pelvic CRT."
+    },
+    {
+      "heading": "What were the main findings?",
+      "text": "Compared with pelvic RT alone, women given extended-field RT may have been less likely to die and probably were less likely to have a cervical cancer come back (recurrence) in the para-aortic lymph nodes. However, extended-field RT may have made little or no difference to how often their cancer recurred elsewhere and how often they experience severe side effects.\nPelvic CRT is the modern standard of treatment for locally advanced cervical cancer. In a comparison of extended-field RT alone versus pelvic CRT, women given pelvic CRT were probably less likely to die or have recurrence of their cancer. Women given extended-field RT alone may have been less likely to experience a recurrence within the para-aortic lymph nodes and have had adverse events during or shortly after treatment. There were no clear differences regarding the late adverse events between the two groups.\nWomen given extended-field CRT may or may not have been less likely to die or have cancer progression than those women pelvic CRT. There were no clear differences in the chances of experiencing a cancer recurrence in the para-aortic lymph nodes and severe side effects between the groups."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The evidence for outcomes in the comparison of extended-field RT alone versus pelvic RT alone were of moderate certainty. In the comparison of extended-field RT versus pelvic CRT, the evidence regarding the survival and side effects were of moderate certainty. The evidence for para-aortic recurrence was of low certainty. The evidence for all outcomes in a comparison of extended-field CRT versus pelvic CRT were of very-low certainty because of concerns regarding the high risk of bias and results coming from a single trial of very few women."
+    },
+    {
+      "heading": "What were the conclusions?",
+      "text": "We are moderately certain that, compared with pelvic RT alone, extended-field RT probably improves overall survival and reduces risk of para-aortic lymph node recurrence. However, pelvic RT alone would now not be considered the standard of care in women well enough to receive CRT, so these results should be reviewed with caution and cannot be extrapolated to modern treatment techniques.\nLow- to moderate-certainty evidence supports the use of pelvic CRT rather than extended-field RT alone, as it appears to reduce the risk of death and cancer progression. The likelihood of experiencing unwanted side effects during treatment was higher among women receiving pelvic CRT than extended-field RT. Evidence comparing extended-field CRT to pelvic CRT was very low certainty regarding outcomes and it may or may not improve survival."
+    }
+  ]
+}

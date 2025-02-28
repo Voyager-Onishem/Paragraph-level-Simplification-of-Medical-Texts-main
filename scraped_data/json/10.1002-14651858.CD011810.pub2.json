@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011810.pub2",
+  "name": "Chlorpromazine versus clotiapine for schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a chronic, disabling and severe mental disorder, characterised by disturbance in perception, thought, language, affect and motor behaviour. Chlorpromazine and clotiapine are among antipsychotic drugs used for the treatment of people with schizophrenia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the clinical effects, safety and cost-effectiveness of chlorpromazine compared with clotiapine for adults with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Schizophrenia's Trials Register (last update search 16/01/2016), which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO and clinical trials registries. There are no language, date, document type, or publication status limitations for inclusion of records in the Register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised clinical trials focusing on chlorpromazine versus clotiapine for schizophrenia. We included trials meeting our selection criteria and reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention-to-treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a random-effects model for analyses. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We have included four studies, published between 1974 and 2003, randomising 276 people with schizophrenia to receive either chlorpromazine or clotiapine. The studies were poor at concealing allocation of treatment and blinding of outcome assessment. Our main outcomes of interest were clinically important change in global and mental state, specific change in negative symptoms, incidence of movement disorder (dyskinesia), leaving the study early for any reason, and costs. All reported data were short-term (under six months' follow-up).\nThe trials did not report data for the important outcomes of clinically important change in global or mental state, or cost of care. Improvement in mental state was reported using the Positive and Negative Syndrome Scale (PANSS). When chlorpromazine was compared with clotiapine the average improvement scores for mental state using the PANSS total was higher in the clotiapine group (1 RCT, N = 31, MD 11.50 95% CI 9.42 to 13.58, very low-quality evidence). The average change scores on the PANSS negative sub-scale were similar between treatment groups (1 RCT, N = 21, MD -0.97 95% CI -2.76 to 0.82, very low-quality evidence). There was no clear difference in incidence of dyskinesia (1 RCT, N = 68, RR 3.00 95% CI 0.13 to 71.15, very low-quality evidence). Similar numbers of participants left the study early from each treatment group (3 RCTs, N = 158, RR 0.68 95% CI 0.24 to 1.88, very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Clinically important changes in global and mental state were not reported. Only one trial reported the average change in overall mental state; results favour clotiapine but these limited data are very difficult to trust due to methodological limitations of the study. The comparative effectiveness of chlorpromazine compared to clotiapine on change in global state remains unanswered. Results in this review suggest chlorpromazine and clotiapine cause similar adverse effects, although again, the quality of evidence for this is poor, making firm conclusions difficult."
+    }
+  ],
+  "pls_title": "Direct comparison of two antipsychotics (chlorpromazine versus clotiapine) for treating schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "The aim of this review was to find good quality evidence comparing the efficacy of chlorpromazine versus clotiapine for schizophrenia."
+    },
+    {
+      "heading": "Background",
+      "text": "Chlorpromazine is one of the first antipsychotics to successfully alleviate the symptoms of psychosis. It was introduced in the 1950s and is still one of the most commonly used antipsychotics. However, chlorpromazine can cause serious side effects, particularly unpleasant movement disorders, causing many people with schizophrenia to stop taking chlorpromazine. During the past 70 years newer medications have been developed and most clinicians now have a wide choice of drugs for managing schizophrenia, however, none cure, and all cause some sort of side effect. The choice of treatment is still challenging. Clotiapine is a newer antipsychotic drug, found to be effective for treating the symptoms of schizophrenia and also known to be effective for treating people with schizophrenia who are resistant to other medications, however, like chlorpromazine it can cause serious movement disorders."
+    },
+    {
+      "heading": "Searching for evidence",
+      "text": "Cochrane Schizophrenia's Information Specialist ran an electronic search in January 2016, searching their specialised register for trials that randomised people with schizophrenia to receive either chlorpromazine or clotiapine. The search identified six reports. We inspected these reports and found four trials, published between 1974 and 2003, randomising 276 participants that could be included in the review."
+    },
+    {
+      "heading": "Main results",
+      "text": "The four included trials were poorly conducted and did not report data for clinically important change in global or mental state, or cost of care. Improvement in overall mental state was reported and participants receiving clotiapine had better improvement scores than those receiving chlorpromazine. However the trials also reported data for improvement in the negative symptoms, no difference between the two treatments was found. Clotiapine did not cause more movement disorders than chlorpromazine, and similar numbers of participants left the trials early."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is some very low-quality evidence that favours clotiapine over chlorpromazine for improving overall mental state. For other outcomes, including adverse effects, there is no evidence of a difference between these two antipsychotics. However these data are very difficult to draw conclusions from, only four small trials provided data and these were poorly conducted. We cannot draw conclusions on the comparative effectiveness of chlorpromazine versus clotiapine from such data."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007176.pub2",
+  "name": "Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Our systematic review has demonstrated that antioxidant supplements may increase mortality. We have now updated this review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the beneficial and harmful effects of antioxidant supplements for prevention of mortality in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Library, MEDLINE, EMBASE, LILACS, the Science Citation Index Expanded, and Conference Proceedings Citation Index-Science to February 2011. We scanned bibliographies of relevant publications and asked pharmaceutical companies for additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all primary and secondary prevention randomised clinical trials on antioxidant supplements (beta-carotene, vitamin A, vitamin C, vitamin E, and selenium) versus placebo or no intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three authors extracted data. Random-effects and fixed-effect model meta-analyses were conducted. Risk of bias was considered in order to minimise the risk of systematic errors. Trial sequential analyses were conducted to minimise the risk of random errors. Random-effects model meta-regression analyses were performed to assess sources of intertrial heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventy-eight randomised trials with 296,707 participants were included. Fifty-six trials including 244,056 participants had low risk of bias. Twenty-six trials included 215,900 healthy participants. Fifty-two trials included 80,807 participants with various diseases in a stable phase. The mean age was 63 years (range 18 to 103 years). The mean proportion of women was 46%. Of the 78 trials, 46 used the parallel-group design, 30 the factorial design, and 2 the cross-over design. All antioxidants were administered orally, either alone or in combination with vitamins, minerals, or other interventions. The duration of supplementation varied from 28 days to 12 years (mean duration 3 years; median duration 2 years). Overall, the antioxidant supplements had no significant effect on mortality in a random-effects model meta-analysis (21,484 dead/183,749 (11.7%) versus 11,479 dead/112,958 (10.2%); 78 trials, relative risk (RR) 1.02, 95% confidence interval (CI) 0.98 to 1.05) but significantly increased mortality in a fixed-effect model (RR 1.03, 95% CI 1.01 to 1.05). Heterogeneity was low with an I2- of 12%. In meta-regression analysis, the risk of bias and type of antioxidant supplement were the only significant predictors of intertrial heterogeneity. Meta-regression analysis did not find a significant difference in the estimated intervention effect in the primary prevention and the secondary prevention trials. In the 56 trials with a low risk of bias, the antioxidant supplements significantly increased mortality (18,833 dead/146,320 (12.9%) versus 10,320 dead/97,736 (10.6%); RR 1.04, 95% CI 1.01 to 1.07). This effect was confirmed by trial sequential analysis. Excluding factorial trials with potential confounding showed that 38 trials with low risk of bias demonstrated a significant increase in mortality (2822 dead/26,903 (10.5%) versus 2473 dead/26,052 (9.5%); RR 1.10, 95% CI 1.05 to 1.15). In trials with low risk of bias, beta-carotene (13,202 dead/96,003 (13.8%) versus 8556 dead/77,003 (11.1%); 26 trials, RR 1.05, 95% CI 1.01 to 1.09) and vitamin E (11,689 dead/97,523 (12.0%) versus 7561 dead/73,721 (10.3%); 46 trials, RR 1.03, 95% CI 1.00 to 1.05) significantly increased mortality, whereas vitamin A (3444 dead/24,596 (14.0%) versus 2249 dead/16,548 (13.6%); 12 trials, RR 1.07, 95% CI 0.97 to 1.18), vitamin C (3637 dead/36,659 (9.9%) versus 2717 dead/29,283 (9.3%); 29 trials, RR 1.02, 95% CI 0.98 to 1.07), and selenium (2670 dead/39,779 (6.7%) versus 1468 dead/22,961 (6.4%); 17 trials, RR 0.97, 95% CI 0.91 to 1.03) did not significantly affect mortality. In univariate meta-regression analysis, the dose of vitamin A was significantly associated with increased mortality (RR 1.0006, 95% CI 1.0002 to 1.001, P = 0.002)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence to support antioxidant supplements for primary or secondary prevention. Beta-carotene and vitamin E seem to increase mortality, and so may higher doses of vitamin A. Antioxidant supplements need to be considered as medicinal products and should undergo sufficient evaluation before marketing."
+    }
+  ],
+  "pls_title": "Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases",
+  "pls_type": "long",
+  "pls": "Previous research on animal and physiological models suggests that antioxidant supplements have beneficial effects that may prolong life. Some observational studies also suggest that antioxidant supplements may prolong life, whereas other observational studies demonstrate neutral or harmful effects. Our Cochrane review from 2008 demonstrated that antioxidant supplements seem to increase mortality. This review is now updated.\nThe present systematic review included 78 randomised clinical trials. In total, 296,707 participants were randomised to antioxidant supplements (beta-carotene, vitamin A, vitamin C, vitamin E, and selenium) versus placebo or no intervention. Twenty-six trials included 215,900 healthy participants. Fifty-two trials included 80,807 participants with various diseases in a stable phase (including gastrointestinal, cardiovascular, neurological, ocular, dermatological, rheumatoid, renal, endocrinological, or unspecified diseases). A total of 21,484 of 183,749 participants (11.7%) randomised to antioxidant supplements and 11,479 of 112,958 participants (10.2%) randomised to placebo or no intervention died. The trials appeared to have enough statistical similarity that they could be combined. When all of the trials were combined, antioxidants may or may not have increased mortality depending on which statistical combination method was employed; the analysis that is typically used when similarity is present demonstrated that antioxidant use did slightly increase mortality (that is, the patients consuming the antioxidants were 1.03 times as likely to die as were the controls). When analyses were done to identify factors that were associated with this finding, the two factors identified were better methodology to prevent bias from being a factor in the trial (trials with ‘low risk of bias’) and the use of vitamin A. In fact, when the trials with low risks of bias were considered separately, the increased mortality was even more pronounced (1.04 times as likely to die as were the controls). The potential damage from vitamin A disappeared when only the low risks of bias trials were considered. The increased risk of mortality was associated with beta-carotene and possibly vitamin E and vitamin A, but was not associated with the use of vitamin C or selenium. The current evidence does not support the use of antioxidant supplements in the general population or in patients with various diseases."
+}

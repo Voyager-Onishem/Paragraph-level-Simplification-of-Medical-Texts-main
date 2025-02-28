@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD012689.pub2",
+  "name": "Insecticide space spraying for preventing malaria transmission",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Space spraying is the dispersal of a liquid fog of insecticide into an outdoor area to kill adult insects. It has been regularly used in public health and pest control programmes, including use as an emergency response to malaria epidemics. This Cochrane Review aims to assist the decision-making of malaria vector control programmes by summarizing the evidence of the impact of space spraying on malaria transmission."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The review's primary objective was to evaluate the impact of space spraying on malaria transmission, or the incremental impact when applied in combination with other malaria control methods, in comparison to equivalent conditions with no space spraying intervention.\nTo guide future evaluations of space spraying, a secondary objective was to identify and summarize the range of space spraying strategies that have been trialled, those which were promising and warrant further evaluation, and those which appear unlikely to warrant further evaluation (for example, if they were not feasible to implement, or were unacceptable to the population)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; PubMed (MEDLINE); Embase (OVID), CAB Abstracts (Web of Science), LILACS (BIREME), the World Health Organization (WHO) International Clinical Trials Registry Platform, and ClinicalTrials.gov up to 18 April 2018. We contacted organizations for ongoing and unpublished trials, and checked the reference lists of all included studies for relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cluster-randomized controlled trials, interrupted time series (ITS) studies, randomized cross-over studies, and controlled before-and-after (CBA) studies comparing space spraying with no space spraying that met the inclusion criteria for the review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for eligibility and risk of bias, and extracted the data. For ITS studies, we present findings graphically, and estimated the effect of space spraying on the step change and the slope change. We assessed the certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two ITS studies, conducted between 1972 and 1984, met our inclusion criteria for the primary objective, and one study contributed to the quantitative analysis. This study was conducted in India, reported the incidence of malaria in four separate sites, and covered a total population of 18,460 people. In the pooled analysis across sites, there was no step effect for the incidence of uncomplicated malaria (step rate ratio 1.00, 95% confidence interval (CI) 0.51 to 1.92). There was an effect on the slope: the number of cases was reduced by 15% per month (slope rate ratio 0.85, 95% CI 0.79 to 0.91). Using these ratios, we estimated the effect of 12 months of space spraying on malaria incidence to be a reduction from 6 cases to 1 case per month per 1000 population (95% CI 0 to 2 cases, very low-certainty evidence). The second study reported the impact of space spraying on malaria incidence and adult mosquito density in a population of 15,106 in Haiti, but it did not provide data from previous years. Thus, we could not estimate an effect of space spraying that was independent from temporal trends.\nFor the review's secondary objective, we identified a further two studies in addition to the two ITS studies; both used a CBA design and were conducted between 1973 and 2000. The four studies used a range of delivery methods including handheld, vehicle-mounted, and aircraft-mounted spraying equipment. A variety of insecticides, doses, and spraying times were also used, with methods typically determined based on environmental factors and vector profiles."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence from one state in India conducted over 30 years ago suggests an effect of space spraying on the incidence of malaria, but the certainty of the evidence is very low. Reliable research in a variety of settings will help establish whether and when this intervention may be worthwhile."
+    }
+  ],
+  "pls_title": "Insecticide space spraying for preventing malaria transmission",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is space spraying and how might it work?",
+      "text": "Space spraying is the outdoor spraying of insecticides to kill adult insects. The insecticide is dispersed using hand-held, vehicle-mounted or aircraft-mounted equipment to produce a fog. Space spraying is regularly used in public health and pest control programmes, including use as an emergency response to malaria epidemics. Insecticide-treated bed nets and indoor spraying of insecticides are the two interventions most commonly used by malaria programmes to control mosquito populations. Both interventions are effective at reducing human contact with indoor-biting mosquito species. If successful, space spraying reduces populations of outdoor-biting mosquitoes, and may help reduce malaria transmission from the mosquito species least affected by typical control efforts. At present, however, there remains widespread uncertainty over whether space spraying has any impact on malaria transmission."
+    },
+    {
+      "heading": "What is the aim of the review?",
+      "text": "In order to guide decision-making for malaria control programmes, the aim of this Cochrane Review was to summarize the actions taken and reported findings of trials evaluating the impact of space spraying on malaria transmission."
+    },
+    {
+      "heading": "What are the main findings of the review?",
+      "text": "After searching for relevant trials up to 18 April 2018, we identified four studies conducted between 1972 and 2000. Across the four studies, a range of insecticide delivery methods were used, including handheld, vehicle-mounted, and aircraft-mounted spraying equipment. A variety of different insecticides, doses, and spraying times were also used to suit the local environment and the behaviour of the targeted mosquito species.\nIn three studies, the evidence was considered to be unsuitable for reliably assessing the impact of space spraying on the number of cases of malaria. The remaining study, which took place in a single state in India and covered a combined population of 18,460 people, reported the number of malaria cases in the years preceding and following the introduction of space spraying. The evidence suggested that space spraying led to a decrease in the number of cases of malaria, but as the trial was conducted over 30 years ago and within one state in India, we cannot be certain that these findings are applicable in other areas where malaria occurs. Reliable research in a variety of settings will help to establish whether and when this intervention may be worthwhile."
+    }
+  ]
+}

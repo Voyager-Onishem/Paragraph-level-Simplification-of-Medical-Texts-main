@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD004380.pub3",
+  "name": "School‐based education programmes for the prevention of child sexual abuse",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Child sexual abuse is a significant global problem in both magnitude and sequelae. The most widely used primary prevention strategy has been the provision of school-based education programmes. Although programmes have been taught in schools since the 1980s, their effectiveness requires ongoing scrutiny."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically assess evidence of the effectiveness of school-based education programmes for the prevention of child sexual abuse. Specifically, to assess whether: programmes are effective in improving students' protective behaviours and knowledge about sexual abuse prevention; behaviours and skills are retained over time; and participation results in disclosures of sexual abuse, produces harms, or both."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In September 2014, we searched CENTRAL, Ovid MEDLINE, EMBASE and 11 other databases. We also searched two trials registers and screened the reference lists of previous reviews for additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials (RCTs), cluster-RCTs, and quasi-RCTs of school-based education interventions for the prevention of child sexual abuse compared with another intervention or no intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility of trials for inclusion, extracted data, and assessed risk of bias. We summarised data for six outcomes: protective behaviours; knowledge of sexual abuse or sexual abuse prevention concepts; retention of protective behaviours over time; retention of knowledge over time; harm; and disclosures of sexual abuse."
+    },
+    {
+      "heading": "Main results",
+      "text": "This is an update of a Cochrane Review that included 15 trials (up to August 2006). We identified 10 additional trials for the period to September 2014. We excluded one trial from the original review. Therefore, this update includes a total of 24 trials (5802 participants). We conducted several meta-analyses. More than half of the trials in each meta-analysis contained unit of analysis errors.\n1. Meta-analysis of two trials (n = 102) evaluating protective behaviours favoured intervention (odds ratio (OR) 5.71, 95% confidence interval (CI) 1.98 to 16.51), with borderline low to moderate heterogeneity (Chi² = 1.37, df = 1, P value = 0.24, I² = 27%, Tau² = 0.16). The results did not change when we made adjustments using intraclass correlation coefficients (ICCs) to correct errors made in studies where data were analysed without accounting for the clustering of students in classes or schools.\n2. Meta-analysis of 18 trials (n = 4657) evaluating questionnaire-based knowledge favoured intervention (standardised mean difference (SMD) 0.61, 95% CI 0.45 to 0.78), but there was substantial heterogeneity (Chi² = 104.76, df = 17, P value < 0.00001, I² = 84%, Tau² = 0.10). The results did not change when adjusted for clustering (ICC: 0.1 SMD 0.66, 95% CI 0.51 to 0.81; ICC: 0.2 SMD 0.63, 95% CI 0.50 to 0.77).\n3. Meta-analysis of 11 trials (n =1688) evaluating vignette-based knowledge favoured intervention (SMD 0.45, 95% CI 0.24 to 0.65), but there was substantial heterogeneity (Chi² = 34.25, df = 10, P value < 0.0002, I² = 71%, Tau² = 0.08). The results did not change when adjusted for clustering (ICC: 0.1 SMD 0.53, 95% CI 0.32 to 0.74; ICC: 0.2 SMD 0.60, 95% CI 0.31 to 0.89).\n4. We included four trials in the meta-analysis for retention of knowledge over time. The effect of intervention seemed to persist beyond the immediate assessment (SMD 0.78, 95% CI 0.38 to 1.17; I² = 84%, Tau² = 0.13, P value = 0.0003; n = 956) to six months (SMD 0.69, 95% CI 0.51 to 0.87; I² = 25%; Tau² = 0.01, P value = 0.26; n = 929). The results did not change when adjustments were made using ICCs.\n5. We included three studies in the meta-analysis for adverse effects (harm) manifesting as child anxiety or fear. The results showed no increase or decrease in anxiety or fear in intervention participants (SMD -0.08, 95% CI -0.22 to 0.07; n = 795) and there was no heterogeneity (I² = 0%, P value = 0.79; n=795). The results did not change when adjustments were made using ICCs.\n6. We included three studies (n = 1788) in the meta-analysis for disclosure of previous or current sexual abuse. The results favoured intervention (OR 3.56, 95% CI 1.13 to 11.24), with no heterogeneity (I² = 0%, P value = 0.84). However, adjusting for the effect of clustering had the effect of widening the confidence intervals around the OR (ICC: 0.1 OR 3.04, 95% CI 0.75 to 12.33; ICC: 0.2 OR 2.95, 95% CI 0.69 to 12.61).\nInsufficient information was provided in the included studies to conduct planned subgroup analyses and there were insufficient studies to conduct meaningful analyses.\nThe quality of evidence for all outcomes included in the meta-analyses was moderate owing to unclear risk of selection bias across most studies, high or unclear risk of detection bias across over half of included studies, and high or unclear risk of attrition bias across most studies. The results should be interpreted cautiously."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The studies included in this review show evidence of improvements in protective behaviours and knowledge among children exposed to school-based programmes, regardless of the type of programme. The results might have differed had the true ICCs or cluster-adjusted results been available. There is evidence that children's knowledge does not deteriorate over time, although this requires further research with longer-term follow-up. Programme participation does not generate increased or decreased child anxiety or fear, however there is a need for ongoing monitoring of both positive and negative short- and long-term effects. The results show that programme participation may increase the odds of disclosure, however there is a need for more programme evaluations to routinely collect such data. Further investigation of the moderators of programme effects is required along with longitudinal or data linkage studies that can assess actual prevention of child sexual abuse."
+    }
+  ],
+  "pls_title": "School-based programmes for the prevention of child sexual abuse",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background and review question",
+      "text": "School-based education programmes for the prevention of child sexual abuse have been implemented on a large scale in some countries. We reviewed the evidence for the effectiveness of these programmes in the following areas: (i) children's skills in protective behaviours; (ii) children's knowledge of child sexual abuse prevention concepts; (iii) children's retention of protective behaviours over time; (iv) children's retention of knowledge over time; (v) parental or child anxiety or fear as a result of programme participation; and (vi) disclosures of past or current child sexual abuse during or after programmes. The evidence is current to September 2014."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review included 24 studies, conducted with a total of 5802 participants in primary (elementary) and secondary (high) schools in the United States, Canada, China, Germany, Spain, Taiwan, and Turkey. The duration of interventions ranged from a single 45-minute session to eight 20-minute sessions on consecutive days. Although a wide range of programmes were used, there were many common elements, including the teaching of safety rules, body ownership, private parts of the body, distinguishing types of touches and types of secrets, and who to tell. Programme delivery formats included film, video or DVD, theatrical plays, and multimedia presentations. Other resources used included songs, puppets, comics, and colouring books. Teaching methods used in delivery included rehearsal, practice, role-play, discussion, and feedback."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review found evidence that school-based sexual abuse prevention programmes were effective in increasing participants' skills in protective behaviours and knowledge of sexual abuse prevention concepts (measured via questionnaires or vignettes). Knowledge gains (measured via questionnaires) were not significantly eroded one to six months after the intervention for either intervention or control groups. In terms of harm, there was no evidence that programmes increased or decreased children's anxiety or fear. No studies measured parental anxiety or fear. Children exposed to a child sexual abuse prevention programme had greater odds of disclosing their abuse than children who had not been exposed, however we were more uncertain about this effect when the analysis was adjusted to account for the grouping of participants in classes or schools. Studies have not yet adequately measured the long-term benefits of programmes in terms of reducing the incidence or prevalence (or both) of child sexual abuse in programme participants."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence for all outcomes included in the meta-analyses (combining of data) was moderate. Study quality was compromised in about half of the included studies, due to suboptimal data collection methods for study outcomes and inappropriate data analysis."
+    }
+  ]
+}

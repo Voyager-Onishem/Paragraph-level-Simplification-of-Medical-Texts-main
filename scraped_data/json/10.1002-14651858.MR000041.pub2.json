@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.MR000041.pub2",
+  "name": "Search strategies to identify observational studies in MEDLINE and Embase",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Systematic reviews are essential for decision-making. Systematic reviews on observational studies help answer research questions on aetiology, risk, prognosis, and frequency of rare outcomes or complications. However, identifying observational studies as part of systematic reviews efficiently is challenging due to poor and inconsistent indexing in literature databases. Search strategies that include a methodological filter focusing on study design of observational studies might be useful for improving the precision of the search performance."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the sensitivity and precision of a search strategy with a methodological filter to identify observational studies in MEDLINE and Embase."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (1946 to April 2018), Embase (1974 to April 2018), CINAHL (1937 to April 2018), the Cochrane Library (1992 to April 2018), Google Scholar and Open Grey in April 2018, and scanned reference lists of articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies using a relative recall approach, i.e. comparing sensitivity or precision of a search strategy containing a methodological filter to identify observational studies in MEDLINE and Embase against a reference standard, or studies that compared two or more methodological filters."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened articles, extracted relevant information and assessed the quality of the search strategies using the InterTASC Information Specialists' Sub-Group (ISSG) Search Filter Appraisal Checklist."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified two eligible studies reporting 18 methodological filters. All methodological filters in these two studies were developed using terms from the reference standard records.\nThe first study evaluated six filters for retrieving observational studies of surgical interventions. The study reported on six filters: one Precision Terms Filter (comprising terms with higher precision while maximum sensitivity was maintained) and one Specificity Terms Filter (comprising terms with higher specificity while maximum sensitivity was maintained), both of which were adapted for MEDLINE, for Embase, and for combined MEDLINE/Embase searches. The study reported one reference standard consisting of 217 articles from one systematic review of which 83.9% of the included studies were case series\nThe second study reported on 12 filters for retrieving comparative non-randomised studies (cNRSs) including cohort, case-control, and cross-sectional studies. This study reported on 12 filters using four different approaches: Fixed method A (comprising of a fixed set of controlled vocabulary (CV) words), Fixed method B (comprising a fixed set of CV words and text words (TW)), Progressive method (CV) (a random choice of study design-related CV terms), and Progressive method (CV or TW) (a random choice of study design-related CV terms, and title and abstracts-based TWs). The study reported four reference standards consisting of 89 cNRSs from four systematic reviews.\nThe six methodological filters developed from the first study reported sensitivity of 99.5% to 100% and precision of 16.7% to 21.1%. The Specificity Terms Filter for combined MEDLINE/Embase was preferred because it had higher precision and equal sensitivity to the Precision Terms Filter. The 12 filters from the second study reported lower sensitivity (48% to 100%) and much lower precision (0.09% to 4.47%). The Progressive method (CV or TW) had the highest sensitivity.\nThere were methodological limitations in both included studies. The first study used one surgical intervention-focused systematic review thus limiting the generalizability of findings. The second study used four systematic reviews but with less than 100 studies. The external validation was performed only on Specificity Terms Filter from the first study Both studies were published 10 years ago and labelling and indexing of observational studies has changed since then."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found 18 methodological filters across two eligible studies. Search strategies from the first study had higher sensitivity and precision, underwent external validation and targeted observational studies. Search strategies from the second study had lower sensitivity and precision, focused on cNRSs, and were not validated externally. Given this limited and heterogeneous evidence, and its methodological limitations, further research and better indexation are needed."
+    }
+  ],
+  "pls_title": "Search strategies to identify observational studies in MEDLINE and Embase",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Systematic reviews collect, analyse and summarise research to answer defined research questions. The evidence from systematic reviews is considered as the most reliable evidence and is often used to inform healthcare-related decision making. Systematic reviews on prognosis, cause, risk factors and complications of a disease include a specific type of study design: observational studies. Searching for literature usually involves the use of MEDLINE and Embase databases and can result in a large number of articles to check for the review. Therefore, in order to focus their search, researchers often use a set of terms relating to study designs, known as methodological filters. However, when using these, researchers may miss relevant studies but find many irrelevant articles. Performance of filters are evaluated by sensitivity, which is the ability of the search filter to retrieve all the relevant studies that exist, and precision, which is the ability of the search filter to retrieve only relevant studies. Given the importance of including evidence from observational studies in systematic reviews, we aimed to assess studies evaluating methodological strategies for identifying observational studies in the two main databases of health literature, MEDLINE and Embase."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found two eligible studies reporting on 18 methodological filters, including six MEDLINE, six Embase and six combined MEDLINE/Embase filters. The firsts study focused on filters on observational studies of surgical interventions. The second study focused on filters for a specific subtype of observational studies: comparative non-randomised studies."
+    },
+    {
+      "heading": "Key results",
+      "text": "Six filters from the first study showed sensitivity of 99.5% to 100% and precision of 16.7% to 21.1%. One type of filter was evaluated by two additional systematic reviews (i.e. externally validated) and found that this retrieved 85.2% to 100% of the articles in the reference standard. Twelve filters from the second study had lower sensitivity (48% to 100%) and much lower precision (0.09% to 4.47%)."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The included studies had several limitations. The first study used only one systematic review for search strategy development and focused on observational studies of surgical interventions, which might limit the generalizability of the findings to other literature searches. The reference standard in the second study, although encompassing four different systematic reviews, included a limited number of studies, which might affect the accuracy of the performance assessment. Both studies were published 10 years ago and labelling and indexing of observational studies has changed since then."
+    }
+  ]
+}

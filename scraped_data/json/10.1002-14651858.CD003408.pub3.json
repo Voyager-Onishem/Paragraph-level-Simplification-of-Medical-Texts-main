@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003408.pub3",
+  "name": "Pulmonary artery catheters for adult patients in intensive care",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Since pulmonary artery balloon flotation catheterization was first introduced in 1970, by HJ Swan and W Ganz, it has been widely disseminated as a diagnostic tool without rigorous evaluation of its clinical utility and effectiveness in critically ill patients. A pulmonary artery catheter (PAC) is inserted through a central venous access into the right side of the heart and floated into the pulmonary artery. PAC is used to measure stroke volume, cardiac output, mixed venous oxygen saturation and intracardiac pressures with a variety of additional calculated variables to guide diagnosis and treatment. Complications of the procedure are mainly related to line insertion. Relatively uncommon complications include cardiac arrhythmias, pulmonary haemorrhage and infarct, and associated mortality from balloon tip rupture."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To provide an up-to-date assessment of the effectiveness of a PAC on mortality, length of stay (LOS) in intensive care unit (ICU) and hospital and cost of care in adult intensive care patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 12); MEDLINE (1954 to January 2012); EMBASE (1980 to January 2012); CINAHL (1982 to January 2012), and reference lists of articles. We contacted researchers in the field. We did a grey literature search for articles published until January 2012."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized controlled trials conducted in adults ICUs, comparing management with and without a PAC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We screened the titles and abstracts and then the full text reports identified from our electronic search. Two authors (SR and MG) independently reviewed the titles, abstracts and then the full text reports for inclusion. We determined the final list of included studies by discussion among the group members (SR, ND, MG, AK and SC) with consensus agreement. We included all the studies that were in the original review. We assessed seven domains of potential risk of bias for the included studies. We examined the clinical, methodological and statistical heterogeneity and used random-effects model for meta-analysis. We calculated risk ratio for mortality across studies and mean days for LOS."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 13 studies (5686 patients). We judged blinding of participants and personnel and blinding of outcome assessment to be at high risk in about 50% of the included studies and at low risk in 25% to 30% of the studies. Regardless of the high risk of performance bias these studies were included based on the low weight the studies had in the meta-analysis. We rated 75% of the studies as low risk for selection, attrition and reporting bias. All 13 studies reported some type of hospital mortality (28-day, 30-day, 60-day or ICU mortality). We considered studies of high-risk surgery patients (eight studies) and general intensive care patients (five studies) separately as subgroups for meta-analysis. The pooled risk ratio (RR) for mortality for the studies of general intensive care patients was 1.02 (95% confidence interval (CI) 0.96 to 1.09) and for the studies of high-risk surgery patients the RR was 0.98 (95% CI 0.74 to 1.29). Of the eight studies of high-risk surgery patients, five evaluated the effectiveness of pre-operative optimization but there was no difference in mortality when these studies were examined separately. PAC did not affect general ICU LOS (reported by four studies) or hospital LOS (reported by nine studies). Four studies, conducted in the United States (US), reported costs based on hospital charges billed, which on average were higher in the PAC groups. Two of these studies qualified for analysis and did not show a statistically significant hospital cost difference (mean difference USD 900, 95% CI -2620 to 4420, P = 0.62)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "PAC is a diagnostic and haemodynamic monitoring tool but not a therapeutic intervention. Our review concluded that use of a PAC did not alter the mortality, general ICU or hospital LOS, or cost for adult patients in intensive care. The quality of evidence was high for mortality and LOS but low for cost analysis. Efficacy studies are needed to determine if there are optimal PAC-guided management protocols, which when applied to specific patient groups in ICUs could result in benefits such as shock reversal, improved organ function and less vasopressor use. Newer, less-invasive haemodynamic monitoring tools need to be validated against PAC prior to clinical use in critically ill patients."
+    }
+  ],
+  "pls_title": "Pulmonary artery catheters for adult patients in intensive care",
+  "pls_type": "long",
+  "pls": "A pulmonary artery catheter (PAC) is a device utilized in intensive care units (ICU) to measure the pressures in the heart and lung blood vessels and to monitor patients. The catheter is inserted into the right side of the heart through a line placed in a large blood vessel in the neck or groin and is positioned into the pulmonary artery. Complications are uncommon and are mainly related to line insertion. Occasionally bleeding inside the lung and changes in heart rhythm have been reported, but death associated with a PAC is rare. The objective of this systematic review was to provide an up-to-date assessment of evidence on the effectiveness of PAC on death rates, days spent in ICU, days spent in hospital, and cost of care for adult ICU patients.\nWe identified 13 studies comparing patients treated with and without the use of a PAC that studied a total of 5686 patients. These were studies of patients undergoing routine major surgery (eight) and studies of patients who were critically ill and admitted to ICUs (five). We analysed the studies for any trial related risks and performed appropriate statistical analysis to minimize any risk of bias or errors. The quality of evidence is high from this review and further research is very unlikely to change our confidence in the estimate of effect except for cost analysis.\nOur review found that there were no differences in the number of deaths during hospital stay, days spent in general ICUs, and days spent in hospital between patients who did and did not have a PAC inserted. Two US studies were analysed for hospital cost associated with or without a PAC and showed no difference in the cost. Neither group of patients studied showed any evidence of benefit or harm from using a PAC. The catheter is a monitoring tool that helps in diagnosis and is not a treatment modality. Insertion of PACs to help make treatment decisions in ICU patients should be individualized and should be done by experts in the field after adequate training in the interpretation of data. Studies need to be conducted to identify subgroups of ICU patients who can benefit, when the device is used in combination with standardized treatment plans, in reversing shock states and improving organ function."
+}

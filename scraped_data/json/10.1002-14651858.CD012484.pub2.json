@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012484.pub2",
+  "name": "Beta‐blockers for suspected or diagnosed acute myocardial infarction",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cardiovascular disease is the number one cause of death globally. According to the World Health Organization, 7.4 million people died from ischaemic heart diseases in 2012, constituting 15% of all deaths. Acute myocardial infarction is caused by blockage of the blood supplied to the heart muscle. Beta-blockers are often used in patients with acute myocardial infarction. Previous meta-analyses on the topic have shown conflicting results ranging from harms, neutral effects, to benefits. No previous systematic review using Cochrane methodology has assessed the effects of beta-blockers for acute myocardial infarction."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of beta-blockers compared with placebo or no intervention in people with suspected or diagnosed acute myocardial infarction."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, LILACS, Science Citation Index Expanded and BIOSIS Citation Index in June 2019. We also searched the WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, Turning Research into Practice, Google Scholar, SciSearch, and the reference lists of included trials and previous reviews in August 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised clinical trials assessing the effects of beta-blockers versus placebo or no intervention in people with suspected or diagnosed acute myocardial infarction. Trials were included irrespective of trial design, setting, blinding, publication status, publication year, language, and reporting of our outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed the Cochrane methodological recommendations. Four review authors independently extracted data. Our primary outcomes were all-cause mortality, serious adverse events according to the International Conference on Harmonization - Good Clinical Practice (ICH-GCP), and major adverse cardiovascular events (composite of cardiovascular mortality and non-fatal myocardial infarction during follow-up). Our secondary outcomes were quality of life, angina, cardiovascular mortality, and myocardial infarction during follow-up. Our primary time point of interest was less than three months after randomisation. We also assessed the outcomes at maximum follow-up beyond three months. Due to risk of multiplicity, we calculated a 97.5% confidence interval (CI) for the primary outcomes and a 98% CI for the secondary outcomes. We assessed the risks of systematic errors through seven bias domains in accordance to the instructions given in the Cochrane Handbook. The quality of the body of evidence was assessed by GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 63 trials randomising a total of 85,550 participants (mean age 57.4 years). Only one trial was at low risk of bias. The remaining trials were at high risk of bias. The quality of the evidence according to GRADE ranged from very low to high. Fifty-six trials commenced beta-blockers during the acute phase of acute myocardial infarction and seven trials during the subacute phase.\nAt our primary time point 'less than three months follow-up', meta-analysis showed that beta-blockers versus placebo or no intervention probably reduce the risk of a reinfarction during follow-up (risk ratio (RR) 0.82, 98% confidence interval (CI) 0.73 to 0.91; 67,562 participants; 18 trials; moderate-quality evidence) with an absolute risk reduction of 0.5% and a number needed to treat for an additional beneficial outcome (NNTB) of 196 participants. However, we found little or no effect of beta-blockers when assessing all-cause mortality (RR 0.94, 97.5% CI 0.90 to 1.00; 80,452 participants; 46 trials/47 comparisons; high-quality evidence) with an absolute risk reduction of 0.4% and cardiovascular mortality (RR 0.99, 95% CI 0.91 to 1.08; 45,852 participants; 1 trial; moderate-quality evidence) with an absolute risk reduction of 0.4%. Regarding angina, it is uncertain whether beta-blockers have a beneficial or harmful effect (RR 0.70, 98% CI 0.25 to 1.84; 98 participants; 3 trials; very low-quality evidence) with an absolute risk reduction of 7.1%. None of the trials specifically assessed nor reported serious adverse events according to ICH-GCP. Only two trials specifically assessed major adverse cardiovascular events, however, no major adverse cardiovascular events occurred in either trial.\nAt maximum follow-up beyond three months, meta-analyses showed that beta-blockers versus placebo or no intervention probably reduce the risk of all-cause mortality (RR 0.93, 97.5% CI 0.86 to 0.99; 25,210 participants; 21 trials/22 comparisons; moderate-quality evidence) with an absolute risk reduction of 1.1% and a NNTB of 91 participants, and cardiovascular mortality (RR 0.90, 98% CI 0.83 to 0.98; 22,457 participants; 14 trials/15 comparisons; moderate-quality evidence) with an absolute risk reduction of 1.2% and a NNTB of 83 participants. However, it is uncertain whether beta-blockers have a beneficial or harmful effect when assessing major adverse cardiovascular events (RR 0.81, 97.5% CI 0.40 to 1.66; 475 participants; 4 trials; very low-quality evidence) with an absolute risk reduction of 1.7%; reinfarction (RR 0.89, 98% CI 0.75 to 1.08; 6825 participants; 14 trials; low-quality evidence) with an absolute risk reduction of 0.9%; and angina (RR 0.64, 98% CI 0.18 to 2.0; 844 participants; 2 trials; very low-quality evidence). None of the trials specifically assessed nor reported serious adverse events according to ICH-GCP.\nNone of the trials assessed quality of life.\nWe identified two ongoing randomised clinical trials investigating the effect of early administration of beta-blockers after percutaneous coronary intervention or thrombolysis to patients with an acute myocardial infarction and one ongoing trial investigating the effect of long-term beta-blocker therapy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our present review indicates that beta-blockers for suspected or diagnosed acute myocardial infarction probably reduce the short-term risk of a reinfarction and the long-term risk of all-cause mortality and cardiovascular mortality. Nevertheless, it is most likely that beta-blockers have little or no effect on the short-term risk of all-cause mortality and cardiovascular mortality. Regarding all remaining outcomes (serious adverse events according to ICH-GCP, major adverse cardiovascular events (composite of cardiovascular mortality and non-fatal myocardial infarction during follow-up), the long-term risk of a reinfarction during follow-up, quality of life, and angina), further information is needed to confirm or reject the clinical effects of beta-blockers on these outcomes for people with or suspected of acute myocardial infarction."
+    }
+  ],
+  "pls_title": "Beta-blockers versus placebo or no intervention for patients with suspected or diagnosed myocardial infarction",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "According to the World Health Organization, 7.4 million people died from ischaemic heart disease in 2012, representing 15% of all global deaths. The role of acute or subacute treatment with beta-blockers in people suspected of or diagnosed with a heart attack, rests on their inhibition of so-called beta-receptors. This may result in a reduction in the oxygen demand of the heart. Hence, the inhibition of the beta-receptor may or may not decrease the complications associated with heart attack."
+    },
+    {
+      "heading": "Review question",
+      "text": "The aim of this Cochrane Systematic Review was to assess the benefits and harms of beta-blockers in people with suspected or diagnosed acute myocardial infarction (heart attack)."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched scientific databases from their inception to June 2019."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 63 randomised clinical trials where people with or suspected of a heart attack were randomly allocated to receiving beta-blockers compared with placebo or no intervention. The 63 trials included 85,550 adults with a mean age of 57.4 years. Only one trial was at low risk of bias. The remaining trials were at high risk of bias. The quality of the evidence according to GRADE ranged from very low to high. Fifty-six trials commenced beta-blockers versus control during the acute phase of acute myocardial infarction and seven trials during the subacute phase."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "We found 33 trials that were fully or partly funded by the industry, 20 trials that did not report their funding source, and 10 trials that were funded by other sources than the industry."
+    },
+    {
+      "heading": "Key results and conclusion",
+      "text": "Our present review shows that people receiving beta-blockers compared with people receiving placebo or no intervention seem at lower risk of a new heart attack in the acute phase after a heart attack. People receiving beta-blockers also seem at lower risk of dying from any cause and from any cardiac cause at long-term follow-up after a heart attack. Nevertheless, people receiving beta-blockers do not seem to have a lower or a higher risk of dying from any cause or from any cardiac cause in the acute phase after a heart attack. The effects of beta-blockers on all remaining outcomes (serious adverse events according to International Conference on Harmonization - Good Clinical Practice, major adverse cardiovascular events (composite of dying from a cardiac cause and a new non-fatal heart attack), new heart attack at long-term follow-up, quality of life, and angina) are uncertain due to none or sparse data."
+    }
+  ]
+}

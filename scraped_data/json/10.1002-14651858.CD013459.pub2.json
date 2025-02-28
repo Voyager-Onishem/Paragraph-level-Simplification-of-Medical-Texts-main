@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD013459.pub2",
+  "name": "Rapid diagnostic tests for plague",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Plague is a severe disease associated with high mortality. Late diagnosis leads to advance stage of the disease with worse outcomes and higher risk of spread of the disease. A rapid diagnostic test (RDT) could help in establishing a prompt diagnosis of plague. This would improve patient care and help appropriate public health response."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of the RDT based on the antigen F1 (F1RDT) for detecting plague in people with suspected disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the CENTRAL, Embase, Science Citation Index, Google Scholar, the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov up to 15 May 2019, and PubMed (MEDLINE) up to 27 August 2019, regardless of language, publication status, or publication date. We handsearched the reference lists of relevant papers and contacted researchers working in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cross-sectional studies that assessed the accuracy of the F1RDT for diagnosing plague, where participants were tested with both the F1RDT and at least one reference standard. The reference standards were bacterial isolation by culture, polymerase chain reaction (PCR), and paired serology (this is a four-fold difference in F1 antibody titres between two samples from acute and convalescent phases)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies and extracted data. We appraised the methodological quality of each selected studies and applicability by using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool. When meta-analysis was appropriate, we used the bivariate model to obtain pooled estimates of sensitivity and specificity. We stratified all analyses by the reference standard used and presented disaggregated data for forms of plague. We assessed the certainty of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight manuscripts reporting seven studies. Studies were conducted in three countries in Africa among adults and children with any form of plague. All studies except one assessed the F1RDT produced at the Institut Pasteur of Madagascar (F1RDT-IPM) and one study assessed a F1RDT produced by New Horizons (F1RDT-NH), utilized by the US Centers for Disease Control and Prevention. We could not pool the findings from the F1RDT-NH in meta-analyses due to a lack of raw data and a threshold of the test for positivity different from the F1RDT-IPM.\nRisk of bias was high for participant selection (retrospective studies, recruitment of participants not consecutive or random, unclear exclusion criteria), low or unclear for index test (blinding of F1RDT interpretation unknown), low for reference standards, and high or unclear for flow and timing (time of sample transportation was longer than seven days, which can lead to decreased viability of the pathogen and overgrowth of contaminating bacteria, with subsequent false-negative results and misclassification of the target condition).\nF1RDT for diagnosing all forms of plague\nF1RDT-IPM pooled sensitivity against culture was 100% (95% confidence interval (CI) 82 to 100; 4 studies, 1692 participants; very low certainty evidence) and pooled specificity was 70.3% (95% CI 65 to 75; 4 studies, 2004 participants; very low-certainty evidence).\nThe performance of F1RDT-IPM against PCR was calculated from a single study in participants with bubonic plague (see below).\nThere were limited data on the performance of F1RDT against paired serology.\nF1RDT for diagnosing pneumonic plague\nPerformed in sputum, F1RDT-IPM pooled sensitivity against culture was 100% (95% CI 0 to 100; 2 studies, 56 participants; very low-certainty evidence) and pooled specificity was 71% (95% CI 59 to 80; 2 studies, 297 participants; very low-certainty evidence).\nThere were limited data on the performance of F1RDT against PCR or against paired serology for diagnosing pneumonic plague.\nF1RDT for diagnosing bubonic plague\nPerformed in bubo aspirate, F1RDT-IPM pooled sensitivity against culture was 100% (95% CI not calculable; 2 studies, 1454 participants; low-certainty evidence) and pooled specificity was 67% (95% CI 65 to 70; 2 studies, 1198 participants; very low-certainty evidence).\nPerformed in bubo aspirate, F1RDT-IPM pooled sensitivity against PCR for the caf1 gene was 95% (95% CI 89 to 99; 1 study, 88 participants; very low-certainty evidence) and pooled specificity was 93% (95% CI 84 to 98; 1 study, 61 participants; very low-certainty evidence).\nThere were no data providing data on both F1RDT and paired serology for diagnosing bubonic plague."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Against culture, the F1RDT appeared highly sensitive for diagnosing either pneumonic or bubonic plague, and can help detect plague in remote areas to assure management and enable a public health response. False positive results mean culture or PCR confirmation may be needed. F1RDT does not replace culture, which provides additional information on resistance to antibiotics and bacterial strains."
+    }
+  ],
+  "pls_title": "Rapid diagnostic tests for plague",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving diagnosis of plague important?",
+      "text": "Plague is a severe disease associated with high death rates. Pneumonic plague mainly affects the lungs, while bubonic plague present with painful swellings. Not recognizing plague early may result in delayed diagnosis and treatment associated with advanced illness and death, and increased disease spread. A rapid diagnostic test (RDT) could help prompt diagnosis of plague, especially in low-resource settings. This would improve patient care and help appropriate response to avoid the disease spread."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To assess the accuracy of the F1RDT for detecting plague in people with suspected plague."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "F1RDT is a test that detects the F1 antigen, which is part of the outer surface of Yersinia pestis, the bacteria causing plague. The test is simple to perform and provides a result within 15 minutes. It can be performed in the pus contained in the buboes (swellings), or in the sputum (mucous coughed up from the respiratory tract) of people with suspected pneumonic plague. We measured the results of F1RDT against culture, molecular test, or serological tests."
+    },
+    {
+      "heading": "What are the main results?",
+      "text": "Seven studies (reported in eight manuscripts) provided findings of F1RDT used in people with suspected plague in three African countries.\nFor any form of plague and when compared to culture, F1RDT registered positive in 100% (sensitivity, which measures a test's ability to correctly identify a positive result for the disease) of people who had plague and registered negative in 70% of people who actually did not have plague (specificity, which measures a test's ability to correctly generate a negative result for people who do not have the condition that is being tested for).\nFor pneumonic plague, sensitivity was 100% and specificity 71% compared to culture.\nFor bubonic plague, sensitivity was 100% and specificity 67% compared to culture. Compared to a molecular test for bubonic plague, sensitivity was 95% and specificity 93%."
+    },
+    {
+      "heading": "How confident are we in the review",
+      "text": "'s results?\nOverall, the reliability of the evidence was very low. Results should be interpreted with caution. There were concerns about the quality of the methodology of all included studies. Also, culture might not work well as a reference standard (comparator) when people received antibiotics before sample collection for testing."
+    },
+    {
+      "heading": "What do the results mean?",
+      "text": "In a hypothetical population of 1000 people:\n• with symptoms of pneumonic plague where 40 of them have the disease confirmed by culture, the utilization of F1RDT would result in: 318 people to be F1RDT-positive, of which 278 would not have pneumonic plague (called false positives); and 682 people to be F1RDT-negative, of which none would have pneumonic plague (called false negatives).\n• with symptoms of bubonic plague where 40 of them have the disease confirmed by culture, the utilization of F1RDT would result in: 357 people to be F1RDT-positive, of which 317 would not have bubonic plague (false positives); and 643 people to be F1RDT-negative, of which none would have bubonic plague (false negatives).\n• with symptoms of bubonic plague where 40 of them have the disease confirmed by molecular test, the utilization of F1RDT would result in: 105 people to be F1RDT-positive, of which 67 would not have bubonic plague (false positives); and 895 people to be F1RDT-negative, of which two would have bubonic plague (false negatives)."
+    },
+    {
+      "heading": "Who do the review",
+      "text": "'s results apply to?\nAdults and children with suspected bubonic or pneumonic plague."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "F1RDT appears to be highly sensitive for pneumonic or bubonic plague. As a simple test that can be performed at a patient's bedside in remote and low-resource areas, F1RDT can assist with plague diagnosis for early management, and appropriate preventive measures to avoid spread of the disease.\nThe number of false positives (people with a positive F1RDT but who do not have plague) indicate that F1RDT may need to be combined with other laboratory evaluations (culture or molecular test) to confirm the diagnosis of plague.\nF1RDT does not replace culture, which provides additional information on resistance to antibiotics and bacterial strains."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies up to 15 May 2019."
+    }
+  ]
+}

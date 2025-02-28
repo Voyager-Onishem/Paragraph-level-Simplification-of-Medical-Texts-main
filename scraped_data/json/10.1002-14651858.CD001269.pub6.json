@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001269.pub6",
+  "name": "Vaccines for preventing influenza in healthy adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The consequences of influenza in adults are mainly time off work. Vaccination of pregnant women is recommended internationally. This is an update of a review published in 2014. Future updates of this review will be made only when new trials or vaccines become available. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated due to their lack of influence on the review conclusions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects (efficacy, effectiveness, and harm) of vaccines against influenza in healthy adults, including pregnant women."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 12), MEDLINE (January 1966 to 31 December 2016), Embase (1990 to 31 December 2016), the WHO International Clinical Trials Registry Platform (ICTRP; 1 July 2017), and ClinicalTrials.gov (1 July 2017), as well as checking the bibliographies of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-RCTs comparing influenza vaccines with placebo or no intervention in naturally occurring influenza in healthy individuals aged 16 to 65 years. Previous versions of this review included observational comparative studies assessing serious and rare harms cohort and case-control studies. Due to the uncertain quality of observational (i.e. non-randomised) studies and their lack of influence on the review conclusions, we decided to update only randomised evidence. The searches for observational comparative studies are no longer updated."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. We rated certainty of evidence for key outcomes (influenza, influenza-like illness (ILI), hospitalisation, and adverse effects) using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 52 clinical trials of over 80,000 people assessing the safety and effectiveness of influenza vaccines. We have presented findings from 25 studies comparing inactivated parenteral influenza vaccine against placebo or do-nothing control groups as the most relevant to decision-making. The studies were conducted over single influenza seasons in North America, South America, and Europe between 1969 and 2009. We did not consider studies at high risk of bias to influence the results of our outcomes except for hospitalisation.\nInactivated influenza vaccines probably reduce influenza in healthy adults from 2.3% without vaccination to 0.9% (risk ratio (RR) 0.41, 95% confidence interval (CI) 0.36 to 0.47; 71,221 participants; moderate-certainty evidence), and they probably reduce ILI from 21.5% to 18.1% (RR 0.84, 95% CI 0.75 to 0.95; 25,795 participants; moderate-certainty evidence; 71 healthy adults need to be vaccinated to prevent one of them experiencing influenza, and 29 healthy adults need to be vaccinated to prevent one of them experiencing an ILI). The difference between the two number needed to vaccinate (NNV) values depends on the different incidence of ILI and confirmed influenza among the study populations. Vaccination may lead to a small reduction in the risk of hospitalisation in healthy adults, from 14.7% to 14.1%, but the CI is wide and does not rule out a large benefit (RR 0.96, 95% CI 0.85 to 1.08; 11,924 participants; low-certainty evidence). Vaccines may lead to little or no small reduction in days off work (-0.04 days, 95% CI -0.14 days to 0.06; low-certainty evidence). Inactivated vaccines cause an increase in fever from 1.5% to 2.3%.\nWe identified one RCT and one controlled clinical trial assessing the effects of vaccination in pregnant women. The efficacy of inactivated vaccine containing pH1N1 against influenza was 50% (95% CI 14% to 71%) in mothers (NNV 55), and 49% (95% CI 12% to 70%) in infants up to 24 weeks (NNV 56). No data were available on efficacy against seasonal influenza during pregnancy. Evidence from observational studies showed effectiveness of influenza vaccines against ILI in pregnant women to be 24% (95% CI 11% to 36%, NNV 94), and against influenza in newborns from vaccinated women to be 41% (95% CI 6% to 63%, NNV 27).\nLive aerosol vaccines have an overall effectiveness corresponding to an NNV of 46. The performance of one- or two-dose whole-virion 1968 to 1969 pandemic vaccines was higher (NNV 16) against ILI and (NNV 35) against influenza. There was limited impact on hospitalisations in the 1968 to 1969 pandemic (NNV 94). The administration of both seasonal and 2009 pandemic vaccines during pregnancy had no significant effect on abortion or neonatal death, but this was based on observational data sets."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Healthy adults who receive inactivated parenteral influenza vaccine rather than no vaccine probably experience less influenza, from just over 2% to just under 1% (moderate-certainty evidence). They also probably experience less ILI following vaccination, but the degree of benefit when expressed in absolute terms varied across different settings. Variation in protection against ILI may be due in part to inconsistent symptom classification. Certainty of evidence for the small reductions in hospitalisations and time off work is low. Protection against influenza and ILI in mothers and newborns was smaller than the effects seen in other populations considered in this review.\nVaccines increase the risk of a number of adverse events, including a small increase in fever, but rates of nausea and vomiting are uncertain. The protective effect of vaccination in pregnant women and newborns is also very modest. We did not find any evidence of an association between influenza vaccination and serious adverse events in the comparative studies considered in this review. Fifteen included RCTs were industry funded (29%)."
+    }
+  ],
+  "pls_title": "Vaccines to prevent influenza in healthy adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review aim",
+      "text": "The aim of this Cochrane Review, first published in 1999, was to summarise research that looks at the effects of immunising healthy adults with influenza vaccines during influenza seasons. We used information from randomised trials comparing vaccines with dummy vaccines or nothing. We focused on the results of studies looking at vaccines based on inactivated influenza viruses, which are developed by killing the influenza virus with a chemical and are given by injection through the skin. We evaluated the effects of vaccines on reducing the number of adults with confirmed influenza and the number of adults who had influenza-like symptoms such as headache, high temperature, cough, and muscle pain (influenza-like illness, or ILI). We also evaluated hospital admission and harms arising from the vaccines. Observational data included in previous versions of the review have been retained for historical reasons but have not been updated due to their lack of influence on the review conclusions."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Over 200 viruses cause ILI, which produces the same symptoms (fever, headache, aches, pains, cough, and runny nose) as influenza. Without laboratory tests, doctors cannot distinguish between ILI and influenza because both last for days and rarely cause serious illness or death. The types of virus contained in influenza vaccines are usually those that are expected to circulate in the following influenza seasons, according to recommendations of the World Health Organization (seasonal vaccine). Pandemic vaccine contains only the virus strain that is responsible of the pandemic (i.e. the type A H1N1 for the 2009 to 2010 pandemic)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 52 clinical trials of over 80,000 adults. We were unable to determine the impact of bias on about 70% of the included studies due to insufficient reporting of details. Around 15% of the included studies were well designed and conducted. We focused on reporting of results from 25 studies that looked at inactivated vaccines. Injected influenza vaccines probably have a small protective effect against influenza and ILI (moderate-certainty evidence), as 71 people would need to be vaccinated to avoid one influenza case, and 29 would need to be vaccinated to avoid one case of ILI. Vaccination may have little or no appreciable effect on hospitalisations (low-certainty evidence) or number of working days lost.\nWe were uncertain of the protection provided to pregnant women against ILI and influenza by the inactivated influenza vaccine, or this was at least very limited.\nThe administration of seasonal vaccines during pregnancy showed no significant effect on abortion or neonatal death, but the evidence set was observational."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Inactivated vaccines can reduce the proportion of healthy adults (including pregnant women) who have influenza and ILI, but their impact is modest. We are uncertain about the effects of inactivated vaccines on working days lost or serious complications of influenza during influenza season."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence is current to 31 December 2016."
+    }
+  ]
+}

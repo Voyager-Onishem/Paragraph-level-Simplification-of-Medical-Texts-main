@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD014914.pub2",
+  "name": "Zinc for prevention and treatment of the common cold",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The common cold is an acute, self-limiting viral respiratory illness. Symptoms include nasal congestion and mucus discharge, sneezing, sore throat, cough, and general malaise. Given the frequency of colds, they are a public health burden and a significant cause of lost work productivity and school absenteeism. There are no established interventions to prevent colds or shorten their duration. However, zinc supplements are commonly recommended and taken for this purpose."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of zinc for the prevention and treatment of the common cold."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, CINAHL, and LILACS to 22 May 2023, and searched Web of Science Core Collection and two trials registries to 14 June 2023. We also used reference checking, citation searching, and contact with study authors to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) in children or adults that tested any form of zinc against placebo to prevent or treat the common cold or upper respiratory infection (URTI). We excluded zinc interventions in which zinc was combined with other minerals, vitamins, or herbs (e.g. a multivitamin, or mineral supplement containing zinc)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the Cochrane risk of bias tool to assess risks of bias, and GRADE to assess the certainty of the evidence. We independently extracted data. When necessary, we contacted study authors for additional information. We assessed zinc (type and route) with placebo in the prevention and treatment of the common cold. Primary outcomes included the proportion of participants developing colds (for analyses of prevention trials only), duration of cold (measured in days from start to resolution of the cold), adverse events potentially due to zinc supplements (e.g. unpleasant taste, loss of smell, vomiting, stomach cramps, and diarrhoea), and adverse events considered to be potential complications of the common cold (e.g. respiratory bacterial infections)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 34 studies (15 prevention, 19 treatment) involving 8526 participants. Twenty-two studies were conducted on adults and 12 studies were conducted on children. Most trials were conducted in the USA (n = 18), followed by India, Indonesia, Iran, and Turkey (two studies each), and Australia, Burkina Faso, Colombia, Denmark, Finland, Tanzania, Thailand, and the UK (one study each). The 15 prevention studies identified the condition as either common cold (n = 8) or URTI (n = 7). However, almost all therapeutic studies (17/19) focused on the common cold. Most studies (17/34) evaluated the effectiveness of zinc administered as lozenges (3 prevention; 14 treatment) in acetate, gluconate, and orotate forms; gluconate lozenges were the most common (9/17). Zinc gluconate was given at doses between 45 and 276 mg/day for between 4.5 and 21 days. Five (5/17) lozenge studies gave acetate lozenges and two (2/17) gave both acetate and gluconate lozenges. One (1/17) lozenge study administered intranasal (gluconate ) and lozenge (orotate) zinc in tandem for cold treatment. Of the 17/34 studies that did not use lozenges, 1/17 gave capsules, 3/17 administered dissolved powders, 5/17 gave tablets, 4/17 used syrups, and 4/17 used intranasal administration. Most studies were at unclear or high risk of bias in at least one domain.\nThere may be little or no reduction in the risk of developing a cold with zinc compared to placebo (risk ratio (RR) 0.93, 95% CI 0.85 to 1.01; I2 = 20%; 9 studies, 1449 participants; low-certainty evidence). There may be little or no reduction in the mean number of colds that occur over five to 18 months of follow-up (mean difference (MD) -0.90, 95% CI -1.93 to 0.12; I2 = 96%; 2 studies, 1284 participants; low-certainty evidence). When colds occur, there is probably little or no difference in the duration of colds in days (MD -0.63, 95% CI -1.29 to 0.04; I² = 77%; 3 studies, 740 participants; moderate-certainty evidence), and there may be little or no difference in global symptom severity (standardised mean difference (SMD) 0.04, 95% CI -0.35 to 0.43; I² = 0%; 2 studies, 101 participants; low-certainty evidence).\nWhen zinc is used for cold treatment, there may be a reduction in the mean duration of the cold in days (MD -2.37, 95% CI -4.21 to -0.53; I² = 97%; 8 studies, 972 participants; low-certainty evidence), although it is uncertain whether there is a reduction in the risk of having an ongoing cold at the end of follow-up (RR 0.52, 95% CI 0.21 to 1.27; I² = 65%; 5 studies, 357 participants; very low-certainty evidence), or global symptom severity (SMD -0.03, 95% CI -0.56 to 0.50; I² = 78%; 2 studies, 261 participants; very low-certainty evidence), and there may be little or no difference in the risk of a change in global symptom severity (RR 1.02, 95% CI 0.85 to 1.23; 1 study, 114 participants; low-certainty evidence).\nThirty-one studies reported non-serious adverse events (2422 participants). It is uncertain whether there is a difference in the risk of adverse events with zinc used for cold prevention (RR 1.11, 95% CI 0.84 to 1.47; I2 = 0%; 7 studies, 1517 participants; very low-certainty evidence) or an increase in the risk of serious adverse events (RR 1.67, 95% CI 0.78 to 3.57; I2 = 0%; 3 studies, 1563 participants; low-certainty evidence). There is probably an increase in the risk of non-serious adverse events when zinc is used for cold treatment (RR 1.34, 95% CI 1.15 to 1.55; I2 = 44%; 2084 participants, 16 studies; moderate-certainty evidence); no treatment study provided information on serious adverse events. No study provided clear information about adverse events considered to be potential complications of the common cold."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings suggest that zinc supplementation may have little or no effect on the prevention of colds but may reduce the duration of ongoing colds, with an increase in non-serious adverse events. Overall, there was wide variation in interventions (including concomitant therapy) and outcomes across the studies, as well as incomplete reporting of several domains, which should be considered when making conclusions about the efficacy of zinc for the common cold."
+    }
+  ],
+  "pls_title": "Zinc for the prevention and treatment of the common cold",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- There may be little or no reduction in the risk of developing a cold with zinc supplements compared to placebo.\n- For people who already have a cold, there may be a reduction in how long the cold lasts with zinc supplements compared to placebo.\n- There is probably an increase in the risk of non-serious adverse events when zinc is used for cold treatment."
+    },
+    {
+      "heading": "What is the common cold?",
+      "text": "The common cold is primarily a viral infection of the upper respiratory tract. There is no specific combination of symptoms that defines a cold, but symptoms can include nasal congestion, sneezing, sore throat, cough, fatigue, and runny nose, with or without fever. Most people usually recover from this illness without medical treatment; however, there are no definitive treatments to prevent colds or shorten their duration. Given the frequency of colds in adults and children, they are a public health burden and a significant cause of lost work productivity and school absenteeism. Prevention and treatment for the common cold with zinc is an ongoing interest."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if zinc was better than placebo at reducing the risk of developing a cold and shortening the duration of existing colds. A placebo is a substance similar in appearance to a treatment, but that has no known therapeutic effect. Placebos help assess the effects of the belief that a treatment has been received versus treatment actually being received.\nWe also wanted to find out if zinc was associated with any adverse effects (e.g. harms), especially harms considered to be potential complications of the common cold. Additionally, we looked at self-reported overall cold severity, individual symptom severity, individual symptom duration, and days missed from work or school."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched six databases and two clinical trials registers for studies comparing zinc with placebo for the treatment or prevention of the common cold in adults and children. We compared and summarised the results of the studies, and we found and rated our confidence in the evidence based on specific factors such as risk of bias and study methods."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 34 studies of cold prevention or treatment. The studies were conducted in 13 countries, a majority taking place in the USA. Twelve studies were conducted on children (aged under 18 years) and 22 studies were conducted on adults. Most treatments ended with self-reported resolution of symptoms, and the minimum treatment period was five days with a maximum period of 540 days. Most of the studies were funded by an organisation with ties to related commerce/industry or did not report their funding. The remainder were funded by private clinics, non-government foundations, universities, or governmental entities.\nWe assessed the effects of:\n- zinc as a preventative measure; and\n- zinc as a treatment measure.\nWe obtained the following results:\nZinc for prevention\nCompared with placebo, taking zinc may make little to no difference in preventing people from catching a cold (9 studies, 1449 people). Preventative zinc also probably makes little to no difference to the length of the cold if one has been caught (3 studies, 740 participants) and may make little to no difference to the severity of the symptoms experienced (2 studies, 101 people). Negative side effects were reported by people taking either zinc or placebo; irregularities in taste and stomach upset were the most common.\nZinc for treatment\nZinc taken for treatment of a cold may reduce the length of time that symptoms are present, by approximately two days, when compared with placebo (8 studies, 972 people). However, we have little confidence in the evidence supporting this conclusion. It is unclear whether zinc makes a difference to the severity of the cold symptoms experienced (2 studies, 261 people). Negative side effects were reported more frequently for those taking zinc as a cold treatment when compared to those taking placebo; irregularities in taste and stomach upset were the most common. Studies administering intranasal zinc did not report any cases of anosmia (loss of sense of smell) but information about specific side effects is uncertain."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is mostly low to very low, and the results of further research could differ from the results of this review. Several factors reduced our confidence in the evidence. Firstly, some studies did not report adequately on how people in the studies were randomly placed into treatment groups, meaning that differences between the study groups could be due to differences between the participants and not the treatments. Secondly, some studies used widely different ways of delivering treatments. Finally, due to the large differences between studies in the approaches used to test the effectiveness of zinc, it is likely that additional studies are required before any firm conclusions can be drawn."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to 22 May 2023."
+    }
+  ]
+}

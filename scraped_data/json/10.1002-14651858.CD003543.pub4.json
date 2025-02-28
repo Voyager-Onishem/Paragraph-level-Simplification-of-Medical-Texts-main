@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD003543.pub4",
+  "name": "Interventions to improve antibiotic prescribing practices for hospital inpatients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antibiotic resistance is a major public health problem. Infections caused by multidrug-resistant bacteria are associated with prolonged hospital stay and death compared with infections caused by susceptible bacteria. Appropriate antibiotic use in hospitals should ensure effective treatment of patients with infection and reduce unnecessary prescriptions. We updated this systematic review to evaluate the impact of interventions to improve antibiotic prescribing to hospital inpatients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To estimate the effectiveness and safety of interventions to improve antibiotic prescribing to hospital inpatients and to investigate the effect of two intervention functions: restriction and enablement."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library), MEDLINE, and Embase. We searched for additional studies using the bibliographies of included articles and personal files. The last search from which records were evaluated and any studies identified incorporated into the review was January 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and non-randomised studies (NRS). We included three non-randomised study designs to measure behavioural and clinical outcomes and analyse variation in the effects: non- randomised trials (NRT), controlled before-after (CBA) studies and interrupted time series (ITS) studies. For this update we also included three additional NRS designs (case control, cohort, and qualitative studies) to identify unintended consequences. Interventions included any professional or structural interventions as defined by the Cochrane Effective Practice and Organisation of Care Group. We defined restriction as 'using rules to reduce the opportunity to engage in the target behaviour (or increase the target behaviour by reducing the opportunity to engage in competing behaviours)'. We defined enablement as 'increasing means/reducing barriers to increase capability or opportunity'. The main comparison was between intervention and no intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data and assessed study risk of bias. We performed meta-analysis and meta-regression of RCTs and meta-regression of ITS studies. We classified behaviour change functions for all interventions in the review, including those studies in the previously published versions. We analysed dichotomous data with a risk difference (RD). We assessed certainty of evidence with GRADE criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 221 studies (58 RCTs, and 163 NRS). Most studies were from North America (96) or Europe (87). The remaining studies were from Asia (19), South America (8), Australia (8), and the East Asia (3). Although 62% of RCTs were at a high risk of bias, the results for the main review outcomes were similar when we restricted the analysis to studies at low risk of bias.\nMore hospital inpatients were treated according to antibiotic prescribing policy with the intervention compared with no intervention based on 29 RCTs of predominantly enablement interventions (RD 15%, 95% confidence interval (CI) 14% to 16%; 23,394 participants; high-certainty evidence). This represents an increase from 43% to 58% .There were high levels of heterogeneity of effect size but the direction consistently favoured intervention.\nThe duration of antibiotic treatment decreased by 1.95 days (95% CI 2.22 to 1.67; 14 RCTs; 3318 participants; high-certainty evidence) from 11.0 days. Information from non-randomised studies showed interventions to be associated with improvement in prescribing according to antibiotic policy in routine clinical practice, with 70% of interventions being hospital-wide compared with 31% for RCTs. The risk of death was similar between intervention and control groups (11% in both arms), indicating that antibiotic use can likely be reduced without adversely affecting mortality (RD 0%, 95% CI -1% to 0%; 28 RCTs; 15,827 participants; moderate-certainty evidence). Antibiotic stewardship interventions probably reduce length of stay by 1.12 days (95% CI 0.7 to 1.54 days; 15 RCTs; 3834 participants; moderate-certainty evidence). One RCT and six NRS raised concerns that restrictive interventions may lead to delay in treatment and negative professional culture because of breakdown in communication and trust between infection specialists and clinical teams (low-certainty evidence).\nBoth enablement and restriction were independently associated with increased compliance with antibiotic policies, and enablement enhanced the effect of restrictive interventions (high-certainty evidence). Enabling interventions that included feedback were probably more effective than those that did not (moderate-certainty evidence).\nThere was very low-certainty evidence about the effect of the interventions on reducing Clostridium difficile infections (median -48.6%, interquartile range -80.7% to -19.2%; 7 studies). This was also the case for resistant gram-negative bacteria (median -12.9%, interquartile range -35.3% to 25.2%; 11 studies) and resistant gram-positive bacteria (median -19.3%, interquartile range -50.1% to +23.1%; 9 studies). There was too much variance in microbial outcomes to reliably assess the effect of change in antibiotic use.\nHeterogeneity of intervention effect on prescribing outcomes\nWe analysed effect modifiers in 29 RCTs and 91 ITS studies. Enablement and restriction were independently associated with a larger effect size (high-certainty evidence). Feedback was included in 4 (17%) of 23 RCTs and 20 (47%) of 43 ITS studies of enabling interventions and was associated with greater intervention effect. Enablement was included in 13 (45%) of 29 ITS studies with restrictive interventions and enhanced intervention effect."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found high-certainty evidence that interventions are effective in increasing compliance with antibiotic policy and reducing duration of antibiotic treatment. Lower use of antibiotics probably does not increase mortality and likely reduces length of stay. Additional trials comparing antibiotic stewardship with no intervention are unlikely to change our conclusions. Enablement consistently increased the effect of interventions, including those with a restrictive component. Although feedback further increased intervention effect, it was used in only a minority of enabling interventions. Interventions were successful in safely reducing unnecessary antibiotic use in hospitals, despite the fact that the majority did not use the most effective behaviour change techniques. Consequently, effective dissemination of our findings could have considerable health service and policy impact. Future research should instead focus on targeting treatment and assessing other measures of patient safety, assess different stewardship interventions, and explore the barriers and facilitators to implementation. More research is required on unintended consequences of restrictive interventions."
+    }
+  ],
+  "pls_title": "Improving how physicians working in hospital settings prescribe antibiotics",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review aim",
+      "text": "The aim of this Cochrane review was to learn of ways to improve how physicians working in hospital settings prescribe antibiotics. We collected and analysed all relevant studies to answer this question and found 221 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The use of an antibiotic policy leads to improved prescribing practices and decreases in the duration of antibiotic treatment.\nInterventions that are directed to physicians to improve their antibiotic prescribing practices reduced participant length of stay in hospitals by 1.12 days (based on findings from 15 studies) and did not increase the risk of death (based on findings from 29 studies). Interventions providing advice or feedback to physicians were more effective in improving prescribing practices than those interventions that did not provide this information to physicians. Evidence from seven studies raised concerns that with interventions applying rules to make physicians prescribe properly there were delays in treatment and a breakdown in trust between infection specialists and clinical teams."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Antibiotics are used to treat bacterial infections such as pneumonia. Many bacteria have become resistant to antibiotics over time. Antibiotic resistance is a serious problem for patients and healthcare systems because infections caused by antibiotic-resistant bacteria can lead to higher rates of death and longer hospital stays. Bacterial resistance often occurs because antibiotics are used when they are not needed. Studies have shown that in about half of cases physicians in hospital are not prescribing antibiotics properly.\nWe investigated the effectiveness and safety of interventions to help physicians prescribe antibiotics properly and what techniques of behaviour change could influence the success of the interventions."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 221 relevant studies. Ninety-six studies were from North America. The remaining 125 studies were from Europe (87), Asia (19), South America (8), Australia (8), and East Asia (3). The studies tested interventions that fell broadly into two categories: restrictive techniques, which apply rules to make physicians prescribe properly, and enablement techniques, which provide advice or feedback to help physicians prescribe properly.\nWe found high-certainty evidence that interventions lead to more hospital inpatients receiving the appropriate treatment for their condition according to antibiotic prescribing policies. We found moderate-certainty evidence that interventions reduce the length of hospital stay without increasing patient deaths. Both restriction and enabling techniques were successful in achieving effectiveness of the intervention. We do not need more studies to answer the question of whether these interventions reduce unnecessary antibiotic use, but we do need more research to understand the unintended consequences of the use of restrictive interventions.\nInterventions were successful in safely reducing unnecessary antibiotic use in hospitals, despite the fact that the majority did not use a widely adopted behaviour change technique, which is to audit and provide feedback on performance. Effective communication of the review results could have considerable health service and policy impact."
+    },
+    {
+      "heading": "How up-to-date is the review?",
+      "text": "We searched for studies published up to January 2015."
+    }
+  ]
+}

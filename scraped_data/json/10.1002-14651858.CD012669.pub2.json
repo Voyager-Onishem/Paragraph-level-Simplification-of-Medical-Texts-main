@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012669.pub2",
+  "name": "Point‐of‐care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Point-of-care sonography (POCS) has emerged as the screening modality of choice for suspected body trauma in many emergency departments worldwide. Its best known application is FAST (focused abdominal sonography for trauma). The technology is almost ubiquitously available, can be performed during resuscitation, and does not expose patients or staff to radiation. While many authors have stressed the high specificity of POCS, its sensitivity varied markedly across studies. This review aimed to compile the current best evidence about the diagnostic accuracy of POCS imaging protocols in the setting of blunt thoracoabdominal trauma."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of POCS for detecting and excluding free fluid, organ injuries, vascular lesions, and other injuries (e.g. pneumothorax) compared to a diagnostic reference standard (i.e. computed tomography (CT), magnetic resonance imaging (MRI), thoracoscopy or thoracotomy, laparoscopy or laparotomy, autopsy, or any combination of these) in patients with blunt trauma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Ovid MEDLINE (1946 to July 2017) and Ovid Embase (1974 to July 2017), as well as PubMed (1947 to July 2017), employing a prospectively defined literature and data retrieval strategy. We also screened the Cochrane Library, Google Scholar, and BIOSIS for potentially relevant citations, and scanned the reference lists of full-text papers for articles missed by the electronic search. We performed a top-up search on 6 December 2018, and identified eight new studies which may be incorporated into the first update of this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We assessed studies for eligibility using predefined inclusion and exclusion criteria. We included either prospective or retrospective diagnostic cohort studies that enrolled patients of any age and gender who sustained any type of blunt injury in a civilian scenario. Eligible studies had to provide sufficient information to construct a 2 x 2 table of diagnostic accuracy to allow for calculating sensitivity, specificity, and other indices of diagnostic test accuracy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles, abstracts, and full texts of reports using a prespecified data extraction form. Methodological quality of individual studies was rated by the QUADAS-2 instrument (the revised and updated version of the original Quality Assessment of Diagnostic Accuracy Studies list of items). We calculated sensitivity and specificity with 95% confidence intervals (CI), tabulated the pairs of sensitivity and specificity with CI, and depicted these estimates by coupled forest plots using Review Manager 5 (RevMan 5). For pooling summary estimates of sensitivity and specificity, and investigating heterogeneity across studies, we fitted a bivariate model using Stata 14.0."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 34 studies with 8635 participants in this review. Summary estimates of sensitivity and specificity were 0.74 (95% CI 0.65 to 0.81) and 0.96 (95% CI 0.94 to 0.98). Pooled positive and negative likelihood ratios were estimated at 18.5 (95% CI 10.8 to 40.5) and 0.27 (95% CI 0.19 to 0.37), respectively. There was substantial heterogeneity across studies, and the reported accuracy of POCS strongly depended on the population and affected body area. In children, pooled sensitivity of POCS was 0.63 (95% CI 0.46 to 0.77), as compared to 0.78 (95% CI 0.69 to 0.84) in an adult or mixed population. Associated specificity in children was 0.91 (95% CI 0.81 to 0.96) and in an adult or mixed population 0.97 (95% CI 0.96 to 0.99). For abdominal trauma, POCS had a sensitivity of 0.68 (95% CI 0.59 to 0.75) and a specificity of 0.95 (95% CI 0.92 to 0.97). For chest injuries, sensitivity and specificity were calculated at 0.96 (95% CI 0.88 to 0.99) and 0.99 (95% CI 0.97 to 1.00). If we consider the results of all 34 included studies in a virtual population of 1000 patients, based on the observed median prevalence (pretest probability) of thoracoabdominal trauma of 28%, POCS would miss 73 patients with injuries and falsely suggest the presence of injuries in another 29 patients. Furthermore, in a virtual population of 1000 children, based on the observed median prevalence (pretest probability) of thoracoabdominal trauma of 31%, POCS would miss 118 children with injuries and falsely suggest the presence of injuries in another 62 children."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In patients with suspected blunt thoracoabdominal trauma, positive POCS findings are helpful for guiding treatment decisions. However, with regard to abdominal trauma, a negative POCS exam does not rule out injuries and must be verified by a reference test such as CT. This is of particular importance in paediatric trauma, where the sensitivity of POCS is poor. Based on a small number of studies in a mixed population, POCS may have a higher sensitivity in chest injuries. This warrants larger, confirmatory trials to affirm the accuracy of POCS for diagnosing thoracic trauma."
+    }
+  ],
+  "pls_title": "How accurate is bedside ultrasound for the diagnosis of injuries to the abdomen or chest in patients with blunt injuries?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background and aims",
+      "text": "People who sustain a road traffic crash or fall from a height are at risk for blunt body trauma (i.e. non-penetrating trauma) and multiple injuries. Medical professionals caring for these patients in hospital need to know if vital organs or vessels are damaged, and whether there is any major bleeding that requires immediate intervention. Point-of-care sonography (POCS), a form of ultrasound, is a non-invasive, radiation-free, portable imaging technique that can be used at the patient's bedside. It is frequently used to help diagnose injuries in the emergency department. We reviewed the best scientific evidence about the accuracy of POCS, that is its ability to identify or exclude injuries correctly, compared to other diagnostic tests. We considered computed tomography, laparotomy, and autopsy to be good comparative tests against which to measure the accuracy of POCS."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for studies from the year in which the first paper about using ultrasound to diagnose trauma patients was published until 15 July 2017. We considered 2296 records and included 34 relevant studies that involved 8635 participants in this review. All 34 studies were published between 1992 and 2017, with the number of participants in each study ranging from 51 to 3181. Ten studies included only children, two studies only adults, and the remaining 22 studies included both children and adults."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "In many studies, important information about the selection of participants and choice of the diagnostic tests against which to compare POCS was not reported. We therefore rated the methodological quality of the available evidence mostly as unclear."
+    },
+    {
+      "heading": "Key results",
+      "text": "Point-of-care sonography had a sensitivity (i.e. the ability to detect a person with the disease) of 74% and a specificity (i.e. the ability to exclude a person without the disease) of 96%. Sensitivity and specificity varied considerably across studies, which was due in part to variation in study, participant, and injury characteristics. In children, both the sensitivity and specificity of POCS were lower than in an adult or mixed population, meaning that POCS was less able to identify or rule out an injury. Based on our results, we would expect that amongst 1000 patients of a mixed-age population with suspected blunt trauma to the abdomen or chest, POCS would miss 73 patients with injuries, and would falsely suggest the presence of injuries in 29 patients who were unaffected. This result emphasises the need for additional imaging in trauma patients for whom POCS shows no injuries (i.e. a negative result), to check whether they are really injury-free."
+    }
+  ]
+}

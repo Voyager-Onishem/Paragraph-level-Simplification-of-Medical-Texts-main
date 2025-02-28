@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012009.pub2",
+  "name": "Amylase in drain fluid for the diagnosis of pancreatic leak in post‐pancreatic resection",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The treatment of people with clinically significant postoperative pancreatic leaks is different from those without clinically significant pancreatic leaks. It is important to know the diagnostic accuracy of drain fluid amylase as a triage test for the detection of clinically significant pancreatic leaks, so that an informed decision can be made as to whether the patient with a suspected pancreatic leak needs further investigations and treatment. There is currently no systematic review of the diagnostic test accuracy of drain fluid amylase for the diagnosis of clinically relevant pancreatic leak."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of amylase in drain fluid at 48 hours or more for the diagnosis of pancreatic leak in people who had undergone pancreatic resection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, the Science Citation Index Expanded, and the National Institute for Health Research Health Technology Assessment (NIHR HTA) websites up to 20 February 2017. We searched the references of the included studies to identify additional studies. We did not restrict studies based on language or publication status, or whether data were collected prospectively or retrospectively. We also performed a 'related search' and 'citing reference' search in MEDLINE and Embase."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all studies that evaluated the diagnostic test accuracy of amylase in the drain fluid at 48 hours or more for the diagnosis of pancreatic leak in people who had undergone pancreatic resection excluding total pancreatectomy. We planned to exclude case-control studies because these studies are prone to bias, but did not find any. At least two authors independently searched and screened the references produced by the search to identify relevant studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included studies. The included studies reported drain fluid amylase on different postoperative days and measured at different cut-off levels, so it was not possible to perform a meta-analysis using the bivariate model as planned. We have reported the sensitivity, specificity, post-test probability of a positive and negative drain fluid amylase along with 95% confidence interval (CI) on each of the different postoperative days and measured at different cut-off levels."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of five studies including 868 participants met the inclusion criteria for this review. The five studies included in this review reported the value of drain fluid amylase at different thresholds and different postoperative days. The sensitivities and specificities were variable; the sensitivities ranged between 0.72 and 1.00 while the specificities ranged between 0.73 and 0.99 for different thresholds on different postoperative days. At the median prevalence (pre-test probability) of 15.9%, the post-test probabilities for pancreatic leak ranged between 35.9% and 95.4% for a positive drain fluid amylase test and ranged between 0% and 5.5% for a negative drain fluid amylase test.\nNone of the studies used the reference standard of confirmation by surgery or by a combination of surgery and clinical follow-up, but used the International Study Group on Pancreatic Fistula (ISGPF) grade B and C as the reference standard. The overall methodological quality was unclear or high in all the studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Because of the paucity of data and methodological deficiencies in the studies, we are uncertain whether drain fluid amylase should be used as a method for testing for pancreatic leak in an unselected population after pancreatic resection; and we judge that the optimal cut-off of drain fluid amylase for making the diagnosis of pancreatic leak is also not clear. Further well-designed diagnostic test accuracy studies with pre-specified index test threshold of drain fluid amylase (at three times more on postoperative day 5 or another suitable pre-specified threshold), appropriate follow-up (for at least six to eight weeks to ensure that there are no pancreatic leaks), and clearly defined reference standards (of surgical, clinical, and radiological confirmation of pancreatic leak) are important to reliably determine the diagnostic accuracy of drain fluid amylase in the diagnosis of pancreatic leak."
+    }
+  ],
+  "pls_title": "Amylase in drain fluid for the diagnosis of pancreatic leak after partial removal of the pancreas",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "The pancreas is an organ in the abdomen that secretes pancreatic juice that aids digestion; and it contains cells that produce important hormones such as insulin. Partial removal of the pancreas (pancreatic resection) is performed to remove cancerous and non-cancerous growths in the pancreas. During this process, new connections (anastomoses) are made between the pancreas and intestines and bile duct (a tube that transports bile from the liver to the intestines). These connections may break down and result in leakage of pancreatic content into the abdomen; this can lead to severe infections within the abdomen and in the blood stream, which can even lead to the death of the patient.\nAt the end of the operation, a drainage tube is inserted into the abdomen for two purposes: firstly, the detection of any fluid collections within the abdomen (intra-abdominal collections), usually resulting from the pancreatic leaks; and secondly, as the treatment of intra-abdominal collections, so that fluid collection decreases or, at least, does not worsen within the abdomen. The fluids from the drain can be tested for amylase (one of the contents of the pancreatic juice which digests carbohydrates) to find out whether the fluid in the drain is because of a pancreatic leak. If there is a high suspicion of a pancreatic leak, further scans are performed to confirm it or to rule it out. If the leak is major and the patient is unwell, urgent reoperation may be required. Moderate leaks can lead to intra-abdominal infections: patients may need antibiotics, drugs that decrease pancreatic secretion, insertion of a new drainage tube or repositioning of the existing drainage tube to drain the infected collection, and supportive care to recover. Currently, it is unclear whether measuring the amylase content in the fluid from the drain inserted after pancreatic resection is useful in identifying pancreatic leaks."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We performed a thorough literature search for studies reporting the accuracy of drain fluid amylase in identifying pancreatic leaks. We included studies reported up to 20 February 2017. We identified five studies reporting information on 868 people who underwent pancreatic resections for cancer and non-cancerous growths. Most studies included only people in whom the head of the pancreas (right side of the pancreas) was removed."
+    },
+    {
+      "heading": "Key results",
+      "text": "Variations in when the studies measured the amylase content in the drain and what level was considered abnormal meant that we were not able to combine the data to provide the overall results. We are uncertain whether drain fluid amylase is useful in identifying pancreatic leaks because of the following reasons.\n1. The way that study authors confirmed that a participant had or did not have pancreatic leak was itself subject to error (i.e. there was no true 'gold standard').\n2. The studies included few participants. As a result, there was significant uncertainty in the results.\n3. The studies were of poor methodological quality. This introduced additional uncertainty in the results."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "All of the studies were of unclear or low methodological quality, which may result in arriving at false conclusions."
+    }
+  ]
+}

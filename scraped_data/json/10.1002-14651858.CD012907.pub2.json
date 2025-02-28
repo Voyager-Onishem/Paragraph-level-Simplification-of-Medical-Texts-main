@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012907.pub2",
+  "name": "Tracking health commodity inventory and notifying stock levels via mobile devices: a mixed methods systematic review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Health systems need timely and reliable access to essential medicines and health commodities, but problems with access are common in many settings. Mobile technologies offer potential low-cost solutions to the challenge of drug distribution and commodity availability in primary healthcare settings. However, the evidence on the use of mobile devices to address commodity shortages is sparse, and offers no clear way forward."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective\nTo assess the effects of strategies for notifying stock levels and digital tracking of healthcare-related commodities and inventory via mobile devices across the primary healthcare system\nSecondary objectives\nTo describe what mobile device strategies are currently being used to improve reporting and digital tracking of health commodities\nTo identify factors influencing the implementation of mobile device interventions targeted at reducing stockouts of health commodities"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE Ovid, Embase Ovid, Global Index Medicus WHO, POPLINE K4Health, and two trials registries in August 2019. We also searched Epistemonikos for related systematic reviews and potentially eligible primary studies. We conducted a grey literature search using mHealthevidence.org, and issued a call for papers through popular digital health communities of practice. Finally, we conducted citation searches of included studies. We searched for studies published after 2000, in any language."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "For the primary objective, we included individual and cluster-randomised trials, controlled before-after studies, and interrupted time series studies. For the secondary objectives, we included any study design, which could be quantitative, qualitative, or descriptive, that aimed to describe current strategies for commodity tracking or stock notification via mobile devices; or aimed to explore factors that influenced the implementation of these strategies, including studies of acceptability or feasibility.\nWe included studies of all cadres of healthcare providers, including lay health workers, and others involved in the distribution of health commodities (administrative staff, managerial and supervisory staff, dispensary staff); and all other individuals involved in stock notification, who may be based in a facility or a community setting, and involved with the delivery of primary healthcare services.\nWe included interventions aimed at improving the availability of health commodities using mobile devices in primary healthcare settings. For the primary objective, we included studies that compared health commodity tracking or stock notification via mobile devices with standard practice. For the secondary objectives, we included studies of health commodity tracking and stock notification via mobile device, if we could extract data relevant to our secondary objectives."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For the primary objective, two authors independently screened all records, extracted data from the included studies, and assessed the risk of bias. For the analyses of the primary objectives, we reported means and proportions where appropriate. We used the GRADE approach to assess the certainty of the evidence, and prepared a 'Summary of findings' table. For the secondary objective, two authors independently screened all records, extracted data from the included studies, and applied a thematic synthesis approach to synthesise the data. We assessed methodological limitation using the Ways of Evaluating Important and Relevant Data (WEIRD) tool. We used the GRADE-CERQual approach to assess our confidence in the evidence, and prepared a 'Summary of qualitative findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "Primary objective\nFor the primary objective, we included one controlled before-after study conducted in Malawi.\nWe are uncertain of the effect of cStock plus enhanced management, or cStock plus effective product transport on the availability of commodities, quality and timeliness of stock management, and satisfaction and acceptability, because we assessed the evidence as very low-certainty. The study did not report on resource use or unintended consequences.\nSecondary objective\nFor the secondary objectives, we included 16 studies, using a range of study designs, which described a total of eleven interventions. All studies were conducted in African (Tanzania, Kenya, Malawi, Ghana, Ethiopia, Cameroon, Zambia, Liberia, Uganda, South Africa, and Rwanda) and Asian (Pakistan and India) countries.\nMost of the interventions aimed to make data about stock levels and potential stockouts visible to managers, who could then take corrective action to address them.\nWe identified several factors that may influence the implementation of stock notification and tracking via mobile device.\nThese include challenges tied to infrastructural issues, such as poor access to electricity or internet, and broader health systems issues, such as drug shortages at the national level which cannot be mitigated by interventions at the primary healthcare level (low confidence). Several factors were identified as important, including strong partnerships with local authorities, telecommunication companies, technical system providers, and non-governmental organizations (very low confidence); availability of stock-level data at all levels of the health system (low confidence); the role of supportive supervision and responsive management (moderate confidence); familiarity and training of health workers in the use of the digital devices (moderate confidence); availability of technical programming expertise for the initial development and ongoing maintenance of the digital systems (low confidence); incentives, such as phone credit for personal use, to support regular use of the system (low confidence); easy-to-use systems built with user participation (moderate confidence); use of basic or personal mobile phones to support easier adoption (low confidence); consideration for software features, such as two-way communication (low confidence); and data availability in an easy-to-use format, such as an interactive dashboard (moderate confidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We need more, well-designed, controlled studies comparing stock notification and commodity management via mobile devices with paper-based commodity management systems. Further studies are needed to understand the factors that may influence the implementation of such interventions, and how implementation considerations differ by variations in the intervention."
+    }
+  ],
+  "pls_title": "Using mobile phones to keep track of medicines and notify superiors when more are needed",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "In this Cochrane Review, we aimed to assess if health workers would have better access to medicines and other supplies, if they used mobile phones or other mobile devices to keep track of the amount of supplies they had available, and to notify superiors when they needed more supplies. We also described how health workers are currently using these mobile systems, and what factors influence their use."
+    },
+    {
+      "heading": "Key messages",
+      "text": "We do not know if using mobile phones to keep track of medical supplies gives primary healthcare workers better access to these supplies. This is because the certainty of the available evidence was very low. However, the evidence does point to several factors that could influence the implementation of these systems. These include the sharing of data across all levels of the health system; reliable access to electricity and the internet; easy-to-use and functional phones and systems; good technical support; and sufficient training and supervision. Well-functioning digital systems will only succeed if medical supplies are actually available."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Healthcare workers need medicines, vaccines, syringes, and other supplies to do their jobs properly. But many healthcare settings, particularly in poor countries, often lack supplies because governments cannot afford to buy them, or because they do not have good systems for distributing them to the right places at the right time.\nTo address some of these problems, managers and health workers can use mobile phones to keep track of supplies, decide how much more to order and when, and let people at higher levels of the system know when supplies are running low.\nThe main aim of our review was to find out if health workers who use these mobile systems had better access to supplies than health workers using other systems, or no systems at all. We also looked at how these mobile systems are being used in primary healthcare settings, and the factors that influences their use."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found one study from Malawi that measured the effect of mobile phone systems on access to medicines and supplies in health facilities. However, we do not know whether these systems improve access or not, because the certainty of this evidence was very low.\nWe found 16 studies conducted in African and Asian countries, in which study authors identified several factors that could help to set up systems successfully.\n- Study authors suggested that allowing healthcare officials at all levels of the healthcare system to see the data could help them to respond on time and avoid supply shortages (low confidence).\n- Study authors highlighted how poor access to electricity and internet could make it difficult for health workers to charge phones and send data (moderate confidence).\n- Study authors pointed to the importance of user-friendly systems, built with user participation (moderate confidence); access to technical experts to develop and maintain the system (low confidence); proper support and supervision for health workers (moderate confidence); and training of health workers in how to use the mobile system itself (moderate confidence).\n- One author suggested that adding phone credits to health workers’ mobile phones for their personal use, could motivate them, and improve their use of the system (low confidence). Study authors also suggested several mobile phone functions that could be helpful to health workers using these systems. These included phones that could take pictures and map geographic locations, systems that allowed toll-free text messaging, two-way communication, and easy sharing of information (low confidence). But study authors also suggested that health workers might find it easier to use basic phones and maintain their own personal phones (low confidence).\n- Study authors emphasised that digital notification systems will only give health workers better access to supplies if the supplies are actually available at the district or national level (low confidence)."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to August 2019."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.MR000028.pub3",
+  "name": "How effects on health equity are assessed in systematic reviews of interventions",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Enhancing health equity is endorsed in the Sustainable Development Goals. The failure of systematic reviews to consider potential differences in effects across equity factors is cited by decision-makers as a limitation to their ability to inform policy and program decisions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To explore what methods systematic reviewers use to consider health equity in systematic reviews of effectiveness."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to 26 February 2021: MEDLINE, PsycINFO, the Cochrane Methodology Register, CINAHL, Education Resources Information Center, Education Abstracts, Criminal Justice Abstracts, Hein Index to Foreign Legal Periodicals, PAIS International, Social Services Abstracts, Sociological Abstracts, Digital Dissertations and the Health Technology Assessment Database. We searched SCOPUS to identify articles that cited any of the included studies on 10 June 10 2021. We contacted authors and searched the reference lists of included studies to identify additional potentially relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included empirical studies of cohorts of systematic reviews that assessed methods for measuring effects on health inequalities. We define health inequalities as unfair and avoidable differences across socially stratifying factors that limit opportunities for health. We operationalised this by assessing studies which evaluated differences in health across any component of the PROGRESS-Plus acronym, which stands for Place of residence, Race/ethnicity/culture/language, Occupation, Gender or sex, Religion, Education, Socioeconomic status, Social capital. \"Plus\" stands for other factors associated with discrimination, exclusion, marginalisation or vulnerability such as personal characteristics (e.g. age, disability), relationships that limit opportunities for health (e.g. children in a household with parents who smoke) or environmental situations which provide limited control of opportunities for health (e.g. school food environment)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data using a pre-tested form. Risk of bias was appraised for included studies according to the potential for bias in selection and detection of systematic reviews."
+    },
+    {
+      "heading": "Main results",
+      "text": "In total, 48,814 studies were identified and the titles and abstracts were screened in duplicate. In this updated review, we identified an additional 124 methodological studies published in the 10 years since the first version of this review, which included 34 studies. Thus, 158 methodological studies met our criteria for inclusion. The methods used by these studies focused on evidence relevant to populations experiencing health inequity (108 out of 158 studies), assess subgroup analysis across PROGRESS-Plus (26 out of 158 studies), assess analysis of a gradient in effect across PROGRESS-Plus (2 out of 158 studies) or use a combination of subgroup analysis and focused approaches (20 out of 158 studies). The most common PROGRESS-Plus factors assessed were age (43 studies), socioeconomic status in 35 studies, low- and middle-income countries in 24 studies, gender or sex in 22 studies, race or ethnicity in 17 studies, and four studies assessed multiple factors across which health inequity may exist.\nOnly 16 studies provided a definition of health inequity. Five methodological approaches to consider health equity in systematic reviews of effectiveness were identified: 1) descriptive assessment of reporting and analysis in systematic reviews (140 of 158 studies used a type of descriptive method); 2) descriptive assessment of reporting and analysis in original trials (50 studies); 3) analytic approaches which assessed differential effects across one or more PROGRESS-Plus factors (16 studies); 4) applicability assessment (25 studies) and 5) stakeholder engagement (28 studies), which is a new finding in this update and examines the appraisal of whether relevant stakeholders with lived experience of health inequity were included in the design of systematic reviews or design and delivery of interventions. Reporting for both approaches (analytic and applicability) lacked transparency and was insufficiently detailed to enable the assessment of credibility."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is a need for improvement in conceptual clarity about the definition of health equity, describing sufficient detail about analytic approaches (including subgroup analyses) and transparent reporting of judgments required for applicability assessments in order to consider health equity in systematic reviews of effectiveness."
+    }
+  ],
+  "pls_title": "How effects on health equity are assessed in systematic reviews of effectiveness",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "We found five methodological approaches to consider health equity in systematic reviews of effectiveness but the most appropriate way to address any of these approaches is unclear."
+    },
+    {
+      "heading": "Review question",
+      "text": "We reviewed the methods that systematic reviewers use to consider health equity in systematic reviews of effectiveness."
+    },
+    {
+      "heading": "Background",
+      "text": "Reducing health inequities, avoidable and unfair differences in health, has achieved international political importance and global endorsement. Decision-makers have cited a lack of equity considerations in systematic reviews, creating a need for guidance on the advantages and disadvantages of methods to assess effects on health equity in systematic reviews."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included empirical studies of collections of systematic reviews that assessed methods for measuring effects on health inequalities. We define health inequalities as unfair and avoidable differences across socially stratifying factors that limit opportunities for health. We evaluated differences in health across any component of the PROGRESS-Plus acronym, which stands for Place of residence, Race/ethnicity/culture/language, Occupation, Gender or sex, Religion, Education, Socioeconomic status, Social capital. \"Plus\" stands for other factors associated with discrimination, exclusion, marginalisation or vulnerability such as personal characteristics (e.g. age, disability), relationships that limit opportunities for health (e.g. children in a household with smoking parents) or environmental situations which provide limited control of opportunities for health (e.g. school, food, environment)."
+    },
+    {
+      "heading": "Key results",
+      "text": "This updated review includes 158 collections of systematic reviews: 108 focused on evidence relevant to populations experiencing inequity, 26 assessed subgroup analysis across PROGRESS-Plus, two assessed analysis of a gradient in effect across PROGRESS-Plus and 20 used a combination of subgroup analysis and focused approaches. The most common PROGRESS-Plus factors assessed were age (43 studies), socioeconomic status (35 studies), low- and middle-income countries (24 studies). Four studies assessed multiple factors across which health inequity may exist.\nWe identified five methodological approaches to consider health equity in systematic reviews of effectiveness: 1) descriptive assessment in the reviews, 2) descriptive assessment of the studies included in the reviews, 3) analytic approaches, 4) applicability assessment, and 5) stakeholder engagement. However, the most appropriate way to address any of these approaches is unclear. Analysis of effects for specific populations need to be justified and reported appropriately to allow assessment of their credibility. Transparency of judgments about applicability and relevance to disadvantaged populations needs to be improved. Guidance on equity and specific populations is available in the Cochrane Handbook."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is up to date to February 2021.\n"
+    }
+  ]
+}

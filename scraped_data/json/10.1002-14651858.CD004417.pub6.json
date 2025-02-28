@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD004417.pub6",
+  "name": "Immediate versus delayed versus no antibiotics for respiratory infections",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Concerns exist regarding antibiotic prescribing for respiratory tract infections (RTIs) owing to adverse reactions, cost and antibacterial resistance. One proposed strategy to reduce antibiotic prescribing is to provide prescriptions, but to advise delay in antibiotic use with the expectation that symptoms will resolve first. This is an update of a Cochrane Review originally published in 2007, and updated in 2010, 2013 and 2017."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects on duration and/or severity of clinical outcomes (pain, malaise, fever, cough and rhinorrhoea), antibiotic use, antibiotic resistance and patient satisfaction of advising a delayed prescription of antibiotics in respiratory tract infections."
+    },
+    {
+      "heading": "Search methods",
+      "text": "From May 2017 until 20 August 2022, this was a living systematic review with monthly searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL and Web of Science. We also searched the WHO International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov on 20 August 2022. Due to the abundance of evidence supporting the review's key findings, it ceased being a living systematic review on 21 August 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials involving participants of all ages with an RTI, where delayed antibiotics were compared to immediate or no antibiotics. We defined a delayed antibiotic as advice to delay the filling of an antibiotic prescription by at least 48 hours. We considered all RTIs regardless of whether antibiotics were recommended or not."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures."
+    },
+    {
+      "heading": "Main results",
+      "text": "For this 2022 update, we added one new trial enrolling 448 children (436 analysed) with uncomplicated acute RTIs. Overall, this review includes 12 studies with a total of 3968 participants, of which data from 3750 are available for analysis. These 12 studies involved acute RTIs including acute otitis media (three studies), streptococcal pharyngitis (three studies), cough (two studies), sore throat (one study), common cold (one study) and a variety of RTIs (two studies). Six studies involved only children, two only adults and four included both adults and children. Six studies were conducted in primary care, four in paediatric clinics and two in emergency departments.\nStudies were well reported and appeared to provide moderate-certainty evidence. Randomisation was not adequately described in two trials. Four trials blinded the outcome assessor, and three included blinding of participants and doctors. We conducted meta-analyses for pain, malaise, fever, adverse effects, antibiotic use and patient satisfaction.\nCough (four studies): we found no differences amongst delayed , immediate and no prescribed antibiotics for clinical outcomes in any of the four studies.\nSore throat (six studies): for the outcome of fever with sore throat, four of the six studies favoured immediate antibiotics, and two found no difference. For the outcome of pain related to sore throat, two studies favoured immediate antibiotics, and four found no difference. Two studies compared delayed antibiotics with no antibiotic for sore throat, and found no difference in clinical outcomes.\nAcute otitis media (four studies): two studies compared immediate with delayed antibiotics - one found no difference for fever, and the other favoured immediate antibiotics for pain and malaise severity on Day 3. Two studies compared delayed with no antibiotics: one found no difference for pain and fever severity on Day 3, and the other found no difference for the number of children with fever on Day 3.\nCommon cold (two studies): neither study found differences for clinical outcomes between delayed and immediate antibiotic groups. One study found delayed antibiotics were probably favoured over no antibiotics for pain, fever and cough duration (moderate-certainty evidence).\nAdverse effects: there were either no differences for adverse effects or results may have favoured delayed over immediate antibiotics with no significant differences in complication rates (low-certainty evidence).\nAntibiotic use: delayed antibiotics probably resulted in a reduction in antibiotic use compared to immediate antibiotics (odds ratio (OR) 0.03, 95% confidence interval (CI) 0.01 to 0.07; 8 studies, 2257 participants; moderate-certainty evidence). However, a delayed antibiotic was probably more likely to result in reported antibiotic use than no antibiotics (OR 2.52, 95% CI 1.69 to 3.75; 5 studies, 1529 participants; moderate-certainty evidence).\nPatient satisfaction: patient satisfaction probably favoured delayed over no antibiotics (OR 1.45, 1.08 to 1.96; 5 studies, 1523 participants; moderate-certainty evidence). There was probably no difference in patient satisfaction between delayed and immediate antibiotics (OR 0.77, 95% CI 0.45 to 1.29; 7 studies, 1927 participants; moderate-certainty evidence).\nNo studies evaluated antibiotic resistance. Reconsultation rates and use of alternative medicines were similar for delayed, immediate and no antibiotic strategies. In one of the four studies reporting use of alternative medicines, less paracetamol was used in the immediate group compared to the delayed group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For many clinical outcomes, there were no differences between prescribing strategies. Symptoms for acute otitis media and sore throat were modestly improved by immediate antibiotics compared with delayed antibiotics. There were no differences in complication rates. Delaying prescribing did not result in significantly different levels of patient satisfaction compared with immediate provision of antibiotics (86% versus 91%; moderate-certainty evidence). However, delay was favoured over no antibiotics (87% versus 82%). Delayed antibiotics achieved lower rates of antibiotic use compared to immediate antibiotics (30% versus 93%). The strategy of no antibiotics further reduced antibiotic use compared to delaying prescription for antibiotics (13% versus 27%).\nDelayed antibiotics for people with acute respiratory infection reduced antibiotic use compared to immediate antibiotics, but was not shown to be different to no antibiotics in terms of symptom control and disease complications. Where clinicians feel it is safe not to prescribe antibiotics immediately for people with RTIs, no antibiotics with advice to return if symptoms do not resolve is likely to result in the least antibiotic use while maintaining similar patient satisfaction and clinical outcomes to delayed antibiotics. Where clinicians are not confident in not prescribing antibiotics, delayed antibiotics may be an acceptable compromise in place of immediate prescribing to significantly reduce unnecessary antibiotic use for RTIs, while maintaining patient safety and satisfaction levels.\nFurther research into antibiotic prescribing strategies for RTIs may best be focused on identifying patient groups at high risk of disease complications, enhancing doctors' communication with patients to maintain satisfaction, ways of increasing doctors' confidence to not prescribe antibiotics for RTIs, and policy measures to reduce unnecessary antibiotic prescribing for RTIs."
+    }
+  ],
+  "pls_title": "Delayed antibiotic prescriptions for respiratory tract infections",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does delaying antibiotic prescription compared to immediate prescription or no antibiotics decrease the number of antibiotics taken for people with respiratory tract infections including sore throat, middle ear infection, cough (bronchitis) and the common cold?"
+    },
+    {
+      "heading": "Background",
+      "text": "Using too many antibiotics increases the risk of adverse reactions and results in higher healthcare costs and increased antibacterial resistance. One strategy to reduce unnecessary antibiotic use is to provide an antibiotic prescription, but with advice to delay filling the prescription. The prescriber assesses that antibiotics are not immediately required, expecting that symptoms will resolve without antibiotics.\nWe searched for studies that compared delayed antibiotics with immediate or no antibiotics for respiratory tract infections, regardless of whether antibiotics were indicated or not. We also evaluated antibiotic use, patient satisfaction, antibiotic resistance, reconsultation rates and use of supplemental therapies. This is an update of a review first published in 2007 and previously updated in 2010, 2013 and 2017."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 20 August 2022."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 12 trials with a total of 3968 participants, of which data from 3750 were available for evaluation of prescribing strategies for people with a variety of respiratory tract infections. Eleven of these studies compared strategies of delaying antibiotics with immediate antibiotics. Five studies compared delayed antibiotics with no antibiotics. Of the 12 studies, six included only children (1569 participants), two included only adults (589 participants), and four included children and adults (1596 participants). The new study included in this update enrolled 448 participants, and 436 were analysed following application of exclusion criteria."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Two studies were funded by pharmaceutical companies, two studies did not describe the funding sources and the remaining eight studies were funded by state institutions or specialist colleges."
+    },
+    {
+      "heading": "Key results",
+      "text": "Antibiotic use was greatest in the immediate antibiotic group (93%), followed by delayed antibiotics (29%) and no antibiotics (13%).\nPatient satisfaction was similar for people who trialled delayed antibiotics (88% satisfied) compared to immediate antibiotics (90% satisfied), but was greater than no antibiotics (86% versus 81% satisfied).\nThere were no differences between immediate , delayed and no antibiotics for many symptoms including fever, pain, feeling unwell, cough and runny nose. The only differences were small and favoured immediate antibiotics for relieving pain, fever and runny nose for sore throat; and pain and feeling unwell for middle ear infections. Compared to no antibiotics, delayed antibiotics led to a small reduction in how long pain, fever and cough persisted in people with colds. There was little difference in antibiotic adverse effects, and no significant difference in complications.\nIn the first month after the initial consultation, two studies indicated that participants were no more likely to come back and see the doctor in either the delayed or immediate prescribing groups. Excluding the first month, one study found that participants were no more likely to return to see the doctor in the 12 months after the delayed or immediate prescription for another respiratory infection, and another study found that participants were more likely to come back and see the doctor in the next 12 months if they had had an immediate prescription compared to a delayed prescription.\nTwo studies including children with acute otitis media reported on the use of other medicines in the delayed and immediate antibiotic groups. There was no difference in the use of ibuprofen, paracetamol and otic drops in one study. In the other study, fewer spoons of paracetamol were used in the immediate antibiotic group compared with the delayed antibiotic group on the second and third day after the child's initial presentation. No included studies evaluated herbal or other forms of complementary medicine.\nNo included studies evaluated antibiotic resistance."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Our confidence in the evidence is only moderate because of concerns that people in the studies were not randomly placed into the different treatment groups. This means that differences between the groups could be due to differences between people rather than between the treatments. It is also possible that people in the studies were aware of which treatment they were getting. Not all of the studies provided data about everything that we were interested in.\nWhen doctors feel it is safe not to immediately prescribe antibiotics, advising no antibiotics but to return if symptoms do not resolve, rather than delayed antibiotics, will result in lower antibiotic use but may result in lower patient satisfaction. Using a delayed antibiotic strategy will still result in a significant reduction in antibiotic use compared to the use of immediate antibiotics."
+    }
+  ]
+}

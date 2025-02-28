@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013812",
+  "name": "Measures implemented in the school setting to contain the COVID‐19 pandemic: a rapid scoping review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In response to the spread of SARS-CoV-2 and the impact of COVID-19, national and subnational governments implemented a variety of measures in order to control the spread of the virus and the associated disease. While these measures were imposed with the intention of controlling the pandemic, they were also associated with severe psychosocial, societal, and economic implications on a societal level. One setting affected heavily by these measures is the school setting. By mid-April 2020, 192 countries had closed schools, affecting more than 90% of the world’s student population. In consideration of the adverse consequences of school closures, many countries around the world reopened their schools in the months after the initial closures. To safely reopen schools and keep them open, governments implemented a broad range of measures.\nThe evidence with regards to these measures, however, is heterogeneous, with a multitude of study designs, populations, settings, interventions and outcomes being assessed. To make sense of this heterogeneity, we conducted a rapid scoping review (8 October to 5 November 2020). This rapid scoping review is intended to serve as a precursor to a systematic review of effectiveness, which will inform guidelines issued by the World Health Organization (WHO). This review is reported in line with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) checklist and was registered with the Open Science Framework."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To identify and comprehensively map the evidence assessing the impacts of measures implemented in the school setting to reopen schools, or keep schools open, or both, during the SARS-CoV-2/COVID-19 pandemic, with particular focus on the types of measures implemented in different school settings, the outcomes used to measure their impacts and the study types used to assess these."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register, MEDLINE, Embase, the CDC COVID-19 Research Articles Downloadable Database for preprints, and the WHO COVID-19 Global literature on coronavirus disease on 8 October 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that assessed the impact of measures implemented in the school setting. Eligible populations were populations at risk of becoming infected with SARS-CoV-2, or developing COVID-19 disease, or both, and included people both directly and indirectly impacted by interventions, including students, teachers, other school staff, and contacts of these groups, as well as the broader community. We considered all types of empirical studies, which quantitatively assessed impact including epidemiological studies, modelling studies, mixed-methods studies, and diagnostic studies that assessed the impact of relevant interventions beyond diagnostic test accuracy. Broad outcome categories of interest included infectious disease transmission-related outcomes, other harmful or beneficial health-related outcomes, and societal, economic, and ecological implications."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data from included studies in a standardized manner, and mapped them to categories within our a priori logic model where possible. Where not possible, we inductively developed new categories. In line with standard expectations for scoping reviews, the review provides an overview of the existing evidence regardless of methodological quality or risk of bias, and was not designed to synthesize effectiveness data, assess risk of bias, or characterize strength of evidence (GRADE)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 42 studies that assessed measures implemented in the school setting. The majority of studies used mathematical modelling designs (n = 31), while nine studies used observational designs, and two studies used experimental or quasi-experimental designs. Studies conducted in real-world contexts or using real data focused on the WHO European region (EUR; n = 20), the WHO region of the Americas (AMR; n = 13), the West Pacific region (WPR; n = 6), and the WHO Eastern Mediterranean Region (EMR; n = 1). One study conducted a global assessment and one did not report on data from, or that were applicable to, a specific country.\nThree broad intervention categories emerged from the included studies: organizational measures to reduce transmission of SARS-CoV-2 (n = 36), structural/environmental measures to reduce transmission of SARS-CoV-2 (n = 11), and surveillance and response measures to detect SARS-CoV-2 infections (n = 19). Most studies assessed SARS-CoV-2 transmission-related outcomes (n = 29), while others assessed healthcare utilization (n = 8), other health outcomes (n = 3), and societal, economic, and ecological outcomes (n = 5). Studies assessed both harmful and beneficial outcomes across all outcome categories."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We identified a heterogeneous and complex evidence base of measures implemented in the school setting. This review is an important first step in understanding the available evidence and will inform the development of rapid reviews on this topic."
+    }
+  ],
+  "pls_title": "Which school-based measures designed to contain the COVID-19 pandemic have been evaluated to date, and how were they evaluated?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "To combat the spread of SARS-CoV-2 and the impact of COVID-19, countries worldwide have taken a variety of public health measures. In many countries, shutting schools was one of the earliest responses. By mid-April 2020, 192 countries had closed schools, affecting more than 90% of the world’s student population. This severely disrupted school, family and work life, with likely negative impacts including:\n- a worsening of children’s and adolescents’ health and well-being;\n- increases in inequalities between children and adolescents from disadvantaged and more privileged backgrounds;\n- possible decreased parental income and job security;\n- possible loss of parental economic productivity.\nGiven the potential negative consequences of school closures, many countries have since reopened schools. To avoid disease transmission among students, between staff and students, and beyond, a range of school-based measures have been put in place. These include:\n- students and staff wearing face masks and regularly washing their hands;\n- adapting school activities (for example, not singing in music classes);\n- improving ventilation systems; and\n- screening suspected cases of infection.\nTo date, we know little about which school-based measures designed to contain COVID-19 have been evaluated, and how they have been evaluated. It is important to find this out, so that, in time, we can compare the effectiveness of different measures and inform future policy guidelines.\nWe set out to identify and map the evidence on school-based measures to contain COVID-19. This work is intended to form the basis of a future review about the effectiveness of these measures. This review will inform guidelines issued by the World Health Organization (WHO)."
+    },
+    {
+      "heading": "How did we identify and map the evidence?",
+      "text": "First, we searched for studies that evaluated any intervention set in schools designed to prevent the spread of COVID-19. We considered all types of studies, and a broad range of outcomes, including:\n- infectious disease transmission;\n- other harmful or beneficial effects on health;\n- wider implications for society, the economy, and the population.\nWe then grouped studies according to how similar or different they were. This allowed us to gauge:\n- which types of study have been used to evaluate measures to date;\n- where studies have been conducted;\n- which types of intervention have been evaluated; and\n- which outcomes have been studied."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 42 studies.\nType of study\nThirty-one studies used mathematical modelling designs, to predict the effects of measures on populations. Two studies used experimental designs, in which researchers divide people or settings into groups to compare the effects of different measures. Nine studies used observational designs, in which researchers simply observed the effect of the intervention.\nStudy setting\nStudies were conducted in Europe (20 studies), North and South America (13 studies), the West Pacific (6 studies), and the Eastern Mediterranean (1 study). Most studies evaluated measures in more than one school setting (for example, primary education and secondary education). Three studies focused on secondary schools.\nType of intervention\nStudies evaluated three broad types of measure:\n1. Organizational measures to reduce transmission of SARS-CoV-2 (36 studies): these included:\n- measures designed to limit risks of disease transmission between people who come into contact with each other (such as face-masks and physical distancing policies); and\n- measures to reduce opportunities for contact (for example, staggered arrival, break and departure times).\n2. Structural or environmental measures to reduce transmission of SARS-CoV-2 (11 studies): for example, dividing up school playgrounds or improving air circulation.\n3. Surveillance and response measures to detect SARS-CoV-2 infections (19 studies): these included:\n- testing, tracing, and symptom screening; and\n- isolation of confirmed cases or quarantine of suspected cases.\nOutcomes studied\nStudies assessed the effects of measures on:\n- SARS-CoV-2 transmission (29 studies), including the number of new cases or the average number of people to whom one infected person will pass the virus (reproduction number R);\n- healthcare use (8 studies), for example, the number of hospitalizations;\n- other health outcomes (3 studies), for example, the risk of developing hand eczema (a skin condition); and\n- societal, economic, and other population-level outcomes (5 studies), including cost."
+    },
+    {
+      "heading": "What are the implications of our findings?",
+      "text": "A wide range of school-based measures designed to contain COVID-19 have been evaluated to date. To evaluate these, researchers have used different methods and investigated different outcomes. This review is an important first step in gauging what evidence is available, and will inform future rapid reviews on this topic."
+    }
+  ]
+}

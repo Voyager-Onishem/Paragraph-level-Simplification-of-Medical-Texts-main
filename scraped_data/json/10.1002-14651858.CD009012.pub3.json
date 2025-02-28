@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009012.pub3",
+  "name": "Early versus delayed antiretroviral treatment in HIV‐positive people with cryptococcal meningitis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "There remains uncertainty about the optimum timing of antiretroviral therapy (ART) initiation in HIV-positive people with cryptococcal meningitis. This uncertainty is the result of conflicting data on the mortality risk and occurrence of immune reconstitution inflammatory syndrome (IRIS) when ART is initiated less than four weeks after cryptococcal meningitis treatment is commenced."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the outcomes of early initiation of ART (less than four weeks after starting antifungal treatment) versus delayed initiation of ART (four weeks or more after starting antifungal treatment) in HIV-positive people with concurrent cryptococcal meningitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase for trials published between 1 January 1980 and 7 August 2017. We additionally searched international trial registries, including ClinicalTrials.gov and WHO International Clinical Trials Registry Platform (ICTRP), and conference abstracts from the International AIDS Society (IAS) and the Conference on Retroviruses and Opportunistic Infections (CROI) for ongoing or unpublished studies between 2015 and 2017. We reviewed reference lists of included studies to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) that compared early versus delayed ART initiation in HIV-positive people with cryptococcal meningitis. Children, adults, and adolescents from any setting were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the inclusion criteria and extracted data. We presented dichotomous outcomes as risk ratios (RR) with 95% confidence intervals (CIs). We presented time-to-death data as hazard ratios with 95% CIs. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials including 294 adult participants met the inclusion criteria of this review. Participants were predominantly from low- and middle-income countries. Two trials treated cryptococcal meningitis with amphotericin B and fluconazole; a third trial used fluconazole monotherapy; and the fourth trial did not specify the antifungal used.\nEarly ART initiation may increase all-cause mortality compared to delayed ART initiation (RR 1.42, 95% CI 1.02 to 1.97; 294 participants, 4 trials; low-certainty evidence). Early ART initiation may reduce relapse of cryptococcal meningitis compared to delayed ART initiation (RR 0.27, 95% CI 0.07 to 1.04; 205 participants, 2 trials, low-certainty evidence). We are uncertain whether early ART initiation increases or reduces cryptococcal IRIS events compared to delayed ART initiation (RR 3.56, 95% CI 0.51 to 25.02; 205 participants, 2 trials; I2 = 54%; very low-certainty evidence). We are uncertain if early ART initiation increases or reduces virological suppression at six months compared to delayed ART initiation (RR 0.93, 95% CI 0.72 to 1.22; 205 participants, 2 trials; I2 statistic = 0%; very low-certainty evidence).\nWe were unable to pool results related to rate of fungal clearance for the two trials that reported this outcome; individual trial results indicated that there was no difference in cerebrospinal fluid fungal clearance between trial arms. Similarly, we were unable to pool results on adverse events for the trials reporting on this outcome; individual trial results indicated no difference in the occurrence of grade 3 to 5 adverse events between trial arms.\nThree of the four included trials had an overall low or unclear risk of bias related to the primary outcome of all-cause mortality. However, we assessed one trial as at high risk of bias due to selective outcome reporting and other bias. This, in addition to the few clinical events and imprecision of effect estimates, led to downgrading of the evidence to low or very low certainty."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this review are relevant to HIV-positive adults with cryptococcal meningitis in low- and middle-income countries. These data suggest a higher risk of mortality among people who initiate ART within four weeks of cryptococcal meningitis diagnosis. However, it is unclear if this higher mortality risk is related to cryptococcal meningitis-IRIS."
+    }
+  ],
+  "pls_title": "Timing of antiretroviral therapy initiation in HIV-positive people with cryptococcal meningitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to determine whether initiating antiretroviral therapy (ART) within four weeks of cryptococcal meningitis diagnosis resulted in a higher risk of dying or developing other complications than waiting more than four weeks to initiate ART."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Initiating ART within four weeks of cryptococcal meningitis diagnosis may result in more deaths than initiating ART after four weeks. However, initiating ART early may result in a reduction in relapses of cryptococcal meningitis after adequate treatment. There was insufficient evidence to answer questions related to other complications."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Cryptococcal meningitis is a fungal infection of the brain and the membranes covering the brain that occurs most frequently in people with weakened immune systems, such as people who are HIV-positive. Some studies have shown that HIV-positive people who start ART soon after initiating cryptococcal meningitis treatment (within four weeks) may deteriorate and die more frequently than those who delay treatment for a longer period (more than four weeks). This higher risk of death in the early ART group has been attributed to the occurrence of a condition called immune reconstitution inflammatory syndrome (IRIS). When ART is initiated, HIV-positive people with underlying infections such as cryptococcal meningitis may paradoxically develop a deterioration in their condition as their body's immune system attacks the fungus, resulting in worsening symptoms and sometimes death. It has been proposed that IRIS is the cause of more deaths in early ART initiators than in delayed ART initiators. Despite adequate treatment of cryptococcal meningitis with antifungal drugs, a relapse of the disease may occur in some HIV-positive people with cryptococcal meningitis. To date there have been few trials investigating the effect of ART on mortality, frequency of IRIS, or relapse."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found four relevant trials that compared HIV-positive adults who had cryptococcal meningitis and who initiated ART within four weeks of cryptococcal meningitis diagnosis with those who initiated ART after four weeks.\nPooling the results of these four trials suggested that early ART initiation may increase the frequency of death in HIV-positive people with cryptococcal meningitis (low-certainty evidence). Early ART initiators may be less likely to have relapses of cryptococcal meningitis (low-certainty evidence). We were unable to draw conclusions regarding IRIS frequency as the certainty of the evidence contributing to the IRIS assessment was very low. We are uncertain as to whether or not early ART initiation increases or reduces virological suppression at six months compared to delayed ART initiation (very low-certainty evidence).\nOverall, few trials met the inclusion criteria for this review, which made it hard to draw definite conclusions on the association between ART timing and cryptococcal meningitis in HIV-positive people."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "We searched for studies up to 7 August 2017."
+    }
+  ]
+}

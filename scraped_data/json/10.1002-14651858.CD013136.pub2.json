@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013136.pub2",
+  "name": "Stimulant and non‐stimulant drug therapy for people with attention deficit hyperactivity disorder and epilepsy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Attention Deficit Hyperactivity Disorder (ADHD) can co-occur in up to 40% of people with epilepsy. There is debate about the efficacy and tolerability of stimulant and non-stimulant drugs used to treat people with ADHD and co-occurring epilepsy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of stimulant and non-stimulant drugs on children and adults with ADHD and co-occurring epilepsy in terms of seizure frequency and drug withdrawal rates (primary objectives), as well as seizure severity, ADHD symptoms, cognitive state, general behaviour, quality of life, and adverse effects profile (secondary objectives)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases on 12 October 2020: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid, 1946 to 9 October 2020), CINAHL Plus (EBSCOhost, 1937 onwards). There were no language restrictions. CRS Web includes randomised or quasi-randomised controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialised Registers of Cochrane Review Groups including Epilepsy."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials of stimulant and non-stimulant drugs for people of any age, gender or ethnicity with ADHD and co-occurring epilepsy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We selected articles and extracted data according to predefined criteria. We conducted primary analysis on an intention-to-treat basis. We presented outcomes as risk ratios (RRs) with 95% confidence intervals (CIs), except for individual adverse effects where we quoted 99% CIs. We conducted best- and worst-case sensitivity analyses to deal with missing data. We carried out a risk of bias assessment for each included study using the Cochrane risk of bias tool and assessed the overall certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified two studies that matched our inclusion criteria: a USA study compared different doses of the stimulant drug osmotic-release oral system methylphenidate (OROS-MPH) with a placebo in 33 children (mean age 10.5 ± 3.0 years), and an Iranian study compared the non-stimulant drug omega-3 taken in conjunction with risperidone and usual anti-seizure medication (ASM) with risperidone and ASM only in 61 children (mean age 9.24 ± 0.15 years). All children were diagnosed with epilepsy and ADHD according to International League Against Epilepsy and Diagnostic and Statistical Manual of Mental Disorders, fourth edition, criteria, respectively. We assessed both studies to be at low risk of detection and reporting biases, but assessments varied from low to high risk of bias for all other domains.\nOROS-MPH\nNo participant taking OROS-MPH experienced significant worsening of epilepsy, defined as: 1. a doubling of the highest 14-day or highest two-day seizure rate observed during the 12 months before the trial; 2. a generalised tonic-clonic seizure if none had been experienced in the previous two years; or 3. a clinically meaningful intensification in seizure duration or severity (33 participants, 1 study; low-certainty evidence). However, higher doses of OROS-MPH predicted an increased daily risk of a seizure (P < 0.001; 33 participants, 1 study; low-certainty evidence). OROS-MPH had a larger proportion of participants receiving 'much improved' or 'very much improved' scores for ADHD symptoms on the Clinical Global Impressions for ADHD-Improvement tool (33 participants, 1 study; low-certainty evidence). OROS-MPH also had a larger proportion of people withdrawing from treatment (RR 2.80; 95% CI 1.14 to 6.89; 33 participants, 1 study; moderate-certainty evidence).\nOmega-3\nOmega-3 with risperidone and ASM were associated with a reduction in mean seizure frequency by 6.6 seizures per month (95% CI 4.24 to 8.96; 56 participants, 1 study; low-certainty evidence) and an increase in the proportion of people achieving 50% or greater reduction in monthly seizure frequency (RR 2.79, 95% CI 0.84 to 9.24; 56 participants, 1 study; low-certainty evidence) compared to people on risperidone and ASM alone. Omega-3 with risperidone and ASM also had a smaller proportion of people withdrawing from treatment (RR 0.65, 95% CI 0.12 to 3.59; 61 participants, 1 study; low-certainty evidence) but a larger proportion of people experiencing adverse drug events (RR 1.40, 95% CI 0.44 to 4.42; 56 participants, 1 study; low-certainty evidence) compared to people on risperidone and ASM alone."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In children with a dual-diagnosis of epilepsy and ADHD, there is some evidence that use of the stimulant drug OROS-MPH is not associated with significant worsening of epilepsy, but higher doses of it may be associated with increased daily risk of seizures; the evidence is of low-certainty. OROS-MPH is also associated with improvement in ADHD symptoms. However, this treatment was also associated with a large proportion of treatment withdrawal compared to placebo. In relation to the non-stimulant drug omega-3, there is some evidence for reduction in seizure frequency in children who are also on risperidone and ASM, compared to children who are on risperidone and ASM alone. Evidence is inconclusive whether omega-3 increases or decreases the risk of adverse drug events.\nWe identified only two studies – one each for OROS-MPH and omega-3 – with low to high risk of bias. We assessed the overall certainty of evidence for the outcomes of both OROS-MPH and omega-3 as low to moderate.\nMore studies are needed. Future studies should include: 1. adult participants; 2. a wider variety of stimulant and non-stimulant drugs, such as amphetamines and atomoxetine, respectively; and 3. additional important outcomes, such as seizure-related hospitalisations and quality of life. Clusters of studies which assess the same drug – and those that build upon the evidence base presented in this review on OROS-MPH and omega-3 – are needed to allow for meta-analysis of outcomes."
+    }
+  ],
+  "pls_title": "Stimulant and non-stimulant drug therapy for people with Attention Deficit Hyperactivity Disorder and epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if stimulant and non-stimulant medications are effective and safe in treating people with both Attention Deficit Hyperactivity Disorder (ADHD) and epilepsy. Cochrane Review authors collected and analysed all relevant studies to answer this question."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a disease where the brain is predisposed to generating seizures. ADHD is a condition where daily life is affected by inattention, hyperactivity and impulsivity. It is common for a person with epilepsy to also have a diagnosis of ADHD. Both these diagnoses together can have a negative impact on education, occupation and family and social relationships.\nADHD can be managed with drug therapy. This consists of stimulant drugs such as methylphenidate and non-stimulant drugs such as atomoxetine. These drugs act on different neurotransmitters within the brain to improve concentration and impulse control. It is suggested that stimulant drugs, particularly methylphenidate, may aggravate epilepsy or cause seizures. Both stimulant and non-stimulant drugs continue to be prescribed with a warning that they might worsen seizures.\nWe do not know if stimulant and non-stimulant drugs are effective and safe in treating people with ADHD and epilepsy. We also do not know if these drugs have intolerable side effects that stop people from taking them daily."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found two relevant studies involving children with both ADHD and epilepsy: one American study looked at osmotic-release oral system methylphenidate (OROS-MPH) and was funded by a government grant; one Iranian study looked at omega-3 and was funded by a university grant.\nIn the first study, children at an American outpatient clinic received either OROS-MPH of increasingly higher doses or placebo. This study suggests that children receiving OROS-MPH:\n• may have an increased risk of seizures with higher doses of OROS-MPH, although we are not certain of this.\n• are probably twice as likely to stop taking OROS-MPH due to side effects (e.g. worsening emotional lability and seizures), although we are only moderately confident in this result.\n• may improve their ADHD symptoms, although we are not certain of this.\nIn the second study, children at an Iranian outpatient clinic received either omega-3, the anti-psychotic drug risperidone and usual anti-seizure medication (ASM) or risperidone and usual ASM only. This study suggests that children receiving omega-3:\n• may have fewer seizures (children who received omega-3 had six or seven fewer seizures per month on average compared to children who did not receive omega-3), although we are not certain of this.\n• may be less likely to stop taking omega-3 due to side effects (sleepiness, diarrhoea and nausea and vomiting), although we are uncertain of this. However, the effects of omega-3 vary, and it is possible that omega-3 makes little or no difference.\nThe review authors did not find any studies that looked at the effect of omega-3 on ADHD symptoms.\nThe review authors did not find any studies that looked at adults with ADHD and epilepsy, and other types of stimulant and non-stimulant medication."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The stimulant drug OROS-MPH may improve ADHD symptoms but may also increase the risk of adverse events such as seizures and emotional lability. The non-stimulant drug omega-3 may be safe to be used by children with both ADHD and epilepsy; however, we do not know if it is effective in treating the symptoms of ADHD. These conclusions should be interpreted with caution due to study biases, indirect outcome measures, small numbers of events and large confidence intervals. We still need more high-quality studies including studies involving adults with both ADHD and epilepsy and more types of stimulant and non-stimulant medications."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to October 2020."
+    }
+  ]
+}

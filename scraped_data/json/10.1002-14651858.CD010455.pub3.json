@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD010455.pub3",
+  "name": "Down‐titration and discontinuation strategies of tumour necrosis factor–blocking agents for rheumatoid arthritis in patients with low disease activity ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Anti–tumour necrosis factor (TNF) agents are effective in treating people with rheumatoid arthritis (RA), but are associated with (dose-dependent) adverse effects and high costs. To prevent overtreatment, several trials have assessed the effectiveness of down-titration compared with continuation of the standard dose. This is an update of a Cochrane Review published in 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of down-titration (dose reduction, discontinuation, or disease activity-guided dose tapering) of anti-TNF agents on disease activity, functioning, costs, safety, and radiographic damage compared with usual care in people with RA and low disease activity."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, Web of Science and CENTRAL (29 March 2018) and four trial registries (11 April 2018) together with reference checking, citation searching, and contact with study authors to identify additional studies. We screened conference proceedings (American College of Rheumatology and European League Against Rheumatism 2005-2017)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and controlled clinical trials (CCTs) comparing down-titration (dose reduction, discontinuation, disease activity–guided dose tapering) of anti-TNF agents (adalimumab, certolizumab pegol, etanercept, golimumab, infliximab) to usual care/no down-titration in people with RA and low disease activity."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "One previously included trial was excluded retrospectively in this update because it was not an RCT/CCT. We included eight additional trials, for a total of 14 studies (13 RCTs and one CCT, 3315 participants in total) reporting anti-TNF down-titration. Six studies (1148 participants) reported anti-TNF dose reduction compared with anti-TNF continuation. Eight studies (2111 participants) reported anti-TNF discontinuation compared with anti-TNF continuation (three studies assessed both anti-TNF discontinuation and dose reduction), and three studies assessed disease activity–guided anti-TNF dose tapering (365 participants). These studies included data on all anti-TNF agents, but primarily adalimumab and etanercept. Thirteen studies were available in full text, one was available as abstract. We assessed the included studies generally at low to moderate risk of bias; our main concerns were bias due to open-label treatment and unblinded outcome assessment. Clinical heterogeneity between the trials was high. The included studies were performed at clinical centres around the world and included people with early as well as established RA, the majority of whom were female with mean ages between 47 and 60. Study durations ranged from 6 months to 3.5 years.\nWe found that anti-TNF dose reduction leads to little or no difference in mean disease activity score (DAS28) after 26 to 52 weeks (high-certainty evidence, mean difference (MD) 0.06, 95% confidence interval (CI) −0.11 to 0.24, absolute risk difference (ARD) 1%) compared with continuation. Also, anti-TNF dose reduction does not result in an important deterioration in function after 26 to 52 weeks (Health Assessment Questionnaire Disability Index (HAQ-DI)) (high-certainty evidence, MD 0.09, 95% CI 0.00 to 0.19, ARD 3%). Next to this, anti-TNF dose reduction may slightly reduce the proportion of participants switched to another biologic (low-certainty evidence), but probably slightly increases the proportion of participants with minimal radiographic progression after 52 weeks (moderate-certainty evidence, risk ratio (RR) 1.22, 95% CI 0.76 to 1.95, ARD 2% higher). Anti-TNF dose reduction may cause little or no difference in serious adverse events, withdrawals due to adverse events and proportion of participants with persistent remission (low-certainty evidence).\nResults show that anti-TNF discontinuation probably slightly increases the mean disease activity score (DAS28) after 28 to 52 weeks (moderate-certainty evidence, MD 0.96, 95% CI 0.67 to 1.25, ARD 14%), and that the RR of persistent remission lies between 0.16 and 0.77 (low-certainty evidence). Anti-TNF discontinuation increases the proportion participants with minimal radiographic progression after 52 weeks (high-certainty evidence, RR 1.69, 95% CI 1.10 to 2.59, ARD 7%) and may lead to a slight deterioration in function (HAQ-DI) (low-certainty evidence). It is uncertain whether anti-TNF discontinuation influences the number of serious adverse events (due to very low-certainty evidence) and the number of withdrawals due to adverse events after 28 to 52 weeks probably increases slightly (moderate-certainty evidence, RR 1.46, 95% CI 0.75 to 2.84, ARD 1% higher).\nAnti-TNF disease activity–guided dose tapering may result in little or no difference in mean disease activity score (DAS28) after 72 to 78 weeks (low-certainty evidence). Furthermore, anti-TNF disease activity–guided dose tapering results in little or no difference in the proportion of participants with persistent remission after 18 months (high-certainty evidence, RR 0.89, 95% CI 0.75 to 1.06, ARD −9%) and may result in little or no difference in switching to another biologic (low-certainty evidence). Anti-TNF disease activity–guided dose tapering may slightly increase proportion of participants with minimal radiographic progression (low-certainty evidence) and probably leads to a slight deterioration of function after 18 months (moderate-certainty evidence, MD 0.2 higher, 0.02 lower to 0.42 higher, ARD 7% higher), It is uncertain whether anti-TNF disease activity-guided dose tapering influences the number of serious adverse events due to very low-certainty evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found that fixed-dose reduction of anti-TNF, after at least three to 12 months of low disease activity, is comparable to continuation of the standard dose regarding disease activity and function, and may be comparable with regards to the proportion of participants with persistent remission. Discontinuation (also without disease activity–guided adaptation) of anti-TNF is probably inferior to continuation of treatment with respect to disease activity, the proportion of participants with persistent remission, function, and minimal radiographic damage. Disease activity–guided dose tapering of anti-TNF is comparable to continuation of treatment with respect to the proportion of participants with persistent remission and may be comparable regarding disease activity.\nCaveats of this review are that available data are mainly limited to etanercept and adalimumab, the heterogeneity between studies, and the use of superiority instead of non-inferiority designs.\nFuture research should focus on the anti-TNF agents infliximab and golimumab; assessment of disease activity, function, and radiographic outcomes after longer follow-up; and assessment of long-term safety, cost-effectiveness, and predictors for successful down-titration. Also, use of a validated flare criterion, non-inferiority designs, and disease activity–guided tapering instead of fixed-dose reduction or discontinuation would allow researchers to better interpret study findings and generalise to clinical practice."
+    }
+  ],
+  "pls_title": "Lowering the dose of or stopping anti-tumour necrosis factor drugs in people with rheumatoid arthritis who are doing well (low disease activity)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "We conducted an updated review of studies in which treatment with anti-tumour necrosis factor (anti-TNF) drugs (adalimumab, certolizumab pegol, etanercept, golimumab, and infliximab) was lowered or stopped in people with rheumatoid arthritis (RA) who use anti-TNF drugs and are doing well (low disease activity). Our systematic search up to March 2018 identified 14 studies (3315 participants). The included studies were performed at clinical centres around the world and included people with early as well as established RA, the majority of whom were female with mean ages varying between 47 and 60. Study durations ranged from 6 months to 3.5 years."
+    },
+    {
+      "heading": "What is rheumatoid arthritis? What is stopping or lowering the dose of anti-TNF drugs?",
+      "text": "When you have RA, your immune system, which normally fights infection, attacks the lining of your joints. This makes your joints swollen, stiff, and painful. There is no cure for RA, so treatments aim to relieve pain and stiffness, improve ability to move, and prevent damage to the joints.\nAnti-TNF agents are biological drugs for RA. They lessen complaints by reducing inflammation in the joints, and they reduce radiographic joint damage. Reducing or stopping anti-TNF treatment when disease activity is low might reduce dose-dependent side effects (mainly infections) and costs."
+    },
+    {
+      "heading": "Key results",
+      "text": "Data were available for all anti-TNF agents, but mostly for adalimumab and etanercept."
+    },
+    {
+      "heading": "Disease activity",
+      "text": "- People who lowered the dose of anti-TNF showed little or no increase in disease activity compared with people who continued anti-TNF (high-certainty evidence).\n- People who stopped anti-TNF had a 0.96 unit increase in disease activity on a scale from 0.9 to 8 compared with people who continued anti-TNF (absolute difference 14%, moderate-certainty evidence).\n- People who gradually lowered the dose of anti-TNF showed little or no increase in disease activity compared with people who continued anti-TNF (low-certainty evidence)."
+    },
+    {
+      "heading": "Persistent remission",
+      "text": "- There was little or no difference in the number of people who had persistent remission between those who lowered the dose of anti-TNF compared with continuation of anti-TNF (low-certainty evidence).\n- Data on how stopping anti-TNF affects persistent remission were not pooled because results were not similar across studies (low-certainty evidence). The absolute difference varied between 15% and 68% fewer people that remained in remission when stopping anti-TNF compared to continuation of anti-TNF.\n- There was little or no difference in the number of people who had persistent remission between those who gradually lowered the dose of anti-TNF compared with continuation of anti-TNF (high-certainty evidence)."
+    },
+    {
+      "heading": "X-ray progression",
+      "text": "- 24 more people per 1000 had a greater than 0.5 point progression of joint damage after a year when lowering the dose of anti-TNF (scale 0 to 448) (absolute difference 2%, moderate-certainty evidence).\n- 73 more people per 1000 who stopped anti-TNF had a greater than 0.5 point progression of joint damage after a year than people who continued anti-TNF (absolute difference 7%, high-certainty evidence).\n- 110 more people per 1000 had greater than 0.5 or greater than 1.0 point progression of joint damage after 1.5 years when gradually lowering the dose of anti-TNF (low-certainty evidence)."
+    },
+    {
+      "heading": "Function",
+      "text": "- People who lowered the dose of anti-TNF had a 0.09 unit worsening of function (scale 0 to 3) compared with people who continued anti-TNF (absolute difference 3%, high-certainty evidence).\n- People stopping anti-TNF had a 0.18 unit worsening of function compared with people who continued anti-TNF (absolute difference 6%, low-certainty evidence).\n- People gradually lowering the dose of anti-TNF had a 0.2 unit worsening in function compared with people who continued anti-TNF (absolute difference 7%, moderate-certainty evidence)."
+    },
+    {
+      "heading": "Side effects",
+      "text": "- There was little or no difference in number of serious adverse events in people lowering the dose of anti-TNF compared to continuation anti-TNF (low-certainty evidence).\n- It is uncertain whether gradually lowering the dose of or stopping anti-TNF influences the number of serious adverse events (very low-certainty evidence)."
+    }
+  ]
+}

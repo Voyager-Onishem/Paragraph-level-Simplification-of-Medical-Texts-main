@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD009749.pub3",
+  "name": "Androgens (dehydroepiandrosterone or testosterone) for women undergoing assisted reproduction",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Practitioners in the field of assisted reproductive technology (ART) continually seek alternative or adjunct treatments to improve ART outcomes. This Cochrane review investigates the adjunct use of synthetic versions of two naturally produced hormones, dehydroepiandrosterone (DHEA) and testosterone (T), in assisted reproduction.\nSteroid hormones are proposed to increase conception rates by positively affecting follicular response to gonadotrophin stimulation. This may lead to a greater oocyte yield and, subsequently, an increased chance of pregnancy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of DHEA and T as pre- or co-treatments in infertile women undergoing assisted reproduction."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases up to 8 January 2024: the Gynaecology and Fertility Group (CGF) Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, and trial registries for ongoing trials. We also searched citation indexes, Web of Science, PubMed, and OpenGrey. We searched the reference lists of relevant studies and contacted experts in the field for any additional trials. There were no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing DHEA or T as an adjunct treatment to any other active intervention, placebo, or no treatment in women undergoing assisted reproduction."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, extracted relevant data, and assessed risk of bias. We pooled data from studies using fixed-effect models. We calculated odds ratios (ORs) for each dichotomous outcome. Analyses were stratified by type of treatment.\nWe assessed the certainty of evidence for the main findings using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 28 RCTs. There were 1533 women in the intervention groups and 1469 in the control groups. Apart from three trials, trial participants were women identified as 'poor responders' to standard in vitro fertilisation (IVF) protocols. The included trials compared either T or DHEA treatment with placebo or no treatment.\nPre-treatment with DHEA versus placebo/no treatment:\nDHEA likely results in little to no difference in live birth/ongoing pregnancy rates (OR 1.30, 95% confidence interval (CI) 0.95 to 1.76; I² = 16%, 9 RCTs, N = 1433, moderate certainty evidence ). This suggests that in women with a 12% chance of live birth/ongoing pregnancy with placebo or no treatment, the live birth/ongoing pregnancy rate in women using DHEA will be between 12% and 20%. DHEA likely does not decrease miscarriage rates (OR 0.85, 95% CI 0.53 to 1.37; I² = 0%, 10 RCTs, N = 1601, moderate certainty evidence).\nDHEA likely results in little to no difference in clinical pregnancy rates (OR 1.18, 95% CI 0.93 to 1.49; I² = 0%, 13 RCTs, N = 1886, moderate certainty evidence ). This suggests that in women with a 17% chance of clinical pregnancy with placebo or no treatment, the clinical pregnancy rate in women using DHEA will be between 16% and 24%. We are very uncertain about the effect of DHEA on multiple pregnancy (OR 3.05, 95% CI 0.47 to 19.66; 7 RCTs, N = 463, very low certainty evidence).\nPre-treatment with T versus placebo/no treatment:\nT likely improves live birth rates (OR 2.53, 95% CI 1.61 to 3.99; I² = 0%, 8 RCTs, N = 716, moderate certainty evidence ). This suggests that in women with a 10% chance of live birth with placebo or no treatment, the live birth rate in women using T will be between 15% and 30%. T likely does not decrease miscarriage rates (OR 1.63, 95% CI 0.76 to 3.51; I² = 0%, 9 RCTs, N = 755, moderate certainty evidence).\nT likely increases clinical pregnancy rates (OR 2.17, 95% CI 1.54 to 3.06; I² = 0%, 13 RCTs, N = 1152, moderate certainty evidence ). This suggests that in women with a 12% chance of clinical pregnancy with placebo or no treatment, the clinical pregnancy rate in women using T will be between 17% and 29%. We are very uncertain about the effect of T on multiple pregnancy (OR 2.56, 95% CI 0.59 to 11.20; 5 RCTs, N = 449, very low certainty evidence).\nWe are uncertain about the effect of T versus estradiol or T versus estradiol + oral contraceptive pills.\nThe certainty of the evidence was moderate to very low, the main limitations being lack of blinding in the included trials, inadequate reporting of study methods, and low event and sample sizes in the trials.\nData on adverse events were sparse; any reported events were minor."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Pre-treatment with T likely improves, and pre-treatment with DHEA likely results in little to no difference, in live birth and clinical pregnancy rates in women undergoing IVF who have been identified as poor responders. DHEA and T probably do not decrease miscarriage rates in women under IVF treatment. The effects of DHEA and T on multiple pregnancy are uncertain. Research is needed to identify the optimal duration of treatment with T. Future studies should include data collection on adverse events and multiple pregnancy."
+    }
+  ],
+  "pls_title": "Androgens (dehydroepiandrosterone or testosterone) for women undergoing assisted reproduction technology",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Women undergoing assisted reproduction technology (ART), namely in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI), who are identified as poor responders should consider pre-treatment or co-treatment with testosterone (T)."
+    },
+    {
+      "heading": "What is the issue?",
+      "text": "Dehydroepiandrosterone (DHEA) and testosterone (T) are hormones known as androgens. For many years, synthetic versions of these hormones have been used before ART treatment to improve a woman's chance of becoming pregnant. Androgens are thought to improve the chances of having a live birth through enhanced egg quantity and quality."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Androgens (DHEA and T) are commonly prescribed by doctors as an adjunct (additional) treatment to ART, and their use is requested by patients. Many studies of differing quality and results have been performed looking at whether pre-treatment or co-treatment with androgens improves ART outcomes."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if androgens (DHEA or T) as an adjunct treatment is better than placebo ('dummy' treatment), no treatment, or any other active treatment for improving:\n- live birth rate/ongoing pregnancy ('live birth' is defined as the delivery of a live fetus after 20 completed weeks of gestational age; 'ongoing pregnancy' is defined as evidence of a gestational sac with fetal heart activity at 12 weeks or later, confirmed by ultrasound);\n- miscarriage rate (defined as the number of pregnancies lost before 20 weeks of gestation);\n- clinical pregnancy (defined as evidence of a gestational sac with fetal heart activity after six weeks of gestation, confirmed by ultrasound).\nWe also wanted to know if androgens (DHEA or T) used with ART affected the risk of:\n- unwanted effects on the woman including ectopic pregnancy and complications during pregnancy or labour;\n- unwanted effects on the fetus, including fetal anomalies."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for all published and unpublished studies comparing androgens (DHEA or T) as an adjunct treatment versus any other active treatment, placebo, or no treatment in women undergoing ART. We compared and summarised the results of the studies and rated our confidence in the evidence based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 28 studies involving a total of 3002 women. Participants were women with infertility of greater than one year in all included studies. Fourteen studies looked at DHEA, and 14 looked at T.\n- T probably improves the chances of a successful pregnancy in women identified as poor responders to IVF.\n- DHEA likely has little to no effect on the chances of a successful pregnancy in women identified as poor responders to IVF.\n- Androgens (DHEA and T) likely do not decrease a woman's chance of miscarriage. It is uncertain if DHEA and T increase the chance of multiple pregnancy."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Overall, we are only moderately confident in the evidence because people involved in the studies may have been aware of treatment assignment; the numbers of events were low; and study methods were poorly reported. Information on unwanted effects was very limited, and any reported events were minor. Further research is needed to identify the optimal duration of treatment with T. Future studies should collect data on unwanted effects and multiple pregnancy."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "This review updates a previous review. The evidence is current to January 2024."
+    }
+  ]
+}

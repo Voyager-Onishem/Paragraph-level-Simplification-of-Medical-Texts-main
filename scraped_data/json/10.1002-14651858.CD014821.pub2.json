@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014821.pub2",
+  "name": "Remote care through telehealth for people with inflammatory bowel disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with inflammatory bowel disease (IBD) require intensive follow-up with frequent consultations after diagnosis. IBD telehealth management includes consulting by phone, instant messenger, video, text message, or web-based services. Telehealth can be beneficial for people with IBD, but may have its own set of challenges. It is important to systematically review the evidence on the types of remote or telehealth approaches that can be deployed in IBD. This is particularly relevant following the coronavirus disease 2019 (COVID-19) pandemic, which led to increased self- and remote-management."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To identify the communication technologies used to achieve remote healthcare for people with inflammatory bowel disease and to assess their effectiveness."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 13 January 2022, we searched CENTRAL, Embase, MEDLINE, three other databases, and three trials registries with no limitations on language, date, document type, or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All published, unpublished, and ongoing randomised controlled trials (RCTs) that evaluated telehealth interventions targeted at people with IBD versus any other type of intervention or no intervention.\nWe did not include studies based on digital patient information resources or education resources, unless they formed part of a wider package including an element of telehealth. We excluded studies where remote monitoring of blood or faecal tests was the only form of monitoring."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included studies and assessed their risk of bias. We analysed studies on adult and paediatric populations separately. We expressed the effects of dichotomous outcomes as risk ratios (RRs) and the effects of continuous outcomes as mean differences (MDs) or standardised mean differences (SMDs), each with their 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 RCTs with a total of 3489 randomised participants, aged eight to 95 years. Three studies examined only people with ulcerative colitis (UC), two studies examined only people with Crohn's disease (CD), and the remaining studies examined a mix of IBD patients. Studies considered a range of disease activity states. The length of the interventions ranged from six months to two years. The telehealth interventions were web-based and telephone-based.\nWeb-based monitoring versus usual care\nTwelve studies compared web-based disease monitoring to usual care.\nThree studies, all in adults, provided data on disease activity. Web-based disease monitoring (n = 254) is probably equivalent to usual care (n = 174) in reducing disease activity in people with IBD (SMD 0.09, 95% CI −0.11 to 0.29). The certainty of the evidence is moderate.\nFive studies on adults provided dichotomous data that we could use for a meta-analysis on flare-ups. Web-based disease monitoring (n = 207/496) is probably equivalent to usual care (n = 150/372) for the occurrence of flare-ups or relapses in adults with IBD (RR 1.09, 95% CI 0.93 to 1.27). The certainty of the evidence is moderate. One study provided continuous data. Web-based disease monitoring (n = 465) is probably equivalent to usual care (n = 444) for the occurrence of flare-ups or relapses in adults with CD (MD 0.00 events, 95% CI −0.06 to 0.06). The certainty of the evidence is moderate. One study provided dichotomous data on flare-ups in a paediatric population. Web-based disease monitoring (n = 28/84) may be equivalent to usual care (n = 29/86) for the occurrence of flare-ups or relapses in children with IBD (RR 0.99, 95% CI 0.65 to 1.51). The certainty of the evidence is low.\nFour studies, all in adults, provided data on quality of life. Web-based disease monitoring (n = 594) is probably equivalent to usual care (n = 505) for quality of life in adults with IBD (SMD 0.08, 95% CI −0.04 to 0.20). The certainty of the evidence is moderate.\nBased on continuous data from one study in adults, we found that web-based disease monitoring probably leads to slightly higher medication adherence compared to usual care (MD 0.24 points, 95% CI 0.01 to 0.47). The results are of moderate certainty. Based on continuous data from one paediatric study, we found no difference between web-based disease monitoring and usual care in terms of their effect on medication adherence (MD 0.00, 95% CI −0.63 to 0.63), although the evidence is very uncertain. When we meta-analysed dichotomous data from two studies on adults, we found no difference between web-based disease monitoring and usual care in terms of their effect on medication adherence (RR 0.87, 95% CI 0.62 to 1.21), although the evidence is very uncertain.\nWe were unable to draw any conclusions on the effects of web-based disease monitoring compared to usual care on healthcare access, participant engagement, attendance rate, interactions with healthcare professionals, and cost- or time-effectiveness. The certainty of the evidence is very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence in this review suggests that web-based disease monitoring is probably no different to standard care in adults when considering disease activity, occurrence of flare-ups or relapse, and quality of life. There may be no difference in these outcomes in children, but the evidence is limited. Web-based monitoring probably increases medication adherence slightly compared to usual care.\nWe are uncertain about the effects of web-based monitoring versus usual care on our other secondary outcomes, and about the effects of the other telehealth interventions included in our review, because the evidence is limited.\nFurther studies comparing web-based disease monitoring to standard care for the clinical outcomes reported in adults are unlikely to change our conclusions, unless they have longer follow-up or investigate under-reported outcomes or populations. Studies with a clearer definition of web-based monitoring would enhance applicability, enable practical dissemination and replication, and enable alignment with areas identified as important by stakeholders and people affected by IBD."
+    }
+  ],
+  "pls_title": "The use of technology for remote care in inflammatory bowel disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Remote care is probably the same as usual care (e.g. face-to-face care in clinics and hospitals) for improving inflammatory bowel disease symptoms in adults; there is limited evidence for children.\n• Remote care is probably the same as usual care for avoiding relapses and flare-ups; the same may be true for children.\n• Remote care is probably the same as usual care for improving quality of life in adults; there is limited evidence for children."
+    },
+    {
+      "heading": "What is inflammatory bowel disease?",
+      "text": "Inflammatory bowel disease refers to two main conditions that cause inflammation of the gut. These are ulcerative colitis and Crohn's disease. Ulcerative colitis only affects the large intestine. Crohn's disease can affect any part of the digestive tract, from mouth to bottom.\nInflammatory bowel disease mainly causes stomach pain or discomfort, diarrhoea that can be bloody, weight loss, and tiredness."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "Providing care from a distance, also called telehealth, is becoming more common, especially since the coronavirus 2019 (COVID-19) pandemic. Using technology to provide remote care could benefit people with inflammatory bowel disease. Telehealth can take place via telephone, instant messaging, video, text message, web-based services, or other means.\nWe wanted to find which communication technologies are used for remote care in inflammatory bowel disease, how they are used, if they are accessible to everyone, and what are their benefits or drawbacks."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomised controlled trials (RCTs; studies where participants are randomly assigned to one of two or more treatment groups) comparing telehealth with any other treatment for people with inflammatory bowel disease. RCTs give us the highest standard of evidence.\nWe applied no limitations for age or type of remote care in our search, but we excluded studies that did not focus on providing care, such as studies providing only patient information or education. We also excluded studies that provided remote blood or stool test monitoring with no other type of remote monitoring."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 19 relevant RCTs, which enroled a combined total of 3489 people aged eight to 95 years. Remote care was delivered online (e.g. smartphone applications, websites) or by telephone.\nTwelve studies compared web-based care to usual care, three compared telephone-based care to usual care, three compared web-based care to \"sham\" care, one compared web-based care to self-care, and one compared psychological and telephone support to usual care.\nWeb-based remote care is probably no different to usual care in adults for improving symptoms, avoiding relapses or flare-ups, and enhancing quality of life.\nWe also found that people who receive web-based care are probably less likely to skip their medicines compared to those that receive usual care. We are moderately certain about these results based on the current evidence.\nThe evidence on children is limited.\nWith the currently available information, we cannot make any judgements on other parameters such as access to care, whether people with inflammatory bowel disease approve of these programmes and are encouraged to attend appointments, to what degree clinical professionals are involved in them, and costs or time.\nThe evidence on other forms of remote care was also very limited."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "One limitation of the evidence was that the RCTs provided unclear descriptions of the remote care programmes, which means that any organisation wishing to copy and adopt these interventions would have difficulty doing so. The descriptions of usual care (the alternative treatment group in many studies) were also unclear. This means that standard care might be different from one study to another, which could make our findings less accurate.\nFew studies looked at forms of remote care other than web-based care.\nAnother limitation is that the different studies measured different results (outcomes) of treatment.\nFinally, some studies used poor quality research methods."
+    },
+    {
+      "heading": "What next?",
+      "text": "No further studies comparing web-based care to usual care in adults are necessary, unless they last for longer periods of time or give more details that would help clinicians adopt them anywhere in the world. This includes details on the type and number of staff needed, resources, equipment, costs, accessibility, and data security. More studies on children may be useful, as well as studies that examine differences based on sex and social or financial status. In any case, future studies should concentrate on measuring the results that matter most to people with inflammatory bowel disease and their care providers."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "This review is up-to-date as of January 2022."
+    }
+  ]
+}

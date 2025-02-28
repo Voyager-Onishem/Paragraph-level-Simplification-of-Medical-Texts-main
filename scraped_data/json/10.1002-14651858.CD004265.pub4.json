@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD004265.pub4",
+  "name": "Hand‐washing promotion for preventing diarrhoea",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Diarrhoea accounts for 1.8 million deaths in children in low- and middle-income countries (LMICs). One of the identified strategies to prevent diarrhoea is hand washing."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of hand-washing promotion interventions on diarrhoeal episodes in children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, nine other databases, the World Health Organization (WHO) International Clinical Trial Registry Platform (ICTRP), and metaRegister of Controlled Trials (mRCT) on 8 January 2020, together with reference checking, citation searching and contact with study authors to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Individually-randomized controlled trials (RCTs) and cluster-RCTs that compared the effects of hand-washing interventions on diarrhoea episodes in children and adults with no intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently assessed trial eligibility, extracted data, and assessed risks of bias. We stratified the analyses for child day-care centres or schools, community, and hospital-based settings. Where appropriate, we pooled incidence rate ratios (IRRs) using the generic inverse variance method and a random-effects model with a 95% confidence interval (CI). We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 RCTs: 13 trials from child day-care centres or schools in mainly high-income countries (54,471 participants), 15 community-based trials in LMICs (29,347 participants), and one hospital-based trial among people with AIDS in a high-income country (148 participants). All the trials and follow-up assessments were of short-term duration.\nHand-washing promotion (education activities, sometimes with provision of soap) at child day-care facilities or schools prevent around one-third of diarrhoea episodes in high-income countries (incidence rate ratio (IRR) 0.70, 95% CI 0.58 to 0.85; 9 trials, 4664 participants, high-certainty evidence) and may prevent a similar proportion in LMICs, but only two trials from urban Egypt and Kenya have evaluated this (IRR 0.66, 95% CI 0.43 to 0.99; 2 trials, 45,380 participants; low-certainty evidence). Only four trials reported measures of behaviour change, and the methods of data collection were susceptible to bias. In one trial from the USA hand-washing behaviour was reported to improve; and in the trial from Kenya that provided free soap, hand washing did not increase, but soap use did (data not pooled; 3 trials, 1845 participants; low-certainty evidence).\nHand-washing promotion among communities in LMICs probably prevents around one-quarter of diarrhoea episodes (IRR 0.71, 95% CI 0.62 to 0.81; 9 trials, 15,950 participants; moderate-certainty evidence). However, six of these nine trials were from Asian settings, with only one trial from South America and two trials from sub-Saharan Africa. In seven trials, soap was provided free alongside hand-washing education, and the overall average effect size was larger than in the two trials which did not provide soap (soap provided: RR 0.66, 95% CI 0.58 to 0.75; 7 trials, 12,646 participants; education only: RR 0.84, 95% CI 0.67 to 1.05; 2 trials, 3304 participants). There was increased hand washing at major prompts (before eating or cooking, after visiting the toilet, or cleaning the baby's bottom) and increased compliance with hand-hygiene procedure (behavioural outcome) in the intervention groups compared with the control in community trials (data not pooled: 4 trials, 3591 participants; high-certainty evidence).\nHand-washing promotion for the one trial conducted in a hospital among a high-risk population showed significant reduction in mean episodes of diarrhoea (1.68 fewer) in the intervention group (mean difference −1.68, 95% CI −1.93 to −1.43; 1 trial, 148 participants; moderate-certainty evidence). Hand-washing frequency increased to seven times a day in the intervention group versus three times a day in the control arm in this hospital trial (1 trial, 148 participants; moderate-certainty evidence).\nWe found no trials evaluating the effects of hand-washing promotions on diarrhoea-related deaths or cost effectiveness."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Hand-washing promotion probably reduces diarrhoea episodes in both child day-care centres in high-income countries and among communities living in LMICs by about 30%. The included trials do not provide evidence about the long-term impact of the interventions."
+    }
+  ],
+  "pls_title": "Does encouraging people to wash their hands stop them having diarrhoea?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Encouraging hand washing probably reduces the number of times children have diarrhoea, by around 30%, in communities in low- to middle-income countries and in child-care centres in high-income countries.\nWe did not find evidence about the long-term effects of hand-washing programmes."
+    },
+    {
+      "heading": "What causes diarrhoea?",
+      "text": "‘Diarrhoea’ is the name for frequent bowel movements or the passing of unusually soft or watery faeces. Infections of the gut by bacteria, viruses, or parasites commonly cause diarrhoea, and are mostly spread through water contaminated with faeces.\nThe symptoms of diarrhoea usually improve in a couple of days. However, in severe or long-lasting diarrhoea, too much water, salts, and nutrients may be lost from the body. This loss can cause dehydration and even death. Diarrhoea is a leading cause of death and sickness among children under five years of age."
+    },
+    {
+      "heading": "Preventing diarrhoea",
+      "text": "Most deaths associated with diarrhoea are caused by pathogens acquired as a result of unsafe drinking water, poor sanitary conditions, and lack of hygiene. Washing hands with soap and water removes the bacteria, viruses, and parasites that cause disease. Programmes and activities encouraging people to wash their hands have been developed for use in communities and schools, including hygiene training, posters, leaflets, comic books, songs, and drama."
+    },
+    {
+      "heading": "Why we did this Cochrane Review",
+      "text": "We know that hand washing at appropriate times can prevent diarrhoea, but we do not know how best to encourage the practice. We wanted to find out if programmes and activities that had been studied for this purpose were effective at increasing hand washing and reducing diarrhoea."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated the use of programmes to encourage hand washing in communities, day-care centres, schools, hospitals, and households. We were interested in whether taking part in the programmes affected the number of times people in the study reported having diarrhoea.\nWe looked for studies in which the treatments people received were decided at random. This type of study usually gives the most reliable evidence about the effects of a treatment."
+    },
+    {
+      "heading": "Search date",
+      "text": "We included evidence published up to 8 January 2020."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 29 studies:\n13 studies (in 54,471 people) took place in child day-care centres or schools in mainly high-income countries;\n15 studies (in 29,347 people) were community-based in low- to middle-income countries; and\n1 study (in 148 people) was hospital-based.\nThe studies looked at the effects of hand-washing programmes on the number of times people in the study reported having diarrhoea. The effects of the programmes were followed for four months to one year.\nNo studies reported the effects of hand-washing programmes on how many people died from diarrhoea, how many children under five years of age died (of any cause), or whether the benefits associated with the programme outweighed any extra costs."
+    },
+    {
+      "heading": "What are the results of our review?",
+      "text": "All studies compared the effects of programmes to encourage hand washing with not having any programmes about hand washing.\nIn child-care centres and schools: in high-income countries, encouraging hand washing reduced the number of times children had diarrhoea (9 studies, 4664 children); and in low- to middle-income countries may have reduced the number of times children had diarrhoea (2 studies, 45,380 children).\nIn communities in low- to middle-income countries, encouraging hand washing probably reduced the number of times children (up to 15 years of age) had diarrhoea (9 studies,; 15,950 children).\nIn hospitalized adults with AIDS, encouraging hand washing probably reduced the number of times they had diarrhoea and probably improved hand-washing behaviour (washing hands more often) over one year of follow-up (1 study, 148 people)."
+    },
+    {
+      "heading": "How reliable are these results?",
+      "text": "We are confident that, in high-income countries, hand-washing programmes in schools and child-care centres reduced the number of times children had diarrhoea. This result is unlikely to change with more evidence. We are less confident about our result for low- to middle-income countries, which is based on a small number of studies and might or might not change with more evidence.\nWe are moderately confident about our results for children in communities and in hospitalized adults with AIDS. These results might change if more evidence becomes available."
+    }
+  ]
+}

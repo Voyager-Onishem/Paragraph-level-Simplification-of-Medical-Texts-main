@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011393.pub2",
+  "name": "Interventions for itch in people with advanced chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Itch in patients with chronic kidney disease (CKD) is common, often very distressing and associated with depression, reduced quality of life, and increased death. The most common first-line treatment has been the use of antihistamines despite the lack of substantial evidence for its use for uraemic itch. Few recommendations and guidelines exist for treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to determine: 1) the benefits and harms (both absolute and relative) of all topical and systemic interventions for the treatment of uraemic itch, either alone or in combination, when compared with placebo or standard care; and, 2) the dose strength or frequency, stage of kidney disease or method of dialysis used (where applicable) in cases where the effects of these interventions vary depending on co-interventions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 17 December 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) in adults with CKD stages 4 or 5 comparing treatments (pharmacological, topical, exposure, dialysis modality) for CKD associated itch to either placebo or other established treatments."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently abstracted study data and assessed study quality. Data were analysed using a random effects meta-analysis design estimating the relative effects of treatment versus placebo. Estimates of the relative effects between treatments are included where possible. For continuous measures of severity of itch up to three months, mean difference (MD) or standardised mean difference (SMD) were used. When reported, adverse effects were tabulated. The certainty of the evidence was estimated using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ninety-two RCTs, randomising 4466 participants were included. Fifty-eight studies (3285 participants) provided sufficient data to be meta-analysed. Of these, 30 compared an intervention to a placebo or control. The 10 cm Visual Analogue Scale (VAS) was the dominant instrument utilized for itch reporting and the Duo score was used in a minority of studies.\nGABA analogues including, gabapentin and pregabalin, reduce itch in patients with CKD (5 studies, 297 participants: 4.95 cm reduction, 95% CI 5.46 to 4.44 lower in VAS compared to placebo; high certainty evidence). Kappa opioid agonists, including nalfurafine also reduced itch in this population (6 studies, 661 participants: 1.05 cm reduction, 95% CI 1.40 to 0.71 lower in VAS compared to placebo; high certainty evidence). Ondansetron had little or no effect on itch scores (3 studies, 183 participants: 0.38 cm reduction, 95% CI 1.04 lower to 0.29 higher in VAS compared to placebo; high certainty evidence). Reduction in the severity of itch was reported with oral montelukast, turmeric, zinc sulfate and topical capsaicin. For all other interventions, the certainty of the evidence was low to moderate, and the interventions had uncertain effects on uraemic pruritus.\nSix studies have disclosed significant financial support from their respective manufacturers, six were affected by lack of blinding, and 11 studies have 15 participants or less. Older, smaller RCTs often failed to follow intention-to-treat protocols with unexplained dropouts after randomisation.\nAdverse effects were generally poorly and inconsistently reported across all RCTs. No severe adverse events were reported for any intervention."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The RCTs of this meta-analysis contain a large array of interventions with a diverse set of comparators. For many interventions, trials are sparse. This served to make informative meta-analysis challenging.\nOf all treatments for uraemic pruritus, gabapentinoids (gabapentin and pregabalin) were the most studied and show the greatest reduction in itch scores. Further RCTs, even of the scale of the largest trials included in this review, are unlikely to significantly change this finding. Kappa-opioid agonists (mainly nalfurafine) also may reduce itch, but indirect comparison suggests a much more modest effect in comparison to GABA analogues.\nEvidence for oral montelukast, turmeric, zinc sulfate, and topical capsaicin also showed an itch score reduction. However, these reductions were reported in small studies, and warrant further investigation. Ondansetron did not reduce itch. It is somewhat unlikely that a further study of ondansetron will change this result."
+    }
+  ],
+  "pls_title": "What is the best treatment for itch in people with chronic kidney disease?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Itch (medical term pruritus) is a common problem for people with chronic kidney disease (CKD). Itch can greatly affect quality of life and may lead to depression or increased risk of death. There are no widely used or agreed upon treatment guidelines for itch associated with CKD."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We found 92 studies involving 4466 people investigating 30 treatments for CKD-associated itch. The control treatment was either placebo or (less commonly) another treatment for CKD-associated itch."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "One type of drug (gabapentin and pregabalin), an analogue to a common neurotransmitter appear to reduce itch in patients with CKD. Ondansetron, an anti-nausea drug, was another well studied treatment and appears have no significant association with itch reduction. Kappa-opioid drugs (nalfurafine) appear to slightly reduce itch. There is too little information on the remaining treatments for any thorough assessment of their efficacy in relieving itch or whether there is any anti-itch effect at all.\nThe three drugs mentioned above are well studied with higher quality evidence. The other treatments studied are of lower to moderate quality.\nThe studies seldom document a comprehensive list of adverse or side effects incurred during treatment. However, none of the adverse effects documented were severe. Further meaningful assessment on harm cannot be made."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Drugs that work like neurotransmitters (gabapentin and pregabalin) reduce itch in patients with CKD. Other intervention either do not work, do not work as well, or need further study to make a conclusion."
+    }
+  ]
+}

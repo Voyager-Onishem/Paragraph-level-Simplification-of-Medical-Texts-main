@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD013860.pub2",
+  "name": "Prophylactic antiemetics for adults receiving intravenous opioids in the acute care setting ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Physicians often prescribe opioids for pain in the acute care setting. Nausea and vomiting are well-described adverse events, occurring in over one-third of patients. Prophylactic antiemetics may be one option to reduce opioid-associated nausea and vomiting. However, these medications also have their own adverse effects, so it is important to understand their efficacy and safety prior to routine use. This is a review of randomized controlled trials comparing prophylactic antiemetics versus placebo or standard care for preventing opioid-associated nausea and vomiting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of prophylactic antiemetics for nausea and vomiting in adults (aged 16 years or older) receiving intravenous opioids in the acute care setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (the Cochrane Library), MEDLINE (OVID), Embase (OVID) from inception to January 2022, and Google Scholar (17 January 2022). We also searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and screened reference lists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials of prophylactic antiemetics versus placebo or standard care in adults prior to receiving an intravenous opioid."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (MG, JNC) independently determined the eligibility of each study according to the inclusion criteria. Two review authors (MG, GDP) then independently extracted data, assessed risk of bias, and determined the certainty of evidence using GRADE. Our primary outcomes were the occurrence of nausea, vomiting, and adverse events. Secondary outcomes included nausea severity, number of vomiting episodes, and number of participants requiring antiemetic rescue therapy. We presented outcomes as risk ratios (RR) for dichotomous data (e.g. presence of vomiting, presence of nausea, number of participants requiring rescue medication, adverse events) and mean difference (MD) or standardized mean difference for continuous data (e.g. number of vomiting episodes, nausea severity) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three studies involving 527 participants (187 women and 340 men) with a mean age of 42 years.  All studies used intravenous metoclopramide (10 mg) as the intervention and a placebo for the comparator. No studies assessed any other antiemetic or compared the intervention to standard care.\nCompared to placebo, metoclopramide did not reduce vomiting (RR 1.18, 95% CI 0.26 to 5.32; low-certainty evidence) or nausea (RR 0.55; 95% CI 0.15 to 2.03; low-certainty evidence) and there was no difference in adverse events (RR 2.34, 95% CI 0.47 to 11.61; low-certainty evidence).  No data were available regarding the number of vomiting episodes. Metoclopramide did reduce the severity of nausea compared with placebo (MD −0.49, 95% CI −0.75 to −0.23; low-certainty evidence) but did not reduce the need for rescue medication (RR 1.86, 95% CI 0.17 to 20.16; low-certainty evidence).\nTwo studies were at unclear risk of bias for random sequence generation, one for blinding of outcome assessors, one for incomplete outcome data, and two for selective reporting. The studies were at low risk of bias for all remaining components."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was no evidence that prophylactic metoclopramide affected the risk of vomiting, nausea, or the need for rescue medication when provided prior to intravenous opioids in the acute care setting. There was a clinically insignificant difference in nausea severity when comparing prophylactic metoclopramide with placebo. Overall, the evidence was of low certainty. Future research could better delineate the effects of prophylactic antiemetics on specific populations, and new studies are needed to evaluate the use of other prophylactic antiemetic agents, for which there were no data."
+    }
+  ],
+  "pls_title": "Prophylactic antiemetics for adults receiving intravenous opioids in the acute care setting",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Metoclopramide did not reduce the risk of vomiting, nausea, or the need for rescue medication when provided prior to intravenous opioids in the emergency department.\nIn terms of the severity of nausea, metoclopramide did not help patients any more than placebo (sham treatment)."
+    },
+    {
+      "heading": "What is opioid-induced emesis?",
+      "text": "Physicians often give patients opioids for pain in emergency departments, but over a third experience the side effects of nausea and vomiting (emesis). Some experts have suggested that taking antiemetics before receiving the opioid (that is, as a prophylactic) could prevent these symptoms from occurring. However, these medications have their own side effects, so it is important to understand whether they are effective and safe before routinely using them."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "This review looks at whether taking antiemetics (medications to treat or prevent nausea and vomiting) before receiving an intravenous opioid reduces the risk of experiencing nausea and vomiting as side effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked for studies involving adults (aged 16 years or older) who received prophylactic antiemetics compared with either placebo or standard care before receiving an intravenous opioid."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found three studies with a total of 527 patients. All the studies used metoclopramide as the antiemetic. Compared with placebo, metoclopramide did not reduce the risk of vomiting, nausea, or the need for an antiemetic later on. There was also no difference in side effects between those who received antiemetics and those who did not."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The studies investigated only one medication (metoclopramide) and did not report all the information we were interested in. The intervention probably makes little or no difference in terms of experiencing nausea or vomiting."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This evidence is up to date to 17 January 2022."
+    }
+  ]
+}

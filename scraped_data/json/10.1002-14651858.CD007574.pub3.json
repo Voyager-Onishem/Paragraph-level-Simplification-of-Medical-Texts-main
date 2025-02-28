@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD007574.pub3",
+  "name": "Endovascular thrombectomy and intra‐arterial interventions for acute ischaemic stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Most disabling strokes are due to a blockage of a large artery in the brain by a blood clot. Prompt removal of the clot with intra-arterial thrombolytic drugs or mechanical devices, or both, can restore blood flow before major brain damage has occurred, leading to improved recovery. However, these so-called endovascular interventions can cause bleeding in the brain. This is a review of randomised controlled trials of endovascular thrombectomy or intra-arterial thrombolysis, or both, for acute ischaemic stroke."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether endovascular thrombectomy or intra-arterial interventions, or both, plus medical treatment are superior to medical treatment alone in people with acute ischaemic stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Trials Registers of the Cochrane Stroke Group and Cochrane Vascular Group (last searched 1 September 2020), CENTRAL (the Cochrane Library, 1 September 2020), MEDLINE (May 2010 to 1 September 2020), and Embase (May 2010 to 1 September 2020). We also searched trials registers, screened reference lists, and contacted researchers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of any endovascular intervention plus medical treatment compared with medical treatment alone in people with definite ischaemic stroke."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (MBR and MJ) applied the inclusion criteria, extracted data, and assessed trial quality. Two review authors (MBR and HL) assessed risk of bias, and the certainty of the evidence using GRADE. We obtained both published and unpublished data if available. Our primary outcome was favourable functional outcome at the end of the scheduled follow-up period, defined as a modified Rankin Scale score of 0 to 2. Eighteen trials (i.e. all but one included trial) reported their outcome at 90 days. Secondary outcomes were death from all causes at in the acute phase and by the end of follow-up, symptomatic intracranial haemorrhage in the acute phase and by the end of follow-up, neurological status at the end of follow-up, and degree of recanalisation."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 studies with a total of 3793 participants. The majority of participants had large artery occlusion in the anterior circulation, and were treated within six hours of symptom onset with endovascular thrombectomy. Treatment increased the chance of achieving a good functional outcome, defined as a modified Rankin Scale score of 0 to 2: risk ratio (RR) 1.50 (95% confidence interval (CI) 1.37 to 1.63; 3715 participants, 18 RCTs; high-certainty evidence). Treatment also reduced the risk of death at end of follow-up: RR 0.85 (95% CI 0.75 to 0.97; 3793 participants, 19 RCTs; high-certainty evidence) without increasing the risk of symptomatic intracranial haemorrhage in the acute phase: RR 1.46 (95% CI 0.91 to 2.36; 1559 participants, 6 RCTs; high-certainty evidence) or by end of follow-up: RR 1.05 (95% CI 0.72 to 1.52; 1752 participants, 10 RCTs; high-certainty evidence); however, the wide confidence intervals preclude any firm conclusion. Neurological recovery to National Institutes of Health Stroke Scale (NIHSS) score 0 to 1 and degree of recanalisation rates were better in the treatment group: RR 2.03 (95% CI 1.21 to 3.40; 334 participants, 3 RCTs; moderate-certainty evidence) and RR 8.25 (95% CI 1.63 to 41.90; 198 participants, 2 RCTs; moderate-certainty evidence), respectively."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In individuals with acute ischaemic stroke due to large artery occlusion in the anterior circulation, endovascular thrombectomy can increase the chance of survival with a good functional outcome without increasing the risk of intracerebral haemorrhage or death."
+    }
+  ],
+  "pls_title": "Endovascular thrombectomy and intra-arterial interventions for acute ischaemic stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review addressed whether endovascular thrombectomy (removal of a blood clot in a blood vessel using a mechanical device) or intra-arterial thrombolysis (injecting clot-dissolving drugs directly into the clot), or both, provide better outcomes than standard treatment alone in stroke caused by a blocked blood vessel."
+    },
+    {
+      "heading": "Background",
+      "text": "The majority of disabling strokes are due to a blockage of a large blood vessel by a blood clot in the brain. Such strokes lead to brain tissue damage because of oxygen deprivation. An ischaemic stroke is a stroke where the restriction of blood flow causes damage and death to the surrounding tissue due to oxygen shortage. For these patients, the most intuitive means of treatment is removal of the blockage by either injecting clot-dissolving drugs directly into the clot or removal of the blood clot using a mechanical device, or both. Prompt treatment can restore blood flow before major brain damage has occurred, leading to a good recovery. However, these treatments can also cause bleeding in the brain, which can result in poorer outcomes. We searched for randomised controlled trials (studies in which participants are assigned to one of two or more treatment groups using a random method) of both endovascular mechanical thrombectomy and intra-arterial thrombolysis to establish whether they are safe and effective treatments for stroke caused by a blocked blood vessel."
+    },
+    {
+      "heading": "Search date",
+      "text": "1 September 2020"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Randomised controlled trials of endovascular thrombectomy or intra-arterial thrombolysis, or both, plus routine medical treatment compared with routine medical treatment alone in people with a definite acute ischaemic stroke."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "No funding sources."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 19 trials involving a total of 3793 participants. Treatment with endovascular thrombectomy can improve patients' chance of survival with the ability to function well without increasing the risk of bleeding in the brain or death. It is still unclear what the optimal time window is within which treatment is beneficial and whether treatment is effective in the posterior (supplying the rear part of the brain) circulation. There is also a need to study whether a strategy of primary endovascular thrombectomy or intra-arterial thrombolysis, or both, is superior to a strategy where intravenous (injected into the vein) clot-dissolving treatment is provided first in a local centre followed by transfer of selected patients to hospitals able to perform mechanical thrombectomy or intra-arterial thrombolysis, or both."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We judged the available trials to be at low or unclear risk of bias, and so overall the evidence is reported to be of high certainty."
+    }
+  ]
+}

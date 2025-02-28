@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013335.pub2",
+  "name": "Monitoring of gastric residual volume during enteral nutrition",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The main goal of enteral nutrition (EN) is to manage malnutrition in order to improve clinical outcomes. However, EN may increase the risks of vomiting or aspiration pneumonia during gastrointestinal dysfunction. Consequently, monitoring of gastric residual volume (GRV), that is, to measure GRV periodically and modulate the speed of enteral feeding according to GRV, has been recommended as a management goal in many intensive care units. Yet, there is a lack of robust evidence that GRV monitoring reduces the level of complications during EN. The best protocol of GRV monitoring is currently unknown, and thus the precise efficacy and safety profiles of GRV monitoring remain to be ascertained."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate the efficacy and safety of GRV monitoring during EN."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched electronic databases including CENTRAL, MEDLINE, Embase, and CINAHL for relevant studies on 3 May 2021. We also checked reference lists of included studies for additional information and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), randomized cross-over trials, and cluster-RCTs investigating the effects of GRV monitoring during EN. We imposed no restrictions on the language of publication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the search results for eligible studies and extracted trial-level information from each included study, including methodology and design, characteristics of study participants, interventions, and outcome measures. We assessed risk of bias for each study using Cochrane's risk of bias tool. We followed guidance from the GRADE framework to assess the overall certainty of evidence across outcomes. We used a random-effects analytical model to perform quantitative synthesis of the evidence. We calculated risk ratios (RRs) with 95% confidence intervals (CIs) for dichotomous and mean difference (MD) with 95% CIs for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight studies involving 1585 participants. All studies were RCTs conducted in ICU settings.\nTwo studies (417 participants) compared less-frequent (less than eight hours) monitoring of GRV against a regimen of more-frequent (eight hours or greater) monitoring. The evidence is very uncertain about the effect of frequent monitoring of GRV on mortality rate (RR 0.91, 95% CI 0.60 to 1.37; I² = 8%; very low-certainty evidence), incidence of pneumonia (RR 1.08, 95% CI 0.64 to 1.83; heterogeneity not applicable; very low-certainty evidence), length of hospital stay (MD 2.00 days, 95% CI –2.15 to 6.15; heterogeneity not applicable; very low-certainty evidence), and incidence of vomiting (RR 0.14, 95% CI 0.02 to 1.09; heterogeneity not applicable; very low-certainty evidence).\nTwo studies (500 participants) compared no GRV monitoring with frequent (12 hours or less) monitoring. Similarly, the evidence is very uncertain about the effect of no monitoring of GRV on mortality rate (RR 0.87, 95% CI 0.62 to 1.23; I² = 51%; very low-certainty evidence), incidence of pneumonia (RR 0.70, 95% CI 0.43 to 1.13; heterogeneity not applicable; very low-certainty evidence), length of hospital stay (MD –1.53 days, 95% CI –4.47 to 1.40; I² = 0%; very low-certainty evidence), and incidence of vomiting (RR 1.47, 95% CI 1.13 to 1.93; I² = 0%; very low-certainty evidence).\nOne study (322 participants) assessed the impact of GRV threshold (500 mL per six hours) on clinical outcomes. The evidence is very uncertain about the effect of the threshold for GRV at time of aspiration on mortality rate (RR 1.01, 95% CI 0.74 to 1.38; heterogeneity not applicable; very low-certainty evidence), incidence of pneumonia (RR 1.03, 95% CI 0.72 to 1.46; heterogeneity not applicable; very low-certainty evidence), and length of hospital stay (MD –0.90 days, 95% CI –2.60 to 4.40; heterogeneity not applicable; very low-certainty evidence).\nTwo studies (140 participants) explored the effects of returning or discarding the aspirated/drained GRV. The evidence is uncertain about the effect of discarding or returning the aspirated/drained GRV on the incidence of vomiting (RR 1.00, 95% CI 0.06 to 15.63; heterogeneity not applicable; very low-certainty evidence) and volume aspirated from the stomach (MD –7.30 mL, 95% CI –26.67 to 12.06, I² = 0%; very low-certainty evidence)\nWe found no studies comparing the effects of protocol-based EN strategies that included GRV-related criteria against strategies that did not include such criteria."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence is very uncertain about the effect of GRV on clinical outcomes including mortality, pneumonia, vomiting, and length of hospital stay."
+    }
+  ],
+  "pls_title": "Periodic measurement of the containment volume of the stomach during tube feeding",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is it necessary to measure the containment volume of the stomach periodically during tube feeding? If so, what is the best way to monitor the volume? How frequently does the monitoring need to be? How large would a volume be regarded as safe?"
+    },
+    {
+      "heading": "Background",
+      "text": "People with acute illnesses may not be able to consume food due to several reasons (e.g. unconsciousness, need for mechanical ventilation). To maintain sufficient levels of energy and nutrients for this population, tube feeding, that is, administering liquidized dense nutrients through a flexible tube that reaches the stomach via the nose, is commonly used. Tube feeding is currently recommended as a first-line treatment for critically ill people with acute illnesses because such a technique can provide non-nutritional (e.g. protecting the immune system against suppression due to acute disease) as well as nutritional benefits.\nHowever, people with acute illnesses often have a dysfunction of the stomach and intestines, and thus are unable to empty stomach contents. When increasing amounts of liquid nutrients are fed into the stomach via a tube, it can cause reflux (where contents travel back up the food pipe) or vomiting and may lead to aspiration pneumonia (when contents are breathed into the lungs or airways leading to the lungs).\nOne method to avoid these complications of tube feeding is to periodically monitor the gastric residual volume (GRV), which is the amount of liquid contents drained from the stomach. The speed of tube feeding can then be adjusted according to the volume.\nAlthough monitoring of GRV may minimize the complications of tube feeding, and this technique has been recommended in many intensive care units (ICUs) for decades, we lack sufficient data to support a universal approach. Some research findings show that monitoring of GRV had no effects on tube-feeding complications; moreover, the technique was found to reduce the amount of nutrients delivered, thereby affecting the overall treatment goals of tube feeding.\nWe designed this review in the hope of answering the following questions. Is monitoring of GRV effective and safe? What is the best way to monitor GRV (how often should GRV be measured per day; how large a threshold should be set for GRV)?"
+    },
+    {
+      "heading": "Key findings",
+      "text": "We included evidence published up to 3 May 2021. We included findings from eight studies involving 1585 adults, with most being men (1019 men versus 506 women) with average ages 60 to 69 years. All studies were conducted in the ICU settings, and many people were severely ill and required mechanical ventilation and tube feeding for more than 48 hours. The duration of the studies ranged from three to 90 days.\nTwo studies (417 participants) compared less-frequent GRV monitoring with a more-frequent regimen. Two studies (500 participants) compared no GRV monitoring with frequent monitoring. One trial (329 participants) assessed the effects of GRV threshold by comparing a higher threshold at the time of aspiration against a lower threshold. Two studies (140 participants) compared the technique of returning versus discarding the aspirated/drained GRV.\nWe found that the evidence is uncertain about GRV monitoring (less frequent versus more frequent; no monitoring versus frequent monitoring) on mortality, pneumonia, vomiting, and length of hospital stay."
+    },
+    {
+      "heading": "Reliability of the evidence",
+      "text": "Five of the eight included studies assessed mortality as an outcome measure. Most studies were poorly conducted with sparse data, which made interpretation difficult. Thus, the overall reliability of the included evidence for our review outcomes was very low, and our findings should be treated with caution."
+    }
+  ]
+}

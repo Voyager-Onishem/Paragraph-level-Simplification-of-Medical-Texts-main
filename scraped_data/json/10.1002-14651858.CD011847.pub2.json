@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011847.pub2",
+  "name": "Electroconvulsive therapy for treatment‐resistant schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Electroconvulsive therapy (ECT) involves the induction of a seizure by the administration of an electrical stimulus via electrodes usually placed bilaterally on the scalp and was introduced as a treatment for schizophrenia in 1938. However, ECT is a controversial treatment with concerns about long-term side effects such a memory loss. Therefore, it is important to determine its clinical efficacy and safety for people with schizophrenia who are not responding to their treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our primary objective was to assess the effects (benefits and harms) of ECT for people with treatment-resistant schizophrenia.\nOur secondary objectives were to determine whether ECT produces a differential response in people: who are treated with unilateral compared to bilateral ECT; who have had a long (more than 12 sessions) or a short course of ECT; who are given continuation or maintenance ECT; who are diagnosed with well-defined treatment-resistant schizophrenia as opposed to less rigorously defined treatment-resistant schizophrenia (who would be expected to have a greater affective component to their illness)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Study-Based Register of Trials including clinical trial registries on 9 September 2015 and 4 August 2017. There were no limitations on language, date, document type, or publication status for the inclusion of records in the register. We also inspected references of all the included records to identify further relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials investigating the effects of ECT in people with treatment-resistant schizophrenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data. For binary outcomes, we calculated the risk ratio (RR) and its 95% confidence intervals (CIs), on an intention-to-treat basis. For continuous data, we estimated the mean difference (MD) between the groups and its 95% CIs. We employed the fixed-effect model for all analyses. We assessed risk of bias for the included studies and created 'Summary of findings' tables using the GRADE framework."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 15 studies involving 1285 participants (1264 completers with an average age of 18 to 46 years) with treatment-resistant schizophrenia. We rated most studies (14/15, 93.3%) as at high risk of bias due to issues related to the blinding of participants and personnel. Our main outcomes of interest were: (i) clinically important response to treatment; (ii) clinically important change in cognitive functioning; (iii) leaving the study early; (iv) clinically important change in general mental state; (v) clinically important change in general functioning; (vi) number hospitalised; and (vii) death. No trial reported data on death.\nThe included trials reported useable data for four comparisons: ECT plus standard care compared with sham-ECT added to standard care; ECT plus standard care compared with antipsychotic added to standard care; ECT plus standard care compared with standard care; and ECT alone compared with antipsychotic alone.\nFor the comparison ECT plus standard care versus sham-ECT plus standard care, only average endpoint BPRS (Brief Psychiatric Rating Scale) scores from one study were available for mental state; no clear difference between groups was observed (short term; MD 3.60, 95% CI -3.69 to 10.89; participants = 25; studies = 1; very low-quality evidence ). One study reported data for service use, measured as number readmitted; there was a clear difference favouring the ECT group (short term; RR 0.29, 95% CI 0.10 to 0.85; participants = 25; studies = 1; low-quality evidence).\nWhen ECT plus standard care was compared with antipsychotics (clozapine) plus standard care, data from one study showed no clear difference for clinically important response to treatment (medium term; RR 1.23, 95% CI 0.95 to 1.58; participants = 162; studies = 1; low-quality evidence ). Clinically important change in mental state data were not available, but average endpoint BPRS scores were reported. A positive effect for the ECT group was found (short-term BPRS; MD -5.20, 95% CI -7.93 to -2.47; participants = 162; studies = 1; very low-quality evidence).\nWhen ECT plus standard care was compared with standard care, more participants in the ECT group had a clinically important response (medium term; RR 2.06, 95% CI 1.75 to 2.42; participants = 819; studies = 9; moderate-quality evidence ). Data on clinically important change in cognitive functioning were not available, but data for memory deterioration were reported. Results showed that adding ECT to standard care may increase the risk of memory deterioration (short term; RR 27.00, 95% CI 1.67 to 437.68; participants = 72; studies = 1; very low-quality evidence ). There were no clear differences between groups in satisfaction and acceptability of treatment, measured as leaving the study early (medium term; RR 1.18, 95% CI 0.38 to 3.63; participants = 354; studies = 3; very low-quality evidence ). Only average endpoint scale scores were available for mental state (BPRS) and general functioning (Global Assessment of Functioning). There were clear differences in scores, favouring ECT group for mental state (medium term; MD -11.18, 95% CI -12.61 to -9.76; participants = 345; studies = 2; low-quality evidence ) and general functioning (medium term; MD 10.66, 95% CI 6.98 to 14.34; participants = 97; studies = 2; very low-quality evidence).\nFor the comparison ECT alone versus antipsychotics (flupenthixol) alone, only average endpoint scale scores were available for mental state and general functioning. Mental state scores were similar between groups (medium-term BPRS; MD -0.93, 95% CI -6.95 to 5.09; participants = 30; studies = 1; very low-quality evidence ); general functioning scores were also similar between groups (medium-term Global Assessment of Functioning; MD -0.66, 95% CI -3.60 to 2.28; participants = 30; studies = 1; very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-quality evidence indicates that relative to standard care, ECT has a positive effect on medium-term clinical response for people with treatment-resistant schizophrenia. However, there is no clear and convincing advantage or disadvantage for adding ECT to standard care for other outcomes. The available evidence was also too weak to indicate whether adding ECT to standard care is superior or inferior to adding sham-ECT or other antipsychotics to standard care, and there was insufficient evidence to support or refute the use of ECT alone. More good-quality evidence is needed before firm conclusions can be made."
+    }
+  ],
+  "pls_title": "Electroconvulsive therapy for treatment-resistant schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is electroconvulsive therapy (ECT) a safe and effective treatment for people with schizophrenia who have not responded to their previous treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "Electroconvulsive therapy involves the induction of a seizure by the administration of an electrical stimulus via electrodes usually placed bilaterally on the scalp. Electroconvulsive therapy was once widely used as a treatment for people with schizophrenia, but its use in now reduced due to the development of antipsychotic medications and concerns regarding possible long-term adverse effects of ECT."
+    },
+    {
+      "heading": "Methods and results",
+      "text": "Searches for randomised clinical trials (a type of study in which participants are assigned to one of two or more treatment groups using a random method) were conducted in 2015 and updated in 2017. We included 15 studies involving 1285 people with treatment-resistant schizophrenia. The age range of participants was 18 to 46 years. One study compared adding ECT to standard care with adding sham-ECT (non-active ECT); one study compared adding ECT to standard care with adding additional antipsychotic to standard care; and 12 studies compared adding ECT to standard care with standard care. One study compared ECT as the sole treatment with antipsychotics as the sole treatment.\nOur main outcomes of interest were clinically important response to treatment, cognitive functioning, leaving the study early, mental state, general functioning, number hospitalised, and death. None of the included studies reported data for death. The quality of the evidence for each main outcome was mostly very low or low, with the quality of the evidence rated as moderate for only one outcome. This was mostly due to issues with the way the studies were conducted (e.g. participants were not blinded to treatment) and small sample sizes.\nFor the comparison of adding ECT to standard care versus standard care, moderate-quality evidence indicates that adding ECT to standard care may have some beneficial effect on clinical response to treatment. Very low-quality evidence indicates that adding ECT to standard care may increase the risk of short-term memory problems and could have a positive effect on Global Assessment of Functioning scores. Low-quality evidence indicates that adding ECT to standard care may have a positive effect on Brief Psychiatric Rating Scale scores.\nThe evidence for the other comparisons was also of low or very low quality, and overall no clear differences between the treatment groups were found."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We found moderate-quality evidence that adding ECT to standard care has a positive effect on clinical response when compared with standard care. The currently available evidence was too weak to clearly demonstrate that adding ECT to standard treatment is associated with benefits or harm for our other outcomes. There is also a lack of evidence on the effects and safety of adding ECT to standard care compared with sham-ECT or additional antipsychotics and inadequate evidence regarding the use of ECT alone."
+    }
+  ]
+}

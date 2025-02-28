@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD005188.pub4",
+  "name": "Interventions to increase influenza vaccination rates of those 60 years and older in the community ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The effectiveness of interventions to increase influenza vaccination uptake in people aged 60 years and older varies by country and participant characteristics. This review updates versions published in 2010 and 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess access, provider, system, and societal interventions to increase the uptake of influenza vaccination in people aged 60 years and older in the community."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, which includes the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE, Embase, CINAHL, and ERIC for this update, as well as WHO ICTRP and ClinicalTrials.gov for ongoing studies to 7 December 2017. We also searched reference lists of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and cluster-RCTs of interventions to increase influenza vaccination in people aged 60 years or older in the community."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as specified by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 3 new RCTs for this update (total 61 RCTs; 1,055,337 participants). Trials involved people aged 60 years and older living in the community in high-income countries. Heterogeneity limited some meta-analyses. We assessed studies as at low risk of bias for randomisation (38%), allocation concealment (11%), blinding (44%), and selective reporting (100%). Half (51%) had missing data. We assessed the evidence as low-quality. We identified three levels of intervention intensity: low (e.g. postcards), medium (e.g. personalised phone calls), and high (e.g. home visits, facilitators).\nIncreasing community demand (12 strategies, 41 trials, 53 study arms, 767,460 participants)\nOne successful intervention that could be meta-analysed was client reminders or recalls by letter plus leaflet or postcard compared to reminder (odds ratio (OR) 1.11, 95% confidence interval (CI) 1.07 to 1.15; 3 studies; 64,200 participants). Successful interventions tested by single studies were patient outreach by retired teachers (OR 3.33, 95% CI 1.79 to 6.22); invitations by clinic receptionists (OR 2.72, 95% CI 1.55 to 4.76); nurses or pharmacists educating and nurses vaccinating patients (OR 152.95, 95% CI 9.39 to 2490.67); medical students counselling patients (OR 1.62, 95% CI 1.11 to 2.35); and multiple recall questionnaires (OR 1.13, 95% CI 1.03 to 1.24).\nSome interventions could not be meta-analysed due to significant heterogeneity: 17 studies tested simple reminders (the 95% CI was entirely above unity in 11 trials implying all 11 interventions increased vaccination rates); 16 tested personalised reminders (the 95% CI was entirely above unity in 12 trials implying all 12 interventions increased vaccination rates ); 2 investigated customised compared to form letters (the 95% CI was above unity in both trials implying both interventions increased vaccination rates); and 4 studies examined the impact of health risk appraisals (the 95% CI was above unity in all 4 trials implying all 4 interventions increased vaccination rates). One study of a lottery for free groceries was not effective.\nEnhancing vaccination access (6 strategies, 8 trials, 10 arms, 9353 participants)\nWe meta-analysed results from 2 studies of home visits (OR 1.30, 95% CI 1.05 to 1.61), and 2 studies that tested free vaccine compared to patient payment for vaccine (OR 2.36, 95% CI 1.98 to 2.82). We were unable to conduct meta-analyses of 2 studies of home visits by nurses plus a physician care plan (the 95% CI was entirely above unity in both trials implying both interventions increased vaccination rates) and 2 studies of free vaccine compared to no intervention (the 95% CI was entirely above unity in both trials implying both interventions increased vaccination rates). One study of group visits (OR 27.2, 95% CI 1.60 to 463.3) was effective, and 1 study of home visits compared to safety interventions was not.\nProvider- or system-based interventions (11 strategies, 15 trials, 17 arms, 278,524 participants)\nOne successful intervention that could be meta-analysed focused on payments to physicians (OR 2.22, 95% CI 1.77 to 2.77). Successful interventions tested by individual studies were: reminding physicians to vaccinate all patients (OR 2.47, 95% CI 1.53 to 3.99); posters in clinics presenting vaccination rates and encouraging competition between doctors (OR 2.03, 95% CI 1.86 to 2.22); and chart reviews and benchmarking to the rates achieved by the top 10% of physicians (OR 3.43, 95% CI 2.37 to 4.97).\nWe were unable to meta-analyse 4 studies that looked at physician reminders (the 95% CI was entirely above unity in 3 trials implying all 3 interventions increased vaccination rates) and 3 studies of facilitator encouragement of vaccination (the 95% CI was entirely above unity in 2 trials implying both interventions increased vaccination rates). Interventions that were not effective were: comparing letters on discharge from hospital to letters to general practitioners; posters plus postcards versus posters alone; educational reminders, academic detailing, and peer comparisons compared to mailed educational materials; educational outreach plus feedback to teams versus written feedback; and an intervention to increase staff vaccination rates.\nInterventions at the societal level\nNo studies reported on societal-level interventions.\nStudy funding sources\nStudies were funded by government health organisations (n = 33), foundations (n = 9), organisations that provided healthcare services in the studies (n = 3), and a pharmaceutical company offering free vaccines (n = 1). Fifteen studies did not report study funding sources."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We identified interventions that demonstrated significant positive effects of low (postcards), medium (personalised phone calls), and high (home visits, facilitators) intensity that increase community demand for vaccination, enhance access, and improve provider/system response. The overall GRADE assessment of the evidence was moderate quality. Conclusions are unchanged from the 2014 review."
+    }
+  ],
+  "pls_title": "Interventions to increase influenza vaccination rates of those 60 years and older living in the community",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does increasing demand, vaccination access, and provider activity increase influenza vaccination rates in people aged 60 years and older living in the community?"
+    },
+    {
+      "heading": "Background",
+      "text": "Vaccination rates vary across countries and socioeconomic and health risk groups."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 7 December 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included three new trials (15,993 participants) for this update; the review now includes a total of 61 trials with 1,055,337 participants. All participants were aged 60 years or older, living in the community."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Government health organisations funded 33 studies; foundations funded 9 studies; organisations that provided healthcare services in the studies funded 3 studies; and a pharmaceutical company offering free vaccines funded 1 study. Fifteen studies did not report any funding source."
+    },
+    {
+      "heading": "Key results",
+      "text": "Increasing community demand for vaccination (12 strategies, 41 trials, 767,460 participants)\nEffective interventions consisted of reminders/recalls using letters and leaflets, and nurses or pharmacists educating and nurses vaccinating patients. Individual effective studies consisted of client outreach by retired teachers, receptionists, nurses, and medical students.\nIt was not possible to combine some interventions for analysis as they were too varied: 17 studies of simple reminders (11 with significant results); 16 studies of personalised reminders (12 with significant results); two studies of customised letters versus form letters (both with significant results); and four studies of health risk appraisals plus vaccination recommendations (all with significant results).\nImproving vaccination access (6 strategies, 8 trials, 9353 participants)\nEffective interventions consisted of home visits, client group clinic visits, and free vaccine offers.\nImproving provision by providers or the healthcare system (11 strategies, 15 trials, 278,524 participants)\nEffective interventions that could be combined for analysis included physician payment, physician reminders, clinic posters encouraging physician competition, and chart reviews plus benchmarking to rates of the top 10% of physicians. We could not analyse some groups of interventions: physician reminders (four studies, two of which were effective) and facilitator vaccination encouragement (three studies, two of which were effective).\nIndividual studies that were not effective consisted of posters plus postcards versus posters alone, educational reminders to physicians compared to mailed educational materials, educational outreach plus feedback to teams versus written feedback, and increasing staff vaccination rates.\nNo studies measured if interventions reduced illness or hospital admissions or reported societal-level interventions."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, we assessed the included studies as at moderate risk of bias. The overall GRADE assessment of the evidence was high to moderate quality."
+    }
+  ]
+}

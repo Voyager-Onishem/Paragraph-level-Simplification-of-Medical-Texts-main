@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006501.pub2",
+  "name": "Immunoglobulin prophylaxis in hematological malignancies and hematopoietic stem cell transplantation ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Patients undergoing hematopoietic stem cell transplantation (HSCT) and those with lymphoproliferative disorders (LPD) have a higher incidence of infections due to secondary hypogammaglobulinemia. One approach is the prophylactic administration of intravenous immunoglobulins (IVIG). Randomized controlled trials (RCTs) showed conflicting results in terms of type, schedule, dose and hematological patients benefiting from IVIG. We therefore performed a systematic review and meta-analysis to evaluate the role of IVIG in these patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether prophylaxis with IVIG reduces mortality or affects other outcomes in patients with hematological malignancies."
+    },
+    {
+      "heading": "Search methods",
+      "text": "PubMed (January 1966 to December 2007), CENTRAL (The Cochrane Library, up to 2007, issue 1), LILACS and conference proceedings published between 2002-2007 were searched. The terms \"immunoglobulins\" or \"gammaglobulins\" or specific gammaglobulins and similar and the terms \"hematologic neoplasms\" or \"hematologic malignancies\" or \"transplant\" or \"autotransplant\" or \"allotransplant\" or \"bone marrow transplant\" or \"peripheral stem cell transplant\" and similar were selected. References of all included trials and reviews identified were scanned for additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All RCTs comparing prophylaxis of IVIG with placebo, no treatment or another immunoglobulin preparation, different administration schedules or doses for patients with hematological malignancies were included. One author screened all abstracts identified through the search strategy and two reviewers independently inspected each reference identified by the search and applied inclusion criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For each trial, results were expressed as relative risks (RR) with 95% confidence intervals (CI) for dichotomous data and weighted mean differences for continuous data. We conducted meta-analysis, where enough similar trials were available, using the fixed- effects model, unless significant heterogeneity was present. We performed sensitivity analyses to assess the effect of individual methodological quality measures on effect estimates, including allocation generation, concealment and blinding."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty trials were included: thirty included HSCT patients and ten included patients LPD. When polyvalent immunoglobulins or hyperimmune cytomegalovirus (CMV)-IVIG was compared to control for HSCT, there was no difference in all-cause mortality. Polyvalent immunoglobulins significantly reduced the risk for interstitial pneumonitis but increased the risk for veno-occlusive disease and adverse events. In LPD, no benefit in terms of mortality IVIG could be demonstrated but there was a decrease in clinically and microbiologically documented infections."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In patients undergoing HSCT, routine prophylaxis with IVIG is not supported. Its use may be considered in LPD patients with hypogammaglobulinemia and recurrent infections, for reduction of clinically documented infections."
+    }
+  ],
+  "pls_title": "The role of prophylactic immunoglobulins in hematological malignancies",
+  "pls_type": "long",
+  "pls": "Patients with hematological malignancies are prone to infections due to defects in their immune system. One of the main defects is a reduction in the level of immunoglobulins. For many years, the notion was that administration of pooled immunoglobulins from healthy donors might reverse this defect. However, randomized controlled trials showed different results in terms of prolongation of survival, reduction of infections and side effects of treatments. We conducted a systematic review assessing the role of administration of immunoglobulins from healthy donors as prophylaxis in patients with hematological malignancies. Our review showed that in the context of bone marrow transplantation the administration of immunoglobulins did not have an effect on survival or other outcomes. On the other hand, in patients with lymphoproliferative disorders like chronic lymphocytic leukemia or multiple myeloma, it reduced substantially the rate of infections. Despite their high cost, prophylactic immunoglobulins might prove cost-effective in this population."
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009153.pub3",
+  "name": "Antiretroviral therapy for prevention of HIV transmission in HIV‐discordant couples",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antiretroviral drugs have been shown to reduce risk of mother-to-child transmission of human immunodeficiency virus (HIV) and are also widely used for post-exposure prophylaxis for parenteral and sexual exposures. Sexual transmission may be lower in couples in which one partner is infected with HIV and the other is not and the infected partner is on antiretroviral therapy (ART)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if ART use in an HIV-infected member of an HIV-discordant couple is associated with lower risk of HIV transmission to the uninfected partner compared to untreated discordant couples."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard Cochrane methods to search electronic databases and conference proceedings with relevant search terms without limits to language."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCT), cohort studies and case-control studies of HIV-discordant couples in which the HIV-infected member of the couple was being treated or not treated with ART"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Abstracts of all trials identified by electronic or bibliographic scanning were examined independently by two authors. We initially identified 3,833 references and examined 87 in detail for study eligibility. Data were abstracted independently using a standardised abstraction form."
+    },
+    {
+      "heading": "Main results",
+      "text": "One RCT and nine observational studies were included in the review. These ten studies identified 2,112 episodes of HIV transmission, 1,016 among treated couples and 1,096 among untreated couples. The rate ratio for the single randomised controlled trial was 0.04 [95% CI 0.00, 0.27]. All index partners in this study had CD4 cell counts at baseline of 350-550 cells/µL. Similarly, the summary rate ratio for the nine observational studies was 0.58 [95% CI 0.35, 0.96], with substantial heterogeneity (I2=64%). After excluding two studies with inadequate person-time data, we estimated a summary rate ratio of 0.36 [95% CI 0.17, 0.75] with substantial heterogeneity (I2=62%). We also performed subgroup analyses among the observational studies to see if the effect of ART on prevention of HIV differed by the index partner's CD4 cell count. Among couples in which the infected partner had ≥350 CD4 cells/µL, we estimated a rate ratio of 0.12 [95% CI 0.01, 1.99]. In this subgroup, there were 247 transmissions in untreated couples and 30 in treated couples."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "ART is a potent intervention for prevention of HIV in discordant couples in which the index partner has ≤550 CD4 cells/µL. A recent multicentre RCT confirms the suspected benefit seen in earlier observational studies and reported in more recent ones. Questions remain about durability of protection, the balance of benefits and adverse events associated with earlier therapy, long-term adherence and transmission of ART-resistant strains to partners. Resource limitations and implementation challenges must also be addressed.\nCounselling, support, and follow up, as well as mutual disclosure, may have a role in supporting adherence, so programmes should be designed with these components. In addition to ART provision, the operational aspects of delivering such programmes must be considered."
+    }
+  ],
+  "pls_title": "Antiretroviral therapy for prevention of HIV transmission in HIV-discordant couples",
+  "pls_type": "long",
+  "pls": "Antiretroviral drugs can prevent transmission of HIV from an infected sexual partner to an uninfected one, by suppressing viral replication. We found one randomised controlled trial and nine observational studies that examined this question. Overall we found that in couples in which the infected partner was being treated with antiretroviral drugs the uninfected partners had, at worst, more than 40% lower risk of being infected than in couples where the infected partner was not receiving treatment. Since the World Health Organization (WHO) already recommends antiretroviral treatment for all persons with ≤350 CD4 cells/µL, we also examined studies that had studied couples in which the infected partners had CD4 counts higher than this level. We found that there is strong evidence from the randomised controlled trial that in this group HIV was less likely to be transmitted to uninfected partners from treated infected partners than from untreated infected partners."
+}

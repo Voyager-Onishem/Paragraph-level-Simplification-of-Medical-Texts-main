@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003336.pub4",
+  "name": "Anticoagulation versus placebo for heart failure in sinus rhythm",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with chronic heart failure (HF) are at risk of thromboembolic events, including stroke, pulmonary embolism, and peripheral arterial embolism; coronary ischaemic events also contribute to the progression of HF. The use of long-term oral anticoagulation is established in certain populations, including people with HF and atrial fibrillation (AF), but there is wide variation in the indications and use of oral anticoagulation in the broader HF population."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether long-term oral anticoagulation reduces total deaths and stroke in people with heart failure in sinus rhythm."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated the searches in CENTRAL, MEDLINE, and Embase in March 2020. We screened reference lists of papers and abstracts from national and international cardiovascular meetings to identify unpublished studies. We contacted relevant authors to obtain further data. We did not apply any language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCT) comparing oral anticoagulants with placebo or no treatment in adults with HF, with treatment duration of at least one month. We made inclusion decisions in duplicate, and resolved any disagreements between review authors by discussion, or a third party."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion, and assessed the risks and benefits of antithrombotic therapy by calculating odds ratio (OR), accompanied by the 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified three RCTs (5498 participants). One RCT compared warfarin, aspirin, and no antithrombotic therapy, the second compared warfarin with placebo in participants with idiopathic dilated cardiomyopathy, and the third compared rivaroxaban with placebo in participants with HF and coronary artery disease.\nWe pooled data from the studies that compared warfarin with a placebo or no treatment. We are uncertain if there is an effect on all-cause death (OR 0.66, 95% CI 0.36 to 1.18; 2 studies, 324 participants; low-certainty evidence); warfarin may increase the risk of major bleeding events (OR 5.98, 95% CI 1.71 to 20.93; number needed to treat for an additional harmful outcome (NNTH) 17; 2 studies, 324 participants; low-certainty evidence). None of the studies reported stroke as an individual outcome.\nRivaroxaban makes little to no difference to all-cause death compared with placebo (OR 0.99, 95% CI 0.87 to 1.13; 1 study, 5022 participants; high-certainty evidence). Rivaroxaban probably reduces the risk of stroke compared to placebo (OR 0.67, 95% CI 0.47 to 0.95; number needed to treat for an additional beneficial outcome (NNTB) 101; 1 study, 5022 participants; moderate-certainty evidence), and probably increases the risk of major bleeding events (OR 1.65, 95% CI 1.17 to 2.33; NNTH 79; 1 study, 5008 participants; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the three RCTs, there is no evidence that oral anticoagulant therapy modifies mortality in people with HF in sinus rhythm. The evidence is uncertain if warfarin has any effect on all-cause death compared to placebo or no treatment, but it may increase the risk of major bleeding events. There is no evidence of a difference in the effect of rivaroxaban on all-cause death compared to placebo. It probably reduces the risk of stroke, but probably increases the risk of major bleedings.\nThe available evidence does not support the routine use of anticoagulation in people with HF who remain in sinus rhythm."
+    }
+  ],
+  "pls_title": "What is the evidence for the benefit and harms of anticoagulants for heart failure?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "When the heart’s ability to pump blood is reduced, it is called heart failure (HF). When this happens, some people will develop severe clotting problems (called thromboembolism) in the lungs, legs, and brain. This happens because the blood is flowing more slowly, inflammation is increasing, and there is an overproduction of clotting molecules. These clots can cause stroke, lung or leg damage, or even death."
+    },
+    {
+      "heading": "Why is the question important?",
+      "text": "There are strong blood-thinning medications, called anticoagulants, which are successfully used in people with different clotting problems, such as those with HF who also have irregular heart beats (an arrhythmia called atrial fibrillation). At present, there are no data to recommend the use of anticoagulants to avoid clotting problems in people with HF who have regular heart beats (know as sinus rhythm). In this analysis, we assessed studies that tested anticoagulants in these people to avoid death, death from heart problems, and other severe clotting problems."
+    },
+    {
+      "heading": "How did we identify and evaluate the evidence?",
+      "text": "We searched electronic databases of studies (CENTRAL, MEDLINE, and Embase). We looked for randomised studies (like tossing a coin) that compared anticoagulant tablets with no treatment or a placebo (tablet with no drug inside) in people with HF who were in sinus rhythm."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found three randomised trials, with 5498 participants, which we used for analysis."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Based on the three randomised trials, we are uncertain about the risk of dying between people who took warfarin and those who did not. However, people who took warfarin may have been more likely to have episodes of major bleeding. The evidence suggested that there was no difference in the risk of dying for people who took rivaroxaban compared with those who did not. Rivaroxaban probably reduced the risk of stroke, but the risk of episodes of major bleeding was higher than in those who did not take rivaroxaban.\nOur analysis does not support the routine use of anticoagulation in people with HF who remain in sinus rhythm."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The literature is current to March 2020."
+    }
+  ]
+}

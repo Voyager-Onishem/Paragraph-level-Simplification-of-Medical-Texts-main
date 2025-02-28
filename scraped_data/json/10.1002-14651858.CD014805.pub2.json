@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014805.pub2",
+  "name": "Platinum‐based chemotherapy for early triple‐negative breast cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Triple-negative breast cancer (TNBC) is an aggressive subtype of breast cancer associated with shorter survival and a higher likelihood of the cancer returning. In early TNBC, platinum-based chemotherapy has been shown to improve pathological complete response (pCR); however, its effect on long-term survival outcomes has not been fully elucidated and recommendations to include platinum chemotherapy are not consistent in international guidelines."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of platinum-based chemotherapy as adjuvant and neoadjuvant treatment in people with early triple-negative breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 4 April 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials examining neoadjuvant or adjuvant platinum chemotherapy for early TNBC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were disease-free survival (DFS) and overall survival (OS). Our secondary outcomes were pCR, treatment adherence, grade III or IV toxicity related to chemotherapy, and quality of life. Prespecified subgroups included BRCA mutation status, homologous recombination deficiency (HRD) status, frequency of chemotherapy, type of platinum agent used, and the presence or absence of anthracycline chemotherapy. We assessed risk of bias using Cochrane's RoB 1 tool and certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 3972 records, we included 20 published studies involving 21 treatment comparisons, and 25 ongoing studies. For most domains, risk of bias was low across studies. There were 16 neoadjuvant chemotherapy studies (one of which combined neoadjuvant and adjuvant therapy) and four adjuvant chemotherapy trials. Most studies used carboplatin (17 studies) followed by cisplatin (two), and lobaplatin (one). Eight studies had an anthracycline-free intervention arm, five of which had a carboplatin-taxane intervention compared to an anthracycline-taxane control.\nAll studies reporting DFS and OS used carboplatin. Inclusion of platinum chemotherapy improved DFS in neoadjuvant and adjuvant settings (neoadjuvant: hazard ratio (HR) 0.63, 95% confidence interval (CI) 0.53 to 0.75; 7 studies, 8 treatment comparisons, 1966 participants; high-certainty evidence; adjuvant: HR 0.69, 95% CI 0.54 to 0.88; 4 studies, 1256 participants; high-certainty evidence). Platinum chemotherapy in the regimen improved OS (neoadjuvant: HR 0.69, 95% CI 0.55 to 0.86; 7 studies, 8 treatment comparisons, 1973 participants; high-certainty evidence; adjuvant: 0.70, 95% CI 0.50 to 0.96; 4 studies, 1256 participants; high-certainty evidence). Median follow-up for survival outcomes ranged from 36 to 97.6 months.\nOur analysis confirmed platinum chemotherapy increased pCR rates (risk ratio (RR) 1.44, 95% CI 1.31 to 1.59; 15 studies, 16 treatment comparisons, 3083 participants; high-certainty evidence). Subgroup analyses showed no evidence of differences in DFS according to BRCA mutation status, HRD status, lymph node status, or whether the intervention arm contained anthracycline chemotherapy or not.\nPlatinum chemotherapy was associated with reduced dose intensity, with participants more likely to require chemotherapy delays (RR 2.23, 95% CI 1.70 to 2.94; 4 studies, 5 treatment comparisons, 1053 participants; moderate-certainty evidence), dose reductions (RR 1.77, 95% CI 1.56 to 2.02; 7 studies, 8 treatment comparisons, 2055 participants; moderate-certainty evidence) and early cessation of treatment (RR 1.20, 95% CI 1.04 to 1.38; 16 studies, 17 treatment comparisons, 4178 participants; moderate-certainty evidence). Increased haematological toxicity occurred in the platinum group who were more likely to experience grade III/IV neutropenia (RR 1.53, 95% CI 1.43 to 1.63; 19 studies, 20 treatment comparisons, 4849 participants; moderate-certainty evidence), anaemia (RR 8.20, 95% CI 5.66 to 11.89; 18 studies, 19 treatment comparisons, 4757 participants; moderate-certainty evidence) and thrombocytopenia (RR 7.59, 95% CI 5.10 to 11.29; 18 studies, 19 treatment comparisons, 4731 participants; moderate-certainty evidence). There was no evidence of a difference between chemotherapy groups in febrile neutropenia (RR 1.16, 95% CI 0.89 to 1.49; 11 studies, 3771 participants; moderate-certainty evidence). Renal impairment was very rare (0.4%, 2 events in 463 participants; note 3 studies reported 0 events in both arms; 4 studies; high-certainty evidence). Treatment-related death was very rare (0.2%, 7 events in 3176 participants and similar across treatment groups; RR 0.58, 95% 0.14 to 2.33; 10 studies, 11 treatment comparisons; note 8 studies reported treatment-related deaths but recorded 0 events in both groups. Thus, the RR and CIs were calculated from 3 studies rather than 11; 3176 participants; high-certainty evidence). Five studies collected quality of life data but did not report them."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Platinum-based chemotherapy using carboplatin in the adjuvant or neoadjuvant setting improves long-term outcomes of DFS and OS in early TNBC, with no evidence of differences by subgroup. This was at the cost of more frequent chemotherapy delays and dose reductions, and greater haematological toxicity, though serious adverse events including neuropathy, febrile neutropenia or treatment-related death were not increased.\nThese findings support the use of platinum-based chemotherapy for people with early TNBC. The optimal dose and regimen are not defined by this analysis, but there is a suggestion that similar relative benefits result from the addition of carboplatin to either anthracycline-free regimens or those containing anthracycline agents."
+    }
+  ],
+  "pls_title": "Platinum-containing chemotherapy for women before or after surgery for early triple-negative breast cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Chemotherapy including the platinum-based medicine carboplatin improves survival and reduces the chance of cancer returning for people with early triple negative breast cancer.\nHowever, it is also associated with increased side effects."
+    },
+    {
+      "heading": "What is triple-negative breast cancer?",
+      "text": "Triple-negative breast cancer makes up 15% of breast cancer cases. It is a type of breast cancer that does not have any of the three receptors commonly found on breast cancer cells – the oestrogen, progesterone and HER2 receptors. Early breast cancer is defined as cancer limited to the breast and lymph nodes in the armpit, and it can usually be cured."
+    },
+    {
+      "heading": "How is early triple-negative breast cancer treated?",
+      "text": "Treatments for early triple-negative breast cancer include:\n– surgery to remove the cancer from the breast and lymph nodes;\n– radiotherapy to the breast and lymph nodes, used to prevent the cancer from coming back in these areas;\n– chemotherapy, used to prevent the cancer from coming back anywhere in the body. This can be given before surgery (called 'neoadjuvant') or after surgery (called 'adjuvant')."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "There are many types of chemotherapy used in triple-negative breast cancer. We wanted to find out if a specific class of chemotherapy called 'platinum-based chemotherapy' increases:\n– the length of time people stayed alive without cancer recurrence after diagnosis (disease-free survival);\n– the total length of life after diagnosis (overall survival);\n– the likelihood that the cancer had disappeared in the removed breast and lymph node tissue when chemotherapy was given before surgery (pathological complete response).\nWe also wanted to find out if platinum-based chemotherapy was associated with more unwanted outcomes like chemotherapy delays, dose reductions or side effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies looking at chemotherapy for early triple-negative breast cancer that compared regimens containing platinum chemotherapy to regimens without platinum chemotherapy.\nWe compared and summarised the results of the studies, and rated our confidence in the evidence based on factors such as study methods and size."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 20 studies that involved 4688 people with early triple-negative breast cancer, with average follow-up in studies ranging from three to eight years.\nPlatinum chemotherapy was associated with longer disease-free survival and overall survival, and reduced the chance of disease recurrence and death by about one third. These benefits were seen with chemotherapy used before surgery (neoadjuvant) or after surgery (adjuvant). When used before surgery, it also improved the likelihood of a pathological complete response.\nWe did not find that any particular subgroup, such as people with a high-risk gene mutation, had more benefit from platinum chemotherapy.\nHowever, people receiving platinum chemotherapy were more likely to need the dose of their chemotherapy to be reduced, or to have a delay in their chemotherapy. They were also more likely to stop chemotherapy early.\nPlatinum chemotherapy also caused more serious side effects including low blood cell counts. It was not associated with an increase in having fevers associated with low white blood cell counts (febrile neutropenia), nerve damage symptoms (neuropathy) or death caused by treatment."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The evidence was generally of high quality and included enough data to make judgements to answer our main questions.\nHowever, there were many types of chemotherapy used across studies. Although we have shown that platinum chemotherapy improves long-term outcomes, we do not know what the best chemotherapy combination is.\nNone of the studies reported quality of life, which we had initially set out to measure and record."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This evidence is up-to-date to April 2022."
+    }
+  ]
+}

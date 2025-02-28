@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010636.pub2",
+  "name": "Leukotriene inhibitors for bronchiolitis in infants and young children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bronchiolitis is an acute inflammatory illness of the bronchioles common among infants and young children. It is often caused by the respiratory syncytial virus (RSV). Management of bronchiolitis varies between clinicians, reflecting the lack of evidence for a specific treatment approach. The leukotriene pathway has been reported to be involved in the pathogenesis of bronchiolitis. Leukotriene inhibitors such as montelukast have been used in infants and young children with bronchiolitis. However, the results from limited randomised controlled trials (RCTs) are controversial and necessitate a thorough evaluation of their efficacy for bronchiolitis in infants and young children."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of leukotriene inhibitors for bronchiolitis in infants and young children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2014, Issue 5), MEDLINE (1946 to April week 4, 2014), EMBASE (1974 to May 2014), CINAHL (1981 to May 2014), LILACS (1982 to May 2014), Web of Science (1985 to May 2014), WHO ICTRP and ClinicalTrials.gov (6 May 2014)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs comparing leukotriene inhibitors versus placebo or another intervention in infants and young children under two years of age diagnosed with bronchiolitis. Our primary outcomes were length of hospital stay and all-cause mortality. Secondary outcomes included clinical severity score, percentage of symptom-free days, percentage of children requiring ventilation, oxygen saturation, recurrent wheezing, respiratory rate and clinical adverse effects."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane Collaboration methodological practices. Two authors independently assessed trial eligibility and extracted data, such as general information, participant characteristics, interventions and outcomes. We assessed risk of bias and graded the quality of the evidence. We used Review Manager software to pool results and chose random-effects models for meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five studies with a total of 1296 participants under two years of age hospitalised with bronchiolitis. Two studies with low risk of bias compared 4 mg montelukast (a leukotriene inhibitor) daily use from admission until discharge with a matching placebo. Both selected length of hospital stay as a primary outcome and clinical severity score as a secondary outcome. However, the effects of leukotriene inhibitors on length of hospital stay and clinical severity score were uncertain due to considerable heterogeneity between the study results and wide confidence intervals around the estimated effects (hospital stay: mean difference (MD) -0.95 days, 95% confidence interval (CI) -3.08 to 1.19, P value = 0.38, low quality evidence; clinical severity score on day two: MD -0.57, 95% CI -2.37 to 1.23, P value = 0.53, low quality evidence; clinical severity score on day three: MD 0.17, 95% CI -1.93 to 2.28, P value = 0.87, low quality evidence). The other three studies compared montelukast for several weeks for preventing post-bronchiolitis symptoms with placebo. We assessed one study as low risk of bias, whereas we assessed the other two studies as having a high risk of attrition bias. Due to the significant clinical heterogeneity in severity of disease, duration of treatment, outcome measurements and timing of assessment, we did not pool the results. Individual analyses of these studies did not show significant differences between the leukotriene inhibitors group and the control group in symptom-free days and incidence of recurrent wheezing. One study of 952 children reported two deaths in the leukotriene inhibitors group: neither was determined to be drug-related. No data were available on the percentage of children requiring ventilation, oxygen saturation and respiratory rate. Finally, three studies reported adverse events including diarrhoea, wheezing shortly after administration and rash. No differences were reported between the study groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The current evidence does not allow definitive conclusions to be made about the effects of leukotriene inhibitors on length of hospital stay and clinical severity score in infants and young children with bronchiolitis. The quality of the evidence was low due to inconsistency (unexplained high levels of statistical heterogeneity) and imprecision arising from small sample sizes and wide confidence intervals, which did not rule out a null effect or harm. Data on symptom-free days and incidence of recurrent wheezing were from single studies only. Further large studies are required. We identified one registered ongoing study, which may make a contribution in the updates of this review."
+    }
+  ],
+  "pls_title": "Leukotriene inhibitors for bronchiolitis in infants and young children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence regarding the effect of leukotriene inhibitors on clinical outcomes in infants and young children with bronchiolitis."
+    },
+    {
+      "heading": "Background",
+      "text": "One of the most common respiratory illnesses experienced by infants is bronchiolitis, an inflammation of the small airways in the lungs. Bronchiolitis can be caused by viruses such as the respiratory syncytial virus or influenza. Symptoms include rhinitis, wheezing, coughing and sneezing. It is associated with considerable morbidity and can result in hospitalisation. Leukotriene inhibitors are supposed to reduce airway inflammation, which means that they could help to reduce airway inflammation associated with bronchiolitis. We reviewed the evidence from randomised trials to see whether using leukotriene inhibitors is better than placebo in children under two years of age with bronchiolitis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This evidence is current to May 2014. We identified five randomised controlled trials (1296 participants under two years of age) comparing montelukast (a leukotriene inhibitor) with placebo in infants and young children hospitalised with bronchiolitis."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our primary outcomes were length of hospital stay and all-cause mortality. Secondary outcomes included clinical severity score, percentage of symptom-free days, percentage of children requiring ventilation, recurrent wheezing, oxygen saturation, respiratory rate and clinical adverse effects.\nThe effects of montelukast on length of hospital stay and clinical severity score were uncertain due to considerable heterogeneity (differences) between the study results and wide confidence intervals around the estimated effects. Data on symptom-free days and incidence of recurrent wheezing were from single studies only and individual analyses of these studies did not show significant differences between the intervention group and the control group. One study of 952 children reported two deaths in the leukotriene inhibitors group: neither was determined to be drug-related. No data were available on the percentage of children requiring ventilation, oxygen saturation and respiratory rate. Finally, three studies reported adverse events including diarrhoea, wheezing shortly after administration and rash. No differences were reported between the study groups."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We assessed the quality of the evidence for length of hospital stay and clinical severity score as low due to inconsistency and imprecision arising from small sample sizes and wide confidence intervals, which did not rule out no effect or harm. Overall, the current evidence does not allow definitive conclusions to be made about the effect and safety of leukotriene inhibitors in infants and young children with bronchiolitis."
+    }
+  ]
+}

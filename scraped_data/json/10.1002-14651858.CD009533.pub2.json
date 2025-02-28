@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD009533.pub2",
+  "name": "Psychological interventions for psychosis in adolescents",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Psychosis is an illness characterised by alterations in thoughts and perceptions resulting in delusions and hallucinations. Psychosis is rare in adolescents but can have serious consequences. Antipsychotic medications are the mainstay treatment, and have been shown to be effective. However, there is emerging evidence on psychological interventions such as cognitive remediation therapy, psycho-education, family therapy and group psychotherapy that may be useful for adolescents with psychosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of various psychological interventions for adolescents with psychosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's study-based Register of Trials including clinical trials registries (latest, 8 March 2019)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials comparing various psychological interventions with treatment-as-usual or other psychological treatments for adolescents with psychosis. For analyses, we included trials meeting our inclusion criteria and reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently and reliably screened studies and we assessed risk of bias of the included studies. For dichotomous data, we calculated risk ratios (RRs) and 95% confidence intervals (CIs) on an intention-to-treat basis. For continuous data, we used mean differences (MDs) and the 95% CIs. We used a random-effects model for analyses. We created a ‘Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The current review includes 7 studies (n = 319) assessing a heterogenous group of psychological interventions with variable risk of bias. Adverse events were not reported by any of the studies. None of the studies was sponsored by industry. Below, we summarise the main results from four of six comparisons, and the certainty of these results (based on GRADE). All scale scores are average endpoint scores.\nCognitive Remediation Therapy (CRT) + Treatment-as-Usual (TAU) versus TAU\nTwo studies compared adding CRT to participants' TAU with TAU alone. Global state (CGAS, high = good) was reported by one study. There was no clear difference between treatment groups (MD -4.90, 95% CI -11.05 to 1.25; participants = 50; studies = 1, very low-certainty). Mental state (PANSS, high = poor) was reported by one study. Scores were clearly lower in the TAU group (MD 8.30, 95% CI 0.46 to 16.14; participants = 50; studies = 1; very low-certainty). Clearly more participants in the CRT group showed improvement in cognitive functioning (Memory digit span test) compared to numbers showing improvement in the TAU group (1 study, n = 31, RR 0.58, 95% CI 0.37 to 0.89; very low-certainty). For global functioning (VABS, high = good), our analysis of reported scores showed no clear difference between treatment groups (MD 5.90, 95% CI -3.03 to 14.83; participants = 50; studies = 1; very low-certainty). The number of participants leaving the study early from each group was similar (RR 0.93, 95% CI 0.32 to 2.71; participants = 91; studies = 2; low-certainty).\nGroup Psychosocial Therapy (GPT) + TAU versus TAU\nOne study assessed the effects of adding GPT to participants' usual medication. Global state scores (CGAS, high = good) were clearly higher in the GPT group (MD 5.10, 95% CI 1.35 to 8.85; participants = 56; studies = 1; very low-certainty) but there was little or no clear difference between groups for mental state scores (PANSS, high = poor, MD -4.10, 95% CI -8.28 to 0.08; participants = 56; studies = 1, very low-certainty) and no clear difference between groups for numbers of participants leaving the study early (RR 0.43, 95% CI 0.15 to 1.28; participants = 56; studies = 1; very low-certainty).\nCognitive Remediation Programme (CRP) + Psychoeducational Treatment Programme (PTP) versus PTP\nOne study assessed the effects of combining two types psychological interventions (CRP + PTP) with PTP alone. Global state scores (GAS, high = good) were not clearly different (MD 1.60, 95% CI -6.48 to 9.68; participants = 25; studies = 1; very low-certainty), as were mental state scores (BPRS total, high = poor, MD -5.40, 95% CI -16.42 to 5.62; participants = 24; studies = 1; very low-certainty), and cognitive functioning scores (SPAN-12, high = good, MD 2.40, 95% CI -2.67 to 7.47; participants = 25; studies = 1; very low-certainty).\nPsychoeducational (PE) + Multifamily Treatment (MFT) Versus Nonstructured Group Therapy ( NSGT, all long-term)\nOne study compared (PE + MFT) with NSGT. Analysis of reported global state scores (CGAS, high = good, MD 3.38, 95% CI -4.87 to 11.63; participants = 49; studies = 1; very low-certainty) and mental state scores (PANSS total, high = poor, MD -8.23, 95% CI -17.51 to 1.05; participants = 49; studies = 1; very low-certainty) showed no clear differences. The number of participants needing hospital admission (RR 0.84, 95% CI 0.36 to 1.96; participants = 49; studies = 1) and the number of participants leaving the study early from each group were also similar (RR 0.52, 95% CI 0.10 to 2.60; participants = 55; studies = 1; low-certainty)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Most of our estimates of effect for our main outcomes are equivocal. An effect is suggested for only four outcomes in the SOF tables presented. Compared to TAU, CRT may have a positive effect on cognitive functioning, however the same study reports data suggesting TAU may have positive effect on mental state. Another study comparing GPT with TAU reports data suggesting GPT may have a positive effect on global state. However, the estimate of effects for all the main outcomes in our review should be viewed with considerable caution as they are based on data from a small number of studies with variable risk of bias. Further data could change these results and larger and better quality studies are needed before any firm conclusions regarding the effects of psychological interventions for adolescents with psychosis can be made."
+    }
+  ],
+  "pls_title": "Psychological interventions for psychosis in adolescents",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review questions",
+      "text": "Are psychological interventions effective and safe for adolescents with psychosis? Are there any differences in effect between different psychological interventions?"
+    },
+    {
+      "heading": "Background",
+      "text": "Psychosis is a mental illnesses characterised by alterations in thoughts and perceptions as delusions (false beliefs), hallucinations (seeing or hearing things that others do not see or hear) and can happen during adolescence. When this happens, the young person needs to see a mental health professional who will often prescribe medications. However, along with medications, adolescents with psychosis are likely to benefit from age-appropriate psychological treatments (talking treatments) such as cognitive remediation therapy, psychoeducation, family therapy and group psychotherapy. These interventions can address social and psychological needs such as integration with peers and deal with the stigma and exclusion. We have reviewed the effects of these interventions for young people with psychosis using data from randomised controlled trials."
+    },
+    {
+      "heading": "Searching",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched their trials register in May 2016 and March 2019 for trials that randomly allocated adolescents with psychosis to various treatment groups. The treatment groups could include either psychological interventions (with or without their usual treatment), medications alone, treatment-as-usual or other psychological interventions (with or without usual treatment).Trials foundThis review includes only seven trials conducted in various parts of the world. The trials compared a variety of different psychological interventions with treatment-as-usual or with other types of psychological interventions, and they reported different outcome measures, making it difficult for us to compare one study with another. We were interested in the effect these treatments have on seven main outcomes: global state, mental state, adverse effects, cognitive functioning, global functioning, service use, and leaving the study early. None of the included studies reported adverse effect data."
+    },
+    {
+      "heading": "Results",
+      "text": ""
+    },
+    {
+      "heading": "Absolute effect of psychological interventions (PIs, comparing PIs with treatment-as-usual (TAU))",
+      "text": "Our analyses of reported data suggests that cognitive remediation therapy may help improve short term memory (a cognitive function) but treatment-as-usual may be better than CRT for improving mental state. Group therapy may be also be useful for improving global state. All other analyses for the main outcomes showed PIs had little or no effect compared to TAU."
+    },
+    {
+      "heading": "Relative effects of PIs (comparing one type of PI with another type of PI)",
+      "text": "Our analyses showed no real differences between the different types of PIs."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Some psychological interventions may have beneficial effects for selected outcomes but, overall, most results suggest little or no effect. However, all our results were based on data from a very small number of studies with small numbers of participants. We also have concerns with the methods used in these studies. Thus, there is considerable uncertainty about the reliability of these findings. We cannot make firm conclusions based on this evidence. Relevant well-conducted randomised controlled trials are needed."
+    }
+  ]
+}

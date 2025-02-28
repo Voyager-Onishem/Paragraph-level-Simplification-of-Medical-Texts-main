@@ -1,0 +1,6 @@
+2025-02-28 13:24:34,805 - INFO - Script started
+2025-02-28 13:24:34,805 - INFO - Starting main processing function
+2025-02-28 13:24:34,805 - INFO - Starting data processing from file: scraped_data/data.json
+2025-02-28 13:24:34,941 - ERROR - Failed to load data from scraped_data/data.json: 'charmap' codec can't decode byte 0x90 in position 7056781: character maps to <undefined>
+2025-02-28 13:24:34,941 - INFO - Processing complete
+2025-02-28 13:24:34,941 - INFO - Script finished

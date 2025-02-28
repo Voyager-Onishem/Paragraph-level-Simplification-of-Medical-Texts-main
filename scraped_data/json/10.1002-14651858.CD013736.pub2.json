@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013736.pub2",
+  "name": "Cuffed versus uncuffed endotracheal tubes for neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Endotracheal intubation is a commonly performed procedure in neonates, the risks of which are well-described. Some endotracheal tubes (ETT) are equipped with a cuff that can be inflated after insertion of the ETT in the airway to limit leak or aspiration. Cuffed ETTs have been shown in larger children and adults to reduce gas leak around the ETT, ETT exchange, accidental extubation, and exposure of healthcare workers to anesthetic gas during surgery. With improved understanding of neonatal airway anatomy and the widespread use of cuffed ETTs by anesthesiologists, the use of cuffed tubes is increasing in neonates."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of cuffed ETTs (inflated or non-inflated) compared to uncuffed ETTs for respiratory support in neonates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, PubMed, and CINAHL on 20 August 2021; we also searched trial registers and checked reference lists to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), quasi-RCTs, and cluster-randomized trials comparing cuffed (inflated and non-inflated) versus uncuffed ETTs in newborns. We sought to compare 1. inflated, cuffed versus uncuffed ETT; 2. non-inflated, cuffed versus uncuffed ETT; and 3. inflated, cuffed versus non-inflated, cuffed ETT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methods of Cochrane Neonatal. Two review authors independently assessed studies identified by the search strategy for inclusion, extracted data, and assessed risk of bias. We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified one eligible RCT for inclusion that compared the use of cuffed (inflated if ETT leak greater than 20% with cuff pressure 20 cm H2O or less) versus uncuffed ETT. The author provided a spreadsheet with individual data. Among 76 infants in the original manuscript, 69 met the inclusion and exclusion criteria for this Cochrane Review. We found possible bias due to lack of blinding and other bias.\nWe are very uncertain about frequency of postextubation stridor, because the confidence intervals (CI) of the risk ratio (RR) were very wide (RR 1.36, 95% CI 0.35 to 5.25; risk difference (RD) 0.03, −0.11 to 0.18; 1 study, 69 participants; very low-certainty evidence).\nNo neonate was diagnosed with postextubation subglottic stenosis; however, endoscopy was not available to confirm the clinical diagnosis.\nWe are very uncertain about reintubation for stridor or subglottic stenosis because the CIs of the RR were very wide (RR 0.27, 95% CI 0.01 to 6.49; RD −0.03, 95% CI −0.11 to 0.05; 1 study, 69 participants; very low-certainty evidence).\nNo neonate had surgical intervention (e.g. endoscopic balloon dilation, cricoid split, tracheostomy) for stridor or subglottic stenosis (1 study, 69 participants).\nNeonates randomized to cuffed ETT may be less likely to have a reintubation for any reason (RR 0.06, 95% CI 0.01 to 0.45; RD −0.39, 95% CI −0.57 to −0.21; number needed to treat for an additional beneficial outcome 3, 95% CI 2 to 5; 1 study, 69 participants; very low-certainty evidence).\nWe are very uncertain about accidental extubation because the CIs of the RR were wide (RR 0.82, 95% CI 0.12 to 5.46; RD −0.01, 95% CI −0.12 to 0.10; 1 study, 69 participants; very low-certainty evidence).\nWe are very uncertain about all-cause mortality during initial hospitalization because the CIs of the RR were extremely wide (RR 2.46, 95% CI 0.10 to 58.39; RD 0.03, 95% CI −0.05 to 0.10; 1 study, 69 participants; very low-certainty evidence).\nThere is one ongoing trial. We classified two studies as awaiting classification because outcome data were not reported separately for newborns and older infants."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence for comparing cuffed versus uncuffed ETTs in neonates is limited by a small number of babies in a single RCT with possible bias. There is very low certainty evidence for all outcomes of this review. CIs of the estimate for postextubation stridor were wide. No neonate had clinical evidence for subglottic stenosis; however, endoscopy results were not available to assess the anatomy.\nAdditional RCTs are necessary to evaluate the benefits and harms of cuffed ETTs (inflated and non-inflated) in the neonatal population. These studies must include neonates and be conducted both for short-term use (in the setting of the operating room) and chronic use (in the setting of chronic lung disease) of cuffed ETTs."
+    }
+  ],
+  "pls_title": "Cuffed versus uncuffed endotracheal tubes for neonates",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "newborn babies rarely need a tube placed in the windpipe; however, this may occur before a procedure or to help with breathing. The tube may or may not have a cuff. The standard of care in newborn babies is a tube without a cuff. Cuffed tubes are used more frequently in older babies and children to reduce leaks of gas around the tube, the risk of aspiration (breathing food, saliva, or stomach contents into the airways or lungs), the need to change the tube, or the tube coming out."
+    },
+    {
+      "heading": "Review question",
+      "text": "in this review, we evaluated the evidence for or against using a cuffed tube in newborn babies."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "we collected and analyzed all relevant studies to answer the review question and found one study enrolling 76 babies, of whom 69 met eligibility for this review. This review is up-to-date as of 20 August 2021."
+    },
+    {
+      "heading": "Key results",
+      "text": "there is not enough evidence for or against tubes with a cuff to prevent airway problems. Newborn babies who have a tube with a cuff may require less frequent replacement of the tube for any reason and less frequent replacement of the tube to find the correct size than babies who had a tube without a cuff."
+    },
+    {
+      "heading": "Reliability of the evidence",
+      "text": "we judged the reliability of the evidence to be very low. This is because only a few babies were in a single trial and there was possible bias. There is one ongoing trial. We classified two studies as awaiting classification because outcome data were not reported separately for newborns and older infants."
+    }
+  ]
+}

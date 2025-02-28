@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.MR000011.pub3",
+  "name": "Time to publication for results of clinical trials",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Researchers conducting trials have a responsibility to publish the results of their work in a peer-reviewed journal, and failure to do so may introduce bias that affects the accuracy of available evidence. Moreover, failure to publish results constitutes research waste."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically review research reports that followed clinical trials from their inception and their investigated publication rates and time to publication. We also aimed to assess whether certain factors influenced publication and time to publication."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified studies by searching MEDLINE, Embase, Epistemonikos, the Cochrane Methodology Register (CMR) and the database of the US Agency for Healthcare Research and Quality (AHRQ), from inception to 23 August 2023. We also checked reference lists of relevant studies and contacted experts in the field for any additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were eligible if they tracked the publication of a cohort of clinical trials and contained analyses of any aspect of the publication rate or time to publication of these trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors performed data extraction independently. We extracted data on the prevalence of publication and the time from the trial start date or completion date to publication. We also extracted data from the clinical trials included in the research reports, including country of the study's first author, area of health care, means by which the publication status of these trials were sought and the risk of bias in the trials."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 204 research reports tracking 165,135 trials met the inclusion criteria. Just over half (53%) of these trials were published in full. The median time to publication was approximately 4.8 years from the enrolment of the first trial participant and 2.1 years from the trial completion date.\nTrials with positive results (i.e. statistically significant results favouring the experimental arm) were more likely to be published than those with negative or null results (OR 2.69, 95% CI 2.02 to 3.60; 19 studies), and they were published in a shorter time (adjusted HR 1.92, 95% CI 1.51 to 2.45; 4 studies). On average, trials with positive results took 2 years to publish, whereas trials with negative or null results took 2.6 years.\nLarge trials were more likely to be published than smaller ones (adjusted OR 1.92, 95% CI 1.33 to 2.77; 11 studies), and they were published in a shorter time (adjusted HR 1.41, 95% CI 1.18 to 1.68; 7 studies). Multicentre trials were more likely to be published than single-centre trials (adjusted OR 1.20, 95% CI 1.03 to 1.40; 2 studies). We found no difference between multicentre and single-centre trials in time to publication.\nTrials funded by non-industry sources (e.g.governments or universities) were more likely to be published than trials funded by industry (e.g. pharmaceutical companies or for-profit organisations) (adjusted OR 2.13, 95% CI 1.82 to 2.49; 14 studies); they were also published in a shorter time (adjusted HR 1.46, 95% CI 1.15 to 1.86; 7 studies)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our updated review shows that trial publication is poor, with only half of all trials that are conducted being published. Factors that may make publication more likely and lead to faster publication are positive results, large sample size and being funded by non-industry sources. Differences in publication rates result in publication bias and time-lag bias that may influence findings and therefore ultimately affect treatment decisions. Systematic review authors should consider the possibility of time-lag bias when conducting a systematic review, especially when updating their review."
+    },
+    {
+      "heading": "Funding",
+      "text": "This Cochrane review had no dedicated funding."
+    },
+    {
+      "heading": "Registration",
+      "text": "This review combines and updates two earlier Cochrane reviews. The two protocols and previous versions of the two updated reviews are available via\n10.1002/14651858.MR000006 and 10.1002/14651858.MR000006.pub3 and 10.1002/14651858.MR000011 and 10.1002/14651858.MR000011.pub2."
+    }
+  ],
+  "pls_title": "How long do clinical trials take to publish their results?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What questions does this review address?",
+      "text": "How many of the clinical trials (studies) carried out to examine health interventions are published in journals, and how long does it take for these trials to be published? Are publication rates and the time taken to publication influenced by the nature of trial results, the number of participants and study centres, or the funding source for the trial?"
+    },
+    {
+      "heading": "Key messages",
+      "text": "Nearly half (47%) of all clinical trials remain unpublished.   Whether a trial is published and how long it takes is influenced by whether there are positive results, how large the trial is and if it is single- or multi-centred, and which type of organisation has funded the trial.\nNearly half (47%) of all clinical trials remain unpublished.\nWhether a trial is published and how long it takes is influenced by whether there are positive results, how large the trial is and if it is single- or multi-centred, and which type of organisation has funded the trial."
+    },
+    {
+      "heading": "What are publication and publication bias?",
+      "text": "There are several steps in the publication of clinical trial results. The process begins with a clinical trial being carried out, then a summary document (manuscript) is written that contains the aims, methods and results of the trial. The manuscript is sent to a journal editor, then checked and commented on by the editor and colleagues, and by peer reviewers who are experts on the topic of the manuscript but were not involved in the trial. If they assess the manuscript as correct and suitable, it will be made available in an online or printed journal to be read by people with an interest in the findings. Sometimes, a subscription must be paid to access the manuscript, but often it will be 'open access', which means it is freely available. If the decision whether to publish a trial's results is influenced by the nature of those results, i.e. whether they are favourable to the intervention, this is referred to as 'publication bias'.\nPublication bias is a problem because it means that the information available to people making important health-related decisions for themselves, their relatives or their patients is not complete and may even be misleading. For example, if negative results have not been published, there is a danger that the decision-makers may not be aware of possible harms linked to the intervention.\nPublication bias in trials can be compounded in systematic reviews, which collect all the evidence on a topic. This is a concern as systematic reviews are heavily depended upon to make healthcare decisions and policies. Systematic reviews combine the results of multiple trials, allowing people to make decisions based on all available data, but if some trials cannot be included as they have not been published, the evidence is incomplete and may well be inaccurate."
+    },
+    {
+      "heading": "How can we avoid publication bias?",
+      "text": "The results of all clinical trials should be published, and the decision to publish should not be determined by the nature of the results or any other factors."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out how many trials are being published. We also wanted to find out whether publication and the time taken to publish are influenced by the nature of the results, the size of the trial and the type of organisation responsible for providing the money to run the trial."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched multiple health-related databases to find studies that examined the publication rate or the time to publication of results of clinical trials. We compared and summarised the results of the studies and rated our confidence in the evidence based on the study methods."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 204 studies, published between 1992 and 2023, which included 165,135 trials.\nThe studies showed that just over half (53%) of all trials had published their results in a journal. The studies also showed that trials were more likely to be published if their results were positive, they were large (involving a lot of people), there were carried out in multiple places ('sites') and they were funded by a non-commercial organisation. The time taken to publish was shorter for trials with positive results or a large sample size or if they were funded by a non-commercial organisation.\nThis evidence has important implications for when we should conduct systematic reviews and the best time to update them, especially if systematic reviews do not make efforts to include unpublished evidence. It is of particular concern for reviews containing only a small number of studies."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The studies we included in this review varied in their methods, the type of trials they examined and their quality. In the review, we acknowledge and discuss these issues, and we provide separate analyses for trials of different types and quality."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is based on searches carried out in August 2023."
+    }
+  ]
+}

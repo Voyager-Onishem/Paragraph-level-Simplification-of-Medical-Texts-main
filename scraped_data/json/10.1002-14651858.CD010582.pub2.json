@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010582.pub2",
+  "name": "Nasogastric versus nasojejunal tube feeding for severe acute pancreatitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Nutrition is an important aspect of management in severe acute pancreatitis. Enteral nutrition has advantages over parenteral nutrition and is the preferred method of feeding. Enteral feeding via nasojejunal tube is often recommended, but its benefits over nasogastric feeding are unclear. The placement of a nasogastric tube is technically simpler than the placement of a nasojejunal tube."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the mortality, morbidity, and nutritional status outcomes of people with severe acute pancreatitis fed via nasogastric tube versus nasojejunal tube."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and LILACS on 17 October 2019 without using any language restrictions. We also searched reference lists and conference proceedings for relevant studies and clinical trial registries for ongoing trials. We contacted authors for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs comparing enteral feeding by nasogastric and nasojejunal tubes in participants with severe acute pancreatitis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened studies for inclusion, assessed risk of bias of the included studies, and extracted data. This information was independently verified by the other review authors. We used standard methods expected by Cochrane to assess the risk of bias and perform data synthesis. We rated the certainty of evidence according to GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five RCTs that randomised a total of 220 adult participants from India, Scotland, and the USA. Two of the trial reports were available only as abstracts. The trials differed in the criteria used to rate the severity of acute pancreatitis, and three trials excluded those who presented in severe shock. The duration of onset of symptoms before presentation in the trials ranged from within one week to four weeks. The trials also differed in the methods used to confirm the placement of the tubes and in what was considered to be nasojejunal placement. We assessed none of the trials as at high risk of bias, though reporting of methods in four trials was insufficient to judge the risk of bias for one or more of the domains assessed.\nThere was no evdence of effect with nasogastric or nasojejunal placement on the primary outcome of mortality (risk ratio (RR) 0.65, 95% confidence interval (CI) 0.36 to 1.17; I2 = 0%; 5 trials, 220 participants; very low-certainty evidence due to indirectness and imprecision). Similarly, there was no evidence of effect on the secondary outcomes for which data were available. These included organ failure (3 trials, 145 participants), rate of infection (2 trials, 108 participants), success rate (3 trials, 159 participants), complications associated with the procedure (2 trials, 80 participants), need for surgical intervention (3 trials, 145 participants), requirement of parenteral nutrition (2 trials, 80 participants), complications associated with feeds (4 trials, 195 participants), and exacerbation of pain (4 trials, 195 participants). However, the certainty of the evidence for these secondary outcomes was also very low due to indirectness and imprecision. Three trials (117 participants) reported on length of hospital stay, but the data were not suitable for meta-analysis. None of the trials reported data suitable for meta-analysis for the other secondary outcomes of this review, which included days taken to achieve full nutrition requirement, duration of tube feeding, and duration of analgesic requirement after feeding tube placement."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to conclude that there is superiority, inferiority, or equivalence between the nasogastric and nasojejunal mode of enteral tube feeding in people with severe acute pancreatitis."
+    }
+  ],
+  "pls_title": "Nasogastric tubes versus nasojejunal tube for feeding people with severe acute pancreatitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to assess whether there are differences in safety and effectiveness when people with severe acute inflammation of the pancreas (pancreatitis) are fed liquid nutrients during the acute illness with a nasal tube inserted into the stomach (nasogastric tube) versus into the upper part of the small bowel (nasojejunal tube)."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute pancreatitis is an inflammatory condition that can be caused by many factors, of which excessive alcohol intake and gallstones are the most common. Most people with the condition suffer mild attacks and recover uneventfully, usually within a week. During this period, oral feeding is withheld till the pain settles. However, one in five people with acute pancreatitis will progress rapidly to develop a severe form of the condition that can result in infections, shock, organ failure, and even death. People with severe acute pancreatitis require nutritional support. Feeding liquid nutrients via a tube into the stomach or small bowel is preferred over intravenous feeding as it results in fewer infections, serious complications, and deaths. However, for tube feeding to be effective it must ideally be started within the first 48 hours. Feeding nutrients through nasojejunal tubes that bypass the stomach is thought to prevent stimulating pancreatic secretions, thereby providing rest to the inflamed pancreas. However, inserting nasojejunal tubes requires technical expertise and resources that could delay the starting of feeds. Nasogastric tubes are technically easier to insert than nasojejunal tubes, and their use can prevent delays in initiating feeds."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found five randomised trials (trials in which participants are assigned to one of two or more treatment groups using a random method) that included 220 adult participants with acute severe pancreatitis from India, Scotland, and the USA and that compared feeding via nasogastric versus nasojejunal tubes. The evidence is current to 17 October 2019."
+    },
+    {
+      "heading": "Key results",
+      "text": "The results showed that there was little or no difference between routes of nasal feeding for death, success of feeding, and complications of feeding. The current evidence is insufficient to suggest that there is any advantage or disadvantage with either method of tube feeding in people with severe acute pancreatitis."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The certainty of evidence was very low for all outcomes. Our confidence in the evidence was reduced due to the small numbers of people studied, which led to imprecise results, and the methods used in some of the studies for diagnosis and treatment which differed from currently accepted methods."
+    }
+  ]
+}

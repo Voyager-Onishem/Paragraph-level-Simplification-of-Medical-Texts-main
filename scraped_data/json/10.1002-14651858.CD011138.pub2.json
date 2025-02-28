@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011138.pub2",
+  "name": "Parenteral fluid regimens for improving functional outcome in people with acute stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Parenteral fluids are commonly used in people with acute stroke with poor oral fluid intake. However, the balance between benefit and harm for different fluid regimens is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether different parenteral fluid regimens lead to differences in death, or death or dependence, after stroke based on fluid type, fluid volume, duration of fluid administration, and mode of delivery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (May 2015), the Cochrane Central Register of Controlled Trials (CENTRAL), the Cochrane Database of Systematic Reviews (CDSR) and the Database of Abstracts of Reviews of Effects (DARE) (Cochrane Library 2015, Issue 5), MEDLINE (2008 to May 2015), EMBASE (2008 to May 2015), and CINAHL (1982 to May 2015). We also searched ongoing trials registers (May 2015) and reference lists, performed cited reference searches, and contacted authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials of parenteral fluid regimens in adults with ischaemic or haemorrhagic stroke within seven days of stroke onset that reported death or dependence."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One review author screened titles and abstracts. We obtained the full-text articles of relevant studies, and two review authors independently selected trials for inclusion and extracted data. We used Cochrane's tool for bias assessment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 12 studies (2351 participants: range 27 to 841).\nCharacteristics: The 12 included studies compared hypertonic (colloids) with isotonic fluids (crystalloids); of these, five studies (1420 participants) also compared 0.9% saline with another fluid. No data were available to make other comparisons. Delay from stroke to recruitment varied from less than 24 hours to 72 hours. Duration of fluid delivery was between two hours and 10 days.\nBias assessment: Investigators and participants in eight of the 12 included studies were blind to treatment allocation, seven of the 12 included studies gave details of randomisation, and eight of the 12 included studies reported all outcomes measured.\nResults: There were no relevant completed trials that addressed the effect of volume, duration, or mode of fluid delivery on death or dependence in people with stroke.\nThe odds of death or dependence were similar in participants allocated to colloids or crystalloid fluid regimens (odds ratio (OR) 0.97, 95% confidence interval (CI) 0.79 to 1.21, five studies, I² = 58%, low-quality evidence), and between 0.9% saline or other fluid regimens (OR 1.04, 95% CI 0.82 to 1.32, three studies, I² = 71%, low-quality evidence). There was substantial heterogeneity in these estimates.\nThe odds of death were similar between colloids and crystalloids (OR 1.02, 95% CI 0.82 to 1.27, 12 studies, I² = 24%, moderate-quality evidence), and 0.9% saline and other fluids (OR 0.87, 95% CI 0.67 to 1.12, five studies, I² = 53%, low-quality evidence). The odds of pulmonary oedema were higher in participants allocated to colloids (OR 2.34, 95% CI 1.28 to 4.29, I² = 0%). Although the studies observed a higher risk of cerebral oedema (OR 0.20, 95% CI 0.02 to 1.74) and pneumonia (OR 0.58, 95% CI 0.17 to 2.01) with crystalloids, we could not exclude clinically important benefits or harms."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence that colloids were associated with lower odds of death or dependence in the medium term after stroke compared with crystalloids, though colloids were associated with greater odds of pulmonary oedema. We found no evidence to guide the best volume, duration, or mode of parenteral fluid delivery for people with acute stroke."
+    }
+  ],
+  "pls_title": "Fluids for people with stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the best fluid type, fluid volume, mode of fluid delivery, and duration of fluid treatment to reduce the risk of death or dependence in people with acute stroke?"
+    },
+    {
+      "heading": "Background",
+      "text": "Fluids given into a vein (intravenous, or iv) or under the skin (subcutaneous) are commonly used in people with stroke, but there are no clear guidelines on the best fluid management in such cases. There are a number of possible different types of fluid that can be used: isotonic fluids, or crystalloids are solutions that contain similar amounts of dissolved salts as in normal cells and blood, whilst hypertonic fluids, or colloids usually contain more (or larger) dissolved particles than in normal cells and blood. Fluid can also be given in different volumes, or for different durations. Hence, we searched the available literature to find answers to these questions."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to May 2015. We found 12 relevant studies (with 2351 participants) comparing colloids with crystalloids. Eleven of these studies included people with ischaemic stroke (stroke sustained due to a clot), whilst one study included people with haemorrhagic stroke (stroke due to a bleed). Five of these studies (1420 participants) also made a comparison between 0.9% saline, the most commonly prescribed iv fluid, and another fluid type. The largest study had 841 participants, whilst the smallest had 27 participants. The length of time that fluids were given varied between trials, from two hours to 10 days.\nTen studies revealed a source of funding. Of these, two studies were funded by fluid manufacturers."
+    },
+    {
+      "heading": "Key results",
+      "text": "We did not find any studies that examined the best fluid volume, mode of fluid delivery, or duration of fluid treatment.\nWe found that people with acute stroke given crystalloids (including 0.9% saline) had about the same risk of death or dependence as people given other fluid types. People given crystalloids also had a lower risk of pulmonary oedema, a complication that can lead to breathlessness due to excess collection of watery fluid in the lungs. From the evidence we obtained, it was difficult to make any concrete conclusions about which fluids were better for reducing brain swelling (cerebral oedema) or a serious lung infection (pneumonia).\nWe found no evidence to guide the best volume, duration, or mode of parenteral fluid delivery for people with acute stroke."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The majority of studies had a low to moderate risk of bias based on study limitations and inconsistency. Most studies reported the outcomes they stated they would."
+    }
+  ]
+}

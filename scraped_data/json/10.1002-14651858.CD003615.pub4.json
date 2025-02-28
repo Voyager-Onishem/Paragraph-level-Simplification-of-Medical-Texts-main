@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD003615.pub4",
+  "name": "Oxcarbazepine versus phenytoin monotherapy for epilepsy: an individual participant data review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the Cochrane Review previously published in 2013. This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons.\nEpilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment, up to 70% of individuals with active epilepsy have the potential to become seizure-free and go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.\nWorldwide, phenytoin is a commonly used antiepileptic drug. It is important to know how newer drugs, such as oxcarbazepine, compare with commonly used standard treatments."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the time to treatment failure, remission and first seizure with oxcarbazepine compared to phenytoin, when used as monotherapy in people with focal onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases on 20 August 2018: the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946 to 20 August 2018), ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We handsearched relevant journals and contacted pharmaceutical companies, original trial investigators and experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing monotherapy with either oxcarbazepine or phenytoin in children or adults with focal onset seizures or generalised onset tonic-clonic seizures."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post-randomisation, time to six-month and 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "Individual participant data were available for 480 out of a total of 517 participants (93%), from two out of three included trials. For remission outcomes, a HR of less than one indicated an advantage for phenytoin; and for first seizure and treatment failure outcomes, a HR of less than one indicated an advantage for oxcarbazepine.\nThe results for time to treatment failure for any reason related to treatment showed a potential advantage of oxcarbazepine over phenytoin, but this was not statistically significant (pooled HR adjusted for epilepsy type: 0.78 95% CI 0.53 to 1.14, 476 participants, two trials, moderate-quality evidence). Our analysis showed that treatment failure due to adverse events occurred later on with oxcarbazepine than phenytoin (pooled HR for all participants: 0.22 (95% CI 0.10 to 0.51, 480 participants, two trials, high-quality evidence). Our analysis of time to treatment failure due to lack of efficacy showed no clear difference between the drugs (pooled HR for all participants: 1.17 (95% CI 0.31 to 4.35), 480 participants, two trials, moderate-quality evidence).\nWe found no clear or statistically significant differences between drugs for any of the secondary outcomes of the review: time to first seizure post-randomisation (pooled HR adjusted for epilepsy type: 0.97 95% CI 0.75 to 1.26, 468 participants, two trials, moderate-quality evidence); time to 12-month remission (pooled HR adjusted for epilepsy type 1.04 95% CI 0.77 to 1.41, 468 participants, two trials, moderate-quality evidence) and time to six-month remission (pooled HR adjusted for epilepsy type: 1.06 95% CI 0.82 to 1.36, 468 participants, two trials, moderate-quality evidence).\nThe most common adverse events reported in more than 10% of participants on either drug were somnolence (28% of total participants, with similar rates for both drugs), headache (15% of total participants, with similar rates for both drugs), dizziness (14.5% of total participants, reported by slightly more participants on phenytoin (18%) than oxcarbazepine (11%)) and gum hyperplasia (reported by substantially more participants on phenytoin (18%) than oxcarbazepine (2%)).\nThe results of this review are applicable mainly to individuals with focal onset seizures; 70% of included individuals experienced seizures of this type at baseline. The two studies included in IPD meta-analysis were generally of good methodological quality but the design of the studies may have biased the results for the secondary outcomes (time to first seizure post-randomisation, time to six-month and 12-month remission) as seizure recurrence data were not collected following treatment failure or withdrawal from the study. In addition, misclassification of epilepsy type may have impacted on results, particularly for individuals with generalised onset seizures."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "High-quality evidence provided by this review indicates that treatment failure due to adverse events occurs significantly later with oxcarbazepine than phenytoin. For individuals with focal onset seizures, moderate-quality evidence suggests that oxcarbazepine may be superior to phenytoin in terms of treatment failure for any reason, seizure recurrence and seizure remission. Therefore, oxcarbazepine may be a preferable alternative treatment than phenytoin, particularly for individuals with focal onset seizures. The evidence in this review which relates to individuals with generalised onset seizures is of low quality and does not inform current treatment policy.\nWe recommend that future trials should be designed to the highest quality possible with regards to choice of population, classification of seizure type, duration of follow-up (including continued follow-up after failure or withdrawal of randomised treatment), choice of outcomes and analysis, and presentation of results."
+    }
+  ],
+  "pls_title": "Oxcarbazepine versus phenytoin monotherapy (single medication treatment) for epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This is an updated version of the Cochrane Review first published in Issue 2, 2006 of the Cochrane Database of Systematic Reviews."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common disorder in which abnormal electrical discharges from the brain cause recurrent seizures. We studied two types of epileptic seizures in this review: generalised onset seizures, in which electrical discharges begin in one part of the brain and move throughout the brain; and focal onset seizures, in which the seizure is generated in and affects one part of the brain (the whole hemisphere of the brain or part of a lobe of the brain). Focal seizures may become generalised (secondary generalisation) and move from one part of the brain throughout the brain. For around 70% of people with epilepsy, a single antiepileptic medication can control generalised onset or focal onset seizures."
+    },
+    {
+      "heading": "Objective",
+      "text": "Worldwide, phenytoin is a commonly used antiepileptic medication and oxcarbazepine is one of a newer generation of antiepileptic medications. The aim of this review was to compare how effective these medications are at controlling seizures, to find out if they are associated with side effects that may result in individuals stopping the medication, and to help people choose between these medications."
+    },
+    {
+      "heading": "Methods",
+      "text": "We assessed the evidence from three studies (specifically, randomised controlled trials) comparing oxcarbazepine with phenytoin. We were able to combine information for 480 people from two of the three trials. For the remaining 37 people from one trial, information was not available to use in this review. The evidence is current to 20 August 2018."
+    },
+    {
+      "heading": "Results",
+      "text": "The review found that people taking oxcarbazepine stop taking treatment because of side effects significantly later than people taking phenytoin. Our results also showed that people with focal onset seizures taking phenytoin may stop taking treatment for any reason earlier than people with focal onset seizures taking oxcarbazepine. The results also suggest that people with focal onset seizures taking oxcarbazepine may experience a repeat seizure later, and achieve freedom from seizures earlier, than people with focal onset seizures taking phenytoin. There was no clear difference between the drugs in terms of withdrawal from the treatment, seizure recurrence and seizure remission for individuals with generalised onset seizures."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The two studies included in analysis were well designed but no information about seizures was recorded after people stopped taking their trial medication, which may have impacted on the results of the study.\nMost people (70%) included in the studies within this review had focal onset seizures, so the results are mainly relevant to people with this epilepsy type. Also up to 30% of the people in the trials used in our results may have been wrongly classified as having generalised seizures, which may have impacted on the results.\nFor these reasons, we judged the quality of the evidence provided by this review to be of moderate quality for people with focal onset seizures, and low quality for people with generalised onset seizures."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "For people with focal onset seizures, oxcarbazepine may be a preferable treatment to phenytoin, but more information is needed for people with generalised onset seizures to choose between these medications. We recommend that all future trials comparing these medications, or any other antiepileptic medications, should be designed using high-quality methods. Seizure types of people included in trials should also be classified very carefully."
+    }
+  ]
+}

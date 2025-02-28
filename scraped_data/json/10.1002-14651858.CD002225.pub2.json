@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002225.pub2",
+  "name": "Concomitant chemotherapy and radiation therapy for cancer of the uterine cervix",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The National Cancer Institute (USA) alert in February 1999 stated that concomitant chemoradiotherapy should be considered for all patients with cervical cancer, based on evidence from five randomised controlled trials (RCTs)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review all known RCTs comparing concomitant chemotherapy and radiation therapy with radiotherapy for locally advanced cervical cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched electronic databases, trials registers and reference lists of published trial reports and review articles were also searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "This review includes RCTs in cervical cancer comparing concomitant chemoradiation with radiotherapy in the experimental arm. Trials allowing further adjuvant chemotherapy or hydroxyurea were included. Trials using radiosensitisers or radioprotectors in the experimental arm were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors reviewed trials for inclusion and extracted data. For meta-analyses of time-to-event outcomes (survival, progression-free survival), a hazard ratio (HR) was extracted or estimated from trial reports, where possible. Only overall rates of local and distant recurrence were presented in many reports so only odds ratios (OR) of recurrence rates could be calculated, which takes no account of time to recurrence or censoring. Few trials reported acute toxicity adequately, but where possible ORs were calculated for the main types and severities of acute toxicity. The HRs and ORs for individual trials were combined across all trials, using the fixed effect model. Late toxicity was rarely described in sufficient detail so could only be reviewed qualitatively."
+    },
+    {
+      "heading": "Main results",
+      "text": "The original review was based on nineteen trials (17 published and two unpublished) including 4580 patients. This update includes twenty four trials (21 published, 3 unpublished) and 4921 patients, although due to patient exclusion and differential reporting 61% to 75% were available for the analyses. The review strongly suggests chemoradiation improves overall survival and progression free survival, whether or not platinum was used with absolute benefits of 10% and 13% respectively. There was, however, statistical heterogeneity for these outcomes. There was some evidence that the effect was greater in trials including a high proportion of stage I and II patients. Chemoradiation also showed significant benefit for local recurrence and a suggestion of a benefit for distant recurrence. Acute haematological and gastrointestinal toxicity was significantly greater in the concomitant chemoradiation group. Late effects of treatment were not well reported and so the impact of chemoradiation on these effects could not be determined adequately. Treatment-related deaths were rare."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Concomitant chemoradiation appears to improve overall survival and progression-free survival in locally advanced cervical cancer. It also appears to reduce local and distant recurrence suggesting concomitant chemotherapy may afford radiosensitisation and systemic cytotoxic effects. Some acute toxicity is increased, but the long-term side effects are still not clear."
+    }
+  ],
+  "pls_title": "Better survival and reduced distant recurrence rate with combined chemotherapy and radiotherapy for cervical cancer",
+  "pls_type": "long",
+  "pls": "Evidence suggests giving chemotherapy and radiotherapy together improves overall survival, whether or not cisplatin was used. The effect appeared to be greater in trials including a high proportion of patients with early stage disease. Combined chemotherapy/radiotherapy also delayed tumour recurrence and reduced the risk of re-growth near the original cancer site as well as in other parts of the body. There was an increase in side-effects, principally affecting the blood and bowel, but these generally only lasted a short time. Long-term effects were poorly reported."
+}

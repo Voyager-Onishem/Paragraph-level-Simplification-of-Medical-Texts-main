@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011557.pub2",
+  "name": "Interventions for preventing thrombosis in solid organ transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Graft thrombosis is a well-recognised complication of solid organ transplantation and is one of the leading causes of graft failure. Currently there are no standardised protocols for thromboprophylaxis. Many transplant units use unfractionated heparin (UFH) and fractionated heparins (low molecular weight heparin; LMWH) as prophylaxis for thrombosis. Antiplatelet agents such as aspirin are routinely used as prophylaxis of other thrombotic conditions and may have a role in preventing graft thrombosis. However, any pharmacological thromboprophylaxis comes with the theoretical risk of increasing the risk of major blood loss following transplant. This review looks at benefits and harms of thromboprophylaxis in patients undergoing solid organ transplantation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of instituting thromboprophylaxis to patients undergoing solid organ transplantation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 10 November 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) and quasi-RCTs designed to examine interventions to prevent thrombosis in solid organ transplant recipients. All donor types were included (donor after circulatory (DCD) and brainstem death (DBD) and live transplantation). There was no upper age limit for recipients in our search."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The results of the literature search were screened and data collected by two independent authors. Dichotomous outcome results were expressed as risk ratio (RR) with 95% confidence intervals (CI). Random effects models were used for data analysis. Risk of bias was independently assessed by two authors using the risk of bias assessment tool. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified nine studies (712 participants). Seven studies (544 participants) included kidney transplant recipients, and two studies (168 participants) included liver transplant recipients. We did not identify any study enrolling heart, lung, pancreas, bowel, or any other solid organ transplant recipient. Selection bias was high or unclear in eight of the nine studies; five studies were at high risk of bias for performance and/or detection bias; while attrition and reporting biases were in general low or unclear.\nThree studies (180 participants) primarily investigated heparinisation in kidney transplantation. Only two studies reported on graft vessel thrombosis in kidney transplantation (144 participants). These small studies were at high risk of bias in several domains and reported only two graft thromboses between them; it therefore remains unclear whether heparin decreases the risk of early graft thrombosis or non-graft thrombosis (very low certainty).\nUFH may make little or no difference versus placebo to the rate of major bleeding events in kidney transplantation (3 studies, 155 participants: RR 2.92, 95% CI 0.89 to 9.56; I² = 0%; low certainty evidence). Sensitivity analysis using a fixed-effect model suggested that UFH may increase the risk of haemorrhagic events compared to placebo (RR 3.33, 95% CI 1.04 to 10.67, P = 0.04). Compared to control, any heparin (including LMWH) may make little or no difference to the number of major bleeding events (3 studies, 180 participants: RR 2.70, 95% CI 0.89 to 8.19; I² = 0%; low certainty evidence) and had an unclear effect on risk of readmission to intensive care (3 studies, 180 participants: RR 0.68, 95% CI 0.12 to 3.90, I² = 45%; very low certainty evidence). The effect of heparin on our other outcomes (including death, patient and graft survival, transfusion requirements) remains unclear (very low certainty evidence).\nThree studies (144 participants) investigated antiplatelet interventions in kidney transplantation: aspirin versus dipyridamole (1), and Lipo-PGE1 plus low-dose heparin to \"control\" in patients who had a diagnosis of acute rejection (2). None of these reported on early graft thromboses. The effect of aspirin, dipyridamole and Lipo PGE1 plus low-dose heparin on any outcomes is unclear (very low certainty evidence).\nTwo studies (168 participants) assessed interventions in liver transplants. One compared warfarin versus aspirin in patients with pre-existing portal vein thrombosis and the other investigated plasmapheresis plus anticoagulation. Both studies were abstract-only publications, had high risk of bias in several domains, and no outcomes could be meta-analysed. Overall, the effect of any of these interventions on any of our outcomes remains unclear with no evidence to guide anti-thrombotic therapy in standard liver transplant recipients (very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, there is a paucity of research in the field of graft thrombosis prevention. Due to a lack of high quality evidence, it remains unclear whether any therapy is able to reduce the rate of early graft thrombosis in any type of solid organ transplant. UFH may increase the risk of major bleeding in kidney transplant recipients, however this is based on low certainty evidence. There is no evidence from RCTs to guide anti-thrombotic strategies in liver, heart, lung, or other solid organ transplants. Further studies are required in comparing anticoagulants, antiplatelets to placebo in solid organ transplantation. These should focus on outcomes such as early graft thrombosis, major haemorrhagic complications, return to theatre, and patient/graft survival."
+    }
+  ],
+  "pls_title": "Therapies to reduce the risk of blood clots forming in transplanted organs",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "After an organ is transplanted there is a risk of blood clot forming in an artery supplying blood to the organ, or a vein which drains blood from the organ. If a blood clot forms (termed \"graft thrombosis\") this prevents blood flow, which can cause the organ to fail. There are lots of therapies which aim to lower the ability of the blood to clot (sometimes called \"blood thinners\"). It is unclear whether these therapies are able to prevent graft thrombosis, or if they increase the risk of major bleeding."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We performed a rigorous search for studies which compared different blood thinning therapies in patients receiving an organ transplant. We were especially interested in studies which reported on graft thrombosis rates, and also on complications of blood thinners, specifically the rate of major bleeding events. Data from multiple studies were combined if possible."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified nine studies (712 patients) that met our inclusion criteria; the quality of these studies was generally low. There were only two small studies which reported graft thrombosis in kidney transplants. One blood thinner called \"unfractionated heparin\" may increase the risk of bleeding following kidney transplantation, but this finding is of low certainty. The effect of blood thinners on our other outcomes (need for further surgery or readmission to intensive care, blood transfusion requirements, hospital stay, other side effects, blood clots elsewhere in the body, longevity of the transplanted organ and death) in kidney transplantation remains unclear.\nTwo studies investigated various blood thinners in two unique groups of patients who received a liver transplant. It remains unclear whether any of the blood thinning treatments they tested have any effect on graft thrombosis or major bleeding. The effect of blood thinners on other outcomes in liver transplant recipients also remains unclear.\nThere were no studies which investigated blood thinners in heart, lung, pancreas, or any other organ transplantation."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is a lack of evidence to guide the use of medications to prevent blood clots in transplanted organs. New research is needed to assess treatments to prevent blood clots, and also to investigate the risks of these treatments, such as major bleeding."
+    }
+  ]
+}

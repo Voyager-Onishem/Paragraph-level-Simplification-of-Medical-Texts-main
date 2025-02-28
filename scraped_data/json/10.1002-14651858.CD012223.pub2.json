@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012223.pub2",
+  "name": "Cyclodestructive procedures for refractory glaucoma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cyclodestructive procedures are often used in patients with refractory glaucoma who have failed to achieve lower intraocular pressure (IOP) from filtration procedures and maximal medical therapy. Destruction of the ciliary body helps to lower IOP by reducing aqueous humor formation. Of the many types of cyclodestructive procedures, laser cyclophotocoagulation (CPC) has become the most common surgical method for reducing aqueous inflow. Options for CPC are wide-ranging: they can be performed using a neodymium:yttrium-aluminum-garnet (Nd:YAG) or diode laser and laser energy can be delivered by either the contact or non-contact method. Another cyclodestructive procedure is endoscopic cyclophotocoagulation (ECP), which the ophthalmologist can use selectively to target the ciliary epithelium and ablate ciliary body tissue. There is debate regarding which cyclodestructive method is best and how they compare to other glaucoma surgeries."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the relative effectiveness and safety of cyclodestructive procedures compared with other procedures in people with refractory glaucoma of any type and to assess the relative effectiveness and safety of individual cyclodestructive procedures compared with each other."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2018, Issue 9); Ovid MEDLINE; Embase.com; PubMed; LILACS BIREME; ClinicalTrials.gov and the WHO ICTRP. The date of the search was 21 September 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials or quasi-randomized trials in which participants underwent a secondary procedure for refractory glaucoma. We included trials with any laser type, route of administration, and laser settings. The primary comparison was any cyclodestructive procedure versus another glaucoma treatment, and the secondary comparisons were individual cyclodestructive procedures versus another cyclodestructive procedure."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently reviewed the titles and abstracts from the database searches, and after retrieving the full-text reports of those that were potentially relevant, classified the full-text articles as included or excluded. Two review authors independently extracted data from the included studies and assessed the risk of bias. Discrepancies were resolved by discussion or by consultation with a third review author when necessary."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five trials reporting data for 330 eyes (326 participants). One study to had a low risk of bias for most domains and the other studies had an overall unclear risk of bias. This review includes four different comparisons: 1) ECP versus Ahmed implant, 2) micropulse CPC versus continuous-wave CPC; 3) CPC with a diode versus Nd:YAG laser; and 4) CPC with an Nd:YAG laser emitting 8J versus 4J.\nNo study reported data for our primary outcome, change from baseline in pain severity as reported by the participant or change in number of pain medications.\nFor our primary comparison, we included one trial that compared ECP with the Ahmed implant. At 12-month follow-up, the mean difference (MD) in IOPs between groups was -1.14 mmHg (95% confidence interval (CI) -4.21 to 1.93; 58 participants; low-certainty evidence (LCE)). At 24 months postintervention, we found very LCE suggesting that visual acuity may be better among participants in the ECP group than in the Ahmed implant group (MD -0.24 logMAR, 95% CI -0.52 to 0.04; 54 participants), and the difference in the mean number of glaucoma medications used by participants in each group was unclear (MD -0.50, 95% CI -1.17 to 0.17; 54 participants; very LCE). Reported adverse events in the ECP group (34 participants) were one case each of hypotony, phthisis bulbi, retinal detachment, and choroidal detachment; in the Ahmed implant group (34 participants) there was one case of endophthalmitis, two cases of retinal detachment, and six cases of choroidal detachment.\nThree types of comparisons from four included studies provided data for our secondary comparisons. In the study that compared micropulse with continuous-wave CPC, median IOP was reported to be similar between the two groups at all time points. At 18 months postintervention, the median number of IOP-lowering medications was reduced from two to one in both groups. One participant in the micropulse and two in the continuous group exhibited worsened visual acuity. One case of prolonged inflammation was seen in the micropulse group (23 participants). Seven cases of prolonged inflammation, five cases of hypotony, and one case of phthisis bulbi were seen in the continuous group (23 participants).\nTwo studies compared CPC using a semiconductor diode versus an Nd:YAG laser. At 12 months postintervention, the MD in IOP was 1.02 mmHg (95% CI -1.49 to 3.53) in one study (LCE). The second study did not report mean IOP beyond three months of follow-up. Neither study reported the mean change in best-corrected visual acuity or number of glaucoma medications. Both studies reported hypotony as an adverse event in three participants in each study.\nOne study compared different energy settings of the same Nd:YAG laser. At 12-month follow-up, visual acuity was unchanged or improved in 21 of 33 participants in the 8J group and 20 of 27 participants in the 4J group (risk ratio 0.86, 95% CI 0.61 to 1.21; very LCE). More participants in the 8J group reduced the number of medications taken compared with the 4J group (RR 1.49, 95% CI 0.76 to 2.91; 50 participants; very low-certainty evidence). The presence of fibrin or hyphema were seen in five participants who received 8J and none who received 4J. There was a severe anterior chamber reaction in 11 of 26 (42%) participants who received 8J of energy and 2 of 21 (10%) participants who received 4J of energy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence from five studies included in this review was inconclusive as to whether cyclodestructive procedures for refractory glaucoma result in better outcomes and fewer complications than other glaucoma treatments, and whether one type of cyclodestructive procedure is better than another. The most commonly reported adverse events across all five studies were hypotony and phthisis bulbi. Large, well-designed randomized controlled trials are needed. Patient-reported outcomes such as pain and quality of life should be considered as primary outcomes or important secondary outcomes of future trials."
+    }
+  ],
+  "pls_title": "Laser surgery that lowers eye pressure by destroying a part of the eye that produces fluid inside the eye for people with uncontrolled glaucoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out how laser procedures compare to other approaches for lowering the pressure in the eye for people with glaucoma that has not responded to other types of treatment. We collected and analyzed all relevant studies of cyclodestructive procedures to answer this question and found five studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "There was not enough information to compare the different surgery options to each other. We were unable to conclude which type of surgery worked the best and was the safest."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Some people who have glaucoma (damage to the optic nerve in the back of the eye) also have a buildup of pressure within the eye. This pressure may be because the eye has difficulty draining the fluid. If the ciliary body is destroyed, it can no longer produce too much fluid. Doing this may reduce the pressure within the eye and provide pain relief to people with glaucoma. There are several ways to destroy the ciliary body, which is known as cyclodestruction. Doctors can use a laser to destroy cells in the ciliary body, or they can freeze the cells. We wanted to compare these types of surgeries with more traditional surgeries for glaucoma. The laser surgery can be done in many different ways because there are different types of lasers and methods for using them. We also aimed to compare these laser surgeries with each other to see whether any method worked better than others."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "We found five studies that examined procedures to destroy the ciliary body. One compared using a laser to destroy the cells to another type of surgery that involved implanting a tube in the eye to carry away extra fluid. Four of the studies compared different types of lasers or different methods of applying the laser to the eye. We wanted to find out whether these surgeries helped reduce pain in people with glaucoma, but only two of the five studies asked participants about pain.\nTwo of the studies compared the same two types of lasers; we combined their data to help us understand the overall results. The two studies reported on the level of pressure in the eye after the surgeries. We found that both types of laser surgeries caused about the same amount of drop in pressure. We had only low confidence in these results because one of the studies had many participants lost to follow-up and did not report what had happened to them.\nWe were interested in learning how participants felt after the surgery, however none of the included studies asked participants this question. Future studies should ask this important question of participants. We also believe that future studies should ask participants about whether their pain was less after having the surgery."
+    },
+    {
+      "heading": "How up-to-date is the review?",
+      "text": "We searched for studies published up to 21 September 2018."
+    }
+  ]
+}

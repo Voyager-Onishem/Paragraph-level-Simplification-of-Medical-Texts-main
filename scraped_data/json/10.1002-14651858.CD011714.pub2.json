@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011714.pub2",
+  "name": "Home telemonitoring and remote feedback between clinic visits for asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asthma is a chronic disease that causes reversible narrowing of the airways due to bronchoconstriction, inflammation and mucus production. Asthma continues to be associated with significant avoidable morbidity and mortality. Self management facilitated by a healthcare professional is important to keep symptoms controlled and to prevent exacerbations.\nTelephone and Internet technologies can now be used by patients to measure lung function and asthma symptoms at home. Patients can then share this information electronically with their healthcare provider, who can provide feedback between clinic visits. Technology can be used in this manner to improve health outcomes and prevent the need for emergency treatment for people with asthma and other long-term health conditions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of home telemonitoring with healthcare professional feedback between clinic visits, compared with usual care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Review Group Specialised Register (CAGR) up to May 2016. We also searched www.clinicaltrials.gov, the World Health Organization (WHO) trials portal and reference lists of other reviews, and we contacted trial authors to ask for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs) of adults or children with asthma in which any form of technology was used to measure and share asthma monitoring data with a healthcare provider between clinic visits, compared with other monitoring or usual care. We excluded trials in which technologies were used for monitoring with no input from a doctor or nurse. We included studies reported as full-text articles, those published as abstracts only and unpublished data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened the search and independently extracted risk of bias and numerical data, resolving disagreements by consensus.\nWe analysed dichotomous data as odds ratios (ORs) while using study participants as the unit of analysis, and continuous data as mean differences (MDs) while using random-effects models. We rated evidence for all outcomes using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation Working Group) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 18 studies including 2268 participants: 12 in adults, 5 in children and one in individuals from both age groups. Studies generally recruited people with mild to moderate persistent asthma and followed them for between three and 12 months. People in the intervention group were given one of a variety of technologies to record and share their symptoms (text messaging, Web systems or phone calls), compared with a group of people who received usual care or a control intervention.\nEvidence from these studies did not show clearly whether asthma telemonitoring with feedback from a healthcare professional increases or decreases the odds of exacerbations that require a course of oral steroids (OR 0.93, 95% confidence Interval (CI) 0.60 to 1.44; 466 participants; four studies), a visit to the emergency department (OR 0.75, 95% CI 0.36 to 1.58; 1018 participants; eight studies) or a stay in hospital (OR 0.56, 95% CI 0.21 to 1.49; 1042 participants; 10 studies) compared with usual care. Our confidence was limited by imprecision in all three primary outcomes. Evidence quality ratings ranged from moderate to very low. None of the studies recorded serious or non-serious adverse events separately from asthma exacerbations.\nEvidence for measures of asthma control was imprecise and inconsistent, revealing possible benefit over usual care for quality of life (MD 0.23, 95% CI 0.01 to 0.45; 796 participants; six studies; I2 = 54%), but the effect was small and study results varied. Telemonitoring interventions may provide additional benefit for two measures of lung function."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence does not support the widespread implementation of telemonitoring with healthcare provider feedback between asthma clinic visits. Studies have not yet proven that additional telemonitoring strategies lead to better symptom control or reduced need for oral steroids over usual asthma care, nor have they ruled out unintended harms. Investigators noted small benefits for quality of life, but these are subject to risk of bias, as the studies were unblinded. Similarly, some benefits for lung function are uncertain owing to possible attrition bias.\nLarger pragmatic studies in children and adults could better determine the real-world benefits of these interventions for preventing exacerbations and avoiding harms; it is difficult to generalise results from this review because benefits may be explained at least in part by the increased attention participants receive by taking part in clinical trials. Qualitative studies could inform future research by focusing on patient and provider preferences, or by identifying subgroups of patients who are more likely to attain benefit from closer monitoring, such as those who have frequent asthma attacks."
+    }
+  ],
+  "pls_title": "What are the benefits and harms of using technology to monitor people with asthma from home?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Take-home message",
+      "text": "A wide range of technologies have been developed to connect people with asthma to their healthcare professionals between routine checkups. Studies that have tested these strategies have not proved that 'telemonitoring' leads to better symptom control or fewer attacks, and could not rule out the possibility that it may cause unintended harm by making people less likely to take action when it is needed. Telemonitoring may have small benefits for quality of life and lung function, but these results are very uncertain."
+    },
+    {
+      "heading": "Background",
+      "text": "Regular contact with a doctor or an asthma nurse is important to keep on top of asthma symptoms and to change inhalers if necessary. Telephone and Internet technologies are now used for lots of long-term health conditions as a way of monitoring symptoms between visits to a clinic. For asthma, lung function and other asthma symptoms can be measured at home and information sent electronically to the doctor or nurse, who can decide whether action needs to be taken before the person is due to come back to the clinic."
+    },
+    {
+      "heading": "Review question",
+      "text": "We wanted to find out whether home telemonitoring including feedback from a healthcare professional offers added benefits for people with asthma compared with their usual monitoring."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 18 studies including a total of 2268 people: 12 included adults, five included children and one included individuals from both age groups. Most people included in the studies had mild to moderate persistent asthma, and studies generally lasted between three and 12 months. People in the intervention group were given one of a variety of technologies to record and share their symptoms (text messaging, Web systems or phone calls) and were compared with a group of people who received usual care, or a control group."
+    },
+    {
+      "heading": "Main results and quality of the evidence",
+      "text": "We could not tell whether people in the telemonitoring groups had a higher or lower chance than people in the control group of having attacks that would require a course of oral steroids, a visit to the emergency department or a hospital stay. No reports described other potential harms of home telemonitoring. Studies used lots of different types of technology, and we couldn't tell whether some were better than others. Our confidence in the results ranged from moderate to very low, meaning that additional studies are likely to change some of these results and may influence how much we believe them.\nUsing technology to monitor people with asthma from home may offer benefits over usual care for overall quality of life, but the effect was small, and studies did not agree with each other. These interventions may provide benefits for lung function, but lots of people dropped out of the studies, so we couldn't be sure."
+    }
+  ]
+}

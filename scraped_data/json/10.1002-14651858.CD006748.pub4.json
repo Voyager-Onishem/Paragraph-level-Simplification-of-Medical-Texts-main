@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006748.pub4",
+  "name": "Social norms information for alcohol misuse in university and college students",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Drinking is influenced by youth perceptions of how their peers drink. These perceptions are often incorrect, overestimating peer drinking norms. If inaccurate perceptions can be corrected, young people may drink less."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether social norms interventions reduce alcohol-related negative consequences, alcohol misuse or alcohol consumption when compared with a control (ranging from assessment only/no intervention to other educational or psychosocial interventions) among university and college students."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The following electronic databases were searched up to July 2015: the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, PsycINFO. The Cumulative Index to Nursing and Allied Health Literature (CINAHL) only to March 2008. Reference lists of included studies and review articles were manually searched. No restriction based on language or date was applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials or cluster-randomised controlled trials that compared a social normative intervention versus no intervention, alcohol education leaflet or other 'non-normative feedback' alcohol intervention and reported on alcohol consumption or alcohol-related problems in university or college students."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as expected by Cochrane. Each outcome was analysed by mode of delivery: mailed normative feedback (MF); web/computer normative feedback (WF); individual face-to-face normative feedback (IFF); group face-to-face normative feedback (GFF); and normative marketing campaign (MC)."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 70 studies (44,958 participants) were included in the review, and 63 studies (42,784 participants) in the meta-analyses. Overall, the risk of bias assessment showed that these studies provided moderate or low quality evidence.\nOutcomes at four or more months post-intervention were of particular interest to assess when effects were sustained beyond the immediate short term. We have reported pooled effects across delivery modes only for those analyses for which heterogeneity across delivery modes is not substantial (I2 < 50%).\nAlcohol-related problems at four or more months: IFF standardised mean difference (SMD) -0.14, 95% confidence interval (CI) -0.24 to -0.04 (participants = 2327; studies = 11; moderate quality evidence), equivalent to a decrease of 1.28 points in the 69-point alcohol problems scale score. No effects were found for WF or MF.\nBinge drinking at four or more months: results pooled across delivery modes: SMD -0.06, 95% CI -0.11 to -0.02 (participants = 11,292; studies = 16; moderate quality evidence), equivalent to 2.7% fewer binge drinkers if 30-day prevalence is 43.9%.\nDrinking quantity at four or more months: results pooled across delivery modes: SMD -0.08, 95% CI -0.12 to -0.04 (participants = 21,169; studies = 32; moderate quality evidence), equivalent to a reduction of 0.9 drinks consumed each week, from a baseline of 13.7 drinks per week.\nDrinking frequency at four or more months: WF SMD -0.11, 95% CI -0.17 to -0.04 (participants = 9929; studies = 10; moderate quality evidence), equivalent to a decrease of 0.17 drinking days/wk, from a baseline of 2.74 days/wk; IFF SMD -0.21, 95% CI -0.31 to -0.10 (participants = 1464; studies = 8; moderate quality evidence), equivalent to a decrease of 0.32 drinking days/wk, from a baseline of 2.74 days/wk. No effects were found for GFF or MC.\nEstimated blood alcohol concentration (BAC) at four or more months: peak BAC results pooled across delivery modes: SMD -0.08, 95% CI -0.17 to 0.00 (participants = 7198; studies = 11; low quality evidence), equivalent to a reduction in peak BAC from an average of 0.144% to 0.135%. No effects were found for typical BAC with IFF."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this review indicate that no substantive meaningful benefits are associated with social norms interventions for prevention of alcohol misuse among college/university students. Although some significant effects were found, we interpret the effect sizes as too small, given the measurement scales used in the studies included in this review, to be of relevance for policy or practice. Moreover, the significant effects are not consistent for all misuse measures, heterogeneity was a problem in some analyses and bias cannot be discounted as a potential cause of these findings."
+    }
+  ],
+  "pls_title": "Social norms interventions are not effective enough on their own to reduce alcohol use or misuse among university or college students",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Drinking is influenced by youth perceptions of how their peers drink. These perceptions are often incorrect, overestimating peer drinking norms. If inaccurate perceptions can be corrected, with social norms information or feedback, young people may drink less."
+    },
+    {
+      "heading": "Search date",
+      "text": "To July 2015."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "70 studies were included in this review, with 44,958 students overall. We were interested mainly in studies with a follow-up period of four or more months to assess whether any effects were sustained beyond the immediate short term. In 43 of the trials, the social norms intervention was targeted at higher-risk students. 55 trials were conducted in the USA, with others form Australia, Brazil, New Zealand, Sweden and the United Kingdom.\nDelivery of social norms information included mailed feedback, web/computer feedback, individual face-to-face feedback, group face-to-face feedback and general social norms marketing campaigns across college campuses."
+    },
+    {
+      "heading": "Key findings",
+      "text": "Over the longer-term, after four or more months of follow-up, there was only a small effect of social norms information on binge drinking, drinking quantity, and peak BAC. For these outcomes, effects were not any different across the different delivery modes.Only small effects were found for web feedback and individual face-to-face feedback on frequency of alcohol consumed. Only a small effect of individual face-to-face feedback on alcohol related problems, but no effects were found for mailed or web feedback. Similarly, no effects were found for group face-to-face feedback or for marketing campaigns on frequency of alcohol consumed and typical BAC.\nOur reading of these results is that, although we found some significant effects of social norms information, the strength of the effects over the longer-term is very small and therefore this information is unlikely to provide any advantage in practice."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, only low or moderate quality evidence was noted for the effects reported in this review. Problems with study quality could result in estimates of social norms effects that are too high, so we cannot rule out the chance that the effects observed in this review may be overstated.\nThe U.S. National Institutes of Health provided funding for just under half (33/70) of the studies included in this review. Eighteen studies provided no information about funding, and only 13 papers had a clear conflict of interest statement."
+    }
+  ]
+}

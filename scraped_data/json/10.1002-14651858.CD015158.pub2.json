@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD015158.pub2",
+  "name": "Personal protective equipment for preventing asbestos exposure in workers",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asbestos exposure can lead to asbestos-related diseases. The European Union (EU) has adopted regulations for workplaces where asbestos is present. The EU occupational exposure limit (OEL) for asbestos is 0.1 fibres per cubic centimetre of air (f/cm3) as an eight-hour average. Different types of personal protective equipment (PPE) are available to provide protection and minimise exposure; however, their effectiveness is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of personal protective equipment (PPE), including donning and doffing procedures and individual hygienic behaviour, compared to no availability and use of such equipment or alternative equipment, on asbestos exposure in workers in asbestos demolition and repair work."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, CENTRAL, and Scopus (September 2022), and we checked the reference lists of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that measured asbestos concentration outside and inside PPE (considering outside concentration a surrogate for no PPE), exposure to asbestos after doffing PPE, donning and doffing errors, nonadherence to regulations, and adverse effects of PPE."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors selected studies, extracted data, and assessed risk of bias using ROBINS-I. We categorised PPE as full-face filtering masks, supplied air respirators (SARs), and powered air-purifying respirators (PAPRs). Values for asbestos outside and inside PPE were transformed to logarithmic values for random-effects meta-analysis. Pooled logarithmic mean differences (MDs) were exponentiated to obtain the ratio of means (RoM) and 95% confidence interval (95% CI). The RoM shows the degree of protection provided by the respirators (workplace protection factor). Since the RoM is likely to be much higher at higher outside concentrations, we presented separate results according to the outside asbestos concentration, as follows.\n• Below 0.01 f/cm3 (band 1)\n• 0.01 f/cm3 to below 0.1 f/cm3 (band 2)\n• 0.1 f/cm3 to below 1 f/cm3 (band 3)\n• 1 f/cm3 to below 10 f/cm3 (band 4)\n• 10 f/cm3 to below 100 f/cm3 (band 5)\n• 100 f/cm3 to below 1000 f/cm3 (band 6)\nAdditionally, we determined whether the inside concentrations per respirator and concentration band complied with the current EU OEL (0.1 f/cm3) and proposed EU OEL (0.01 f/cm3)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified six studies that measured asbestos concentrations outside and inside respiratory protective equipment (RPE) and one cross-over study that compared the effect of two different coveralls on body temperature. No studies evaluated the remaining predefined outcomes. Most studies were at overall moderate risk of bias due to insufficient reporting. The cross-over study was at high risk of bias.\nFull-face filtering masks\nTwo studies evaluated full-face filtering masks. They provided insufficient data for band 1 and band 6. The results for the remaining bands were as follows.\n• Band 2: RoM 19 (95% CI 17.6 to 20.1; 1 study, 3 measurements; moderate certainty)\n• Band 3: RoM 69 (95% CI 26.6 to 175.9; 2 studies, 17 measurements; very low certainty)\n• Band 4: RoM 455 (95% CI 270.4 to 765.1; 1 study, 16 measurements; low certainty)\n• Band 5: RoM 2752 (95% CI 1236.5 to 6063.2;1 study, 3 measurements; low certainty)\nThe inside measurements in band 5 did not comply with the EU OEL of 0.1 f/cm3, and no inside measurements complied with the proposed EU OEL of 0.01 f/cm3.\nSupplied air respirators\nTwo studies evaluated supplied air respirators. They provided no data for band 6. The results for the remaining bands were as follows.\n• Band 1: RoM 11 (95% CI 7.6 to 14.9; 1 study, 134 measurements; moderate certainty)\n• Band 2: RoM 63 (95% CI 43.8 to 90.9; 1 study, 17 measurements; moderate certainty)\n• Band 3: RoM 528 (95% CI 368.7 to 757.5; 1 study, 38 measurements; moderate certainty)\n• Band 4: RoM 4638 (95% CI 3071.7 to 7044.5; 1 study, 49 measurements; moderate certainty)\n• Band 5: RoM 26,134 (16,647.2 to 41,357.1; 1 study, 22 measurements; moderate certainty)\nAll inside measurements complied with the current OEL of 0.1 f/cm3 and the proposed OEL of 0.01 f/cm3.\nPowered air-purifying respirators\nThree studies evaluated PAPRs. The results per band were as follows.\n• Band 1: RoM 8 (95% CI 3.7 to 19.1; 1 study, 23 measurements; moderate certainty)\n• Band 2: RoM 90 (95% CI 64.7 to 126.5; 1 study, 17 measurements; moderate certainty)\n• Band 3: RoM 104 (95% CI 23.1 to 464.1; 3 studies, 14 measurements; very low certainty)\n• Band 4: RoM 706 (95% CI 219.2 to 2253.0; 2 studies, 43 measurements; very low certainty)\n• Band 5: RoM 1366 (544.6 to 3428.9; 2 studies, 8 measurements; low certainty)\n• Band 6: RoM 18,958 (95% CI 4023.9 to 90,219.4; 2 studies, 13 measurements; very low certainty)\nAll inside measurements complied with the 0.1 f/cm3 OEL when the outside concentration was below 10 f/cm3 (band 1 to band 4). From band 3, no measurements complied with the proposed OEL of 0.01 f/cm3.\nDifferent types of coveralls\nOne study reported the adverse effects of coveralls. A polyethylene suit may increase the body temperature more than a ventilated impermeable polyvinyl (PVC) coverall, but the evidence is very uncertain (MD 0.17 °C, 95% CI −0.08 to 0.42; 1 study, 11 participants; very low certainty)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Where the outside asbestos concentration is below 0.1 f/cm3, SARS and PAPRs likely reduce exposure to below the proposed OEL of 0.01 f/cm3. For outside concentrations up to 10 f/cm3, all respirators may reduce exposure below the current OEL, but only SAR also below the proposed OEL. In band 5 (10 to < 100 f/cm3), full-face filtering masks may not reduce asbestos exposure below either OEL, SARs likely reduce exposure below both OELs, and there were no data for PAPRs. In band 6 (100 f/cm3 to < 1000 f/cm3), PAPRs may not reduce exposure below either OEL, and there were no data for full-face filtering masks or SARs.\nSome coveralls may increase body temperature more than others.\nRandomised studies are needed to directly compare PAPRs and SARs at higher asbestos concentrations and to assess adverse effects. Future studies should assess the effects of doffing procedures."
+    }
+  ],
+  "pls_title": "Personal protective equipment in asbestos demolition workplaces",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "Asbestos concentrations inside respiratory protection should be below the occupational exposure limit.•Only air masks with a supply of clean breathing air can reduce workers' exposure to asbestos to below the proposed occupational exposure limit (0.01 fibres/cm3of air) regardless of the asbestos concentration in the environment."
+    },
+    {
+      "heading": "Why is it important to reduce exposure to asbestos?",
+      "text": "Asbestos is a mineral with good isolation properties and high fire resistance. However, when inhaled, asbestos can cause several diseases, including different cancers. Since it is difficult to prevent inhalation, many countries have banned asbestos. However, workers who remove asbestos from buildings are exposed to it. In these circumstances, personal protective equipment (PPE) is almost always necessary to reduce exposure."
+    },
+    {
+      "heading": "Occupational exposure limits",
+      "text": "Many countries have an occupational exposure limit (OEL) to protect workers from asbestos. If the asbestos concentration in a worksite is above the limit, workers must wear PPE. The most important type of PPE for asbestos workers is respiratory protective equipment (RPE), such as face masks. The current European Union (EU) OEL is 0.1 fibres per cubic centimetre of air (f/cm3), but there is a proposal for a new EU OEL that is 10 times lower."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if PPE reduces worker exposure to asbestos to below the current and proposed OEL, and whether PPE has any unwanted effects. As well as the PPE itself, we were interested in the effects of training or education on putting on (donning) and taking off (doffing) PPE."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked for studies that evaluated the effect of PPE on exposure to asbestos inside PPE and after doffing PPE. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included six studies that compared inside RPE asbestos concentrations with the matching outside concentrations. These studies recruited between three and 25 workers. Two of these studies evaluated full-face masks with a filter, three evaluated respirators with a motor unit for filtering the air (PAPRs), and two evaluated respirators with a supply of clean breathing air (SARs). We also included one study that compared the effect of different protective coveralls on body temperature in 11 workers. We found no studies that evaluated workers' exposure to asbestos after doffing PPE, and no studies that evaluated interventions for improving compliance with donning and doffing procedures and other regulations."
+    },
+    {
+      "heading": "Main results",
+      "text": "If the asbestos concentration in the environment is below 10 f/cm3, full-face masks may reduce workers' exposure to asbestos to below the current EU OEL of 0.1 f/cm3. Where the outside asbestos concentration is 10 f/cm3 or greater, full-face masks may provide insufficient protection. We were unable to assess whether full-face masks can lower asbestos exposure to below the proposed OEL of 0.01 f/cm3.\nSARs probably reduce workers' exposure to asbestos to below the current and proposed EU OELs where the outside asbestos concentration is below 100 f/cm3. There was not enough information for us to assess the effectiveness of SARs at higher outside concentrations.\nPAPRs may reduce workers' exposure to asbestos to below the current EU OEL where the outside concentration is below 10 f/cm3, but not at higher concentrations. PAPRs may reduce asbestos concentrations below the proposed EU OEL of 0.01 f/cm3 when the outside concentration is below 0.1 f/cm3.\nPolyethylene (Tyvek) suits may increase body temperature more than ventilated polyvinyl (Mururoa) suits, but the temperature increase should have no health consequences."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The main limitation of the evidence is that the studies did not directly compare different types of protective equipment worn by the same workers in the same environment. Also, the results were imprecise because the studies included few participants.\nThere is limited information in the studies about workers' individual characteristics and behaviour, and about donning and doffing procedures. More research is needed to assess the effects of these factors."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is current to 15 September 2022."
+    }
+  ]
+}

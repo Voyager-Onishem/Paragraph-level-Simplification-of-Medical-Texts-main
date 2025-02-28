@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011399.pub2",
+  "name": "Antibiotic therapy for adults with neurosyphilis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Neurosyphilis is an infection of the central nervous system, caused by Treponema pallidum, a spirochete capable of infecting almost any organ or tissue in the body causing neurological complications due to the infection. This disease is a tertiary manifestation of syphilis. The first-line treatment for neurosyphilis is aqueous crystalline penicillin. However, in cases such as penicillin allergy, other regimes of antibiotic therapy can be used."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effectiveness and safety of antibiotic therapy for adults with neurosyphilis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Library, CENTRAL, MEDLINE, Embase, LILACS, World Health Organization International Clinical Trials Registry Platform and Opengrey up to April 2019. We also searched proceedings of eight congresses to a maximum of 10 years, and we contacted trial authors for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised clinical trials that included men and women, regardless of age, with definitive diagnoses of neurosyphilis, including HIV-seropositive patients. We compared any antibiotic regime (concentration, dose, frequency, duration), compared to any other antibiotic regime for the treatment for neurosyphilis in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected eligible trials, extracted data, and evaluated risk of bias. We resolved disagreements by involving a third review author. For dichotomous data (serological cure, clinical cure, adverse events), we presented results as summary risk ratios (RR) with 95% confidence intervals (CI). We assessed the quality of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified one trial, with 36 participants​ diagnosed ​with syphilis and HIV. The participants were mainly men, with a median age of 34 years. This trial, ​funded by a pharmaceutical company, compared ceftriaxone in 18 participants (2 g daily for 10 days), with penicillin G, also in 18 participants (4 million/Units (MU)/intravenous (IV) every 4 hours for 10 days). The trial reported incomplete and inconclusive results. Three of 18 (16%) participants receiving ceftriaxone versus 2 of 18 (11%) receiving penicillin G achieved serological cure (RR 1.50; 95% CI: 0.28 to 7.93; 1 trial, 36 participants very low-quality evidence); and 8 of 18 (44%) participants receiving ceftriaxone versus 2 of 18 (18%) participants receiving penicillin G achieved clinical cure (RR 4.00; 95% CI: 0.98 to 16.30; 1 trial, 36 participants very low-quality evidence). Although more participants who received ceftriaxone achieved serological and clinical cure compared to those who received penicillin G, the evidence from this trial was insufficient to determine whether there was a difference between treatment with ceftriaxone or penicillin G.\nIn this trial, the authors reported what would usually be adverse events as symptoms and signs in the follow-up of participants. Furthermore, this trial did not evaluate recurrence of neurosyphilis, time to recovery nor quality of life. We judged risk of bias in this clinical trial to be unclear for random sequence generation, allocation, ​and blinding of participants, and high for incomplete outcome data, potential conflicts of interest (funding bias), and other bias, due to the lack of a sample size calculation. We rated the quality of evidence as very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to low quality and insufficient evidence, it was not possible to determine whether there was a difference between treatment with ceftriaxone or Penicillin G. Also, the benefits to people without HIV and neurosyphilis are unknown, as is the ceftriaxone safety profile.Therefore, these results should be interpreted with caution. This conclusion does not mean that antibiotics should not be used for treating this clinical entity. This Cochrane Review has identified the need of adequately powered trials, which should be planned according to Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) recommendations, conducted and reported as recommended by the CONSORT statement. Furthermore, the outcomes should be based on patients' perspectives taking into account Patient-Centered Outcomes Research Institute (PCORI) recommendations."
+    }
+  ],
+  "pls_title": "Antibiotic therapy for adults with neurosyphilis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review Question",
+      "text": "We reviewed the clinical effectiveness and safety of antibiotic therapy for adults with neurosyphilis."
+    },
+    {
+      "heading": "Background",
+      "text": "Syphilis is a condition caused by a micro-organism called Treponema pallidum. At any stage of syphilis an individual can acquire neurosyphilis, which is an infection of the central nervous system (brain and spinal cord). The infection can be spread throughout the central nervous system, causing complications in the brain and spine. It may occur during early or late syphilis and it can have severe consequences for patients. Research has shown that people who are also infected with HIV are more likely to get neurosyphilis. Antibiotics are used to treat neurosyphilis. The first option is aqueous crystalline penicillin. However, in some cases, such as penicillin allergy, other antibiotics can be used."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the medical literature up to April 2019 for trials that evaluated the effectiveness and safety of drugs proposed for the management of neurosyphilis in adults. We found only one randomised clinical trial that met our criteria (patients are randomly put into groups to receive different treatments). This trial involved 36 adults with both syphilis and HIV, who were mainly men, with a median age of 34 years. The trial compared two drugs: ceftriaxone (2 g once daily), and penicillin G (4 million units every 4 hours for 10 days). It was funded by a pharmaceutical company."
+    },
+    {
+      "heading": "Key findings",
+      "text": "The trial reported serological cure, which is a decrease in the levels of the infection shown by laboratory analysis of fluids in the brain and spinal cord (known as cerebrospinal fluids), and clinical cure, which is the absence of signs or symptoms of neurosyphilis. Only three of 18 participants receiving ceftriaxone and two of 18 participants receiving penicillin G achieved serological cure; and eight of 18 participants receiving ceftriaxone and two of 18 participants receiving penicillin G achieved clinical cure.\nThere was not enough evidence to allow us to state if there is a difference between treatment with ceftriaxone or Penicillin G for neurosyphilis in adults. The outcomes evaluated could change when trials with a better design become available. Additionally, we did not identify any evidence related to the effectiveness and safety of other drugs proposed to manage this condition."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of the evidence was very low for the outcomes serological cure and clinical cure due to problems with the trial's design and methods, and because there was only a small number of participants."
+    }
+  ]
+}

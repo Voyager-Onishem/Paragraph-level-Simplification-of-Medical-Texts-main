@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014811.pub2",
+  "name": "Continuous infusion versus bolus injection of loop diuretics for acute heart failure",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute heart failure (AHF) is new onset of, or a sudden worsening of, chronic heart failure characterised by congestion in about 95% of cases or end-organ hypoperfusion in 5% of cases. Treatment often requires urgent escalation of diuretic therapy, mainly through hospitalisation. This Cochrane review evaluated the efficacy of intravenous loop diuretics strategies in treating AHF in individuals with New York Heart Association (NYHA) classification III or IV and fluid overload."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of intravenous continuous infusion versus bolus injection of loop diuretics for the initial treatment of acute heart failure in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials through systematic searches of bibliographic databases and in clinical trials registers including CENTRAL, MEDLINE, Embase, CPCI-S on the Web of Science, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry platform (ICTRP), and the European Union Trials register. We conducted reference checking and citation searching, and contacted study authors to identify additional studies. The latest search was performed on 29 February 2024."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) involving adults with AHF, NYHA classification III or IV, regardless of aetiology or ejection fraction, where trials compared intravenous continuous infusion of loop diuretics with intermittent bolus injection in AHF. We excluded trials with chronic stable heart failure, cardiogenic shock, renal artery stenosis, or end-stage renal disease. Additionally, we excluded studies combining loop diuretics with hypertonic saline, inotropes, vasoactive medications, or renal replacement therapy and trials where diuretic dosing was protocol-driven to achieve a target urine output, due to confounding factors."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened papers for inclusion and reviewed full-texts. Outcomes included weight loss, all-cause mortality, length of hospital stay, readmission following discharge, and occurrence of acute kidney injury. We performed risk of bias assessment and meta-analysis where data permitted and assessed certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review included seven RCTs, spanning 32 hospitals in seven countries in North America, Europe, and Asia. Data collection ranged from eight months to six years. Following exclusion of participants in subgroups with confounding treatments and different clinical settings, 681 participants were eligible for review. These additional study characteristics, coupled with our strict inclusion and exclusion criteria, improve the applicability of the body of the evidence as they reflect real-world clinical practice.\nMeta-analysis was feasible for net weight loss, all-cause mortality, length of hospital stay, readmission, and acute kidney injury. Literature review and narrative analysis explored daily fluid balance; cardiovascular mortality; B-type natriuretic peptide (BNP) change; N-terminal-proBNP change; and adverse incidents such as ototoxicity, hypotension, and electrolyte imbalances. Risk of bias assessment revealed two studies with low overall risk, four with some concerns, and one with high risk. All sensitivity analyses excluded trials at high risk of bias.\nOnly narrative analysis was conducted for 'daily fluid balance' due to diverse data presentation methods across two studies (169 participants, the evidence was very uncertain about the effect). Results of narrative analysis varied. For instance, one study reported higher daily fluid balance within the first 24 hours in the continuous infusion group compared to the bolus injection group, whereas there was no difference in fluid balance beyond this time point.\nContinuous intravenous infusion of loop diuretics may result in mean net weight loss of 0.86 kg more than bolus injection of loop diuretics, but the evidence is very uncertain (mean difference (MD) 0.86 kg, 95% confidence interval (CI) 0.44 to 1.28; 5 trials, 497 participants; P < 0.001, I2 = 21%; very low-certainty evidence). Importantly, sensitivity analysis excluding trials with high risk of bias showed there was insufficient evidence for a difference in bodyweight loss between groups (MD 0.70 kg, 95% CI −0.06 to 1.46; 3 trials, 378 participants; P = 0.07, I2 = 0%).\nThere may be little to no difference in all-cause mortality between continuous infusion and bolus injection (risk ratio (RR) 1.53, 95% CI 0.81 to 2.90; 5 trials, 530 participants; P = 0.19, I2 = 4%; low-certainty evidence). Despite sensitivity analysis, the direction of the evidence remained unchanged.\nNo trials measured cardiovascular mortality.\nThere may be little to no difference in the length of hospital stay between continuous infusion and bolus injection of loop diuretics, but the evidence is very uncertain (MD −1.10 days, 95% CI −4.84 to 2.64; 4 trials, 211 participants; P = 0.57, I2 = 88%; very low-certainty evidence). Sensitivity analysis improved heterogeneity; however, the direction of the evidence remained unchanged.\nThere may be little to no difference in the readmission to hospital between continuous infusion and bolus injection of loop diuretics (RR 0.85, 95% CI 0.63 to 1.16; 3 trials, 400 participants; P = 0.31, I2 = 0%; low-certainty evidence). Sensitivity analysis continued to show insufficient evidence for a difference in the readmission to hospital between groups.\nThere may be little to no difference in the occurrence of acute kidney injury as an adverse event between continuous infusion and bolus injection of intravenous loop diuretics (RR 1.02, 95% CI 0.70 to 1.49; 3 trials, 491 participants; P = 0.92, I2 = 0%; low-certainty evidence). Sensitivity analysis continued to show that continuous infusion may make little to no difference on the occurrence of acute kidney injury as an adverse events compared to the bolus injection of intravenous loop diuretics."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Analysis of available data comparing two delivery methods of diuretics in acute heart failure found that the current data are insufficient to show superiority of one strategy intervention over the other. Our findings were based on trials meeting stringent inclusion and exclusion criteria to ensure validity. Despite previous reviews suggesting advantages of continuous infusion over bolus injections, our review found insufficient evidence to support or refute this. However, our review, which excluded trials with clinical confounders and RCTs with high risk of bias, offers the most robust conclusion to date."
+    }
+  ],
+  "pls_title": "Is the use of continuous infusion of loop diuretics better than bolus injections for acute heart failure?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "– The use of continuous infusion over bolus injection of loop diuretics may result in little to no difference in all the outcomes we measured.\n– The use of continuous infusion over bolus injection of loop diuretics may result in little to no difference in harmful side effects.\n– Our research suggests there may be little to no difference between how loop diuretics are delivered. Future studies should focus less on how they are given and more on how they work for patients outside the hospital setting. We should also take into consideration patient preference and quality of life."
+    },
+    {
+      "heading": "What is acute heart failure?",
+      "text": "Acute heart failure is a medical condition that impairs the heart's ability to pump blood effectively throughout the body. As a result, the body perceives a lack of blood and compensates by retaining water to increase blood volume. However, this extra volume does not help and it puts additional strain on the heart, leading to breathlessness, fatigue, and swelling of the legs."
+    },
+    {
+      "heading": "How is acute heart failure treated?",
+      "text": "Diuretic medicines (sometimes called water tablets) help by reducing the extra water in the body. Loop diuretics are a specific type of diuretic that act on a specific part of the kidneys and are often administered directly into the bloodstream using a cannula, which is a thin plastic tube that is inserted into a blood vessel. This process may require several days and several doses of diuretics to eliminate the excess water that has accumulated in the body."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to examine and compare two different approaches to administering the loop diuretics: slow administration over an extended period of time (continuous) and administering the loop diuretic in several individual doses (bolus) to assess if one delivery method was better than the other."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We scrutinised over 3400 journal articles and identified seven trials that met our criteria for analysis. We evaluated these trials for any reported changes in bodyweight, probability of death (mortality), duration of hospitalisation, chance of readmission to hospital after being discharged, and whether one delivery method had any harmful effects on the kidneys compared to the other."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified seven studies involving 681 adults aged over 18 years who received treatment in a hospital. The participants' average age ranged from 57 to 82 years. These studies were conducted across 32 hospitals in the USA, Canada, Spain, Sweden, India, Turkey, and China between 2010 and 2021, with data collection durations spanning from eight months to six years. The largest study involved 308 participants, while the smallest included 40 participants.\nAfter our analysis, we found that intervention with either delivery method, continuous or bolus, may make little to no difference in:\n– change in bodyweight (evidence from 5 studies in 497 people);\n– probability of mortality (evidence from 5 studies in 530 people);\n– duration of hospitalisation (evidence from 4 studies in 211 people);\n– chance of readmission to hospital after being discharged (evidence from 3 studies in 400 people);\n– harmful effects on the kidneys (evidence from 3 studies in 491 people).\nOverall, we have little confidence in the evidence because the numbers of studies and participants were small and it is possible that people in the studies were aware of which treatment they were getting."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Despite reviewing numerous journal articles, only seven studies met the criteria to answer our question. Some of the included studies had sections that were not described well, and made the evidence less reliable."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This evidence is up to date to 29 February 2024."
+    }
+  ]
+}

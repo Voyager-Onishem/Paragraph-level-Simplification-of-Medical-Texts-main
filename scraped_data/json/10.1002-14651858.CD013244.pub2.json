@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013244.pub2",
+  "name": "Blue‐light filtering spectacle lenses for visual performance, sleep, and macular health in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "'Blue-light filtering', or 'blue-light blocking', spectacle lenses filter ultraviolet radiation and varying portions of short-wavelength visible light from reaching the eye. Various blue-light filtering lenses are commercially available. Some claims exist that they can improve visual performance with digital device use, provide retinal protection, and promote sleep quality. We investigated clinical trial evidence for these suggested effects, and considered any potential adverse effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of blue-light filtering lenses compared with non-blue-light filtering lenses, for improving visual performance, providing macular protection, and improving sleep quality in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; containing the Cochrane Eyes and Vision Trials Register; 2022, Issue 3); Ovid MEDLINE; Ovid Embase; LILACS; the ISRCTN registry; ClinicalTrials.gov and WHO ICTRP, with no date or language restrictions. We last searched the electronic databases on 22 March 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs), involving adult participants, where blue-light filtering spectacle lenses were compared with non-blue-light filtering spectacle lenses."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Primary outcomes were the change in visual fatigue score and critical flicker-fusion frequency (CFF), as continuous outcomes, between baseline and one month of follow-up. Secondary outcomes included best-corrected visual acuity (BCVA), contrast sensitivity, discomfort glare, proportion of eyes with a pathological macular finding, colour discrimination, proportion of participants with reduced daytime alertness, serum melatonin levels, subjective sleep quality, and patient satisfaction with their visual performance. We evaluated findings related to ocular and systemic adverse effects.\nWe followed standard Cochrane methods for data extraction and assessed risk of bias using the Cochrane Risk of Bias 1 (RoB 1) tool. We used GRADE to assess the certainty of the evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 RCTs, with sample sizes ranging from five to 156 participants, and intervention follow-up periods from less than one day to five weeks. About half of included trials used a parallel-arm design; the rest adopted a cross-over design. A variety of participant characteristics was represented across the studies, ranging from healthy adults to individuals with mental health and sleep disorders.\nNone of the studies had a low risk of bias in all seven Cochrane RoB 1 domains. We judged 65% of studies to have a high risk of bias due to outcome assessors not being masked (detection bias) and 59% to be at high risk of bias of performance bias as participants and personnel were not masked. Thirty-five per cent of studies were pre-registered on a trial registry. We did not perform meta-analyses for any of the outcome measures, due to lack of available quantitative data, heterogenous study populations, and differences in intervention follow-up periods.\nThere may be no difference in subjective visual fatigue scores with blue-light filtering lenses compared to non-blue-light filtering lenses, at less than one week of follow-up (low-certainty evidence). One RCT reported no difference between intervention arms (mean difference (MD) 9.76 units (indicating worse symptoms), 95% confidence interval (CI) -33.95 to 53.47; 120 participants). Further, two studies (46 participants, combined) that measured visual fatigue scores reported no significant difference between intervention arms.\nThere may be little to no difference in CFF with blue-light filtering lenses compared to non-blue-light filtering lenses, measured at less than one day of follow-up (low-certainty evidence). One study reported no significant difference between intervention arms (MD - 1.13 Hz lower (indicating poorer performance), 95% CI - 3.00 to 0.74; 120 participants). Another study reported a less negative change in CFF (indicating less visual fatigue) with high- compared to low-blue-light filtering and no blue-light filtering lenses.\nCompared to non-blue-light filtering lenses, there is probably little or no effect with blue-light filtering lenses on visual performance (BCVA) (MD 0.00 logMAR units, 95% CI -0.02 to 0.02; 1 study, 156 participants; moderate-certainty evidence), and unknown effects on daytime alertness (2 RCTs, 42 participants; very low-certainty evidence); uncertainty in these effects was due to lack of available data and the small number of studies reporting these outcomes. We do not know if blue-light filtering spectacle lenses are equivalent or superior to non-blue-light filtering spectacle lenses with respect to sleep quality (very low-certainty evidence). Inconsistent findings were evident across six RCTs (148 participants); three studies reported a significant improvement in sleep scores with blue-light filtering lenses compared to non-blue-light filtering lenses, and the other three studies reported no significant difference between intervention arms. We noted differences in the populations across studies and a lack of quantitative data.\nDevice-related adverse effects were not consistently reported (9 RCTs, 333 participants; low-certainty evidence). Nine studies reported on adverse events related to study interventions; three studies described the occurrence of such events. Reported adverse events related to blue-light filtering lenses were infrequent, but included increased depressive symptoms, headache, discomfort wearing the glasses, and lower mood. Adverse events associated with non-blue-light filtering lenses were occasional hyperthymia, and discomfort wearing the spectacles.\nWe were unable to determine whether blue-light filtering lenses affect contrast sensitivity, colour discrimination, discomfort glare, macular health, serum melatonin levels or overall patient visual satisfaction, compared to non-blue-light filtering lenses, as none of the studies evaluated these outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This systematic review found that blue-light filtering spectacle lenses may not attenuate symptoms of eye strain with computer use, over a short-term follow-up period, compared to non-blue-light filtering lenses. Further, this review found no clinically meaningful difference in changes to CFF with blue-light filtering lenses compared to non-blue-light filtering lenses. Based on the current best available evidence, there is probably little or no effect of blue-light filtering lenses on BCVA compared with non-blue-light filtering lenses. Potential effects on sleep quality were also indeterminate, with included trials reporting mixed outcomes among heterogeneous study populations. There was no evidence from RCT publications relating to the outcomes of contrast sensitivity, colour discrimination, discomfort glare, macular health, serum melatonin levels, or overall patient visual satisfaction. Future high-quality randomised trials are required to define more clearly the effects of blue-light filtering lenses on visual performance, macular health and sleep, in adult populations."
+    }
+  ],
+  "pls_title": "Blue-light filtering spectacle lenses for visual performance, macular (back part of the eye) protection, and improving sleep quality",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "This Cochrane Review aimed to investigate the possible benefits and safety of blue-light filtering spectacle lenses, also known as blue-light blocking spectacle lenses, on visual performance, macular protection, and sleep quality. Cochrane Review authors collected and analysed all relevant studies to summarise the best available research evidence."
+    },
+    {
+      "heading": "Key message",
+      "text": "Blue-light filtering lenses may not reduce short-term eyestrain associated with computer work, compared to non-blue-light filtering lenses. Potential harmful effects were temporary and generally mild, and mostly thought to be related to the glasses more generally rather than specifically the lenses themselves.\nThere is a need for future research to provide evidence for the effects of blue-light filtering lenses on multiple aspects of visual performance and sleep, including vision level (best corrected visual acuity), ability to detect differences in shading and patterns (contrast sensitivity), colour discrimination, reducing glare due to bright light (discomfort glare), the health of the retina at the back of the eye (macular health), sleep measures (including blood melatonin levels and sleep quality), and patient satisfaction."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "The primary measures were the change in perceived and quantifiable assessments of eye strain, measured after at least one month of using the lenses. The other assessments considered a range of clinical measures and side effects."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We included 17 studies that recruited 619 people and took place in six countries. This review showed the following.\n(i) There may be no short-term advantages with using blue-light filtering lenses to reduce visual fatigue with computer use, compared to non-blue-light filtering lenses.\n(ii) There is limited information about the potential effect(s) of blue-light filtering lenses on visual acuity and the effects on sleep-related measures are unclear. The existing evidence regarding these measures is inconclusive.\n(iii) None of the included studies investigated contrast sensitivity, colour discrimination, discomfort glare, macular health, serum melatonin levels or overall patient visual satisfaction; no conclusions could be drawn in relation to these measures.\n(iv) There is some evidence that harmful effects that may be related to using blue-light filtering lenses include headache (1 study, 8%), increased depressive symptoms (1 study, 17%), lowered mood (1 study, 5%), and discomfort wearing the glasses (2 studies (combined), 22%), although similar adverse effects were also reported with non-blue-light filtering lenses and there were not enough data to accurately measure or determine possible harmful effects with certainty."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The Cochrane Review authors searched for studies that had been published up to 22 March 2022."
+    }
+  ]
+}

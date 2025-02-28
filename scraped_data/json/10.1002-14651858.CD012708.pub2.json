@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012708.pub2",
+  "name": "Mirtazapine for fibromyalgia in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fibromyalgia is a clinically defined chronic condition of unknown etiology characterised by chronic widespread pain, sleep disturbance, cognitive dysfunction, and fatigue. Many patients report high disability levels and poor quality of life. Drug therapy aims to reduce key symptoms, especially pain, and improve quality of life. The tetracyclic antidepressant, mirtazapine, may help by increasing serotonin and noradrenaline in the central nervous system (CNS)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy, tolerability and safety of the tetracyclic antidepressant, mirtazapine, compared with placebo or other active drug(s) in the treatment of fibromyalgia in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, SCOPUS, the US National Institutes of Health, and the World Health Organization (WHO) International Clinical Trials Registry Platform for published and ongoing trials, and examined reference lists of reviewed articles, to 9 July 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of any formulation of mirtazapine against placebo, or any other active treatment of fibromyalgia, in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted study characteristics, outcomes of efficacy, tolerability and safety, examined issues of study quality, and assessed risk of bias, resolving discrepancies by discussion. Primary outcomes were participant-reported pain relief (at least 50% or 30% pain reduction), Patient Global Impression of Change (PGIC; much or very much improved), safety (serious adverse events), and tolerability (adverse event withdrawal). Other outcomes were health-related quality of life (HRQoL) improved by 20% or more, fatigue, sleep problems, mean pain intensity, negative mood and particular adverse events. We used a random-effects model to calculate risk difference (RD), standardised mean difference (SMD), and numbers needed to treat. We assessed the evidence using GRADE and created a 'Summary of findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three studies with 606 participants compared mirtazapine with placebo (but not other drugs) over seven to 13 weeks. Two studies were at unclear or high risk of bias in six or seven of eight domains. We judged the evidence for all outcomes to be low- or very low-quality because of poor study quality, indirectness, imprecision, risk of publication bias, and sometimes low numbers of events.\nThere was no difference between mirtazapine and placebo for any primary outcome: participant-reported pain relief of 50% or greater (22% versus 16%; RD 0.05, 95% confidence interval (CI) -0.01 to 0.12; three studies with 591 participants; low-quality evidence); no data available for PGIC; only a single serious adverse event for evaluation of safety (RD -0.00, 95% CI -0.01 to 0.02; three studies with 606 participants; very low-quality evidence); and tolerability as frequency of dropouts due to adverse events (3% versus 2%; RD 0.00, 95% CI -0.02 to 0.03; three studies with 606 participants; low-quality evidence).\nMirtazapine showed a clinically-relevant benefit compared to placebo for some secondary outcomes: participant-reported pain relief of 30% or greater (47% versus 34%; RD 0.13, 95% CI 0.05 to 0.21; number needed to treat for an additional beneficial outcome (NNTB) 8, 95% CI 5 to 20; three studies with 591 participants; low-quality evidence); participant-reported mean pain intensity (SMD -0.29, 95% CI -0.46 to -0.13; three studies with 591 participants; low-quality evidence); and participant-reported sleep problems (SMD -0.23, 95% CI -0.39 to -0.06; three studies with 573 participants; low-quality evidence). There was no benefit for improvement of participant-reported improvement of HRQoL of 20% or greater (58% versus 50%; RD 0.08, 95% CI -0.01 to 0.16; three studies with 586 participants; low-quality evidence); participant-reported fatigue (SMD -0.02, 95% CI -0.19 to 0.16; two studies with 533 participants; low-quality evidence); participant-reported negative mood (SMD -0.67, 95% CI -1.44 to 0.10; three studies with 588 participants; low-quality evidence); or withdrawals due to lack of efficacy (1.5% versus 0.1%; RD 0.01, 95% CI -0.01 to 0.02; three studies with 605 participants; very low-quality evidence).\nThere was no difference between mirtazapine and placebo for participants reporting any adverse event (76% versus 59%; RD 0.12, 95 CI -0.01 to 0.26; three studies with 606 participants; low-quality evidence). There was a clinically-relevant harm with mirtazapine compared to placebo: in the number of participants with somnolence (42% versus 14%; RD 0.24, 95% CI 0.18 to 0.30; number needed to treat for an additional harmful outcome (NNTH) 5, 95% CI 3 to 6; three studies with 606 participants; low-quality evidence); weight gain (19% versus 1%; RD 0.17, 95% CI 0.11 to 0.23; NNTH 6, 95% CI 5 to 10; three studies with 606 participants; low-quality evidence); and elevated alanine aminotransferase (13% versus 2%; RD 0.13, 95% CI 0.04 to 0.22; NNTH 8, 95% CI 5 to 25; two studies with 566 participants; low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Studies demonstrated no benefit of mirtazapine over placebo for pain relief of 50% or greater, PGIC, improvement of HRQoL of 20% or greater, or reduction of fatigue or negative mood. Clinically-relevant benefits were shown for pain relief of 30% or greater, reduction of mean pain intensity, and sleep problems. Somnolence, weight gain, and elevated alanine aminotransferase were more frequent with mirtazapine than placebo. The quality of evidence was low or very low, with two of three studies of questionable quality and issues over indirectness and risk of publication bias. On balance, any potential benefits of mirtazapine in fibromyalgia were outweighed by its potential harms, though, a small minority of people with fibromyalgia might experience substantial symptom relief without clinically-relevant adverse events."
+    }
+  ],
+  "pls_title": "Mirtazapine for treating fibromyalgia in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Bottom line",
+      "text": "Mirtazapine at 15 mg to 45 mg daily is unlikely to substantially reduce pain in people with fibromyalgia. Mirtazapine can cause drowsiness, weight gain, and liver damage. A small number of people may experience some improvement (moderate pain relief, better sleep) without side effects from mirtazapine, but that cannot be predicted. The off-label use of mirtazapine can be considered, if established treatment options have failed."
+    },
+    {
+      "heading": "Background",
+      "text": "People with fibromyalgia often have chronic (longer than 3 months) widespread pain, and problems with sleeping, thinking, exhaustion, and poor quality of life. There is no cure for fibromyalgia. Treatments aim to improve symptoms (pain, sleep problems, fatigue) and quality of life.\nSerotonin and noradrenaline are chemicals produced by the human body and are involved in pain, sleep, and mood. Low serotonin levels have been found in people with fibromyalgia. The antidepressant, mirtazapine, increases serotonin and noradrenaline levels in the brain."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In July 2018 we searched for clinical trials where mirtazapine was used to treat fibromyalgia in adults. We found three studies with 606 participants. Studies were seven to 13 weeks long. They compared mirtazapine 15 mg to 45 mg daily against a fake medication (placebo)."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no difference between mirtazapine and placebo for any primary outcome: mirtazapine and placebo reduced pain by 50% in two of 10 people (low-quality evidence). Only one single serious adverse event was available for evaluation of safety (very low-quality evidence). Three of 10 participants with mirtazapine and two of 10 participants with placebo dropped out of the trial due to side effects (low-quality evidence).\nMirtazapine reduced pain by 30% or more in five out of 10 people, compared with three out of 10 with placebo (low-quality evidence). It was also better for average pain intensity (low-quality evidence) and sleep problems (low-quality evidence). Mirtazapine was not better than placebo in reducing fatigue, depression, or improving health-related quality of life (low-quality evidence). Mirtazapine and placebo were no different in how many participants experienced a side effect (low-quality evidence). People dropped out at the same rate with mirtazapine and placebo or because they felt the drug did not work (low-quality evidence). For some side effects, mirtazapine was worse than placebo. This was true for drowsiness (4 out of 10 with mirtazapine, 1 out of 10 with placebo), weight gain (2 out of 10 with mirtazapine, 0 out of 10 with placebo), and high liver enzymes (1 out of 10 with mirtazapine, 0 out of 10 with placebo) (low-quality evidence)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Two of the studies were of poor quality. We rated the quality of the evidence using four levels: very low, low, moderate, or high. Very low-quality evidence means that we are very uncertain about the results. High quality evidence means that we are very confident in the results. We judged that the evidence was mostly of low-quality, which means that while the research provides some indication of the likely effect, the true effect may be substantially different. The main issues were poor study quality, decisions about the types of people included in the studies, risk of important information not being published, and sometimes low numbers of events."
+    }
+  ]
+}

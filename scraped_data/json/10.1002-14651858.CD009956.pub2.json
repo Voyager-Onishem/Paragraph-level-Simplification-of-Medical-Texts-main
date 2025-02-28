@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009956.pub2",
+  "name": "Exercise therapy for fatigue in multiple sclerosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Multiple sclerosis (MS) is an immune-mediated disease of the central nervous system affecting an estimated 1.3 million people worldwide. It is characterised by a variety of disabling symptoms of which excessive fatigue is the most frequent. Fatigue is often reported as the most invalidating symptom in people with MS. Various mechanisms directly and indirectly related to the disease and physical inactivity have been proposed to contribute to the degree of fatigue. Exercise therapy can induce physiological and psychological changes that may counter these mechanisms and reduce fatigue in MS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness and safety of exercise therapy compared to a no-exercise control condition or another intervention on fatigue, measured with self-reported questionnaires, of people with MS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System Group Trials Specialised Register, which, among other sources, contains trials from: the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 10), MEDLINE (from 1966 to October 2014), EMBASE (from 1974 to October 2014), CINAHL (from 1981 to October 2014), LILACS (from 1982 to October 2014), PEDro (from 1999 to October 2014), and Clinical trials registries (October 2014). Two review authors independently screened the reference lists of identified trials and related reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) evaluating the efficacy of exercise therapy compared to no exercise therapy or other interventions for adults with MS that included subjective fatigue as an outcome. In these trials, fatigue should have been measured using questionnaires that primarily assessed fatigue or sub-scales of questionnaires that measured fatigue or sub-scales of questionnaires not primarily designed for the assessment of fatigue but explicitly used as such."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected the articles, extracted data, and determined methodological quality of the included trials. Methodological quality was determined by means of the Cochrane 'risk of bias' tool and the PEDro scale. The combined body of evidence was summarised using the GRADE approach. The results were aggregated using meta-analysis for those trials that provided sufficient data to do so."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-five trials, studying 69 exercise interventions, were eligible for this review, including 2250 people with MS. The prescribed exercise interventions were categorised as endurance training (23 interventions), muscle power training (nine interventions), task-oriented training (five interventions), mixed training (15 interventions), or 'other' (e.g. yoga; 17 interventions). Thirty-six included trials (1603 participants) provided sufficient data on the outcome of fatigue for meta-analysis. In general, exercise interventions were studied in mostly participants with the relapsing-remitting MS phenotype, and with an Expanded Disability Status Scale less than 6.0. Based on 26 trials that used a non-exercise control, we found a significant effect on fatigue in favour of exercise therapy (standardized mean difference (SMD) -0.53, 95% confidence interval (CI) -0.73 to -0.33; P value < 0.01). However, there was significant heterogeneity between trials (I2 > 58%). The mean methodological quality, as well as the combined body of evidence, was moderate. When considering the different types of exercise therapy, we found a significant effect on fatigue in favour of exercise therapy compared to no exercise for endurance training (SMDfixed effect -0.43, 95% CI -0.69 to -0.17; P value < 0.01), mixed training (SMDrandom effect -0.73, 95% CI -1.23 to -0.23; P value < 0.01), and 'other' training (SMDfixed effect -0.54, 95% CI -0.79 to -0.29; P value < 0.01). Across all studies, one fall was reported. Given the number of MS relapses reported for the exercise condition (N = 25) and non-exercise control condition (N = 26), exercise does not seem to be associated with a significant risk of a MS relapse. However, in general, MS relapses were defined and reported poorly."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Exercise therapy can be prescribed in people with MS without harm. Exercise therapy, and particularly endurance, mixed, or 'other' training, may reduce self reported fatigue. However, there are still some important methodological issues to overcome. Unfortunately, most trials did not explicitly include people who experienced fatigue, did not target the therapy on fatigue specifically, and did not use a validated measure of fatigue as the primary measurement of outcome."
+    }
+  ],
+  "pls_title": "Exercise therapy for fatigue in multiple sclerosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Multiple sclerosis (MS) is a chronic disease affecting over 1.3 million people globally. MS is characterized by diffuse damage to the central nervous system, leading to a wide range of different physical and cognitive (mental processes) symptoms. One of the most prominent and disabling symptoms of MS is fatigue. Currently, there is no effective medicine to reduce fatigue in people with MS. Treatment with exercise may be a way to reduce fatigue either directly by changing how the body works, for example hormonal function, or indirectly through improved physical activity and general health."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases for clinical trials comparing exercise to no exercise or other treatments in adults with MS. The evidence is current to October 2014."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 45 trials, involving 2250 people with MS, assessing the effect of exercise therapy using self reported fatigue. We used 36 studies, involving 1603 people with MS, in an analysis. Combined, these 36 trials supported the idea that exercise therapy may be a promising treatment to reduce fatigue without side events. This finding seems especially true for endurance training, mixed training (i.e. muscle power training mixed with endurance training), or 'other' training (e.g. yoga, tai-chi). To assess the safety of exercise therapy we counted the number of reported MS relapses in the people receiving exercise therapy and in people in a non-exercise group and did not find a significant difference."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Even though these results are promising, it is worth noting some methods used in the trials may have affected the reliability of the results. For example, most trials included a low number of participants and did not primarily aim to reduce fatigue (but, for instance, aimed to improve walking capability) with the assessment of fatigue being a secondary measure. However, in contrast, exercise therapy may also be less feasible for people with MS who are severely fatigued. In addition, the reporting and definition of MS relapses was in general poor, and lacked consistency. Future, high-quality research is warranted to elucidate the feasibility, effects, and working mechanisms of exercise therapy. Future studies may benefit from a uniform definition of fatigue, and subsequently be designed to measure fatigue specifically."
+    }
+  ]
+}

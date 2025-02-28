@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015201",
+  "name": "Obesity as an independent risk factor for COVID‐19 severity and mortality",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Since December 2019, the world has struggled with the COVID-19 pandemic. Even after the introduction of various vaccines, this disease still takes a considerable toll. In order to improve the optimal allocation of resources and communication of prognosis, healthcare providers and patients need an accurate understanding of factors (such as obesity) that are associated with a higher risk of adverse outcomes from the COVID-19 infection."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate obesity as an independent prognostic factor for COVID-19 severity and mortality among adult patients in whom infection with the COVID-19 virus is confirmed."
+    },
+    {
+      "heading": "Search methods",
+      "text": "MEDLINE, Embase, two COVID-19 reference collections, and four Chinese biomedical databases were searched up to April 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included case-control, case-series, prospective and retrospective cohort studies, and secondary analyses of randomised controlled trials if they evaluated associations between obesity and COVID-19 adverse outcomes including mortality, mechanical ventilation, intensive care unit (ICU) admission, hospitalisation, severe COVID, and COVID pneumonia. Given our interest in ascertaining the independent association between obesity and these outcomes, we selected studies that adjusted for at least one factor other than obesity. Studies were evaluated for inclusion by two independent reviewers working in duplicate."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Using standardised data extraction forms, we extracted relevant information from the included studies. When appropriate, we pooled the estimates of association across studies with the use of random-effects meta-analyses. The Quality in Prognostic Studies (QUIPS) tool provided the platform for assessing the risk of bias across each included study. In our main comparison, we conducted meta-analyses for each obesity class separately. We also meta-analysed unclassified obesity and obesity as a continuous variable (5 kg/m2 increase in BMI (body mass index)). We used the GRADE framework to rate our certainty in the importance of the association observed between obesity and each outcome. As obesity is closely associated with other comorbidities, we decided to prespecify the minimum adjustment set of variables including age, sex, diabetes, hypertension, and cardiovascular disease for subgroup analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 171 studies, 149 of which were included in meta-analyses.  As compared to 'normal' BMI (18.5 to 24.9 kg/m2) or patients without obesity, those with obesity classes I (BMI 30 to 35 kg/m2), and II (BMI 35 to 40 kg/m2) were not at increased odds for mortality (Class I: odds ratio [OR] 1.04, 95% confidence interval [CI] 0.94 to 1.16, high certainty (15 studies, 335,209 participants); Class II: OR 1.16, 95% CI 0.99 to 1.36, high certainty (11 studies, 317,925 participants)). However, those with class III obesity (BMI 40 kg/m2 and above) may be at increased odds for mortality (Class III: OR 1.67, 95% CI 1.39 to 2.00, low certainty, (19 studies, 354,967 participants)) compared to normal BMI or patients without obesity. For mechanical ventilation, we observed increasing odds with higher classes of obesity in comparison to normal BMI or patients without obesity (class I: OR 1.38, 95% CI 1.20 to 1.59, 10 studies, 187,895 participants, moderate certainty; class II: OR 1.67, 95% CI 1.42 to 1.96, 6 studies, 171,149 participants, high certainty; class III: OR 2.17, 95% CI 1.59 to 2.97, 12 studies, 174,520 participants, high certainty). However, we did not observe a dose-response relationship across increasing obesity classifications for ICU admission and hospitalisation."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our findings suggest that obesity is an important independent prognostic factor in the setting of COVID-19. Consideration of obesity may inform the optimal management and allocation of limited resources in the care of COVID-19 patients."
+    }
+  ],
+  "pls_title": "Obesity and adverse COVID-19 outcomes",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What are the effects of obesity on COVID-19 outcomes?",
+      "text": ""
+    },
+    {
+      "heading": "Key messages",
+      "text": "• There is enough evidence to support the finding that extreme obesity (BMI > 40 kg/m2) increases the chance of a person dying, requiring a breathing tube, being hospitalised, and being admitted to the ICU due to COVID-19.\n• Obesity in general will result in a person requiring a breathing tube.\n• The higher one's BMI gets, the higher the chance that a person will suffer from severe COVID-19 disease."
+    },
+    {
+      "heading": "What is obesity?",
+      "text": "Obesity is defined as abnormal or excessive fat accumulation in different parts of the human body and it presents a risk to health. To assess obesity, different indices such as body mass index (BMI) can be used, which is one's weight in kilograms divided by the square of height in metres. The WHO has classified obesity into three classes. According to this classification, class I obesity includes a BMI ranging from 30 to 35 kg/m2, class II from 35 to 40 kg/m2, and class III from 40 kg/m2 and more."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether obesity has any effects on mortality, requiring a breathing tube, hospitalisation, ICU admission, severe disease or pneumonia due to COVID-19 disease."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We conducted a systematic search in medical databases for evidence looking at the association of obesity and mortality and other outcomes from December 2019 to April 2021. We then categorised and rated these findings based on our confidence in the evidence, study size, and quality."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified 171 eligible studies, with 149 studies (12,045,976 participants) providing quantitative data for at least one of our meta-analyses. In terms of the outcomes, 111 studies reported on mortality, 48 on requiring a breathing tube, 47 on ICU admission, 34 on hospitalisation, 32 on severe COVID-19, six on pneumonia, five on length of hospitalisation, two on length of ICU admission, and one on the duration of the requirement of a breathing tube."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our findings indicate that there is a high certainty of evidence that class III obesity is associated with an increased risk of mortality among COVID-19 patients. However, we found that, in mild cases of obesity (classes I and II), this factor might not be independently associated with increased risk of mortality in COVID-19 patients. Similarly, we are very certain that obesity is an independent important factor associated with the risk of requiring a breathing tube in COVID-19 patients. However, the effect estimate sizes were not consistent with a dose-response relationship across increasing obesity classes for ICU admission, hospitalisation, severe COVID-19 disease and pneumonia. To conclude, this review investigated the potential association between obesity and adverse COVID-19 outcomes. We were able to gather evidence from multiple studies and concluded that the association of obesity with mortality and requiring a breathing tube is of high certainty."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Although BMI is a widely used measurement, the relationship between BMI and body fat is non-linear. Moreover, our review did not discriminate against self-reported and measured BMI. Finally, we were unable to keep up with the rapid pace of publications on COVID-19 despite our best efforts."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is up-to-date to April 2021."
+    }
+  ]
+}

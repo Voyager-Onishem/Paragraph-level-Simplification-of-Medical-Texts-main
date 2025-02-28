@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000190.pub4",
+  "name": "Routine or selective carotid artery shunting for carotid endarterectomy (and different methods of monitoring in selective shunting) ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Temporary interruption of cerebral blood flow during carotid endarterectomy can be avoided by using a shunt across the clamped section of the carotid artery. The shunt may improve the outcome. This is an update of a Cochrane review originally published in 1996 and previously updated in 2002, 2009, and 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of routine versus selective or no shunting, and to assess the best method for selective shunting on death, stroke, and other complications in people undergoing carotid endarterectomy under general anaesthesia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched April 2021), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2021, Issue 4), MEDLINE (1966 to April 2021), Embase (1980 to April 2021), and the Science Citation Index Expanded (SCI-EXPANDED) (1980 to April 2021). We also searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform, and handsearched relevant journals, conference proceedings, and reference lists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised trials of routine shunting compared with no shunting or selective shunting, and trials that compared different shunting policies in people undergoing carotid endarterectomy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three independent review authors performed data extraction, selection, and analysis. A pooled Peto odds ratio (OR) and 95% confidence interval (CI) were computed for all outcomes of interest. Best and worse case scenarios were also calculated in case of unavailable data. Two authors independently assessed risk of bias, and quality of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "No new trials were found for this updated review. Thus, six trials involving 1270 participants are included in this latest review: three trials involving 686 participants compared routine shunting with no shunting, one trial involving 200 participants compared routine shunting with selective shunting, one trial involving 253 participants compared selective shunting with and without near-infrared refractory spectroscopy monitoring, and the other trial involving 131 participants compared shunting with a combination of electroencephalographic and carotid pressure measurement with shunting by carotid pressure measurement alone. Only three trials comparing routine shunting and no shunting were eligible for meta-analysis. Major findings of this comparison found that the routine shunting had less risk of stroke-related death within 30 days of surgery (best case) than no shunting (Peto odds ratio (OR) 0.13, 95% confidence interval (CI) 0.02 to 0.96, I2 not applicable, P = 0.05, low-quality evidence), the routine shunting group had a lower stroke rate within 24 hours of surgery (Peto odds ratio (OR) 0.15, 95% CI 0.03 to 0.78, I2 = not applicable, P = 0.02, low-quality evidence), and ipsilateral stroke within 30 days of surgery (best case) (Peto OR 0.41, 95% CI 0.18 to 0.97, I2 = 52%, P = 0.04, low-quality evidence) than the no shunting group. No difference was found between the groups in terms of postoperative neurological deficit between selective shunting with and without near-infrared refractory spectroscopy monitoring. However, this analysis was inadequately powered to reliably detect the effect. There was no difference between the risk of ipsilateral stroke in participants selected for shunting with the combination of electroencephalographic and carotid pressure assessment compared with pressure assessment alone, although again the data were limited."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review concluded that the data available were too limited to either support or refute the use of routine or selective shunting in carotid endarterectomy when performed under general anaesthesia. Large-scale randomised trials of routine shunting versus selective shunting are required. No method of monitoring in selective shunting has been shown to produce better outcomes."
+    }
+  ],
+  "pls_title": "Routine or selective carotid artery shunting for carotid endarterectomy (and different methods of monitoring in selective shunting)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "We investigated how shunting would affect stroke, death, and other complications, and how the different monitoring methods for selective shunting would impact on these outcomes in people undergoing carotid endarterectomy under general anaesthesia."
+    },
+    {
+      "heading": "Background",
+      "text": "About 20% of strokes result from narrowing of the carotid artery (the main artery supplying blood to the brain). Carotid endarterectomy is an operation to remove this narrowing and therefore reduce the stroke risk. However, there is a 2% to 3% operative risk of causing a stroke. The use of a silicon tube, or shunt, as a temporary bypass can reduce the length of time that blood flow to the brain is interrupted during the operation. This may reduce the perioperative stroke risk but could also result in arterial wall damage and therefore increase the stroke risk. Shunt surgery falls into three categories. First, in routine shunting, the surgeon inserts a shunt in every patient. Second, in selective shunting, the surgeon only uses a shunt in patients with an inadequate blood supply to the brain following clamping; various cerebral monitoring techniques, such as ultrasound for predicting who needs a shunt, have been used in this policy. Third, in no shunting, surgeons do not employ shunts at all."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Six trials were analysed in this updated review, involving a total of 1270 participants. Three trials compared routine shunting with no shunting, one trial compared routine shunting versus selective shunting, and another two trials compared different methods of monitoring in selective shunting. We have not yet identified any trials that compared selective shunting with no shunting. All the included trials assessed shunting used in people undergoing endarterectomy under general anaesthetic. Overall, the participant ages ranged from 40 to 89 years and there were more male than female participants. Where reported, participants were followed up for no longer than 30 days."
+    },
+    {
+      "heading": "Key results",
+      "text": "A very limited number of trials suggested that routine shunting compared to no shunting in patients undergoing carotid endarterectomy under general anaesthesia resulted in a lower stroke-related death within 30 days of surgery, less stroke rate within 24 hours of surgery and ipsilateral rate reduction within 30 days of surgery. More trials are needed."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Low quality of the evidence for all outcomes reduced the reliability of the results. There were significant problems contributing to the low quality, especially in the research methodology."
+    }
+  ]
+}

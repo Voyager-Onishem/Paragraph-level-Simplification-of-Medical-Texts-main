@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011682.pub2",
+  "name": "Self‐management interventions including action plans for exacerbations versus usual care in patients with chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic Obstructive Pulmonary Disease (COPD) self-management interventions should be structured but personalised and often multi-component, with goals of motivating, engaging and supporting the patients to positively adapt their behaviour(s) and develop skills to better manage disease. Exacerbation action plans are considered to be a key component of COPD self-management interventions. Studies assessing these interventions show contradictory results. In this Cochrane Review, we compared the effectiveness of COPD self-management interventions that include action plans for acute exacerbations of COPD (AECOPD) with usual care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy of COPD-specific self-management interventions that include an action plan for exacerbations of COPD compared with usual care in terms of health-related quality of life, respiratory-related hospital admissions and other health outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register of trials, trials registries, and the reference lists of included studies to May 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials evaluating a self-management intervention for people with COPD published since 1995. To be eligible for inclusion, the self-management intervention included a written action plan for AECOPD and an iterative process between participant and healthcare provider(s) in which feedback was provided. We excluded disease management programmes classified as pulmonary rehabilitation or exercise classes offered in a hospital, at a rehabilitation centre, or in a community-based setting to avoid overlap with pulmonary rehabilitation as much as possible."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. We resolved disagreements by reaching consensus or by involving a third review author. Study authors were contacted to obtain additional information and missing outcome data where possible. When appropriate, study results were pooled using a random-effects modelling meta-analysis. The primary outcomes of the review were health-related quality of life (HRQoL) and number of respiratory-related hospital admissions."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 22 studies that involved 3,854 participants with COPD. The studies compared the effectiveness of COPD self-management interventions that included an action plan for AECOPD with usual care. The follow-up time ranged from two to 24 months and the content of the interventions was diverse.\nOver 12 months, there was a statistically significant beneficial effect of self-management interventions with action plans on HRQoL, as measured by the St. George's Respiratory Questionnaire (SGRQ) total score, where a lower score represents better HRQoL. We found a mean difference from usual care of -2.69 points (95% CI -4.49 to -0.90; 1,582 participants; 10 studies; high-quality evidence). Intervention participants were at a statistically significant lower risk for at least one respiratory-related hospital admission compared with participants who received usual care (OR 0.69, 95% CI 0.51 to 0.94; 3,157 participants; 14 studies; moderate-quality evidence). The number needed to treat to prevent one respiratory-related hospital admission over one year was 12 (95% CI 7 to 69) for participants with high baseline risk and 17 (95% CI 11 to 93) for participants with low baseline risk (based on the seven studies with the highest and lowest baseline risk respectively).\nThere was no statistically significant difference in the probability of at least one all-cause hospital admission in the self-management intervention group compared to the usual care group (OR 0.74, 95% CI 0.54 to 1.03; 2467 participants; 14 studies; moderate-quality evidence). Furthermore, we observed no statistically significant difference in the number of all-cause hospitalisation days, emergency department visits, General Practitioner visits, and dyspnoea scores as measured by the (modified) Medical Research Council questionnaire for self-management intervention participants compared to usual care participants. There was no statistically significant effect observed from self-management on the number of COPD exacerbations and no difference in all-cause mortality observed (RD 0.0019, 95% CI -0.0225 to 0.0263; 3296 participants; 16 studies; moderate-quality evidence). Exploratory analysis showed a very small, but significantly higher respiratory-related mortality rate in the self-management intervention group compared to the usual care group (RD 0.028, 95% CI 0.0049 to 0.0511; 1219 participants; 7 studies; very low-quality evidence).\nSubgroup analyses showed significant improvements in HRQoL in self-management interventions with a smoking cessation programme (MD -4.98, 95% CI -7.17 to -2.78) compared to studies without a smoking cessation programme (MD -1.33, 95% CI -2.94 to 0.27, test for subgroup differences: Chi² = 6.89, df = 1, P = 0.009, I² = 85.5%). The number of behavioural change techniques clusters integrated in the self-management intervention, the duration of the intervention and adaptation of maintenance medication as part of the action plan did not affect HRQoL. Subgroup analyses did not detect any potential variables to explain differences in respiratory-related hospital admissions among studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Self-management interventions that include a COPD exacerbation action plan are associated with improvements in HRQoL, as measured with the SGRQ, and lower probability of respiratory-related hospital admissions. No excess all-cause mortality risk was observed, but exploratory analysis showed a small, but significantly higher respiratory-related mortality rate for self-management compared to usual care.\nFor future studies, we would like to urge only using action plans together with self-management interventions that meet the requirements of the most recent COPD self-management intervention definition. To increase transparency, future study authors should provide more detailed information regarding interventions provided. This would help inform further subgroup analyses and increase the ability to provide stronger recommendations regarding effective self-management interventions that include action plans for AECOPD. For safety reasons, COPD self-management action plans should take into account comorbidities when used in the wider population of people with COPD who have comorbidities. Although we were unable to evaluate this strategy in this review, it can be expected to further increase the safety of self-management interventions. We also advise to involve Data and Safety Monitoring Boards for future COPD self-management studies."
+    }
+  ],
+  "pls_title": "Self-management interventions including action plans for patients with Chronic Obstructive Pulmonary Disease (COPD)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We looked at the evidence on the effects of self-management interventions that include action plans for when COPD symptoms get worse. In particular, we looked at the effects on health-related quality of life and hospital admissions related to lung diseases in people with COPD."
+    },
+    {
+      "heading": "Background",
+      "text": "People with COPD, a chronic lung disease, have symptoms that get worse over time leading to loss of well-being (also known as reduction in health-related quality of life, HRQoL). In self-management interventions people with COPD learn what to do in different disease situations, such as when symptoms get worse and to develop skills and change health behaviour to successfully manage their disease. Action plans describe what can be done by people with COPD when symptoms get worse.\nThe effectiveness of action plans for when COPD gets worse is not completely clear. Action plans have become a central part of COPD management and are very often included in COPD self-management programmes."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched up to May 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 22 studies, involving a total of 3,854 participants, that evaluated the effects of self-management interventions that include an action plan. All studies had control groups who received usual care. Follow-up was from two to 24 months."
+    },
+    {
+      "heading": "Key results",
+      "text": "Self-management interventions including an action plan for worsening COPD symptoms improved health-related quality of life compared with usual care (high-quality evidence). The number of people who had at least one hospital admission related to lung disease was reduced among those who participated in a self-management intervention (moderate-quality evidence). There was a very small but significant increase in respiratory-related deaths for self-management interventions (very low-quality evidence).\nThe included studies looked at different content of self-management interventions and action plans. Study populations also differed.\nAlthough we were unable to identify the most effective components, we found that including a smoking cessation programme seemed to be effective to further improve health-related quality of life."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence in this review is reliable, and the evidence for the main findings is moderate to high."
+    }
+  ]
+}

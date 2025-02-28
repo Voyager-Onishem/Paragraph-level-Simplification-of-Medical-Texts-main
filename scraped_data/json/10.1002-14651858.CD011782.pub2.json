@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011782.pub2",
+  "name": "Pentasaccharides for the treatment of deep vein thrombosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Standard treatment of deep vein thrombosis (DVT) is based on antithrombotic therapy, initially with parenteral administration of unfractionated heparin or low molecular weight heparins (LMWH) for five to seven days, then subsequent long-term therapy with oral vitamin K antagonists (e.g. warfarin). Pentasaccharides are novel anticoagulants that may be favourable over standard therapy due to their predictable effect, no need for frequent monitoring or re-dosing, and few known drug interactions. Heparin-induced thrombocytopenia, a harmful effect of heparins, appears to be rare during treatment with pentasaccharides."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and harms of pentasaccharides for the treatment of deep vein thrombosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist (CIS) searched the Specialised Register (22 March 2017) and the Cochrane Central Register of Controlled Trials (CENTRAL) (2017, Issue 2) (searched 22 March 2017). We searched clinical trials databases for details of ongoing or unpublished studies and the reference lists of relevant articles for additional citations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials in which people 18 years of age or older with a DVT confirmed by standard imaging techniques were allocated to receive a pentasaccharide (fondaparinux, idraparinux, or idrabiotaparinux) for the treatment of DVT in comparison with standard therapy or other treatments."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data characterising the included trials according to the methods, participants, interventions, and outcomes. We assessed risk of bias using Cochrane's 'Risk of bias' tool and employed the GRADE methodology to evaluate the quality of the evidence.\nThe main primary outcome for efficacy was recurrent venous thromboembolism (VTE), and the main primary outcome for harm was major and clinically relevant bleeding. Since our outcomes were dichotomous, we calculated the risk ratio (RR) with a 95% confidence interval (CI). We combined the effects of different comparisons through a meta-analysis using a fixed-effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five randomised controlled trials of 6981 participants comparing pentasaccharides with standard therapy or other pentasaccharides. The quality of the evidence varied depending on the outcome and was judged as of moderate to very low quality. We downgraded the quality of the evidence due to risk of bias or imprecision, or both.\nTwo studies evaluated fondaparinux, at doses of 5.0 mg, 7.5 mg, and 10.0 mg, plus vitamin K antagonist in comparison with standard therapy. A meta-analysis of these two studies showed no clear difference in the risk of recurrent VTE (RR 0.80, 95% CI 0.43 to 1.47; 2658 participants); moderate-quality evidence. The frequencies of major bleeding were similar between interventions in the initial period of treatment (approximately five days) (RR 1.15, 95% CI 0.39 to 3.44; 2645 participants) and at three months' follow-up (RR 1.05, 95% CI 0.64 to 1.71; 2645 participants). We judged the quality of the evidence as moderate.\nOne study (757 participants) compared idrabiotaparinux (3.0 mg) with idraparinux (2.5 mg) and demonstrated no clear difference in the risk of recurrent VTE at six months' follow-up (RR 0.72, 95% CI 0.31 to 1.69); low-quality evidence. Major bleeding during the initial treatment period was not reported. Major bleeding at six-month follow-up was less frequent in participants receiving idrabiotaparinux versus participants treated with idraparinux (RR 0.21, 95% CI 0.06 to 0.71); low-quality evidence.\nThe effect of an initial treatment with LMWH followed by three months of idraparinux (10 mg) showed no clear difference from standard therapy for risk of recurrent VTE (RR 1.51, 95% CI 0.26 to 8.90; 263 participants); very low-quality evidence; one study. Major bleeding during the initial treatment period was not reported. The frequency of major and other clinically relevant bleeding at three months' follow-up ranged from 2% to 15% in participants receiving LMWH and increasing doses of idraparinux of 2.5 mg, 5 mg, 7.5 mg, or 10 mg. When dosage groups were combined, there was no clear difference in major plus other clinically relevant bleeding or in major bleeding alone between the idraparinux treatment group and the standard therapy group (RR 1.30, 95% CI 0.70 to 2.40; 659 participants; RR 3.76, 95% CI 0.50 to 28.19; 659 participants, respectively); very low-quality evidence.\nOne study (2904 participants) compared idraparinux (2.5 mg) to standard therapy. There was no clear difference in the risk of recurrent VTE at three months' follow-up (RR 0.98, 95% CI 0.64 to 1.48); low-quality evidence. Major bleeding during the initial treatment period was not reported. Major bleeding at three months of follow-up appeared to be similar in the idraparinux group and the standard therapy group (RR 0.71, 95% CI 0.34 to 1.47); very low-quality evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found moderate-quality evidence that the effects of fondaparinux at doses of 5.0 mg, 7.5 mg, and 10.0 mg plus vitamin K antagonist are similar in terms of recurrent VTE and risk of major bleeding compared with standard treatment for DVT.\nLow-quality evidence suggests equal efficacy of idraparinux at 2.5 mg and the equimolar dose of 3.0 mg of idrabiotaparinux with regard to recurrent VTE, but a higher frequency of major bleeding was observed in participants treated with idraparinux.\nWe judged evidence on the effectiveness of idraparinux compared with standard therapy, with or without initial treatment with LMWH, and on associated bleeding risk to be low to very low quality, therefore we have very limited confidence in the estimated effects.\nThe observed similar effectiveness in terms of recurrent DVT and harmful effects in terms of bleeding risk with fondaparinux plus vitamin K antagonist compared to standard treatment for DVT suggest that it may be an alternative to conventional anticoagulants for the treatment of DVT in certain circumstances."
+    }
+  ],
+  "pls_title": "Pentasaccharides for the treatment of deep vein thrombosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are fondaparinux, idraparinux, and idrabiotaparinux, new anticoagulants (blood-thinning medications) of the class of the pentasaccharides, a safe and effective alternative to conventional anticoagulants used to treat deep vein thrombosis?"
+    },
+    {
+      "heading": "Background",
+      "text": "Deep vein thrombosis is a severe and life-threatening disease caused by the formation of a blood clot in the deep veins, usually in the legs. The conventional treatment consists of injections of the anticoagulant heparins for five to seven days, followed by long-term therapy with oral anticoagulants (vitamin K antagonists, e.g. warfarin). However, the high risk of bleeding and need for frequent laboratory control are important limitations to conventional therapy.\nThe pentasaccharides fondaparinux, idraparinux, and idrabiotaparinux have a more predictable effect and a more convenient dosing regimen in comparison with the conventional treatment. Pentasaccharides also do not require laboratory control and have few known interactions with other medicines and foods. They may be more cost-effective in many settings, and a harmful effect known as heparin-induced thrombocytopenia (heparin injections causing an increase in the risk of clotting (thromboembolic) complications) appears to be rare during treatment with pentasaccharides. Possible limitations of pentasaccharides are that they may be harmful in people with severe renal insufficiency and the need for intravenous or subcutaneous injections to administer these medications."
+    },
+    {
+      "heading": "Study characteristics and key results",
+      "text": "After searching the literature for relevant studies, current until 22 March 2017, we included five studies with a total of 6981 participants. The included studies compared fondaparinux, idraparinux, and idrabiotaparinux versus conventional therapy or each another. Our main outcome to judge the effectiveness of the treatments was the occurrence of a recurrent venous thromboembolism (an episode of deep vein thrombosis or pulmonary embolism), and our main outcome to evaluate the harmful effects of the treatments was major and clinically relevant bleeding."
+    },
+    {
+      "heading": ".",
+      "text": "."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We judged our main results on the effectiveness and harms of fondaparinux plus vitamin K antagonist compared with conventional treatment as of moderate quality. This means that we are confident that these results may be correct, though additional studies could possibly change the estimates. Additonal evidence was largely imprecise and deemed of low to very low quality depending on the outcome. We downgraded the quality of the evidence for risk of bias or imprecision, or both."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007084.pub2",
+  "name": "Effects of sevoflurane versus other general anaesthesia on emergence agitation in children ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sevoflurane is an inhaled volatile anaesthetic that is widely used in paediatric anaesthetic practice. Since its introduction, postoperative behavioural disturbance known as emergence agitation (EA) or emergence delirium (ED) has been recognized as a problem that may occur during recovery from sevoflurane anaesthesia. For the purpose of this systematic review, EA has been used to describe this clinical entity. A child with EA may be restless, may cause self-injury or may disrupt the dressing, surgical site or indwelling devices, leading to the potential for parents to be dissatisfied with their child's anaesthetic. To prevent such outcomes, the child may require pharmacological or physical restraint. Sevoflurane may be a major contributing factor in the development of EA. Therefore, an evidence-based understanding of the risk/benefit profile regarding sevoflurane compared with other general anaesthetic agents and adjuncts would facilitate its rational and optimal use."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare sevoflurane with other general anaesthetic (GA) agents, with or without pharmacological or non-pharmacological adjuncts, with regard to risk of EA in children during emergence from anaesthesia. The primary outcome was risk of EA; secondary outcome was agitation score."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases from the date of inception to 19 January 2013: CENTRAL, Ovid MEDLINE, Ovid EMBASE, the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (EBSCOhost), Evidence-Based Medicine Reviews (EBMR) and the Web of Science, as well as the reference lists of other relevant articles and online trial registers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized (or quasi-randomized) controlled trials investigating children < 18 years of age presenting for general anaesthesia with or without surgical intervention. We included any study in which a sevoflurane anaesthetic was compared with any other GA, and any study in which researchers investigated adjuncts (pharmacological or non-pharmacological) to sevoflurane anaesthesia compared with no adjunct or placebo."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently searched the databases, decided on inclusion eligibility of publications, ascertained study quality and extracted data. They then resolved differences between their results by discussion. Data were entered into RevMan 5.2 for analyses and presentation. Comparisons of the risk of EA were presented as risk ratios (RRs) with 95% confidence intervals (CIs). Sevoflurane is treated as the control anaesthesia in this review. Sensitivity analyses were performed as appropriate, to exclude studies with a high risk of bias and to investigate heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 158 studies involving 14,045 children. Interventions to prevent EA fell into two broad groups. First, alternative GA compared with sevoflurane anaesthesia (69 studies), and second, use of an adjunct with sevoflurane anaesthesia versus sevoflurane without an adjunct (100 studies). The overall risk of bias in included studies was low. The overall Grades of Recommendation, Assessment, Development and Evaluation Working Group (GRADE) assessment of the quality of the evidence was moderate to high. A wide range of EA scales were used, as were different levels of cutoff, to determine the presence or absence of EA. Some studies involved children receiving potentially inadequate or no analgesia intraoperatively during painful procedures.\nHalothane (RR 0.51, 95% CI 0.41 to 0.63, 3534 participants, high quality of evidence) and propofol anaesthesia were associated with a lower risk of EA than sevoflurane anaesthesia. Propofol was effective when used throughout anaesthesia (RR 0.35, 95% CI 0.25 to 0.51, 1098 participants, high quality of evidence) and when used only during the maintenance phase of anaesthesia after sevoflurane induction (RR 0.59, 95% CI 0.46 to 0.76, 738 participants, high quality of evidence). No clear evidence was found of an effect on risk of EA of desflurane (RR 1.46, 95% CI 0.92 to 2.31, 408 participants, moderate quality of evidence) or isoflurane (RR 0.76, 95% CI 0.46 to 1.23, 379 participants, moderate quality of evidence) versus sevoflurane.\nCompared with no adjunct, effective adjuncts for reducing the risk of EA during sevoflurane anaesthesia included dexmedetomidine (RR 0.37, 95% CI 0.29 to 0.47, 851 participants, high quality of evidence), clonidine (RR 0.45, 95% CI 0.31 to 0.66, 739 participants, high quality of evidence), opioids, in particular fentanyl (RR 0.37, 95% CI 0.27 to 0.50, 1247 participants, high quality of evidence) and a bolus of propofol (RR 0.58, 95% CI 0.38 to 0.89, 394 participants, moderate quality of evidence), ketamine (RR 0.30, 95% CI 0.13 to 0.69, 231 participants, moderate quality of evidence) or midazolam (RR 0.57, 95% CI 0.41 to 0.81, 116 participants, moderate quality of evidence) at the end of anaesthesia. Midazolam oral premedication (RR 0.81, 95% CI 0.59 to 1.12, 370 participants, moderate quality of evidence) and parental presence at emergence (RR 0.91, 95% CI 0.51 to 1.60, 180 participants, moderate quality of evidence) did not reduce the risk of EA.\nOne or more factors designated as high risk of bias were noted in less than 10% of the included studies. Sensitivity analyses of these studies showed no clinically relevant changes in the risk of EA. Heterogeneity was significant with respect to these comparisons: halothane; clonidine; fentanyl; midazolam premedication; propofol 1 mg/kg bolus at end; and ketamine 0.25 mg/kg bolus at end of anaesthesia. With investigation of heterogeneity, the only clinically relevant changes to findings were seen in the context of potential pain, namely, the setting of adenoidectomy/adenotonsillectomy (propofol bolus; midazolam premedication) and the absence of a regional block (clonidine)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Propofol, halothane, alpha-2 agonists (dexmedetomidine, clonidine), opioids (e.g. fentanyl) and ketamine reduce the risk of EA compared with sevoflurane anaesthesia, whereas no clear evidence shows an effect for desflurane, isoflurane, midazolam premedication and parental presence at emergence. Therefore anaesthetists can consider several effective strategies to reduce the risk of EA in their clinical practice. Future studies should ensure adequate analgesia in the control group, for which pain may be a contributing or confounding factor in the diagnosis of EA. Regardless of the EA scale used, it would be helpful for study authors to report the risk of EA, so that this might be included in future meta-analyses. Researchers should also consider combining effective interventions as a multi-modal approach to further reduce the risk of EA."
+    }
+  ],
+  "pls_title": "Agitation in children after sevoflurane anaesthesia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence looking at how often children wake up agitated after a sevoflurane general anaesthetic compared with other general anaesthetics. We also reviewed evidence looking at the effects of other treatments (e.g. a medication given during the anaesthetic, the presence of a parent when a child wakes up) on how often children wake up agitated after receiving a sevoflurane anaesthetic."
+    },
+    {
+      "heading": "Background",
+      "text": "Sevoflurane is a commonly used anaesthetic gas for children because it can be breathed in by face mask and works very quickly in getting children off to sleep. Sevoflurane is given continuously during an operation to keep the child asleep, and it is turned off when it is time for the child to wake up. It is very common for children, especially preschool children, to wake up restless, agitated, delirious or thrashing around after receiving a sevoflurane anaesthetic. We call this \"emergence agitation.\" It can occur even when no pain is present and usually resolves within 30 minutes of waking up. Children with emergence agitation may injure themselves, bump the operation wound and pull out drips or wound drains. Emergence agitation can be distressing for parents and caregivers. We wanted to discover whether the rate of emergence agitation is lowered when different anaesthetics are used. We also wanted to know whether treatments can be given to reduce the rate of emergence agitation when sevoflurane is used."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to January 2013. We found a total of 158 studies involving 14,045 children. A total of 69 studies compared a sevoflurane anaesthetic with a different anaesthetic, and 100 studies looked at treatments to reduce the rate of emergence agitation with a sevoflurane anaesthetic. Most of these treatments were medications that were compared with a dummy treatment (placebo) or with no medication. We reran the search in April 2014 and will address identified studies of interest when we update the review."
+    },
+    {
+      "heading": "Key results",
+      "text": "The medications propofol, halothane, alpha-2 agonists (dexmedetomidine, clonidine), opioids (e.g. fentanyl) and ketamine reduce the rate of emergence agitation, whereas no clear evidence of an effect was found for the anaesthetic gases desflurane and isoflurane, the premedication midazolam and parental presence when a child wakes up from anaesthesia."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall the evidence is of moderate to high quality. Researchers should consider combining effective interventions to see whether the risk of EA can be reduced further."
+    }
+  ]
+}

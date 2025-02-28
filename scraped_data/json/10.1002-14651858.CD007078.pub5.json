@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007078.pub5",
+  "name": "Internet‐based interventions for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tobacco use is estimated to kill 7 million people a year. Nicotine is highly addictive, but surveys indicate that almost 70% of US and UK smokers would like to stop smoking. Although many smokers attempt to give up on their own, advice from a health professional increases the chances of quitting. As of 2016 there were 3.5 billion Internet users worldwide, making the Internet a potential platform to help people quit smoking."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of Internet-based interventions for smoking cessation, whether intervention effectiveness is altered by tailoring or interactive features, and if there is a difference in effectiveness between adolescents, young adults, and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Specialised Register, which included searches of MEDLINE, Embase and PsycINFO (through OVID). There were no restrictions placed on language, publication status or publication date. The most recent search was conducted in August 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs). Participants were people who smoked, with no exclusions based on age, gender, ethnicity, language or health status. Any type of Internet intervention was eligible. The comparison condition could be a no-intervention control, a different Internet intervention, or a non-Internet intervention. To be included, studies must have measured smoking cessation at four weeks or longer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed and extracted data. We extracted and, where appropriate, pooled smoking cessation outcomes of six-month follow-up or more, reporting short-term outcomes narratively where longer-term outcomes were not available. We reported study effects as a risk ratio (RR) with a 95% confidence interval (CI).\nWe grouped studies according to whether they (1) compared an Internet intervention with a non-active control arm (e.g. printed self-help guides), (2) compared an Internet intervention with an active control arm (e.g. face-to-face counselling), (3) evaluated the addition of behavioural support to an Internet programme, or (4) compared one Internet intervention with another. Where appropriate we grouped studies by age."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 67 RCTs, including data from over 110,000 participants. We pooled data from 35,969 participants.\nThere were only four RCTs conducted in adolescence or young adults that were eligible for meta-analysis.\nResults for trials in adults: Eight trials compared a tailored and interactive Internet intervention to a non-active control. Pooled results demonstrated an effect in favour of the intervention (RR 1.15, 95% CI 1.01 to 1.30, n = 6786). However, statistical heterogeneity was high (I2 = 58%) and was unexplained, and the overall quality of evidence was low according to GRADE. Five trials compared an Internet intervention to an active control. The pooled effect estimate favoured the control group, but crossed the null (RR 0.92, 95% CI 0.78 to 1.09, n = 3806, I2 = 0%); GRADE quality rating was moderate. Five studies evaluated an Internet programme plus behavioural support compared to a non-active control (n = 2334). Pooled, these studies indicated a positive effect of the intervention (RR 1.69, 95% CI 1.30 to 2.18). Although statistical heterogeneity was substantial (I2 = 60%) and was unexplained, the GRADE rating was moderate. Four studies evaluated the Internet plus behavioural support compared to active control. None of the studies detected a difference between trial arms (RR 1.00, 95% CI 0.84 to 1.18, n = 2769, I2 = 0%); GRADE rating was moderate. Seven studies compared an interactive or tailored Internet intervention, or both, to an Internet intervention that was not tailored/interactive. Pooled results favoured the interactive or tailored programme, but the estimate crossed the null (RR 1.10, 95% CI 0.99 to 1.22, n = 14,623, I2 = 0%); GRADE rating was moderate. Three studies compared tailored with non-tailored Internet-based messages, compared to non-tailored messages. The tailored messages produced higher cessation rates compared to control, but the estimate was not precise (RR 1.17, 95% CI 0.97 to 1.41, n = 4040), and there was evidence of unexplained substantial statistical heterogeneity (I2 = 57%); GRADE rating was low.\nResults should be interpreted with caution as we judged some of the included studies to be at high risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence from trials in adults suggests that interactive and tailored Internet-based interventions with or without additional behavioural support are moderately more effective than non-active controls at six months or longer, but there was no evidence that these interventions were better than other active smoking treatments. However some of the studies were at high risk of bias, and there was evidence of substantial statistical heterogeneity. Treatment effectiveness in younger people is unknown."
+    }
+  ],
+  "pls_title": "Can Internet-based interventions help people to stop smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Tobacco use is estimated to kill 7 million people a year. Nicotine is highly addictive, but surveys indicate that almost 70% of US and UK smokers would like to stop smoking. Although many smokers attempt to give up on their own, advice from a health professional increases the chances of quitting. As of 2016 there were 3.5 billion Internet users worldwide. The Internet is an attractive platform to help people quit smoking because of low costs per user, and it has potential to reach smokers who might not access support because of limited health care availability or stigmatisation. Internet-based interventions could also be used to target young people who smoke, or others who may not seek traditional methods of smoking treatment."
+    },
+    {
+      "heading": "Study Characteristics",
+      "text": "Up to August 2016, this review found 67 trials, including data from over 110,000 participants. Smoking cessation data after six months or more were available for 35,969 participants. We examined a range of Internet interventions, from a low intensity intervention, for example providing participants with a list of websites for smoking cessation, to intensive interventions consisting of Internet-, email- and mobile phone-delivered components. We classed interventions as tailored or interactive, or both. Tailored Internet interventions differed in the amount of tailoring, from multimedia components to personalised message sources. Some interventions also included Internet-based counselling or support from nurses, peer coaches or tobacco treatment specialists. Recent trials incorporated online social networks, such as Facebook, Twitter, and other online forums."
+    },
+    {
+      "heading": "Key results",
+      "text": "In combined results, Internet programmes that were interactive and tailored to individual responses led to higher quit rates than usual care or written self-help at six months or longer."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "There were not many trials conducted in younger people. More trials are needed to determine the effect on Internet-based methods to aid quitting in youth and young adults. Results should be interpreted with caution, as we rated some of the included studies at high risk of bias, and for most outcomes the quality of evidence was moderate or low."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD002042.pub5",
+  "name": "Transfusion thresholds for guiding red blood cell transfusion",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The optimal haemoglobin threshold for use of red blood cell (RBC) transfusions in anaemic patients remains an active field of research. Blood is a scarce resource, and in some countries, transfusions are less safe than in others because of inadequate testing for viral pathogens. If a liberal transfusion policy does not improve clinical outcomes, or if it is equivalent, then adopting a more restrictive approach could be recognised as the standard of care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of this review update was to compare 30-day mortality and other clinical outcomes for participants randomised to restrictive versus liberal red blood cell (RBC) transfusion thresholds (triggers) for all clinical conditions. The restrictive transfusion threshold uses a lower haemoglobin concentration as a threshold for transfusion (most commonly, 7.0 g/dL to 8.0 g/dL), and the liberal transfusion threshold uses a higher haemoglobin concentration as a threshold for transfusion (most commonly, 9.0 g/dL to 10.0 g/dL)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials through updated searches: CENTRAL (2020, Issue 11), MEDLINE (1946 to November 2020), Embase (1974 to November 2020), Transfusion Evidence Library (1950 to November 2020), Web of Science Conference Proceedings Citation Index (1990 to November 2020), and trial registries (November 2020). We  checked the reference lists of other published reviews and relevant papers to identify additional trials. We were aware of one trial identified in earlier searching that was in the process of being published (in February 2021), and we were able to include it before this review was finalised."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials of surgical or medical participants that recruited adults or children, or both. We excluded studies that focused on neonates.\nEligible trials assigned intervention groups on the basis of different transfusion schedules or thresholds or 'triggers'. These thresholds would be defined by a haemoglobin (Hb) or haematocrit (Hct) concentration below which an RBC transfusion would be administered; the haemoglobin concentration remains the most commonly applied marker of the need for RBC transfusion in clinical practice. We included trials in which investigators had allocated participants to higher thresholds or more liberal transfusion strategies compared to more restrictive ones, which might include no transfusion. As in previous versions of this review, we did not exclude unregistered trials published after 2010 (as per the policy of the Cochrane Injuries Group, 2015), however, we did conduct analyses to consider the differential impact of results of trials for which prospective registration could not be confirmed."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We identified trials for inclusion and extracted data using Cochrane methods. We pooled risk ratios of clinical outcomes across trials using a random-effects model. Two review authors independently extracted data and assessed risk of bias. We conducted predefined analyses by clinical subgroups. We defined participants randomly allocated to the lower transfusion threshold as being in the 'restrictive transfusion' group and those randomly allocated to the higher transfusion threshold as being in the 'liberal transfusion' group."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 48 trials, involving data from 21,433 participants (at baseline), across a range of clinical contexts (e.g. orthopaedic, cardiac, or vascular surgery; critical care; acute blood loss (including gastrointestinal bleeding); acute coronary syndrome; cancer; leukaemia; haematological malignancies), met the eligibility criteria. The haemoglobin concentration used to define the restrictive transfusion group in most trials (36) was between 7.0 g/dL and 8.0 g/dL.  Most trials included only adults; three trials focused on children.\nThe included studies were generally at low risk of bias for key domains including allocation concealment and incomplete outcome data.\nRestrictive transfusion strategies reduced the risk of receiving at least one RBC transfusion by 41% across a broad range of clinical contexts (risk ratio (RR) 0.59, 95% confidence interval (CI) 0.53 to 0.66; 42 studies, 20,057 participants; high-quality evidence), with a large amount of heterogeneity between trials (I² = 96%).\nOverall, restrictive transfusion strategies did not increase or decrease the risk of 30-day mortality compared with liberal transfusion strategies (RR 0.99, 95% CI 0.86 to 1.15; 31 studies, 16,729 participants; I² = 30%; moderate-quality evidence) or any of the other outcomes assessed (i.e. cardiac events (low-quality evidence), myocardial infarction, stroke, thromboembolism (all high-quality evidence)). High-quality evidence shows that the liberal transfusion threshold did not affect the risk of infection (pneumonia, wound infection, or bacteraemia). Transfusion-specific reactions are uncommon and were inconsistently reported within trials.\nWe noted less certainty in the strength of evidence to support the safety of restrictive transfusion thresholds for the following predefined clinical subgroups: myocardial infarction, vascular surgery, haematological malignancies, and chronic bone-marrow disorders."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Transfusion at a restrictive haemoglobin concentration decreased the proportion of people exposed to RBC transfusion by 41% across a broad range of clinical contexts. Across all trials, no evidence suggests that a restrictive transfusion strategy impacted 30-day mortality, mortality at other time points, or morbidity (i.e. cardiac events, myocardial infarction, stroke, pneumonia, thromboembolism, infection) compared with a liberal transfusion strategy.\nDespite including 17 more randomised trials (and 8846 participants), data remain insufficient to inform the safety of transfusion policies in important and selected clinical contexts, such as myocardial infarction, chronic cardiovascular disease, neurological injury or traumatic brain injury, stroke, thrombocytopenia, and cancer or haematological malignancies, including chronic bone marrow failure.\nFurther work is needed to improve our understanding of outcomes other than mortality. Most trials compared only two separate thresholds for haemoglobin concentration, which may not identify the actual optimal threshold for transfusion in a particular patient. Haemoglobin concentration may not be the most informative marker of the need for transfusion in individual patients with different degrees of physiological adaptation to anaemia. Notwithstanding these issues, overall findings provide good evidence that transfusions with allogeneic RBCs can be avoided in most patients with haemoglobin thresholds between the range of 7.0 g/dL and 8.0 g/dL. Some patient subgroups might benefit from RBCs to maintain higher haemoglobin concentrations; research efforts should focus on these clinical contexts."
+    }
+  ],
+  "pls_title": "Is it safe to use lower blood counts (haemoglobin levels) as a trigger for blood transfusion in order to give fewer blood transfusions?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "•There is no evidence that giving blood transfusions to patients with lower blood counts (haemoglobin levels of 7.0 g/dL to 8.0 g/dL) compared to higher blood counts (9.0 g/dL to 10.0 g/dL) affects risks of death, heart attack, myocardial infarction, stroke, pneumonia, blood clots or infection.\n• Giving blood only to patients with lower blood counts (7.0 g/dL to 8.0 g/dL) would reduce the amount of blood transfused substantially. It would also reduce the risk of unnecessary transfusions (transfusions can have harmful effects).\n• More research is needed to:\n- establish the blood count at which a blood transfusion is needed in people who have suffered a heart attack, brain injury, or have cancer; and to\n- improve our understanding of outcomes other than death, including quality of life."
+    },
+    {
+      "heading": "What happens in people who need blood transfusions?",
+      "text": "Doctors and healthcare professionals often give blood transfusions to people who lose blood through surgery, bleeding, or illness. For example, blood transfusions may help patients with anaemia to recover after surgery, but they should only be given when they help people to get better from their medical condition. Blood is a limited resource and transfusion is not risk-free, especially for people in low-income countries where the blood used in transfusions may not be tested for harmful viruses such as HIV or hepatitis."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "The blood count measures the amount of haemoglobin in the blood. Haemoglobin is a protein that gives blood its red colour and carries oxygen around the body. A normal blood count is around 12 grams a decilitre (12 g/dL). We wanted to find out if it is safe to withhold blood transfusion until the blood count drops to between 7.0 g/dL to 8.0 g/dL, rather than transfusing sooner at higher blood counts of between 9.0 g/dL to 10.0 g/dL."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We examined the results of studies that allocated patients to one of two groups by chance (for example, by flipping a coin). In one group, the patients only received blood transfusions if their blood count fell below a higher threshold (typically, 9.0 g/dL to 10.0 g/dL). In the other group, the patients only received blood transfusions if their blood counts fell below a lower threshold (typically, 7.0 g/dL to 8.0 g/dL)."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 48 studies that involved 21,433 patients. The patients had been hospitalised for a range of reasons including: bone (orthopaedic), heart (cardiac) or vascular surgery; critical care; acute blood loss (for example, through bleeding in the stomach or intestines); heart diseases; cancer and blood cancers. The studies compared higher or lower blood count thresholds for blood transfusion. (The ‘threshold’ is the blood count level that would need to be met before a transfusion would be given.)\nTransfusion\nWe found that patients who received transfusions only at lower blood count thresholds were 41% less likely to receive a blood transfusion than those who received them only at higher blood count thresholds. If the lower threshold were applied routinely by medical staff, it would lead to a substantial reduction in the quantity of blood needed.\nDeath and harmful events\nThere was no clear difference in the risk of dying within 30 days of receiving, or not receiving, a transfusion for patients in the two different threshold groups.\nThere was also no clear difference between the low and high threshold groups for the number of serious harmful events that occurred after patients received, or did not receive, blood transfusions. The harmful events recorded included infection (pneumonia, wound infection, and blood poisoning), heart attacks, strokes, and problems with blood clots."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We found that most of the studies provided a high quality of evidence; they were adequately conducted and used methods that minimised biases that could make the validity of the results uncertain.\nWe are confident in the evidence regarding likelihood of receiving a transfusion, death within 30 days of transfusion, heart attack, stroke and infection. We are moderately confident in the evidence for problems caused by blood clots, but too few occurred in either group for us to be more confident.\nToo few studies evaluated quality of life for us to be able to see whether it varied between groups."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This Cochrane Review updates our previous work on this subject (last published in 2016). Seventeen new studies are included. The evidence is up to date to November 2020."
+    }
+  ]
+}

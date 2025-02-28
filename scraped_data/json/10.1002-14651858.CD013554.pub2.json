@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013554.pub2",
+  "name": "Interventions for treating catheter‐related bloodstream infections in people receiving maintenance haemodialysis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Patients with kidney failure require vascular access to receive maintenance haemodialysis (HD), which can be achieved by an arteriovenous fistula or a central venous catheter (CVC). CVC use is related to frequent complications such as venous stenosis and infection. Venous stenosis occurs mainly due to trauma caused by the entrance of the catheter into the venous lumen and repeated contact with the vein wall.  A biofilm, a colony of irreversible adherent and self-sufficient micro-organisms embedded in a self-produced matrix of exopolysaccharides, is associated with the development of infections in patients with indwelling catheters. Despite its clinical relevance, the treatment of catheter-related bloodstream infections (CRBSIs) in patients receiving maintenance HD remains controversial, especially regarding catheter management. Antibiotic lock solutions may sterilise the catheter, treat the infection and prevent unnecessary catheter procedures. However, such treatment may also lead to antibiotic resistance or even clinical worsening in certain more virulent pathogens. Catheter removal and delayed replacement may remove the source of infection, improving infectious outcomes, but this approach may also increase vascular access stenosis, thrombosis or both, or even central vein access failure. Catheter guidewire exchange attempts to remove the source of infection while maintaining access to the same vein and, therefore, may improve clinical outcomes and preserve central veins for future access."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of different interventions for CRBSI treatment in patients receiving maintenance HD through a permanent CVC, such as systemic antibiotics alone or systemic antibiotics combined with either lock solutions or catheter guidewire exchange or catheter replacement."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 21 December 2021 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register were identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) and quasi-RCTs evaluating the management of CRBSI in permanent CVCs in people receiving maintenance HD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies for inclusion, assessed their risk of bias, and performed data extraction. Results were expressed as risk ratios (RR) or hazard ratios (HR) for dichotomous outcomes and mean difference (MD) for continuous outcomes, with their 95% confidence intervals (CI). The certainty of the evidence was assessed using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified two RCTs and one quasi-RCT that enrolled 760 participants addressing the treatment of CRBSIs in people (children and adults) receiving maintenance HD through CVC. No two studies compared the same interventions. The quasi-RCT compared two different lock solutions (tissue plasminogen activator (TPA) and heparin) with concurrent systemic antibiotics. One RCT compared systemic antibiotics alone and in association with an ethanol lock solution, and the other compared systemic antibiotics with different catheter management strategies (guidewire exchange versus removal and replacement). The overall certainty of the evidence was downgraded due to the small number of participants, high risk of bias in many domains, especially randomisation, allocation, and other sources of bias, and missing outcome data. It is uncertain whether an ethanol lock solution used with concurrent systemic antibiotics improved CRBSI eradication compared to systemic antibiotics alone (RR 1.61, 95% CI 1.16 to 2.23) because the certainty of this evidence is very low. There were no reported differences between the effects of TPA and heparin lock solutions on cure rates (RR 0.92, 95% CI 0.74 to 1.15) or between catheter guidewire exchange versus catheter removal with delayed replacement, expressed as catheter infection-free survival (HR 0.88, 95% CI 0.43 to 1.79). To date, no results are available comparing other interventions.\nOutcomes such as venous stenosis and/or thrombosis, antibiotic resistance, death, and adverse events were not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently, there is no available high certainty evidence to support one treatment over another for CRBSIs. The benefit of using ethanol lock treatment in combination with systemic antibiotics compared to systemic antibiotics alone for CRBSIs in patients receiving maintenance HD remains uncertain due to the very low certainty of the evidence. Hence, further RCTs to identify the benefits and harms of CRBSI treatment options are needed. Future studies should unify CRBSI and cure definitions and improve methodological design."
+    }
+  ],
+  "pls_title": "Interventions for treating catheter-related bloodstream infections in people receiving maintenance haemodialysis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Patients with kidney failure require kidney replacement therapy (KRT) to sustain life. Among KRT options, haemodialysis (HD) is the primary method of dialysis. Patients receiving HD via an indwelling catheter have a higher risk of developing bloodstream infections. There are several options for treating these bloodstream infections. These include lock solutions (the infusion of high doses of antibiotic inside each of the catheter ports between the dialysis sessions), removal of the catheter followed by a new insertion after initial clinical improvement, exchange of the catheter for a new one by a guidewire (inserted through one of the catheter's ports into the same vein, allowing the preservation of the venous site), and the use of systemic antibiotics (used in isolated or combined with other treatments). Each treatment has its own inherent risks."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched Cochrane Kidney and Transplant’s Specialised Register up to 21 December 2021 and performed a systematic review of studies investigating treatment options for catheter-related bloodstream infection in patients undergoing HD."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found three studies enrolling 760 participants that compared various treatments for catheter-related bloodstream infections. No studies compared similar treatment strategies or had similar outcomes, and therefore we were unable to combine data in our meta-analyses. The comparisons included systemic antibiotics with two different lock solutions, systemic antibiotics alone versus systemic antibiotics plus an ethanol lock solution, and systemic antibiotics plus catheter removal versus systemic antibiotics plus catheter exchange.\nOne study reported a higher success rate for clearing infection with systemic antibiotics plus ethanol locking treatment than systemic antibiotics alone. The other studies reported no difference between their two treatment arms. Outcomes such as venous stenosis and/or thrombosis, antibiotic resistance, death, and adverse events were not reported."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Further randomised studies to identify the benefits and harms of catheter-related bloodstream infection treatments are needed."
+    }
+  ]
+}

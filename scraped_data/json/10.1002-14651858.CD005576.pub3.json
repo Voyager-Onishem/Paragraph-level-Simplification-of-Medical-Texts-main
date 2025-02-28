@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD005576.pub3",
+  "name": "Hypertonic salt solution for peri‐operative fluid management",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fluid excess may place people undergoing surgery at risk for various complications. Hypertonic salt solution (HS) maintains intravascular volume with less intravenous fluid than isotonic salt (IS) solutions, but may increase serum sodium. This review was published in 2010 and updated in 2016."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the benefits and harms of HS versus IS solutions administered for fluid resuscitation to people undergoing surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In this updated review we have searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 4, 2016); MEDLINE (January 1966 to April 2016); EMBASE (January 1980 to April 2016); LILACS (January 1982 to April 2016) and CINAHL (January 1982 to April 2016) without language restrictions. We conducted the original search on April 30th, 2007, and reran it on April 8th, 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We have included randomized clinical trials (RCTs) comparing HS to IS in people undergoing surgery, irrespective of blinding, language, and publication status."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors read studies that met our selection criteria. We collected study information and data using a data collection sheet with predefined parameters. We have assessed the impact of HS administration on mortality, organ failure, fluid balance, serum sodium, serum osmolarity, diuresis and physiologic measures of cardiovascular function. We have pooled the data using the mean difference (MD) for continuous outcomes. We evaluated heterogeneity between studies by I² percentage. We consider studies with an I² of 0% to 30% to have no or little heterogeneity, 30% to 60% as having moderate heterogeneity, and more than 60% as having high heterogeneity. In studies with low heterogeneity we have used a fixed-effect model, and a random-effects model for studies with moderate to high heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We have included 18 studies with 1087 participants of whom 545 received HS compared to 542 who received IS. All participants were over 18 years of age and all trials excluded high-risk patients (ASA IV). All trials assessed haematological parameters peri-operatively and up to three days post-operatively.\nThere were three (< 1%) deaths reported in the IS group and four (< 1%) in the HS group, as assessed at 90 days in one study. There were no reports of serious adverse events. Most participants were in a positive fluid balance postoperatively (4.4 L IS and 2.5 L HS), with the excess significantly less in HS participants (MD -1.92 L, 95% confidence interval (CI) -2.61 to -1.22 L; P < 0.00001). IS participants received a mean volume of 2.4 L and HS participants received 1.49 L, significantly less fluid than IS-treated participants (MD -0.91 L, 95% CI -1.24 to -0.59 L; P < 0.00001). The maximum average serum sodium ranged between 138.5 and 159 in HS groups compared to between 136 and 143 meq/L in the IS groups. The maximum serum sodium was significantly higher in HS participants (MD 7.73, 95% CI 5.84 to 9.62; P < 0.00001), although the level remained within normal limits (136 to 146 meq/L).\nA high degree of heterogeneity appeared to be related to considerable differences in the dose of HS between studies. The quality of the evidence for the outcomes reported ranged from high to very low. The risk of bias for many of the studies could not be determined for performance and detection bias, criteria that we assess as likely to impact the study outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "HS reduces the volume of intravenous fluid required to maintain people undergoing surgery but transiently increases serum sodium. It is not known if HS affects survival and morbidity, but this should be examined in randomized controlled trials that are designed and powered to test these outcomes."
+    }
+  ],
+  "pls_title": "Increased salt in solution to maintain fluid during surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are solutions containing more salt than is normally used safe during surgery?"
+    },
+    {
+      "heading": "Background",
+      "text": "People usually require fluids during surgery. Sometimes large volumes of fluid are given in order to maintain adequate blood volume, but these volumes may leave people with too much fluid. The fluids normally used during surgery have a salt balance similar to that found in blood, and are called isotonic. Hypertonic salt solutions (HS) have a higher sodium concentration than isotonic salt solutions (IS). HS might benefit people undergoing surgery by reducing the total volume of fluid required."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is up to date to April 8th, 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 18 trials that compared HS to IS in people undergoing surgery. The trials included 1087 participants. Five hundred and forty-five (545) participants received HS and 542 received IS during their operations. The participants were randomly assigned to their groups. The studies took place in 11 countries. Study participants were over the age of 18. All studies excluded people with serious health risks from participating. All studies monitored fluid levels during the operation and up to three days after."
+    },
+    {
+      "heading": "Key results",
+      "text": "There were seven deaths in total, three (less than 1%) from the IS group and four (less than 1%) from the HS group. The risk of death was very low in these studies. The studies did not report the occurrence of serious adverse events.\nThirteen studies reported the amount of fluid given. The IS group received a mean of 2.4 L and the HS group received 0.91 L less (1.49 L). The highest amount of sodium in the blood over the course of the study was reported by 16 studies. The IS group had a median of 139 meq/L and the HS group was 7.73 meq/L higher. The normal acceptable range is 136 to 146 meq/L."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "For deaths and adverse events the trials lacked sufficient size and duration to adequately assess differences. We assessed the quality of evidence for deaths to be very low, and future studies are likely to change the result reported here.\nThe reporting of the highest amount of sodium is of moderate quality. The measuring of blood sodium during an operation is a common measurement that is unlikely to be misrepresented."
+    }
+  ]
+}

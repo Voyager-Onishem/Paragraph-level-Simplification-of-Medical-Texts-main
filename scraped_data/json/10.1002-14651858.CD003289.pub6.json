@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003289.pub6",
+  "name": "Tobacco cessation interventions for young people",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Most tobacco control programmes for adolescents are based around prevention of uptake, but teenage smoking is still common. It is unclear if interventions that are effective for adults can also help adolescents to quit. This is the update of a Cochrane Review first published in 2006."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of strategies that help young people to stop smoking tobacco."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group's Specialized Register in June 2017. This includes reports for trials identified in CENTRAL, MEDLINE, Embase and PsyclNFO."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included individually and cluster-randomized controlled trials recruiting young people, aged under 20 years, who were regular tobacco smokers. We included any interventions for smoking cessation; these could include pharmacotherapy, psycho-social interventions and complex programmes targeting families, schools or communities. We excluded programmes primarily aimed at prevention of uptake. The primary outcome was smoking status after at least six months' follow-up among those who smoked at baseline."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility of candidate trials and extracted data. We evaluated included studies for risk of bias using standard Cochrane methodology and grouped them by intervention type and by the theoretical basis of the intervention. Where meta-analysis was appropriate, we estimated pooled risk ratios using a Mantel-Haenszel fixed-effect method, based on the quit rates at six months' follow-up."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-one trials involving more than 13,000 young people met our inclusion criteria (26 individually randomized controlled trials and 15 cluster-randomized trials). We judged the majority of studies to be at high or unclear risk of bias in at least one domain. Interventions were varied, with the majority adopting forms of individual or group counselling, with or without additional self-help materials to form complex interventions. Eight studies used primarily computer or messaging interventions, and four small studies used pharmacological interventions (nicotine patch or gum, or bupropion). There was evidence of an intervention effect for group counselling (9 studies, risk ratio (RR) 1.35, 95% confidence interval (CI) 1.03 to 1.77), but not for individual counselling (7 studies, RR 1.07, 95% CI 0.83 to 1.39), mixed delivery methods (8 studies, RR 1.26, 95% CI 0.95 to 1.66) or the computer or messaging interventions (pooled RRs between 0.79 and 1.18, 9 studies in total). There was no clear evidence for the effectiveness of pharmacological interventions, although confidence intervals were wide (nicotine replacement therapy 3 studies, RR 1.11, 95% CI 0.48 to 2.58; bupropion 1 study RR 1.49, 95% CI 0.55 to 4.02). No subgroup precluded the possibility of a clinically important effect. Studies of pharmacotherapies reported some adverse events considered related to study treatment, though most were mild, whereas no adverse events were reported in studies of behavioural interventions. Our certainty in the findings for all comparisons is low or very low, mainly because of the clinical heterogeneity of the interventions, imprecision in the effect size estimates, and issues with risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited evidence that either behavioural support or smoking cessation medication increases the proportion of young people that stop smoking in the long-term. Findings are most promising for group-based behavioural interventions, but evidence remains limited for all intervention types. There continues to be a need for well-designed, adequately powered, randomized controlled trials of interventions for this population of smokers."
+    }
+  ],
+  "pls_title": "Are there any smoking cessation programmes that can help adolescents to stop smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Worldwide, between 80,000 and 100,000 young people start smoking every day. Many adolescent tobacco programmes focus on preventing teenagers from starting to smoke, but some programmes have been aimed at helping those teenagers who are already smoking to quit. We set out to investigate whether these programmes can help young people quit smoking for six months or longer. Searches are up to date as of June 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 41 studies (around 13,000 participants) that researched ways of helping teenagers to quit smoking. These studies were of mixed quality and looked at various methods for stopping smoking, including one-to-one counselling, counselling as part of a group, methods using computers or text messaging, or a combination of these. Four studies used drug treatments such as nicotine patches. Most studies recruited participants from schools, and 29 of the studies were carried out in North America."
+    },
+    {
+      "heading": "Key results",
+      "text": "Although some programmes showed promise, especially those that used group counselling and those that combined a variety of approaches, there was no strong evidence that any particular method was effective in helping young people to stop smoking. Trials differed in how they measured whether a person had quit smoking, and many trials did not have enough participants for us to be confident about wider application of the results. Medications such as nicotine replacement and bupropion were not shown to be successful with adolescents, and some adverse events were reported, although these events were generally mild and findings were based on studies with small numbers of participants. Based on these findings we cannot currently identify a programme for helping adolescents to stop smoking that is more successful than trying to stop unaided."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence was low or very low for all of the outcomes in this review. This is because of issues with the quality of some of the studies, the small number of studies and participants for some outcomes, and the differences between the studies."
+    }
+  ]
+}

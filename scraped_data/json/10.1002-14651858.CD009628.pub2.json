@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD009628.pub2",
+  "name": "Structural magnetic resonance imaging for the early diagnosis of dementia due to Alzheimer's disease in people with mild cognitive impairment ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Mild cognitive impairment (MCI) due to Alzheimer's disease is the symptomatic predementia phase of Alzheimer's disease dementia, characterised by cognitive and functional impairment not severe enough to fulfil the criteria for dementia. In clinical samples, people with amnestic MCI are at high risk of developing Alzheimer's disease dementia, with annual rates of progression from MCI to Alzheimer's disease estimated at approximately 10% to 15% compared with the base incidence rates of Alzheimer's disease dementia of 1% to 2% per year."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the diagnostic accuracy of structural magnetic resonance imaging (MRI) for the early diagnosis of dementia due to Alzheimer's disease in people with MCI versus the clinical follow-up diagnosis of Alzheimer's disease dementia as a reference standard (delayed verification).\nTo investigate sources of heterogeneity in accuracy, such as the use of qualitative visual assessment or quantitative volumetric measurements, including manual or automatic (MRI) techniques, or the length of follow-up, and age of participants.\nMRI was evaluated as an add-on test in addition to clinical diagnosis of MCI to improve early diagnosis of dementia due to Alzheimer's disease in people with MCI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 29 January 2019 we searched Cochrane Dementia and Cognitive Improvement's Specialised Register and the databases, MEDLINE, Embase, BIOSIS Previews, Science Citation Index, PsycINFO, and LILACS. We also searched the reference lists of all eligible studies identified by the electronic searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered cohort studies of any size that included prospectively recruited people of any age with a diagnosis of MCI. We included studies that compared the diagnostic test accuracy of baseline structural MRI versus the clinical follow-up diagnosis of Alzheimer's disease dementia (delayed verification). We did not exclude studies on the basis of length of follow-up. We included studies that used either qualitative visual assessment or quantitative volumetric measurements of MRI to detect atrophy in the whole brain or in specific brain regions, such as the hippocampus, medial temporal lobe, lateral ventricles, entorhinal cortex, medial temporal gyrus, lateral temporal lobe, amygdala, and cortical grey matter."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four teams of two review authors each independently reviewed titles and abstracts of articles identified by the search strategy. Two teams of two review authors each independently assessed the selected full-text articles for eligibility, extracted data and solved disagreements by consensus. Two review authors independently assessed the quality of studies using the QUADAS-2 tool. We used the hierarchical summary receiver operating characteristic (HSROC) model to fit summary ROC curves and to obtain overall measures of relative accuracy in subgroup analyses. We also used these models to obtain pooled estimates of sensitivity and specificity when sufficient data sets were available."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 33 studies, published from 1999 to 2019, with 3935 participants of whom 1341 (34%) progressed to Alzheimer's disease dementia and 2594 (66%) did not. Of the participants who did not progress to Alzheimer's disease dementia, 2561 (99%) remained stable MCI and 33 (1%) progressed to other types of dementia. The median proportion of women was 53% and the mean age of participants ranged from 63 to 87 years (median 73 years). The mean length of clinical follow-up ranged from 1 to 7.6 years (median 2 years). Most studies were of poor methodological quality due to risk of bias for participant selection or the index test, or both.\nMost of the included studies reported data on the volume of the total hippocampus (pooled mean sensitivity 0.73 (95% confidence interval (CI) 0.64 to 0.80); pooled mean specificity 0.71 (95% CI 0.65 to 0.77); 22 studies, 2209 participants). This evidence was of low certainty due to risk of bias and inconsistency.\nSeven studies reported data on the atrophy of the medial temporal lobe (mean sensitivity 0.64 (95% CI 0.53 to 0.73); mean specificity 0.65 (95% CI 0.51 to 0.76); 1077 participants) and five studies on the volume of the lateral ventricles (mean sensitivity 0.57 (95% CI 0.49 to 0.65); mean specificity 0.64 (95% CI 0.59 to 0.70); 1077 participants). This evidence was of moderate certainty due to risk of bias.\nFour studies with 529 participants analysed the volume of the total entorhinal cortex and four studies with 424 participants analysed the volume of the whole brain. We did not estimate pooled sensitivity and specificity for the volume of these two regions because available data were sparse and heterogeneous.\nWe could not statistically evaluate the volumes of the lateral temporal lobe, amygdala, medial temporal gyrus, or cortical grey matter assessed in small individual studies.\nWe found no evidence of a difference between studies in the accuracy of the total hippocampal volume with regards to duration of follow-up or age of participants, but the manual MRI technique was superior to automatic techniques in mixed (mostly indirect) comparisons. We did not assess the relative accuracy of the volumes of different brain regions measured by MRI because only indirect comparisons were available, studies were heterogeneous, and the overall accuracy of all regions was moderate."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The volume of hippocampus or medial temporal lobe, the most studied brain regions, showed low sensitivity and specificity and did not qualify structural MRI as a stand-alone add-on test for an early diagnosis of dementia due to Alzheimer's disease in people with MCI. This is consistent with international guidelines, which recommend imaging to exclude non-degenerative or surgical causes of cognitive impairment and not to diagnose dementia due to Alzheimer's disease. In view of the low quality of most of the included studies, the findings of this review should be interpreted with caution. Future research should not focus on a single biomarker, but rather on combinations of biomarkers to improve an early diagnosis of Alzheimer's disease dementia."
+    }
+  ],
+  "pls_title": "How accurate is magnetic resonance imaging for the early diagnosis of dementia due to Alzheimer's disease in people with mild cognitive impairment?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving Alzheimer",
+      "text": "'s disease diagnosis important?\nCognitive impairment is when people have problems remembering, learning, concentrating and making decisions. People with mild cognitive impairment (MCI) generally have more memory problems than other people of their age, but these problems are not severe enough to be classified as dementia. Studies have shown that people with MCI and loss of memory are more likely to develop Alzheimer's disease dementia (approximately 10% to 15% of cases per year) than people without MCI (1% to 2% per year). Currently, the only reliable way of diagnosing Alzheimer's disease dementia is to follow people with MCI and assess cognitive changes over the years. Magnetic resonance imaging (MRI) may detect changes in the brain structures that indicate the beginning of Alzheimer's disease. Early diagnosis of MCI due to Alzheimer's disease is important because people with MCI could benefit from early treatment to prevent or delay cognitive decline."
+    },
+    {
+      "heading": "What was the aim of this review?",
+      "text": "To assess the diagnostic accuracy of MRI for the early diagnosis of dementia due to Alzheimer's disease in people with MCI."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "The volume of several brain regions was measured with MRI. Most studies (22 studies, 2209 participants) measured the volume of the hippocampus, a region of the brain that is associated primarily with memory."
+    },
+    {
+      "heading": "What are the main results in this review?",
+      "text": "Thirty-three studies were eligible, in which 3935 participants with MCI were included and followed up for two or three years to see if they developed Alzheimer's disease dementia. About a third of them converted to Alzheimer's disease dementia, and the others did not or developed other types of dementia.\nWe found that MRI is not accurate enough to identify people with MCI who will develop dementia due to Alzheimer's disease. The correct prediction of Alzheimer's disease would be missed in 81 out of 300 people with MCI (false negatives) and a wrong prediction of Alzheimer's disease would be made in 203 out of 700 people with MCI (false positives). As a result, people with a false-negative diagnosis would be falsely reassured and would not prepare themselves to cope with Alzheimer's disease, while those with a false-positive diagnosis would suffer from the wrongly anticipated diagnosis."
+    },
+    {
+      "heading": "How reliable are the results of the studies?",
+      "text": "The included studies diagnosed Alzheimer's disease dementia by assessing all participants with standard clinical criteria after two or three years' follow-up. We had some concerns about how the studies were conducted, since the participants were mainly selected from clinical registries and referral centres, and we also had concerns about how studies interpreted MRI. Moreover, the studies were conducted differently from each other, and they used different methods to select people with MCI and perform MRI."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "The results do not apply to people with MCI in the community, but only to people with MCI who attend memory clinics or referral centres."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "MRI, as a single test, is not accurate for the early diagnosis of dementia due to Alzheimer's disease in people with MCI since one in three or four participants received a wrong diagnosis of Alzheimer's disease. Future research should not focus on a single test (such as MRI), but rather on combinations of tests to improve an early diagnosis of Alzheimer's disease dementia."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "This evidence is up to date to 29 January 2019."
+    }
+  ]
+}

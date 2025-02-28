@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000040.pub3",
+  "name": "Conflicts of interest in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews: associations with recommendations ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treatment and diagnostic recommendations are often made in clinical guidelines, reports from advisory committee meetings, opinion pieces such as editorials, and narrative reviews. Quite often, the authors or members of advisory committees have industry ties or particular specialty interests which may impact on which interventions are recommended. Similarly, clinical guidelines and narrative reviews may be funded by industry sources resulting in conflicts of interest."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate to what degree financial and non-financial conflicts of interest are associated with favourable recommendations in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched PubMed, Embase, and the Cochrane Methodology Register for studies published up to February 2020. We also searched reference lists of included studies, Web of Science for studies citing the included studies, and grey literature sources."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies comparing the association between conflicts of interest and favourable recommendations of drugs or devices (e.g. recommending a particular drug) in clinical guidelines, advisory committee reports, opinion pieces, or narrative reviews."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently included studies, extracted data, and assessed risk of bias. When a meta-analysis was considered meaningful to synthesise our findings, we used random-effects models to estimate risk ratios (RRs) with 95% confidence intervals (CIs), with RR > 1 indicating that documents (e.g. clinical guidelines) with conflicts of interest more often had favourable recommendations. We analysed associations for financial and non-financial conflicts of interest separately, and analysed the four types of documents both separately (pre-planned analyses) and combined (post hoc analysis)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 studies analysing 106 clinical guidelines, 1809 advisory committee reports, 340 opinion pieces, and 497 narrative reviews. We received unpublished data from 11 studies; eight full data sets and three summary data sets. Fifteen studies had a risk of confounding, as they compared documents that may differ in other aspects than conflicts of interest (e.g. documents on different drugs used for different populations). The associations between financial conflicts of interest and favourable recommendations were: clinical guidelines, RR: 1.26, 95% CI: 0.93 to 1.69 (four studies of 86 clinical guidelines); advisory committee reports, RR: 1.20, 95% CI: 0.99 to 1.45 (four studies of 629 advisory committee reports); opinion pieces, RR: 2.62, 95% CI: 0.91 to 7.55 (four studies of 284 opinion pieces); and narrative reviews, RR: 1.20, 95% CI: 0.97 to 1.49 (four studies of 457 narrative reviews). An analysis combining all four document types supported these findings (RR: 1.26, 95% CI: 1.09 to 1.44).\nOne study investigating specialty interests found that the association between including radiologist guideline authors and recommending routine breast cancer screening was RR: 2.10, 95% CI: 0.92 to 4.77 (12 clinical guidelines)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We interpret our findings to indicate that financial conflicts of interest are associated with favourable recommendations of drugs and devices in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews. However, we also stress risk of confounding in the included studies and the statistical imprecision of individual analyses of each document type. It is not certain whether non-financial conflicts of interest impact on recommendations."
+    }
+  ],
+  "pls_title": "Conflicts of interest and recommendations in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews",
+  "pls_type": "long",
+  "pls": "Which treatments and diagnostic tests doctors offer to their patients are often based on recommendations expressed in a variety of documents. A common example is clinical guidelines, which are statements providing recommendations on how to diagnose and treat patients on the basis of the best available evidence. The treatments that may be offered to patients are also influenced by which drugs are recommended for approval by drug advisory committees at regulatory drug agencies such as the US Food and Drug Administration (FDA). Finally, doctors may also be influenced by recommendations expressed in opinion pieces, such as editorials, or in narrative review papers in medical journals.\nQuite often, publications expressing clinical recommendations are written by authors with conflicts of interest related to a specific product, for example when the author acts as a consultant for the company producing the treatment of interest. Such conflicts of interest may impact on the recommendations made. Similarly, authors may have so-called non-financial conflicts of interest such as belonging to a specific profession, for example being an orthopaedic surgeon, which may influence whether a specific intervention is preferred over another. This Cochrane Methodology Review investigated how financial and non-financial conflicts of interest are associated with the recommendations made in clinical guidelines, advisory committee reports, opinion pieces, and narrative reviews.\nWe included 21 studies and we interpreted our findings to indicate that financial conflicts of interest are associated with favourable recommendations in these documents, although there is some uncertainty around the size of the effect. This means that when such publications are written by authors with financial conflicts of interest, they more often have favourable recommendations than publications written by authors without conflicts of interest. Only a single study investigated the impact of non-financial conflicts of interest in clinical guidelines and the results were uncertain, but indicated a similar direction of effect.\nWe suggest that patients, doctors, and healthcare decision makers primarily use clinical guidelines, opinion pieces, and narrative reviews that have been written by authors without financial conflicts of interest. If that is not possible, users should read and interpret the publications with caution. Furthermore, our findings suggest that if committee members are asked to vote on the recommendation of a drug, they may be more likely to vote in favour of the drug when they have financial conflicts of interest."
+}

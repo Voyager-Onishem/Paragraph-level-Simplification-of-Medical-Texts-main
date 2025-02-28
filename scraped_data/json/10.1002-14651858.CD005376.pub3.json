@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005376.pub3",
+  "name": "Treatment for IgG and IgA paraproteinaemic neuropathy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Paraproteinaemic neuropathy refers to those neuropathies associated with a monoclonal gammopathy or paraprotein. The most common of these present with a chronic, predominantly sensory, symmetrical neuropathy, similar to chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) but with relatively more sensory involvement, both clinically and neurophysiologically. The optimal treatment for neuropathies associated with IgG and IgA monoclonal gammopathy of uncertain significance is not known. This is an update of a review first published in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of any treatment for IgG or IgA paraproteinaemic peripheral neuropathy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 18 January 2014 we searched the Cochrane Neuromuscular Disease Group Trials Specialized Register, CENTRAL, MEDLINE and EMBASE. We also checked bibliographies for controlled trials of treatments for IgG or IgA paraproteinaemic peripheral neuropathy. We checked clinical trials registries for ongoing studies in November 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion randomised controlled trials (RCTs) and quasi-RCTs using any treatment for IgG or IgA paraproteinaemic peripheral neuropathy. We excluded people with IgM paraproteins. We excluded people where the monoclonal gammopathy was considered secondary to an underlying disorder. We included participants of any age with a diagnosis of monoclonal gammopathy of uncertain significance with a paraprotein of the IgG or IgA class and a neuropathy. Included participants were not required to fulfil specific electrophysiological diagnostic criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodology to select studies, extract data and analyse results. One trial author provided additional data and clarification."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified one RCT, with 18 participants, that fulfilled the predetermined inclusion criteria. The trial compared plasma exchange to sham plasma exchange in participants with IgG or IgA paraproteinaemic neuropathy over a three-week follow-up period. We identified four other studies but these were not RCTs or quasi-RCTs. The included RCT did not report our predefined primary outcome measure, change in disability six months after randomisation. The trial revealed a modest benefit of plasma exchange in the weakness component of the Neuropathy Disability Score (NDS, now the Neuropathy Impairment Score); the mean improvement with plasma exchange was 17 points (95% confidence interval (CI) 5.2 to 28.8 points) versus 1 point (95% CI -7.7 to 9.7 points) in the sham exchange group at three weeks' follow-up (mean difference (MD) 16.00; 95% CI 1.37 to 30.63, low quality evidence). There was no statistically significant difference in the overall NDS (MD 18.00; 95% CI -2.03 to 38.03, low quality evidence), vibration thresholds or neurophysiological indices. Adverse events were not reported. The trial was at low risk of bias overall, although limitations of trial size and duration reduce the quality of the evidence in support of its conclusions."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence from RCTs for the treatment of IgG or IgA paraproteinaemic neuropathy is currently inadequate. More RCTs of treatments are required. These should have adequate follow-up periods and contain larger numbers of participants, perhaps through multicentre collaboration, considering the relative infrequency of this condition. Observational or open trial data provide limited support for the use of treatments such as plasma exchange, cyclophosphamide combined with prednisolone, intravenous immunoglobulin, and corticosteroids. These interventions show potential therapeutic promise but the potential benefits must be weighed against adverse effects. Their optimal use and the long-term benefits need to be considered and validated with well-designed RCTs."
+    }
+  ],
+  "pls_title": "Treatment for neuropathies associated with abnormal antibodies in the blood (IgG and IgA paraproteinaemic neuropathies)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the benefits and harms of treatments for nerve damage associated with abnormal IgG and IgA proteins in the blood?"
+    },
+    {
+      "heading": "Background",
+      "text": "Paraproteinaemic neuropathy refers to those neuropathies associated with a paraprotein (an abnormal antibody or immunoglobulin (Ig) present in relative excess in the blood). Paraproteins come from a group of blood disorders called monoclonal gammopathies. If the paraprotein is present without evidence of any underlying disease, this is known as a monoclonal gammopathy of uncertain significance (MGUS). This review looked at the treatments for neuropathy associated with and possibly caused by IgG and IgA paraproteins. The optimal treatment is not known. Treatments that act on the immune system such as plasma exchange, corticosteroids or intravenous immunoglobulin have been examined in nonrandomised studies of people with IgG and IgA paraproteinaemic neuropathy."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified only one randomised controlled trial (RCT), which compared plasma exchange with sham exchange, in 18 participants with either IgA or IgG paraproteinaemic neuropathy. The results were reported after three weeks of treatment."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "The trial did not report our primary outcome measure, which was improvement in disability measured by a validated scale six months after randomisation, or our other specified outcomes at six months. The trial demonstrated a modest benefit in improvement of weakness and overall disability as measured by the neuropathy disability score (NDS) over a period of three weeks. There was no improvement in this timescale in measures of sensory disturbance or electrical studies of the nerves. Adverse events were not reported. Further RCTs of this and other treatments with larger numbers of participants are needed.\nThis is an update of a review first published in 2007. We found no additional trials for inclusion. The evidence is current to January 2014."
+    }
+  ]
+}

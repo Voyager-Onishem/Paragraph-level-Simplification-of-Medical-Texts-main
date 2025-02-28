@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011439.pub2",
+  "name": "Exhaled nitric oxide levels to guide treatment for children with asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asthma guidelines aim to guide health practitioners to optimise treatment for patients to minimise symptoms, improve or maintain good lung function, and prevent acute exacerbations. The principle of asthma guidelines is based on a step-up or step-down regimen of asthma medications to maximise health using minimum doses. Fractional exhaled nitric oxide (FeNO) is a marker of eosinophilic inflammation and tailoring asthma medications in accordance to airway eosinophilic levels may improve asthma outcomes such as indices of control or reduce exacerbations, or both."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy of tailoring asthma interventions based on fractional exhaled nitric oxide (FeNO), in comparison to not using FeNO, that is, management based on clinical symptoms (with or without spirometry/peak flow) or asthma guidelines (or both), for asthma-related outcomes in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register of Trials, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and reference lists of articles. The last searches were in June 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) comparing adjustment of asthma medications based on FeNO levels compared to those not using FeNO, that is, management based on clinical symptoms or asthma guidelines (or both) involving children."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We reviewed results of searches against predetermined criteria for inclusion. Two review authors independently selected relevant studies, assessed trial quality and extracted data. We contacted study authors for further information with responses provided from three."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review included nine studies; these studies differed in a variety of ways including definition of asthma exacerbations, FeNO cut-off levels used (12 parts per billion (ppb) to 30 ppb), the way in which FeNO was used to adjust therapy and duration of study (6 to 12 months). Of 1426 children randomised, 1329 completed the studies. The inclusion criteria for the participants in each study varied but all had a diagnosis of asthma. There was a significant difference in the number of children having one or more asthma exacerbations over the study period, they were significantly lower in the FeNO group in comparison to the control group (odds ratio (OR) 0.62, 95% confidence interval (CI) 0.49 to 0.80; 1279 participants; 8 studies). The number needed to treat for an additional beneficial outcome (NNTB) over 52 weeks was 10 (95% CI 7 to 20). There was no difference between the groups when comparing exacerbation rates (mean difference (MD) -0.37, 95% CI -0.8 to 0.06; 736 participants; 4 studies; I2 = 67%). The number of children in the FeNO group requiring oral corticosteroid courses was lower in comparison to the children in the control group (OR 0.63, 95% CI 0.48 to 0.83; 1169 participants; 7 studies; I2 = 0%). There was no statistically significant difference between the groups for exacerbations requiring hospitalisation (OR 0.75, 95% CI 0.41 to 1.36; 1110 participants; 6 studies; I2 = 0%). There were no significant differences between the groups for any of the secondary outcomes (forced expiratory volume in one second (FEV1), FeNO levels, symptom scores or inhaled corticosteroid doses at final visit). The included studies recorded no adverse events.\nThree studies had inadequate blinding and were thus considered to have a high risk of bias. However, when these studies were removed in subgroup analysis, the difference between the groups for the primary outcome (exacerbations) remained statistically significant. The GRADE quality of the evidence ranged from moderate (for the outcome 'Number of participants who had one or more exacerbations over the study period') to very low (for the outcome 'Exacerbation rates'), based on lack of blinding, statistical heterogeneity and imprecision."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In this updated review with five new included studies, tailoring asthma medications based on FeNO levels (in comparison with primarily guideline management) significantly decreased the number of children who had one or more exacerbations over the study period but did not impact on the day-to-day clinical symptoms or inhaled corticosteroid doses. Therefore, the use of FeNO to guide asthma therapy in children may be beneficial in a subset of children, it cannot be universally recommended for all children with asthma.\nFurther RCTs need to be conducted and these should encompass different asthma severities, different settings including primary care and less affluent settings, and consider different FeNO cut-offs."
+    }
+  ],
+  "pls_title": "Can exhaled nitric oxide be used to adjust asthma medications in children with asthma?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "We investigated whether exhaled (breathing out) nitric oxide (a marker in the breath which can show a type of lung inflammation) can be useful to adjust asthma medications in children with asthma instead of following the usual ways that asthma medications are adjusted to get the best dose to control the asthma. Exhaled nitric oxide levels are easily obtained by getting the person to breathe into a commercially available analyser."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included all randomised controlled trials that compared adjustment of asthma medications by either usual clinical care (control group) versus using exhaled nitric oxide. The participants included in the trials had asthma diagnosed as per relevant asthma guidelines.\nThe evidence is current to June 2016 when the searches were last completed.\nThe review included nine studies (involving 1426 children) that varied in a several ways including length of the study, exhaled nitric oxide cut-off levels used for altering medicines and the way each study defined flare-ups or attacks (called exacerbations). The studies ranged from 6 to 12 months in length. The exhaled nitric oxide cut-off values used by the different studies as a basis for decreasing or increasing medicines also varied.\nThe mean age of the participants ranged from 10 to 14 years old."
+    },
+    {
+      "heading": "Key results",
+      "text": "In this review, we found that guiding asthma medicines based on exhaled nitric oxide (compared to a control group) was beneficial in reducing the number of children who had at least one exacerbation during the study. In the control group where therapy was guided according to clinical symptoms, 40 children out of 100 had at least one exacerbation over 48.5 weeks, compared to 28 out of 100 children where treatment was guided by exhaled nitric oxide. However, we found no difference between groups in other measures of asthma severity that impact on day-to-day clinical symptoms or inhaled corticosteroid dose (medications used to control asthma). Therefore, using exhaled nitric oxide levels to adjust asthma therapy may reduce the number of attacks that children with asthma have but does not impact on the day-to-day symptoms."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The level of evidence found ranged from moderate, when comparing the two groups for the number of children who had one or more exacerbations, to very low when comparing the number of exacerbations."
+    }
+  ]
+}

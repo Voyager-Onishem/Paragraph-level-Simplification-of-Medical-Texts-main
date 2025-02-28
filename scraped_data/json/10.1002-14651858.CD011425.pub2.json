@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011425.pub2",
+  "name": "Computer and mobile technology interventions for self‐management in chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is characterised by airflow obstruction due to an abnormal inflammatory response of the lungs to noxious particles or gases, for example, cigarette smoke. The pattern of care for people with moderate to very severe COPD often involves regular lengthy hospital admissions, which result in high healthcare costs and an undesirable effect on quality of life. Research over the past decade has focused on innovative methods for developing enabling and assistive technologies that facilitate patient self-management."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of interventions delivered by computer and by mobile technology versus face-to-face or hard copy/digital documentary-delivered interventions, or both, in facilitating, supporting, and sustaining self-management among people with COPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In November 2016, we searched the Cochrane Airways Group Specialised Register (CAGR), which contains trial reports identified through systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, AMED, and PsycINFO, and we handsearched respiratory journals and meeting abstracts."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials that measured effects of remote and Web 2.0-based interventions defined as technologies including personal computers (PCs) and applications (apps) for mobile technology, such as iPad, Android tablets, smart phones, and Skype, on behavioural change towards self-management of COPD. Comparator interventions included face-to-face and/or hard copy/digital documentary educational/self-management support."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (CMcC and MMcC) independently screened titles, abstracts, and full-text study reports for inclusion. Two review authors (CMcC and AMB) independently assessed study quality and extracted data. We expressed continuous data as mean differences (MDs) and standardised mean differences (SMDs) for studies using different outcome measurement scales."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in our review three studies (Moy 2015; Tabak 2013; Voncken-Brewster 2015) with a total of 1580 randomised participants. From Voncken-Brewster 2015, we included the subgroup of individuals with a diagnosis of COPD (284 participants) and excluded those at risk of COPD who had not received a diagnosis (1023 participants). As a result, the total population available for analysis included 557 participants; 319 received smart technology to support self-management and 238 received face-to-face verbal/written or digital information and education about self-management. The average age of participants was 64 years. We included more men than women because the sample from one of the studies consisted of war veterans, most of whom were men. These studies measured five of our nine defined outcomes. None of these studies included outcomes such as self-efficacy, cost-effectiveness, functional capacity, lung function, or anxiety and depression.\nAll three studies included our primary outcome - health-related quality of life (HRQoL) as measured by the Clinical COPD Questionnaire (CCQ) or St George's Respiratory Questionnaire (SGRQ). One study reported our other primary outcomes - hospital admissions and acute exacerbations. Two studies included our secondary outcome of physical activity as measured by daily step counts. One study addressed smoking by providing a narrative analysis. Only one study reported adverse events and noted significant differences between groups, with 43 events noted in the intervention group and eight events in the control group (P = 0.001). For studies that measured outcomes at week four, month four, and month six, the effect of smart technology on self-management and subsequent HRQoL in terms of symptoms and health status was significantly better than when participants received face-to-face/digital and/or written support for self-management of COPD (SMD -0.22, 95% confidence interval (CI) -0.40 to -0.03; P = 0.02). The single study that reported HRQoL at 12 months described no significant between-group differences (MD 1.1, 95% CI -2.2 to 4.5; P = 0.50). Also, hospitalisations (logistic regression odds ratio (OR) 1.6, 95% CI 0.8 to 3.2; P = 0.19) and exacerbations (logistic regression OR 1.4, 95% CI 0.7 to 2.8; P = 0.33) did not differ between groups in the single study that reported these outcomes at 12 months. The activity level of people with COPD at week four, month four, and month six was significantly higher when smart technology was used than when face-to-face/digital and/or written support was provided (MD 864.06 daily steps between groups, 95% CI 369.66 to 1358.46; P = 0.0006). The only study that measured activity levels at 12 months reported no significant differences between groups (mean -108, 95% CI -720 to 505; P = 0.73). Participant engagement in this study was not sustained between four and 12 months. The only study that included smoking cessation found no significant treatment effect (OR 1.06, 95%CI 0.43 to 2.66; P = 0.895). Meta-analyses showed no significant heterogeneity between studies (Chi² = 0.39, P = 0.82; I² = 0% and Chi² = 0.01, P = 0.91; I² = 0%, respectively)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although our review suggests that interventions aimed at facilitating, supporting, and sustaining self-managment in people with COPD and delivered via smart technology significantly improved HRQoL and levels of activity up to six months compared with interventions given through face-to-face/digital and/or written support, no firm conclusions can be drawn. This improvement may not be sustained over a long duration. The only included study that measured outcomes up to 12 months highlighted the need to ensure sustained engagement with the technology over time. Limited evidence suggests that using computer and mobile technology for self-management for people with COPD is not harmful and may be more beneficial for some people than for others, for example, those with an interest in using technology may derive greater benefit.\nThe evidence, provided by three studies at high risk of bias, is of poor quality and is insufficient for advising healthcare professionals, service providers, and members of the public with COPD about the health benefits of using smart technology as an effective means of supporting, encouraging, and sustaining self-management. Further research that focuses on outcomes relevant to different stages of COPD is needed. Researchers should provide clear information on how self-management is assessed and should include longitudinal measures that allow comment on behavioural change."
+    }
+  ],
+  "pls_title": "Smart technology for self-management of COPD",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is a long-term breathing condition that is often caused by smoking. Smart phones, tablets, and PCs may be very helpful for people who have COPD and are living at home because these devices can provide information, education, and guidance on the condition. This information can be personalised for each individual, for example, it can recommend an appropriate exercise programme or give advice on how to stop smoking."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included in our review 557 participants from three studies; 319 received smart technology to support self-management, and 238 received face-to-face verbal/written or digital information and education about self-management. The average age of participants was 64 years. Our review included more men than women because the sample from one study consisted of war veterans, most of whom were men. Participants used the technology for just four weeks in one study to six months in the second and four months in the third, which also reported data at 12 months. Technology used in these studies included smart phones or PCs."
+    },
+    {
+      "heading": "Key results",
+      "text": "People who received smart technology showed greater improvement in self-management and quality of life and increased physical activity compared with people who received face-to-face/digital and/or written support over a four-week to six-month period. Also, hospital admissions and exacerbations of COPD did not differ between those who used smart technology and those who did not. Only one study provided information about people who stopped smoking and reported no differences between groups."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We found only three studies all at high risk of bias - that we could include in this review, and we could conduct analysis on only two of our outcomes (quality of life and increased physical activity). As a result, we think that current information does not show clearly whether smart technology is helpful for people with COPD. We recommend further research of high quality that focuses on outcomes relevant to different stages of COPD. Researchers should be clear about how self-management is assessed, should report standard trial outcomes, particularly cost, and should include follow-up for at least one year so they can provide comments on behavioural change and impact of treatment."
+    }
+  ]
+}

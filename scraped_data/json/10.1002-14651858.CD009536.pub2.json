@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009536.pub2",
+  "name": "Medical treatment for small abdominal aortic aneurysms",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Screening for abdominal aortic aneurysm (AAA) in selected groups is now performed in England, the USA and Sweden. Patients with aneurysms over 55 mm in diameter are generally considered for elective surgical repair. Patients with aneurysm diameters below or equal to 55 mm (termed 'small AAAs') are managed with aneurysm surveillance as there is currently insufficient evidence to recommend surgery in these cases. As more patients are screened, there will be an increasing number of small AAAs identified. There is interest in pharmaceutical interventions (for example angiotensin converting enzyme (ACE) inhibitors, antibiotics, beta-blockers, statins) which could be given to such patients to delay or reverse aneurysm expansion and reduce the need for elective surgical repair."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of medical treatment on the expansion rate of small abdominal aortic aneurysms."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Peripheral Vascular Diseases Group Trials Search Co-ordinator searched the Specialised Register (May 2012) and CENTRAL (2012, Issue 5). Clinical trials databases were searched for details of ongoing or unpublished studies. The reference lists of articles retrieved by electronic searches were searched for additional citations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised trials in which patients with small AAAs allocated to medical treatment with the intention of retarding aneurysm expansion were compared to patients allocated to a placebo treatment, alternative medical treatment, a different regimen of the same drug or imaging surveillance alone."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted the data and assessed the risk of bias in the trials. Meta-analyses were used when heterogeneity was considered low. The two primary outcomes were the mean difference (MD) in aneurysm diameter and the odds ratio (OR) calculated to compare the number of individuals referred to AAA surgery in each group over the trial period."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven trials involving 1558 participants were included in this review; 457 were involved in four trials of antibiotic medication, and 1101 were involved in three trials of beta-blocker medication. Five of the studies were rated at a high risk of bias.\nIndividually, all of the included trials reported non-significant differences in AAA expansion rates between their intervention and control groups.\nThe two major drug groups were then analysed separately. For AAA expansion it was only possible to combine two of the antibiotic trials in a meta-analysis. This demonstrated that roxithromycin had a small but significant protective effect (MD -0.86 mm; 95% confidence interval (CI) -1.57 to -0.14). When referral to AAA surgery was compared (including all four antibiotic trials in the meta-analysis), non-significantly fewer patients were referred in the intervention groups (OR 0.96; 95% CI 0.59 to 1.57) than the control groups. When only the trials reporting actual elective surgery were included in a subgroup analysis, the result remained statistically non-significant (OR 1.17; 95% CI 0.57 to 2.42).\nFor the beta-blocker trials, when all were combined in a meta-analysis, there was a very small, non-significant protective effect for propranolol on AAA expansion (MD -0.08 mm; 95% CI -0.25 to 0.10), and non-significantly fewer patients were referred to AAA surgery in the propranolol group (OR 0.74; 95% CI 0.52 to 1.05). Bronchospasm and shortness of breath were the main adverse effects from the beta-blockers. In one trial the adverse effects were reportedly so severe that the trial was stopped early after two years."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is some limited evidence that antibiotic medication may have a slight protective effect in retarding the expansion rates of small AAAs. The quality of the evidence makes it unclear whether this translates into fewer referrals to AAA surgery, owing mainly to the small sample sizes of the studies.\nAntibiotics were generally well tolerated with minimal adverse effects. Propranolol was poorly tolerated by patients in all of the beta-blocker trials and demonstrated only minimal and non-significant protective effects. Further research on beta-blockers for AAA needs to consider the use of drugs other than propranolol.\nIn general, there is surprisingly little high quality evidence on medical treatment for small AAAs, especially in relation to the use of newer beta-blockers, ACE inhibitors and statins."
+    }
+  ],
+  "pls_title": "Drug treatment for small abdominal aortic aneurysms",
+  "pls_type": "long",
+  "pls": "An aneurysm is an abnormal localised widening (dilatation) of an artery. The most common place for such a dilatation is the abdominal aorta. This is the main artery linking the heart to the lower limbs and the organs of the abdomen, and a dilatation here is termed an abdominal aortic aneurysm (AAA). About 4% of men over 55 years of age have an AAA, but it is less common in women. Aneurysms over 55 mm in diameter carry a high risk of rupture, and rupture carries a high risk of death. To reduce the risks, screening programmes using ultrasound scanning have been introduced for selected groups in a number of countries. Patients with aneurysms over 55 mm are then evaluated for elective aneurysm repair. For aneurysms at or below the 55 mm cut-off, the current treatment is 'watchful waiting', where the aneurysm is repeatedly scanned over time to see if it is enlarging. This review aimed to identify medical treatments which could slow or even reverse aneurysm growth, and thus delay or avoid the need for elective surgery.\nWe identified seven trials involving 1558 participants where the aneurysm diameters of patients randomised to receive medical treatment were compared to those participants given a control medication or surveillance imaging alone. Four trials studied the effects of antibiotics on slowing aneurysm growth, and showed a small protective effect. Three trials studied the effects of beta-blockers, and demonstrated a very small protective effect. Notably, the beta-blocker drugs were associated with a large number of adverse effects. It was unclear whether either drug type delayed referral to aneurysm surgery.\nThe accuracy of the results was limited by the low number of participants (especially important when trying to detect small changes in aneurysm growth rates) and some potentially damaging biases."
+}

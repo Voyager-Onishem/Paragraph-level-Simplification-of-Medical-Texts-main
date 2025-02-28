@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007003.pub3",
+  "name": "Interventions for dialysis patients with hepatitis C virus (HCV) infection",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hepatitis C virus (HCV) infection is common in chronic kidney disease (CKD) patients on dialysis, causes chronic liver disease, may increase the risk of death, and impacts kidney transplant outcomes. Direct-acting antivirals have replaced interferons because of better efficacy and tolerability. This is an update of a review first published in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to look at the benefits and harms of interventions for HCV in CKD patients on dialysis: death, disease relapse, treatment response/discontinuation, time to recovery, quality of life (QoL), cost-effectiveness, and adverse events. We aimed to study comparisons of available interventions, compared with placebo, control, with each other and with newer treatments."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant's Specialised Register to 23 February 2023 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE and EMBASE, handsearching conference proceedings, and searching the International Clinical Trials Register Portal (ICTRP) and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs), quasi-RCTs, first period of randomised cross-over studies on interventions for HCV in CKD on dialysis were considered."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI). Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three studies were included in this update, therefore 13 studies (997 randomised participants) met our inclusion criteria. Overall, the risk of bias was judged low in seven studies, unclear in four, low to unclear in one, and high in one study. Interventions included standard interferon, pegylated (PEG) interferon, standard or PEG interferon plus ribavirin; direct-acting antivirals, and direct-acting antivirals plus PEG interferon plus ribavirin.\nCompared to placebo or control, standard interferon may make little or no difference to death (5 studies, 134 participants: RR 0.89, 95% CI 0.06 to 13.23) or relapse (low certainty evidence), probably improves end-of-treatment response (ETR) (5 studies, 132 participants: RR 8.62, 95% CI 3.03 to 24.55; I² = 0%) (moderate certainty evidence), and probably makes little or no difference to sustained virological response (SVR) (4 studies, 98 participants: RR 3.25, 95% CI 0.81 to 13.07; I² = 53%), treatment discontinuation (4 studies, 116 participants: RR 4.59, 95% CI 0.49 to 42.69; I² = 63%), and adverse events (5 studies, 143 participants: RR 3.56, 95% CI 0.98 to 13.01; I² = 25%) (moderate certainty evidence).\nIn low certainty evidence, PEG interferon (1 study, 50 participants) may improve ETR (RR 1.53, 95% CI 1.09 to 2.15) but may make little or no difference to death (RR 0.33, 95% CI 0.01 to 7.81), SVR (RR 2.40, 95% CI 0.99 to 5.81), treatment discontinuation (RR 0.11, 95% CI 0.01 to 1.96), adverse events (RR 0.11, 95% CI 0.01 to 1.96) and relapses (21/38 relapsed) (RR 0.72, 95% CI 0.41 to 1.25) compared to standard interferon.\nIn moderate certainty evidence, high-dose PEG interferon (alpha-2a and alpha-2b) may make little or no difference to death (2 studies, 97 participants: RR 4.30, 95% CI 0.76 to 24.33; I² = 0%), ETR (RR 1.42, 95% CI 0.51 to 3.90; I² = 20%), SVR (RR 1.19, 95% CI 0.68 to 2.07; I² = 0%), treatment discontinuation (RR 1.20, 95% CI 0.63 to 2.28; I² = 0%) or adverse events (RR 1.05, 95% CI 0.61 to 1.83; I² = 27%) compared to low-dose PEG interferon. High-dose PEG interferon may make little or no difference to relapses (1 study, 43 participants: RR 1.11, 95% CI 0.45 to 2.77; low certainty evidence). There were no significant subgroup differences.\nStandard interferon plus ribavirin may lead to higher treatment discontinuation (1 study, 52 participants: RR 2.97, 95% CI 1.19 to 7.36; low certainty evidence) compared to standard interferon alone.\nIn low certainty evidence, PEG interferon plus ribavirin (1 study, 377 participants) may improve SVR (RR 1.80, 95% CI 1.46 to 2.21), reduce relapses (RR 0.33, 95% CI 0.23 to 0.48), slightly increase the number with adverse events (RR 1.10, 95% CI 1.01 to 1.19), and may make little or no difference to ETR (RR 1.01, 95% CI 0.94 to 1.09) compared to PEG interferon alone. The evidence is very uncertain about the effect of PEG interferon plus ribavirin on treatment discontinuation (RR 1.71, 95% CI 0.69 to 4.24) compared to PEG interferon alone.\nOne study reported grazoprevir plus elbasvir improved ETR (173 participants: RR 174.99, 95% CI 11.03 to 2775.78; low certainty evidence) compared to placebo.\nIt is uncertain whether telaprevir plus ribavirin (high versus low initial dose) plus PEG interferon for 24 versus 48 weeks (1 study, 35 participants) improves ETR (RR 1.02, 95% CI 0.67 to 1.56) or SVR (RR 1.02, 95% CI 0.67 to 1.56) because the certainty of the evidence is very low.\nData on QoL, cost-effectiveness, cardiovascular outcomes and peritoneal dialysis were not available."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In dialysis patients with HCV infection grazoprevir plus elbasvir probably improves ETR. There is no difference in ETR or SVR for combinations of telaprevir, ribavirin and PEG interferon given for different durations and doses. Though no longer in use, PEG interferon was more effective than standard interferon for ETR but not SVR. Increasing doses of PEG interferon did not improve responses. The addition of ribavirin to PEG interferon may result in fewer relapses, higher SVR, and higher numbers with adverse events."
+    }
+  ],
+  "pls_title": "Interventions for dialysis patients with hepatitis C virus (HCV) infection",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Hepatitis C is a disease of the liver caused by the hepatitis C virus (HCV) which spreads from person to person through blood contact, a result of sharing drug needles and other items contaminated with blood. This virus remains in the body for a long time, and in some it can affect the liver, causing its slow destruction or cirrhosis and liver cancer. Infected people may have weakness, nausea, jaundice and lose weight, and they may have increased liver enzymes and bilirubin.\nHCV is present worldwide and varies amongst countries with a total of approximately 70 million people having a chronic infection and constitutes 40% of patients with chronic liver disease. People who are on haemodialysis for long periods have a higher chance of getting this infection. Direct-acting antiviral drugs, which can be taken by mouth, have replaced the previously used interferons for the treatment of HCV infection. Direct-acting antivirals have better efficacy and tolerability and are effective in almost all patients. The interferons have to be given as injections under the skin and have less efficacy and more side effects. Treatment with direct-acting antivirals has to be given for 12 weeks as compared to interferons which had to be given for at least 24 to 48 weeks with or without tablets of ribavirin to improve their efficacy. However, ribavirin can accumulate in kidney patients and cause the destruction of red blood cells and anaemia."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "Since the publication of our previous review in 2015, newer medicines (direct-acting antivirals) for the treatment of HCV infection have become available, therefore, we have now updated the evidence to include the efficacy of direct-acting antivirals. This update searched for new evidence from randomised controlled studies for the treatment of HCV in dialysis patients."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "The update found three studies with about 600 patients which could be included in addition to the previous review which had 10 studies all in haemodialysis. The use of the direct-acting antivirals grazoprevir and elbasvir in combination produces a 100% response by the end of treatment, but follow-up data is not available, and evidence is not of high quality. The addition of ribavirin to interferon resulted in a better sustained response (being free of the virus in blood after treatment is stopped), decreased chances of disease relapse but more adverse events. Telaprevir along with ribavirin in different doses combined with pegylated (PEG) interferon in different doses and durations produce almost similar end-of-treatment and sustained response, but the evidence was not of high quality. PEG interferon was more effective than standard interferon in producing a short-term response but not a sustained one and both were equally tolerated. Increasing the dose of PEG interferon did not improve response but was tolerated. Limitations of this review are that only a few studies were available with few participants, and patients with serious disease were excluded from previous studies in anticipation of side effects. Hence, the evidence available was not of high quality. Evidence for the newer medicines namely direct-acting antivirals which have now replaced the use of interferons in the general population was limited and was not of high quality."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "This was an update of a review of available treatments for patients on dialysis having HCV infection. Direct-acting antivirals have now replaced the use of interferons for treatment. Grazoprevir and elbasvir produce an end-of-treatment response in almost all patients, but no data is available for a sustained response at follow-up, and the evidence is not of high quality. Combinations of telaprevir, ribavirin and PEG interferon used in different doses and durations are almost similar in efficacy, and the evidence is not of high quality. PEG interferon is more effective than standard interferon for producing a response by the end of treatment which is not sustained, both being equally tolerated. Increasing doses of PEG interferon does not improve responses, but high and low doses are equally tolerated. The addition of ribavirin produces an improved response even after stopping treatment but has higher adverse events."
+    }
+  ]
+}

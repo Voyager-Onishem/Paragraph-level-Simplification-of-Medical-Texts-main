@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003344.pub3",
+  "name": "Beta lactam antibiotic monotherapy versus beta lactam‐aminoglycoside antibiotic combination therapy for sepsis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Optimal antibiotic treatment for sepsis is imperative. Combining a beta lactam antibiotic with an aminoglycoside antibiotic may provide certain advantages over beta lactam monotherapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our objectives were to compare beta lactam monotherapy versus beta lactam-aminoglycoside combination therapy in patients with sepsis and to estimate the rate of adverse effects with each treatment regimen, including the development of bacterial resistance to antibiotics."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In this updated review, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 11); MEDLINE (1966 to 4 November 2013); EMBASE (1980 to November 2013); LILACS (1982 to November 2013); and conference proceedings of the Interscience Conference of Antimicrobial Agents and Chemotherapy (1995 to 2013). We scanned citations of all identified studies and contacted all corresponding authors. In our previous review, we searched the databases to July 2004."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized and quasi-randomized trials comparing any beta lactam monotherapy versus any combination of a beta lactam with an aminoglycoside for sepsis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The primary outcome was all-cause mortality. Secondary outcomes included treatment failure, superinfections and adverse events. Two review authors independently collected data. We pooled risk ratios (RRs) with 95% confidence intervals (CIs) using the fixed-effect model. We extracted outcomes by intention-to-treat analysis whenever possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 69 trials that randomly assigned 7863 participants. Twenty-two trials compared the same beta lactam in both study arms, while the remaining trials compared different beta lactams using a broader-spectrum beta lactam in the monotherapy arm. In trials comparing the same beta lactam, we observed no difference between study groups with regard to all-cause mortality (RR 0.97, 95% CI 0.73 to 1.30) and clinical failure (RR 1.11, 95% CI 0.95 to 1.29). In studies comparing different beta lactams, we observed a trend for benefit with monotherapy for all-cause mortality (RR 0.85, 95% CI 0.71 to 1.01) and a significant advantage for clinical failure (RR 0.75, 95% CI 0.67 to 0.84). No significant disparities emerged from subgroup and sensitivity analyses, including assessment of participants with Gram-negative infection. The subgroup of Pseudomonas aeruginosa infections was underpowered to examine effects. Results for mortality were classified as low quality of evidence mainly as the result of imprecision. Results for failure were classified as very low quality of evidence because of indirectness of the outcome and possible detection bias in non-blinded trials. We detected no differences in the rate of development of resistance. Nephrotoxicity was significantly less frequent with monotherapy (RR 0.30, 95% CI 0.23 to 0.39). We found no heterogeneity for all these comparisons.\nWe included a small subset of studies addressing participants with Gram-positive infection, mainly endocarditis. We identified no difference between monotherapy and combination therapy in these studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The addition of an aminoglycoside to beta lactams for sepsis should be discouraged. All-cause mortality rates are unchanged. Combination treatment carries a significant risk of nephrotoxicity."
+    }
+  ],
+  "pls_title": "A single beta lactam antibiotic versus a beta lactam-aminoglycoside combination for patients with severe infection",
+  "pls_type": "long",
+  "pls": "Infections caused by bacteria and requiring hospitalization are a leading cause of preventable death. The beta lactam antibiotics (e.g. penicillins, cephalosporins) and the aminoglycosides (e.g. gentamicin) kill bacteria by different means. Combining a beta lactam with an aminoglycoside could, therefore, result in more effective treatment of patients with severe infection but with the side effects of both antibiotics. We reviewed clinical trials that compared intravenous treatment with a beta lactam versus treatment with a beta lactam plus an aminoglycoside.\nWe searched the literature until November 2013. We included in the review 69 trials that randomly assigned 7863 participants . Participants were hospitalized with urinary tract, intra-abdominal, skin and soft tissue infections, pneumonia and infections of unknown source. One set of studies compared a broad-spectrum beta lactam versus a different, generally narrower-spectrum beta lactam combined with an aminoglycoside (47 studies). No clear difference in all-cause deaths was observed, but treatment failures were fewer with single beta lactam antibiotic treatment. A significant survival advantage was seen with single therapy in studies that involved infections of unknown source. The other studies compared one beta lactam versus the same beta lactam combined with an aminoglycoside antibiotic (22 studies). In these trials, no differences between single and combination antibiotic treatments were seen. Overall, adverse event rates did not differ between the study groups, but renal damage was more frequent with the combination therapy. Combination therapy did not prevent the development of secondary infection.\nThe review authors concluded that beta lactam-aminoglycoside combination therapy does not provide an advantage over beta lactams alone. Furthermore, combination therapy was associated with an increased risk of renal damage. The limited number of trials comparing the same beta lactam in both study arms and the fact that more than a third of the studies did not report on all-cause deaths may limit these conclusions. The subgroup of Pseudomonas aeruginosa infections was underpowered to examine effects."
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD010266.pub2",
+  "name": "Antibiotic prophylaxis for preventing infectious complications in orthognathic surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Orthognathic surgery (OS) is a term that refers to many elective surgical techniques to correct facial deformity; the associated malocclusion and functional disorders related to the stomatognathic system. Whilst such surgery is classed as \"clean-contaminated\", the usefulness of and the most appropriate regimen for antibiotic prophylaxis in these patients are still debated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antibiotic prophylaxis for preventing surgical site infection (SSI) in people undergoing orthognathic surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In June 2014, we searched the Cochrane Wounds Group Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In-Process & Other Non-Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. We also searched Google Scholar and performed manual searches in journals relevant to the topic, conference proceedings and lists of references of potentially included articles. We did not restrict the search and study selection with respect to language, date of publication or study setting."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) involving people undergoing orthognathic surgery comparing one regimen of antibiotic prophylaxis with any other regimen or placebo. The primary outcome was SSI, and secondary outcomes were systemic infections, adverse events, duration of hospital stay and health-related quality of life. Two review authors screened articles independently."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were abstracted independently by two review authors, and agreement was checked. Risk of bias was assessed using the Cochrane risk of bias tool. Antibiotic regimens were classified as preoperative (one dose before surgery), short-term (before or during surgery and/or during the same day of surgery) and long-term (before or during surgery and longer than one day after surgery) antibiotic prophylaxis. Random-effects meta-analyses using inverse variance methods were undertaken when possible. We report risk ratios (RRs) and their corresponding 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 11 trials were included in this review. Most of the studies had an unclear risk of bias prompting us to downgrade the quality of evidence for our outcomes. Seven of these trials provided evidence for the main comparison and the primary outcome and these were pooled. Overall, long-term antibiotic prophylaxis probably reduces the risk of SSI (plausible effects range between a 76% to a 0.26% relative reduction in SSI with long-term antibiotic prophylaxis) (472 participants; RR 0.42, 95% CI 0.24 to 0.74; moderate-quality evidence). There is uncertainty surrounding the relative effects of short-term antibiotics compared with a single dose (220 participants; RR 0.34, 95% CI 0.09 to 1.22; low-quality evidence). No reports described adverse effects associated with the drugs in those trials that reported in this outcome. None of these trials assessed or reported data regarding other outcomes, and information was insufficient to show whether a specific antibiotic is better than another."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For people undergoing orthognathic surgery, long term antibiotic prophylaxis decreases the risk of SSI compared with short-term antibiotic prophylaxis and the is uncertainty of whether short-term antibiotic prophylaxis decreases SSi risk relative to a single pre-operative dose of prophylactic antibiotics."
+    }
+  ],
+  "pls_title": "Antibiotics for preventing infection after jaw surgery",
+  "pls_type": "long",
+  "pls": "Many people undergo surgery of the jaws each year to correct malformations. Whilst a risk of infection following surgery has been noted, no agreement has been reached regarding how useful antibiotics are for infection prevention and what type and dose of antibiotic should be used.\nWe conducted a comprehensive search for studies on this topic. We collected data from all studies addressing this question and summarised them to determine whether antibiotics could prevent infection after surgery, whether this treatment has any adverse effects, whether it reduces the number of days that patients need to be in the hospital and whether it improves overall health status.\nWe found 11 studies. Overall, long-term antibiotics reduce the risk of SSI, and there is uncertainty regarding the effects of receiving one dose of antibiotics preoperatively versus short term antibiotics. There was no investigation of side effects of antibiotics in these studies, but in the studies where side effects were investigated, no side effects were found. None of the other effects of interest to clinicians or patients were measured in the studies, and information was insufficient to show whether any single antibiotic is better than any other."
+}

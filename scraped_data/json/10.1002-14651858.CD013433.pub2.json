@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013433.pub2",
+  "name": "Stem cell therapy for dilated cardiomyopathy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stem cell therapy (SCT) has been proposed as an alternative treatment for dilated cardiomyopathy (DCM), nonetheless its effectiveness remains debatable."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of SCT in adults with non-ischaemic DCM."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL in the Cochrane Library, MEDLINE, and Embase for relevant trials in November 2020. We also searched two clinical trials registers in May 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Eligible studies were randomized controlled trials (RCT) comparing stem/progenitor cells with no cells in adults with non-ischaemic DCM. We included co-interventions such as the administration of stem cell mobilizing agents. Studies were classified and analysed into three categories according to the comparison intervention, which consisted of no intervention/placebo, cell mobilization with cytokines, or a different mode of SCT.\nThe first two comparisons (no cells in the control group) served to assess the efficacy of SCT while the third (different mode of SCT) served to complement the review with information about safety and other information of potential utility for a better understanding of the effects of SCT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened all references for eligibility, assessed trial quality, and extracted data. We undertook a quantitative evaluation of data using random-effects meta-analyses. We evaluated heterogeneity using the I² statistic. We could not explore potential effect modifiers through subgroup analyses as they were deemed uninformative due to the scarce number of trials available. We assessed the certainty of the evidence using the GRADE approach. We created summary of findings tables using GRADEpro GDT. We focused our summary of findings on all-cause mortality, safety, health-related quality of life (HRQoL), performance status, and major adverse cardiovascular events."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 13 RCTs involving 762 participants (452 cell therapy and 310 controls). Only one study was at low risk of bias in all domains. There were many shortcomings in the publications that did not allow a precise assessment of the risk of bias in many domains. Due to the nature of the intervention, the main source of potential bias was lack of blinding of participants (performance bias). Frequently, the format of the continuous data available was not ideal for use in the meta-analysis and forced us to seek strategies for transforming data in a usable format.\nWe are uncertain whether SCT reduces all-cause mortality in people with DCM compared to no intervention/placebo (mean follow-up 12 months) (risk ratio (RR) 0.84, 95% confidence interval (CI) 0.54 to 1.31; I² = 0%; studies = 7, participants = 361; very low-certainty evidence). We are uncertain whether SCT increases the risk of procedural complications associated with cells injection in people with DCM (data could not be pooled; studies = 7; participants = 361; very low-certainty evidence). We are uncertain whether SCT improves HRQoL (standardized mean difference (SMD) 0.62, 95% CI 0.01 to 1.23; I² = 72%; studies = 5, participants = 272; very low-certainty evidence) and functional capacity (6-minute walk test) (mean difference (MD) 70.12 m, 95% CI –5.28 to 145.51; I² = 87%; studies = 5, participants = 230; very low-certainty evidence). SCT may result in a slight functional class (New York Heart Association) improvement (data could not be pooled; studies = 6, participants = 398; low-certainty evidence). None of the included studies reported major adverse cardiovascular events as defined in our protocol. SCT may not increase the risk of ventricular arrhythmia (data could not be pooled; studies = 8, participants = 504; low-certainty evidence).\nWhen comparing SCT to cell mobilization with granulocyte-colony stimulating factor (G-CSF), we are uncertain whether SCT reduces all-cause mortality (RR 0.46, 95% CI 0.16 to 1.31; I² = 39%; studies = 3, participants = 195; very low-certainty evidence). We are uncertain whether SCT increases the risk of procedural complications associated with cells injection (studies = 1, participants = 60; very low-certainty evidence). SCT may not improve HRQoL (MD 4.61 points, 95% CI –5.62 to 14.83; studies = 1, participants = 22; low-certainty evidence). SCT may improve functional capacity (6-minute walk test) (MD 140.14 m, 95% CI 119.51 to 160.77; I² = 0%; studies = 2, participants = 155; low-certainty evidence). None of the included studies reported MACE as defined in our protocol or ventricular arrhythmia.\nThe most commonly reported outcomes across studies were based on physiological measures of cardiac function where there were some beneficial effects suggesting potential benefits of SCT in people with non-ischaemic DCM. However, it is unclear if this intermediate effects translates into clinical benefits for these patients.\nWith regard to specific aspects related to the modality of cell therapy and its delivery, uncertainties remain as subgroup analyses could not be performed as planned, making it necessary to wait for the publication of several studies that are currently in progress before any firm conclusion can be reached."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are uncertain whether SCT in people with DCM reduces the risk of all-cause mortality and procedural complications, improves HRQoL, and performance status (exercise capacity). SCT may improve functional class (NYHA), compared to usual care (no cells).\nSimilarly, when compared to G-CSF, we are also uncertain whether SCT in people with DCM reduces the risk of all-cause mortality although some studies within this comparison observed a favourable effect that should be interpreted with caution. SCT may not improve HRQoL but may improve to some extent performance status (exercise capacity). Very low-quality evidence reflects uncertainty regarding procedural complications. These suggested beneficial effects of SCT, although uncertain due to the very low certainty of the evidence, are accompanied by favourable effects on some physiological measures of cardiac function.\nPresently, the most effective mode of administration of SCT and the population that could benefit the most is unclear. Therefore, it seems reasonable that use of SCT in people with DCM is limited to clinical research settings. Results of ongoing studies are likely to modify these conclusions."
+    }
+  ],
+  "pls_title": "Bone marrow cells in non-ischaemic dilated cardiomyopathy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are bone marrow cells safe and effective as a treatment for non-ischaemic dilated cardiomyopathy (DCM)?"
+    },
+    {
+      "heading": "Background",
+      "text": "DCM is a disorder of the heart muscle with heart dilation (heart muscle becomes stretched) and impaired contraction, in the absence of high blood pressure, damaged or diseased heart valves, or heart disease present at birth or related to myocardial infarction (heart attack). The current standard of treatment is based on medicines and cardiac devices. However, DCM is still one of the leading causes of heart transplantation in adults.\nStem cells are special cells produced in the bone marrow that are able to develop into many different cell types. Giving stem cells directly into the heart muscle has been proposed as an alternative treatment to reduce or stop further deterioration in heart function in people with DCM."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We selected randomized controlled trials (RCTs; clinical studies where people are randomly put into one of two or more treatment groups) comparing the infusion of bone marrow-derived stem cells into the heart muscle with the usual-care (control) treatment in people diagnosed with DCM. We searched multiple databases for trials up to 10 November 2020.\nWe included 13 RCTs involving 762 participants (452 receiving stem cell therapy and 310 controls). The trials included people with severe symptoms of ischaemic (following a heart attack) and non-ischaemic DCM. We selected only the data from non-ischaemic DCM.\nThe studies included an average of 60 people aged about 45 to 58.5 years and 50% to 89% men in each trial. Following therapy, the participants were assessed for six months to five years, with most at one year. One study declared a private funding whereas seven others had public or governmental funding, two had non-profit funding, and four did not report this information."
+    },
+    {
+      "heading": "Key results",
+      "text": "SCT versus control: very low-quality evidence reflects uncertainty regarding mortality, procedural complications, health-related quality of life and exercise capacity. Low-quality evidence suggests that SCT may slightly improve deterioration of heart function and may not increase the risk of abnormal heartbeats in people with DCM. No studies reported other relevant outcomes such as major cardiac adverse events.\nSTC plus cytokine versus control: very low-quality evidence reflects uncertainty regarding mortality. Low-quality evidence suggests that SCT plus cytokine may not improve health-related quality of life but may improve exercise capacity as well as some physiological measures related to cardiac function (although it is unclear to what extent these latter outcomes are associated with relevant clinical benefits for patients). Hence, the results should be interpreted with caution. Very low-quality evidence reflects uncertainty regarding procedural complications. No studies reported major cardiac adverse events or abnormal heartbeats.\nDue to the limited number of studies we could not perform analyses to identify which specific features of SCT and clinical characteristics of patients are associated with better results. Thus, more research is needed to establish the role of SCT in the treatment of DCM and the most effective therapies."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The evidence in this review is of low to very low quality due to the small number of events, results not similar across studies, risk of bias, and issues with study design. Furthermore, the limitations in the reporting of most studies made it difficult to obtain and use the information to reach clearer conclusions."
+    }
+  ]
+}

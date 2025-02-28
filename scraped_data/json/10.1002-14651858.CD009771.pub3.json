@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009771.pub3",
+  "name": "Protocol‐directed sedation versus non‐protocol‐directed sedation in mechanically ventilated intensive care adults and children ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The sedation needs of critically ill patients have been recognized as a core component of critical care that is vital to assist recovery and ensure humane treatment. Evidence suggests that sedation requirements are not always optimally managed. Suboptimal sedation, both under- and over-sedation, have been linked to short-term (e.g. length of stay) and long-term (e.g. psychological recovery) outcomes. Strategies to improve sedation assessment and management have been proposed. This review was originally published in 2015 and updated in 2018."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of protocol-directed sedation management compared to usual care on the duration of mechanical ventilation, intensive care unit (ICU) and hospital mortality and other patient outcomes in mechanically ventilated ICU adults and children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Anaesthesia, Critical and Emergency Care Group (ACE). We searched the Cochrane Central Register of Controlled trials (CENTRAL) (December 2017), MEDLINE (OvidSP) (2013 to December 2017), Embase (OvidSP) (2013 to December 2017), CINAHL (BIREME host) (2013 to December 2017), LILACS (2013 to December 2017), trial registries and reference lists of articles. (The original search was run in November 2013)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and quasi-randomized controlled trials conducted in ICUs comparing management with and without protocol-directed sedation in intensive care adults and children."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors screened the titles and abstracts and then full-text reports identified from our electronic search. We assessed seven domains of potential risk of bias for the included studies. We examined clinical, methodological and statistical heterogeneity and used the random-effects model for meta-analysis where we considered it appropriate. We calculated the mean difference (MD) for duration of mechanical ventilation and risk ratio (RR) for mortality across studies, with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four studies with a total of 3323 participants (864 adults and 2459 paediatrics) in this update. Three studies were single-centre, patient-level RCTs and one study was a multicentre cluster-RCT. The settings were in metropolitan centres and included general, mixed medical-surgical, medical only and a range of paediatric units. All four included studies compared the use of protocol-directed sedation, specifically protocols delivered by nurses, with usual care. We rated the risk of selection bias due to random sequence generation low for two studies and unclear for two studies. The risk of bias was highly variable across the domains and studies, with the risk of selection and performance bias generally rated high and the risk of detection and attrition bias generally rated low.\nWhen comparing protocol-directed sedation with usual care, there was no clear evidence of difference in duration of mechanical ventilation in hours for the entire duration of the first ICU stay for each patient (MD -28.15 hours, 95% CI -69.15 to 12.84; I2 = 85%; 4 studies; adjusted sample 2210 participants; low-quality evidence). There was no clear evidence of difference in ICU mortality (RR 0.77, 95% CI 0.39 to 1.50; I2 = 67%; 2 studies; 513 participants; low-quality evidence), or hospital mortality (RR 0.90, 95% CI 0.72 to 1.13; I2 = 10%; 3 studies; adjusted sample 2088 participants; low-quality evidence). There was no clear evidence of difference in ICU length of stay (MD -1.70 days, 95% CI-3.71 to 0.31; I2 = 82%; 4 studies; adjusted sample of 2123 participants; low-quality of evidence), however there was evidence of a significant reduction in hospital length of stay (MD -3.09 days, 95% CI -5.08 to -1.10; I2 = 2%; 3 studies; adjusted sample of 1922 participants; moderate-quality evidence). There was no clear evidence of difference in the incidence of self-extubation (RR 0.88, 95% CI 0.55 to 1.42; I2 = 0%; 2 studies; adjusted sample of 1687 participants; high-quality evidence), or incidence of tracheostomy (RR 0.67, 95% CI 0.35 to 1.30; I2 = 66%; 3 studies; adjusted sample of 2008 participants; low-quality evidence). Only one study examined incidence of reintubation, therefore we could not pool data; there was no clear evidence of difference (RR 0.65, 95% CI 0.35 to 1.24; 1 study; 321 participants; low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently limited evidence from RCTs evaluating the effectiveness of protocol-directed sedation on patient outcomes. The four included RCTs reported conflicting results and heterogeneity limited the interpretation of results for the primary outcomes of duration of mechanical ventilation and mortality. Further studies, taking into account differing contextual characteristics, are necessary to inform future practice. Methodological strategies to reduce the risk of bias need to be considered in future studies."
+    }
+  ],
+  "pls_title": "Protocol-directed sedation to reduce duration of mechanical ventilation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence to determine if the use of protocol-directed sedation reduced the time on mechanical ventilation (method to mechanically assist breathing). We also determined if it reduced the intensive care unit (ICU) or hospital death rate in critically ill adults and children."
+    },
+    {
+      "heading": "Background",
+      "text": "Determining the sedation needs of critically ill people is an important part of critical care to help with recovery and guarantee humane treatment. Protocol-directed sedation is one management strategy that could be used as a way to reduce both under- and over-sedation. Protocol-directed sedation is sedation that is given by a nurse, pharmacist or other member of the healthcare team. That team member follows written, approved procedures outlined in a protocol (document). The initial order for protocol-directed sedation is written by a medical officer or physician. The aim of protocol-directed sedation is to improve patient outcomes, for example, to reduce the length of time a person is on mechanical ventilation or to reduce the death rate."
+    },
+    {
+      "heading": "Search date",
+      "text": "In this update we included evidence up to December 2017. This updates the previous version of the review which was current to November 2013."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases for studies that examined protocol-directed sedation in adult and paediatric intensive care patients. We identified four studies with 3308 participants (864 adults and 2459 paediatrics) to include in this review."
+    },
+    {
+      "heading": "Key results",
+      "text": "All of these included studies compared the use of protocol-directed sedation delivered by nurses to usual care (that is, non-protocol-directed sedation). There was no difference in the length of time mechanical ventilation was needed or in ICU or hospital deaths between people who received protocol-directed sedation and those people managed with usual care. There was a significant reduction in the number of days people treated with protocol-directed sedation spent in hospital, when compared to those managed with usual care. There was no difference between the two groups in the number of people who accidentally removed their breathing tube or required their tube to be reinserted after accidentally removing it.\nIn conclusion, the benefits of protocol-directed sedation delivered by nurses compared to usual care are currently unclear in relation to the important outcomes of length of time mechanical ventilation was needed or number of deaths."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence available to answer our review question is low to moderate. This is mainly due to the often conflicting results that were reported from the four eligible studies. Further studies need to be conducted to determine the effectiveness of this intervention."
+    }
+  ]
+}

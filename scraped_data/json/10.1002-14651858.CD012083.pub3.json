@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD012083.pub3",
+  "name": "Ultrasonography for confirmation of gastric tube placement",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Gastric tubes are commonly used for the administration of drugs and tube feeding for people who are unable to swallow. Feeding via a tube misplaced in the trachea can result in severe pneumonia. Therefore, the confirmation of tube placement in the stomach after tube insertion is important. Recent studies have reported that ultrasonography provides good diagnostic accuracy estimates in the confirmation of appropriate tube placement. Hence, ultrasound could provide a promising alternative to X-rays in the confirmation of tube placement, especially in settings where X-ray facilities are unavailable or difficult to access."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the diagnostic accuracy of ultrasound alone or in combination with other methods for gastric tube placement confirmation in children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "This systematic review is an update of a previously published Cochrane review.\nFor this update, we searched the Cochrane Library (2021, Issue 6), MEDLINE (to April 2023), Embase (to April 2023), five other databases (to July 2021), and reference lists of articles, and contacted study authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that evaluated the diagnostic accuracy of naso- and orogastric tube placement confirmed by ultrasound visualization using X-ray visualization as the reference standard. We included cross-sectional studies and case-control studies. We excluded case series or case reports. We excluded studies if X-ray visualization was not the reference standard or if the tube being placed was a gastrostomy or enteric tube."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the methodological quality and extracted data from each of the included studies. We contacted the authors of the included studies to obtain missing data. There were sparse data for specificity. Therefore, we performed a meta-analysis of only sensitivity using a univariate random-effects logistic regression model to combine data from studies that used the same method and echo window."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 new studies in addition to 10 studies included in the earlier version of this review, totalling 1939 participants and 1944 tube insertions.\nOverall, we judged the risk of bias in the included studies as low or unclear. No study was at low risk of bias or low concern for applicability in every QUADAS-2 domain.\nThere were limited data (152 participants) for misplacement detection (specificity) due to the low incidence of misplacement. The summary sensitivity of ultrasound on neck and abdomen echo windows were 0.96 (95% confidence interval (CI) 0.92 to 0.98; moderate-certainty evidence) for air injection and 0.98 (95% CI 0.83 to 1.00; moderate-certainty evidence) for saline injection. The summary sensitivity of ultrasound on abdomen echo window was 0.96 (95% CI 0.65 to 1.00; very low-certainty evidence) for air injection and 0.97 (95% CI 0.95 to 0.99; moderate-certainty evidence) for procedures without injection. The certainty of evidence for specificity across all methods was very low due to the very small sample size. For settings where X-ray was not readily available and participants underwent gastric tube insertion for drainage (8 studies, 552 participants), sensitivity estimates of ultrasound in combination with other confirmatory tests ranged from 0.86 to 0.98 and specificity estimates of 1.00 with wide CIs.\nFor studies of ultrasound alone (9 studies, 782 participants), sensitivity estimates ranged from 0.77 to 0.98 and specificity estimates were 1.00 with wide CIs or not estimable due to no occurrence of misplacement."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Of 22 studies that assessed the diagnostic accuracy of gastric tube placement, few studies had a low risk of bias. Based on limited evidence, ultrasound does not have sufficient accuracy as a single test to confirm gastric tube placement. However, in settings where X-ray is not readily available, ultrasound may be useful to detect misplaced gastric tubes. Larger studies are needed to determine the possibility of adverse events when ultrasound is used to confirm tube placement."
+    }
+  ],
+  "pls_title": "Is ultrasound alone or in combination with other methods useful for confirmation of gastric tube placement?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "– Whether ultrasound offers a promising alternative to X-rays for confirming proper gastric tube placement is uncertain.\n– More research is needed to determine the accuracy of ultrasound to identify misplaced tubes."
+    },
+    {
+      "heading": "What are gastric tubes and why are they used?",
+      "text": "The oesophagus (food pipe) is a muscular tube that connects the mouth to the stomach. If a person cannot swallow properly, a gastric tube may be inserted through the nose or the mouth to provide medicines or liquid food directly into the stomach. Care is needed though, as the oesophagus is very close to the trachea (wind pipe), which allows air to travel to the lungs. If the gastric tube is misplaced and food or medicines passed into the trachea, it can result in a severe infection in the lungs (called pneumonia) or other complications. Therefore, the confirmation of tube placement in the stomach after tube insertion is important. Correct placement is usually checked using X-rays."
+    },
+    {
+      "heading": "Why is replacing X-rays with ultrasound for confirming gastric tube placement important?",
+      "text": "Ultrasound is a diagnostic imaging technique that uses sound waves to create images of the inside of the body. It could be more accessible and convenient than X-rays, especially in locations with limited resources."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to determine the accuracy of ultrasound in confirming gastric tube placement and assess its potential to replace X-rays as the standard method."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We analyzed 22 studies with 1939 participants looking at the accuracy of ultrasound for confirming gastric tube placement."
+    },
+    {
+      "heading": "Study findings",
+      "text": "Most studies showed that ultrasound performed well in confirming correct tube placement, but there were limited data on incorrect tube placements and potential complications as only 152 participants in the studies had a misplaced tube.\nThe studies used three ultrasound methods: neck approach, upper abdominal approach, and a combination of both.\nUltrasound alone was not sufficient for confirming proper placement for feeding tubes but, when combined with other tests, it could be useful for confirming gastric drainage tubes."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Many studies had poor or unclear methods, so our confidence in the evidence was reduced.\nOnly eight of the 22 studies were considered representative of people who usually need a gastric tube.\nResults varied for incorrect tube placement."
+    },
+    {
+      "heading": "Future research",
+      "text": "Larger studies are needed to determine if ultrasound can replace X-rays for confirming gastric tube placement and whether it can help reduce complications from misplaced tubes."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates our previous review. The evidence is up to date to April 2023."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012844.pub2",
+  "name": "Video games for people with schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Commercial video games are a vastly popular form of recreational activity. Whilst concerns persist regarding possible negative effects of video games, they have been suggested to provide cognitive benefits to users. They are also frequently employed as control interventions in comparisons of more complex cognitive or psychological interventions. If independently effective, video games - being both engaging and relatively inexpensive - could provide a much more cost-effective add-on intervention to standard treatment when compared to costly, cognitive interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effects of video games (alone or as an additional intervention) compared to standard care alone or other interventions including, but not limited to, cognitive remediation or cognitive behavioural therapy for people with schizophrenia or schizophrenia-like illnesses."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Study-Based Register of Trials (March 2017, August 2018, August 2019)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials focusing on video games for people with schizophrenia or schizophrenia-like illnesses."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors extracted data independently. For binary outcomes we calculated risk ratio (RR) with its 95% confidence interval (CI) on an intention-to-treat basis. For continuous data we calculated the mean difference (MD) between groups and its CI. We employed a fixed-effect model for analyses. We assessed risk of bias for the included studies and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes seven trials conducted between 2009 and 2018 (total = 468 participants, range 32 to 121). Study duration varied from six weeks to twelve weeks. All interventions in the included trials were given in addition to standard care, including prescribed medication. In trials video games tend to be the control for testing efficacy of complex, cognitive therapies; only two small trials evaluated commercial video games as the intervention. We categorised video game interventions into 'non-exergame' (played statically) and 'exergame' (the players use bodily movements to control the game). Our main outcomes of interest were clinically important changes in: general functioning, cognitive functioning, social functioning, mental state, quality of life, and physical fitness as well as clinically important adverse effects.\n\nWe found no clear difference between non-exergames and cognitive remediation in general functioning scores (Strauss Carpenter Outcome Scale) (MD 0.42, 95% CI −0.62 to 1.46; participants = 86; studies = 1, very low- quality evidence ) or social functioning scores (Specific Levels of Functioning Scale) (MD −3.13, 95% CI -40.17 to 33.91; participants = 53; studies = 1, very low- quality evidence ). There was a clear difference favouring cognitive remediation for cognitive functioning (improved on at least one domain of MATRICS Consensus Cognitive Battery Test) (RR 0.58, 95% CI 0.34 to 0.99; participants = 42; studies = 1, low- quality evidence ). For mental state, Positive and Negative Syndrome Scale (PANSS) overall scores showed no clear difference between treatment groups (MD 0.20, 95% CI −3.89 to 4.28; participants = 269; studies = 4, low- quality evidence ). Quality of life ratings (Quality of Life Scale) similarly showed no clear intergroup difference (MD 0.01, 95% CI −0.40 to 0.42; participants = 87; studies = 1, very low- quality evidence) . Adverse effects were not reported; we chose leaving the study early as a proxy measure. The attrition rate by end of treatment was similar between treatment groups (RR 0.96, 95% CI 0.87 to 1.06; participants = 395; studies = 5, low- quality evidence ).\n\nOne small trial compared exergames with standard care, but few outcomes were reported. No clear difference between interventions was seen for cognitive functioning (measured by MATRICS Consensus Cognitive Battery Test) (MD 2.90, 95% CI -1.27 to 7.07; participants = 33; studies = 1, low- quality evidence) , however a benefit in favour of exergames was found for average change in physical fitness (aerobic fitness) (MD 3.82, 95% CI 1.75 to 5.89; participants = 33; studies = 1, low- quality evidence). Adverse effects were not reported; we chose leaving the study early as a proxy measure. The attrition rate by end of treatment was similar between treatment groups (RR 1.06, 95% CI 0.75 to 1.51; participants = 33; studies = 1).\nAnother small trial compared exergames with non-exergames. Only one of our main outcomes was reported - physical fitness, which was measured by average time taken to walk 3 metres. No clear intergroup difference was identified at six-week follow-up (MD −0.50, 95% CI −1.17 to 0.17; participants = 28; studies = 1, very low- quality evidence).\nNo trials reported adverse effects. We chose leaving the study early as a proxy outcome."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our results suggest that non-exergames may have a less beneficial effect on cognitive functioning than cognitive remediation, but have comparable effects for all other outcomes. These data are from a small number of trials, and the evidence is graded as of low or very low quality and is very likely to change with more data. It is difficult to currently establish if the more sophisticated cognitive approaches do any more good - or harm - than 'static' video games for people with schizophrenia.\nWhere players use bodily movements to control the game (exergames), there is very limited evidence suggesting a possible benefit of exergames compared to standard care in terms of cognitive functioning and aerobic fitness. However, this finding must be replicated in trials with a larger sample size and that are conducted over a longer time frame.\nWe cannot draw any firm conclusions regarding the effects of video games until more high-quality evidence is available. There are ongoing studies that may provide helpful data in the near future."
+    }
+  ],
+  "pls_title": "Video games for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are video games an effective treatment (on their own or as an add-on) for improving the well-being and functioning of people with schizophrenia or schizoaffective disorder?"
+    },
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a severe mental illness that affects people worldwide. People with schizophrenia often have a distorted view of reality - perceiving things that are not present (hallucinations) and believing things that are not true (delusions). People with schizophrenia may struggle to motivate themselves, experience anxiety and depression, and encounter cognitive symptoms, often struggling to stay focused on day-to-day activities and becoming disorientated. Hallucinations and delusions are usually treated with antipsychotic medications, whereas other symptoms can be difficult to manage with medication alone.\nPsychological therapies are sometimes used alongside medication to help with some symptoms of schizophrenia, however these therapies can be complex and expensive. Video games are a relatively inexpensive, and, for many, engaging treatment. They have been suggested to help improve the cognitive impairments such as lack of focus or poor memory that people with schizophrenia often experience. If effective, video games could provide a simple and relatively low-cost additional treatment for people with schizophrenia."
+    },
+    {
+      "heading": "Searching",
+      "text": "We searched for randomised controlled trials (a type of study in which participants are assigned to one of two or more treatment groups using a random method) involving people with schizophrenia receiving either a video game intervention or other type of treatment such as talking (cognitive) therapy or placebo (dummy treatment). We performed the searches in March 2017, August 2018, and August 2019."
+    },
+    {
+      "heading": "Results",
+      "text": "Seven trials met our inclusion criteria and provided useable data. Video game interventions were categorised into those that involved movements of the body ('exergames') and those that did not ('non-exergames'). Non-exergame trials compared the video game intervention to a form of \"brain-training\" therapy known as cognitive remediation. One trial compared exergames to standard care, and another compared non-exergames with exergames. All interventions in the included trials were given in addition to standard care.\nThe currently available evidence suggests that non-exergames may not be as beneficial for cognitive functioning as cognitive remediation, but there were no other clear differences between non-exergames and cognitive remediation for improving functioning in people with schizophrenia. The more exercise-orientated video games may have some benefit compared to standard care for improving physical fitness. We cannot draw any firm conclusions regarding the effects of video games until higher-quality evidence is available."
+    }
+  ]
+}

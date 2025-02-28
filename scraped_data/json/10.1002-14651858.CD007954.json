@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007954",
+  "name": "Antidepressants versus placebo for depression in primary care",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Concern has been expressed about the relevance of secondary care studies to primary care patients specifically about the effectiveness of antidepressant medication. There is a need to review the evidence of only those studies that have been conducted comparing antidepressant efficacy with placebo in primary care-based samples."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and tolerability of antidepressants in patients (under the age of 65 years) with depression in primary care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "All searches were conducted in September 2007.\nThe Cochrane Depression, Anxiety and Neurosis Group (CCDAN) Controlled Trials Register was searched, together with a supplementary search of MEDLINE, PsycINFO, EMBASE, LILACS, CINAHL and PSYNDEX. Abstracts of all possible studies for inclusion were assessed independently by two reviewers. Further trials were sought through searching the reference lists of studies initially identified and by scrutinising other relevant review papers. Selected authors and experts were also contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were selected if they were randomised controlled trials of tricyclic antidepressants (TCAs) or selective serotonin reuptake inhibitors (SSRIs) versus placebo in adults. Older patients (over 65 years) were excluded. Patients had to be recruited from a primary care setting. For continuous outcomes the Hamilton Depression scale of the Montgomery Asberg Scale was required."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted using data extraction forms by two reviewers independently, with disagreements resolved by discussion. A similar process was used for the validity assessment. Pooling of results was done using Review Manager 5. The primary outcome was depression reduction, based on a dichotomous measure of clinical response, using relative risk (RR), and on a continuous measure of depression symptoms, using the mean difference (MD), with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "There were fourteen studies (16 comparisons) with extractable data included in the review, of which ten studies examined TCAs, two examined SSRIs and two included both classes, all compared with placebo. The number of participants in the intervention groups was 1364 and in the placebo groups 919. Nearly all studies were of short duration, typically 6-8 weeks. Pooled estimates of efficacy data showed an RR of 1.24, 95% CI 1.11-1.38 in favour of TCAs against placebo. For SSRIs this was 1.28, 95% CI 1.15 to 1.43.. The numbers needed to treat (NNT) for TCAs ranged from 7 to 16 {median NNT 9} patient expected event rate ranged from 63% to 26% respectively) and for SSRIs from 7 to 8 {median NNT 7} (patient expected event rate ranged from 48% to 42% respectively) . The numbers needed to harm (NNH for withdrawal due to side effects) ranged from 4 to 30 for TCAs (excluding three studies with no harmful events leading to withdrawal) and 20 to 90 for SSRIs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Both TCAs and SSRIs are effective for depression treated in primary care."
+    }
+  ],
+  "pls_title": "Antidepressants versus placebo for depression in primary care",
+  "pls_type": "long",
+  "pls": "Depression in the primary care setting is very common. However, most systematic reviews of antidepressant treatment have included trials conducted in secondary care settings. There has been doubt about the effectiveness of antidepressants in primary care, and hence the impetus to do this review. Through extensive searches of the literature we found 14 studies conducted in adults (not the elderly) in primary care setting, in which tricyclic antidepressants (TCAs) or selective serotonin reuptake inhibitors (SSRIs) were compared against a placebo control group in the treatment of depression. The results showed that both TCAs and SSRIs were effective for depression. Most of the studies were supported by funds from pharmaceutical companies and were of short duration. There appeared to be more adverse effects with TCAs than with SSRIs, however rates of withdrawal from study medication due to adverse effects were very similar between the two antidepressant classes. Adverse effects not leading to medication cessation seemed to be more common with TCAs than SSRIs."
+}

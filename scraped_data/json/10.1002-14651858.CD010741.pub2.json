@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD010741.pub2",
+  "name": "Normal saline versus lower‐chloride solutions for kidney transplantation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The ideal intravenous fluid for kidney transplantation has not been defined, despite the common use of normal saline during the peri-operative period. The high chloride content of normal saline is associated with an increased risk of hyperchloraemic metabolic acidosis, which may in turn increase the risk of hyperkalaemia and delayed graft function. Balanced electrolyte solutions have a lower chloride content which may decrease this risk and avoid the need for dialysis due to hyperkalaemia in the immediate post-transplant period. Randomised controlled trials (RCTs) addressing this issue have used biochemical outcomes to compare fluids and have been underpowered to address patient-centred outcomes such as delayed graft function."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effect of lower-chloride solutions versus normal saline on delayed graft function, hyperkalaemia and acid-base status in kidney transplant recipients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant's Specialised Register to 26 November 2015 through contact with the Information Specialist using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs of kidney transplant recipients that compared peri-operative intravenous lower-chloride solutions to normal saline were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent investigators assessed studies for eligibility and risk of bias. Data from individual studies were extracted using standardised forms and pooled according to a published protocol. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six studies (477 participants) were included in the review. All participants were adult kidney transplant recipients and 70% of participants underwent live-donor kidney transplantation. The overall risk of bias was low for selection bias and unclear for remaining domains. There was no difference in the risk of delayed graft function (3 studies, 298 participants: RR 1.03, 95% CI 0.62 to 1.70) or hyperkalaemia (2 studies, 199 participants: RR 0.48, 95% CI 0.04 to 6.10) for participants who received balanced electrolyte solutions compared to normal saline. Intraoperative balanced electrolyte solutions compared to normal saline were associated with higher blood pH (3 studies, 193 participants: MD 0.07, 95% CI 0.05 to 0.09), higher serum bicarbonate (3 studies, 215 participants: MD 3.02 mEq/L, 95% CI 2.00 to 4.05) and lower serum chloride (3 studies, 215 participants: MD -9.93 mmol/L, 95% CI -19.96 to 0.11). There were four cases of graft loss in the normal saline group and one in the balanced electrolyte solution group, and four cases of acute rejection in the normal saline group compared to two cases in the balanced electrolyte solution group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Balanced electrolyte solutions are associated with less hyperchloraemic metabolic acidosis compared to normal saline, however it remains uncertain whether lower-chloride solutions lead to improved graft outcomes compared to normal saline."
+    }
+  ],
+  "pls_title": "Normal saline versus lower-chloride solutions for kidney transplantation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People with kidney failure may have a kidney transplant to replace the function of their own kidneys. During a kidney transplant operation, patients receive fluids through their veins to keep them hydrated. Maintaining good hydration helps the transplanted kidney to work after the operation. The choice of fluids that are given during and after the operation may have an effect on how the transplant kidney works after surgery and on the patient's acid-base measures in the blood.\nNormal saline is a type of fluid that is commonly given during an operation. It contains a high chloride level. Giving a kidney transplant patient normal saline might increase the acid level of the blood compared to giving the patient fluids that contain less chloride. High blood acid levels might be associated with high blood potassium levels, which is dangerous for the heart and often requires dialysis to correct."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We performed a systematic review to address the question of whether giving lower-chloride fluids compared to normal saline during the kidney transplant operation alters the early function of the kidney, the number of patients with high blood potassium levels, and the acid level in the blood after the operation. We included studies that were published up to November 26, 2015."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found six studies that included 477 kidney transplant patients. The majority of these patients had a kidney transplant from a living donor. The overall quality of the studies was low to average, and the main problem was the small number of studies and the small size of the studies. There was no information on funding source for most of the studies.\nCompared to normal saline, giving kidney transplant patients solutions that contain less chloride during their transplant operation resulted in lower blood acid levels but did not affect how the transplant kidney worked after surgery, or the number of patients who had high blood potassium levels. Harmful effects were not reported in many studies. In the group of patients who were given lower-chloride fluids, the transplant failed in one patient and one patient rejected the transplant. In the group of patients who were given normal saline, the transplant failed in four patients, and two patients rejected the transplant. However, this is probably an incomplete picture of harmful effects."
+    }
+  ]
+}

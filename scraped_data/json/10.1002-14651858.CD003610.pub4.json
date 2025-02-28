@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003610.pub4",
+  "name": "Antibiotics for secondary prevention of coronary heart disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Coronary heart disease is the leading cause of mortality worldwide with approximately 7.4 million deaths each year. People with established coronary heart disease have a high risk of subsequent cardiovascular events including myocardial infarction, stroke, and cardiovascular death. Antibiotics might prevent such outcomes due to their antibacterial, antiinflammatory, and antioxidative effects. However, a randomised clinical trial and several observational studies have suggested that antibiotics may increase the risk of cardiovascular events and mortality. Furthermore, several non-Cochrane Reviews, that are now outdated, have assessed the effects of antibiotics for coronary heart disease and have shown conflicting results. No previous systematic review using Cochrane methodology has assessed the effects of antibiotics for coronary heart disease."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We assessed the benefits and harms of antibiotics compared with placebo or no intervention for the secondary prevention of coronary heart disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, LILACS, SCI-EXPANDED, and BIOSIS in December 2019 in order to identify relevant trials. Additionally, we searched TRIP, Google Scholar, and nine trial registries in December 2019. We also contacted 11 pharmaceutical companies and searched the reference lists of included trials, previous systematic reviews, and other types of reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials assessing the effects of antibiotics versus placebo or no intervention for secondary prevention of coronary heart disease in adult participants (≥18 years). Trials were included irrespective of setting, blinding, publication status, publication year, language, and reporting of our outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently extracted data. Our primary outcomes were all-cause mortality, serious adverse event according to the International Conference on Harmonization - Good Clinical Practice (ICH-GCP), and quality of life. Our secondary outcomes were cardiovascular mortality, myocardial infarction, stroke, and sudden cardiac death. Our primary time point of interest was at maximum follow-up. Additionally, we extracted outcome data at 24±6 months follow-up. We assessed the risks of systematic errors using Cochrane 'Rosk of bias' tool. We calculated risk ratios (RRs) with 95% confidence intervals (CIs) for dichotomous outcomes. We calculated absolute risk reduction (ARR) or increase (ARI) and number needed to treat for an additional beneficial outcome (NNTB) or for an additional harmful outcome (NNTH) if the outcome result showed a beneficial or harmful effect, respectively. The certainty of the body of evidence was assessed by GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 38 trials randomising a total of 26,638 participants (mean age 61.6 years), with 23/38 trials reporting data on 26,078 participants that could be meta-analysed. Three trials were at low risk of bias and the 35 remaining trials were at high risk of bias. Trials assessing the effects of macrolides (28 trials; 22,059 participants) and quinolones (two trials; 4162 participants) contributed with the vast majority of the data.\nMeta-analyses at maximum follow-up showed that antibiotics versus placebo or no intervention seemed to increase the risk of all-cause mortality (RR 1.06; 95% CI 0.99 to 1.13; P = 0.07; I2 = 0%; ARI 0.48%; NNTH 208; 25,774 participants; 20 trials; high certainty of evidence), stroke (RR 1.14; 95% CI 1.00 to 1.29; P = 0.04; I2 = 0%; ARI 0.73%; NNTH 138; 14,774 participants; 9 trials; high certainty of evidence), and probably also cardiovascular mortality (RR 1.11; 95% CI 0.98 to 1.25; P = 0.11; I2= 0%; 4674 participants; 2 trials; moderate certainty of evidence). Little to no difference was observed when assessing the risk of myocardial infarction (RR 0.95; 95% CI 0.88 to 1.03; P = 0.23; I2 = 0%; 25,523 participants; 17 trials; high certainty of evidence). No evidence of a difference was observed when assessing sudden cardiac death (RR 1.08; 95% CI 0.90 to 1.31; P = 0.41; I2 = 0%; 4520 participants; 2 trials; moderate certainty of evidence).\nMeta-analyses at 24±6 months follow-up showed that antibiotics versus placebo or no intervention increased the risk of all-cause mortality (RR 1.25; 95% CI 1.06 to 1.48; P = 0.007; I2 = 0%; ARI 1.26%; NNTH 79 (95% CI 335 to 42); 9517 participants; 6 trials; high certainty of evidence), cardiovascular mortality (RR 1.50; 95% CI 1.17 to 1.91; P = 0.001; I2 = 0%; ARI 1.12%; NNTH 89 (95% CI 261 to 49); 9044 participants; 5 trials; high certainty of evidence), and probably also sudden cardiac death (RR 1.77; 95% CI 1.28 to 2.44; P = 0.0005; I2 = 0%; ARI 1.9%; NNTH 53 (95% CI 145 to 28); 4520 participants; 2 trials; moderate certainty of evidence). No evidence of a difference was observed when assessing the risk of myocardial infarction (RR 0.95; 95% CI 0.82 to 1.11; P = 0.53; I2 = 43%; 9457 participants; 5 trials; moderate certainty of evidence) and stroke (RR 1.17; 95% CI 0.90 to 1.52; P = 0.24; I2 = 0%; 9457 participants; 5 trials; high certainty of evidence).\nMeta-analyses of trials at low risk of bias differed from the overall analyses when assessing cardiovascular mortality at maximum follow-up. For all other outcomes, meta-analyses of trials at low risk of bias did not differ from the overall analyses.\nNone of the trials specifically assessed serious adverse event according to ICH-GCP.\nNo data were found on quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our present review indicates that antibiotics (macrolides or quinolones) for secondary prevention of coronary heart disease seem harmful when assessing the risk of all-cause mortality, cardiovascular mortality, and stroke at maximum follow-up and all-cause mortality, cardiovascular mortality, and sudden cardiac death at 24±6 months follow-up. Current evidence does, therefore, not support the clinical use of macrolides and quinolones for the secondary prevention of coronary heart disease.\nFuture trials on the safety of macrolides or quinolones for the secondary prevention in patients with coronary heart disease do not seem ethical. In general, randomised clinical trials assessing the effects of antibiotics, especially macrolides and quinolones, need longer follow-up so that late-occurring adverse events can also be assessed."
+    }
+  ],
+  "pls_title": "Benefits and harms of antibiotics for secondary prevention of coronary heart disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Coronary heart disease, also known as cardiovascular disease, is the leading cause of death worldwide with approximately 7.4 million deaths each year. Coronary heart disease is caused by decreased blood supply to the heart. The severity of the disease ranges from chest pain during exercise to heart attack. Antibiotics might help patients with coronary heart disease and reduce their risk of heart attacks, strokes, chest pain, revascularisation procedures, and death. However, a randomised clinical trial and several observational studies suggested that antibiotics increased the risk of cardiovascular events and death."
+    },
+    {
+      "heading": "Review question",
+      "text": "The aim of this Cochrane systematic review was to assess the benefits and harms of antibiotics in adult patients with coronary heart disease.\nWe primarily assessed the benefits and harms at maximum follow-up and secondly at 24±6 months follow-up."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched various scientific databases from their inception to December 2019 and found 38 trials where people with coronary heart disease were randomly allocated to antibiotics versus placebo or no intervention. The 38 trials included 26,638 adults with a mean age of 61.6 years. 23 out of the 38 trials reported data on 26,078 participants that could be analysed. The vast majority of the data was contributed by trials assessing the effects of macrolide antibiotics (28 trials; 22,059 participants) and quinolone antibiotics (two trials; 4162 participants), while insufficient data were contributed by trials assessing the effects of tetracycline antibiotics (eight trials; 417 participants). Three trials were at low risk of bias and the remaining trials were at high risk of bias."
+    },
+    {
+      "heading": "Key results and conclusion",
+      "text": "Patients receiving antibiotics (macrolide antibiotics or quinolone antibiotics) compared with patients receiving placebo or no intervention seemed at a slightly higher risk of death from all causes, death from a cardiac cause, and having a stroke at maximum follow-up. Moreover, a slightly higher risk was also observed when assessing death from all causes, death from a cardiac cause, and sudden death from a cardiac cause at 24±6 months follow-up. None of the trials sufficiently reported the number of participants with serious adverse events. No data were provided on quality of life.\nFuture trials on the safety of macrolide antibiotics or quinolone antibiotics for the secondary prevention in adult patients with coronary heart disease do not seem ethical."
+    }
+  ]
+}

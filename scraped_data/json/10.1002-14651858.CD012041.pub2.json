@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012041.pub2",
+  "name": "Immunonutrition for acute respiratory distress syndrome (ARDS) in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory distress syndrome (ARDS) is an overwhelming systemic inflammatory process associated with significant morbidity and mortality. Pharmacotherapies that moderate inflammation in ARDS are lacking. Several trials have evaluated the effects of pharmaconutrients, given as part of a feeding formula or as a nutritional supplement, on clinical outcomes in critical illness and ARDS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically review and critically appraise available evidence on the effects of immunonutrition compared to standard non-immunonutrition formula feeding on mechanically ventilated adults (aged 18 years or older) with acute respiratory distress syndrome (ARDS)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, CENTRAL, conference proceedings, and trial registries for appropriate studies up to 25 April 2018. We checked the references from published studies and reviews on this topic for potentially eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomized controlled trials (RCTs) and quasi-randomized controlled trials comparing immunonutrition versus a control or placebo nutritional formula in adults (aged 18 years or older) with ARDS, as defined by the Berlin definition of ARDS or, for older studies, by the American-European Consensus Criteria for both ARDS and acute lung injury."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the quality of studies and extracted data from the included trials. We sought additional information from study authors. We performed statistical analysis according to Cochrane methodological standards. Our primary outcome was all-cause mortality. Secondary outcomes included intensive care unit (ICU) length of stay, ventilator days, indices of oxygenation, cardiac adverse events, gastrointestinal adverse events, and total number of adverse events. We used GRADE to assess the quality of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 10 randomized controlled trials with 1015 participants. All studies compared an enteral formula or additional supplemental omega-3 fatty acids (i.e. eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA)), gamma-linolenic acid (GLA), and antioxidants. We assessed some of the included studies as having high risk of bias due to methodological shortcomings. Studies were heterogenous in nature and varied in several ways, including type and duration of interventions given, calorific targets, and reported outcomes. All studies reported mortality. For the primary outcome, study authors reported no differences in all-cause mortality (longest period reported) with the use of an immunonutrition enteral formula or additional supplements of omega-3 fatty acids and antioxidants (risk ratio (RR) 0.79, 95% confidence interval (CI) 0.59 to 1.07; participants = 1015; studies = 10; low-quality evidence).\nFor secondary outcomes, we are uncertain whether immunonutrition with omega-3 fatty acids and antioxidants reduces ICU length of stay (mean difference (MD) -3.09 days. 95% CI -5.19 to -0.99; participants = 639; studies = 8; very low-quality evidence) and ventilator days (MD -2.24 days, 95% CI -3.77 to -0.71; participants = 581; studies = 7; very low-quality evidence). We are also uncertain whether omega-3 fatty acids and antioxidants improve oxygenation, defined as ratio of partial pressure of arterial oxygen (PaO₂) to fraction of inspired oxygen (FiO₂), at day 4 (MD 39 mmHg, 95% CI 10.75 to 67.02; participants = 676; studies = 8), or whether they increase adverse events such as cardiac events (RR 0.87, 95% CI 0.09 to 8.46; participants = 339; studies = 3; very low-quality evidence), gastrointestinal events (RR 1.11, 95% CI 0.71 to 1.75; participants = 427; studies = 4; very low-quality evidence), or total adverse events (RR 0.91, 95% CI 0.67 to 1.23; participants = 517; studies = 5; very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This meta-analysis of 10 studies of varying quality examined effects of omega-3 fatty acids and/or antioxidants in adults with ARDS. This intervention may produce little or no difference in all-cause mortality between groups. We are uncertain whether immunonutrition with omega-3 fatty acids and antioxidants improves the duration of ventilator days and ICU length of stay or oxygenation at day 4 due to the very low quality of evidence. Adverse events associated with immunonutrition are also uncertain, as confidence intervals include the potential for increased cardiac, gastrointestinal, and total adverse events."
+    }
+  ],
+  "pls_title": "Immunonutrition for acute respiratory distress syndrome (ARDS) in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory distress syndrome (ARDS) is a life-threatening condition wherein the lungs are inflamed (irritated) and damaged. In this state, the lungs cannot deliver into the blood enough oxygen for the body’s vital organs. It is usually seen in patients who are already seriously ill. Currently, no specific effective therapeutic options are available for this condition. Alternatively, change in dietary intake has been deployed. Modification of the nutrition given to adults with ARDS, to include components of food that have an anti-inflammatory effect, could reduce lung inflammation and improve outcomes in adults with this condition. Omega-3 fatty acids (known as DHA and EPA) are found in fish oils and can have an anti-inflammatory effect. Reviewers examined reported outcomes and effects of changes in nutrition among studies involving adults with ARDS."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current up to April 2018. We included in this review 10 studies with 1015 adult participants. These studies were conducted in intensive care units and compared standard nutrition (the usual nutrition given to patients with ARDS) versus nutrition supplemented with omega-3 fatty acids or placebo (a substance with no active effect), and compared either with or without antioxidants. Antioxidants are molecules that can inhibit or slow down oxidation - a reaction that can cause inflammation and damage cells."
+    },
+    {
+      "heading": "Key results",
+      "text": "It is unclear whether use of omega-3 fatty acids and antioxidants as part of nutritional intake in patients with ARDS improves long-term survival. It is uncertain whether omega-3 fatty acids and antioxidants reduce length of ICU stay and the number of days spent on a ventilator, or if they improve oxygenation. It is also unclear if this type of nutrition causes increased harm."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "Findings of this review are limited by lack of standardization among the included studies in terms of methods, types of nutritional supplements given, and reporting of outcome measures. We rated the quality of evidence as low to very low."
+    }
+  ]
+}

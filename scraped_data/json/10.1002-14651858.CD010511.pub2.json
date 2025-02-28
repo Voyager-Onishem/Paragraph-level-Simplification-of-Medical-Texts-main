@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010511.pub2",
+  "name": "Chemoradiotherapy versus chemoradiotherapy plus surgery for esophageal cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Please see Appendix 4 for a glossary of terms.\nThe outcome of patients with esophageal cancer is generally poor. Although multimodal therapy is standard, there is conflicting evidence regarding the addition of esophagectomy to chemoradiotherapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effectiveness and safety of chemoradiotherapy plus surgery with that of chemoradiotherapy alone in people with nonmetastatic esophageal carcinoma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed a computerized search for relevant studies, up to Feburary 2017, on the CENTRAL, MEDLINE, and Embase databases using MeSH headings and keywords. We searched five online databases of clinical trials, handsearched conference proceedings, and screened reference lists of retrieved papers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing chemoradiotherapy plus esophagectomy with chemoradiotherapy alone for localized esophageal carcinoma. We excluded RCTs comparing chemotherapy or radiotherapy alone with esophagectomy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies, extracted data, and assessed risk of bias and the quality of the evidence, using standardized Cochrane methodological procedures. The primary outcome was overall survival (OS), estimated with Hazard Ratio (HR). Secondary outcomes, estimated with risk ratio (RR), were local and distant progression-free survival (PFS), quality of life (QoL), treatment-related mortality and morbidity, and use of salvage procedures for dysphagia. Data were analyzed using a random effects model in Review Manager 5.3 software."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 2667 references, we identified two randomized studies, in six reports, that included 431 participants. All participants were clinically staged to have at least T3 and/or node positive thoracic esophageal carcinoma, 93% of which was squamous cell histology. The risk of methodological bias of the included studies was low to moderate.\nHigh-quality evidence found the addition of esophagectomy had little or no difference on overall survival (HR 0.99, 95% CI 0.79 to 1.24; P = 0.92; I² = 0%; two trials). Neither study reported PFS, therefore, freedom from loco-regional relapse was used as a proxy. Moderate-quality evidence suggested that the addition of esophagectomy probably improved freedom from locoregional relapse (HR 0.55, 95% CI 0.39 to 0.76; P = 0.0004; I² = 0%; two trials), but low-quality evidence suggested it may increase the risk of treatment-related mortality (RR 5.11, 95% CI 1.74 to 15.02; P = 0.003; I² = 2%; two trials).\nThe other pre-specified outcomes (quality of life, treatment-related toxicity, and use of salvage procedures for dysphagia) were reported by only one study, which found very low-quality evidence that use of esophagectomy was associated with reduced short-term QoL (MD 0.93, 95% CI 0.24 to 1.62), and low-quality evidence that it reduced use of salvage procedures for dysphagia (HR 0.52, 95% CI 0.36 to 0.75). Neither study compared treatment-related morbidity between treatment groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, the addition of esophagectomy to chemoradiotherapy in locally advanced esophageal squamous cell carcinoma, provides little or no difference on overall survival, and may be associated with higher treatment-related mortality. The addition of esophagectomy probably delays locoregional relapse, however, this end point was not well defined in the included studies. It is undetermined whether these results can be applied to the treatment of adenocarcinomas, tumors involving the distal esophagus and gastro-esophageal junction, and to people with poor response to chemoradiation."
+    }
+  ],
+  "pls_title": "The benefits and side effects of adding surgery to chemoradiotherapy for the treatment of esophageal cancer that can be surgically removed",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does the addition of surgery to chemoradiotherapy, improve survival in people with resectable esophageal cancer (cancer that can be surgically removed)?"
+    },
+    {
+      "heading": "Background",
+      "text": "Cancer of the esophagus (muscular tube that leads from the mouth through the throat to the stomach) is a lethal condition. It is usually treated with surgery, radiotherapy, chemotherapy, or a combination of these. It is unclear if adding surgery after chemoradiotherapy (chemotherapy plus radiation) adds any benefit for people with esophageal cancer."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included two randomized studies, in six published reports, with 431 participants with locally advanced esophageal cancer. We searched biomedical databases, clinical trial registries, conference proceedings, and reference lists up to 7 February 2017 for studies."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence ranged from very low to high, depending on the outcome being assessed, because the trials were small and at unclear or high risk of bias (a systematic error or deviation from the truth that affects the results, favouring one treatment over another)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found evidence that adding surgery reduced the risk of the cancer recurring at the primary site, but did not improve overall survival. Moreover, there were more treatment-related deaths in the group of participants who underwent surgery."
+    }
+  ]
+}

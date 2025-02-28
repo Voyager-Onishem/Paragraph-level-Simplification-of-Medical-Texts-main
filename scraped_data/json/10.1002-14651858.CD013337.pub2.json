@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013337.pub2",
+  "name": "Pharmacological interventions for prevention of weight gain in people with schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antipsychotic-induced weight gain is an extremely common problem in people with schizophrenia and is associated with increased morbidity and mortality. Adjunctive pharmacological interventions may be necessary to help manage antipsychotic-induced weight gain. This review splits and updates a previous Cochrane Review that focused on both pharmacological and behavioural approaches to this problem."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of pharmacological interventions for preventing antipsychotic-induced weight gain in people with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Schizophrenia Information Specialist searched Cochrane Schizophrenia's Register of Trials on 10 February 2021. There are no language, date, document type, or publication status limitations for inclusion of records in the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) that examined any adjunctive pharmacological intervention for preventing weight gain in people with schizophrenia or schizophrenia-like illnesses who use antipsychotic medications."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently extracted data and assessed the quality of included studies. For continuous outcomes, we combined mean differences (MD) in endpoint and change data in the analysis. For dichotomous outcomes, we calculated risk ratios (RR). We assessed risk of bias for included studies and used GRADE to judge certainty of evidence and create summary of findings tables. The primary outcomes for this review were clinically important change in weight, clinically important change in body mass index (BMI), leaving the study early, compliance with treatment, and frequency of nausea. The included studies rarely reported these outcomes, so, post hoc, we added two new outcomes, average endpoint/change in weight and average endpoint/change in BMI."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventeen RCTs, with a total of 1388 participants, met the inclusion criteria for the review. Five studies investigated metformin, three topiramate, three H2 antagonists, three monoamine modulators, and one each investigated monoamine modulators plus betahistine, melatonin and samidorphan. The comparator in all studies was placebo or no treatment (i.e. standard care alone). We synthesised all studies in a quantitative meta-analysis. Most studies inadequately reported their methods of allocation concealment and blinding of participants and personnel. The resulting risk of bias and often small sample sizes limited the overall certainty of the evidence. Only one reboxetine study reported the primary outcome, number of participants with clinically important change in weight. Fewer people in the treatment condition experienced weight gains of more than 5% and more than 7% of their bodyweight than those in the placebo group (> 5% weight gain RR 0.27, 95% confidence interval (CI) 0.11 to 0.65; 1 study, 43 participants; > 7% weight gain RR 0.24, 95% CI 0.07 to 0.83; 1 study, 43 participants; very low-certainty evidence). No studies reported the primary outcomes, 'clinically important change in BMI', or 'compliance with treatment'. However, several studies reported 'average endpoint/change in body weight' or 'average endpoint/change in BMI'.\nMetformin may be effective in preventing weight gain (MD −4.03 kg, 95% CI −5.78 to −2.28; 4 studies, 131 participants; low-certainty evidence); and BMI increase (MD −1.63 kg/m2, 95% CI −2.96 to −0.29; 5 studies, 227 participants; low-certainty evidence). Other agents that may be slightly effective in preventing weight gain include H2 antagonists such as nizatidine, famotidine and ranitidine (MD −1.32 kg, 95% CI −2.09 to −0.56; 3 studies, 248 participants; low-certainty evidence) and monoamine modulators such as reboxetine and fluoxetine (weight: MD −1.89 kg, 95% CI −3.31 to −0.47; 3 studies, 103 participants; low-certainty evidence; BMI: MD −0.66 kg/m2, 95% CI −1.05 to −0.26; 3 studies, 103 participants; low-certainty evidence). Topiramate did not appear effective in preventing weight gain (MD −4.82 kg, 95% CI −9.99 to 0.35; 3 studies, 168 participants; very low-certainty evidence). For all agents, there was no difference between groups in terms of individuals leaving the study or reports of nausea. However, the results of these outcomes are uncertain given the very low-certainty evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is low-certainty evidence to suggest that metformin may be effective in preventing weight gain. Interpretation of this result and those for other agents, is limited by the small number of studies, small sample size, and short study duration. In future, we need studies that are adequately powered and with longer treatment durations to further evaluate the efficacy and safety of interventions for managing weight gain."
+    }
+  ],
+  "pls_title": "How effective are medications given alongside antipsychotics at preventing weight gain in people with schizophrenia?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- Metformin may be effective in preventing weight gain caused by antipsychotics.\n- H2 antagonists and monoamine modulators may be slightly effective in preventing weight gain caused by antipsychotics.\n- Future studies should include more people and evaluate them for longer."
+    },
+    {
+      "heading": "What are antipsychotics?",
+      "text": "Antipsychotics are medications used to treat symptoms of psychosis, such as hallucinations, delusions and agitation. They are often used to treat people with schizophrenia. Examples of antipsychotics are haloperidol (Haldol), chlorpromazine (Thorazine), olanzapine (Zyprexa) and risperidone (Risperdal)."
+    },
+    {
+      "heading": "Schizophrenia and weight gain",
+      "text": "People with schizophrenia are twice as likely as the general population to be overweight, perhaps due to a poor diet and an inactive lifestyle. Excess weight can lead to other health conditions, such as heart disease, stroke and diabetes.\nUnfortunately, an unwanted effect of antipsychotics is weight gain. Sometimes, people with schizophrenia are given medications alongside antipsychotics (‘add-on’ medications) to prevent this additional weight gain. These add-on medications may stop people feeling hungry or help them feel full. Usually, they are medications developed for other purposes, such as metformin, which is a medicine to treat diabetes, and fluoxetine, which is an antidepressant."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether add-on medications to prevent weight gain caused by antipsychotics were effective in people with schizophrenia."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that examined any medicine given alongside antipsychotics to prevent weight gain in people with schizophrenia. Study participants could be any age or sex but had to have a diagnosis of schizophrenia or a schizophrenia-like illness. They had to be chosen at random to receive either the weight-prevention medicine, or a placebo (a dummy medicine) or no add-on medicine (standard treatment).\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 17 studies with 1388 people that examined the effects of add-on medications to prevent weight gain caused by antipsychotics. The add-on medications were metformin, topiramate, H2 antagonists, monoamine modulators, monoamine modulators plus betahistine, melatonin, and samidorphan. Studies were short, lasting between 6 and 24 weeks. And they were small, with only 63 people on average - the smallest included only 14 people, the largest 561 people.\nStudies done to date suggest that:\n- metformin may be effective in preventing weight gain and is well-tolerated compared to standard treatment (5 studies, 232 participants);\n- H2 antagonists, such as nizatidine, famotidine and ranitidine, or monoamine modulators, such as reboxetine and fluoxetine may be potentially effective in preventing weight gain caused by antipsychotics;\n- topiramate is probably not effective in preventing weight gain caused by antipsychotics."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is limited because we found only a small number of studies for each add-on medication. Studies included few people, and lasted only a short time."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to February 2021."
+    }
+  ]
+}

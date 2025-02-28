@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013829.pub2",
+  "name": "Impact of low‐dose computed tomography (LDCT) screening on lung cancer‐related mortality",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Lung cancer is the most common cause of cancer-related death in the world, however lung cancer screening has not been implemented in most countries at a population level. A previous Cochrane Review found limited evidence for the effectiveness of lung cancer screening with chest radiography (CXR) or sputum cytology in reducing lung cancer-related mortality, however there has been increasing evidence supporting screening with low-dose computed tomography (LDCT)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether screening for lung cancer using LDCT of the chest reduces lung cancer-related mortality and to evaluate the possible harms of LDCT screening."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed the search in collaboration with the Information Specialist of the Cochrane Lung Cancer Group and included the Cochrane Lung Cancer Group Trial Register, Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library, current issue), MEDLINE (accessed via PubMed) and Embase in our search. We also searched the clinical trial registries to identify unpublished and ongoing trials. We did not impose any restriction on language of publication. The search was performed up to 31 July 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of lung cancer screening using LDCT and reporting mortality or harm outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors were involved in independently assessing trials for eligibility, extraction of trial data and characteristics, and assessing risk of bias of the included trials using the Cochrane RoB 1 tool. We assessed the certainty of evidence using GRADE. Primary outcomes were lung cancer-related mortality and harms of screening. We performed a meta-analysis, where appropriate, for all outcomes using a random-effects model. We only included trials in the analysis of mortality outcomes if they had at least 5 years of follow-up. We reported risk ratios (RRs) and hazard ratios (HRs), with 95% confidence intervals (CIs) and used the I2 statistic to investigate heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 trials in this review with a total of 94,445 participants. Trials were conducted in Europe and the USA in people aged 40 years or older, with most trials having an entry requirement of ≥ 20 pack-year smoking history (e.g. 1 pack of cigarettes/day for 20 years or 2 packs/day for 10 years etc.). One trial included male participants only. Eight trials were phase three RCTs, with two feasibility RCTs and one pilot RCT. Seven of the included trials had no screening as a comparison, and four trials had CXR screening as a comparator. Screening frequency included annual, biennial and incrementing intervals. The duration of screening ranged from 1 year to 10 years. Mortality follow-up was from 5 years to approximately 12 years.\nNone of the included trials were at low risk of bias across all domains. The certainty of evidence was moderate to low across different outcomes, as assessed by GRADE.\nIn the meta-analysis of trials assessing lung cancer-related mortality, we included eight trials (91,122 participants), and there was a reduction in mortality of 21% with LDCT screening compared to control groups of no screening or CXR screening (RR 0.79, 95% CI 0.72 to 0.87; 8 trials, 91,122 participants; moderate-certainty evidence). There were probably no differences in subgroups for analyses by control type, sex, geographical region, and nodule management algorithm. Females appeared to have a larger lung cancer-related mortality benefit compared to males with LDCT screening. There was also a reduction in all-cause mortality (including lung cancer-related) of 5% (RR 0.95, 95% CI 0.91 to 0.99; 8 trials, 91,107 participants; moderate-certainty evidence).\nInvasive tests occurred more frequently in the LDCT group (RR 2.60, 95% CI 2.41 to 2.80; 3 trials, 60,003 participants; moderate-certainty evidence). However, analysis of 60-day postoperative mortality was not significant between groups (RR 0.68, 95% CI 0.24 to 1.94; 2 trials, 409 participants; moderate-certainty evidence).\nFalse-positive results and recall rates were higher with LDCT screening compared to screening with CXR, however there was low-certainty evidence in the meta-analyses due to heterogeneity and risk of bias concerns. Estimated overdiagnosis with LDCT screening was 18%, however the 95% CI was 0 to 36% (risk difference (RD) 0.18, 95% CI -0.00 to 0.36; 5 trials, 28,656 participants; low-certainty evidence).\nFour trials compared different aspects of health-related quality of life (HRQoL) using various measures. Anxiety was pooled from three trials, with participants in LDCT screening reporting lower anxiety scores than in the control group (standardised mean difference (SMD) -0.43, 95% CI -0.59 to -0.27; 3 trials, 8153 participants; low-certainty evidence).\nThere were insufficient data to comment on the impact of LDCT screening on smoking behaviour."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The current evidence supports a reduction in lung cancer-related mortality with the use of LDCT for lung cancer screening in high-risk populations (those over the age of 40 with a significant smoking exposure). However, there are limited data on harms and further trials are required to determine participant selection and optimal frequency and duration of screening, with potential for significant overdiagnosis of lung cancer. Trials are ongoing for lung cancer screening in non-smokers."
+    }
+  ],
+  "pls_title": "Impact of computed tomography (CT) on lung cancer screening",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Lung cancer is the most common cause of cancer-related death worldwide. Lung cancer survival is significantly dependent on when a person is diagnosed with the disease. It is essential to detect the disease as early as possible by radiography (chest x-ray) or by computed tomography (CT) scan, which is a more detailed type of radiography where multiple images of the lung are taken. The aim of this review was to gather information on the use of CT scan to detect lung cancer earlier and to find out if early detection of lung cancer reduces death from lung cancer. We also evaluated potential harms that can occur from using CT to screen for lung cancer, such as additional investigations and their related complications."
+    },
+    {
+      "heading": "Description of included trials",
+      "text": "The evidence is current to 31 July 2021. We included 11 trials, with a total of 94,445 participants. The trials came from the USA and Europe. The earliest trial started in 1991, and the most recent started in 2011. The participants were adults over the age of 40. The frequency of screening with CT ranged from yearly to more than 2.5 years."
+    },
+    {
+      "heading": "Key findings",
+      "text": "Eight of the trials (91,122 participants) were included in the main outcome analysis of lung cancer-related mortality. In people over 40 years with significant smoking exposure, CT screening reduced deaths from lung cancer by 21%, with 226 people needing to undergo screening to prevent one death from lung cancer. We also found that deaths from any cause (including lung cancer) were less with CT screening. However, the effect was much lower (only 5% reduction in risk). Lung cancer was detected more frequently in the group of people who had CT screening compared with no screening. However, CT scans can induce false-positive scans (a test that is positive or indeterminate for lung cancer, when the person does not actually have lung cancer). We found that false-positive results were more common among people who were screened with CT than chest x-ray. Because of that, those that underwent CT screening had more tests to investigate both cancer and non-cancer-related diseases. Screening also implies a risk of detecting lung cancers that may have never progressed to cause harm to the person (this is referred to as overdiagnosis). The risk of lung cancer overdiagnosis with CT screening was estimated to be 18%.\nThe trials were too different or did not provide enough information to look at the impact of screening on stopping smoking or quality of life. There was some evidence to suggest there were no long-term psychological harms from screening, with some people in the CT screening group feeling less anxious compared to the control groups who were not offered screening."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The overall certainty of evidence was moderate when it came to outcomes regarding death, with moderate- to low-certainty evidence for other outcomes. The certainty rating for outcomes reflects the authors' confidence and certainty in the outcome being correct."
+    }
+  ]
+}

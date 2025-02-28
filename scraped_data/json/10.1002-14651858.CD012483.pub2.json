@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012483.pub2",
+  "name": "Intraoperative neuromonitoring versus visual nerve identification for prevention of recurrent laryngeal nerve injury in adults undergoing thyroid surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Injuries to the recurrent inferior laryngeal nerve (RILN) remain one of the major post-operative complications after thyroid and parathyroid surgery. Damage to this nerve can result in a temporary or permanent palsy, which is associated with vocal cord paresis or paralysis. Visual identification of the RILN is a common procedure to prevent nerve injury during thyroid and parathyroid surgery. Recently, intraoperative neuromonitoring (IONM) has been introduced in order to facilitate the localisation of the nerves and to prevent their injury during surgery. IONM permits nerve identification using an electrode, where, in order to measure the nerve response, the electric field is converted to an acoustic signal."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of IONM versus visual nerve identification for the prevention of RILN injury in adults undergoing thyroid surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, ICTRP Search Portal and ClinicalTrials.gov. The date of the last search of all databases was 21 August 2018. We did not apply any language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing IONM nerve identification plus visual nerve identification versus visual nerve identification alone for prevention of RILN injury in adults undergoing thyroid surgery"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts for relevance. One review author carried out screening for inclusion, data extraction and 'Risk of bias' assessment and a second review author checked them. For dichotomous outcomes, we calculated risk ratios (RRs) with 95% confidence intervals (CIs). For continuous outcomes, we calculated mean differences (MDs) with 95% CIs. We assessed trials for certainty of the evidence using the GRADE instrument."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five RCTs with 1558 participants (781 participants were randomly assigned to IONM and 777 to visual nerve identification only) met the inclusion criteria; two trials were performed in Poland and one trial each was performed in China, Korea and Turkey. Inclusion and exclusion criteria differed among trials: previous thyroid or parathyroid surgery was an exclusion criterion in three trials. In contrast, this was a specific inclusion criterion in another trial. Three trials had central neck compartment dissection or lateral neck dissection and Graves’ disease as exclusion criteria. The mean duration of follow-up ranged from 6 to 12 months. The mean age of participants ranged between 41.7 years and 51.9 years.\nThere was no firm evidence of an advantage or disadvantage comparing IONM with visual nerve identification only for permanent RILN palsy (RR 0.77, 95% CI 0.33 to 1.77; P = 0.54; 4 trials; 2895 nerves at risk; very low-certainty evidence) or transient RILN palsy (RR 0.62, 95% CI 0.35 to 1.08; P = 0.09; 4 trials; 2895 nerves at risk; very low-certainty evidence). None of the trials reported health-related quality of life. Transient hypoparathyroidism as an adverse event was not substantially different between intervention and comparator groups (RR 1.25; 95% CI 0.45 to 3.47; P = 0.66; 2 trials; 286 participants; very low-certainty evidence). Operative time was comparable between IONM and visual nerve monitoring alone (MD 5.5 minutes, 95% CI −0.7 to 11.8; P = 0.08; 3 trials; 1251 participants; very low-certainty evidence). Three of five included trials provided data on all-cause mortality: no deaths were reported. None of the trials reported socioeconomic effects. The evidence reported in this review was mostly of very low certainty, particularly because of risk of bias, a high degree of imprecision due to wide confidence intervals and substantial between-study heterogeneity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Results from this systematic review and meta-analysis indicate that there is currently no conclusive evidence for the superiority or inferiority of IONM over visual nerve identification only on any of the outcomes measured. Well-designed, executed, analysed and reported RCTs with a larger number of participants and longer follow-up, employing the latest IONM technology and applying new surgical techniques are needed."
+    }
+  ],
+  "pls_title": "Identification of nerves using an electrode compared with visual nerve identification for adults undergoing thyroid surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To assess the effects of intraoperative neuromonitoring compared with visual nerve identification for the prevention of recurrent laryngeal nerve injury during thyroid surgery in adults."
+    },
+    {
+      "heading": "Background",
+      "text": "Thyroidectomy is an operation that removes a part or all of the thyroid gland to cure benign disorders (for example multinodular goitre), or cancer. The recurrent laryngeal nerves are responsible for the movement of the vocal cords and they can easily be injured during thyroid surgery, resulting in one-sided or two-sided vocal cord paralysis leading to difficulty in speaking (dysphonia), breathing problems, or both. This, in turn may result in decreased health-related quality of life and may lead to permanent disability. Visual identification of recurrent laryngeal nerves during surgery has long been a standard procedure to prevent their injury. Recently, intraoperative neuromonitoring, which identifies nerves using an electrode, has been introduced to help the surgeon find and protect the recurrent laryngeal nerves."
+    },
+    {
+      "heading": "Trial characteristics",
+      "text": "We searched for randomised controlled trials (trials where the participants are randomly allocated to one, two, or more treatment arms), comparing intraoperative neuromonitoring plus visual nerve identification with visual nerve identification alone. We included only trials that reported data on participants older than 18 years who underwent thyroid surgery. We excluded trials with participants with previous neck surgery or repeated laryngeal nerve paralysis. We included five trials with a total of 1558 participants; 781 participants were allocated to intraoperative neuromonitoring and 777 participants were allocated to visual nerve identification only. Two trials took place in Poland and one study each in Turkey, China and Korea. The average age of participants ranged between 41.7 years and 51.9 years.\nThis evidence is up to date as of 21 August 2018."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no firm evidence of an advantage or disadvantage comparing intraoperative neuromonitoring with visual nerve identification only for permanent or temporary recurrent laryngeal nerve paralysis, side effects and the time the operation lasted. Three of five included trials had data on all-cause mortality and reported no deaths. None of the trials reported health-related quality of life or socioeconomic effects (for example costs related to hospital stay). We need well-designed, executed, analysed and reported trials, with a larger number of participants and longer observation periods after surgery, using the latest intraoperative neuromonitoring technology and applying new surgical techniques."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "We are very uncertain about the effects of intraoperative neuromonitoring compared with visual nerve identification for the prevention of recurrent laryngeal nerve injury during thyroid surgery. There were only a small number of trials, some systematic errors in the included trials and results were imprecise."
+    }
+  ]
+}

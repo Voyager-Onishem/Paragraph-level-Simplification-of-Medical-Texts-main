@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007577.pub3",
+  "name": "Short‐course versus prolonged‐course antibiotic therapy for hospital‐acquired pneumonia in critically ill adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pneumonia is the most common hospital-acquired infection affecting patients in the intensive care unit (ICU). However, current national guidelines for the treatment of hospital-acquired pneumonia (HAP) are several years old and the diagnosis of pneumonia in mechanically ventilated patients (VAP) has been subject to considerable recent attention. The optimal duration of antibiotic therapy for HAP in the critically ill is uncertain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of short versus prolonged-course antibiotics for HAP in critically ill adults, including patients with VAP."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2015, Issue 5), MEDLINE (1946 to June 2015), MEDLINE in-process and other non-indexed citations (5 June 2015), EMBASE (2010 to June 2015), LILACS (1982 to June 2015) and Web of Science (1955 to June 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered all randomised controlled trials (RCTs) comparing a fixed 'short' duration of antibiotic therapy with a 'prolonged' course for HAP (including patients with VAP) in critically ill adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors conducted data extraction and assessment of risk of bias. We contacted trial authors for additional information."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified six relevant studies involving 1088 participants. This included two new studies published after the date of our previous review (2011). There was substantial variation in participants, in the diagnostic criteria used to define an episode of pneumonia, in the interventions and in the reported outcomes. We found no evidence relating to patients with a high probability of HAP who were not mechanically ventilated. For patients with VAP, overall a short seven- or eight-day course of antibiotics compared with a prolonged 10- to 15-day course increased 28-day antibiotic-free days (two studies; N = 431; mean difference (MD) 4.02 days; 95% confidence interval (CI) 2.26 to 5.78) and reduced recurrence of VAP due to multi-resistant organisms (one study; N = 110; odds ratio (OR) 0.44; 95% CI 0.21 to 0.95), without adversely affecting mortality and other recurrence outcomes. However, for cases of VAP specifically due to non-fermenting Gram-negative bacilli (NF-GNB), recurrence was greater after short-course therapy (two studies, N = 176; OR 2.18; 95% CI 1.14 to 4.16), though mortality outcomes were not significantly different. One study found that a three-day course of antibiotic therapy for patients with suspected HAP but a low Clinical Pulmonary Infection Score (CPIS) was associated with a significantly lower risk of superinfection or emergence of antimicrobial resistance, compared with standard (prolonged) course therapy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "On the basis of a small number of studies and appreciating the lack of uniform definition of pneumonia, we conclude that for patients with VAP not due to NF-GNB a short, fixed course (seven or eight days) of antibiotic therapy appears not to increase the risk of adverse clinical outcomes, and may reduce the emergence of resistant organisms, compared with a prolonged course (10 to 15 days). However, for patients with VAP due to NF-GNB, there appears to be a higher risk of recurrence following short-course therapy. These findings do not differ from those of our previous review and are broadly consistent with current guidelines. There are few data from RCTs comparing durations of therapy in non-ventilated patients with HAP, but on the basis of a single study, short-course (three-day) therapy for HAP appears not to be associated with worse clinical outcome, and may reduce the risk of subsequent infection or the emergence of resistant organisms when there is low probability of pneumonia according to the CPIS."
+    }
+  ],
+  "pls_title": "Short-course versus long-course antibiotic treatment for hospital-acquired pneumonia in adult intensive care patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence from randomised controlled trials (RCTs) that compared the effects of a short course of antibiotics with a long course for intensive care patients with hospital-acquired pneumonia (HAP)."
+    },
+    {
+      "heading": "Background",
+      "text": "Hospital-acquired pneumonia is the major cause of hospital-acquired infection in the intensive care unit (ICU). There are a number of factors that make the critically ill more likely to develop pneumonia, among which the most important is tracheal intubation performed in conjunction with mechanical ventilation; thus, the majority of ICU patients with HAP have what is termed ventilator-associated pneumonia (VAP).\nThere is concern that an unnecessarily long course of antibiotic therapy may lead to patients acquiring antibiotic-resistant organisms, which may be more difficult to recognise and treat when they cause infection and may increase drug costs. On the other hand, too short a course risks the treatment failing."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence was current as of June 2015. We identified six RCTs, which had enrolled 1088 patients. The studies took quite different approaches to their investigations, and we found only one study that had explored the duration of antibiotic therapy for ICU patients who had HAP, but were not mechanically ventilated."
+    },
+    {
+      "heading": "Key results",
+      "text": "For patients with VAP, our main finding was that a course of seven or eight days of antibiotics was associated with an overall decrease in antibiotic administration and reduced the recurrence of pneumonia due to resistant organisms when compared with a 10- to 15-day course. Furthermore, this was achieved without any significant effect on mortality. Nevertheless, in cases when VAP was due to a particular type of organism ('non-fermenting Gram-negative bacillus'), which can be difficult to eradicate with antibiotics, the risk of pneumonia recurring appeared higher after a short course of treatment.\nOne study found that for patients with possible (but low probability) HAP a short (three-day) course of therapy seemed to be associated with a lower chance of acquiring resistant organisms or of subsequent infections being due to a resistant organism."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of evidence for the main outcome measures was low to moderate. The main reasons that the quality was not high were that only a small number of studies were identified, and that there were differences in patient populations, in the nature of the interventions between studies and in the reported outcomes."
+    }
+  ]
+}

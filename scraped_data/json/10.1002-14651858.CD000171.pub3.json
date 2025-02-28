@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000171.pub3",
+  "name": "Treatment of latent tuberculosis infection in HIV infected persons",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Individuals with human immunodeficiency virus (HIV) infection are at an increased risk of developing active tuberculosis (TB). It is known that treatment of latent TB infection (LTBI), also referred to as TB preventive therapy or chemoprophylaxis, helps to prevent progression to active disease in HIV negative populations. However, the extent and magnitude of protection (if any) associated with preventive therapy in those infected with HIV should be quantified. This present study is an update of the original review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of TB preventive therapy in reducing the risk of active tuberculosis and death in HIV-infected persons."
+    },
+    {
+      "heading": "Search methods",
+      "text": "This review was updated using the Cochrane Controlled Trials Register (CCTR), MEDLINE, EMBASE, AIDSLINE, AIDSTRIALS, AIDSearch, NLM Gateway and AIDSDRUGS (publication date from 01 July 2002 to 04 April 2008). We also scanned reference lists of articles and contacted authors and other researchers in the field in an attempt to identify additional studies that may be eligible for inclusion in this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials in which HIV positive individuals were randomly allocated to TB preventive therapy or placebo, or to alternative TB preventive therapy regimens. Participants could be tuberculin skin test positive or negative, but without active tuberculosis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three reviewers independently applied the study selection criteria, assessed study quality and extracted data. Effects were assessed using relative risk for dichotomous data and mean differences for continuous data."
+    },
+    {
+      "heading": "Main results",
+      "text": "12 trials were included with a total of 8578 randomized participants. TB preventive therapy (any anti-TB drug) versus placebo was associated with a lower incidence of active TB (RR 0.68, 95% CI 0.54 to 0.85). This benefit was more pronounced in individuals with a positive tuberculin skin test (RR 0.38, 95% CI 0.25 to 0.57) than in those who had a negative test (RR 0.89, 95% CI 0.64 to 1.24). Efficacy was similar for all regimens (regardless of drug type, frequency or duration of treatment). However, compared to INH monotherapy, short-course multi-drug regimens were much more likely to require discontinuation of treatment due to adverse effects. Although there was reduction in mortality with INH monotherapy versus placebo among individuals with a positive tuberculin skin test (RR 0.74, 95% CI 0.55 to 1.00) and with INH plus rifampicin versus placebo regardless of tuberculin skin test status (RR 0.69, 95% CI 0.50 to 0.95), overall, there was no evidence that TB preventive therapy versus placebo reduced all-cause mortality (RR 0.94, 95% CI 0.85 to 1.05)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Treatment of latent tuberculosis infection reduces the risk of active TB in HIV positive individuals especially in those with a positive tuberculin skin test. The choice of regimen will depend on factors such as availability, cost, adverse effects, adherence and drug resistance. Future studies should assess these aspects. In addition, trials evaluating the long-term effects of anti-tuberculosis chemoprophylaxis, the optimal duration of TB preventive therapy, the influence of level of immunocompromise on effectiveness and combination of anti-tuberculosis chemoprophylaxis with antiretroviral therapy are needed."
+    }
+  ],
+  "pls_title": "Treatment of latent tuberculosis (TB) with isoniazid in people infected with HIV reduces their risk of developing active TB",
+  "pls_type": "long",
+  "pls": "Most people infected with tuberculosis (TB) never get TB symptoms. This is called latent TB. People infected with HIV/AIDS are at increased risk of getting TB and about 30% of people with HIV who have latent TB will eventually get active TB. This results in an increase in the risk of earlier death. This update of the review of available clinical trials found that the risk of developing active TB was reduced when people infected with both HIV and TB used isoniazid. Isoniazid for latent TB is usually taken for six to 12 months, but more research is still needed to show optimal duration of treatment, the best treatment regime for people with HIV, and especially the best regimen in combination with HIV drugs."
+}

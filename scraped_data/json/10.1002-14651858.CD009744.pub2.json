@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009744.pub2",
+  "name": "Niacin for primary and secondary prevention of cardiovascular events",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Nicotinic acid (niacin) is known to decrease LDL-cholesterol, and triglycerides, and increase HDL-cholesterol levels. The evidence of benefits with niacin monotherapy or add-on to statin-based therapy is controversial."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of niacin therapy versus placebo, administered as monotherapy or add-on to statin-based therapy in people with or at risk of cardiovascular disease (CVD) in terms of mortality, CVD events, and side effects."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Two reviewers independently and in duplicate screened records and potentially eligible full texts identified through electronic searches of CENTRAL, MEDLINE, Embase, Web of Science, two trial registries, and reference lists of relevant articles (latest search in August 2016)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) that either compared niacin monotherapy to placebo/usual care or niacin in combination with other component versus other component alone. We considered RCTs that administered niacin for at least six months, reported a clinical outcome, and included adults with or without established CVD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers used pre-piloted forms to independently and in duplicate extract trials characteristics, risk of bias items, and outcomes data. Disagreements were resolved by consensus or third party arbitration. We conducted random-effects meta-analyses, sensitivity analyses based on risk of bias and different assumptions for missing data, and used meta-regression analyses to investigate potential relationships between treatment effects and duration of treatment, proportion of participants with established coronary heart disease and proportion of participants receiving background statin therapy. We used GRADE to assess the quality of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 RCTs that were published between 1968 and 2015 and included 39,195 participants in total. The mean age ranged from 33 to 71 years. The median duration of treatment was 11.5 months, and the median dose of niacin was 2 g/day. The proportion of participants with prior myocardial infarction ranged from 0% (4 trials) to 100% (2 trials, median proportion 48%); the proportion of participants taking statin ranged from 0% (4 trials) to 100% (12 trials, median proportion 100%).\nUsing available cases, niacin did not reduce overall mortality (risk ratio (RR) 1.05, 95% confidence interval (CI) 0.97 to 1.12; participants = 35,543; studies = 12; I2 = 0%; high-quality evidence), cardiovascular mortality (RR 1.02, 95% CI 0.93 to 1.12; participants = 32,966; studies = 5; I2 = 0%; moderate-quality evidence), non-cardiovascular mortality (RR 1.12, 95% CI 0.98 to 1.28; participants = 32,966; studies = 5; I2 = 0%; high-quality evidence), the number of fatal or non-fatal myocardial infarctions (RR 0.93, 95% CI 0.87 to 1.00; participants = 34,829; studies = 9; I2 = 0%; moderate-quality evidence), nor the number of fatal or non-fatal strokes (RR 0.95, 95% CI 0.74 to 1.22; participants = 33,661; studies = 7; I2 = 42%; low-quality evidence). Participants randomised to niacin were more likely to discontinue treatment due to side effects than participants randomised to control group (RR 2.17, 95% CI 1.70 to 2.77; participants = 33,539; studies = 17; I2 = 77%; moderate-quality evidence). The results were robust to sensitivity analyses using different assumptions for missing data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate- to high-quality evidence suggests that niacin does not reduce mortality, cardiovascular mortality, non-cardiovascular mortality, the number of fatal or non-fatal myocardial infarctions, nor the number of fatal or non-fatal strokes but is associated with side effects. Benefits from niacin therapy in the prevention of cardiovascular disease events are unlikely."
+    }
+  ],
+  "pls_title": "Niacin for people with or without established cardiovascular disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effects of niacin for the prevention of death and cardiovascular disease."
+    },
+    {
+      "heading": "Background",
+      "text": "Heart attack and stroke are the most common causes of death, illness, disability and reduced quality of life in industrialised countries.\nNiacin (nicotinic acid, vitamin B3) was considered a promising candidate to prevent cardiovascular disease because it is known to lower cholesterol in the blood, which is one of the main risk factors. Therefore, long-term therapy with niacin was assumed to reduce the risk of heart attack, and stroke. We assessed whether clinical studies could show a benefit of taking niacin."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 23 studies including 39,195 participants that compared niacin to placebo. The evidence is current up to August 2016. The majority of included participants were on average 65 years old and had already experienced a myocardial infarction. The participants took niacin or placebo for a period of between six months and five years. Seventeen out of 23 studies were fully or partially funded by the drug manufacturer with a commercial interest in the results of the studies."
+    },
+    {
+      "heading": "Key results",
+      "text": "Niacin did not reduce the number of deaths, heart attack or stroke. Many people (18%) had to stop taking niacin due to side effects. The results did not differ between participants who had or had not experienced a heart attack before taking niacin. The results did not differ between participants who were or were not taking a statin (another drug that prevents heart attack and stroke). The overall quality of evidence was moderate to high.\nIn summary, we found no evidence of benefits from niacin therapy."
+    }
+  ]
+}

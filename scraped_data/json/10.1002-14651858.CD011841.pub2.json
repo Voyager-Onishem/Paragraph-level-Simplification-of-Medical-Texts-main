@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011841.pub2",
+  "name": "Interventions for central serous chorioretinopathy: a network meta‐analysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Central serous chorioretinopathy (CSC) is characterized by serous detachment of the neural retina with dysfunction of the choroid and retinal pigment epithelium (RPE). The effects on the retina are usually self limited, although some people are left with irreversible vision loss due to progressive and permanent photoreceptor damage or RPE atrophy. There have been a variety of interventions used in CSC, including, but not limited to, laser treatment, photodynamic therapy (PDT), and intravitreal injection of anti-vascular endothelial growth factor (anti-VEGF) agents. However, it is not known whether these or other treatments offer significant advantages over observation or other interventions. At present there is no evidence-based consensus on the management of CSC. Due in large part to the propensity for CSC to resolve spontaneously or to follow a waxing and waning course, the most common initial approach to treatment is observation. It remains unclear whether this is the best approach with regard to safety and efficacy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the relative effectiveness of interventions for central serous chorioretinopathy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2015, Issue 9), Ovid MEDLINE, Ovid MEDLINE In-Process and Other Non-Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to February 2014), EMBASE (January 1980 to October 2015), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 5 October 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) that compared any intervention for CSC with any other intervention for CSC or control."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies and extracted data. We pooled data from all studies using a fixed-effect model. For interventions applied to the eye (i.e. not systemic interventions), we synthesized direct and indirect evidence in a network meta-analysis model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 25 studies with 1098 participants (1098 eyes) and follow-up from 16 weeks to 12 years. Studies were conducted in Europe, North and South America, Middle East, and Asia. The trials were small (most trials enrolled fewer than 50 participants) and poorly reported; often it was unclear whether key aspects of the trial, such as allocation concealment, had been done. A substantial proportion of the trials were not masked.\nThe studies considered a variety of treatments: anti-VEGF (ranibizumab, bevacizumab), PDT (full-dose, half-dose, 30%, low-fluence), laser treatment (argon, krypton and micropulse laser), beta-blockers, carbonic anhydrase inhibitors, Helicobactor pylori treatment, and nutritional supplements (Icaps, lutein); there were only one or two trials contributing data for each comparison. We downgraded for risk of bias and imprecision for most analyses, reflecting study limitations and imprecise estimates. Network meta-analysis (as planned in our protocol) did not help to resolve this uncertainty due to a lack of trials, and problems with intransitivity, particularly with respect to acute or chronic CSC.\nLow quality evidence from two trials suggested little difference in the effect of anti-VEGF (ranibizumab or bevacizumab) or observation on change in visual acuity at six months in acute CSC (mean difference (MD) 0.01 LogMAR (logarithm of the minimal angle of resolution), 95% confidence interval (CI) -0.02 to 0.03; 64 participants). CSC had resolved in all participants by six months. There were no significant adverse effects noted.\nLow quality evidence from one study (58 participants) suggested that half-dose PDT treatment of acute CSC probably results in a small improvement in vision (MD -0.10 logMAR, 95% CI -0.18 to -0.02), less recurrence (risk ratio (RR) 0.10, 95% CI 0.01 to 0.81) and less persistent CSC (RR 0.12, 95% CI 0.01 to 1.02) at 12 months compared to sham treatment. There were no significant adverse events noted.\nLow quality evidence from two trials (56 participants) comparing anti-VEGF to low-fluence PDT in chronic CSC found little evidence for any difference in visual acuity at 12 months (MD 0.03 logMAR, 95% CI -0.08 to 0.15). There was some evidence that more people in the anti-VEGF group had recurrent CSC compared to people treated with PDT but, due to inconsistency between trials, it was difficult to estimate an effect. More people in the anti-VEGF group had persistent CSC at 12 months (RR 6.19, 95% CI 1.61 to 23.81; 34 participants).\nTwo small trials of micropulse laser, one in people with acute CSC and one in people with chronic CSC, provided low quality evidence that laser treatment may lead to better visual acuity (MD -0.20 logMAR, 95% CI -0.30 to -0.11; 45 participants). There were no significant adverse effects noted.\nOther comparisons were largely inconclusive.\nWe identified 12 ongoing trials covering the following interventions: aflibercept and eplerenone in acute CSC; spironolactone, eplerenone, lutein, PDT, and micropulse laser in chronic CSC; and micropulse laser and oral mifepristone in two trials where type of CSC not clearly specified."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "CSC remains an enigmatic condition in large part due to a natural history of spontaneous improvement in a high proportion of people and also because no single treatment has provided overwhelming evidence of efficacy in published RCTs. While a number of interventions have been proposed as potentially efficacious, the quality of study design, execution of the study and the relatively small number of participants enrolled and followed to revealing endpoints limits the utility of existing data. It is not clear whether there is a clinically important benefit to treating acute CSC which often resolves spontaneously as part of its natural history. RCTs comparing individual treatments to the natural history would be valuable in identifying potential treatment groups for head-to-head comparison. Of the interventions studied to date, PDT or micropulse laser treatment appear the most promising for study in future trials."
+    }
+  ],
+  "pls_title": "Interventions for central serous chorioretinopathy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the effect of treatments for central serous chorioretinopathy (CSC)? Is any treatment better than any other treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "CSC is a disorder of the back of the eye. The 'retina' (which captures light and turns it into electric impulses to be sent to the brain) becomes detached. CSC typically affects young and middle-aged adults, particularly men. It can lead to problems with vision. Most people who develop CSC recover on their own but some people continue to have problems and can lose vision permanently. A variety of treatments have been proposed for CSC including laser treatment and injections of biological agents to reduce the amount of fluid in the back of the eye."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 5 October 2015. A total of 1098 participants were enrolled from Brazil, China, Germany, India, Iran, Italy, Japan, Mexico, South Korea, Thailand, Turkey, the UK and the US. All enrolled participants were similar with respect to age and most were men. The participants had varying severity of the disease; some displayed symptoms for less than 20 days up to six months. Most studies did not report their source of funding, four studies were industry funded, and six studies were non-industry funded."
+    },
+    {
+      "heading": "Key results",
+      "text": "The studies considered a wide range of treatments. As a result, there were not enough studies of any one treatment to provide good evidence of treatment effects. In general, no significant side effects were noted."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The overall quality of the presently available published evidence was either low or very low. This finding indicates that future published research is very likely to have an important impact on the conclusions currently provided in this review."
+    }
+  ]
+}

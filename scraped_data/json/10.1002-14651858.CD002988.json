@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002988",
+  "name": "Intravenous beta2‐agonists for acute asthma in the emergency department",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inhaled beta-agonist therapy is central to the management of acute asthma. The use of intravenous beta-agonist agents may also be beneficial in this setting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the benefit of intravenous (IV) beta2-agonists for severe acute asthma treated in the emergency department."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Randomised controlled trials (RCT) were identified using the Cochrane Airways Group Register which is a compilation of systematic searches of MEDLINE, EMBASE, CINAHL, and CENTRAL as well as hand searching of 20 respiratory journals. Bibliographies from included studies and known reviews were also searched. Primary authors and content experts were contacted to identify eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Only RCTs were considered for inclusion. Studies were included if patients presented to the emergency department with acute asthma and were treated with IV selective or nonselective beta2-agonists versus placebo, inhaled beta2-agonists, or other standard of care. Pulmonary function, vital signs, arterial gasses, adverse effects, and/or clinical success could be reported as outcome measures. Two reviewers independently selected potentially relevant articles and selected articles for inclusion. Methodological quality was independently assessed using two scoring systems and two reviewers."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two reviewers, and confirmed with corresponding authors. Missing data were obtained from authors or calculated from data present in the papers. Trials were combined using a random effects model for odds ratios (OR) or weighted mean differences (WMD) and reported with 95% confidence intervals (95% CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 746 identified references, 55 potentially relevant articles were identified and 15 were included. The trials included 584 patients. Overall, selective IV beta2-agonist use conferred no advantage over the comparator regimes. For example, it was associated with a lower PEFR after 60 minutes compared to inhaled beta2-agonist, although the difference was not statistically significant (-24.7 l/min; 95%CI 2.9, -52.3). There was no difference in heart rate (4.5 bpm; 95% CI -4.9, 14.0). In the well performed blinded studies there was no difference in autonomic side effects between treatments (Odds Ratio 2.2 (95%CI 0.9, 5.7)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no evidence to support the use of IV beta2-agonists in patients with severe acute asthma. These drugs should be given by inhalation. No subgroups were identified in which the IV route should be considered."
+    }
+  ],
+  "pls_title": "Intravenous beta2-agonists for acute asthma in the emergency department",
+  "pls_type": "long",
+  "pls": "Beta2-agonist drugs form one of the mainstays of the treatment of acute severe asthma. They may be given by the inhaled or intravenous route. This review examined all the randomised controlled trials of the use of intravenous beta2-agonists in acute asthma and found no evidence to support its use."
+}

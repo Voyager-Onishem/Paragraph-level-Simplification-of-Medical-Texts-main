@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD010216.pub9",
+  "name": "Electronic cigarettes for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Electronic cigarettes (ECs) are handheld electronic vaping devices that produce an aerosol by heating an e-liquid. People who smoke, healthcare providers, and regulators want to know if ECs can help people quit smoking, and if they are safe to use for this purpose. This is a review update conducted as part of a living systematic review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the safety, tolerability, and effectiveness of using EC to help people who smoke tobacco achieve long-term smoking abstinence, in comparison to non-nicotine EC, other smoking cessation treatments, and no treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and PsycINFO to 1 February 2024 and the Cochrane Tobacco Addiction Group's Specialized Register to 1 February 2023, reference-checked, and contacted study authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included trials randomizing people who smoke to an EC or control condition. We included uncontrolled intervention studies in which all participants received an EC intervention. Studies had to report an eligible outcome."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methods for screening and data extraction. We used the risk of bias tool (RoB 1) and GRADE to assess the certainty of evidence. Critical outcomes were abstinence from smoking after at least six months, adverse events (AEs), and serious adverse events (SAEs). Important outcomes were biomarkers, toxicants/carcinogens, and longer-term EC use. We used a fixed-effect Mantel-Haenszel model to calculate risk ratios (RRs) with a 95% confidence interval (CI) for dichotomous outcomes. For continuous outcomes, we calculated mean differences. Where appropriate, we pooled data in pairwise and network meta-analyses (NMA)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 90 completed studies (two new to this update), representing 29,044 participants, of which 49 were randomized controlled trials (RCTs). Of the included studies, we rated 10 (all but one contributing to our main comparisons) at low risk of bias overall, 61 at high risk overall (including all non-randomized studies), and the remainder at unclear risk.\nNicotine EC results in increased quit rates compared to nicotine replacement therapy (NRT) (high-certainty evidence) (RR 1.59, 95% CI 1.30 to 1.93; I2 = 0%; 7 studies, 2544 participants). In absolute terms, this might translate to an additional four quitters per 100 (95% CI 2 to 6 more). The rate of occurrence of AEs is probably similar between groups (moderate-certainty evidence (limited by imprecision)) (RR 1.03, 95% CI 0.91 to 1.17; I2 = 0%; 5 studies, 2052 participants). SAEs were rare, and there is insufficient evidence to determine whether rates differ between groups due to very serious imprecision (RR 1.20, 95% CI 0.90 to 1.60; I2 = 32%; 6 studies, 2761 participants; low-certainty evidence).\nNicotine EC probably results in increased quit rates compared to non-nicotine EC (moderate-certainty evidence, limited by imprecision) (RR 1.46, 95% CI 1.09 to 1.96; I2 = 4%; 6 studies, 1613 participants). In absolute terms, this might lead to an additional three quitters per 100 (95% CI 1 to 7 more). There is probably little to no difference in the rate of AEs between these groups (moderate-certainty evidence) (RR 1.01, 95% CI 0.91 to 1.11; I2 = 0%; 5 studies, 840 participants). There is insufficient evidence to determine whether rates of SAEs differ between groups, due to very serious imprecision (RR 1.00, 95% CI 0.56 to 1.79; I2 = 0%; 9 studies, 1412 participants; low-certainty evidence).\nCompared to behavioural support only/no support, quit rates may be higher for participants randomized to nicotine EC (low-certainty evidence due to issues with risk of bias) (RR 1.96, 95% CI 1.66 to 2.32; I2 = 0%; 11 studies, 6819 participants). In absolute terms, this represents an additional four quitters per 100 (95% CI 3 to 5 more). There was some evidence that (non-serious) AEs may be more common in people randomized to nicotine EC (RR 1.18, 95% CI 1.10 to 1.27; I2 = 6%; low-certainty evidence; 6 studies, 2351 participants) and, again, insufficient evidence to determine whether rates of SAEs differed between groups (RR 0.93, 95% CI 0.68 to 1.28; I2 = 0%; 12 studies, 4561 participants; very low-certainty evidence).\nResults from the NMA were consistent with those from pairwise meta-analyses for all critical outcomes. There was inconsistency in the AE network, which was explained by a single outlying study contributing the only direct evidence for one of the nodes.\nData from non-randomized studies were consistent with RCT data. The most commonly reported AEs were throat/mouth irritation, headache, cough, and nausea, which tended to dissipate with continued EC use. Very few studies reported data on other outcomes or comparisons; hence, evidence for these is limited, with CIs often encompassing both clinically significant harm and benefit."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is high-certainty evidence that ECs with nicotine increase quit rates compared to NRT and moderate-certainty evidence that they increase quit rates compared to ECs without nicotine. Evidence comparing nicotine EC with usual care or no treatment also suggests benefit, but is less certain due to risk of bias inherent in the study design. Confidence intervals were, for the most part, wide for data on AEs, SAEs, and other safety markers, with no evidence for a difference in AEs between nicotine and non-nicotine ECs nor between nicotine ECs and NRT, but low-certainty evidence for increased AEs compared with behavioural support/no support. Overall incidence of SAEs was low across all study arms. We did not detect evidence of serious harm from nicotine EC, but longer, larger studies are needed to fully evaluate EC safety. Our included studies tested regulated nicotine-containing EC; illicit products and/or products containing other active substances (e.g. tetrahydrocannabinol (THC)) may have different harm profiles.\nThe main limitation of the evidence base remains imprecision due to the small number of RCTs, often with low event rates. Further RCTs are underway. To ensure the review continues to provide up-to-date information to decision-makers, this is a living systematic review. We run searches monthly, with the review updated when relevant new evidence becomes available. Please refer to the Cochrane Database of Systematic Reviews for the review's current status."
+    }
+  ],
+  "pls_title": "Can electronic cigarettes help people stop smoking, and do they have any unwanted effects when used for this purpose?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What are electronic cigarettes?",
+      "text": "Electronic cigarettes (e-cigarettes) are handheld devices that work by heating a liquid that usually contains nicotine and flavourings. E-cigarettes allow users to inhale nicotine in a vapour rather than smoke. Because they do not burn tobacco, e-cigarettes, in general, do not expose users to the same levels of chemicals that can cause diseases in people who use conventional cigarettes.\nUsing an e-cigarette is commonly known as 'vaping'. Many people use e-cigarettes to help them to stop smoking tobacco. In this review we focus primarily on e-cigarettes containing nicotine."
+    },
+    {
+      "heading": "Why did we do this Cochrane review?",
+      "text": "Stopping smoking lowers the risk of many diseases. Many people find it difficult to stop smoking. We wanted to find out if using e-cigarettes could help people to stop smoking, and if people using them for this purpose experience any unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at the use of e-cigarettes for stopping smoking.\nWe looked for randomized controlled trials, in which the treatments people received were decided at random. This type of study usually gives the most reliable evidence about treatment effects. We also looked for studies in which everyone received e-cigarette treatment. We also included studies that gave e-cigarettes to people who smoked and monitored their health even if there was no randomized group, because such studies can contribute to our understanding of health effects.\nWe were interested in:\n· how many people stopped smoking for at least six months; and\n· how many people had unwanted effects, reported on after at least one week of use."
+    },
+    {
+      "heading": "Search date",
+      "text": "We included evidence published up to 1 February 2024."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 90 studies, which included 29,044 adults who smoked. The studies compared nicotine e-cigarettes with:\n· nicotine replacement therapy, such as patches or gum;\n· varenicline (a medicine to help people stop smoking);\n· e-cigarettes without nicotine;\n· heated tobacco (products designed to heat tobacco to a high enough temperature to release vapour, without burning it or producing smoke; these differ from e-cigarettes because they heat tobacco leaf/sheet rather than a liquid);\n· other types of nicotine-containing e-cigarettes (e.g. pod devices, newer devices);\n· behavioural support, such as advice or counselling; or\n· no support for stopping smoking.\nMost studies took place in the USA (39 studies), the UK (20), and Italy (9)."
+    },
+    {
+      "heading": "What are the results of our review?",
+      "text": "People are more likely to stop smoking for at least six months using nicotine e-cigarettes than using nicotine replacement therapy (7 studies, 2544 people), or e-cigarettes without nicotine (6 studies, 1613 people).\nNicotine e-cigarettes may help more people to stop smoking than no support or behavioural support only (11 studies, 6819 people).\nFor every 100 people using nicotine e-cigarettes to stop smoking, 8 to 10 might successfully stop, compared with only 6 of 100 people using nicotine-replacement therapy, 7 of 100 using e-cigarettes without nicotine, or 4 of 100 people having no support or behavioural support only.\nWe are uncertain if there is a difference between how many unwanted effects occur using nicotine e-cigarettes compared with nicotine replacement therapy, no support or behavioural support only. There was some evidence that non-serious unwanted effects were more common in groups receiving nicotine e-cigarettes compared to no support or behavioural support only. Low numbers of unwanted effects, including serious unwanted effects, were reported in studies comparing nicotine e-cigarettes to nicotine replacement therapy. There is probably no difference in how many non-serious unwanted effects occur in people using nicotine e-cigarettes compared to e-cigarettes without nicotine.\nThe unwanted effects reported most often with nicotine e-cigarettes were throat or mouth irritation, headache, cough, and feeling sick. These appeared similar to those people experience when using NRT. These effects were reduced over time as people continued using nicotine e-cigarettes."
+    },
+    {
+      "heading": "How reliable are these results?",
+      "text": "Our results are based on few studies for most outcomes and, for some outcomes, the data varied widely.\nWe found evidence that nicotine e-cigarettes help more people to stop smoking than nicotine replacement therapy. Nicotine e-cigarettes probably help more people to stop smoking than e-cigarettes without nicotine, but more studies are still needed to confirm this.\nStudies comparing nicotine e-cigarettes with behavioural or no support also showed higher quit rates in people using nicotine e-cigarettes, but provide less certain data because of issues with study design.\nMost of our results for the unwanted effects could change when more evidence becomes available."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Nicotine e-cigarettes can help people to stop smoking for at least six months. Evidence shows they work better than nicotine replacement therapy, and probably better than e-cigarettes without nicotine.\nThey may work better than no support, or behavioural support alone, and they may not be associated with serious unwanted effects.\nHowever, we still need more evidence, particularly about the effects of newer types of e-cigarettes that have better nicotine delivery than older types of e-cigarettes, as better nicotine delivery might help more people quit smoking."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000245.pub4",
+  "name": "Antibiotics for acute bronchitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The benefits and risks of antibiotics for acute bronchitis remain unclear despite it being one of the most common illnesses seen in primary care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antibiotics in improving outcomes and to assess adverse effects of antibiotic therapy for people with a clinical diagnosis of acute bronchitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL 2016, Issue 11 (accessed 13 January 2017), MEDLINE (1966 to January week 1, 2017), Embase (1974 to 13 January 2017), and LILACS (1982 to 13 January 2017). We searched the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) and ClinicalTrials.gov on 5 April 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing any antibiotic therapy with placebo or no treatment in acute bronchitis or acute productive cough, in people without underlying pulmonary disease."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors extracted data and assessed trial quality."
+    },
+    {
+      "heading": "Main results",
+      "text": "We did not identify any new trials for inclusion in this 2017 update. We included 17 trials with 5099 participants in the primary analysis. The quality of trials was generally good. At follow-up there was no difference in participants described as being clinically improved between the antibiotic and placebo groups (11 studies with 3841 participants, risk ratio (RR) 1.07, 95% confidence interval (CI) 0.99 to 1.15). Participants given antibiotics were less likely to have a cough (4 studies with 275 participants, RR 0.64, 95% CI 0.49 to 0.85; number needed to treat for an additional beneficial outcome (NNTB) 6) and a night cough (4 studies with 538 participants, RR 0.67, 95% CI 0.54 to 0.83; NNTB 7). Participants given antibiotics had a shorter mean cough duration (7 studies with 2776 participants, mean difference (MD) -0.46 days, 95% CI -0.87 to -0.04). The differences in presence of a productive cough at follow-up and MD of productive cough did not reach statistical significance.\nAntibiotic-treated participants were more likely to be improved according to clinician's global assessment (6 studies with 891 participants, RR 0.61, 95% CI 0.48 to 0.79; NNTB 11) and were less likely to have an abnormal lung exam (5 studies with 613 participants, RR 0.54, 95% CI 0.41 to 0.70; NNTB 6). Antibiotic-treated participants also had a reduction in days feeling ill (5 studies with 809 participants, MD -0.64 days, 95% CI -1.16 to -0.13) and days with impaired activity (6 studies with 767 participants, MD -0.49 days, 95% CI -0.94 to -0.04). The differences in proportions with activity limitations at follow-up did not reach statistical significance. There was a significant trend towards an increase in adverse effects in the antibiotic group (12 studies with 3496 participants, RR 1.20, 95% CI 1.05 to 1.36; NNT for an additional harmful outcome 24)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited evidence of clinical benefit to support the use of antibiotics in acute bronchitis. Antibiotics may have a modest beneficial effect in some patients such as frail, elderly people with multimorbidity who may not have been included in trials to date. However, the magnitude of this benefit needs to be considered in the broader context of potential side effects, medicalisation for a self limiting condition, increased resistance to respiratory pathogens, and cost of antibiotic treatment."
+    }
+  ],
+  "pls_title": "Antibiotic treatment for people with acute bronchitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to know whether antibiotics improve outcomes for people with acute bronchitis. We also assessed potential adverse effects of antibiotic therapy."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute bronchitis is a clinical diagnosis (based on medical signs and patient-reported symptoms) for an acute cough, which may or may not be associated with coughing up mucus or sputum. Acute bronchitis can be caused by viruses or bacteria. Symptoms generally last for two weeks but can last for up to eight weeks. Antibiotics are commonly prescribed to treat acute bronchitis, but they can have adverse effects such as nausea and diarrhoea as well as cause more serious reactions in those who are allergic. There is no practical test to distinguish between bacterial and viral bronchitis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included randomised controlled trials comparing any antibiotic therapy with placebo or no treatment in people with acute bronchitis or acute productive cough and no underlying chronic lung condition. We included 17 trials with 5099 participants. Co-treatments with other medications to relieve symptoms were allowed if they were given to all participants in the study."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our evidence is current to 13 January, 2017.\nWe found limited evidence of clinical benefit to support the use of antibiotics for acute bronchitis. Some people treated with antibiotics recovered a bit more quickly with reduced cough-related outcomes. However, this difference may not be of practical importance as it amounted to a difference of half a day over an 8- to 10-day period. There was a small but significant increase in adverse side effects in people treated with antibiotics. The most commonly reported side effects included nausea, vomiting, diarrhoea, headache, and rash.\nThis review suggests that there is limited benefit to the patient in using antibiotics for acute bronchitis in otherwise healthy individuals. More research is needed on the effects of using antibiotics for acute bronchitis in frail, elderly people with multiple chronic conditions who may not have been included in the existing trials. Antibiotic use needs to be considered in the context of the potential side effects, medicalisation for a self limiting condition, cost of antibiotic treatment, and in particular associated population-level harms due to increasing antibiotic resistance."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of these trials was generally good, particularly for more recent studies."
+    }
+  ]
+}

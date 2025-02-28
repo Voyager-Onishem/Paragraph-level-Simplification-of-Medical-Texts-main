@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003186.pub4",
+  "name": "Antiplatelet agents and anticoagulants for hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The main complications of elevated systemic blood pressure (BP), coronary heart disease, ischaemic stroke, and peripheral vascular disease, are related to thrombosis rather than haemorrhage. Therefore, it is important to investigate if antithrombotic therapy may be useful in preventing thrombosis-related complications in patients with elevated BP."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To conduct a systematic review of the role of antiplatelet therapy and anticoagulation in patients with elevated BP, including elevations in systolic or diastolic BP alone or together.\nTo assess the effects of antiplatelet agents on total deaths or major thrombotic events or both in these patients versus placebo or other active treatment.\nTo assess the effects of oral anticoagulants on total deaths or major thromboembolic events or both in these patients versus placebo or other active treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials (RCTs) up to January 2021: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 12), Ovid MEDLINE (from 1946), and Ovid Embase (from 1974). The World Health Organization International Clinical Trials Registry Platform and the US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) were searched for ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs in patients with elevated BP were included if they were ≥ 3 months in duration and compared antithrombotic therapy with control or other active treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data for inclusion criteria, our prespecified outcomes, and sources of bias. They assessed the risks and benefits of antiplatelet agents and anticoagulants by calculating odds ratios (OR), accompanied by the 95% confidence intervals (CI). They assessed risks of bias and applied GRADE criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six trials (61,015 patients) met the inclusion criteria and were included in this review.\nFour trials were primary prevention (41,695 patients; HOT, JPAD, JPPP, and TPT), and two secondary prevention (19,320 patients, CAPRIE and Huynh). Four trials (HOT, JPAD, JPPP, and TPT) were placebo-controlled and two studies (CAPRIE and Huynh) included active comparators.\nFour studies compared acetylsalicylic acid (ASA) versus placebo and found no evidence of a difference for all-cause mortality (OR 0.97, 95% CI 0.87 to 1.08; 3 studies, 35,794 participants; low-certainty evidence). We found no evidence of a difference for cardiovascular mortality (OR 0.98, 95% CI 0.82 to 1.17; 3 studies, 35,794 participants; low-certainty evidence). ASA reduced the risk of all non-fatal cardiovascular events (OR 0.63, 95% CI 0.45 to 0.87; 1 study (missing data in 3 studies), 2540 participants; low-certainty evidence) and the risk of all cardiovascular events (OR 0.86, 95% CI 0.77 to 0.96; 3 studies, 35,794 participants; low-certainty evidence). ASA increased the risk of major bleeding events (OR 1.77, 95% CI 1.34 to 2.32; 2 studies, 21,330 participants; high-certainty evidence).\nOne study (CAPRIE; ASA versus clopidogrel) included patients diagnosed with hypertension (mean age 62.5 years, 72% males, 95% Caucasians, mean follow-up: 1.91 years). It showed no evidence of a difference for all-cause mortality (OR 1.02, 95% CI 0.91 to 1.15; 1 study, 19,143 participants; high-certainty evidence) and for cardiovascular mortality (OR 1.08, 95% CI 0.94 to 1.26; 1 study, 19,143 participants; high-certainty evidence). ASA probably reduced the risk of non-fatal cardiovascular events (OR 1.10, 95% CI 1.00 to 1.22; 1 study, 19,143 participants; high-certainty evidence) and the risk of all cardiovascular events (OR 1.08, 95% CI 1.00 to 1.17; 1 study, 19,143 participants; high-certainty evidence) when compared to clopidogrel. Clopidogrel increased the risk of major bleeding events when compared to ASA (OR 1.35, 95% CI 1.14 to 1.61; 1 study, 19,143 participants; high-certainty evidence).\nIn one study (Huynh; ASA verus warfarin) patients with unstable angina or non–ST-segment elevation myocardial infarction, with prior coronary artery bypass grafting (CABG) were included (mean age 68 years, 79.8% males, mean follow-up: 1.1 year). There was no evidence of a difference for all-cause mortality (OR 0.98, 95% CI 0.06 to 16.12; 1 study, 91 participants; low-certainty evidence). Cardiovascular mortality, non-fatal cardiovascular events, and all cardiovascular events were not available. There was no evidence of a difference for major bleeding events (OR 0.13, 95% CI 0.01 to 2.60; 1 study, 91 participants; low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no evidence that antiplatelet therapy modifies mortality in patients with elevated BP for primary prevention. ASA reduced the risk of cardiovascular events and increased the risk of major bleeding events.\nAntiplatelet therapy with ASA probably reduces the risk of non-fatal and all cardiovascular events when compared to clopidogrel. Clopidogrel increases the risk of major bleeding events compared to ASA in patients with elevated BP for secondary prevention.\nThere is no evidence that warfarin modifies mortality in patients with elevated BP for secondary prevention.\nThe benefits and harms of the newer drugs glycoprotein IIb/IIIa inhibitors, clopidogrel, prasugrel, ticagrelor, and non-vitamin K antagonist oral anticoagulants for patients with high BP have not been studied in clinical trials.\nFurther RCTs of antithrombotic therapy including newer agents and complete documentation of all benefits and harms are required in patients with elevated BP."
+    }
+  ],
+  "pls_title": "Antiplatelet agents and anticoagulants for high blood pressure (hypertension)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence that examined whether antiplatelet agents reduced total deaths or major thrombotic events or both in patients with elevated blood pressure (BP) when compared to placebo or other active treatment. We also assessed whether oral anticoagulants reduced total deaths or major thrombotic events or both in these patients when compared to placebo or other active treatment."
+    },
+    {
+      "heading": "Background",
+      "text": "Although systemic (arterial) elevations in BP result in high intravascular pressure, the main complications of elevated BP, coronary heart disease events, ischaemic stroke, and peripheral vascular disease, are associated with thrombosis.\nWe wanted to discover whether the use of antithrombotic or antiplatelet therapy may be of particular benefit for primary prevention in reducing total deaths or major thrombotic events or both in patients with elevated BP. Moreover, we tried to determine whether antithrombotic or antiplatelet therapy may be beneficial for secondary prevention in reducing total deaths or major thrombotic events or both in patients with elevated BP."
+    },
+    {
+      "heading": "Search date",
+      "text": "This update of a previously published systematic review is current to January 2021."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included six trials with a combined total of 61,015 patients in this review. Four trials were primary prevention (41,695 patients; HOT, JPAD, JPPP, and TPT) and two were secondary prevention (19,320 patients; CAPRIE and Huynh). Four trials were placebo-controlled (HOT, JPAD, JPPP, and TPT) and two trials included active comparators (CAPRIE and Huynh). CAPRIE 1996 included patients from 16 countries in Europe and USA with recent ischaemic stroke, recent myocardial infarction (MI) or symptomatic peripheral vascular disease (PVD). Mean patients' age was 62.5 years. 72% of the patients were males, and 95% of the patients were Caucasians. HOT 1998 included patients from 26 countries, aged 50 to 80 years (mean 61.5 years) with hypertension. In TPT 1998, men aged between 45 and 69 years (mean 57.5 years) at high risk of ischaemic heart disease were recruited from 108 practices in the UK. Huynh 2001 included patients from Canada with mean age of 67 and with unstable angina or non-ST-segment elevation MI, with prior coronary artery bypass grafting (CABG), and who were poor candidates for a revascularisation procedure. JPAD 2012 included patients from Japan with type 2 diabetes, mean age 65 years and 55% male. JPPP 2019 included Japanese patients with atherosclerotic risk factors (hypertension, diabetes mellitus, or dyslipidaemia). Median age was 70 years and 42% of patients were men."
+    },
+    {
+      "heading": "Key results",
+      "text": "Antiplatelet therapy with acetylsalicylic acid (ASA), also known as aspirin, for primary prevention in patients with elevated BP did not modify mortality and increased the risk of major bleedings.\nAntiplatelet therapy with aspirin probably reduces the risk of non-fatal and all cardiovascular events when compared to clopidogrel. Clopidogrel increases the risk of major bleeding events when compared to aspirin in patients with elevated BP for secondary prevention.\nThere is no evidence that oral anticoagulation with warfarin modifies mortality in patients with elevated BP for secondary prevention.\nTiclopidine, clopidogrel, and newer antiplatelet agents, such as prasugrel and ticagrelor have not been sufficiently evaluated in patients with elevated BP. Newer antithrombotic oral drugs (dabigatran, rivaroxaban, apixaban, and edoxaban) are yet to be tested in patients with high BP."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Most evidence in this review is associated with low-certainty evidence. The high risk of bias seemed to be associated with incomplete outcome data and selective reporting in two studies (Huynh and JPPP)."
+    }
+  ]
+}

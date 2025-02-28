@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003066",
+  "name": "G‐CSF and GM‐CSF for treating or preventing neonatal infections",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The colony stimulating factors (CSFs), granulocyte-macrophage colony stimulating factor (GM-CSF) and granulocyte colony stimulating factor (G-CSF), are naturally occurring cytokines that stimulate the production and antibacterial function of neutrophils and monocytes. Two strategies have been adopted for exploring whether CSFs can provide clinical benefit for preterm infants. The first has investigated their use as a treatment to improve outcome in established systemic infection, especially when complicated by a low neutrophil count. The alternative strategy has been to use CSFs prophylactically, to prevent sepsis prospectively through stimulation of neutrophil production and bactericidal function."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and safety of the haemopoietic colony stimulating factors (G-CSF or GM-CSF) in newborn infants, when used for: \na) treatment of suspected or proven systemic infection to reduce mortality, or \nb) prophylaxis, to prevent systemic infection in infants at high risk of nosocomial infection. \nTo determine, in subgroup analysis, the influence of pre-existing or high risk of neutropenia on the outcome of therapy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "PubMed, EMBASE, MEDLINE and the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 2, 2003) were searched in April 2003 using the keywords: G-CSF, GM-CSF, infant newborn, with and without the limit Clinical Trial. In addition, reference lists of identified RCTs, meta-analyses and personal files were searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "The criteria used to select studies for inclusion were: \nDesign: RCT. \nSubjects: Newborn infants in intensive care. \nInterventions: G-CSF or GM-CSF given as treatment in conjunction with antibiotics for suspected or microbiologically proven systemic infection. G-CSF or GM-CSF given as prophylaxis with the aim of reducing the incidence of systemic infection. \nOutcomes: Treatment studies reporting all cause mortality. Prophylaxis studies reporting subsequent incidence of sepsis and / or mortality."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Relative risks (RR) and risk differences (RD) with 95% confidence intervals (CI) using the fixed effect model are reported. Number needed to treat (NNT) was calculated for the outcomes that showed a statistically significant reduction in RR."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven treatment studies of 257 infants with suspected systemic bacterial infection and three prophylaxis studies comprising 359 neonates are analysed. \n\nTreatment studies: There is no evidence that the addition of G-CSF or GM-CSF to antibiotic therapy in preterm infants with suspected systemic infection reduces immediate all cause mortality. No significant survival advantage was seen at 14 days from the start of therapy [typical RR 0.71 (95% CI 0.38,1.33); typical RD -0.05 (95% CI -0.14, 0.04)]. However all seven of the treatment studies were small, the largest recruiting only 60 infants. \nThe subgroup analysis of 97 infants from three treatment studies who, in addition to systemic infection, had clinically significant neutropenia (< 1.7 x 109/l) at trial entry, does show a significant reduction in mortality by day 14 [RR 0.34 (95% CI 0.12, 0.92); RD -0.18 (95% CI -0.33, -0.03); NNT 6 (95% CI 3-33)].\nProphylaxis studies have not demonstrated a significant reduction in mortality in neonates receiving GM-CSF [RR 0.59 (95% CI 0.24,1.44); RD -0.03 (95% CI -0.08,0.02)]. The identification of sepsis as the primary outcome of prophylaxis studies has been hampered by inadequately stringent definitions of systemic infection. However, data from one study suggest that prophylactic GM-CSF may provide protection against infection when given to preterm infants who are neutropenic or at high risk of developing postnatal neutropenia."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently insufficient evidence to support the introduction of either G-CSF or GM-CSF into neonatal practice, either as treatment of established systemic infection to reduce resulting mortality, or as prophylaxis to prevent systemic infection in high risk neonates. No toxicity of CSF use was reported in any study included in this review. The limited data suggesting that CSF treatment may reduce mortality when systemic infection is accompanied by severe neutropenia should be investigated further in adequately powered trials which recruit sufficient infants infected with organisms associated with a significant mortality risk."
+    }
+  ],
+  "pls_title": "G-CSF and GM-CSF for treating or preventing neonatal infections",
+  "pls_type": "long",
+  "pls": "Infants born before 32 weeks and infants that are small for their gestational age are at high risk of developing infections while in hospital. These infections can cause death, disability (including cerebral palsy) as a result of damage to nervous tissue as well as contributing to chronic lung disease. Infection-related deaths have remained constant for two decades and antibiotic resistance is increasing, emphasising the need for new ways to prevent infection. \n\nThe haemopoietic colony stimulating factors (CSFs), granulocyte-macrophage colony stimulating factor (GM-CSF) and granulocyte colony stimulating factor (G-CSF) are naturally occurring substances (cytokines) that can increase circulating white blood cells (neutrophils) and their ability to destroy bacteria. Common minor side effects are low grade fever and skeletal pain. The review authors identified seven treatment studies of 257 premature infants with suspected systemic bacterial infection. Adding G-CSF or GM-CSF to antibiotic therapy did not improve survival, overall. It may be, however, that infants who had clinically low neutrophils at the start of treatment did show some reduction in number of deaths by day 14 (taken from three studies). In three studies in which 359 low birthweight or premature neonates were treated preventatively (prophylaxis) no reduction in deaths was evident in those neonates receiving GM-CSF. GM-CSF was well tolerated with no adverse reactions in these small studies."
+}

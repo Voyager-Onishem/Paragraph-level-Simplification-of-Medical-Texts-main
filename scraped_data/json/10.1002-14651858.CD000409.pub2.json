@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000409.pub2",
+  "name": "Educational outreach visits: effects on professional practice and health care outcomes",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Educational outreach visits (EOVs) have been identified as an intervention that may improve the practice of healthcare professionals. This type of face-to-face visit has been referred to as university-based educational detailing, academic detailing, and educational visiting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of EOVs on health professional practice or patient outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched the Cochrane EPOC register to March 2007. In the original review, we searched multiple bibliographic databases including MEDLINE and CINAHL."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials of EOVs that reported an objective measure of professional performance or healthcare outcomes. An EOV was defined as a personal visit by a trained person to healthcare professionals in their own settings."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently extracted data and assessed study quality. We used bubble plots and box plots to visually inspect the data. We conducted both quantitative and qualitative analyses. We used meta-regression to examine potential sources of heterogeneity determined a priori. We hypothesised eight factors to explain variation across effect estimates. In our primary visual and statistical analyses, we included only studies with dichotomous outcomes, with baseline data and with low or moderate risk of bias, in which the intervention included an EOV and was compared to no intervention."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 69 studies involving more than 15,000 health professionals. Twenty-eight studies (34 comparisons) contributed to the calculation of the median and interquartile range for the main comparison. The median adjusted risk difference (RD) in compliance with desired practice was 5.6% (interquartile range 3.0% to 9.0%). The adjusted RDs were highly consistent for prescribing (median 4.8%, interquartile range 3.0% to 6.5% for 17 comparisons), but varied for other types of professional performance (median 6.0%, interquartile range 3.6% to 16.0% for 17 comparisons). Meta-regression was limited by the large number of potential explanatory factors (eight) with only 31 comparisons, and did not provide any compelling explanations for the observed variation in adjusted RDs. There were 18 comparisons with continuous outcomes, with a median adjusted relative improvement of 21% (interquartile range 11% to 41%). There were eight trials (12 comparisons) in which the intervention included an EOV and was compared to another type of intervention, usually audit and feedback. Interventions that included EOVs appeared to be slightly superior to audit and feedback. Only six studies evaluated different types of visits in head-to-head comparisons. When individual visits were compared to group visits (three trials), the results were mixed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "EOVs alone or when combined with other interventions have effects on prescribing that are relatively consistent and small, but potentially important. Their effects on other types of professional performance vary from small to modest improvements, and it is not possible from this review to explain that variation."
+    }
+  ],
+  "pls_title": "Educational outreach visits to change health care professional care for patients",
+  "pls_type": "long",
+  "pls": "There have been many ways developed to improve how health care professionals care for their patients. One way to improve how health care professionals practice is to provide educational outreach visits. Trained people visit clinicians where they practice and provide them with information to change how they practice. The information given may include feedback about their performance, or may be based on overcoming obstacles to change. This type of face-to-face visit has also been referred to as university-based educational detailing, academic detailing, and educational visiting.\nThis review found 69 studies that evaluated educational outreach visits. Educational outreach visits appear to improve the care delivered to patients. When trying to change how health care professionals prescribe medications, outreach visits consistently provide small changes in prescribing, which might be potentially important when hundreds of patients are affected. For other types of professional practice, such as providing screening tests, outreach visits provide small to moderate changes in practice. But the effects really varied and why it varied could not be explained."
+}

@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015391",
+  "name": "Fluvoxamine for the treatment of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Fluvoxamine is a selective serotonin reuptake inhibitor (SSRI) that has been approved for the treatment of depression, obsessive–compulsive disorder, and a variety of anxiety disorders; it is available as an oral preparation. Fluvoxamine has not been approved for the treatment of infections, but has been used in the early treatment of people with mild to moderate COVID-19. As there are only a few effective therapies for people with COVID-19 in the community, a thorough understanding of the current evidence regarding the efficacy and safety of fluvoxamine as an anti-inflammatory and possible anti-viral treatment for COVID-19, based on randomised controlled trials (RCTs), is needed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of fluvoxamine in addition to standard care, compared to standard care (alone or with placebo), or any other active pharmacological comparator with proven efficacy for the treatment of COVID-19 outpatients and inpatients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (including Cochrane Central Register of Controlled Trials, MEDLINE, Embase, ClinicalTrials.gov, WHO ICTRP, medRxiv), Web of Science and WHO COVID-19 Global literature on COVID-19 to identify completed and ongoing studies up to 1 February 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs that compared fluvoxamine in addition to standard care (also including no intervention), with standard care (alone or with placebo), or any other active pharmacological comparator with proven efficacy in clinical trials for the treatment of people with confirmed COVID-19, irrespective of disease severity, in both inpatients and outpatients. Co-interventions needed to be the same in both study arms. We excluded studies comparing fluvoxamine to other pharmacological interventions with unproven efficacy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed risk of bias of primary outcomes using the Cochrane Risk of Bias 2 tool for RCTs. We used GRADE to rate the certainty of evidence to treat people with asymptomatic to severe COVID-19 for the primary outcomes including mortality, clinical deterioration, clinical improvement, quality of life, serious adverse events, adverse events of any grade, and suicide or suicide attempt."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified two completed studies with a total of 1649 symptomatic participants. One study was conducted in the USA (study with 152 participants, 80 and 72 participants per study arm) and the other study in Brazil (study with 1497 high-risk participants for progression to severe disease, 741 and 756 participants per study arm) among outpatients with mild COVID-19. Both studies were double-blind, placebo-controlled trials in which participants were prescribed 100 mg fluvoxamine two or three times daily for a maximum of 15 days.\nWe identified five ongoing studies and two studies awaiting classification (due to translation issues, and due to missing published data). We found no published studies comparing fluvoxamine to other pharmacological interventions of proven efficacy.\nWe assessed both included studies to have an overall high risk of bias.\nFluvoxamine for the treatment of COVID-19 in inpatients\nWe did not identify any completed studies of inpatients.\nFluvoxamine for the treatment of COVID-19 in outpatients\nFluvoxamine in addition to standard care may slightly reduce all-cause mortality at day 28 (RR 0.69, 95% CI 0.38 to 1.27; risk difference (RD) 9 per 1000; 2 studies, 1649 participants; low-certainty evidence), and may reduce clinical deterioration defined as all-cause hospital admission or death before hospital admission (RR 0.55, 95% CI 0.16 to 1.89; RD 57 per 1000; 2 studies, 1649 participants; low-certainty evidence). We are very uncertain regarding the effect of fluvoxamine on serious adverse events (RR 0.56, 95% CI 0.15 to 2.03; RD 54 per 1000; 2 studies, 1649 participants; very low-certainty evidence) or adverse events of any grade (RR 1.06, 95% CI 0.82 to 1.37; RD 7 per 1000; 2 studies, 1649 participants; very low-certainty evidence).\nNeither of the studies reported on symptom resolution (clinical improvement), quality of life or suicide/suicide attempt."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on a low-certainty evidence, fluvoxamine may slightly reduce all-cause mortality at day 28, and may reduce the risk of admission to hospital or death in outpatients with mild COVID-19. However, we are very uncertain regarding the effect of fluvoxamine on serious adverse events, or any adverse events.\nIn accordance with the living approach of this review, we will continually update our search and include eligible trials as they arise, to complete any gaps in the evidence."
+    }
+  ],
+  "pls_title": "Fluvoxamine for treating COVID-19",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is fluvoxamine an effective treatment for people with COVID-19 and does it cause any unwanted effects?"
+    },
+    {
+      "heading": "Key messages",
+      "text": "It is unclear whether fluvoxamine is an effective treatment for COVID-19 in people with mild to moderate COVID-19. This is because there is currently not enough research available to make a definite decision. \nWe found five ongoing studies that are currently investigating fluvoxamine as a possible treatment for COVID-19, and two studies for which we need more information. We will update this review if their results change our conclusions."
+    },
+    {
+      "heading": "What is fluvoxamine?",
+      "text": "Fluvoxamine is a type of medication known as a selective serotonin reuptake inhibitor (SSRI), available in tablet form. Recent research has found that fluvoxamine may have an effect on COVID-19. When the immune system fights the virus, the lungs and airways can become inflamed, causing breathing difficulties. Fluvoxamine could help reduce this inflammation, potentially reducing the risk of developing severe COVID-19 and its associated lung symptoms through its possible anti-inflammatory and anti-viral effects. We know that most people do not experience any serious side effects with fluvoxamine when it is taken as an antidepressant. Some people can, however, experience the following common side effects, especially when starting the medication: nausea, anxiety or restlessness, insomnia, or diarrhoea, and in rare cases, suicidal ideation."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if fluvoxamine reduces death, severity of disease, and length of infection in people with COVID-19, if it has an effect on quality of life, or causes any unwanted effects. We included studies that compared fluvoxamine to placebo (dummy treatment), no treatment, usual care, or any other treatment for COVID-19 that is known to work to some extent, such as remdesivir or dexamethasone. We excluded treatments that we know do not work for COVID-19, such as hydroxychloroquine, or have an unknown effect on the disease.\nWe evaluated the effects of fluvoxamine in adults with COVID-19 on:\n• people dying;\n• whether people needed to be treated in a hospital;\n• whether people's COVID-19 symptoms got better or worse;\n• unwanted effects;\n• quality of life;\n• and whether there is a risk of suicide or suicide attempt when taking this medication."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated fluvoxamine as a treatment for adults with COVID-19 in hospital or as outpatients. We compared and summarised the results of the studies and rated our confidence in the evidence, based on common criteria such as study methods and study sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found two studies that investigated fluvoxamine as an early treatment for mild COVID-19 in 1649 self-isolated people at home (outpatients). All studies compared fluvoxamine to placebo together with standard care. The studies used different durations of treatment (10 or 15 days).\nWe found five ongoing studies and two studies that are awaiting classification. We did not find any studies that investigated the effect of fluvoxamine on people in hospital with COVID-19."
+    },
+    {
+      "heading": "Main results",
+      "text": "• Compared to placebo, fluvoxamine may slightly reduce the number of people who die in the 28 days after starting treatment (2 studies, 1649 people).\n• Compared to placebo, fluvoxamine may reduce number of people who are admitted to a hospital or who die before hospital admission (2 studies, 1649 people).\n•The number of unwanted (serious) events did not clearly differ between fluvoxamine and placebo treatment (2 studies, 1649 people).\n•Neither of the studies reported on quality of life, the time needed until all initial symptoms resolved, or suicide attempts."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We cannot be confident in the current evidence for fluvoxamine in treating people with COVID-19, mainly due to the lack of studies that are currently available and some flaws in study design. We will continue to search for new studies to complete the current evidence gap.\nIt would also be important to find out the effects of a medication such as fluvoxamine on long-Covid. We are currently waiting for research on this to become available in the near future.\nUnfortunately, the studies available did not focus on children and young adults, women who are planning or trying to conceive, women who are pregnant or breastfeeding, older adults, or those people who have a weakened immune system (immunocompromised people). Likewise, no information was available on whether women or men were more likely to benefit from fluvoxamine."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to February 2022."
+    }
+  ]
+}

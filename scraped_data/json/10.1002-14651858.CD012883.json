@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012883",
+  "name": "18F PET with florbetaben for the early diagnosis of Alzheimer's disease dementia and other dementias in people with mild cognitive impairment (MCI) ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "18F-florbetaben uptake by brain tissue, measured by positron emission tomography (PET), is accepted by regulatory agencies like the Food and Drug Administration (FDA) and the European Medicine Agencies (EMA) for assessing amyloid load in people with dementia. Its added value is mainly demonstrated by excluding Alzheimer's pathology in an established dementia diagnosis. However, the National Institute on Aging and Alzheimer's Association (NIA-AA) revised the diagnostic criteria for Alzheimer's disease and confidence in the diagnosis of mild cognitive impairment (MCI) due to Alzheimer's disease may be increased when using some amyloid biomarkers tests like 18F-florbetaben. These tests, added to the MCI core clinical criteria, might increase the diagnostic test accuracy (DTA) of a testing strategy. However, the DTA of 18F-florbetaben to predict the progression from MCI to Alzheimer’s disease dementia (ADD) or other dementias has not yet been systematically evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the DTA of the 18F-florbetaben PET scan for detecting people with MCI at time of performing the test who will clinically progress to ADD, other forms of dementia (non-ADD), or any form of dementia at follow-up."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The most recent search for this review was performed in May 2017. We searched MEDLINE (OvidSP), Embase (OvidSP), PsycINFO (OvidSP), BIOSIS Citation Index (Thomson Reuters Web of Science), Web of Science Core Collection, including the Science Citation Index (Thomson Reuters Web of Science) and the Conference Proceedings Citation Index (Thomson Reuters Web of Science), LILACS (BIREME), CINAHL (EBSCOhost), ClinicalTrials.gov (https://clinicaltrials.gov), and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) (http://www.who.int/ictrp/search/en/). We also searched ALOIS, the Cochrane Dementia & Cognitive Improvement Group’s specialised register of dementia studies (http://www.medicine.ox.ac.uk/alois/). We checked the reference lists of any relevant studies and systematic reviews, and performed citation tracking using the Science Citation Index to identify any additional relevant studies. No language or date restrictions were applied to electronic searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that had prospectively defined cohorts with any accepted definition of MCI at time of performing the test and the use of 18F-florbetaben scan to evaluate the DTA of the progression from MCI to ADD or other forms of dementia. In addition, we only selected studies that applied a reference standard for Alzheimer’s dementia diagnosis, for example, the National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer’s Disease and Related Disorders Association (NINCDS-ADRDA) or Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV) criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We screened all titles and abstracts identified in electronic-database searches. Two review authors independently selected studies for inclusion and extracted data to create two-by-two tables, showing the binary test results cross-classified with the binary reference standard. We used these data to calculate sensitivities, specificities, and their 95% confidence intervals. Two independent assessors performed quality assessment using the QUADAS-2 tool plus some additional items to assess the methodological quality of the included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "Progression from MCI to ADD, any other form of dementia, and any form of dementia was evaluated in one study (Ong 2015). It reported data on 45 participants at four years of follow-up; 21 participants met NINCDS-ADRDA criteria for Alzheimer’s disease dementia at four years of follow-up, the proportion converting to ADD was 47% of the 45 participants, and 11% of the 45 participants met criteria for other types of dementias (three cases of FrontoTemporal Dementia (FTD), one of Dementia with Lewy body (DLB), and one of Progressive Supranuclear Palsy (PSP)). We considered the study to be at high risk of bias in the domains of the reference standard, flow, and timing (QUADAS-2).\nMCI to ADD; 18F-florbetaben PET scan analysed visually: the sensitivity was 100% (95% confidence interval (CI) 84% to 100%) and the specificity was 83% (95% CI 63% to 98%) (n = 45, 1 study). Analysed quantitatively: the sensitivity was 100% (95% CI 84% to 100%) and the specificity was 88% (95% CI 68% to 97%) for the diagnosis of ADD at follow-up (n = 45, 1 study).\nMCI to any other form of dementia (non-ADD);18F-florbetaben PET scan analysed visually: the sensitivity was 0% (95% CI 0% to 52%) and the specificity was 38% (95% CI 23% to 54%) (n = 45, 1 study). Analysed quantitatively: the sensitivity was 0% (95% CI 0% to 52%) and the specificity was 40% (95% CI 25% to 57%) for the diagnosis of any other form of dementia at follow-up (n = 45, 1 study).\nMCI to any form of dementia;18F-florbetaben PET scan analysed visually: the sensitivity was 81% (95% CI 61% to 93%) and the specificity was 79% (95% CI 54% to 94%) (n = 45, 1 study). Analysed quantitatively: the sensitivity was 81% (95% CI 61% to 93%) and the specificity was 84% (95% CI 60% to 97%) for the diagnosis of any form of dementia at follow-up (n = 45, 1 study)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although we were able to calculate one estimation of DTA in, especially, the prediction of progression from MCI to ADD at four years follow-up, the small number of participants implies imprecision of sensitivity and specificity estimates. We cannot make any recommendation regarding the routine use of 18F-florbetaben in clinical practice based on one single study with 45 participants. 18F-florbetaben has high financial costs, therefore, clearly demonstrating its DTA and standardising the process of the 18F-florbetaben modality are important prior to its wider use."
+    }
+  ],
+  "pls_title": "18F PET with florbetaben for the early diagnosis of Alzheimer's disease dementia and other dementias in people with mild cognitive impairment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "In people with mild cognitive impairment (MCI), does using a18F PET scan with florbetaben predict progression to Alzheimer's disease dementia (ADD) and other dementias?"
+    },
+    {
+      "heading": "Background",
+      "text": "Due to global ageing, the number of people with dementia is expected to increase dramatically in the next few decades. Diagnosing dementia at an early stage is desirable, but there is no widespread agreement on the best approach. A range of simple pen and paper tests used by healthcare professionals can assess people with poor memory or cognitive impairment. Whether or not using special PET scans that detect amyloid —one of the hallmarks of Alzheimer's disease— improves our ability to predict the progression from MCI to ADD or other forms of dementia remains unclear. Since these tests are expensive, it is important that they provide additional benefits."
+    },
+    {
+      "heading": "Aim",
+      "text": "We aimed to evaluate the accuracy of the 18F-florbetaben PET scan in identifying those people with MCI who clinically progress to ADD, other types of dementia, or any form of dementia over a period of time."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to May 2017. We found 1 study including 45 participants with MCI with a follow-up of 4 years; gender was not reported and the median age for those with a PET-positive scan by quantitative assessment was 73.5 years old. For those with a PET-negative scan the mean age was 71.8 years old. Participants were mainly recruited from local memory clinics.\nStudy funding sources: the study was funded by the test manufacturer."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The main limitation of this review was that our findings were based on only one study, with not enough details on how the participants were selected. The study was considered to be at high risk of bias, since the final ADD diagnosis was not established separately from the scan results, and due to potential conflicts of interest detected."
+    },
+    {
+      "heading": "Key findings",
+      "text": "In this review, based on only one study, we found that the18F-florbetaben PET scan, as a single test with visual assessment, correctly classified 100% of the participants who will progress to ADD and 83% of the participants who did not progress to ADD at four years follow-up. This means that in a cohort with 100 participants with MCI, 47 of whom will progress to ADD, we would expect that all those 47 MCI participants would test positive with the18F-florbetaben scan and that 0 participants would be falsely negative (i.e. none of the 47 participants would have a negative test and yet progress to ADD). In addition, we would expect 44 of 53 participants who did not progress to ADD to be18F-florbetaben-negative and 9 to be falsely positive (i.e. 9 of the 53 participants would have a positive test but not progress to ADD).\nThe small size of the included study lowered our confidence on these estimates of accuracy and it is still possible that the test is considerably less accurate than these results suggest.\nWe conclude that 18F-florbetaben imaging is a promising test to predict the progression from MCI to ADD; however, we need more studies to clearly demonstrate its accuracy."
+    }
+  ]
+}

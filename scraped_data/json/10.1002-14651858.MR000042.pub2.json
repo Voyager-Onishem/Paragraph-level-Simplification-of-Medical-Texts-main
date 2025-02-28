@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.MR000042.pub2",
+  "name": "Comparison of self‐administered survey questionnaire responses collected using mobile apps versus other methods ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Self-administered survey questionnaires are an important data collection tool in clinical practice, public health research and epidemiology. They are ideal for achieving a wide geographic coverage of the target population, dealing with sensitive topics and are less resource-intensive than other data collection methods. These survey questionnaires can be delivered electronically, which can maximise the scalability and speed of data collection while reducing cost. In recent years, the use of apps running on consumer smart devices (i.e., smartphones and tablets) for this purpose has received considerable attention. However, variation in the mode of delivering a survey questionnaire could affect the quality of the responses collected."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the impact that smartphone and tablet apps as a delivery mode have on the quality of survey questionnaire responses compared to any other alternative delivery mode: paper, laptop computer, tablet computer (manufactured before 2007), short message service (SMS) and plastic objects."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, EMBASE, PsycINFO, IEEEXplore, Web of Science, CABI: CAB Abstracts, Current Contents Connect, ACM Digital, ERIC, Sociological Abstracts, Health Management Information Consortium, the Campbell Library and CENTRAL. We also searched registers of current and ongoing clinical trials such as ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform. We also searched the grey literature in OpenGrey, Mobile Active and ProQuest Dissertation & Theses. Lastly, we searched Google Scholar and the reference lists of included studies and relevant systematic reviews. We performed all searches up to 12 and 13 April 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs), crossover trials and paired repeated measures studies that compared the electronic delivery of self-administered survey questionnaires via a smartphone or tablet app with any other delivery mode. We included data obtained from participants completing health-related self-administered survey questionnaire, both validated and non-validated. We also included data offered by both healthy volunteers and by those with any clinical diagnosis. We included studies that reported any of the following outcomes: data equivalence; data accuracy; data completeness; response rates; differences in the time taken to complete a survey questionnaire; differences in respondent's adherence to the original sampling protocol; and acceptability to respondents of the delivery mode. We included studies that were published in 2007 or after, as devices that became available during this time are compatible with the mobile operating system (OS) framework that focuses on apps."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included studies using a standardised form created for this systematic review in REDCap. They then compared their forms to reach consensus. Through an initial systematic mapping on the included studies, we identified two settings in which survey completion took place: controlled and uncontrolled. These settings differed in terms of (i) the location where surveys were completed, (ii) the frequency and intensity of sampling protocols, and (iii) the level of control over potential confounders (e.g., type of technology, level of help offered to respondents). We conducted a narrative synthesis of the evidence because a meta-analysis was not appropriate due to high levels of clinical and methodological diversity. We reported our findings for each outcome according to the setting in which the studies were conducted."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 studies (15 records) with a total of 2275 participants; although we included only 2272 participants in the final analyses as there were missing data for three participants from one included study.\nRegarding data equivalence, in both controlled and uncontrolled settings, the included studies found no significant differences in the mean overall scores between apps and other delivery modes, and that all correlation coefficients exceeded the recommended thresholds for data equivalence. Concerning the time taken to complete a survey questionnaire in a controlled setting, one study found that an app was faster than paper, whereas the other study did not find a significant difference between the two delivery modes. In an uncontrolled setting, one study found that an app was faster than SMS. Data completeness and adherence to sampling protocols were only reported in uncontrolled settings. Regarding the former, an app was found to result in more complete records than paper, and in significantly more data entries than an SMS-based survey questionnaire. Regarding adherence to the sampling protocol, apps may be better than paper but no different from SMS. We identified multiple definitions of acceptability to respondents, with inconclusive results: preference; ease of use; willingness to use a delivery mode; satisfaction; effectiveness of the system informativeness; perceived time taken to complete the survey questionnaire; perceived benefit of a delivery mode; perceived usefulness of a delivery mode; perceived ability to complete a survey questionnaire; maximum length of time that participants would be willing to use a delivery mode; and reactivity to the delivery mode and its successful integration into respondents' daily routine. Finally, regardless of the study setting, none of the included studies reported data accuracy or response rates."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our results, based on a narrative synthesis of the evidence, suggest that apps might not affect data equivalence as long as the intended clinical application of the survey questionnaire, its intended frequency of administration and the setting in which it was validated remain unchanged. There were no data on data accuracy or response rates, and findings on the time taken to complete a self-administered survey questionnaire were contradictory. Furthermore, although apps might improve data completeness, there is not enough evidence to assess their impact on adherence to sampling protocols. None of the included studies assessed how elements of user interaction design, survey questionnaire design and intervention design might influence mode effects. Those conducting research in public health and epidemiology should not assume that mode effects relevant to other delivery modes apply to apps running on consumer smart devices. Those conducting methodological research might wish to explore the issues highlighted by this systematic review."
+    }
+  ],
+  "pls_title": "Can apps be used for the delivery of survey questionnaires in public health and clinical research?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Survey questionnaires are important tools in public health and clinical research as they offer a convenient way of collecting data from a large number of respondents, dealing with sensitive topics, and are less resource intensive than other data collection techniques. The delivery of survey questionnaires via apps running on smartphones or tablets could maximise the scalability and speed of data collection offered by these tools, whilst reducing costs. However, before this technology becomes widely adopted, we need to understand how it could affect the quality of the responses collected. Particularly, if we consider the impact that data quality can have on the evidence base that supports many public health and healthcare decisions."
+    },
+    {
+      "heading": "Objective",
+      "text": "In this Cochrane review, we assessed the impact that using apps to deliver a survey can have on various aspects of the quality of responses. These include response rates, data accuracy, data completeness, time taken to complete a survey questionnaire, and acceptability to respondents."
+    },
+    {
+      "heading": "Methods and results",
+      "text": "We searched for studies published between January 2007 and April 2015. We included 14 studies and analysed data from 2272 participants. We did not conduct a meta-analysis because of differences across the studies. Instead, we describe the results of each study. The studies took place in two types of setting: controlled and uncontrolled. The former refers to research or clinical environments in which healthcare practitioners or researchers were able to better control for potential confounders, such as the location and time of day in which surveys were completed, the type of technology used and the level of help available to respondents deal with technical difficulties. Uncontrolled settings refer to locations outside these research or clinical environments (e.g., the respondent's home). We found that apps may be equivalent to other delivery modes such as paper, laptops and SMS in both settings. It is unclear if apps could result in faster completion times than other delivery modes. Instead, our findings suggest that factors such as the characteristics of the clinical population, and survey and interface design could moderate the effect on this outcome. Data completeness and adherence to sampling protocols were only reported in uncontrolled settings. Our results indicate that apps may result in more complete datasets, and may improve adherence to sampling protocols compared to paper but not to SMS. There were multiple definitions of acceptability to respondents, which could not be standardised across the included studies. Lastly, none of the included studies reported on response rates or data accuracy."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Overall, there is not enough evidence to make clear recommendations about the impact that apps may have on survey questionnaire responses. Data equivalence may not be affected as long as the intended clinical application of a survey questionnaire and its intended frequency of administration is the same whether or not apps are used. Future research may need to consider how the design of the user interaction, survey questionnaire and intervention may affect data equivalence and the other outcomes evaluated in this review."
+    }
+  ]
+}

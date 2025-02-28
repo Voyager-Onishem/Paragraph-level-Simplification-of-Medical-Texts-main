@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013330.pub2",
+  "name": "Non‐pharmacological interventions for preventing clotting of extracorporeal circuits during continuous renal replacement therapy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute kidney injury (AKI) is a common complication amongst people who are critically ill, and it is associated with an increased risk of death. For people with severe AKI, continuous kidney replacement therapy (CKRT), which is delivered over 24 hours, is needed when they become haemodynamically unstable. When CKRT is interrupted due to clotting of the extracorporeal circuit, the delivered dose is decreased and thus leading to undertreatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review assessed the efficacy of non-pharmacological measures to maintain circuit patency in CKRT."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 25 January 2021 which includes records identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) (parallel-group and cross-over studies), cluster RCTs and quasi-RCTs that examined non-pharmacological interventions to prevent clotting of extracorporeal circuits during CKRT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three pairs of review authors independently extracted information including participants, interventions/comparators, outcomes, study methods, and risk of bias. The primary outcomes were circuit lifespan and death due to any cause at day 28. We used a random-effects model to perform quantitative synthesis (meta-analysis). We assessed the risk of bias in included studies using the Cochrane Collaboration’s tool for assessing the risk of bias. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 20 studies involving 1143 randomised participants were included in the review. The methodological quality of the included studies was low, mainly due to the unclear randomisation process and blinding of the intervention. We found evidence on the following 11 comparisons: (i) continuous venovenous haemodialysis (CVVHD) versus continuous venovenous haemofiltration (CVVH) or continuous venovenous haemodiafiltration (CVVHDF); (ii) CVVHDF versus CVVH; (iii) higher blood flow (≥ 250 mL/minute) versus standard blood flow (< 250 mL/minute); (iv) AN69 membrane (AN69ST) versus other membranes; (v) pre-dilution versus post-dilution; (vi) a longer catheter (> 20 cm) placing the tip targeting the right atrium versus a shorter catheter (≤ 20 cm) placing the tip in the superior vena cava; (vii) surface-modified double-lumen catheter versus standard double-lumen catheter with identical geometry and flow design; (viii) single-site infusion anticoagulation versus double-site infusion anticoagulation; (ix) flat plate filter versus hollow fibre filter of the same membrane type; (x) a filter with a larger membrane surface area versus a smaller one; and (xi) a filter with more and shorter hollow fibre versus a standard filter of the same membrane type.\nCircuit lifespan was reported in 9 comparisons. Low certainty evidence indicated that CVVHDF (versus CVVH: MD 10.15 hours, 95% CI 5.15 to 15.15; 1 study, 62 circuits), pre-dilution haemofiltration (versus post-dilution haemofiltration: MD 9.34 hours, 95% CI -2.60 to 21.29; 2 studies, 47 circuits; I² = 13%), placing the tip of a longer catheter targeting the right atrium (versus placing a shorter catheter targeting the tip in the superior vena cava: MD 6.50 hours, 95% CI 1.48 to 11.52; 1 study, 420 circuits), and surface-modified double-lumen catheter (versus standard double-lumen catheter: MD 16.00 hours, 95% CI 13.49 to 18.51; 1 study, 262 circuits) may prolong circuit lifespan. However, higher blood flow may not increase circuit lifespan (versus standard blood flow: MD 0.64, 95% CI -3.37 to 4.64; 2 studies, 499 circuits; I² = 70%). More and shorter hollow fibre filters (versus standard filters: MD -5.87 hours, 95% CI -10.18 to -1.56; 1 study, 6 circuits) may reduce circuit lifespan.\nDeath from any cause was reported in four comparisons We are uncertain whether CVVHDF versus CVVH, CVVHD versus CVVH or CVVHDF, longer versus a shorter catheter, or surface-modified double-lumen catheters versus standard double-lumen catheters reduced death due to any cause, in very low certainty evidence.\nRecovery of kidney function was reported in three comparisons. We are uncertain whether CVVHD versus CVVH or CVVHDF, CVVHDF versus CVVH, or surface-modified double-lumen catheters versus standard double-lumen catheters increased recovery of kidney function.\nVascular access complications were reported in two comparisons. Low certainty evidence indicated using a longer catheter (versus a shorter catheter: RR 0.40, 95% CI 0.22 to 0.74) may reduce vascular access complications, however, the use of surface-modified double lumen catheters versus standard double-lumen catheters may make little or no difference to vascular access complications."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of CVVHDF as compared with CVVH, pre-dilution haemofiltration, a longer catheter, and surface-modified double-lumen catheter may prolong the circuit lifespan, while higher blood flow and more and shorter hollow fibre filter may reduce circuit life. The overall certainty of the evidence was assessed to be low to very low due to the small sample size of the included studies.\nData from future rigorous and transparent research are much needed in order to fully understand the effects of non-pharmacological interventions in preventing circuit coagulation amongst people with AKI receiving CKRT."
+    }
+  ],
+  "pls_title": "Non-pharmacological interventions for preventing clotting of extracorporeal circuits during continuous kidney replacement therapy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Acute kidney injury (AKI) is a major problem in people with severe illness. In cases of severe AKI, kidney replacement therapy/dialysis (KRT) using circuits is necessary. Continuous kidney replacement therapy is performed continuously over 24 hours. Clotting of the CKRT circuit can interfere with this treatment. To prevent this, a variety of non-pharmacological (not using medication) interventions have been studied. We aimed to summarise current evidence regarding the efficacy of non-pharmacological interventions for preventing clotting of extracorporeal circuits during CKRT."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for available evidence from the Cochrane Kidney and Transplant Specialised Register up to 25 January 2021. Our review summarised the results of 20 randomised studies involving a total of 1143 people."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found that the quality of the 20 included studies was low, and the number randomised was small. The majority of the included studies did not report death as an outcome. We found that continuous venovenous haemodiafiltration (CVVHDF), as compared with continuous venovenous haemofiltration (CVVH), may prolong circuit lifespan. In addition, pre-dilution haemofiltration, as compared with post-dilution haemofiltration, a longer catheter placing the tip at the right atrium, as compared with a shorter catheter placing the tip in the superior vena cava, and surface-modified double lumen catheter, as compared with standard double lumen catheter, may extend the circuit lifespan. However, higher blood flow compared to standard blood flow rate might not affect circuit lifespan. Overall, the data was limited and of very low certainty."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We found that the effects of non-pharmacological interventions in people with AKI receiving CKRT remain unclear. There is a need for studies assessing CKRT circuit lifespan as well as other clinically important outcomes."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD008625.pub2",
+  "name": "Antimicrobial drugs for treating cholera",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cholera is an acute watery diarrhoea caused by infection with the bacterium Vibrio cholerae, which if severe can cause rapid dehydration and death. Effective management requires early diagnosis and rehydration using oral rehydration salts or intravenous fluids. In this review, we evaluate the additional benefits of treating cholera with antimicrobial drugs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the benefit of antimicrobial treatment for patients with cholera, and determine whether there are differences between classes of antimicrobials or dosing schedules."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Disease Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; African Index Medicus; LILACS; Science Citation Index; metaRegister of Controlled Trials; WHO International Clinical Trials Registry Platform; conference proceedings; and reference lists to March 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and quasi-randomized controlled clinical trials in adults and children with cholera that compared: 1) any antimicrobial treatment with placebo or no treatment; 2) different antimicrobials head-to-head; or 3) different dosing schedules or different durations of treatment with the same antimicrobial."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently applied inclusion and exclusion criteria, and extracted data from included trials. Diarrhoea duration and stool volume were defined as primary outcomes. We calculated mean difference (MD) or ratio of means (ROM) for continuous outcomes, with 95% confidence intervals (CI), and pooled data using a random-effects meta-analysis. The quality of evidence was assessed using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-nine trials were included in this review with 4623 participants.\nAntimicrobials versus placebo or no treatment\nOverall, antimicrobial therapy shortened the mean duration of diarrhoea by about a day and a half compared to placebo or no treatment (MD -36.77 hours, 95% CI -43.51 to -30.03, 19 trials, 1013 participants, moderate quality evidence ). Antimicrobial therapy also reduced the total stool volume by 50% (ROM 0.5, 95% CI 0.45 to 0.56, 18 trials, 1042 participants, moderate quality evidence ) and reduced the amount of rehydration fluids required by 40% (ROM 0.60, 95% CI 0.53 to 0.68, 11 trials, 1201 participants, moderate quality evidence ). The mean duration of fecal excretion of vibrios was reduced by almost three days (MD 2.74 days, 95% CI -3.07 to -2.40, 12 trials, 740 participants, moderate quality evidence).\nThere was substantial heterogeneity in the size of these benefits, probably due to differences in the antibiotic used, the trial methods (particularly effective randomization), and the timing of outcome assessment. The benefits of antibiotics were seen both in trials recruiting only patients with severe dehydration and in those recruiting patients with mixed levels of dehydration.\nComparisons of antimicrobials\nIn head-to-head comparisons, there were no differences detected in diarrhoea duration or stool volume for tetracycline compared to doxycycline (three trials, 230 participants, very low quality evidence ); or tetracycline compared to ciprofloxacin or norfloxacin (three trials, 259 participants, moderate quality evidence). In indirect comparisons with substantially more trials, tetracycline appeared to have larger benefits than doxycycline, norfloxacin and trimethoprim-sulfamethoxazole for the primary review outcomes.\nSingle dose azithromycin shortened the duration of diarrhoea by over a day compared to ciprofloxacin (MD -32.43, 95% CI -62.90 to -1.95, two trials, 375 participants, moderate quality evidence ) and by half a day compared to erythromycin (MD -12.05, 95% CI -22.02 to -2.08, two trials, 179 participants, moderate quality evidence). It was not compared with tetracycline."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In treating cholera, antimicrobials result in substantial improvements in clinical and microbiological outcomes, with similar effects observed in severely and non-severely ill patients. Azithromycin and tetracycline may have some advantages over other antibiotics."
+    }
+  ],
+  "pls_title": "Antibiotics for treating cholera",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Cochrane Collaboration researchers conducted a review of the effects of antibiotics for treating people with cholera. After searching for relevant trials, they included 39 randomized controlled trials enrolling 4623 people with cholera."
+    },
+    {
+      "heading": "What is cholera and how might antibiotics work",
+      "text": "Cholera is a form of severe watery diarrhoea, which spreads from person to person through food and water contaminated with the bacterium Vibrio cholerae. Cholera is common in places with poor water and sanitation, and sometimes causes large epidemics with thousands of people falling ill.\nCholera can cause severe dehydration and death, so the main treatment is to give fluids and salt either orally as oral rehydration salts, or by injection. By clearing the bacteria earlier than the patients own immune system, antibiotics could reduce the duration and severity of the illness, and reduce onward transmission to other people."
+    },
+    {
+      "heading": "What the research says",
+      "text": "Antibiotic treatment shortened the duration of diarrhoea by about one and a half days (the normal duration is between three and four days), and reduced the total amount of diarrhoea fluid by half. Consequently, the need for rehydration fluids was also reduced by almost half.\nAntibiotic treatment also shortened the period of time where the patient remains contagious by reducing the duration of excretion of Vibrio cholerae in the diarrhoea.\nThe benefits of antibiotics were seen in trials recruiting only people with severe dehydration, and in those recruiting people with mixed levels of dehydration.\nTetracycline or azithromycin appear more effective than some of the other antibiotics tested, but the choice of which antibiotic to use will depend on local drug resistance."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011598.pub2",
+  "name": "Nutrition support in hospitalised adults at nutritional risk",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The prevalence of disease-related malnutrition in Western European hospitals is estimated to be about 30%. There is no consensus whether poor nutritional status causes poorer clinical outcome or if it is merely associated with it. The intention with all forms of nutrition support is to increase uptake of essential nutrients and improve clinical outcome. Previous reviews have shown conflicting results with regard to the effects of nutrition support."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of nutrition support versus no intervention, treatment as usual, or placebo in hospitalised adults at nutritional risk."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE (Ovid SP), Embase (Ovid SP), LILACS (BIREME), and Science Citation Index Expanded (Web of Science). We also searched the World Health Organization International Clinical Trials Registry Platform (www.who.int/ictrp); ClinicalTrials.gov; Turning Research Into Practice (TRIP); Google Scholar; and BIOSIS, as well as relevant bibliographies of review articles and personal files. All searches are current to February 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We include randomised clinical trials, irrespective of publication type, publication date, and language, comparing nutrition support versus control in hospitalised adults at nutritional risk. We exclude trials assessing non-standard nutrition support."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane and the Cochrane Hepato-Biliary Group. We used trial domains to assess the risks of systematic error (bias). We conducted Trial Sequential Analyses to control for the risks of random errors. We considered a P value of 0.025 or less as statistically significant. We used GRADE methodology. Our primary outcomes were all-cause mortality, serious adverse events, and health-related quality of life."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 244 randomised clinical trials with 28,619 participants that met our inclusion criteria. We considered all trials to be at high risk of bias. Two trials accounted for one-third of all included participants. The included participants were heterogenous with regard to disease (20 different medical specialties). The experimental interventions were parenteral nutrition (86 trials); enteral nutrition (tube-feeding) (80 trials); oral nutrition support (55 trials); mixed experimental intervention (12 trials); general nutrition support (9 trials); and fortified food (2 trials). The control interventions were treatment as usual (122 trials); no intervention (107 trials); and placebo (15 trials). In 204/244 trials, the intervention lasted three days or more.\nWe found no evidence of a difference between nutrition support and control for short-term mortality (end of intervention). The absolute risk was 8.3% across the control groups compared with 7.8% (7.1% to 8.5%) in the intervention groups, based on the risk ratio (RR) of 0.94 (95% confidence interval (CI) 0.86 to 1.03, P = 0.16, 21,758 participants, 114 trials, low quality of evidence). We found no evidence of a difference between nutrition support and control for long-term mortality (maximum follow-up). The absolute risk was 13.2% in the control group compared with 12.2% (11.6% to 13%) following nutritional interventions based on a RR of 0.93 (95% CI 0.88 to 0.99, P = 0.03, 23,170 participants, 127 trials, low quality of evidence). Trial Sequential Analysis showed we only had enough information to assess a risk ratio reduction of approximately 10% or more. A risk ratio reduction of 10% or more could be rejected.\nWe found no evidence of a difference between nutrition support and control for short-term serious adverse events. The absolute risk was 9.9% in the control groups versus 9.2% (8.5% to 10%), with nutrition based on the RR of 0.93 (95% CI 0.86 to 1.01, P = 0.07, 22,087 participants, 123 trials, low quality of evidence). At long-term follow-up, the reduction in the risk of serious adverse events was 1.5%, from 15.2% in control groups to 13.8% (12.9% to 14.7%) following nutritional support (RR 0.91, 95% CI 0.85 to 0.97, P = 0.004, 23,413 participants, 137 trials, low quality of evidence). However, the Trial Sequential Analysis showed we only had enough information to assess a risk ratio reduction of approximately 10% or more. A risk ratio reduction of 10% or more could be rejected.\nTrial Sequential Analysis of enteral nutrition alone showed that enteral nutrition might reduce serious adverse events at maximum follow-up in people with different diseases. We could find no beneficial effect of oral nutrition support or parenteral nutrition support on all-cause mortality and serious adverse events in any subgroup.\nOnly 16 trials assessed health-related quality of life. We performed a meta-analysis of two trials reporting EuroQoL utility score at long-term follow-up and found very low quality of evidence for effects of nutritional support on quality of life (mean difference (MD) -0.01, 95% CI -0.03 to 0.01; 3961 participants, two trials). Trial Sequential Analyses showed that we did not have enough information to confirm or reject clinically relevant intervention effects on quality of life.\nNutrition support may increase weight at short-term follow-up (MD 1.32 kg, 95% CI 0.65 to 2.00, 5445 participants, 68 trials, very low quality of evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is low-quality evidence for the effects of nutrition support on mortality and serious adverse events. Based on the results of our review, it does not appear to lead to a risk ratio reduction of approximately 10% or more in either all-cause mortality or serious adverse events at short-term and long-term follow-up.\nThere is very low-quality evidence for an increase in weight with nutrition support at the end of treatment in hospitalised adults determined to be at nutritional risk. The effects of nutrition support on all remaining outcomes are unclear.\nDespite the clinically heterogenous population and the high risk of bias of all included trials, our analyses showed limited signs of statistical heterogeneity. Further trials may be warranted, assessing enteral nutrition (tube-feeding) for different patient groups. Future trials ought to be conducted with low risks of systematic errors and low risks of random errors, and they also ought to assess health-related quality of life."
+    }
+  ],
+  "pls_title": "Feeding support in hospitalised adults at risk of undernourishment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the benefits and harms of feeding support given to adults in hospital at risk of undernourishment based on different methods, ranging from the formally-validated to ‘according to the opinion' of the trial investigators."
+    },
+    {
+      "heading": "Background",
+      "text": "People who are malnourished when they are admitted to hospital might be at increased risk of death or are more likely to experience a serous complication. Delivering feeding support might help them, although being malnourished may be associated with a severe underlying disease. In this case, specific interventions aimed at improving their nutritional status would not help, as it would not be the poor nutritional status in itself that caused the increased risk of death or of experiencing a serious harm."
+    },
+    {
+      "heading": "Date of search",
+      "text": "Feburary 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 244 trials, with 28,619 participants. The included trials assessed the effects of different kinds of nutrition support (i.e. dietary advice, enriching regular food with extra protein and calories, protein shakes, feeding through a catheter directly into a vein or through a tube directly into the stomach or gut). The nutrition support was provided to people in the trial who were ill with many different types of diseases and undergoing different procedures. What they all had in common was that they were at risk by at least one measure, including the trialists' clinical opinion."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found no evidence of a difference between nutrition support and control for risk of death. We found that 8.3% people died at short-term follow-up in the control groups compared with 7.8% in those who had been given nutritional support (low quality of evidence). At the longest point of follow-up 13.2% people in the control groups died compared with 12.2% in those who had been given nutritional support (low quality of evidence). We found no evidence of a difference between nutrition support and control for risk of a serious complications in the short term. People in the control groups had a serious complication rate of 9.9% at short-term follow-up compared with 9.2% with nutrition (low quality of evidence). At long-term follow-up 15.2% of people in the control groups had a serious complication compared with 13.8% in the nutrition groups (low quality of evidence). These results are based on just over 21,000 participants. Nutrition may increase weight by about 1.32 kg compared with people in the control groups. The increase in weight of 1.32 kg on average is of uncertain benefit. We could not reliably assess the effects on quality of life due to the variation in the reporting of this information. When we looked at the different types of nutrition support, a secondary analysis suggested that tube-feeding might be beneficial, reducing serious complications at maximum follow-up, but the strength of this finding is low."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence for our conclusions is of low quality for death and serious complications, and very low quality for weight. All trials had a high risk of bias (i.e. the trials were all conducted in a way that may overestimate the benefits and underestimate the harms of nutrition support). The results were consistent for death and serious complications, but there was a high level of variation in the effects on weight across the studies."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009124.pub3",
+  "name": "Pushing/bearing down methods for the second stage of labour",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Maternal pushing during the second stage of labour is an important and indispensable contributor to the involuntary expulsive force developed by uterine contraction. There is no consensus on an ideal strategy to facilitate these expulsive efforts and there are contradictory results about the influence on the mother and fetus."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and possible disadvantages of different kinds of techniques regarding maternal pushing/breathing during the expulsive stage of labour on maternal and fetal outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Pregnancy and Childbirth's Trials Register (19 September 2016) and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs assessing the effects of pushing/bearing down techniques (type and/or timing) performed during the second stage of labour on maternal and neonatal outcomes. Cluster-RCTs were eligible for inclusion, but none were identified. Studies using a cross-over design and those published in abstract form only were not eligible for inclusion in this review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion, extracted data and assessed risk of bias. Data were checked for accuracy."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this updated review, we included 21 studies in total, eight (884 women) comparing spontaneous pushing versus directed pushing, with or without epidural analgesia and 13 (2879 women) comparing delayed pushing versus immediate pushing with epidural analgesia. Our GRADE assessments of evidence ranged from moderate to very low quality; the main reasons for downgrading were study design limitations and imprecision of effect estimates. Overall, the included studies varied in their risk of bias; most were judged to be at unclear risk of bias.\nComparison 1: types of pushing: spontaneous pushing versus directed pushing\nThere was no clear difference in the duration of the second stage of labour (mean difference (MD) 10.26 minutes; 95% confidence interval (CI) -1.12 to 21.64 minutes, six studies, 667 women, random-effects, I² = 81%) (very low-quality evidence ). There was no clear difference in 3rd or 4th degree perineal laceration (risk ratio (RR) 0.87; 95% CI 0.45 to 1.66, one study, 320 women) (low-quality evidence ), episiotomy (average RR 1.05; 95% CI 0.60 to 1.85, two studies, 420 women, random-effects, I² = 81%), duration of pushing (MD -9.76 minutes, 95% CI -19.54 to 0.02; two studies; 169 women; I² = 88%) (very low-quality evidence ), or rate of spontaneous vaginal delivery (RR 1.01, 95% CI 0.97 to 1.05; five studies; 688 women; I² = 2%) (moderate-quality evidence ). For primary neonatal outcomes such as five-minute Apgar score less than seven, there was no clear difference between groups (RR 0.35; 95% CI 0.01 to 8.43, one study, 320 infants) (very low-quality evidence ), and the number of admissions to neonatal intensive care (RR 1.08; 95% CI 0.30 to 3.79, two studies, 393 infants) (very low-quality evidence) also showed no clear difference between spontaneous and directed pushing. No data were available on hypoxic ischaemic encephalopathy.\nComparison 2: timing of pushing: delayed pushing versus immediate pushing (all women with epidural)\nFor the primary maternal outcomes, delayed pushing was associated with an increase of 56 minutes in the duration of the second stage of labour (MD 56.40, 95% CI 42.05 to 70.76; 11 studies; 3049 women; I² = 91%) (very low-quality evidence ), but no clear difference in third or 4th degree perineal laceration (RR 0.94; 95% CI 0.78 to 1.14, seven studies. 2775 women) (moderate-quality evidence ) or episiotomy (RR 0.95; 95% CI 0.87 to 1.04, five studies, 2320 women). Delayed pushing was also associated with a 19-minute decrease in the duration of pushing (MD -19.05, 95% CI -32.27 to -5.83; 11 studies; 2932 women; I² = 95%) (very low-quality evidence ) and an increase in spontaneous vaginal delivery (RR 1.07; 95% CI 1.02 to 1.11, 12 studies, 3114 women) (moderate-quality evidence).\nFor the primary neonatal outcomes, there was no clear difference between groups in admission to neonatal intensive care (RR 0.98; 95% CI 0.67 to 1.41, three studies, n = 2197) (low-quality evidence ) and five-minute Apgar score less than seven (RR 0.15; 95% CI 0.01 to 3.00; three studies; 413 infants) (very low-quality evidence). There were no data on hypoxic ischaemic encephalopathy. Delayed pushing was associated with a greater incidence of low umbilical cord blood pH (RR 2.24; 95% CI 1.37 to 3.68, 4 studies, 2145 infants) and increased the cost of intrapartum care by CDN$ 68.22 (MD 68.22, 95% CI 55.37, 81.07, one study, 1862 women)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This updated review is based on 21 included studies of moderate to very low quality of evidence (with evidence mainly downgraded due to study design limitations and imprecision of effect estimates).\nTiming of pushing with epidural is consistent in that delayed pushing leads to a shortening of the actual time pushing and increase of spontaneous vaginal delivery at the expense of an overall longer duration of the second stage of labour and an increased risk of a low umbilical cord pH (based only on one study). Nevertheless, there was no clear difference in serious perineal laceration and episiotomy, and in other neonatal outcomes (admission to neonatal intensive care, five-minute Apgar score less than seven and delivery room resuscitation) between delayed and immediate pushing.\nTherefore, for the type of pushing, with or without epidural, there is no conclusive evidence to support or refute any specific style as part of routine clinical practice, and in the absence of strong evidence supporting a specific method or timing of pushing, the woman's preference and comfort and clinical context should guide decisions.\nFurther properly well-designed RCTs, addressing clinically important maternal and neonatal outcomes are required to add evidence-based information to the current knowledge. Such trials will provide more complete data to be incorporated into a future update of this review."
+    }
+  ],
+  "pls_title": "Pushing methods for the second stage of labour",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "During the second stage of labour a common technique is to encourage women to take a deep breath at the beginning of a contraction then hold it and bear down throughout the contraction (this is known as directed pushing). In spontaneous pushing, women are free to follow their own instincts and generally push three to five times per contraction. Delayed pushing involves instructing women to avoid pushing until there is an irresistible urge to push or when the presenting part of the baby has descended to the perineum."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "We need to know the benefits and possible disadvantages of different kinds of techniques regarding maternal pushing/breathing during the expulsive stage of labour on maternal and fetal outcomes."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for evidence on (search date 19 September 2016) and identified eight trials (884 women) comparing the types of pushing: spontaneous pushing versus directed pushing with or without epidural analgesia and 13 trials (2879 women) comparing timing of pushing: delayed pushing versus immediate pushing with epidural analgesia. The quality of the evidence in this updated review ranges from moderate to very low quality."
+    },
+    {
+      "heading": "Comparison 1: Spontaneous pushing versus directed pushing",
+      "text": "For types of pushing (spontaneous pushing versus directed pushing) there was no clear difference in the duration of the second stage (very low-quality evidence ), perineal laceration (low-quality evidence ), episiotomy, time spent pushing (very low-quality evidence ), or number of women with a spontaneous vaginal birth (moderate-quality evidence ) between the women who spontaneously pushed and the women who were directed. Outcomes relating to the baby (such as five-minute Apgar score less than seven (very low-quality evidence ), admission to neonatal intensive care (very low-quality evidence)) were not clearly different. None of the studies reported on the outcome of babies with hypoxic ischaemic encephalopathy."
+    },
+    {
+      "heading": "Comparison 2: Delayed pushing versus immediate pushing (women with epidural)",
+      "text": "For the timing of pushing: delayed pushing versus immediate pushing (all women with epidural) - delayed pushing was associated with an increase in the duration of the second stage by about 56 minutes (very l ow-quality evidence ). There were no clear differences between the two groups in the number of women with perineal laceration (moderate-quality evidence ) and episiotomy. Delayed pushing reduced the duration of pushing by about 19 minutes (very low-quality of evidence ), and slightly increased the number of women with a spontaneous vaginal birth (moderate-quality evidence ). There were no clear differences between the delayed and immediate pushing groups in terms of important outcomes for the baby: Apgar score less than seven at five minutes (very low-quality evidence ), admission to neonatal intensive care (low-quality evidence). None of the studies reported on the outcome of babies with brain damage due to lack of oxygen to the brain. Futhermore, delayed pushing was associated with an increased incidence of low umbilical cord pH and increased the cost of intrapartum care by CDN$ 68.22."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "We are unable to say whether spontaneous pushing or directed pushing coaching methods are best. Until further high-quality studies are available, women should be encouraged to push and bear down according to their comfort and preference.\nDelaying pushing for women with epidural reduces the time spent pushing when giving birth, and increases the likelihood of a spontaneous vaginal birth. However, it increases the duration of the second stage. The possible effects on important neonatal outcomes and maternal perineal injury (serious tears) is still unclear. Therefore, the evidence is still insufficient and inconclusive to support any indication of specific timing of pushing as well as for the type of pushing once there is no conclusive evidence to indicate an adequate style of pushing to be used in the clinical practice.\nFurther properly well-designed randomised controlled trials are required to produce more evidence-based information. These trials should address clinically important maternal and neonatal outcomes and will provide more complete data to be incorporated into a future update of this review."
+    }
+  ]
+}

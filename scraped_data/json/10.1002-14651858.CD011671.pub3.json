@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD011671.pub3",
+  "name": "Normothermic and hypothermic machine perfusion preservation versus static cold storage for deceased donor kidney transplantation ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Kidney transplantation is the optimal treatment for kidney failure. Donation, transport and transplant of kidney grafts leads to significant ischaemia reperfusion injury. Static cold storage (SCS), whereby the kidney is stored on ice after removal from the donor until the time of implantation, represents the simplest preservation method. However, technology is now available to perfuse or \"pump\" the kidney during the transport phase (“continuous”) or at the recipient centre (“end-ischaemic”). This can be done at a variety of temperatures and using different perfusates. The effectiveness of these treatments manifests as improved kidney function post-transplant."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare machine perfusion (MP) technologies (hypothermic machine perfusion (HMP) and (sub) normothermic machine perfusion (NMP)) with each other and with standard SCS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We contacted the information specialist and searched the Cochrane Kidney and Transplant Register of Studies until 15 June 2024 using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) and quasi-RCTs comparing machine perfusion techniques with each other or versus SCS for deceased donor kidney transplantation were eligible for inclusion. All donor types were included (donor after circulatory death (DCD) and brainstem death (DBD), standard and extended/expanded criteria donors). Both paired and unpaired studies were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The results of the literature search were screened, and a standard data extraction form was used to collect data. Both of these steps were performed by two independent authors. Dichotomous outcome results were expressed as risk ratios (RR) with 95% confidence intervals (CI). Survival analyses (time-to-event) were performed with the generic inverse variance meta-analysis of hazard ratios (HR). Continuous scales of measurement were expressed as a mean difference (MD). Random effects models were used for data analysis. The primary outcome was the incidence of delayed graft function (DGF). Secondary outcomes included graft survival, incidence of primary non-function (PNF), DGF duration, economic implications, graft function, patient survival and incidence of acute rejection. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-two studies (4007 participants) were included. The risk of bias was generally low across all studies and bias domains.\nThe majority of the evidence compared non-oxygenated HMP with standard SCS (19 studies). The use of non-oxygenated HMP reduces the rate of DGF compared to SCS (16 studies, 3078 participants: RR 0.78, 95% CI 0.69 to 0.88; P < 0.0001; I2 = 31%; high certainty evidence). Subgroup analysis revealed that continuous (from donor hospital to implanting centre) HMP reduces DGF (high certainty evidence). In contrast, this benefit over SCS was not seen when non-oxygenated HMP was not performed continuously (low certainty evidence). Non-oxygenated HMP reduces DGF in both DCD and DBD settings in studies performed in the 'modern era' and when cold ischaemia times (CIT) were short. The number of perfusions required to prevent one episode of DGF was 7.69 and 12.5 in DCD and DBD grafts, respectively.\nContinuous non-oxygenated HMP versus SCS also improves one-year graft survival (3 studies, 1056 participants: HR 0.46, 0.29 to 0.75; P = 0.002; I2 = 0%; high certainty evidence). Assessing graft survival at maximal follow-up confirmed a benefit of continuous non-oxygenated HMP over SCS (4 studies, 1124 participants (follow-up 1 to 10 years): HR 0.55, 95% CI 0.40 to 0.77; P = 0.0005; I2 = 0%; high certainty evidence). This effect was not seen in studies where HMP was not continuous. The effect of non-oxygenated HMP on our other outcomes (PNF, incidence of acute rejection, patient survival, hospital stay, long-term graft function, duration of DGF) remains uncertain. Studies performing economic analyses suggest that HMP is either cost-saving (USA and European settings) or cost-effective (Brazil).\nOne study investigated continuous oxygenated HMP versus non-oxygenated HMP (low risk of bias in all domains); the simple addition of oxygen during continuous HMP leads to additional benefits over non-oxygenated HMP in DCD donors (> 50 years), including further improvements in graft survival, improved one-year kidney function, and reduced acute rejection. One large, high-quality study investigated end-ischaemic oxygenated HMP versus SCS and found end-ischaemic oxygenated HMP (median machine perfusion time 4.6 hours) demonstrated no benefit compared to SCS. The impact of longer periods of end-ischaemic HMP is unknown.\nOne study investigated NMP versus SCS (low risk of bias in all domains). One hour of end ischaemic NMP did not improve DGF compared with SCS alone. An indirect comparison revealed that continuous non-oxygenated HMP (the most studied intervention) was associated with improved graft survival compared with end-ischaemic NMP (indirect HR 0.31, 95% CI 0.11 to 0.92; P = 0.03).\nNo studies investigated normothermic regional perfusion (NRP) or included any donors undergoing NRP."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Continuous non-oxygenated HMP is superior to SCS in deceased donor kidney transplantation, reducing DGF, improving graft survival and proving cost-effective. This is true for both DBD and DCD kidneys, both short and long CITs, and remains true in the modern era (studies performed after 2008). In DCD donors (> 50 years), the simple addition of oxygen to continuous HMP further improves graft survival, kidney function and acute rejection rate compared to non-oxygenated HMP. Timing of HMP is important, and benefits have not been demonstrated with short periods (median 4.6 hours) of end-ischaemic HMP.\nEnd-ischaemic NMP (one hour) does not confer meaningful benefits over SCS alone and is inferior to continuous HMP in an indirect comparison of graft survival. Further studies assessing NMP for viability assessment and therapeutic delivery are warranted and in progress."
+    }
+  ],
+  "pls_title": "The use of machines to preserve kidneys from deceased donors prior to transplantation",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Compared with standard \"static cold storage\" in an icebox, hypothermic machine perfusion reduces the rate of delayed transplant kidney function, improves the survival of the transplanted kidney, and is cost-saving (in USA and European settings) for kidneys from deceased donors.\n- Performing this continuously from donor to recipient centre and delivering oxygen during this process is associated with the best post-transplant outcomes.\n- Normothermic machine perfusion for one hour (after transport of the organ on ice) does not improve outcomes but is safe and may be useful to assess organ quality or deliver new therapies."
+    },
+    {
+      "heading": "What is kidney failure, and how should it be treated?",
+      "text": "Kidney failure occurs when a person's kidneys no longer function well enough to keep them alive. Kidney replacement therapy, in the form of dialysis or transplantation, is required to sustain life. Kidney transplantation is the best treatment for patients with kidney failure. Potential recipients can be transplanted with a donated kidney from either a living or deceased donor. However, kidneys from deceased donors have a higher incidence of delayed kidney function and primary non-function due to the trauma of brainstem death or circulatory arrest when compared to live donor kidneys. The process of removing and transporting a donated kidney also causes damage, as the kidney is not receiving its normal blood supply. This damage remains a major barrier to transplantation as it renders many organs unusable and is associated with decreased survival of the kidneys which are transplanted."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "Traditionally, kidneys requiring transport are kept in an icebox (termed static cold storage). New technology using machines which drive cold (hypothermic machine perfusion) or warm (normothermic machine perfusion) fluids through donated kidneys aims to decrease the damage done during transport and, therefore, improve the outcomes for these kidneys.\nOur primary outcome was the rate of delayed kidney function (the number of patients who needed extra dialysis support in the week following the transplant), and our main secondary outcome of interest was one-year kidney survival (the number of transplanted kidneys still working at one year)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for all trials that assessed the benefits and harms of using machine perfusion versus static cold storage for the transport of donated kidneys for transplantation. We compared and summarised the trials' results and rated our confidence in the information based on factors such as trial methods and size."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Twenty-two studies (4007 participants) were included. Most of these studies investigated hypothermic machine perfusion (21), with one study investigating normothermic machine perfusion. Compared with standard static cold storage, the use of hypothermic machine perfusion reduces the rate of delayed transplant kidney function, as well improving the survival of the transplanted kidneys. Economic analyses in the USA and European settings found cost savings with the use of hypothermic machine perfusion. Providing the kidney with extra oxygen during hypothermic machine perfusion leads to further improvements in kidney survival, kidney function and rate of kidney rejection. However, this has only been tested in a specific group of donors (deceased donors over 50 years old and who were not brain-dead). The timing of hypothermic machine perfusion appears important, with benefits only seen when machine perfusion is started at the donor hospital and continued throughout transport.\nThe study of normothermic machine perfusion (performed for one hour after transport with static cold storage) found no important advantages over static cold storage alone."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are confident in our findings that hypothermic machine perfusion, compared to cold static storage, reduces the rate of deleted function and transplanted kidney survival. However, we are less certain of the results for primary non-function, incidence of acute rejection, patient survival, hospital stay, long-term kidney function, and duration of delayed kidney function."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to June 2024."
+    }
+  ]
+}

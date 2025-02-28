@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011719.pub3",
+  "name": "Remote ischaemic preconditioning for coronary artery bypass grafting (with or without valve surgery) ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Despite substantial improvements in myocardial preservation strategies, coronary artery bypass grafting (CABG) is still associated with severe complications. It has been reported that remote ischaemic preconditioning (RIPC) reduces reperfusion injury in people undergoing cardiac surgery and improves clinical outcome. However, there is a lack of synthesised information and a need to review the current evidence from randomised controlled trials (RCTs)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of remote ischaemic preconditioning in people undergoing coronary artery bypass grafting, with or without valve surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In May 2016 we searched CENTRAL, MEDLINE, Embase and Web of Science. We also conducted a search of ClinicalTrials.gov and the International Clinical Trials Registry Platform (ICTRP). We also checked reference lists of included studies. We did not apply any language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs in which people scheduled for CABG (with or without valve surgery) were randomly assigned to receive RIPC or sham intervention before surgery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion, extracted data and checked them for accuracy. We calculated mean differences (MDs), standardised mean differences (SMDs) and risk ratios (RR) using a random-effects model. We assessed quality of the trial evidence for all primary outcomes using the GRADE methodology. We completed a ’Risk of bias’ assessment for all studies and performed sensitivity analysis by excluding studies judged at high or unclear risk of bias for sequence generation, allocation concealment and incomplete outcome data. We contacted authors for missing data. Our primary endpoints were 1) composite endpoint (including all-cause mortality, non-fatal myocardial infarction or any new stroke, or both) assessed at 30 days after surgery, 2) cardiac troponin T (cTnT, ng/L) at 48 hours and 72 hours, and as area under the curve (AUC) 72 hours (µg/L) after surgery, and 3) cardiac troponin I (cTnI, ng/L) at 48 hours, 72 hours, and as area under the curve (AUC) 72 hours (µg/L) after surgery."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 studies involving 5392 participants (mean age = 64 years, age range 23 to 86 years, 82% male). However, few studies contributed data to meta-analyses due to inconsistency in outcome definition and reporting. In general, risk of bias varied from low to high risk of bias across included studies, and insufficient detail was provided to inform judgement in several cases. The quality of the evidence of key outcomes ranged from moderate to low quality due to the presence of moderate or high statistical heterogeneity, imprecision of results or due to limitations in the design of individual studies.\nCompared with no RIPC, we found that RIPC has no treatment effect on the rate of the composite endpoint with RR 0.99 (95% confidence interval (CI) 0.78 to 1.25); 2 studies; 2463 participants; moderate-quality evidence. Participants randomised to RIPC showed an equivalent or better effect regarding the amount of cTnT release measured at 72 hours after surgery with SMD -0.32 (95% CI -0.65 to 0.00); 3 studies; 1120 participants; moderate-quality evidence; and expressed as AUC 72 hours with SMD -0.49 (95% CI -0.96 to -0.02); 3 studies; 830 participants; moderate-quality evidence. We found the same result in favour of RIPC for the cTnI release measured at 48 hours with SMD -0.21 (95% CI -0.40 to -0.02); 5 studies; 745 participants; moderate-quality evidence; and measured at 72 hours after surgery with SMD -0.37 (95% CI -0.59 to -0.15); 2 studies; 459 participants; moderate-quality evidence. All other primary outcomes showed no differences between groups (cTnT release measured at 48 hours with SMD -0.14, 95% CI -0.33 to 0.06; 4 studies; 1792 participants; low-quality evidence and cTnI release measured as AUC 72 hours with SMD -0.17, 95% CI -0.48 to 0.14; 2 studies; 159 participants; moderate-quality evidence).\nWe also found no differences between groups for all-cause mortality after 30 days, non-fatal myocardial infarction after 30 days, any new stroke after 30 days, acute renal failure after 30 days, length of stay on the intensive care unit (days), any complications and adverse effects related to ischaemic preconditioning. We did not assess many patient-centred/salutogenic-focused outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence that RIPC has a treatment effect on clinical outcomes (measured as a composite endpoint including all-cause mortality, non-fatal myocardial infarction or any new stroke, or both, assessed at 30 days after surgery). There is moderate-quality evidence that RIPC has no treatment effect on the rate of the composite endpoint including all-cause mortality, non-fatal myocardial infarction or any new stroke assessed at 30 days after surgery, or both. We found moderate-quality evidence that RIPC reduces the cTnT release measured at 72 hours after surgery and expressed as AUC (72 hours). There is moderate-quality evidence that RIPC reduces the amount of cTnI release measured at 48 hours, and measured 72 hours after surgery. Adequately-designed studies, especially focusing on influencing factors, e.g. with regard to anaesthetic management, are encouraged and should systematically analyse the commonly used medications of people with cardiovascular diseases."
+    }
+  ],
+  "pls_title": "Effects of remote ischaemic preconditioning in patients undergoing coronary artery bypass graft surgery (with or without valve surgery)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of remote ischaemic preconditioning (RIPC, the temporary blockage of arterial blood flow to one arm or one leg before surgery after induction of anaesthesia) in people undergoing coronary artery bypass graft surgery with or without additional valve surgery."
+    },
+    {
+      "heading": "Background",
+      "text": "Coronary artery disease (CAD) results from progressive blockage of the coronary arteries. If coronary arteries are partly or fully blocked, they cannot supply the heart with enough oxygen. Symptoms of CAD include shortness of breath, pain in the upper body (e.g. arms, left shoulder, back, etc). CAD can be treated with medical therapy, percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG). Despite substantial improvements in surgical strategies, cardiac surgery is associated with severe complications. Several approaches have been implemented to reduce the risk during surgery (hypothermia, cardioplegic solutions, and the limitation of procedure times). These strategies have led to a pronounced reduction in mortality and morbidity, however, biomarkers of ischaemia indicate persisting postoperative myocardial damage. RIPC has been reported to reduce these biomarkers of ischaemia in people who undergo cardiac surgery. The aim of this systematic review was to assess whether this practice improves clinical outcomes."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases for randomised trials in which people scheduled for CABG (with or without valve surgery) were randomly assigned to receive RIPC or sham intervention before surgery. The evidence is current to May 2016. We did not identify any source of bias related to the funding of included studies."
+    },
+    {
+      "heading": "Key results",
+      "text": "We identified 29 studies involving 5392 participants (mean age = 64 years, age range 23 to 86 years, 82% male). RIPC does not improve clinical outcome in people undergoing CABG with or without valve surgery (measured as a composite endpoint including all-cause mortality, non-fatal myocardial infarction or any new stroke, or both, assessed at 30 days after surgery, moderate-quality evidence). There is moderate-quality evidence that RIPC reduces the amount of cardiac troponin T release measured at 72 hours and measured as AUC (72 hours). There is moderate-quality evidence that cardiac troponin I release measured at 48 hours and 72 hours after surgery is lower in the RIPC group than in the control group. Regarding troponin T measured at 48 hours and troponin I measured as AUC 72 hours after surgery there was no difference between groups (low- and moderate-quality evidence). However, this effect on biomarkers does not result in improved clinical outcome."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We used reliable methods to assess the quality of the trial evidence. The quality of the evidence of key outcomes ranged from moderate to low quality due to the presence of moderate or high statistical heterogeneity, imprecision of results or due to limitations in the design of individual studies."
+    }
+  ]
+}

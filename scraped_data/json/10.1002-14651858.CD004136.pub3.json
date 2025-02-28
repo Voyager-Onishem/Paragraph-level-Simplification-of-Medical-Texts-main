@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004136.pub3",
+  "name": "Antihypertensive agents for preventing diabetic kidney disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Various blood pressure-lowering agents, and particularly inhibitors of the renin-angiotensin system (RAS), are widely used for people with diabetes to prevent the onset of diabetic kidney disease (DKD) and adverse cardiovascular outcomes. This is an update of a Cochrane review first published in 2003 and updated in 2005."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This systematic review aimed to assess the benefits and harms of blood pressure lowering agents in people with diabetes mellitus and a normal amount of albumin in the urine (normoalbuminuria)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In January 2011 we searched the Cochrane Renal Group's Specialised Register through contact with the Trials Search Co-ordinator."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing any antihypertensive agent with placebo or another agent in hypertensive or normotensive patients with diabetes and no kidney disease (albumin excretion rate < 30 mg/d) were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two investigators independently extracted data on kidney and other patient-relevant outcomes (all-cause mortality and serious cardiovascular events), and assessed study quality. Analysis was by a random effects model was applied to analyse results which were expressed as risk ratio (RR) and 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 26 studies that enrolling 61,264 participants. Angiotensin-converting enzyme inhibitors (ACEi) reduced the risk of new onset of microalbuminuria, macroalbuminuria or both when compared to placebo (8 studies, 11,906 patients: RR 0.71, 95% CI 0.56 to 0.89), with similar benefits in people with and without hypertension (P = 0.74), and when compared to calcium channel blockers (5 studies, 1253 participants: RR 0.60, 95% CI 0.42 to 0.85). ACEi reduced the risk of death when compared to placebo (6 studies, 11,350 participants: RR 0.84, 95% CI 0.73 to 0.97). No effect was observed for angiotensin receptor blockers (ARB) when compared to placebo for new microalbuminuria, macroalbuminuria or both (5 studies, 7653 participants: RR 0.90, 95% CI 0.68 to 1.19) or death (5 studies, 7653 participants: RR 1.12, 95% CI 0.88 to 1.41); however, meta-regression suggested possible benefits from ARB for preventing kidney disease in high risk patients. There was a trend towards benefit from use of combined ACEi and ARB for prevention of DKD compared with ACEi alone (2 studies, 4171 participants: RR 0.88, 95% CI 0.78 to 1.00).The risk of cough was significantly increased with ACEi when compared to placebo (6 studies, 11,791 patients: RR 1.84, 95% CI 1.24 to 2.72), however there was no significant difference in the risk of headache or hyperkalaemia. There was no significant difference in the risk of cough, headache or hyperkalaemia when ARB was to placebo. On average risk of bias was judged to be either low (27% to 69%) or unclear (i.e. no information available) (8% to 73%). Blinding of participants, incomplete outcome data and selective reporting were judged to be high in 23%, 31% and 31% of studies, respectively."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "ACEi were found to prevent new onset DKD and death in normoalbuminuric people with diabetes, and could therefore be used in this population. More data are needed to clarify the role of ARB and other drug classes in preventing DKD."
+    }
+  ],
+  "pls_title": "Drugs for preventing kidney disease in people with diabetes",
+  "pls_type": "long",
+  "pls": "Many people with diabetes (around 20% to 60%) are are affected by high blood pressure (hypertension) and need drugs (antihypertensive agents) to treat this condition. These drugs also help to prevent development of kidney disease both in people with diabetes who have normal blood pressure and those whose blood pressure is high. Many people with diabetic kidney disease (DKD) (20% to 40%) go on to develop end-stage kidney disease (ESKD), and many others die from heart disease or other circulatory problems before ESKD develops.\nWe reviewed the literature to determine the benefits and harms of antihypertensive treatment in people with diabetes who did not have signs of kidney disease. We found 26 studies involving 61,264 participants that compared antihypertensive drugs with placebo (an neutral agent with no therapeutic benefits or harms), no treatment, and other antihypertensive drugs. A family of drugs called ACEi (angiotensin-converting enzyme inhibitors) has been shown to prevent new onset of kidney disease and reduce the numbers of deaths in people with diabetes who have normal levels of albumin in their urine compared with placebo or calcium channel blocking drugs. We found no significant effect from angiotensin receptor blocker (ARB) drugs on either development of ESKD or death.\nSubgroup analyses that suggested similar benefits from ARB for people with type 2 diabetes who were at high risk of heart disease or should be interpreted cautiously. Direct comparison of ACEi and ARB in this population showed no difference in preventing DKD. The benefits of ACEi are consistent, and ACEi could be the first choice intervention for primary prevention of DKD."
+}

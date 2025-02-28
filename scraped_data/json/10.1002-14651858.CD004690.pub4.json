@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD004690.pub4",
+  "name": "Cognitive behavioural therapy for anxiety disorders in children and adolescents",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A new Cochrane Review entitled 'Cognitive behavioural therapy for anxiety disorders in children and adolescents' was published on 16 November 2020 which supersedes this publication.\nCitation: James AC, Reardon T, Soler A, James G, Creswell C. Cognitive behavioural therapy for anxiety disorders in children and adolescents. Cochrane Database of Systematic Reviews 2020, Issue 11. Art. No.: CD013162. DOI: 10.1002/14651858.CD013162.pub2.\nA previous Cochrane review (James 2005) showed that cognitive behavioural therapy (CBT) was effective in treating childhood anxiety disorders; however, questions remain regarding (1) the relative efficacy of CBT versus non-CBT active treatments; (2) the relative efficacy of CBT versus medication and the combination of CBT and medication versus placebo; and (3) the long-term effects of CBT."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine (1) whether CBT is an effective treatment for childhood and adolescent anxiety disorders in comparison with (a) wait-list controls; (b) active non-CBT treatments (i.e. psychological placebo, bibliotherapy and treatment as usual (TAU)); and (c) medication and the combination of medication and CBT versus placebo; and (2) the long-term effects of CBT."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches for this review included the Cochrane Central Register of Controlled Trials (CENTRAL) and the Cochrane Depression, Anxiety and Neurosis Group Register, which consists of relevant randomised controlled trials from the bibliographic databases－The Cochrane Library (1970 to July 2012), EMBASE, (1970 to July 2012) MEDLINE (1970 to July 2012) and PsycINFO (1970 to July 2012)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) of CBT versus waiting list, active control conditions, TAU or medication were reviewed. All participants must have met the criteria of the Diagnostic and Statistical Manual (DSM) or the International Classification of Diseases (ICD) for an anxiety diagnosis, excluding simple phobia, obsessive-compulsive disorder, post-traumatic stress disorder and elective mutism."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The methodological quality of included trials was assessed by three reviewers independently. For the dichotomous outcome of remission of anxiety diagnosis, the odds ratio (OR) with 95% confidence interval (CI) based on the random-effects model, with pooling of data via the inverse variance method of weighting, was used. Significance was set at P < 0.05. Continuous data on each child’s anxiety symptoms were pooled using the standardised mean difference (SMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-one studies consisting of 1806 participants were included in the analyses. The studies involved children and adolescents with anxiety of mild to moderate severity in university and community clinics and school settings. For the primary outcome of remission of any anxiety diagnosis for CBT versus waiting list controls, intention-to-treat (ITT) analyses with 26 studies and 1350 participants showed an OR of 7.85 (95% CI 5.31 to 11.60, Z = 10.34, P < 0.0001), but with evidence of moderate heterogeneity (P = 0.05, I² = 30%). The number needed to treat (NNT) was 3.0 (95% CI 1.75 to 3.03). No difference in outcome was noted between individual, group and family/parental formats. ITT analyses revealed that CBT was no more effective than non-CBT active control treatments (six studies, 426 participants) or TAU in reducing anxiety diagnoses (two studies, 88 participants). The few controlled follow-up studies (n = 4) indicate that treatment gains in the remission of anxiety diagnosis are not statistically significant."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Cognitive behavioural therapy is an effective treatment for childhood and adolescent anxiety disorders; however, the evidence suggesting that CBT is more effective than active controls or TAU or medication at follow-up, is limited and inconclusive."
+    }
+  ],
+  "pls_title": "Cognitive behavioural therapy for anxiety in children and young people",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Many children and young people suffer from anxiety. Children and young people with anxiety are more likely to have difficulty with friendships, family life and school. Treatments for children and young people with anxiety can help to prevent them from developing mental health problems or drug and alcohol misuse in later life. Talking therapies such as cognitive behavioural therapy (CBT) can help children and young people to deal with anxiety by using new ways of thinking. Many parents and children prefer to try talking therapies rather than medication such as antidepressants."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "Parents, children and young people; people working in education; professionals working in mental health services for children and young people; and general practitioners."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "This review is an update of a previous Cochrane review from 2005, which showed that CBT is an effective treatment for children and young people with anxiety.\nThis update aims to answer the following questions:\n• Is CBT more effective than no therapy (waiting list)?\n• Is CBT more effective than other 'active' therapies such as self-help books aimed at children and young people?\n• Is CBT more effective than medication?\n• Does CBT help to reduce symptoms of anxiety for children and young people in the longer term?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "Search databases were used to find all high-quality studies of CBT for anxiety in children and young people published between 1970 and July 2012. To be included in the review, studies had to be randomised controlled trials and had to include children and young people with a clear diagnosis of anxiety.\nForty-one studies with a total of 1806 participants were included in the review. The review authors rated the overall quality of the studies as 'moderate'."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "CBT is significantly more effective than no therapy in reducing symptoms of anxiety in children and young people.\nNo clear evidence indicates that one way of providing CBT is more effective than another (e.g. in a group, individually, with parents).\nCBT is no more effective than other 'active therapies' such as self-help books.\nThe small number of studies meant the review authors could not compare CBT with medication.\nOnly four studies looked at longer-term outcomes after CBT. No clear evidence showed maintained improvement in symptoms of anxiety among children and young people."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "The review authors recommend that future research should look in greater detail at what makes CBT work best for children and young people, how CBT can be provided in the most cost-effective way, and how CBT can be adapted for different age groups."
+    }
+  ]
+}

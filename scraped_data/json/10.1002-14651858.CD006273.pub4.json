@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD006273.pub4",
+  "name": "Medically assisted hydration for adults receiving palliative care",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Many people receiving palliative care have reduced oral intake during their illness, and particularly at the end of their life. Management of this can include the provision of medically assisted hydration (MAH) with the aim of improving their quality of life (QoL), prolonging their life, or both. This is an updated version of the original Cochrane Review published in Issue 2, 2008, and updated in February 2011 and March 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of MAH compared with placebo and standard care, in adults receiving palliative care on their QoL and survival, and to assess for potential adverse events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched for studies in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, CANCERLIT, CareSearch, Dissertation Abstracts, Science Citation Index and the reference lists of all eligible studies, key textbooks, and previous systematic reviews. The date of the latest search conducted on CENTRAL, MEDLINE, and Embase was 17 November 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all relevant randomised controlled trials (RCTs) of studies of MAH in adults receiving palliative care aged 18 and above. The criteria for inclusion was the comparison of MAH to placebo or standard care."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently reviewed titles and abstracts for relevance, and two review authors extracted data and performed risk of bias assessment. The primary outcome was QoL using validated scales; secondary outcomes were survival and adverse events. For continuous outcomes, we measured the arithmetic mean and standard deviation (SD), and reported the mean difference (MD) with 95% confidence interval (CI) between groups. For dichotomous outcomes, we estimated and compared the risk ratio (RR) with 95% CIs between groups. For time-to-event data, we planned to calculate the survival time from the date of randomisation and to estimate and express the intervention effect as the hazard ratio (HR). We assessed the certainty of evidence using GRADE and created two summary of findings tables."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified one new study (200 participants), for a total of four studies included in this update (422 participants). All participants had a diagnosis of advanced cancer. With the exception of 29 participants who had a haematological malignancy, all others were solid organ cancers. Two studies each compared MAH to placebo and standard care. There were too few included studies to evaluate different subgroups, such as type of participant, intervention, timing of intervention, and study site. We considered one study to be at high risk of performance and detection bias due to lack of blinding; otherwise, risk of bias was assessed as low or unclear.\nMAH compared with placebo\nQuality of life\nOne study measured change in QoL at one week using Functional Assessment of Cancer Therapy - General (FACT-G) (scale from 0 to 108; higher score = better QoL). No data were available from the other study. We are uncertain whether MAH improves QoL (MD 4.10, 95% CI −1.63 to 9.83; 1 study, 93 participants, very low-certainty evidence).\nSurvival\nOne study reported on survival from study enrolment to last date of follow-up or death. We were unable to estimate HR. No data were available from the other study. We are uncertain whether MAH improves survival (1 study, 93 participants, very low-certainty evidence).\nAdverse events\nOne study reported on intensity of adverse events at two days using a numeric rating scale (scale from 0 to 10; lower score = less toxicity). No data were available from the other study. We are uncertain whether MAH leads to adverse events (injection site pain: MD 0.35, 95% CI −1.19 to 1.89; injection site swelling MD −0.59, 95% CI −1.40 to 0.22; 1 study, 49 participants, very low-certainty evidence).\nMAH compared with standard care\nQuality of life\nNo data were available for QoL.\nSurvival\nOne study measured survival from randomisation to last date of follow-up at 14 days or death. No data were available from the other study. We are uncertain whether MAH improves survival (HR 0.36, 95% CI 0.22 to 0.59; 1 study, 200 participants, very low-certainty evidence).\nAdverse events\nTwo studies measured adverse events at follow-up (range 2 to 14 days). We are uncertain whether MAH leads to adverse events (RR 11.62, 95% CI 1.62 to 83.41; 2 studies, 242 participants, very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Since the previous update of this review, we have found one new study. In adults receiving palliative care in the end stage of their illness, there remains insufficient evidence to determine whether MAH improves QoL or prolongs survival, compared with placebo or standard care. Given that all participants were inpatients with advanced cancer at end of life, our findings are not transferable to adults receiving palliative care in other settings, for non-cancer, dementia or neurodegenerative diseases, or for those with an extended prognosis. Clinicians will need to make decisions based on the perceived benefits and harms of MAH for each individual's circumstances, without the benefit of high-quality evidence to guide them."
+    }
+  ],
+  "pls_title": "Medically assisted hydration to assist people receiving palliative care",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the benefits and risks of the medical administration of fluids for adults at the end stage of illness?"
+    },
+    {
+      "heading": "Key messages",
+      "text": "- We are uncertain whether giving fluids through a drip either into a vein or under the skin, or via a tube into the stomach in the end stage of illness improves quality of life (well-being) compared to either standard care (good mouth care to alleviate the sensation of thirst) or placebo. A placebo is a 'dummy', or sham treatment that looks the same but contains a non-therapeutic amount of fluid.\n- We are uncertain whether medical administration of fluids increases the length of time people live or if it leads to unwanted or harmful effects.\n- We need more and better studies to investigate medical administration of fluids for people in the end stage of illness. Future studies should focus on better tests for determining if medical administration of fluids helps people, and on finding out when to start fluids and how much fluid will help, if any."
+    },
+    {
+      "heading": "Why supplement fluid intake in the end stage of illness?",
+      "text": "Palliative care is treatment, care, and support provided for people living with a life-limiting illness. Adults receiving palliative care can experience a reduced desire for oral fluids as they approach the end of life. At this time they may develop symptoms related to the reduction in fluid intake that could impair their quality of life. A further concern is that without supplemental fluids their life span may be reduced as a potential of dying from complications secondary to a reduced oral intake rather than their underlying disease."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether medically administered fluids help adults in the end stage of illness.\nWe were interested in the effect of medically administered fluids on:\n- the quality of life (well-being) of people;\n- how long they lived; and\n- the development of any unwanted or harmful effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated whether:\n- medically assisted fluids compared to placebo with non-therapeutic amounts of fluid; or\n- medically assisted fluids compared to standard care including good mouth care to alleviate the sensation of thirst\nwas effective and whether it caused any unwanted effects in adults over 18 years of age who were receiving palliative care in the end stage of illness.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 4 studies that involved a total of 422 people. Two studies compared medically administered fluids to placebo, and two compared medically administered fluids to standard care. The largest study was in 200 people, and the smallest study was in 42 people; studies lasted between 2 and 14 days. The age of people in the studies ranged from 28 to 98 years, of whom 226 were women and 196 were men. The studies were conducted in countries around the world, including the UK, the USA, and Argentina. Two studies were funded by clinical research grants. We found no studies where people did not have an advanced cancer diagnosis."
+    },
+    {
+      "heading": "Main results",
+      "text": "In adults receiving medically administered fluids in the end stage of illness, compared to placebo:\n- we are uncertain whether medically administered fluids improve quality of life;\n- we are uncertain whether medically administered fluids increase how long people live, and whether they lead to the development of any unwanted or harmful effects.\nIn people receiving medically administered fluids in the end stage of illness, compared to standard care:\n- we are uncertain whether medically administered fluids improve quality of life due to lack of information in the included studies;\n- we are uncertain whether medically administered fluids increase how long people lived, and whether they lead to the development of any unwanted or harmful effects."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are not confident in the evidence, and the results of further research could differ from the results of this review. Three main factors reduced our confidence in the evidence. Firstly, the evidence does not cover all of the people we were interested in, as we only found studies that included people with advanced cancer. Secondly, studies were very small and there are not enough studies to be certain about the results of our outcomes. Finally, it is possible that people in the studies were aware of which treatment they were getting, which could have introduced bias."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This review updates our previous review. The evidence is current to November 2022."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD008286.pub3",
+  "name": "Combined pharmacotherapy and behavioural interventions for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Both behavioural support (including brief advice and counselling) and pharmacotherapies (including nicotine replacement therapy (NRT), varenicline and bupropion) are effective in helping people to stop smoking. Combining both treatment approaches is recommended where possible, but the size of the treatment effect with different combinations and in different settings and populations is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of combining behavioural support and medication to aid smoking cessation, compared to a minimal intervention or usual care, and to identify whether there are different effects depending on characteristics of the treatment setting, intervention, population treated, or take-up of treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Specialised Register in July 2015 for records with any mention of pharmacotherapy, including any type of NRT, bupropion, nortriptyline or varenicline."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized or quasi-randomized controlled trials evaluating combinations of pharmacotherapy and behavioural support for smoking cessation, compared to a control receiving usual care or brief advice or less intensive behavioural support. We excluded trials recruiting only pregnant women, trials recruiting only adolescents, and trials with less than six months follow-up."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Search results were prescreened by one author and inclusion or exclusion of potentially relevant trials was agreed by two authors. Data was extracted by one author and checked by another.\nThe main outcome measure was abstinence from smoking after at least six months of follow-up. We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available. We calculated the risk ratio (RR) and 95% confidence interval (CI) for each study. Where appropriate, we performed meta-analysis using a Mantel-Haenszel fixed-effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty-three studies with a total of more than 25,000 participants met the inclusion criteria. A large proportion of studies recruited people in healthcare settings or with specific health needs. Most studies provided NRT. Behavioural support was typically provided by specialists in cessation counselling, who offered between four and eight contact sessions. The planned maximum duration of contact was typically more than 30 minutes but less than 300 minutes. Overall, studies were at low or unclear risk of bias, and findings were not sensitive to the exclusion of any of the six studies rated at high risk of bias in one domain. One large study (the Lung Health Study) contributed heterogeneity due to a substantially larger treatment effect than seen in other studies (RR 3.88, 95% CI 3.35 to 4.50). Since this study used a particularly intensive intervention which included extended availability of nicotine gum, multiple group sessions and long term maintenance and recycling contacts, the results may not be comparable with the interventions used in other studies, and hence it was not pooled in other analyses. Based on the remaining 52 studies (19,488 participants) there was high quality evidence (using GRADE) for a benefit of combined pharmacotherapy and behavioural treatment compared to usual care, brief advice or less intensive behavioural support (RR 1.83, 95% CI 1.68 to 1.98) with moderate statistical heterogeneity (I² = 36%).\nThe pooled estimate for 43 trials that recruited participants in healthcare settings (RR 1.97, 95% CI 1.79 to 2.18) was higher than for eight trials with community-based recruitment (RR 1.53, 95% CI 1.33 to 1.76). Compared to the first version of the review, previous weak evidence of differences in other subgroup analyses has disappeared. We did not detect differences between subgroups defined by motivation to quit, treatment provider, number or duration of support sessions, or take-up of treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Interventions that combine pharmacotherapy and behavioural support increase smoking cessation success compared to a minimal intervention or usual care. Updating this review with an additional 12 studies (5,000 participants) did not materially change the effect estimate. Although trials differed in the details of their populations and interventions, we did not detect any factors that modified treatment effects apart from the recruitment setting. We did not find evidence from indirect comparisons that offering more intensive behavioural support was associated with larger treatment effects."
+    }
+  ],
+  "pls_title": "Does a combination of stop smoking medication and behavioural support help smokers to stop?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Behavioural support (such as brief advice and counselling) and medications (including varenicline, bupropion, and nicotine replacement therapies like patches or gum) help people quit smoking. Many guidelines recommend combining medication and behavioural support to help people stop smoking, but it is unclear if some combinations are more effective than others, or if the combination of medication and behavioural support works better in some settings or groups than in others."
+    },
+    {
+      "heading": "Study Characteristics",
+      "text": "In July 2015 we searched for studies which tested combinations of behavioural support and medication to help smokers to stop compared to usual care or brief behavioural support. People who smoked were recruited mainly in health care settings. Some trials only enrolled people who said they wanted to try to quit at that time, but some included people who weren't planning to quit. Studies had to report how many people had stopped smoking after at least six months."
+    },
+    {
+      "heading": "Results",
+      "text": "We found 53 studies with a total of over 25,000 participants. One very large study found a large benefit. It gave intensive support including nicotine gum, multiple group sessions, and long term contact to help people stay quit or encourage additional quit attempts. Because it was not typical of most treatment programmes, it was not included when we estimated the likely benefit, although it shows that such intensive support can be very effective. Based on the remaining 52 studies, we found high quality evidence that using a combination of behavioural support and medication increases the chances of successfully quitting after at least six months. Combining the results suggests that the chance of success is increased by 70 to 100 percent compared to just brief advice or support. There was some evidence that the effect tended to be larger when participants were recruited in healthcare settings. There was no clear evidence that providing more contact increased the number of people who quit smoking at six months or longer. ."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011971.pub2",
+  "name": "Antihypertensive withdrawal for the prevention of cognitive decline",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Clinical trials and observational data have variously shown a protective, harmful or neutral effect of antihypertensives on cognitive function. In theory, withdrawal of antihypertensives could improve cerebral perfusion and reduce or delay cognitive decline. However, it is also plausible that withdrawal of antihypertensives may have a detrimental effect on cognition through increased incidence of stroke or other vascular events."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of complete withdrawal of at least one antihypertensive medication on incidence of dementia, cognitive function, blood pressure and other safety outcomes in cognitively intact and cognitive impaired adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS, the specialised register of the Cochrane Dementia and Cognitive Improvement Group, with additional searches conducted in MEDLINE, Embase, PsycINFO, CINAHL, LILACS, Web of Science Core Collection, ClinicalTrials.gov and the World Health Organization Portal/ICTRP on 12 December 2015. There were no language or date restrictions applied to the electronic searches, and no methodological filters were used to restrict the search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and controlled clinical trials (CCTs) provided they compared withdrawal of antihypertensive medications with continuation of the medications and included an outcome measure assessing cognitive function or a clinical diagnosis of dementia. We included studies with healthy participants, but we also included studies with participants with all grades of severity of existing dementia or cognitive impairment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors examined titles and abstracts of citations identified by the search for eligibility, retrieving full texts where needed to identify studies for inclusion, with any disagreement resolved by involvement of a third author. Data were extracted independently on primary and secondary outcomes. We used standard methodological procedures expected by Cochrane.\nThe primary outcome measures of interest were changes in global and specific cognitive function and incidence of dementia; secondary outcomes included change in systolic and diastolic blood pressure, mortality, adverse events (including cardiovascular events, hospitalisation and falls) and adherence to withdrawal. The quality of the evidence was evaluated using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two RCTs investigating withdrawal of antihypertensives in 2490 participants. There was substantial clinical heterogeneity between the included studies, therefore we did not combine data for our primary outcome. Overall, the quality of included studies was high and the risk of bias was low. Neither study investigated incident dementia.\nOne study assessed withholding previously prescribed antihypertensive drugs for seven days following acute stroke. Cognition was assessed using telephone Mini-Mental State Examination (t-MMSE) and Telephone Interview for Cognitive Status (TICS-M) at 90 days as a secondary outcome. The t-MMSE score was a mean of 1.0 point higher in participants who withdrew antihypertensive medications compared to participants who continued them (95% confidence interval (CI) 0.35 to 1.65; 1784 participants) and the TICS-M was a mean of 2.10 points higher (95% CI 0.69 to 3.51; 1784 participants). However, in both cases the evidence was of very low quality downgraded due to risk of bias, indirectness and evidence from a single study. The other study was community based and included participants with mild cognitive impairment. Drug withdrawal was for 16 weeks. Cognitive performance was assessed using a composite of at least five out of six cognitive tests. There was no evidence of a difference comparing participants who withdrew antihypertensive medications and participants who continued (mean difference 0.02 points, 95% CI -0.19 to 0.21; 351 participants). This evidence was of low quality and was downgraded due to risk of bias and evidence from single study.\nIn one study, the systolic blood pressure after seven days of withdrawal was 9.5 mmHg higher in the intervention compared to the control group (95% CI 7.43 to 11.57; 2095 participants) and diastolic blood pressure was 5.1 mmHg higher (95% CI 3.86 to 6.34; 2095 participants). This evidence was low quality, downgraded due to indirectness, because the data must be interpreted in the context of the wider study looking at glyceryl trinitrate administration or not, and evidence from a single study. In the other study, systolic blood pressure increased by 7.4 mmHg in the withdrawal group compared to the control group (95% CI 7.08 to 7.72; 356 participants) and diastolic blood pressure increased by 2.6 mmHg (95% CI 2.42 to 2.78; 356 participants). This was moderate quality evidence, downgraded as evidence was from a single study. We combined data for mortality and cardiovascular events. There was no clear evidence that antihypertensive medication withdrawal affected adverse events, although there was a possible trend to increased cardiovascular events in the large post-stroke study (pooled mortality risk ratio 0.88, 95% CI 0.72 to 1.08; 2485 participants; and cardiovascular events risk ratio 1.29, 95% CI 0.96 to 1.72). Certain prespecified outcomes of interest (falls, hospitalisation) were not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of withdrawing antihypertensive medications on cognition or prevention of dementia are uncertain. There was a signal of a positive effect in one study looking at withdrawal after acute stroke but these results are unlikely to be generalisable to non-stroke settings and were not a primary outcome of the study. Withdrawing antihypertensive drugs was associated with increased blood pressure. It is unlikely to increase mortality at three to four months' follow-up, although there was a signal from one large study looking at withdrawal after stroke that withdrawal was associated an increase in cardiovascular events."
+    }
+  ],
+  "pls_title": "Antihypertensive withdrawal for the prevention of cognitive decline",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Dementia and cognitive impairment are a global health concern which place a burden on patients and carers, and increase healthcare costs. Therefore, it is important to identify ways to prevent their occurrence. Previous research has suggested that withdrawal (stopping) of blood pressure lowering medicines might increase the blood flow to the brain and therefore prevent problems of memory and thinking in older age. In this review, we included clinical studies comparing the effects on memory and thinking of withdrawal of blood pressure lowering medicines versus continuation of these medicines."
+    },
+    {
+      "heading": "Included studies",
+      "text": "We found two relevant studies with 2490 participants. The two studies differed in a number of ways. One of the studies withdrew medicine for seven days immediately after a stroke, the other withdrew medicine for three months in older adults with early memory problems."
+    },
+    {
+      "heading": "Results",
+      "text": "The two studies did not report new cases of dementia, rather they described performance on standardised tests of memory and thinking. The older-adult study did not find a difference between the participants who stopped and participants who continued medicine. The stroke study found better test scores in participants who stopped medicine, but this must be interpreted with caution since this was measured in such a specific patient population. As expected, blood pressure rose in both studies in the groups that stopped their blood pressure lowering medicines, but there was no short-term increase in heart attacks, strokes or death."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "At present, there is not enough evidence to prove or disprove effects of stopping blood pressure medicines on memory and thinking."
+    }
+  ]
+}

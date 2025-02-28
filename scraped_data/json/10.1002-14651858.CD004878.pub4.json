@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004878.pub4",
+  "name": "Glucocorticoids for acute viral bronchiolitis in infants and young children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Previous systematic reviews have not shown clear benefit of glucocorticoids for acute viral bronchiolitis, but their use remains considerable. Recent large trials add substantially to current evidence and suggest novel glucocorticoid-including treatment approaches."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the efficacy and safety of systemic and inhaled glucocorticoids in children with acute viral bronchiolitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2012, Issue 12), MEDLINE (1950 to January week 2, 2013), EMBASE (1980 to January 2013), LILACS (1982 to January 2013), Scopus® (1823 to January 2013) and IRAN MedEx (1998 to November 2009)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing short-term systemic or inhaled glucocorticoids versus placebo or another intervention in children under 24 months with acute bronchiolitis (first episode with wheezing). Our primary outcomes were: admissions by days 1 and 7 for outpatient studies; and length of stay (LOS) for inpatient studies. Secondary outcomes included clinical severity parameters, healthcare use, pulmonary function, symptoms, quality of life and harms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data on study and participant characteristics, interventions and outcomes. We assessed risk of bias and graded strength of evidence. We meta-analysed inpatient and outpatient results separately using random-effects models. We pre-specified subgroup analyses, including the combined use of bronchodilators used in a protocol."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 trials (2596 participants); three had low overall risk of bias. Baseline severity, glucocorticoid schemes, comparators and outcomes were heterogeneous. Glucocorticoids did not significantly reduce outpatient admissions by days 1 and 7 when compared to placebo (pooled risk ratios (RRs) 0.92; 95% confidence interval (CI) 0.78 to 1.08 and 0.86; 95% CI 0.7 to 1.06, respectively). There was no benefit in LOS for inpatients (mean difference -0.18 days; 95% CI -0.39 to 0.04). Unadjusted results from a large factorial low risk of bias RCT found combined high-dose systemic dexamethasone and inhaled epinephrine reduced admissions by day 7 (baseline risk of admission 26%; RR 0.65; 95% CI 0.44 to 0.95; number needed to treat 11; 95% CI 7 to 76), with no differences in short-term adverse effects. No other comparisons showed relevant differences in primary outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence does not support a clinically relevant effect of systemic or inhaled glucocorticoids on admissions or length of hospitalisation. Combined dexamethasone and epinephrine may reduce outpatient admissions, but results are exploratory and safety data limited. Future research should further assess the efficacy, harms and applicability of combined therapy."
+    }
+  ],
+  "pls_title": "Glucocorticoids for acute viral bronchiolitis in infants and young children under two years of age",
+  "pls_type": "long",
+  "pls": "Bronchiolitis is the most common acute infection of the airways and lungs during the first years of life. It is caused by viruses, the most common being respiratory syncytial virus. The illness starts similar to a cold, with symptoms such as a runny nose, mild fever and cough. It later leads to fast, troubled and often noisy breathing (for example, wheezing). While the disease is often mild for most healthy babies and young children, it is a major cause of clinical illness and financial health burden worldwide. Hospitalisations have risen in high-income countries, there is substantial healthcare use and bronchiolitis may be linked with preschool wheezing disorders and the child later developing asthma.\nThere is variation in how physicians manage bronchiolitis, reflecting the absence of clear scientific evidence for any treatment approach. Anti-inflammatory drugs like glucocorticoids (for example, prednisolone or dexamethasone) have been used based on apparent similarities between bronchiolitis and asthma. However, no clear benefit of their use has been shown.\nOur systematic review found 17 controlled studies involving 2596 affected children that used these drugs for a short duration and assessed short-term outcomes. When comparing glucocorticoids to placebo, no differences were found for either hospital admissions or length of hospital stay. There was no substantial benefit in other health outcomes. These findings are consistent and likely to be applicable in diverse settings.\nExploratory results from one large high-quality trial suggest that combined treatment of systemic glucocorticoids (dexamethasone) and bronchodilators (epinephrine) may significantly reduce hospital admissions. There were no relevant short-term adverse effects that were any different from those seen with an inactive placebo, while long-term safety was not assessed. Further research is needed to confirm the efficacy, safety and applicability of this promising approach."
+}

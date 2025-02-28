@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006595.pub3",
+  "name": "Clinical pathways for chronic cough in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic cough (a cough lasting longer than four weeks) is a common problem internationally. Chronic cough has associated economic costs and is distressing to the child and to parents; ignoring cough may lead to delayed diagnosis and progression of serious underlying respiratory disease. Clinical guidelines have been shown to lead to efficient and effective patient care and can facilitate clinical decision making. Cough guidelines have been designed to facilitate the management of chronic cough. However, treatment recommendations vary, and specific clinical pathways for the treatment of chronic cough in children are important, as causes of and treatments for cough vary significantly from those in adults. Therefore, systematic evaluation of the use of evidence-based clinical pathways for the management of chronic cough in children would be beneficial for clinical practice and for patient care. Use of a management algorithm can improve clinical outcomes; such management guidelines can be found in the guidelines for cough provided by the American College of Chest Physicians (ACCP) and the British Thoracic Society (BTS)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of using a clinical pathway in the management of children with chronic cough."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE, EMBASE, review articles and reference lists of relevant articles were searched. The latest search was conducted in January 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials of parallel-group design comparing use versus non-use of a clinical pathway for treatment of chronic cough in children (< 18 years of age)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Results of searches were reviewed against predetermined criteria for inclusion. Two review authors independently selected studies and performed data extraction in duplicate."
+    },
+    {
+      "heading": "Main results",
+      "text": "One study was included in the review. This multi-centre trial was based in five Australian hospitals and recruited 272 children with chronic cough. Children were randomly assigned to early (two weeks) or delayed (six weeks) referral to respiratory specialists who used a cough management pathway. When an intention-to-treat analysis was performed, clinical failure at six weeks post randomisation (defined as < 75% improvement in cough score, or total resolution for fewer than three consecutive days) was significantly less in the early pathway arm compared with the control arm (odds ratio (OR) 0.35, 95% confidence interval (CI) 0.21 to 0.58). These results indicate that one additional child will be cured for every five children treated via the cough pathway (number needed to treat for an additional beneficial outcome (NNTB) = 5, 95% CI 3 to 9) at six weeks. Cough-specific parent-reported quality of life scores were significantly better in the early-pathway group; the mean difference (MD) between groups was 0.60 (95% CI 0.19 to 1.01). Duration of cough post randomisation was significantly shorter in the intervention group (early-pathway arm) compared with the control group (delayed-pathway arm) (MD -2.70 weeks, 95% CI -4.26 to -1.14)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence suggests that using a clinical algorithm for the management of children with chronic cough in hospital outpatient settings is more effective than providing wait-list care. Futher high-quality randomised controlled trials are needed to perform ongoing evaluation of cough management pathways in general practitioner and other primary care settings."
+    }
+  ],
+  "pls_title": "Clinical pathways for chronic cough in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Clinical pathways serve as a tool or algorithm (like a flow chart) that can be used in the treatment of patients with various chronic diseases. They provide a clear guide that assists doctors in diagnosing an illness and in making decisions with the patient about what treatment is needed or which specialists should be seen or tests ordered at each stage of progression of the disease. Overall the aim of clinical pathways is to provide efficient care for patients. Examples of patient decision aids are provided by the National Health Service (NHS) in the UK at http://www.rightcare.nhs.uk/index.php/shared-decision-making/about-the-pdas/.\nChronic cough in children is a significant medical problem that in some situations warrants thorough investigation. This review examined whether using clinical pathways was effective for evaluating and managing children with chronic cough (cough lasting longer than 4 weeks)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Only a single multi-centre study could be included in this review. Evidence is current to January 2014. This study was funded by the National Health and Medical Research Council of Australia."
+    },
+    {
+      "heading": "Key results",
+      "text": "This study of 272 children in five Australian hospitals reported that those randomly assigned to earlier treatment according to a clinical pathway showed improved clinical outcomes (cough resolved earlier and quality of life was better) compared with those who were randomly assigned to later use of the pathway. No adverse events were reported."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence was graded as moderate. Evidence is limited, as only one study could be included in this review. This study was unable to completely blind participants to the clinical pathway."
+    }
+  ]
+}

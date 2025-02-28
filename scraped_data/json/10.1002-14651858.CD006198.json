@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006198",
+  "name": "Vaccines for preventing malaria (pre‐erythrocytic)",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vaccines against all stages of the malaria parasite are in development, mainly for Plasmodium falciparum, which causes the most serious form of malaria. Pre-erythrocytic vaccines act to prevent or delay a malaria attack by attacking the sporozoite and liver stages before the parasite reaches the bloodstream."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of pre-erythrocytic malaria vaccines against any type of human malaria."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In March 2006, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2006, Issue 1), MEDLINE, EMBASE, LILACS, and the Science Citation Index. We also searched conference proceedings and reference lists of articles, and contacted organizations and researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials comparing pre-erythrocytic vaccines with placebo, control vaccine, or routine antimalarial control measures in people of any age receiving an artificial challenge or natural exposure to malaria infection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Both authors independently assessed trial quality and extracted data. Results of meta-analyses were expressed as risk ratios with 95% confidence intervals (CI) using an intention-to-treat analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine safety and efficacy trials, and two safety trials, with over 3000 participants were included. In semi-immune children, RTS,S vaccine reduced clinical episodes of malaria by 26% (95% CI 13% to 37%) and severe malaria by 58% (95% CI 15% to 79%) for up to 18 months. Prevalence of parasitaemia was also reduced by 26% (95% CI 11% to 38%) at six months after immunization. RTS,S also reduced clinical malaria episodes by 63% (95% CI 18% to 83%) in semi-immune adult men in the second year of follow up after a booster dose. No severe adverse events were judged to be related to RTS,S vaccine, although the frequencies of injection site pain, swelling, arm motion limitation, headache, and malaise were increased in the vaccine groups. There was no evidence for effect of the CS-NANP vaccines (307 participants, 3 trials), CS102 peptide vaccine (14 participants, 1 trial), or the ME-TRAP vaccine (372 participants, 1 trial)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "RTS,S vaccine was effective in preventing a significant number of clinical malaria episodes, including good protection against severe malaria in children for 18 months. No severe adverse events were attributable to the vaccine. Progression of this vaccine towards licensing is justified while efforts to increase its efficacy continue. The other vaccines do not look promising and further research is a priority."
+    }
+  ],
+  "pls_title": "Vaccines for preventing malaria in the pre-erythrocytic phase",
+  "pls_type": "long",
+  "pls": "Malaria is a parasitic disease spread by mosquitoes. It affects millions of people worldwide and causes significant illness and mortality. The symptoms of uncomplicated malaria include fever, headache, muscle pain, and vomiting; and children commonly present also with rapid breathing, cough, and convulsions. Severe malaria leads to unconsciousness and death. Uncomplicated malaria can almost always be cured with appropriate drugs, given soon after symptoms appear, but in small children in particular, progression and death can come within 48 hours. The hope − bolstered by several decades of increasingly promising research − remains that one or more vaccines to prevent malaria will augment the existing malaria control tools. The expectation is that successful vaccines will decrease malaria incidence, but because of the complexity of the organism and other factors, protection will not be complete. The malaria parasite develops through several phases in the human body that evoke different immunologic responses, and vaccines for all phases are under development. This review looks at vaccines targeted at the 'pre-erythrocytic' phase of the parasite's life, the phase before the parasites first enter the bloodstream from the liver. Trials of four types of vaccine against P. falciparum, the most important human malaria species, were available for this review. One of these (the RTS,S vaccine) significantly reduced the number of episodes of clinical malaria and severe malaria in children, while the other three vaccines were not effective under the conditions of the trials. No severe adverse events observed following the RTS,S vaccination were judged to be related to vaccination, though minor adverse events like headache, swelling, and malaise were."
+}

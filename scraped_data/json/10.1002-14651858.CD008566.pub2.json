@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008566.pub2",
+  "name": "Continuous renal replacement therapy (CRRT) for rhabdomyolysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Rhabdomyolysis is a condition that is characterised by the breakdown of skeletal muscle tissue and leakage of intracellular myocyte contents into circulating blood. Rhabdomyolysis can lead to acute kidney injury (AKI) and is a potentially life-threatening condition. Studies have indicated that continuous renal replacement therapy (CRRT) may provide benefits for people with rhabdomyolysis by removing potentially damaging myoglobin and stabilising haemodynamic and metabolic status."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to: i) assess the efficacy of CRRT in removing myoglobin; ii) investigate the influence of CRRT on mortality and kidney-related outcomes; and iii) evaluate the safety of CRRT for the treatment of people with rhabdomyolysis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 6 January 2014 through contact with the Trials' Search Co-ordinator using search terms relevant to this review. We also searched China National Knowledge Infrastructure (from 1 January 1979 to 16 April 2013) and the Chinese Clinical Trials Register (to 16 April 2013)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) and quasi-RCTs that investigated clinical outcomes of CRRT for people with rhabdomyolysis were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed studies for inclusion and extracted data. We derived risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI). Methodological risk of bias was assessed using the Cochrane risk of bias tool."
+    },
+    {
+      "heading": "Main results",
+      "text": "Of the three included studies (101 participants), one evaluated continuous arteriovenous haemodialysis and two investigated continuous venovenous haemofiltration; all included conventional therapy as control.\nWe found significant decreases in myoglobin in patients among whom CRRT therapy was initiated on days four, eight, and 10 (day 4: MD -11.00 (μg/L), 95% CI -20.65 to -1.35; Day 8: MD -23.00 (μg/L), 95% CI -30.92 to -15.08; day 10: MD -341.87 (μg/L), 95% CI -626.15 to -57.59) compared with those who underwent conventional therapy.\nAlthough CRRT was associated with improved serum creatinine, blood urea nitrogen, and potassium levels; reduced duration of the oliguria phase; and was associated with reduced time in hospital, no significant differences were found in mortality rates compared with conventional therapy (RR 0.17, 95% CI 0.02 to 1.37). The included studies did not report on long-term outcomes or prevention of AKI.\nOverall, we found that study quality was suboptimal: blinding and randomisation allocation were not reported by any of the included studies, leading to the possibility of selection, performance and detection bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although CRRT may provide some benefits for people with rhabdomyolysis, the poor methodological quality of the included studies and lack of data relating to clinically important outcomes limited our findings about the effectiveness of CRRT for people with rhabdomyolysis.\nThere was insufficient evidence to discern any likely benefits of CRRT over conventional therapy for people with rhabdomyolysis and prevention of rhabdomyolysis-induced AKI."
+    }
+  ],
+  "pls_title": "Is continuous renal replacement therapy beneficial for people with rhabdomyolysis?",
+  "pls_type": "long",
+  "pls": "Rhabdomyolysis is a potentially life-threatening condition where damaged muscle tissue breaks down quickly, and products of damaged muscle cells are released into the bloodstream. Of these products, a protein called myoglobin is harmful to kidney health and can lead to acute kidney injury. There is some evidence to suggest that continuous renal replacement therapy (CRRT) may provide benefits for people with rhabdomyolysis.\nWe searched the literature published before 6 January 2014, and after assessment, included three small studies that involved 101 participants. Our analysis found that although CRRT showed limited advantages over conventional treatment to improve some aspects of kidney function and muscle tissue loss, we found no significant benefits in reducing risk of death.\nThe small body of available evidence demonstrated poor methodological quality, and was insufficient to enable us to make any robust conclusions about the effectiveness of CRRT for people with rhabdomyolysis. Larger and better designed studies would be needed to investigate if CRRT is beneficial for people with rhabdomyolysis."
+}

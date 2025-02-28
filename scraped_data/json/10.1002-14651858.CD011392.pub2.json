@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011392.pub2",
+  "name": "Management strategies for pancreatic pseudocysts",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pancreatic pseudocysts are walled-off peripancreatic fluid collections. There is considerable uncertainty about how pancreatic pseudocysts should be treated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of different management strategies for pancreatic pseudocysts."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library 2015, Issue 9, and MEDLINE, EMBASE, Science Citation Index Expanded, and trials registers until September 2015. We also searched the references of included trials and contacted trial authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We only considered randomised controlled trials (RCTs) of people with pancreatic pseudocysts, regardless of size, presence of symptoms, or aetiology. We placed no restrictions on blinding, language, or publication status of the trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently identified trials and extracted data. We calculated the odds ratio (OR) and mean difference (MD) with 95% confidence intervals (CI) with RevMan 5, based on an available-case analysis for direct comparisons, using fixed-effect and random-effect models. We also conducted indirect comparisons (rather than network meta-analysis), since there were no outcomes for which direct and indirect evidence were available."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four RCTs, with 177 participants, in this review. After one participant was excluded, 176 participants were randomised to endoscopic ultrasound (EUS)-guided drainage (88 participants), endoscopic drainage (44 participants), EUS-guided drainage with nasocystic drainage (24 participants), and open surgical drainage (20 participants). The comparisons included endoscopic drainage versus EUS-guided drainage (two trials), EUS-guided drainage with nasocystic drainage versus EUS-guided drainage alone (one trial), and open surgical drainage versus EUS-guided drainage (one trial). The participants were mostly symptomatic, with pancreatic pseudocysts resulting from acute and chronic pancreatitis of varied aetiology. The mean size of the pseudocysts ranged between 70 mm and 155 mm across studies. Although the trials appeared to include similar types of participants for all comparisons, we were unable to assess this statistically, since there were no direct and indirect results for any of the comparisons.\nAll the trials were at unclear or high risk of bias, and the overall quality of evidence was low or very low for all outcomes. One death occurred in the endoscopic drainage group (1/44; 2.3%), due to bleeding. There were no deaths in the other groups. The differences in the serious adverse events were imprecise. Short-term health-related quality of life (HRQoL; four weeks to three months) was worse (MD -21.00; 95% CI -33.21 to -8.79; participants = 40; studies = 1; range: 0 to 100; higher score indicates better) and the costs were higher in the open surgical drainage group than the EUS-guided drainage group (MD 8040 USD; 95% CI 3020 to 13,060; participants = 40; studies = 1). There were fewer adverse events in the EUS-guided drainage with nasocystic drainage group than in the EUS-guided drainage alone (OR 0.20; 95% CI 0.06 to 0.73; participants = 47; studies = 1), or the endoscopic drainage group (indirect comparison: OR 0.08; 95% CI 0.01 to 0.61). Participants with EUS-guided drainage with nasocystic drainage also had shorter hospital stays compared to EUS-guided drainage alone (MD -8.10 days; 95% CI -9.79 to -6.41; participants = 47; studies = 1), endoscopic drainage (indirect comparison: MD -7.10 days; 95% CI -9.38 to -4.82), or open surgical drainage group (indirect comparison: MD -12.30 days; 95% CI -14.48 to -10.12). The open surgical drainage group had longer hospital stays than the EUS-guided drainage group (MD 4.20 days; 95% CI 2.82 to 5.58; participants = 40; studies = 1); the endoscopic drainage group had longer hospital stays than the open drainage group (indirect comparison: -5.20 days; 95% CI -7.26 to -3.14). The need for additional invasive interventions was higher for the endoscopic drainage group than the EUS-guided drainage group (OR 11.13; 95% CI 2.85 to 43.44; participants = 89; studies = 2), and the open drainage group (indirect comparison: OR 23.69; 95% CI 1.40 to 400.71). The differences between groups were imprecise for the other comparisons that could be performed. None of the trials reported long-term mortality, medium-term HRQoL (three months to one year), long-term HRQoL (longer than one year), time-to-return to normal activities, or time-to-return to work."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Very low-quality evidence suggested that the differences in mortality and serious adverse events between treatments were imprecise. Low-quality evidence suggested that short-term HRQoL (four weeks to three months) was worse, and the costs were higher in the open surgical drainage group than in the EUS-guided drainage group. Low-quality or very low-quality evidence suggested that EUS-guided drainage with nasocystic drainage led to fewer adverse events than EUS-guided or endoscopic drainage, and shorter hospital stays when compared to EUS-guided drainage, endoscopic drainage, or open surgical drainage, while EUS-guided drainage led to shorter hospital stays than open surgical drainage. Low-quality evidence suggested that there was a higher need for additional invasive procedures with endoscopic drainage than EUS-guided drainage, while it was lower in the open surgical drainage than in the endoscopic drainage group.\nFurther RCTs are needed to compare EUS-guided drainage, with or without nasocystic drainage, in symptomatic patients with pancreatic pseudocysts that require treatment. Future trials should include patient-oriented outcomes such as mortality, serious adverse events, HRQoL, hospital stay, return-to-normal activity, number of work days lost, and the need for additional procedures, for a minimum follow-up period of two to three years."
+    }
+  ],
+  "pls_title": "Treatment methods for people with pancreatic pseudocysts (fluid collections around the pancreas)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How should people with pancreatic pseudocysts be treated?"
+    },
+    {
+      "heading": "Background",
+      "text": "The pancreas is an abdominal organ that secretes several digestive enzymes (substances that enable and speed up chemical reactions in the body) into the pancreatic ductal system, which empties into the small bowel. It also contains the Islets of Langerhans, which secrete several hormones, including insulin (that helps to regulate blood sugar). Pancreatic pseudocysts are fluid collections around the pancreas. They arise due to sudden or long-standing inflammation of the pancreas. While some will disappear when the inflammation of the pancreas settles down, others remain and cause symptoms such as abdominal pain, indigestion, vomiting, and weight loss. Treatments of pancreatic pseudocysts include conservative treatment (watchful monitoring), surgical drainage, which can be performed through a standard cut (open surgical drainage) or by key-hole surgery (laparoscopic surgical drainage), or endoscopic drainage. In endoscopic drainage, a tube (stent) is inserted with the help of an endoscope (a tube passed through the mouth into the stomach, usually to visualise the abdominal organs from inside the body), that connects the pseudocyst to the stomach or the upper part of the small intestine. The insertion may be further helped by using an endoscopic ultrasound (an ultrasound probe attached to the endoscope; EUS-guided drainage). Endoscopic ultrasound-guided drainage may be further assisted by passing a tube through the nose and inserting it into the cyst during EUS-guided drainage (EUS-guided drainage with nasocystic drainage). The best way to treat pancreatic pseudocysts is not clear. We sought to resolve this by searching for existing studies on the topic. We included all randomised controlled trials whose results were reported up to 8 September 2015. Apart from using standard Cochrane methods, which allow comparison of only two treatments at a time (direct comparison), we used advanced methods, which allow individual comparison of the different treatments compared in the trials (indirect comparison)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included four trials, with 177 participants, in the review, 176 of whom were included in the analyses. The treatments compared in the four trials included endoscopic drainage (without EUS guidance), EUS-guided drainage, EUS-guided drainage with nasocystic drainage, and open surgical drainage. The participants were mostly people with pancreatic pseudocysts resulting from sudden onset or long-term inflammation of the pancreas, from different causes."
+    },
+    {
+      "heading": "Key results",
+      "text": "One death occurred in the endoscopic drainage group, due to bleeding. The differences in the serious complications were imprecise. Short-term health-related quality of life (HRQoL; four weeks to three months) was worse, and the costs were higher in the open surgical drainage group than in the EUS-guided drainage group. There were fewer complications of any severity (such as bleeding) that required additional treatment in the EUS-guided drainage with nasocystic drainage group than in the EUS-guided drainage alone or endoscopic drainage groups. Those who received EUS-guided drainage with nasocystic drainage also had a shorter hospital stay compared to those who received EUS-guided drainage alone, endoscopic drainage, or open surgical drainage. Those who received EUS-guided drainage alone had shorter hospital stays than those with open surgical drainage. There was a higher need for additional invasive treatments to completely drain the pseudocyst with endoscopic drainage than EUS-guided drainage alone. The differences for the other comparisons were imprecise. None of the trials reported long-term deaths, medium-term or long-term HRQoL, time-to-return to normal activities, or time-to-return to work."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The overall quality of evidence was low or very low for all the outcomes, because the trials were small and at high risk of bias (for example, prejudice of people who conduct the trial, and trial participants who prefer one treatment over another). As a result, further studies are required on this topic. Such studies should compare EUS-guided drainage with or without nasocystic drainage in people who have symptoms from their pancreatic pseudocysts and need treatment. Such trials should measure patient-oriented outcomes for a minimum follow-up period of two to three years."
+    }
+  ]
+}

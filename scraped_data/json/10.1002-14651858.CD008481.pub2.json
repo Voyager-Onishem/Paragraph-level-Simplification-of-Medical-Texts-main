@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008481.pub2",
+  "name": "Continuous versus intermittent infusions of antibiotics for the treatment of severe acute infections ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Intravenous broad–spectrum antibiotics are indicated for the treatment of severe infections. However, the emergence of infections caused by multiple-drug resistant organisms in conjunction with a lack of novel antibiotics has prompted the investigation of alternative dosing strategies to improve clinical efficacy and tolerability. To optimise pharmacokinetic and pharmacodynamic antibiotic parameters, continuous antibiotic infusions have been compared with traditional intermittent antibiotic infusions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the clinical efficacy and safety of continuous intravenous administration of concentration–dependent and time–dependent antibiotics with traditional intermittent intravenous administration in adults with severe acute bacterial infections."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The following electronic databases were searched in September 2012: The Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), The Cochrane Library, MEDLINE (OvidSP), EMBASE (OvidSP), CINAHL, ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED), and ISI Web of Science: Conference Proceedings Citation Index-Science (CPCI-S). The reference lists of all relevant materials, the Internet, and the trials registry www.clinicaltrials.gov for completed and ongoing trials were also searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials in adults with a bacterial infection requiring intravenous antibiotic therapy comparing continuous versus intermittent infusions of antibiotics were included. Both time–dependent and concentration–dependent antibiotics were considered."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three independent authors performed data extraction for the included studies. All data were cross–checked and disagreements resolved by consensus. An intention-to-treat analysis was conducted using a random–effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty–nine studies met inclusion criteria with a combined total of more than 1600 participants. Most included studies were judged to be at unclear or high risk of bias with regard to randomisation sequence generation, allocation concealment, blinding, management of incomplete outcome data, selective outcome reporting, and other potential threats to validity. No studies were judged to be at low risk of bias for all methodological quality items assessed. No differences in all–cause mortality (n = 1241, risk ratio (RR) 0.89, 95% confidence interval (CI) 0.67 to 1.20, P = 0.45), infection recurrence (n = 398, RR 1.22, 95% CI 0.35 to 4.19, P = 0.76), clinical cure (n = 975, RR 1.00, 95% CI 0.93 to 1.08, P = 0.98), and super-infection post–therapy (n = 813, RR 1.08, 95% CI 0.60 to 1.94, P = 0.79) were reported, nor were any differences observed in safety outcomes, including adverse events (n = 575, RR 1.02, 95% CI 0.94 to 1.12, P = 0.63), serious adverse events (n = 871, RR 1.36, 95% CI 0.80 to 2.30, P = 0.26), and withdrawals due to adverse events (n = 871, RR 2.03, 95% CI 0.52 to 7.95, P = 0.31). A difference was observed in subgroup analyses of clinical cure in septic versus non-septic participants, in which intermittent antibiotic infusions were favoured for clinical cure in septic participants. However, this effect was not consistent between random-effects and fixed-effect analyses. No differences were noted in the sensitivity analyses conducted."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No differences in mortality, infection recurrence, clinical cure, super-infection post–therapy, and safety outcomes were reported when continuous infusions of intravenous antibiotics were compared with traditional intermittent infusions of antibiotics. However, the wide confidence intervals suggest that beneficial or harmful effects cannot be ruled out for all outcomes. Therefore, the current evidence is insufficient to recommend the widespread adoption of continuous infusion antibiotics in the place of intermittent infusions of antibiotics. Additinal large prospective randomised trials, with consistent and complete reporting of clinical outcome measures, conducted with concurrent pharmacokinetic and pharmacodynamic studies in special populations, are required to determine whether adoption of continuous antibiotic infusions is warranted in specific circumstances."
+    }
+  ],
+  "pls_title": "Alternative dosing strategies for intravenous antibiotics to treat severe infections",
+  "pls_type": "long",
+  "pls": "Intravenous (through the vein) antibiotics are used to treat severe bacterial infections. Currently, the most common way to administer intravenous antibiotics is by intermittent infusion, whereby an antibiotic is infused into a patient over 30 minutes to 1 hour multiple times per day during the course of treatment. To optimise the efficacy and potentially the safety of these antibiotics, alternative dosing strategies have been studied. One proposed strategy is to administer intravenous antibiotics by continuous or extended infusions over 3 to 24 hours.\nTwenty–nine randomised trials comprising more than 1600 participants were reviewed to study the effects of continuous infusion antibiotics versus intermittent infusion antibiotics. When mortality, infection recurrence, clinical cure, super-infection after treatment, and safety concerns were considered, no differences between the two dosing strategies were noted.\nThe authors conclude that because continuous antibiotic infusions provide no benefit over standard intermittent infusions, they cannot recommend continuous antibiotic infusions for widespread use."
+}

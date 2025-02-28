@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013343.pub2",
+  "name": "Immunostimulants versus placebo for preventing exacerbations in adults with chronic bronchitis or chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Individuals with chronic obstructive pulmonary disease (COPD) or chronic bronchitis may experience recurrent exacerbations, which negatively impact prognosis and quality of life, and can impose a significant socioeconomic burden on the individual and wider society. Immunostimulants are a broad category of therapies that may theoretically enhance non-specific immunity against several respiratory insults, thereby reducing exacerbation risk and severity. However, evidence to date for their use in this population is limited."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of immunostimulants in preventing respiratory exacerbations in adults with chronic obstructive pulmonary disease, chronic bronchitis, or both."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest literature search was conducted on 25 January 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs) that compared immunostimulant therapy, administered by any method and with the intention of preventing (rather than treating) exacerbations, with placebo for a minimum treatment duration of one month in adults with chronic bronchitis or COPD, or both. We excluded participants with other respiratory conditions."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were number of participants with no exacerbations during the study period and all-cause mortality, secondary outcomes were respiratory-related mortality, quality of life, number of participants requiring antibiotics, exacerbation duration, respiratory-related hospitalisation duration and adverse events/side effects. We used GRADE to assess certainty of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review included 36 studies involving 6192 participants. Studies were published between 1981 and 2015. Duration ranged from three to 14 months. The mean age of study participants varied between 35.2 and 82 years. Twelve studies examined participants with COPD only. Seventeen studies reported baseline lung function values; most indicated a moderate-to-severe degree of airflow limitation. Nineteen studies indicated inclusion of participants with a mean baseline exacerbation frequency of two or more in the preceding year. Immunostimulants investigated were OM-85, AM3, RU41740 (Biostim), Ismigen, Diribiotine CK, thymomodulin, pidotimod, D53 (Ribomunyl), Lantigen B, Symbioflor, and hyaluronan; routes of administration were oral, sublingual, and subcutaneous. The risk of bias of the included studies was mostly low or unclear.\nParticipants receiving immunostimulants for a mean duration of six months were slightly more likely to be free of exacerbations during that time (odds ratio (OR) 1.48, 95% confidence interval (CI) 1.15 to 1.90; 15 RCTs, 2961 participants; moderate-certainty evidence). The overall number needed to treat with immunostimulants for a mean of six months, to prevent one participant from experiencing an exacerbation, was 11 (95% CI 7 to 29). This outcome was associated with a moderate degree of unexplained heterogeneity (I2 = 53%). Type of immunostimulant, baseline lung function, baseline exacerbation frequency, treatment duration, and follow-up duration did not modify the effect size, although due to heterogeneity and limited study and participant numbers within some subgroups, the validity of the subgroup treatment effect estimates were uncertain.\nImmunostimulants probably result in little to no difference in all-cause mortality (OR 0.64, 95% CI 0.37 to 1.10; 5 RCTs, 1558 participants; moderate-certainty evidence) and respiratory-related mortality (OR 0.40, 95% CI 0.15 to 1.07; 2 RCTs, 735 participants; low-certainty evidence) compared to placebo; however, the effects were imprecise and data quality limited the certainty of these results.\nThere was a small improvement in health-related quality of life, as measured by the St George's Respiratory Questionnaire (SGRQ), with immunostimulant compared to placebo (mean difference −4.59, 95% CI −7.59 to −1.59; 2 RCTs, 617 participants; very-low certainty evidence). The effect estimate just met the minimum clinically important difference (MCID) score of 4 units; however, the CI width means the possibility of a non-meaningful difference cannot be excluded.\nThe pooled result from five studies indicated that immunostimulants likely reduce the number of participants requiring antibiotics over a mean duration of six months (OR 0.34, 95% CI 0.18 to 0.63; 542 participants; moderate-certainty evidence). This outcome had a low-to-moderate degree of heterogeneity (I2 = 38%), but the direction of effect was consistent across all studies.\nThere was no evidence of a difference in the odds of experiencing an adverse event with immunostimulant compared to placebo, over a mean duration of six months (OR 1.01, 95% CI 0.84 to 1.21; 20 RCTs, 3780 participants; high-certainty evidence). The CI limits for the associated risk ratio (RR) did not cross thresholds for appreciable harm or benefit (RR 1.02, 95% CI 0.92 to 1.13). An additional seven studies reported no events rates in either study arm.\nMeta-analyses were not performed for the outcomes of exacerbation duration and respiratory-related hospitalisation duration, due to high levels of heterogeneity across the included studies (exacerbation duration: I2 = 92%; respiratory-related hospitalisation duration: I2 = 83%). Results from an effect direction plot and binomial probability test for exacerbation duration indicated that a significant proportion of studies (94% (95% CI 73% to 99%); P = 0.0002) favoured intervention, possibly indicating that immunostimulants are efficacious in reducing the mean exacerbation duration compared to placebo. However, the degree of uncertainty associated with this estimate remained high due to data quality and heterogeneity. Three studies reported mean duration of respiratory-related hospitalisation, two of which demonstrated a direction of effect that favoured immunostimulant over placebo."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In participants with chronic bronchitis or COPD, we are moderately confident that treatment with immunostimulants is associated with a small reduction in the likelihood of having an exacerbation and a moderate reduction in the requirement for antibiotics. Low numbers of events limit interpretation of the effect of immunostimulants on all-cause and respiratory-related mortality. We are uncertain whether immunostimulants improve quality of life, and whether they are associated with a reduction in exacerbation and respiratory-related hospitalisation durations, although immunostimulants were generally associated with a positive effect direction in the studies that examined these outcomes. Immunostimulants appear to be safe and well-tolerated, and are not associated with an increased risk of adverse events."
+    }
+  ],
+  "pls_title": "Is taking an immunostimulant on top of standard medications beneficial for people with chronic obstructive pulmonary disease, chronic bronchitis, or both?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "1. In people with chronic bronchitis or COPD, immunostimulants probably reduce the likelihood of a person having an exacerbation and of requiring antibiotics for an exacerbation.\n2. We are uncertain about the effect of immunostimulants on reducing the risk of death, improving quality of life, or on reducing the duration of flare-ups or hospital stays.\n3. Immunostimulants are not associated with an increased risk of side effects."
+    },
+    {
+      "heading": "What are chronic obstructive pulmonary disease and chronic bronchitis?",
+      "text": "Chronic obstructive pulmonary disease (COPD) and chronic bronchitis are common conditions that permanently affect the airways of the lungs. They are mainly caused by exposure to cigarette smoke or other air pollutants. People with COPD or chronic bronchitis may develop persistent symptoms of breathlessness, cough, and phlegm production, and are prone to flare-ups (exacerbations) of these symptoms. Flare-ups can be debilitating, worsen lung function over time, and cause further exacerbations. Several standard treatments exist to help prevent flare-ups, which are recommended in almost all people who have a diagnosis of COPD. These mainly include quitting smoking, participating in exercise programmes, obtaining vaccinations to prevent infection, and using specific medications through an inhaler device."
+    },
+    {
+      "heading": "What are immunostimulants?",
+      "text": "Immunostimulants are a type of medication that are not widely used for the long-term management of COPD or chronic bronchitis. Some scientists and doctors have suggested that immunostimulants, added to standard treatment, may help reduce the frequency and severity of flare-ups in this patient group, by boosting the immune system response to triggers for exacerbations (such as infection with viruses or bacteria)."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether giving an immunostimulant medication, on top of standard treatment, reduced the frequency of flare-ups in adults with COPD or chronic bronchitis. We also wanted to know whether immunostimulants reduced the risk of death, improved quality of life, and reduced the duration and severity of flare-ups."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies involving adults with COPD or chronic bronchitis or both, that took place over at least 12 weeks. Studies must have randomly divided participants into receiving either an immunostimulant or placebo (inactive replacement for a medicine), and directly compared the two groups. We included immunostimulants of any type and route of administration, although we did have prespecified criteria as to what constituted an 'immunostimulant' due to this term being relatively broad."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 36 studies involving 6192 participants. These looked at a variety of immunostimulants over durations that ranged from three to 14 months.\nResults showed that participants receiving immunostimulants were slightly more likely to be free of exacerbations over an average duration of six months, compared to those who had received placebo. Treating 11 people with immunostimulants for six months would prevent one person from experiencing a flare-up. We also found that immunostimulants likely reduced the number of participants requiring antibiotics for a flare-up. Immunostimulants appeared to be safe, well-tolerated, and not associated with an increased risk of side effects.\nThe impact of immunostimulants on death, quality of life, duration of flare-ups, and the duration of hospital stays due to a flare-up was unclear. Immunostimulants were generally favoured over placebo in most studies that looked at these outcomes."
+    },
+    {
+      "heading": "What were the limitations of the evidence?",
+      "text": "Overall, we are moderately confident in these results. Our confidence was reduced by how different some results looked between studies, the small number of studies included in some analyses, and in some instances by not having enough data or participant numbers to determine whether immunostimulants were truly better or the same as placebo."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is up-to-date to January 2022."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000313.pub6",
+  "name": "Discharge planning from hospital",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Discharge planning is a routine feature of health systems in many countries that aims to reduce delayed discharge from hospital, and improve the co-ordination of services following discharge from hospital and reduce the risk of hospital readmission. This is the fifth update of the original review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of planning the discharge of individual patients moving from hospital."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase and two trials registers on 20 April 2021. We searched two other databases up to 31 March 2020. We also conducted reference checking, citation searching and contact with study authors to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials that compared an individualised discharge plan with routine discharge that was not tailored to individual participants. Participants were hospital inpatients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently undertook data analysis and quality assessment using a pre-designed data extraction sheet. We grouped studies by older people with a medical condition, people recovering from surgery, and studies that recruited participants with a mix of conditions. We calculated risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous data using fixed-effect meta-analysis. When combining outcome data it was not possible because of differences in the reporting of outcomes, we summarised the reported results for each trial in the text."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 33 trials (12,242 participants), four new trials included in this update. The majority of trials (N = 30) recruited participants with a medical diagnosis, average age range 60 to 84 years; four of these trials also recruited participants who were in hospital for a surgical procedure. Participants allocated to discharge planning and who were in hospital for a medical condition had a small reduction in the initial hospital length of stay (MD − 0.73, 95% confidence interval (CI) − 1.33 to − 0.12; 11 trials, 2113 participants; moderate-certainty evidence), and a relative reduction in readmission to hospital over an average of three months follow-up (RR 0.89, 95% CI 0.81 to 0.97; 17 trials, 5126 participants; moderate-certainty evidence). There was little or no difference in participant's health status (mortality at three- to nine-month follow-up: RR 1.05, 95% CI 0.85 to 1.29; 8 trials, 2721 participants; moderate certainty) functional status and psychological health measured by a range of measures, 12 studies, 2927 participants;  low certainty evidence). There was some evidence that satisfaction might be increased for patients (7 trials), caregivers (1 trial) or healthcare professionals (2 trials) (very low certainty evidence). The cost of a structured discharge plan compared with routine discharge is uncertain (7 trials recruiting 7873 participants with a medical condition; very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "A structured discharge plan that is tailored to the individual patient probably brings about a small reduction in the initial hospital length of stay and readmissions to hospital for older people with a medical condition, may slightly increase patient satisfaction with healthcare received. The impact on patient health status and healthcare resource use or cost to the health service is uncertain."
+    }
+  ],
+  "pls_title": "Discharge planning from hospital",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review",
+      "text": "The aim of this review was to find out if discharge planning that is tailored to an individual improves the quality of health care delivered by reducing delayed discharge from hospital, reducing transfer back to hospital and improving patients' health status. We also wanted to know how much the intervention cost. We collected and analysed all relevant studies to answer this question. This is the fifth update of the original review."
+    },
+    {
+      "heading": "Key messages",
+      "text": "When people leave hospital with a personalised discharge plan there is probably a small reduction in length of stay, they are probably slightly less likely to be admitted to hospital after their discharge from hospital. There is little evidence on the impact on patient health status, patient satisfaction with the care received. The cost of discharge planning is uncertain."
+    },
+    {
+      "heading": "What was studied in the review",
+      "text": "Discharge planning is the development of a personalised plan that assesses a patient's health and social care needs prior to them leaving hospital, to support the timely transition between hospital and home or another setting and improve the organisation of post-discharge services."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found 33 trials that compared personalised discharge plans versus standard discharge care. This review indicates that a personalised discharge plan probably leads to a very small reduction in hospital length of stay and probably slightly reduces readmission rates for people who were admitted to hospital with a medical condition, and may increase patient satisfaction. There is little evidence on health status, or the cost of discharge planning to the health service."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to April 2021."
+    }
+  ]
+}

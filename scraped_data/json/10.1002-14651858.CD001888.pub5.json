@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/14651858.CD001888.pub5",
+  "name": "Cell salvage for minimising perioperative allogeneic blood transfusion in adults undergoing elective surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Concerns regarding the safety and availability of transfused donor blood have prompted research into a range of techniques to minimise allogeneic transfusion requirements. Cell salvage (CS) describes the recovery of blood from the surgical field, either during or after surgery, for reinfusion back to the patient."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effectiveness of CS in minimising perioperative allogeneic red blood cell transfusion and on other clinical outcomes in adults undergoing elective or non-urgent surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, three other databases and two clinical trials registers for randomised controlled trials (RCTs) and systematic reviews from 2009 (date of previous search) to 19 January 2023, without restrictions on language or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs assessing the use of CS compared to no CS in adults (participants aged 18 or over, or using the study's definition of adult) undergoing elective (non-urgent) surgery only."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 106 RCTs, incorporating data from 14,528 participants, reported in studies conducted in 24 countries. Results were published between 1978 and 2021. We analysed all data according to a single comparison: CS versus no CS. We separated analyses by type of surgery.\nThe certainty of the evidence varied from very low certainty to high certainty. Reasons for downgrading the certainty included imprecision (small sample sizes below the optimal information size required to detect a difference, and wide confidence intervals), inconsistency (high statistical heterogeneity), and risk of bias (high risk from domains including sequence generation, blinding, and baseline imbalances).\nAggregate analysis (all surgeries combined: primary outcome only)\nVery low-certainty evidence means we are uncertain if there is a reduction in the risk of allogeneic transfusion with CS (risk ratio (RR) 0.65, 95% confidence interval (CI) 0.59 to 0.72; 82 RCTs, 12,520 participants).\nCancer: 2 RCTs (79 participants)\nVery low-certainty evidence means we are uncertain whether there is a difference for mortality, blood loss, infection, or deep vein thrombosis (DVT). There were no analysable data reported for the remaining outcomes.\nCardiovascular (vascular): 6 RCTs (384 participants)\nVery low- to low-certainty evidence means we are uncertain whether there is a difference for most outcomes. No data were reported for major adverse cardiovascular events (MACE).\nCardiovascular (no bypass): 6 RCTs (372 participants)\nModerate-certainty evidence suggests there is probably a reduction in risk of allogeneic transfusion with CS (RR 0.82, 95% CI 0.69 to 0.97; 3 RCTs, 169 participants).\nVery low- to low-certainty evidence means we are uncertain whether there is a difference for volume transfused, blood loss, mortality, re-operation for bleeding, infection, wound complication, myocardial infarction (MI), stroke, and hospital length of stay (LOS). There were no analysable data reported for thrombosis, DVT, pulmonary embolism (PE), and MACE.\nCardiovascular (with bypass): 29 RCTs (2936 participants)\nLow-certainty evidence suggests there may be a reduction in the risk of allogeneic transfusion with CS, and suggests there may be no difference in risk of infection and hospital LOS.\nVery low- to moderate-certainty evidence means we are uncertain whether there is a reduction in volume transfused because of CS, or if there is any difference for mortality, blood loss, re-operation for bleeding, wound complication, thrombosis, DVT, PE, MACE, and MI, and probably no difference in risk of stroke.\nObstetrics: 1 RCT (1356 participants)\nHigh-certainty evidence shows there is no difference between groups for mean volume of allogeneic blood transfused (mean difference (MD) -0.02 units, 95% CI -0.08 to 0.04; 1 RCT, 1349 participants).\nLow-certainty evidence suggests there may be no difference for risk of allogeneic transfusion. There were no analysable data reported for the remaining outcomes.\nOrthopaedic (hip only): 17 RCTs (2055 participants)\nVery low-certainty evidence means we are uncertain if CS reduces the risk of allogeneic transfusion, and the volume transfused, or if there is any difference between groups for mortality, blood loss, re-operation for bleeding, infection, wound complication, prosthetic joint infection (PJI), thrombosis, DVT, PE, stroke, and hospital LOS. There were no analysable data reported for MACE and MI.\nOrthopaedic (knee only): 26 RCTs (2568 participants)\nVery low- to low-certainty evidence means we are uncertain if CS reduces the risk of allogeneic transfusion, and the volume transfused, and whether there is a difference for blood loss, re-operation for bleeding, infection, wound complication, PJI, DVT, PE, MI, MACE, stroke, and hospital LOS. There were no analysable data reported for mortality and thrombosis.\nOrthopaedic (spine only): 6 RCTs (404 participants)\nModerate-certainty evidence suggests there is probably a reduction in the need for allogeneic transfusion with CS (RR 0.44, 95% CI 0.31 to 0.63; 3 RCTs, 194 participants).\nVery low- to moderate-certainty evidence suggests there may be no difference for volume transfused, blood loss, infection, wound complication, and PE. There were no analysable data reported for mortality, re-operation for bleeding, PJI, thrombosis, DVT, MACE, MI, stroke, and hospital LOS.\nOrthopaedic (mixed): 14 RCTs (4374 participants)\nVery low- to low-certainty evidence means we are uncertain if there is a reduction in the need for allogeneic transfusion with CS, or if there is any difference between groups for volume transfused, mortality, blood loss, infection, wound complication, PJI, thrombosis, DVT, MI, and hospital LOS. There were no analysable data reported for re-operation for bleeding, MACE, and stroke."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In some types of elective surgery, cell salvage may reduce the need for and volume of allogeneic transfusion, alongside evidence of no difference in adverse events, when compared to no cell salvage. Further research is required to establish why other surgeries show no benefit from CS, through further analysis of the current evidence. More large RCTs in under-reported specialities are needed to expand the evidence base for exploring the impact of CS."
+    }
+  ],
+  "pls_title": "Can collecting blood that is lost during surgery, and returning it to the patient, reduce the need to use donated blood for that patient?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "This review assessed any study that looked at elective, non-urgent (not trauma) surgery that compared using cell salvage to no cell salvage. Because of the variation in types of surgery, this review is very broad. We have split the evidence according to surgery type, to help doctors and patients locate evidence relevant to them.\nThere is not a lot of evidence for cancer surgery, heart surgery without a bypass machine, and vascular surgery (on major blood vessels).\nMost of the evidence suggested there may be a reduction in the need for donated blood when cell salvage is used. There is uncertain evidence that it causes no additional complications over usual care (there was no difference between the cell salvage and no cell salvage groups), suggesting it may be beneficial overall. But more research is needed that focuses on what else is affecting the evidence, before we can make any strong conclusions."
+    },
+    {
+      "heading": "What is 'cell salvage' and why is it used?",
+      "text": "Some people who have surgery require blood transfusions to compensate for the blood lost during the procedure. 'Blood transfusion' is a routine medical procedure where someone receives blood through a thin tube inserted into a vein, usually in the arm. Often the blood used for the transfusion has been donated by a volunteer. Blood transfusions can save lives, but can also increase the risk of complications from surgery and should be avoided where possible. Hospitals have looked for ways to reduce the need for donor blood by (1) reducing how much blood is lost in the first place, and (2) returning the blood lost back to the patient using 'cell salvage'.\n'Cell salvage' or 'autotransfusion' involves the collection of a patient's own blood from surgical sites which can be transfused back into the same person during or after surgery, as required. This is blood that would otherwise have been discarded."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if (1) using cell salvage reduces the need for a transfusion of donated blood, and (2) if people still needed a transfusion, did it reduce the amount of donated blood that they needed. We also wanted to check if people who have cell salvage have more complications than those who don't."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that compared using cell salvage versus no cell salvage (usual care) in adults having elective operations: that is, the operations were planned in advance, not needed urgently because of a trauma. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 106 studies involving 14,528 participants from 24 countries, published between 1978 and 2021. Studies focused on different types of surgery."
+    },
+    {
+      "heading": "Main results",
+      "text": ""
+    },
+    {
+      "heading": "Cancer",
+      "text": "2 studies (79 participants)\nInconclusive evidence means we are unsure of the impact of cell salvage."
+    },
+    {
+      "heading": "Vascular (major blood vessels) surgery",
+      "text": "6 studies (384 participants)\nInconclusive evidence means we are unsure of the impact of cell salvage."
+    },
+    {
+      "heading": "Cardiovascular (heart surgery without bypass)",
+      "text": "6 studies (372 participants)\nThere is probably a reduction in the risk of needing a transfusion of donated blood because of cell salvage. For other outcomes, we are uncertain of the impact of cell salvage."
+    },
+    {
+      "heading": "Cardiovascular (heart surgery with bypass)",
+      "text": "29 studies (2936 participants)\nThere may be a reduction in the risk of needing a transfusion of donated blood because of cell salvage. For other outcomes, we are uncertain of the impact of cell salvage."
+    },
+    {
+      "heading": "Obstetrics (Caesarean section)",
+      "text": "1 study (1356 participants)\nInconclusive evidence suggests there may be no difference in the risk of needing a transfusion of donated blood, alongside strong evidence that suggests there is no difference in the average amount of donated blood that is needed by the patient, because of cell salvage."
+    },
+    {
+      "heading": "Hip replacement surgery only",
+      "text": "17 studies (2055 participants)\nInconclusive evidence means we are unsure of the impact of cell salvage."
+    },
+    {
+      "heading": "Knee replacement surgery only",
+      "text": "26 studies (2568 participants)\nInconclusive evidence means we are unsure of the impact of cell salvage."
+    },
+    {
+      "heading": "Spinal surgery only",
+      "text": "6 studies (404 participants)\nThere is probably a reduction in the risk of needing a transfusion of donated blood because of cell salvage. For other outcomes, we are uncertain of the impact of cell salvage."
+    },
+    {
+      "heading": "Mix of hip, knee, and spinal surgeries",
+      "text": "14 RCTs (4374 participants)\nInconclusive evidence means we are unsure of the impact of cell salvage."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have little confidence in the evidence for some outcomes and are not confident about the evidence for others. This is because it is possible that the people in the studies were aware of which treatment they were getting, and some of the studies were small."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is up-to-date to January 2023, and it expands and updates the evidence reported in the previous review (2010)."
+    }
+  ]
+}

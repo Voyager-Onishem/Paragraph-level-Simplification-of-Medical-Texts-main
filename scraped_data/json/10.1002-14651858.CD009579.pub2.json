@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009579.pub2",
+  "name": "Circulating antigen tests and urine reagent strips for diagnosis of active schistosomiasis in endemic areas ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Point-of-care (POC) tests for diagnosing schistosomiasis include tests based on circulating antigen detection and urine reagent strip tests. If they had sufficient diagnostic accuracy they could replace conventional microscopy as they provide a quicker answer and are easier to use."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarise the diagnostic accuracy of: a) urine reagent strip tests in detecting active Schistosoma haematobium infection, with microscopy as the reference standard; and b) circulating antigen tests for detecting active Schistosoma infection in geographical regions endemic for Schistosoma mansoni or S. haematobium or both, with microscopy as the reference standard."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the electronic databases MEDLINE, EMBASE, BIOSIS, MEDION, and Health Technology Assessment (HTA) without language restriction up to 30 June 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that used microscopy as the reference standard: for S. haematobium , microscopy of urine prepared by filtration, centrifugation, or sedimentation methods; and for S. mansoni, microscopy of stool by Kato-Katz thick smear. We included studies on participants residing in endemic areas only."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data, assessed quality of the data using QUADAS-2, and performed meta-analysis where appropriate. Using the variability of test thresholds, we used the hierarchical summary receiver operating characteristic (HSROC) model for all eligible tests (except the circulating cathodic antigen (CCA) POC for S. mansoni, where the bivariate random-effects model was more appropriate). We investigated heterogeneity, and carried out indirect comparisons where data were sufficient. Results for sensitivity and specificity are presented as percentages with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 90 studies; 88 from field settings in Africa. The median S. haematobium infection prevalence was 41% (range 1% to 89%) and 36% for S. mansoni (range 8% to 95%). Study design and conduct were poorly reported against current standards.\nTests for S. haematobium\nUrine reagent test strips versus microscopy\nCompared to microscopy, the detection of microhaematuria on test strips had the highest sensitivity and specificity (sensitivity 75%, 95% CI 71% to 79%; specificity 87%, 95% CI 84% to 90%; 74 studies, 102,447 participants). For proteinuria, sensitivity was 61% and specificity was 82% (82,113 participants); and for leukocyturia, sensitivity was 58% and specificity 61% (1532 participants). However, the difference in overall test accuracy between the urine reagent strips for microhaematuria and proteinuria was not found to be different when we compared separate populations (P = 0.25), or when direct comparisons within the same individuals were performed (paired studies; P = 0.21).\nWhen tests were evaluated against the higher quality reference standard (when multiple samples were analysed), sensitivity was marginally lower for microhaematuria (71% vs 75%) and for proteinuria (49% vs 61%). The specificity of these tests was comparable.\nAntigen assay\nCompared to microscopy, the CCA test showed considerable heterogeneity; meta-analytic sensitivity estimate was 39%, 95% CI 6% to 73%; specificity 78%, 95% CI 55% to 100% (four studies, 901 participants).\nTests for S. mansoni\nCompared to microscopy, the CCA test meta-analytic estimates for detecting S. mansoni at a single threshold of trace positive were: sensitivity 89% (95% CI 86% to 92%); and specificity 55% (95% CI 46% to 65%; 15 studies, 6091 participants) Against a higher quality reference standard, the sensitivity results were comparable (89% vs 88%) but specificity was higher (66% vs 55%). For the CAA test, sensitivity ranged from 47% to 94%, and specificity from 8% to 100% (four studies, 1583 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Among the evaluated tests for S. haematobium infection, microhaematuria correctly detected the largest proportions of infections and non-infections identified by microscopy.\nThe CCA POC test for S. mansoni detects a very large proportion of infections identified by microscopy, but it misclassifies a large proportion of microscopy negatives as positives in endemic areas with a moderate to high prevalence of infection, possibly because the test is potentially more sensitive than microscopy."
+    }
+  ],
+  "pls_title": "How well do point-of-care tests detect Schistosoma infections in people living inendemic areas?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Schistosomiasis, also known as bilharzia, is a parasitic disease common in the tropical and subtropics. Point-of-care tests and urine reagent strip tests are quicker and easier to use than microscopy. We estimate how well these point-of-care tests are able to detect schistosomiasis infections compared with microscopy.\nWe searched for studies published in any language up to 30 June 2014, and we considered the study’s risk of providing biased results."
+    },
+    {
+      "heading": "What do the results say?",
+      "text": "We included 90 studies involving almost 200,000 people, with 88 of these studies carried out in Africa in field settings. Study design and conduct were poorly reported against current expectations. Based on our statistical model, we found:\n• Among the urine strips for detecting urinary schistosomiasis, the strips for detecting blood were better than those detecting protein or white cells (sensitivity and specificity for blood 75% and 87%; for protein 61% and 82%; and for white cells 58% and 61%, respectively).\n• For urinary schistosomiasis, the parasite antigen test performance was worse (sensitivity, 39% and specificity, 78%) than urine strips for detecting blood.\n• For intestinal schistosomiasis, the parasite antigen urine test, detected many infections identified by microscopy but wrongly labelled many uninfected people as sick (sensitivity, 89% and specificity, 55%)."
+    },
+    {
+      "heading": "What are the consequences of using these tests?",
+      "text": "If we take 1000 people, of which 410 have urinary schistosomiasis on microscopy testing, then using the strip detecting blood in the urine would misclassify 77 uninfected people as infected, and thus may receive unnecessary treatment; and it would wrongly classify 102 infected people as uninfected, who thus may not receive treatment.\nIf we take 1000 people, of which 360 have intestinal schistosomiasis on microscopy testing, then the antigen test would misclassify 288 uninfected people as infected. These people may be given unnecessary treatment. This test also would wrongly classify 40 infected people as uninfected who thus may not receive treatment."
+    },
+    {
+      "heading": "Conclusion of review",
+      "text": "For urinary schistosomiasis, the urine strip for detecting blood leads to some infected people being missed and some non-infected people being diagnosed with the condition, but is better than the protein or white cell tests. The parasite antigen test is not accurate.\nFor intestinal schistosomiasis, the parasite antigen urine test classifies many microscopy negative people as being infected. This finding may be explained by the low sensitivity of microscopy."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD002959.pub4",
+  "name": "Vaccines for women for preventing neonatal tetanus",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tetanus is an acute, often fatal, disease caused by an exotoxin produced by Clostridium tetani. It occurs in newborn infants born to mothers who do not have sufficient circulating antibodies to protect the infant passively, by transplacental transfer. Prevention may be possible by the vaccination of pregnant or non-pregnant women, or both, with tetanus toxoid, and the provision of clean delivery services. Tetanus toxoid consists of a formaldehyde-treated toxin that stimulates the production of antitoxin."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of tetanus toxoid, administered to women of reproductive age or pregnant women, to prevent cases of, and deaths from, neonatal tetanus."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 January 2015), CENTRAL (The Cochrane Library 2015, Issue 1), PubMed (1966 to 28 January 2015), EMBASE (1974 to 28 January 2015) and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised trials evaluating the effects of tetanus toxoid in pregnant women or women of reproductive age on numbers of neonatal tetanus cases and deaths."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two effectiveness trials (9823 infants) and one safety trial (48 mothers) were included. The main outcomes were measured on infants born to a subset of those randomised women who became pregnant during the course of the studies. For our primary outcomes, there was no high-quality evidence according to GRADE assessments.\nOne study (1182 infants) assessed the effectiveness of tetanus toxoid in comparison with influenza vaccine in preventing neonatal tetanus deaths. A single dose did not provide significant protection against neonatal tetanus deaths, (risk ratio (RR) 0.57, 95% confidence interval (CI) 0.26 to 1.24; 494 infants; GRADE: low-quality evidence ). However, a two- or three-dose course did provide protection against neonatal deaths, (RR 0.02, 95% CI 0.00 to 0.30; 688 infants; GRADE: moderate-quality evidence ). Administration of a two- or three-dose course resulted in significant protection when all causes of death are considered as an outcome (RR 0.31, 95% CI 0.17 to 0.55; 688 infants; GRADE: moderate-quality evidence ). No effect was detected on causes of death other than tetanus. Cases of neonatal tetanus after at least one dose of tetanus toxoid were reduced in the tetanus toxoid group, (RR 0.20, 95% CI 0.10 to 0.40; 1182 infants; GRADE: moderate-quality evidence).\nAnother study, involving 8641 children, assessed the effectiveness of tetanus-diphtheria toxoid in comparison with cholera toxoid in preventing neonatal mortality after one or two doses. Neonatal mortality was reduced in the tetanus-diphtheria toxoid group (RR 0.68, 95% CI 0.56 to 0.82). In preventing deaths at four to 14 days, neonatal mortality was reduced again in the tetanus-diphtheria toxoid group (RR 0.38, 95% CI 0.27 to 0.55). The quality of evidence as assessed using GRADE was found to be low.\nThe third small trial assessed that pain at injection site was reported more frequently among pregnant women who received tetanus diphtheria acellular pertussis than placebo (RR 5.68, 95% CI 1.54 to 20.94; GRADE: moderate-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Available evidence supports the implementation of immunisation practices on women of reproductive age or pregnant women in communities with similar, or higher, levels of risk of neonatal tetanus, to the two study sites."
+    }
+  ],
+  "pls_title": "Vaccines for women to prevent tetanus in newborn babies",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Our review evaluated the existing evidence on immunisation with tetanus toxoid in women of reproductive age for the prevention of tetanus and death in newborn babies and to determine whether serious harms are associated with tetanus toxoid exposure."
+    },
+    {
+      "heading": "Background",
+      "text": "Tetanus in newborn babies is an infection causing rigidity, muscle spasm and often death. It is quite common in low-income countries, as a result of insufficient protection being passed from the mother to her baby during the pregnancy, together with infection entering into the baby when the umbilical cord is cut using contaminated instruments."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to January 2015, the review includes three trials. Two assessed the effectiveness of vaccinating women of reproductive age (9823 infants): one (1182 newborns) assessed the effects of tetanus toxoid against polyvalent influenza in preventing tetanus and deaths within the 30th day of life; the other (8641 newborns) assessed the effects of tetanus-diphtheria toxoid against cholera toxoid administered in women of reproductive age in preventing newborn deaths. The third trial (48 women and their newborns) assessed the safety of tetanus toxoid diphtheria acellular pertussis vaccine (Tdap) administration during pregnancy in comparison with placebo."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "A protective effect against deaths caused by tetanus was observed among the newborns from mothers who received at least two doses of the tetanus toxoid vaccine when compared with newborns from mothers who were immunised with influenza vaccine. A similar protective effect was seen with at least two doses of the tetanus vaccine against newborn deaths. Cases of tetanus were less frequent among newborns from women who received at least one dose of tetanus toxoid. This evidence was of moderate quality. In the second trial immunisation of women of reproductive age with tetanus diphtheria toxoid had a greater protective effect against newborn deaths than did cholera vaccine. The quality of the evidence was low for this outcome. In the third study no serious adverse events (during pregnancy or in babies) were related to the receiving of Tdap vaccine. The women experienced more pain with the vaccine injection than with the placebo. The available evidence supports the implementation of immunisation programs for women of reproductive age or pregnant women in communities with similar, or higher, levels of risk of tetanus in newborn babies as at the two study sites."
+    }
+  ]
+}

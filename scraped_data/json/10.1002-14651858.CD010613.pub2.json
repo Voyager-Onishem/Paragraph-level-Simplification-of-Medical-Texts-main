@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD010613.pub2",
+  "name": "Intensity of continuous renal replacement therapy for acute kidney injury",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute kidney injury (AKI) is a common condition among patients in intensive care units (ICU), and is associated with substantial morbidity and mortality. Continuous renal replacement therapy (CRRT) is a blood purification technique used to treat the most severe forms of AKI but its effectiveness remains unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of different intensities (intensive and less intensive) of CRRT on mortality and recovery of kidney function in critically ill AKI patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Kidney and Transplant's Specialised Register to 9 February 2016 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings; and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov. We also searched LILACS to 9 February 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs). We included all patients with AKI in ICU regardless of age, comparing intensive (usually a prescribed dose ≥35 mL/kg/h) versus less intensive CRRT (usually a prescribed dose < 35 mL/kg/h). For safety and cost outcomes we planned to include cohort studies and non-RCTs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two authors. The random-effects model was used and results were reported as risk ratios (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six studies enrolling 3185 participants. Studies were assessed as being at low or unclear risk of bias. There was no significant difference between intensive versus less intensive CRRT on mortality risk at day 30 (5 studies, 2402 participants: RR 0.88, 95% CI 0.71 to 1.08; I2 = 75%; low quality of evidence) or after 30 days post randomisation (5 studies, 2759 participants: RR 0.92, 95% CI 0.80 to 1.06; I2 = 65%; low quality of evidence). There were no significant differences between intensive versus less intensive CRRT in the numbers of patients who were free of RRT after CRRT discontinuation (5 studies, 2402 participants: RR 1.12, 95% CI 0.91 to 1.37; I2 = 71%; low quality of evidence) or among survivors at day 30 (5 studies, 1415 participants: RR 1.03, 95% CI 0.96 to 1.11; I2 = 69%; low quality of evidence) and day 90 (3 studies, 988 participants: RR 0.98, IC 95% 0.94 to 1.01, I2 = 0%; moderatequality of evidence). There were no significant differences between intensive and less intensive CRRT on the number of days in hospital (2 studies, 1665 participants): MD -0.23 days, 95% CI -3.35 to 2.89; I2 = 8%; low quality of evidence) and the number of days in ICU (2 studies, 1665 participants: MD -0.58 days, 95% CI -3.73 to 2.56, I2 = 19%; low quality of evidence ). Intensive CRRT increased the risk of hypophosphataemia (1 study, 1441 participants: RR 1.21, 95% CI 1.11 to 1.31; high quality evidence) compared to less intensive CRRT. There was no significant differences between intensive and less intensive CRRT on numbers of patients who experienced adverse events (3 studies, 1753 participants: RR 1.08, 95% CI 0.73 to 1.61; I2 = 16%; moderate quality of evidence). In the subgroups analysis by severity of illness and by aetiology of AKI, intensive CRRT would seem to reduce the risk mortality (2 studies, 531 participants: RR 0.73, 95% CI 0.61 to 0.88; I2 = 0%; high quality of evidence) only in the subgroup of patients with post-surgical AKI."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the current low quality of evidence identified, more intensive CRRT did not demonstrate beneficial effects on mortality or recovery of kidney function in critically ill patients with AKI. There was an increased risk of hypophosphataemia with more intense CRRT. Intensive CRRT reduced the risk of mortality in patients with post-surgical AKI."
+    }
+  ],
+  "pls_title": "Intensity of continuous renal replacement therapy for acute kidney injury",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Acute kidney injury (AKI) is very common among patients admitted to intensive care units (ICU), it is associated with a high death rated and characterised by the rapid loss of the kidney function. Patients with AKI show increased levels of serum uraemic toxins (creatinine and urea), serum potassium and metabolic acids, accumulation of water and in the most cases a reduction in urine output. In this population these chemicals and fluid overload are related to increased rates of death. Theoretically, effective removal of toxins and excess water from the bloodstream might improve patient outcomes (such as mortality rate and recovery of kidney function).\nContinuous renal replacement therapy (CRRT) is a blood purification technique that enables removal of excess water and toxins. CRRT involves blood being diverted from the patient via a catheter (a hollow, flexible tube placed into a vein) through a filtering system which continuously and steadily removes excess water and toxins; purified blood is then returned to the patient via the catheter. Higher intensity CRRT improves the removal of toxins and excess water. The aim of this review was to investigate the effect of different intensities of CRRT (intensive or less intensive) on death, recovery of kidney function, and adverse events in people with AKI who are critically ill."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the literature up until February 2016 and identified six studies enrolling 3185 patients with AKI that were evaluated in this review."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Six randomised studies enrolling 3185 participants were included in our review. Compared to less intensive CRRT, intensive CRRT did not reduce the risk of death, improve the recovery of kidney function, or reduce the risk of adverse events (such as bleeding) in patients with AKI. Intensive CRRT was associated with an increased risk of low blood phosphate levels."
+    }
+  ]
+}

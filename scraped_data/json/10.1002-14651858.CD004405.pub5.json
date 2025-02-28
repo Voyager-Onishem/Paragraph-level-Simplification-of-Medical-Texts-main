@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004405.pub5",
+  "name": "Corticosteroids for acute bacterial meningitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In experimental studies, the outcome of bacterial meningitis has been related to the severity of inflammation in the subarachnoid space. Corticosteroids reduce this inflammatory response."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effect of adjuvant corticosteroid therapy versus placebo on mortality, hearing loss and neurological sequelae in people of all ages with acute bacterial meningitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2015, Issue 1), MEDLINE (1966 to January week 4, 2015), Emabse (1974 to February 2015), Web of Science (2010 to February 2015), CINAHL (2010 to February 2015) and LILACS (2010 to February 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of corticosteroids for acute bacterial meningitis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We scored RCTs for methodological quality. We collected outcomes and adverse effects. We performed subgroup analyses for children and adults, causative organisms, low-income versus high-income countries, time of steroid administration and study quality."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 25 studies involving 4121 participants (2511 children and 1517 adults; 93 mixed population). Four studies were of high quality with no risk of bias, 14 of medium quality and seven of low quality, indicating a moderate risk of bias for the total analysis. Nine studies were performed in low-income countries and 16 in high-income countries.\nThere was insufficient evidence that corticosteroids caused a reduction in mortality overall (17.8% versus 19.9%; risk ratio (RR) 0.90, 95% confidence interval (CI) 0.80 to 1.01; P = 0.07), or for adults (RR 0.74, 95% CI 0.53 to 1.05; P = 0.09). However they caused lower rates of severe hearing loss (RR 0.67, 95% CI 0.51 to 0.88), any hearing loss (RR 0.74, 95% CI 0.63 to 0.87) and neurological sequelae (RR 0.83, 95% CI 0.69 to 1.00).\nSubgroup analyses for causative organisms showed that corticosteroids reduced mortality in Streptococcus pneumoniae (S pneumoniae ) meningitis (RR 0.84, 95% CI 0.72 to 0.98), but not in Haemophilus influenzae (H influenzae ) orNeisseria meningitidis (N meningitidis ) meningitis. Corticosteroids reduced severe hearing loss in children with H influenzae meningitis (RR 0.34, 95% CI 0.20 to 0.59) but not in children with meningitis due to non-Haemophilus species.\nIn high-income countries, corticosteroids reduced severe hearing loss (RR 0.51, 95% CI 0.35 to 0.73), any hearing loss (RR 0.58, 95% CI 0.45 to 0.73) and short-term neurological sequelae (RR 0.64, 95% CI 0.48 to 0.85). There was no beneficial effect of corticosteroid therapy in low-income countries.\nSubgroup analysis for study quality showed no effect of corticosteroids on severe hearing loss in high-quality studies.\nCorticosteroid treatment was associated with an increase in recurrent fever (RR 1.27, 95% CI 1.09 to 1.47), but not with other adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Corticosteroids significantly reduced hearing loss and neurological sequelae, but did not reduce overall mortality. Data support the use of corticosteroids in patients with bacterial meningitis in high-income countries. We found no beneficial effect in low-income countries."
+    }
+  ],
+  "pls_title": "Corticosteroids for bacterial meningitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of corticosteroids on mortality, hearing loss and/or neurological sequelae (such as hearing loss, neurologic deficits) in adults and children with acute bacterial meningitis."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute bacterial meningitis is an infection of the meninges (the system of membranes that envelops the brain and spinal cord), which often causes hearing loss. Bacterial meningitis is fatal in 5% to 40% of children and 20% to 50% of adults despite treatment with adequate antibiotics. It is caused by bacteria that usually spread from an ear or respiratory infection and is treated with antibiotics.\nCorticosteroids are drugs that can reduce the inflammation caused by infection. This inflammation has been shown to aggravate damage to the nervous system in experimental meningitis studies in animals. Research on the use of corticosteroids in addition to antibiotics has had conflicting results.\nWe wanted to discover whether use of corticosteroids was better of worse than placebo."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to February 2015. We identified 25 trials, including 4121 participants with acute bacterial meningitis of which seven were performed in adults (over 16 years old), two included both children and adults and the other were performed in children. In 22 studies the corticosteroid used was dexamethasone, in three others hydrocortisone or prednisone were used. Nine studies were performed in low-income countries and 16 in high-income countries."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review found that the corticosteroid dexamethasone did not significantly reduce the death rate (17.8% versus 19.9%). Patients treated with corticosteroids had significantly lower rates of severe hearing loss (6.0% versus 9.3%), any hearing loss (13.8% versus 19.0%) and neurological sequelae (17.9% versus 21.6%).\nAn analysis for different bacteria causing meningitis showed that patients with meningitis due to Streptococcus pneumoniae (S pneumoniae ) treated with corticosteroids had a lower death rate (29.9% versus 36.0%), while no effect on mortality was seen in patients with Haemophilus influenzae (H influenzae ) and Neisseria meningitidis (N meningitidis) meningitis.\nIn high-income countries, corticosteroids reduced severe hearing loss, any hearing loss and short-term neurological sequelae. There was no beneficial effect of corticosteroid therapy in low-income countries.\nCorticosteroids decreased the rate of hearing loss in children with meningitis due to H influenzae (4% versus 12%), but not in children with meningitis due to other bacteria.\nDexamethasone increased the rate of recurrent fever (28% versus 22%) but was not associated with other adverse events."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Out of 25 studies, four were of high quality, 14 of medium quality and seven of low quality, leading to a moderate overall quality of evidence."
+    }
+  ]
+}

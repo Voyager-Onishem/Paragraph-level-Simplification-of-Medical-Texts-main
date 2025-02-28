@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007451.pub2",
+  "name": "Blood pressure lowering efficacy of beta‐1 selective beta blockers for primary hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Beta blockers are commonly used to treat hypertension. The blood pressure reading is the primary tool for physicians and patients to assess the efficacy of the treatment. The blood pressure lowering effect of beta-1 selective blockers is not known."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the dose-related effects of various doses and types of beta-1 selective adrenergic receptor blockers on systolic and diastolic blood pressure versus placebo in people with primary hypertension."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Database of Abstracts of Reviews of Effectiveness (DARE) for related reviews.\nWe searched the following databases for primary studies: the Cochrane Hypertension Specialised Register (All years to 15 October 2015), CENTRAL via the Cochrane Register of Studies Online (2015, Issue 10), Ovid MEDLINE (1946 to 15 October 2015), Ovid EMBASE (1974 to 15 October 2015) and ClinicalTrials.gov (all years to 15 October 2015).\nThe Hypertension Group Specialised Register includes controlled trials from searches of CAB Abstracts, CINAHL, Cochrane Central Register of Controlled Trials, EMBASE, Food Science and Technology Abstracts (FSTA), Global Health, LILACS, MEDLINE, ProQuest Dissertations & Theses, PsycINFO, Web of Science and the WHO International Clinical Trials Registry Platform (ICTRP).\nElectronic databases were searched using a strategy combining the Cochrane Highly Sensitive Search Strategy for identifying randomized trials in MEDLINE: sensitivity-maximizing version (2008 revision) with selected MeSH terms and free text terms. No language restrictions were used. The MEDLINE search strategy was translated into CENTRAL, EMBASE, the Hypertension Group Specialised Register and ClinicalTrials.gov using the appropriate controlled vocabulary as applicable. Full strategies are in Appendix 1."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised, double-blind, placebo-controlled parallel or cross-over trials. Studies had to contain a beta blocker monotherapy arm with fixed dose. People enrolled into the studies had to have primary hypertension at baseline. Duration of studies had to be between 3 weeks to 12 weeks. Drugs in this class of beta blockers are atenolol, betaxolol, bevantolol, bisoprolol, esmolol, metoprolol, nebivolol, pafenolol, practolol."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors confirmed the inclusion of studies and extracted the data independently. Review Manager (RevMan) 5.3.5 was used to synthesise data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 56 RCTs (randomised controlled trials) that examined the blood pressure (BP) lowering efficacy of beta-1 selective blockers (beta-1 blocker) in 7812 primary hypertensive patients. Among the included trials, 26 RCTs were parallel studies and 30 RCTs were cross-over studies, examining eight beta-1 blockers. Overall, the majority of beta-1 blockers studied significantly lowered systolic blood pressure (SBP) and diastolic blood pressure (DBP). In people with mild to moderate hypertension, beta-1 selective blockers lowered BP by an average of -10/-8 mmHg and reduced heart rate by 11 beats per minute. The maximum BP reduction of beta-1 blockers occurred at twice the starting dose. Individual beta-1 blockers did not exhibit a graded dose-response effect on SBP and DBP over the recommended dose range.\nMost beta-1 blockers tested significantly lowered heart rate. A graded dose-response of beta-1 blockers on heart rate was evident. Higher dose beta-1 blockers lowered heart rate more than lower doses. Individually and overall beta-1 blockers did not affect pulse pressure, which distinguishes them from other classes of drugs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review provides low quality evidence that in people with mild to moderate hypertension, beta-1 selective blockers lowered BP by an average of -10/-8 mmHg and reduced heart rate by 11 beats per minute as compared to placebo. The effect of beta-1 blockers at peak hours, -12/-9 mmHg, was greater than the reduction at trough hours, -8/-7 mmHg. Beta-1 selective blockers lowered BP by a greater magnitude than dual receptor beta-blockers and partial agonist beta-blockers, lowered BP similarly to nonselective beta-blockers. Beta-1 selective blockers lowered SBP by a similar degree and lowered DBP by a greater degree than diuretics, angiotensin converting enzyme inhibitors and angiotensin receptor blockers. Because DBP is lowered by a similar extent to SBP, beta-1 selective blockers do not reduce pulse pressure."
+    }
+  ],
+  "pls_title": "Beta-1 selective blockers for treatment of high blood pressure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Beta-1 selective blockers are a subclass of beta blockers that are commonly used to treat high blood pressure. Drugs in this class include atenolol (Tenormin), metoprolol (Lopressor), nebivolol (Bystolic) and bisoprolol (Zebeta, Monocor). We developed a comprehensive methodology to examine how different doses and drugs in this class of drugs lower blood pressure."
+    },
+    {
+      "heading": "Characteristics of included studies",
+      "text": "We found and included 56 clinical trials examining the blood pressure lowering effect of eight beta-1 blockers in 7812 people with high blood pressure. These participants were randomly assigned to receive a fixed dose of beta-1 blocker treatment or placebo for 3 weeks to 12 weeks."
+    },
+    {
+      "heading": "Key results",
+      "text": "On average, beta-1 blockers lowered BP by -10 points of systolic and -8 points of diastolic pressure in people with mild to moderate high blood pressure. In general, higher doses of beta-1 blockers did not show greater reduction of blood pressure compared to lower doses. The maximum blood pressure reduction was exhibited at twice the recommended starting dose.\nHigher doses of beta-1 blockers lowered heart rate more than the lower doses, therefore are more likely to cause the common side effect of slowed heart rate. Beta-1 selective blockers lower systolic and diastolic BP to a similar degree, as is the case for the other subclasses of beta blockers, and thus have little or no effect on pulse pressure. This is different from other classes of antihypertensive drugs, such as thiazide diuretics, angiotensin converting enzyme inhibitors and angiotensin receptor blockers."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of the evidence was judged to be low due to various types of bias that could exaggerate the effect. A low quality of evidence means future research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate."
+    }
+  ]
+}

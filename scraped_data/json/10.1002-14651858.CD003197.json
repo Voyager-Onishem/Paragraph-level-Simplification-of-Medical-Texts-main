@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003197",
+  "name": "Low dosage tricyclic antidepressants for depression",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tricyclic antidepressants are still extensively prescribed worldwide. Evidence for the recommended dosage of tricyclics, however, is poor."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effects and side effects of low dosage tricyclic antidepressants with placebo and with standard dosage tricyclics in acute phase treatment of depression."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Electronic search of the Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Register (CCDANCTR), incorporating results of group searches of MEDLINE (1966-), EMBASE (1980-), CINAHL (1982-), PsycLIT (1974-), PSYNDEX (1977-) and LILACS (1982-1999) and hand searches of major psychiatric and medical journals. Reference search and SciSearch of the identified studies. Personal contact with authors of significant papers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials 1) comparing low dosage TCA (=< 100 mg/d on average at the end of trial) with placebo or 2) comparing low and standard dosages of the same TCA, in acute phase treatment of depressive disorder"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent reviewers examined eligibility of the identified studies, and extracted data for outcomes at 1 week, 2 weeks, 4 weeks, 6-8 weeks and later. Main outcome measures were relative risk of response in depression (random effects model), according to the original authors' definition but usually defined as 50% or greater reduction in severity of depression according to the last-observation-carried-forward intention-to-treat method, and relative risks of overall dropouts and dropouts due to side effects. Other outcome measures included worst-case-scenario intention-to-treat analysis of response as defined above (in which dropouts were considered non-responders in the active treatment group and as responders in the comparison group), and standardised weighted mean scores of continuous depression severity scales (usually calculated by last-observation-carried-forward method)."
+    },
+    {
+      "heading": "Main results",
+      "text": "35 studies (2013 participants) compared low dosage tricyclics with placebo, and six studies (551 participants) compared low dosage tricyclics with standard dosage tricyclics. Low dosage tricyclics, mostly between 75 and 100 mg/day, were 1.65 (95% confidence interval 1.36 to 2.0) and 1.47 (1.12 to 1.94) times more likely than placebo to bring about response at 4 weeks and 6-8 weeks, respectively. Standard dosage tricyclics failed, however, to bring about more response but produced more dropouts due to side effects than low dosage tricyclics."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Treatment of depression in adults with low dose tricyclics is justified. However, more rigorous studies are needed to definitively establish the relative benefits and harms of varying dosages."
+    }
+  ],
+  "pls_title": "Low dose tricyclic antidepressants (TCAs) for depression",
+  "pls_type": "long",
+  "pls": "Practicing physicians and psychiatrists have often been criticised for administering too low a dosage of tricyclic antidepressants for people with depression. This systematic review of 39 studies (2564 participants) found that tricyclic antidepressants between 75-100 mg/day and possibly below this range result in more reduction in depression than placebo. On the other hand, there was no strong evidence to show that standard dosage tricyclic brings about more response than low dosage tricyclic. The findings suggest that administration of low dosage tricyclic antidepressant is a defensible practice."
+}

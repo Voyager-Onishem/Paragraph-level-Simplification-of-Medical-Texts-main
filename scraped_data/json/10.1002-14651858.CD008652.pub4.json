@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008652.pub4",
+  "name": "Pharmacotherapy for hyperuricaemia in hypertensive patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is the second update of this systematic review. High blood pressure represents a major public health problem. Worldwide, approximately one-fourth of the adult population has hypertension. Epidemiological and experimental studies suggest a link between hyperuricaemia and hypertension. Hyperuricaemia affects 25% to 40% of those with untreated hypertension; a much lower prevalence has been reported in those with normotension or in the general population. However, whether lowering serum uric acid (UA) might lower blood pressure (BP), is an unanswered question."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether UA-lowering agents reduce BP in people with primary hypertension or prehypertension, compared with placebo."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to May 2020: the Cochrane Hypertension Specialised Register, CENTRAL 2018, Issue 12, MEDLINE (from 1946), Embase (from 1974), the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov. We also searched LILACS (1982 to May 2020), and contacted authors of relevant papers regarding further published and unpublished work. The searches had no language or date restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "To be included in this updated review, the studies had to meet the following criteria: 1) randomised or quasi-randomised, with a group assigned to receive a UA-lowering agent and another group assigned to receive placebo; 2) double-blind, single-blind, or open-label; 3) parallel or cross-over trial design; 4) cross-over trials had to have a washout period of at least two weeks; 5) minimum treatment duration of four weeks; 6) participants had to have a diagnosis of essential hypertension or prehypertension plus hyperuricaemia (serum UA greater than 6 mg/dL in women, 7 mg/dL in men, and 5.5 mg/dL in children or adolescents); 7) outcome measures included change in 24-hour ambulatory systolic or diastolic BP, or both; or clinic-measured systolic or diastolic BP, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The two review authors independently collected the data using a data extraction form, and resolved any disagreements via discussion. We assessed risk of bias using the Cochrane 'Risk of bias' tool. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this review update, we screened 722 records, selected 26 full-text reports for evaluation. We identified no ongoing studies and did not add any new studies. We included three randomised controlled trials (RCTs), enrolling 211 people with hypertension or prehypertension, plus hyperuricaemia.\nLow-certainty evidence from three RCTs found inconclusive results between those who received UA-lowering drugs and placebo, in 24-hour ambulatory systolic (MD -6.2 mmHg, 95% CI -12.8 to 0.5) or diastolic BP (-3.9 mmHg, 95% CI -9.2 to 1.4).\nLow-certainty evidence from two RCTs found that UA-lowering drugs reduced clinic-measured systolic BP (-8.43 mmHg, 95% CI -15.24 to -1.62) but results for clinic-measured diastolic BP were inconclusive (-6.45 mmHg, 95% CI -13.60 to 0.70).\nHigh-certainty evidence from three RCTs found that serum UA levels were reduced by 3.1 mg/dL (95% CI 2.4 to 3.8) in the participants that received UA-lowering drugs.\nLow-certainty evidence from three RCTs found inconclusive results regarding the occurrence of adverse events between those who received UA-lowering drugs and placebo (RR 1.86, 95% CI 0.43 to 8.10)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In this updated Cochrane Review, the current RCT data are insufficient to know whether UA-lowering therapy lowers BP. More studies are needed."
+    }
+  ],
+  "pls_title": "Drug therapy to treat high levels of uric acid in people with high blood pressure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "This is the second update of this Cochrane Review. The evidence is current to May 2020.\nUric acid is the natural end product of the breakdown of the body's tissues and a person's food, particularly protein. Uric acid is usually removed from the blood by the kidneys, and removed from the body in the urine. If too much uric acid is produced, or the kidneys are not able to remove it from the blood, uric acid levels in the blood increase (termed hyperuricaemia). A link between hyperuricaemia and high blood pressure (hypertension) has been recognized since the 19th century. This review aims to evaluate whether lowering uric acid levels in the blood could also lower blood pressure."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In this update, we examined 722 records, and selected 26 for further evaluation. We did not find any additional studies to add to the three studies (211 participants) that were already included in the review. These studies evaluated adolescents and adults. They compared drug therapy, given to decrease uric acid, with a placebo control, in people diagnosed with hypertension."
+    },
+    {
+      "heading": "What the research says",
+      "text": "We found inconclusive results as to whether drug therapy to lower uric acid reduced blood pressure more than placebo, in people who had high blood pressure and high blood levels of uric acid. Drug therapy decreased blood levels of uric acid better than placebo. The results for side effects were inconclusive between the drug therapy and placebo groups.\nThere is not enough evidence to show that drugs that lower blood levels of uric acid also reduce blood pressure in people with hypertension. More research on this question is needed."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Low-certainty evidence failed to establish whether drug therapy to treat high blood levels of uric acid reduces blood pressure. We reduced the certainty of the evidence because the studies presented limited data and inconsistent results for this outcome.\nHigh-certainty evidence found that uric acid-lowering drug therapy decreases uric acid.\nLow-certainty evidence failed to establish whether drug therapy increased the occurrence of side effects. We reduced the certainty of the evidence because of issues with study design, lack of data, and inconsistent results across studies.\nWe cannot be certain that future studies will not change these conclusions."
+    }
+  ]
+}

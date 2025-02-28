@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009016.pub2",
+  "name": "Active body surface warming systems for preventing complications caused by inadvertent perioperative hypothermia in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inadvertent perioperative hypothermia is a phenomenon that can occur as a result of the suppression of the central mechanisms of temperature regulation due to anaesthesia, and of prolonged exposure of large surfaces of skin to cold temperatures in operating rooms. Inadvertent perioperative hypothermia has been associated with clinical complications such as surgical site infection and wound-healing delay, increased bleeding or cardiovascular events. One of the most frequently used techniques to prevent inadvertent perioperative hypothermia is active body surface warming systems (ABSW), which generate heat mechanically (heating of air, water or gels) that is transferred to the patient via skin contact."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of pre- or intraoperative active body surface warming systems (ABSW), or both, to prevent perioperative complications from unintended hypothermia during surgery in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 9, 2015); MEDLINE (PubMed) (1964 to October 2015), EMBASE (Ovid) (1980 to October 2015), and CINAHL (Ovid) (1982 to October 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) that compared an ABSW system aimed at maintaining normothermia perioperatively against a control or against any other ABSW system. Eligible studies also had to include relevant clinical outcomes other than measuring temperature alone."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Several authors, by pairs, screened references and determined eligibility, extracted data, and assessed risks of bias. We resolved disagreements by discussion and consensus, with the collaboration of a third author."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 67 trials with 5438 participants that comprised 79 comparisons. Forty-five RCTs compared ABSW versus control, whereas 18 compared two different types of ABSW, and 10 compared two different techniques to administer the same type of ABSW. Forced-air warming (FAW) was by far the most studied intervention.\nTrials varied widely regarding whether the interventions were applied alone or in combination with other active (based on a different mechanism of heat transfer) and/or passive methods of maintaining normothermia. The type of participants and surgical interventions, as well as anaesthesia management, co-interventions and the timing of outcome measurement, also varied widely. The risk of bias of included studies was largely unclear due to limitations in the reports. Most studies were open-label, due to the nature of the intervention and the fact that temperature was usually the principal outcome. Nevertheless, given that outcome measurement could have been conducted in a blinded manner, we rated the risk of detection and performance bias as high.\nThe comparison of ABSW versus control showed a reduction in the rate of surgical site infection (risk ratio (RR) 0.36, 95% confidence interval (CI) 0.20 to 0.66; 3 RCTs, 589 participants, low-quality evidence). Only one study at low risk of bias observed a beneficial effect with forced-air warming on major cardiovascular complications (RR 0.22, 95% CI 0.05 to 1.00; 1 RCT with 12 events, 300 participants, low-quality evidence) in people at high cardiovascular risk. We found no beneficial effect for mortality. ABSW also reduced blood loss during surgery but the magnitude of this effect seems to be irrelevant (MD -46.17 mL, 95% CI -82.74 to -9.59; I² = 78%; 20 studies, 1372 participants). The same conclusion applies to total fluids infused during surgery (MD -144.49 mL, 95% CI -221.57 to -67.40; I² = 73%; 24 studies, 1491 participants). These effects did not translate into a significant reduction in the number of participants being transfused or the average amount of blood transfused. ABSW was associated with a reduction in shivering (RR 0.39, 95% CI 0.28 to 0.54; 29 studies, 1922 participants) and in thermal comfort (standardized mean difference (SMD) 0.76, 95% CI 0.29 to 1.24; I² = 77%, 4 trials, 364 participants).\nFor the comparison between different types of ABSW system or modes of administration of a particular type of ABSW, we found no evidence for the superiority of any system in terms of clinical outcomes, except for extending systemic warming to the preoperative period in participants undergoing major abdominal surgery (one study at low risk of bias).\nThere were limited data on adverse effects (the most relevant being thermal burns). While some trials included a narrative report mentioning that no adverse effects were observed, the majority made no reference to it. Nothing so far suggests that ABSW involves a significant risk to patients."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Forced-air warming seems to have a beneficial effect in terms of a lower rate of surgical site infection and complications, at least in those undergoing abdominal surgery, compared to not applying any active warming system. It also has a beneficial effect on major cardiovascular complications in people with substantial cardiovascular disease, although the evidence is limited to one study. It also improves patient's comfort, although we found high heterogeneity among trials. While the effect on blood loss is statistically significant, this difference does not translate to a significant reduction in transfusions. Again, we noted high heterogeneity among trials for this outcome. The clinical relevance of blood loss reduction is therefore questionable. The evidence for other types of ABSW is scant, although there is some evidence of a beneficial effect in the same direction on chills/shivering with electric or resistive-based heating systems. Some evidence suggests that extending systemic warming to the preoperative period could be more beneficial than limiting it only to during surgery. Nothing suggests that ABSW systems pose a significant risk to patients.\nThe difficulty in observing a clinically-relevant beneficial effect with ABSW in outcomes other than temperature may be explained by the fact that many studies applied concomitant procedures that are routinely in place as co-interventions to prevent hypothermia, whether passive or active warming systems based in other physiological mechanisms (e.g. irrigation fluid or gas warming), as well as a stricter control of temperature in the context of the study compared with usual practice. These may have had a beneficial effect on the participants in the control group, leading to an underestimation of the net benefit of ABSW."
+    }
+  ],
+  "pls_title": "Body warming of people undergoing surgery to avoid complications and increase comfort after surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the effects of warming the body by transferring heat through the skin surface to prevent complications caused by unintended low body temperature (hypothermia) in adults undergoing surgery."
+    },
+    {
+      "heading": "Background",
+      "text": "Sedatives and anaesthesia interfere with temperature regulatory responses and so can cause unplanned hypothermia during surgery and immediately after surgery. Long periods of exposure of large surfaces of skin to cold temperatures in operating rooms can also contribute to this effect. Hypothermia can make the recovery process more uncomfortable for the patients, as they often wake with chills and shivering, an involuntary response to cold to increase the production of body heat. Hypothermia may also be related to undesirable events such as infections and complications of the wound, complications of the heart and circulation, increased bleeding and a greater need for blood transfusions.\nTo avoid this unintended hypothermia, several different types of active warming systems are used to transfer heat to the body of the patient through the skin, either immediately before or during surgery, or both."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The review includes 67 randomized controlled trials (5438 people). The trials included patients of all ages and both genders undergoing all types of surgery. The evidence was from studies available to October 2015. Forty-five trials compared a warming system to a control intervention, 18 compared different types of warming systems, and 10 compared different modalities of the same warming system. Forced-air warming was the most studied system."
+    },
+    {
+      "heading": "Key results",
+      "text": "Active warming had some beneficial clinical effects on the patient. It reduced the risk of a major complication of heart and circulation in one trial in people with substantial disease of that system, but the evidence remains inconclusive. Active warming reduced the rate of infection and complications of surgical wounds.. This effect was shown in two quite large trials in people undergoing abdominal surgery; forced-air warming was applied exclusively before the operation in one study, while in the other it was applied during the operation. Patients receiving active warming systems had about one-third the risk of postsurgical chills or shivering compared to those receiving control treatment (29 trials, 1922 people). Thermal comfort was increased for the patient compared with the control intervention (10 trials involving 700 people). On the other hand, warming made little or no difference to the risk of death, blood loss or the need for a blood transfusion. We found no differences in the number of non-fatal heart attacks, in anxiety or in pain, compared with people in the control groups.\nThe trials in the review did not allow us to identify which warming system was better. However, there was an indication from one trial at low risk of bias that results were better when systemic warming was extended to the period before the operation in people undergoing major abdominal surgery. We could only get limited information from the study reports regarding adverse effects. In some cases the trials reported that there had been no adverse effects."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was low for surgical site infections and complications of the heart and circulation. This is because very few trials with few events reported on these outcomes, although they were at low risk of bias. Patients differed in the types of surgery, with different complexities and duration, the type of anaesthesia, patient age, the severity of the condition and other illnesses. The trials did not last long, which made it difficult to detect clinical effects. These outcomes are also strongly influenced by other management components during the operation that we did not evaluate in this review. While some studies applied a single intervention, others used two or more interventions in combination, and/or included other methods of passive warming. The control group did not always consist of a 'pure control' without active heating, and sometimes patients also received another intervention as part of usual care. All these reasons may explain the diversity that we observed for some outcomes among the studies. The temperature of the control group may also have been more strictly controlled, as there is now widespread awareness of the risk of hypothermia."
+    }
+  ]
+}

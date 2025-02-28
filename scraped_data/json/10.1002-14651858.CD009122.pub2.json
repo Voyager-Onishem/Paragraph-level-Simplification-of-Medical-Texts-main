@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009122.pub2",
+  "name": "Intensive glucose control versus conventional glucose control for type 1 diabetes mellitus ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Clinical guidelines differ regarding their recommended blood glucose targets for patients with type 1 diabetes and recent studies on patients with type 2 diabetes suggest that aiming at very low targets can increase the risk of mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of intensive versus conventional glycaemic targets in patients with type 1 diabetes in terms of long-term complications and determine whether very low, near normoglycaemic values are of additional benefit."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A systematic literature search was performed in the databases The Cochrane Library, MEDLINE and EMBASE. The date of the last search was December 2012 for all databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) that had defined different glycaemic targets in the treatment arms, studied patients with type 1 diabetes, and had a follow-up duration of at least one year."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data, assessed studies for risk of bias, with differences resolved by consensus. Overall study quality was evaluated by the 'Grading of Recommendations Assessment, Development, and Evaluation' (GRADE) system. Random-effects models were used for the main analyses and the results are presented as risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 trials that fulfilled the inclusion criteria, including a total of 2230 patients. The patient populations varied widely across studies with one study only including children, one study only including patients after a kidney transplant, one study with newly diagnosed adult patients, and several studies where patients had retinopathy or microalbuminuria at baseline. The mean follow-up duration across studies varied between one and 6.5 years. The majority of the studies were carried out in the 1980s and all trials took place in Europe or North America. Due to the nature of the intervention, none of the studies could be carried out in a blinded fashion so that the risk of performance bias, especially for subjective outcomes such as hypoglycaemia, was present in all of the studies. Fifty per cent of the studies were judged to have a high risk of bias in at least one other category.\nUnder intensive glucose control, the risk of developing microvascular complications was reduced compared to conventional treatment for a) retinopathy: 23/371 (6.2%) versus 92/397 (23.2%); RR 0.27 (95% CI 0.18 to 0.42); P < 0.00001; 768 participants; 2 trials; high quality evidence; b) nephropathy: 119/732 (16.3%) versus 211/743 (28.4%); RR 0.56 (95% CI 0.46 to 0.68); P < 0.00001; 1475 participants; 3 trials; moderate quality evidence; c) neuropathy: 29/586 (4.9%) versus 86/617 (13.9%); RR 0.35 (95% CI 0.23 to 0.53); P < 0.00001; 1203 participants; 3 trials; high quality evidence. Regarding the progression of these complications after manifestation, the effect was weaker (retinopathy) or possibly not existent (nephropathy: RR 0.79 (95% CI 0.37 to 1.70); P = 0.55; 179 participants with microalbuminuria; 3 trials; very low quality evidence); no adequate data were available regarding the progression of neuropathy. For retinopathy, intensive glucose control reduced the risk of progression in studies with a follow-up duration of at least two years (85/366 (23.2%) versus 154/398 (38.7%); RR 0.61 (95% CI 0.49 to 0.76); P < 0.0001; 764 participants; 2 trials; moderate quality evidence), while we found evidence for an initial worsening of retinopathy after only one year of intensive glucose control (17/49 (34.7%) versus 7/47 (14.9%); RR 2.32 (95% CI 1.16 to 4.63); P = 0.02; 96 participants; 2 trials; low quality evidence).\nMajor macrovascular outcomes (stroke and myocardial infarction) occurred very rarely, and no firm evidence could be established regarding these outcome measures (low quality evidence).\nWe found that intensive glucose control increased the risk for severe hypoglycaemia, however the results were heterogeneous and only the 'Diabetes Complications Clinical Trial' (DCCT) showed a clear increase in severe hypoglycaemic episodes under intensive treatment. A subgroup analysis according to the baseline haemoglobin A1c (HbA1c) of participants in the trials (low quality evidence) suggests that the risk of hypoglycaemia is possibly only increased for patients who started with relatively low HbA1c values (< 9.0%). Several of the included studies also showed a greater weight gain under intensive glucose control, and the risk of ketoacidosis was only increased in studies using insulin pumps in the intensive treatment group (very low quality evidence).\nOverall, all-cause mortality was very low in all studies (moderate quality evidence) except in one study investigating renal allograft as treatment for end-stage diabetic nephropathy. Health-related quality of life was only reported in the DCCT trial, showing no statistically significant differences between the intervention and comparator groups (moderate quality evidence). In addition, only the DCCT published data on costs, indicating that intensive glucose therapy control was highly cost-effective considering the reduction of potential diabetes complications (moderate quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Tight blood sugar control reduces the risk of developing microvascular diabetes complications. The evidence of benefit is mainly from studies in younger patients at early stages of the disease. Benefits need to be weighed against risks including severe hypoglycaemia, and patient training is an important aspect in practice. The effects of tight blood sugar control seem to become weaker once complications have been manifested. However, further research is needed on this issue. Furthermore, there is a lack of evidence from RCTs on the effects of tight blood sugar control in older patient populations or patients with macrovascular disease. There is no firm evidence for specific blood glucose targets and treatment goals need to be individualised taking into account age, disease progression, macrovascular risk, as well as the patient's lifestyle and disease management capabilities."
+    }
+  ],
+  "pls_title": "Intensive glucose control versus conventional glucose control for type 1 diabetes mellitus",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "The primary objective of this review was to assess the positive and negative outcomes of tighter blood glucose control ('intensive' glucose control) compared to less intense treatment targets ('conventional' glucose control) in individuals with type 1 diabetes."
+    },
+    {
+      "heading": "Background",
+      "text": "Treatment of type 1 diabetes consists of life-long blood sugar control through insulin replacement. It is generally agreed that achieving 'good' blood sugar control while avoiding episodes of very low blood sugars (severe hypoglycaemia) should be the primary treatment goal for individuals with type 1 diabetes. However, clinical guidelines differ regarding their recommended blood glucose targets."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 12 relevant studies, which included a total of 2230 participants. The participant populations varied widely across studies regarding age, disease duration, and existing diabetes complications. The mean follow-up duration across studies varied between one and 6.5 years. The majority of the studies were carried out in the 1980s and all studies took place in Europe or North America."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that intensive glucose control was highly effective in reducing the risk of developing microvascular diabetes complications, such as retinopathy (eye disease), nephropathy kidney disease), and neuropathy (nerve disease). For developing retinopathy, 63 per 1000 people with intensive glucose control compared to 232 per 1000 people with conventional glucose control experienced this diabetes complication. For developing nephropathy, 159 per 1000 people with intensive glucose control compared to 284 per 1000 people with conventional glucose control experienced this diabetes complication. For developing neuropathy, 49 per 1000 people with intensive glucose control compared to 139 per 1000 people with conventional glucose control experienced this diabetes complication.\nA weaker effect was found on the progression of retinopathy, while we could not find clear evidence of benefit of tight blood sugar control on the progression of nephropathy once participants had developed microalbuminuria (the kidney leaking small amounts of the protein albumin into the urine); no adequate data were available regarding the progression of neuropathy.\nMajor macrovascular outcomes (such as stroke and myocardial infarction) occurred very rarely; therefore we could not draw firm conclusions from the studies included in this review.\nWe found that intensive glucose control can increase the risk of severe hypoglycaemia, however the results varied across studies and only one big study showed a clear increase in severe hypoglycaemic episodes under intensive treatment. An analysis according to haemoglobin A1c (HbA1c) levels (a long-term measure of glucose control) at the start of the study suggests that the risk of hypoglycaemia with intensive glucose control is possibly only increased for people who started the study with relatively low HbA1c values (less than 9.0%).\nThere were very few data on health-related quality of life, death from any cause, and costs. Overall, mortality was very low in almost all studies. The effects of intensive glucose control on health-related quality of life were unclear and were consistent with benefit or harm. One study reported that intensive glucose control could be highly cost-effective when considering the potential reduction of diabetes complications in the future.\nTight blood sugar control reduced the risk of developing microvascular diabetes complications. The main benefits identified in this review came from studies in younger individuals who were at early stages of the disease. Appropriate patient training is important with these interventions in order to avoid the risk of severe hypoglycaemia. The effects of tight blood sugar control seem to become weaker once complications occur. However, further research is needed on this issue. Furthermore, there is a lack of evidence from randomised controlled trials on the effects of tight blood sugar control on older patient populations or individuals with macrovascular disease. There is currently no firm evidence for specific blood glucose targets, therefore treatment goals need to be individualised, taking into account age, disease progression, macrovascular risk, as well as people's lifestyle and disease management capabilities."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "For the majority of outcomes we evaluated the overall quality of evidence as moderate or low (analysed by the 'Grading of Recommendations Assessment, Development, and Evaluation' (GRADE) system)."
+    },
+    {
+      "heading": "Currentness of data",
+      "text": "This evidence is up to date as of December 2012."
+    }
+  ]
+}

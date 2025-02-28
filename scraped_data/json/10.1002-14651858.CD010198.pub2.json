@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010198.pub2",
+  "name": "Virtual reality training for improving the skills needed for performing surgery of the ear, nose or throat ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Virtual reality simulation uses computer-generated imagery to present a simulated training environment for learners. This review seeks to examine whether there is evidence to support the introduction of virtual reality surgical simulation into ear, nose and throat surgical training programmes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "1. To assess whether surgeons undertaking virtual reality simulation-based training achieve surgical ('patient') outcomes that are at least as good as, or better than, those achieved through conventional training methods.\n2. To assess whether there is evidence from either the operating theatre, or from controlled (simulation centre-based) environments, that virtual reality-based surgical training leads to surgical skills that are comparable to, or better than, those achieved through conventional training."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co-ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 6); PubMed; EMBASE; ERIC; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 27 July 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials and controlled trials comparing virtual reality training and any other method of training in ear, nose or throat surgery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures expected by The Cochrane Collaboration. We evaluated both technical and non-technical aspects of skill competency."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies involving 210 participants. Out of these, four studies (involving 61 residents) assessed technical skills in the operating theatre (primary outcomes). Five studies (comprising 149 residents and medical students) assessed technical skills in controlled environments (secondary outcomes). The majority of the trials were at high risk of bias. We assessed the GRADE quality of evidence for most outcomes across studies as 'low'.\nOperating theatre environment (primary outcomes)\nIn the operating theatre, there were no studies that examined two of three primary outcomes: real world patient outcomes and acquisition of non-technical skills. The third primary outcome (technical skills in the operating theatre) was evaluated in two studies comparing virtual reality endoscopic sinus surgery training with conventional training. In one study, psychomotor skill (which relates to operative technique or the physical co-ordination associated with instrument handling) was assessed on a 10-point scale. A second study evaluated the procedural outcome of time-on-task. The virtual reality group performance was significantly better, with a better psychomotor score (mean difference (MD) 3.20, 95% CI 2.05 to 4.34; 10-point scale) and a shorter time taken to complete the operation (MD -5.50 minutes, 95% CI -9.97 to -1.03).\nControlled training environments (secondary outcomes)\nIn a controlled environment five studies evaluated the technical skills of surgical trainees (one study) and medical students (three studies). One study was excluded from the analysis.\nSurgical trainees: One study (80 participants) evaluated the technical performance of surgical trainees during temporal bone surgery, where the outcome was the quality of the final dissection. There was no difference in the end-product scores between virtual reality and cadaveric temporal bone training.\nMedical students: Two other studies (40 participants) evaluated technical skills achieved by medical students in the temporal bone laboratory. Learners' knowledge of the flow of the operative procedure (procedural score) was better after virtual reality than conventional training (SMD 1.11, 95% CI 0.44 to 1.79). There was also a significant difference in end-product score between the virtual reality and conventional training groups (SMD 2.60, 95% CI 1.71 to 3.49). One study (17 participants) revealed that medical students acquired anatomical knowledge (on a scale of 0 to 10) better during virtual reality than during conventional training (MD 4.3, 95% CI 2.05 to 6.55). No studies in a controlled training environment assessed non-technical skills."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited evidence to support the inclusion of virtual reality surgical simulation into surgical training programmes, on the basis that it can allow trainees to develop technical skills that are at least as good as those achieved through conventional training. Further investigations are required to determine whether virtual reality training is associated with better real world outcomes for patients and the development of non-technical skills. Virtual reality simulation may be considered as an additional learning tool for medical students."
+    }
+  ],
+  "pls_title": "Virtual reality training for improving the skills needed for performing surgery of the ear, nose or throat",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review evaluated whether surgeons trained in virtual reality simulation achieved outcomes for their patients that were equivalent to, or better than, those obtained through conventional training methods. It also evaluated whether virtual reality training helped surgeons acquire equivalent (or better) technical skills required to achieve good surgical outcomes, or the non-technical skills to make good decisions and lead the operating room team. Another consideration evaluated was the level of experience of participants in the trials, given that some of the study participants were surgeons in training, while others were medical students."
+    },
+    {
+      "heading": "Background",
+      "text": "Virtual reality simulation provides an alternative to current training programmes for ear, nose and throat surgery. However, the capability of virtual reality simulation training to provide an equivalent, or superior, approach to traditional training methods needs to be reliably identified. As virtual reality is an emerging technology, few comparative studies exist, making it difficult to identify accurately its value or worth for surgical training."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included nine studies involving 210 ear, nose and throat residents and medical students. Four studies compared virtual reality endoscopic sinus surgery training with conventional training; one study compared virtual reality endoscopic dacryocystorhinostomy training versus textbook reading; two studies compared virtual reality temporal bone dissection training versus cadaveric temporal bone dissection training and two studies compared virtual reality temporal bone dissection training versus a small group tutorial with temporal bone models. None of the studies were funded by an agency with a commercial interest in the results of the studies."
+    },
+    {
+      "heading": "Key results",
+      "text": "None of the studies evaluated whether training in virtual reality influences patient outcomes or non-technical skills. There is evidence to support the introduction of virtual reality into surgical training on the basis that the technical skills acquired by this method are as good as, or better than, those learnt through conventional training. Virtual reality can be added to the extensive range of activities that constitutes a comprehensive surgical training programme. Virtual reality simulation should also be considered as an additional learning tool for medical students."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We assessed the quality of the evidence in this review for most outcomes as 'low' (using the GRADE system). The key reasons for this were issues related to study design. The evidence in this review is up to date to 27 July 2015."
+    }
+  ]
+}

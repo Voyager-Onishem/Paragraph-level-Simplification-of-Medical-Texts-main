@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD013751.pub2",
+  "name": "Hypoxia‐inducible factor stabilisers for the anaemia of chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Anaemia occurs in chronic kidney disease (CKD) and is more prevalent with lower levels of kidney function. Anaemia in CKD is associated with death related to cardiovascular (CV) disease and infection. Established treatments include erythropoiesis-stimulating agents (ESAs), iron supplementation and blood transfusions. Oral hypoxia-inducible factors (HIF) stabilisers are now available to manage anaemia in people with CKD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to assess the benefits and potential harms of HIF stabilisers for the management of anaemia in people with CKD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 22 November 2021 through contact with the Information Specialist using search terms relevant to our review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised studies evaluating hypoxia-inducible factors stabilisers compared to placebo, standard care, ESAs or iron supplementation in people with CKD were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Five authors independently extracted data and assessed the risk of bias. Treatment estimates were summarised using random effects pair-wise meta-analysis and expressed as a relative risk (RR) or mean difference (MD), with a corresponding 95% confidence interval (CI). Evidence certainty was assessed using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 51 studies randomising 30,994 adults. These studies compared HIF stabilisers to either placebo or an ESA.\nCompared to placebo, HIF stabiliser therapy had uncertain effects on CV death (10 studies, 1114 participants): RR 3.68, 95% CI 0.19 to 70.21; very low certainty evidence), and nonfatal myocardial infarction (MI) (3 studies, 822 participants): RR 1.29, 95% CI 0.31 to 5.36; I² = 0%; very low certainty evidence), probably decreases the proportion of patients requiring blood transfusion (8 studies, 4329 participants): RR 0.51, 95% CI 0.44 to 0.60; I² = 0%; moderate certainty evidence), and increases the proportion of patients reaching the target haemoglobin (Hb) (10 studies, 5102 participants): RR 8.36, 95% CI 6.42 to 10.89; I² = 37%; moderate certainty evidence).\nCompared to ESAs, HIF stabiliser therapy may make little or no difference to CV death (17 studies, 10,340 participants): RR 1.05, 95% CI 0.88 to 1.26; I² = 0%; low certainty evidence), nonfatal MI (7 studies, 7765 participants): RR 0.91, 95% CI 0.76 to 1.10; I² = 0%; low certainty evidence), and nonfatal stroke (5 studies, 7285 participants): RR 1.06, 95% CI 0.71 to 1.56; I² = 8%; low certainty evidence), and had uncertain effects on fatigue (2 studies, 3471 participants): RR 0.80, 95% CI 0.56 to 1.16; I² = 0%; very low certainty evidence). HIF stabiliser therapy probably decreased the proportion of patients requiring blood transfusion (11 studies, 10,786 participants): RR 0.87, 95% CI 0.76 to 1.00; I² = 25%; moderate certainty evidence), but may make little or no difference on the proportion of patients reaching the target Hb (14 studies, 4601 participants): RR 1.00, 95% CI 0.93 to 1.07; I² = 70%; low certainty evidence), compared to ESA.\nThe effect of HIF stabilisers on hospitalisation for heart failure, peripheral arterial events, loss of unassisted dialysis vascular access patency, access intervention, cancer, infection, pulmonary hypertension and diabetic nephropathy was uncertain.\nNone of the included studies reported life participation. Adverse events were rarely and inconsistently reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "HIF stabiliser management of anaemia had uncertain effects on CV death, fatigue, death (any cause), CV outcomes, and kidney failure compared to placebo or ESAs. Compared to placebo or ESAs, HIF stabiliser management of anaemia probably decreased the proportion of patients requiring blood transfusions, and probably increased the proportion of patients reaching the target Hb when compared to placebo."
+    }
+  ],
+  "pls_title": "Are hypoxia-inducible factor stabilisers effective for management of anaemia among people with chronic kidney disease?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Anaemia (reduced levels of circulating red blood cells) is common in people with chronic kidney disease (CKD). Anaemia is linked to cardiovascular disease, infection and death. Hypoxia-inducible factors (HIF) stabilisers have now become available to manage anaemia and can be taken by mouth, thus avoiding injections."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We evaluated whether HIF stabilisers are beneficial for children and adults with CKD to manage anaemia. We evaluated all clinical studies for hypoxia-inducible factor stabilisers and summarised the results. We evaluated how certain we could be about the evidence related to hypoxia-inducible factors stabiliser using a system called \"GRADE\"."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 51 studies randomising 30,994 adult patients. Patients in the studies were given a HIF stabiliser, a sugar pill (placebo), or erythropoietin treatment. The treatment they got was decided by random chance. The studies were generally short-term (over a few weeks). There were no studies in children or people who had received a kidney transplant.\nHIF stabilisers decreased blood transfusions for people with CKD when compared to placebo or erythropoietin treatment. HIF stabilisers increased the number of patients reaching their haemoglobin target level when compared to placebo. HIF stabilisers have uncertain effects on life expectancy and the chance of heart disease in people with CKD."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "HIF stabilisers decreased the need for a blood transfusion for people with CKD and increased the number of patients reaching their haemoglobin target level. We are not sure whether hypoxia-inducible factor stabilisers have any impact on life expectancy or life quality in people with CKD when compared to a placebo or other treatments for anaemia."
+    }
+  ]
+}

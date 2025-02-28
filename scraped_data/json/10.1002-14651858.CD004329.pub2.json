@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004329.pub2",
+  "name": "Chemotherapy as an adjunct to radiotherapy in locally advanced nasopharyngeal carcinoma",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A previous meta-analysis investigated the role of chemotherapy in head and neck locally advanced carcinoma. This work had not been performed on nasopharyngeal carcinoma."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of the project was to study the effect of adding chemotherapy to radiotherapy on overall survival (OS) and event-free survival (EFS) in patients with nasopharyngeal carcinoma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (1966 to October 2003), EMBASE (1980 to October 2003) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 3, 2003) and trial registers. Handsearches of meeting abstracts, references in review articles and of the Chinese medical literature were carried out. Experts and pharmaceutical companies were asked to identify trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials comparing chemotherapy plus radiotherapy to radiotherapy alone in locally advanced nasopharyngeal carcinoma were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The meta-analysis was based on updated individual patient data. The log rank test, stratified by trial, was used for comparisons and the hazard ratios (HR) of death and failure (loco-regional/distant failure or death) were calculated."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight trials with 1753 patients were included. One trial with a 2 x 2 design was counted twice in the analysis. The analysis was performed including 11 comparisons based on 1975 patients. The median follow up was six years. The pooled hazard ratio of death was 0.82 (95% confidence interval (CI) 0.71 to 0.95; P = 0.006) corresponding to an absolute survival benefit of 6% at five years from chemotherapy (from 56% to 62%). The pooled hazard ratio of tumour failure or death was 0.76 (95% CI 0.67 to 0.86; P < 0.00001) corresponding to an absolute event-free survival benefit of 10% at five years from chemotherapy (from 42% to 52%). A significant interaction was observed between chemotherapy timings and overall survival (P = 0.005), explaining the heterogeneity observed in the treatment effect (P = 0.03) with the highest benefit from concomitant chemotherapy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Chemotherapy led to a small but significant benefit for overall survival and event-free survival. This benefit was essentially observed when chemotherapy was administered concomitantly with radiotherapy."
+    }
+  ],
+  "pls_title": "Chemotherapy as an adjunct to radiotherapy in locally advanced nasopharyngeal carcinoma",
+  "pls_type": "long",
+  "pls": "Eight trials (1753 patients) met the criteria for inclusion in this review. The addition of chemotherapy to standard radiotherapy provides a small but significant benefit in patients with nasopharyngeal cancer, especially when chemotherapy is administered at the same time as radiotherapy. The role of chemotherapy given before or after the radiotherapy is more questionable."
+}

@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013346.pub2",
+  "name": "Abdominal ultrasound and alpha‐foetoprotein for the diagnosis of hepatocellular carcinoma in adults with chronic liver disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hepatocellular carcinoma (HCC) occurs mostly in people with chronic liver disease and ranks sixth in terms of global instances of cancer, and fourth in terms of cancer deaths for men. Despite that abdominal ultrasound (US) is used as an initial test to exclude the presence of focal liver lesions and serum alpha-foetoprotein (AFP) measurement may raise suspicion of HCC occurrence, further testing to confirm diagnosis as well as staging of HCC is required. Current guidelines recommend surveillance programme using US, with or without AFP, to detect HCC in high-risk populations despite the lack of clear benefits on overall survival. Assessing the diagnostic accuracy of US and AFP may clarify whether the absence of benefit in surveillance programmes could be related to under-diagnosis. Therefore, assessment of the accuracy of these two tests for diagnosing HCC in people with chronic liver disease, not included in surveillance programmes, is needed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary: the diagnostic accuracy of US and AFP, alone or in combination, for the diagnosis of HCC of any size and at any stage in adults with chronic liver disease, either in a surveillance programme or in a clinical setting.\nSecondary: to assess the diagnostic accuracy of abdominal US and AFP, alone or in combination, for the diagnosis of resectable HCC; to compare the diagnostic accuracy of the individual tests versus the combination of both tests; to investigate sources of heterogeneity in the results."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Hepato-Biliary Group Diagnostic-Test-Accuracy Studies Register, Cochrane Library, MEDLINE, Embase, LILACS, Science Citation Index Expanded, until 5 June 2020. We applied no language or document-type restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies assessing the diagnostic accuracy of US and AFP, independently or in combination, for the diagnosis of HCC in adults with chronic liver disease, with cross-sectional and case-control designs, using one of the acceptable reference standards, such as pathology of the explanted liver, histology of resected or biopsied focal liver lesion, or typical characteristics on computed tomography, or magnetic resonance imaging, all with a six-months follow-up."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently screened studies, extracted data, and assessed the risk of bias and applicability concerns, using the QUADAS-2 checklist. We presented the results of sensitivity and specificity, using paired forest-plots, and tabulated the results. We used a hierarchical meta-analysis model where appropriate. We presented uncertainty of the accuracy estimates using 95% confidence intervals (CIs). We double-checked all data extractions and analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 373 studies. The index-test was AFP (326 studies, 144,570 participants); US (39 studies, 18,792 participants); and a combination of AFP and US (eight studies, 5454 participants).\nWe judged at high-risk of bias all but one study. Most studies used different reference standards, often inappropriate to exclude the presence of the target condition, and the time-interval between the index test and the reference standard was rarely defined. Most studies with AFP had a case-control design. We also had major concerns for the applicability due to the characteristics of the participants.\nAs the primary studies with AFP used different cut-offs, we performed a meta-analysis using the hierarchical-summary-receiver-operating-characteristic model, then we carried out two meta-analyses including only studies reporting the most used cut-offs: around 20 ng/mL or 200 ng/mL.\nAFP cut-off 20 ng/mL: for HCC (147 studies) sensitivity 60% (95% CI 58% to 62%), specificity 84% (95% CI 82% to 86%); for resectable HCC (six studies) sensitivity 65% (95% CI 62% to 68%), specificity 80% (95% CI 59% to 91%).\nAFP cut-off 200 ng/mL: for HCC (56 studies) sensitivity 36% (95% CI 31% to 41%), specificity 99% (95% CI 98% to 99%); for resectable HCC (two studies) one with sensitivity 4% (95% CI 0% to 19%), specificity 100% (95% CI 96% to 100%), and one with sensitivity 8% (95% CI 3% to 18%), specificity 100% (95% CI 97% to 100%).\nUS: for HCC (39 studies) sensitivity 72% (95% CI 63% to 79%), specificity 94% (95% CI 91% to 96%); for resectable HCC (seven studies) sensitivity 53% (95% CI 38% to 67%), specificity 96% (95% CI 94% to 97%).\nCombination of AFP (cut-off of 20 ng/mL) and US: for HCC (six studies) sensitivity 96% (95% CI 88% to 98%), specificity 85% (95% CI 73% to 93%); for resectable HCC (two studies) one with sensitivity 89% (95% CI 73% to 97%), specificity of 83% (95% CI 76% to 88%), and one with sensitivity 79% (95% CI 54% to 94%), specificity 87% (95% CI 79% to 94%).\nThe observed heterogeneity in the results remains mostly unexplained, and only in part referable to different cut-offs or settings (surveillance programme compared to clinical series). The sensitivity analyses, excluding studies published as abstracts, or with case-control design, showed no variation in the results.\nWe compared the accuracy obtained from studies with AFP (cut-off around 20 ng/mL) and US: a direct comparison in 11 studies (6674 participants) showed a higher sensitivity of US (81%, 95% CI 66% to 90%) versus AFP (64%, 95% CI 56% to 71%) with similar specificity: US 92% (95% CI 83% to 97%) versus AFP 89% (95% CI 79% to 94%). A direct comparison of six studies (5044 participants) showed a higher sensitivity (96%, 95% CI 88% to 98%) of the combination of AFP and US versus US (76%, 95% CI 56% to 89%) with similar specificity: AFP and US 85% (95% CI 73% to 92%) versus US 93% (95% CI 80% to 98%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In the clinical pathway for the diagnosis of HCC in adults, AFP and US, singularly or in combination, have the role of triage-tests. We found that using AFP, with 20 ng/mL as a cut-off, about 40% of HCC occurrences would be missed, and with US alone, more than a quarter. The combination of the two tests showed the highest sensitivity and less than 5% of HCC occurrences would be missed with about 15% of false-positive results. The uncertainty resulting from the poor study quality and the heterogeneity of included studies limit our ability to confidently draw conclusions based on our results."
+    }
+  ],
+  "pls_title": "Abdominal ultrasound and alpha-foetoprotein for the diagnosis of hepatocellular carcinoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of hepatocellular carcinoma important?",
+      "text": "Hepatocellular carcinoma (HCC), i.e. cancer originating in the liver, is sixth in terms of global occurrences of cancer and fourth in terms of cancer deaths in men. This cancer occurs mostly in people with chronic liver disease regardless of the cause. Ultrasound (US), which uses ultrasound waves to show abnormalities in the liver, can detect the presence of liver lesions suspected of being HCC. Alpha-foetoprotein (AFP), a glycoprotein, produced by the liver and measurable in the blood, is considered a tumour-marker because high levels can be associated with the presence of HCC. These two tests (US and AFP) are used, alone or in combination, to exclude the presence of HCC in people at high risk of developing HCC. People at high risk are those who have chronic liver disease. Current guidelines recommend surveillance programmes, repeating abdominal US with or without AFP testing every six months to detect early HCC, amenable to surgical resection or other treatment."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To find out how accurate AFP, US, and a combination of AFP and US are for diagnosing HCC in people with chronic liver disease."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "AFP (tumour marker), that can easily be measured in the blood, using a commercial kit. Studies with AFP used various threshold values for defining the test as positive or negative.\nUS is an equipment, available worldwide. It produces images of liver and other abdominal organs. It can detect the presence of liver lesions suspected of being HCC.\nA combination of AFP and US can detect or negate the presence of liver lesions suspected of being HCC."
+    },
+    {
+      "heading": "What are the main results in this review?",
+      "text": "We found 373 total studies in adults: AFP was analysed in 326 studies, 144,570 participants; US in 39 studies, 18,792 participants; and the combination of AFP and US in eight studies, 5454 participants.\n- AFP with threshold of 20 ng/mL (147 studies): the test was positive in 60 out of 100 participants with HCC and in 16 out of 100 participants without HCC. AFP with threshold of 200 ng/mL (56 studies): the test was positive in 36 out of 100 participants with HCC and only in 1 out of 100 without HCC.\n- US (39 studies): the test was positive in 72 out of 100 participants with HCC and in 6 out of 100 participants without HCC.\n- The combination of AFP with threshold of 20 ng/mL and US (6 studies): one or both tests were positive in 96 out of 100 participants with HCC and in 15 out of 100 participants without HCC.\nThus, the combination of the two tests is better in detecting participants with HCC. Considering that people with chronic liver disease have HCC in 5 out of 100, one can assume that among 1000 people with chronic liver disease, 50 will have HCC, and, using AFP and abdominal US in combination, one can detect 48 out of the people with HCC, and 2 people will go undetected and will not receive appropriate treatment; 950 out of 1000 will have no HCC, and 143 of them will receive a wrong diagnosis of HCC, and will undergo further unnecessary testing such as computed tomography, magnetic resonance imaging, or biopsy."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "All but one study had issues with risk of bias, especially in participants selection and in the correct definition on presence of HCC. These problems could impair the correct estimates of the diagnostic ability of the three tests."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "People with chronic liver disease"
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "Using AFP, with 20 ng/mL, as threshold, about 40% of HCC occurrences would be missed, and with US alone, more than a quarter. The sensitivity was highest when the two tests were used in combination, and less than 5% of HCC occurrences would be missed with about 15% of false-positive results."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "5 June 2020"
+    }
+  ]
+}

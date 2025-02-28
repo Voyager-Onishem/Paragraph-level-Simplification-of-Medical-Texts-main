@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013683.pub2",
+  "name": "Pharmacological interventions for preventing venous thromboembolism in people undergoing bariatric surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolism (VTE), which comprises deep vein thrombosis (DVT) and pulmonary embolism (PE), is the leading cause of preventable death in hospitalised people and the third most common cause of mortality in surgical patients. People undergoing bariatric surgery have the additional risk factor of being overweight. Although VTE prophylaxis in surgical patients is well established, the best way to prevent VTE in those undergoing bariatric surgery is less clear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of pharmacological interventions (alone or in combination) on venous thromboembolism and other health outcomes in people undergoing bariatric surgery compared to the same pharmacological intervention administered at a different dose or frequency, the same pharmacological intervention or started at a different time point, another pharmacological intervention, no intervention or placebo."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 1 November 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs in males and females of any age undergoing bariatric surgery comparing pharmacological interventions for VTE (alone or in combination) with the same pharmacological intervention administered at a different dose or frequency, the same pharmacological intervention started at a different time point, a different pharmacological intervention, no treatment or placebo."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were 1. VTE and 2. major bleeding. Our secondary outcomes were 1. all-cause mortality, 2. VTE-related mortality, 3. PE, 4. DVT, 5. adverse effects and 6. quality of life. We used GRADE to assess certainty of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven RCTs with 1045 participants. Data for meta-analysis were available from all participants.\nFour RCTs (597 participants) compared higher-dose heparin to standard-dose heparin: one of these studies (139 participants) used unfractionated heparin (UFH) and the other three (458 participants) used low-molecular-weight heparin (LMWH). One study compared heparin versus pentasaccharide (198 participants), and one study compared starting heparin before versus after bariatric surgery (100 participants). One study (150 participants) compared combined mechanical and pharmacological (enoxaparin) prophylaxis versus mechanical prophylaxis alone. The duration of the interventions ranged from seven to 15 days, and follow-up ranged from 10 to 180 days.\nHigher-dose heparin versus standard-dose heparin\nCompared to standard-dose heparin, higher-dose heparin may result in little or no difference in the risk of VTE (RR 0.55, 95% CI 0.05 to 5.99; 4 studies, 597 participants) or major bleeding (RR 1.19, 95% CI 0.48 to 2.96; I2 = 8%; 4 studies, 597 participants; low-certainty) in people undergoing bariatric surgery. The evidence on all-cause mortality, VTE-related mortality, PE, DVT and adverse events (thrombocytopenia) is uncertain (effect not estimable or very low-certainty evidence).\nHeparin versus pentasaccharide\nHeparin compared to a pentasaccharide after bariatric surgery may result in little or no difference in the risk of VTE (RR 0.83, 95% CI 0.19 to 3.61; 1 study, 175 participants) or DVT (RR 0.83, 95% CI 0.19 to 3.61; 1 study, 175 participants). The evidence on major bleeding, PE and mortality is uncertain (effect not estimable or very low-certainty evidence).\nHeparin started before versus after the surgical procedure\nStarting prophylaxis with heparin 12 hours before surgery versus after surgery may result in little or no difference in the risk of VTE (RR 0.11, 95% CI 0.01 to 2.01; 1 study, 100 participants) or DVT (RR 0.11, 95% CI 0.01 to 2.01; 1 study, 100 participants). The evidence on major bleeding, all-cause mortality and VTE-related mortality is uncertain (effect not estimable or very low-certainty evidence). We were unable to assess the effect of this intervention on PE or adverse effects, as the study did not measure these outcomes.\nCombined mechanical and pharmacological prophylaxis versus mechanical prophylaxis alone\nCombining mechanical and pharmacological prophylaxis (started 12 hours before surgery) may reduce VTE events in people undergoing bariatric surgery compared to mechanical prophylaxis alone (RR 0.05, 95% CI 0.00 to 0.89; number needed to treat for an additional beneficial outcome (NNTB) = 9; 1 study, 150 participants; low-certainty). We were unable to assess the effect of this intervention on major bleeding or morality (effect not estimable), or on PE or adverse events (not measured).\nNo studies measured quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Higher-dose heparin may make little or no difference to venous thromboembolism or major bleeding in people undergoing bariatric surgery when compared to standard-dose heparin.\nHeparin may make little or no difference to venous thromboembolism in people undergoing bariatric surgery when compared to pentasaccharide. There are inadequate data to draw conclusions about the effects of heparin compared to pentasaccharide on major bleeding.\nStarting prophylaxis with heparin 12 hours before bariatric surgery may make little or no difference to venous thromboembolism in people undergoing bariatric surgery when compared to starting heparin after bariatric surgery. There are inadequate data to draw conclusions about the effects of heparin started before versus after surgery on major bleeding.\nCombining mechanical and pharmacological prophylaxis (started 12 hours before surgery) may reduce VTE events in people undergoing bariatric surgery when compared to mechanical prophylaxis alone. No data are available relating to major bleeding.\nThe certainty of the evidence is limited by small sample sizes, few or no events, and risk of bias concerns. Future trials must be sufficiently large to enable analysis of relevant clinical outcomes, and should standardise the time of treatment and follow-up. They should also address the effect of direct oral anticoagulants and antiplatelets, preferably grouping them according to the type of intervention."
+    }
+  ],
+  "pls_title": "Can medicines prevent venous thromboembolism after weight-loss surgery?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is venous thromboembolism?",
+      "text": "Venous thromboembolism (VTE) is a clinical condition that usually starts when a blood clot forms inside a vein. The condition includes both deep vein thrombosis (when the clot forms in a deep vein, usually in the legs) and pulmonary embolism (when the clot forms in or reaches a blood vessel in the lungs). Both situations can substantially reduce quality of life and can be life-threatening. People with obesity or who undergo surgery are more likely to experience VTE. Therefore, people undergoing a bariatric surgical procedure (aimed at reducing bodyweight by restricting food intake or absorption) are at particularly high risk. However, it is unclear whether these people should receive the same intervention to prevent VTE as people with other clinical conditions."
+    },
+    {
+      "heading": "How can venous thromboembolism be prevented?",
+      "text": "VTE prophylaxis (preventive interventions) can be mechanical (e.g. elastic stockings or external compressive devices) or pharmacological (involving medicines that reduce blood clot formation, such as heparins, pentasaccharides or antiplatelet agents), or can combine both approaches."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to assess whether any pharmacological intervention can prevent VTE in people undergoing bariatric surgery, and whether these interventions are safe."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that examined the effect of any medicine for preventing VTE in people undergoing bariatric surgery, compared with the same medicine at a different dose, or given more or less often, or started at a different time point; or compared with a different medicine; or compared with no treatment or placebo (dummy treatment). We also included combinations of interventions.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and size."
+    },
+    {
+      "heading": "What did we find",
+      "text": "We found seven studies involving 1045 people who underwent bariatric surgery. The studies provided information about four different comparisons:\n1) heparin at a higher dose versus the same heparin at a standard dose; \n2) heparin versus a pentasaccharide; \n3) heparin started before versus after the surgical procedure; and\n4) combined mechanical and pharmacological prophylaxis versus mechanical prophylaxis alone.\nFour studies provided information for the first comparison: one assessed unfractionated heparin (which is given by a medical professional and wears off quickly) and three assessed low-molecular-weight heparin (which patients can inject themselves and which lasts longer). There was one study for each of the other three comparisons.\nHeparin at a higher dose compared to a standard dose may make little or no difference to the risk of VTE or major bleeding in people undergoing bariatric surgery. The evidence on death, pulmonary embolism, deep vein thrombosis and the side effect thrombocytopenia (low blood platelet count) is uncertain.\nHeparin compared with pentasaccharide may make little or no difference to the risk of VTE or deep vein thrombosis in people undergoing bariatric surgery. The evidence on major bleeding, death, pulmonary embolism and side effects (thrombocytopenia, irregular heartbeat, rash and nausea and vomiting) is uncertain.\nHeparin before compared with after surgery may make little or no difference to the risk of VTE or deep vein thrombosis in people undergoing bariatric surgery. The evidence on major bleeding and death is uncertain. The study did not measure pulmonary embolism or harmful side effects.\nMechanical prophylaxis plus pharmacological prophylaxis compared to mechanical prophylaxis alone may decrease the risk of VTE and deep vein thrombosis in people undergoing bariatric surgery. The evidence on major bleeding and death is uncertain. The study did not measure pulmonary embolism or harmful side effects.\nNo studies measured the effect of any intervention on quality of life."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Although there is some evidence on the effects of heparins, pentasaccharides and mechanical combined with pharmacological prophylaxis for preventing VTE in people undergoing bariatric surgery, we are still not sure which intervention works best."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have little or very little confidence in the evidence because the studies were of low quality. Many participants dropped out from one study, there were a low number of events overall, and most studies had few participants. Larger studies assessing important outcomes (e.g. VTE, major bleeding, death due to any cause, death due to VTE, pulmonary embolism, deep vein thrombosis, harmful side effects and quality of life) are needed to assess which medicines are more effective and safer and at which dose they should be used."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This evidence is up-to-date to November 2021."
+    }
+  ]
+}

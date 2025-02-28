@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003328.pub3",
+  "name": "Interventions for paracetamol (acetaminophen) overdose",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Paracetamol (acetaminophen) is the most widely used non-prescription analgesic in the world. Paracetamol is commonly taken in overdose either deliberately or unintentionally. In high-income countries, paracetamol toxicity is a common cause of acute liver injury. There are various interventions to treat paracetamol poisoning, depending on the clinical status of the person. These interventions include inhibiting the absorption of paracetamol from the gastrointestinal tract (decontamination), removal of paracetamol from the vascular system, and antidotes to prevent the formation of, or to detoxify, metabolites."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of interventions for paracetamol overdosage irrespective of the cause of the overdose."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Hepato-Biliary Group Controlled Trials Register (January 2017), CENTRAL (2016, Issue 11), MEDLINE (1946 to January 2017), Embase (1974 to January 2017), and Science Citation Index Expanded (1900 to January 2017). We also searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov database (US National Institute of Health) for any ongoing or completed trials (January 2017). We examined the reference lists of relevant papers identified by the search and other published reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials assessing benefits and harms of interventions in people who have ingested a paracetamol overdose. The interventions could have been gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes. The interventions could have been compared with placebo, no intervention, or to each other in differing regimens."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included trials. We used fixed-effect and random-effects Peto odds ratios (OR) with 95% confidence intervals (CI) for analysis of the review outcomes. We used the Cochrane 'Risk of bias' tool to assess the risks of bias (i.e. systematic errors leading to overestimation of benefits and underestimation of harms). We used Trial Sequential Analysis to control risks of random errors (i.e. play of chance) and GRADE to assess the quality of the evidence and constructed 'Summary of findings' tables using GRADE software."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 11 randomised clinical trials (of which one acetylcysteine trial was abandoned due to low numbers recruited), assessing several different interventions in 700 participants. The variety of interventions studied included decontamination, extracorporeal measures, and antidotes to detoxify paracetamol's toxic metabolite; which included methionine, cysteamine, dimercaprol, or acetylcysteine. There were no randomised clinical trials of agents that inhibit cytochrome P-450 to decrease the activation of the toxic metabolite N -acetyl-p-benzoquinone imine.\nOf the 11 trials, only two had two common outcomes, and hence, we could only meta-analyse two comparisons. Each of the remaining comparisons included outcome data from one trial only and hence their results are presented as described in the trials. All trial analyses lack power to access efficacy. Furthermore, all the trials were at high risk of bias. Accordingly, the quality of evidence was low or very low for all comparisons. Interventions that prevent absorption, such as gastric lavage, ipecacuanha, or activated charcoal were compared with placebo or no intervention and with each other in one four-armed randomised clinical trial involving 60 participants with an uncertain randomisation procedure and hence very low quality. The trial presented results on lowering plasma paracetamol levels. Activated charcoal seemed to reduce the absorption of paracetamol, but the clinical benefits were unclear. Activated charcoal seemed to have the best risk:benefit ratio among gastric lavage, ipecacuanha, or supportive treatment if given within four hours of ingestion. There seemed to be no difference between gastric lavage and ipecacuanha, but gastric lavage and ipecacuanha seemed more effective than no treatment (very low quality of evidence). Extracorporeal interventions included charcoal haemoperfusion compared with conventional treatment (supportive care including gastric lavage, intravenous fluids, and fresh frozen plasma) in one trial with 16 participants. The mean cumulative amount of paracetamol removed was 1.4 g. One participant from the haemoperfusion group who had ingested 135 g of paracetamol, died. There were no deaths in the conventional treatment group. Accordingly, we found no benefit of charcoal haemoperfusion (very low quality of evidence). Acetylcysteine appeared superior to placebo and had fewer adverse effects when compared with dimercaprol or cysteamine. Acetylcysteine superiority to methionine was unproven. One small trial (low quality evidence) found that acetylcysteine may reduce mortality in people with fulminant hepatic failure (Peto OR 0.29, 95% CI 0.09 to 0.94). The most recent randomised clinical trials studied different acetylcysteine regimens, with the primary outcome being adverse events. It was unclear which acetylcysteine treatment protocol offered the best efficacy, as most trials were underpowered to look at this outcome. One trial showed that a modified 12-hour acetylcysteine regimen with a two-hour acetylcysteine 100 mg/kg bodyweight loading dose was associated with significantly fewer adverse reactions compared with the traditional three-bag 20.25-hour regimen (low quality of evidence). All Trial Sequential Analyses showed lack of sufficient power. Children were not included in the majority of trials. Hence, the evidence pertains only to adults."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "These results highlight the paucity of randomised clinical trials comparing different interventions for paracetamol overdose and their routes of administration and the low or very low level quality of the evidence that is available. Evidence from a single trial found activated charcoal seemed the best choice to reduce absorption of paracetamol. Acetylcysteine should be given to people at risk of toxicity including people presenting with liver failure. Further randomised clinical trials with low risk of bias and adequate number of participants are required to determine which regimen results in the fewest adverse effects with the best efficacy. Current management of paracetamol poisoning worldwide involves the administration of intravenous or oral acetylcysteine which is based mainly on observational studies. Results from these observational studies indicate that treatment with acetylcysteine seems to result in a decrease in morbidity and mortality, However, further evidence from randomised clinical trials comparing different treatments are needed."
+    }
+  ],
+  "pls_title": "Interventions for paracetamol (acetaminophen) overdose",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "in this review, we looked at the evidence for the interventions (treatments) used to treat people with paracetamol (acetaminophen) poisoning. Mainly, we tried to assess what effects the interventions had on the number of deaths and the need for a liver transplant."
+    },
+    {
+      "heading": "Background",
+      "text": "paracetamol is one of the most common drugs taken in overdose. Intentional or accidental poisoning with paracetamol is a common cause of liver injury."
+    },
+    {
+      "heading": "Search date",
+      "text": "the evidence is current to January 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "randomised clinical trials (studies where people are randomly put into one of two or more treatment groups) where participants had come to medical attention because they had taken a paracetamol overdose, intentionally or by accident, regardless of the amount of paracetamol taken or the age, sex, or other medical conditions of the person involved.\nThere are many different interventions that can be used to try to treat people with paracetamol poisoning. These interventions include decreasing the absorption of the paracetamol ingested and hence decreasing the amount absorbed into the bloodstream. The agents include activated charcoal (that binds paracetamol together in the stomach), gastric lavage (stomach washout to remove as much paracetamol as possible), or ipecacuanha (a syrup that is swallowed and causes vomiting (being sick)). Paracetamol once absorbed into the bloodstream goes to the liver where the majority is broken down to harmless products. However, a small amount of the medicine is converted into a toxic product that the liver can normally handle but, when large amounts of paracetamol are taken, the liver is overwhelmed. As a consequence, the toxic product can damage the liver leading to liver failure, kidney failure, and in some cases death. Other interventions to treat paracetamol poisoning include medicines (antidotes) that may decrease the amount of the toxic products (such as a medicine called cimetidine) or breakdown the toxic products (including medicines called methionine, cysteamine, dimercaprol, or acetylcysteine). Finally, attempts can be made to remove paracetamol and its toxic products from the bloodstream using special blood cleansing equipment. All these treatments were examined.\nWe found 11 randomised clinical trials with 700 participants. Most of these trials looked at different treatments."
+    },
+    {
+      "heading": "Key results",
+      "text": "activated charcoal, gastric lavage, and ipecacuanha may reduce absorption of paracetamol if started within one to two hours of paracetamol ingestion, but the clinical benefit was unclear. Activated charcoal seems to be the best choice if the person is able to take it. People may not be able to take charcoal if they are drowsy and some may dislike its taste or texture (or both).\nOf the treatments that remove the toxic products of paracetamol, acetylcysteine seems to reduce the rate of liver injury from paracetamol poisoning. Furthermore, it has fewer side effects than some other antidotes such as dimercaprol and cysteamine; its superiority to methionine was unclear. Acetylcysteine should be given to people with paracetamol poisoning at risk of liver damage, risk is determined by the dose ingested, time of ingestion, and investigations.\nMore recent clinical trials have looked at ways to decrease side effects of intravenous (into a vein) acetylcysteine treatment, by altering the way it is given. These trials have shown that by using a slower infusion and lower initial dose of acetylcysteine, the proportion of side effects such as nausea (feeling sick) and vomiting, and allergy (the body's bad reaction to the medicine such as a rash) may be lowered."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "this review of interventions for paracetamol poisoning found surprisingly few published randomised clinical trials for this very common condition. Furthermore, the majority of trials had few participants and all were at high risk of bias. Accordingly, the quality of the evidence should be considered as low or very low."
+    }
+  ]
+}

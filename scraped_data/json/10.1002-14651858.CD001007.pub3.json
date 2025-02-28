@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD001007.pub3",
+  "name": "Group behaviour therapy programmes for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Group therapy offers individuals the opportunity to learn behavioural techniques for smoking cessation, and to provide each other with mutual support."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of group-delivered behavioural interventions in achieving long-term smoking cessation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Specialized Register, using the terms 'behavior therapy', 'cognitive therapy', 'psychotherapy' or 'group therapy', in May 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials that compared group therapy with self-help, individual counselling, another intervention or no intervention (including usual care or a waiting-list control). We also considered trials that compared more than one group programme. We included those trials with a minimum of two group meetings, and follow-up of smoking status at least six months after the start of the programme. We excluded trials in which group therapy was provided to both active therapy and placebo arms of trials of pharmacotherapies, unless they had a factorial design."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data in duplicate on the participants, the interventions provided to the groups and the controls, including programme length, intensity and main components, the outcome measures, method of randomization, and completeness of follow-up. The main outcome measure was abstinence from smoking after at least six months follow-up in participants smoking at baseline. We used the most rigorous definition of abstinence in each trial, and biochemically-validated rates where available. We analysed participants lost to follow-up as continuing smokers. We expressed effects as a risk ratio for cessation. Where possible, we performed meta-analysis using a fixed-effect (Mantel-Haenszel) model. We assessed the quality of evidence within each study and comparison, using the Cochrane 'Risk of bias' tool and GRADE criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixty-six trials met our inclusion criteria for one or more of the comparisons in the review. Thirteen trials compared a group programme with a self-help programme; there was an increase in cessation with the use of a group programme (N = 4395, risk ratio (RR) 1.88, 95% confidence interval (CI) 1.52 to 2.33, I2 = 0%). We judged the GRADE quality of evidence to be moderate, downgraded due to there being few studies at low risk of bias. Fourteen trials compared a group programme with brief support from a health care provider. There was a small increase in cessation (N = 7286, RR 1.22, 95% CI 1.03 to 1.43, I2 = 59%). We judged the GRADE quality of evidence to be low, downgraded due to inconsistency in addition to risk of bias. There was also low quality evidence of benefit of a group programme compared to no-intervention controls, (9 trials, N = 1098, RR 2.60, 95% CI 1.80 to 3.76 I2 = 55%). We did not detect evidence that group therapy was more effective than a similar intensity of individual counselling (6 trials, N = 980, RR 0.99, 95% CI 0.76 to 1.28, I2 = 9%). Programmes which included components for increasing cognitive and behavioural skills were not shown to be more effective than same-length or shorter programmes without these components."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Group therapy is better for helping people stop smoking than self-help, and other less intensive interventions. There is not enough evidence to evaluate whether groups are more effective, or cost-effective, than intensive individual counselling. There is not enough evidence to support the use of particular psychological components in a programme beyond the support and skills training normally included."
+    }
+  ],
+  "pls_title": "Do group-based smoking cessation programmes help people to stop smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "One approach to help people who are trying to quit smoking is to offer them group-based support. Participants meet regularly, with a facilitator who is typically trained in smoking cessation counselling. Programme components are varied. A perceived strength of this approach is that participants provide each other with support and encouragement. The outcome of interest was not smoking at least six months from the start of the group programme."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 66 trials comparing group-based programmes to other types of support, or comparing different types of group programme. The most recent search was in May 2016."
+    },
+    {
+      "heading": "Results & quality of evidence",
+      "text": "In 13 trials (4395 participants) people in the control conditions were provided with a self-help programme. There was a benefit for the group-based approach, with the chance of quitting increased by 50% to 130%. This means that if five in 100 people were able to quit for at least six months using self-help materials, eight to 12 in 100 might be successful if offered group support. We judged the quality of this evidence as moderate, because studies did not report methods in enough detail to exclude possible bias. There was also evidence of a benefit of group support compared to advice and brief support from a healthcare professional (14 trials, 7286 participants), although the difference was smaller and more variable. We rated this as low-quality evidence, because of the variability as well as possible risk of bias. There was also low-quality evidence of a benefit in studies that did not provide the control group with any help to quit (9 trials, 1098 participants). Six trials (980 participants) compared group format with individual face-to-face counselling; there was no sign that one approach was more helpful than the other. The remaining studies compared different types of group programmes; typically they did not show differences, so it is not possible to show which components of group-based programmes are most helpful."
+    }
+  ]
+}

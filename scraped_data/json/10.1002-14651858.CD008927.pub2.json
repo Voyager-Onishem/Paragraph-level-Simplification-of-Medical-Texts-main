@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008927.pub2",
+  "name": "Antibody induction therapy for lung transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Lung transplantation has become a valuable and well-accepted treatment option for most end-stage lung diseases. Lung transplant recipients are at risk of transplanted organ rejection, and life-long immunosuppression is necessary. Clear evidence is essential to identify an optimal, safe and effective immunosuppressive treatment strategy for lung transplant recipients. Consensus has not yet been achieved concerning use of immunosuppressive antibodies against T-cells for induction following lung transplantation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to assess the benefits and harms of immunosuppressive T-cell antibody induction with ATG, ALG, IL-2RA, alemtuzumab, or muromonab-CD3 for lung transplant recipients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 4 March 2013 through contact with the Trials Search Co-ordinator using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE and EMBASE."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) that compared immunosuppressive monoclonal and polyclonal T-cell antibody induction for lung transplant recipients. An inclusion criterion was that all participants must have received the same maintenance immunosuppressive therapy within each study."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three authors extracted data. We derived risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI). Methodological risk of bias was assessed using the Cochrane risk of bias tool and trial sequential analyses were undertaken to assess the risk of random errors (play of chance)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our review included six RCTs (representing a total of 278 adult lung transplant recipients) that assessed the use of T-cell antibody induction. Evaluation of the included studies found all to be at high risk of bias.\nWe conducted comparisons of polyclonal or monoclonal T-cell antibody induction versus no induction (3 studies, 140 participants); polyclonal T-cell antibody versus no induction (3 studies, 125 participants); interleukin-2 receptor antagonists (IL-2RA) versus no induction (1 study, 25 participants); polyclonal T-cell antibody versus muromonab-CD3 (1 study, 64 participants); and polyclonal T-cell antibody versus IL-2RA (3 studies, 100 participants). Overall we found no significant differences among interventions in terms of mortality, acute rejection, adverse effects, infection, pneumonia, cytomegalovirus infection, bronchiolitis obliterans syndrome, post-transplantation lymphoproliferative disease, or cancer.\nWe found a significant outcome difference in one study that compared antithymocyte globulin versus muromonab-CD3 relating to adverse events (25/34 (74%) versus 12/30 (40%); RR 1.84, 95% CI 1.13 to 2.98). This suggested that antithymocyte globulin increased occurrence of adverse events. However, trial sequential analysis found that the required information size had not been reached, and the cumulative Z-curve did not cross the trial sequential alpha-spending monitoring boundaries.\nNone of the studies reported quality of life or kidney injury. Trial sequential analyses indicated that none of the meta-analyses achieved required information sizes and the cumulative Z-curves did not cross the trial sequential alpha-spending monitoring boundaries, nor reached the area of futility."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No clear benefits or harms associated with the use of T-cell antibody induction compared with no induction, or when different types of T-cell antibodies were compared were identified in this review. Few studies were identified that investigated use of antibodies against T-cells for induction after lung transplantation, and numbers of participants and outcomes were also limited. Assessment of the included studies found that all were at high risk of methodological bias.\nFurther RCTs are needed to perform robust assessment of the benefits and harms of T-cell antibody induction for lung transplant recipients. Future studies should be designed and conducted according to methodologies to reduce risks of systematic error (bias) and random error (play of chance)."
+    }
+  ],
+  "pls_title": "Can antibody induction therapy help to reduce organ rejection for lung transplant recipients?",
+  "pls_type": "long",
+  "pls": "People who receive transplanted lungs are at significant risk of organ rejection. To help reduce the risk of organ rejection, antibodies against T-cells (a type of white blood cell that plays a central role in immunity) are given to patients within the first two weeks after transplantation. Several types of antibodies have been used, but their benefits and harms are unclear.\nWe evaluated the use of antibodies against T-cells following lung transplantation to find out whether this therapy was safe, beneficial or harmful, and which type of antibodies work best with fewest adverse effects.\nWe analysed six studies that investigated the use of several different types of antibody therapies in 278 adult patients following lung transplantation. Flaws in study designs were found that indicated the studies were at risk of overestimating benefits and underestimating harms.\nOur analysis compared several types of antibodies, but with one exception - that antithymocyte globulin seemed to increase some adverse events - we found no significant differences in lung survival or rejection for any of the treatments. There was some uncertainty about this effect because the study was too small to be sure that observed benefits would apply to a larger population. We found no significant differences among therapies in terms of infection, bronchiolitis obliterans syndrome, post-transplantation lymphoproliferative disease, or cancer.\nFew investigated the use of T-cell antibodies after lung transplantation, and these included small numbers of participants. These limitations meant that our findings did not necessarily indicate no differences existed among comparisons in our analysis. To overcome this problem, larger and more robust randomised studies that assess the benefits and harms of antibodies against T-cells for people following lung transplantation are needed."
+}

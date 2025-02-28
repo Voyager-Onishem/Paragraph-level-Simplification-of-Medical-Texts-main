@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD011511.pub3",
+  "name": "Vitamin D for the management of asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Since the previous Cochrane Review on this topic in 2016, debate has continued surrounding a potential role for vitamin D in reducing risk of asthma exacerbation and improving asthma control. We therefore conducted an updated meta-analysis to include data from new trials completed since this date."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of administration of vitamin D or its hydroxylated metabolites in reducing the risk of severe asthma exacerbations (defined as those requiring treatment with systemic corticosteroids) and improving asthma symptom control."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Trial Register and reference lists of articles. We contacted the authors of studies in order to identify additional trials. Date of last search: 8 September 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included double-blind, randomised, placebo-controlled trials of vitamin D in children and adults with asthma evaluating exacerbation risk or asthma symptom control, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four review authors independently applied study inclusion criteria, extracted the data, and assessed risk of bias. We obtained missing data from the authors where possible. We reported results with 95% confidence intervals (CIs). The primary outcome was the incidence of severe asthma exacerbations requiring treatment with systemic corticosteroids. Secondary outcomes included the incidence of asthma exacerbations precipitating an emergency department visit or requiring hospital admission, or both, end-study childhood Asthma Control Test (cACT) or Asthma Control Test (ACT) scores, and end-study % predicted forced expiratory volume in one second (FEV1).\nWe performed subgroup analyses to determine whether the effect of vitamin D on risk of asthma exacerbation was modified by baseline vitamin D status, vitamin D dose, frequency of dosing regimen, form of vitamin D given, and age of participants."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 20 studies in this review; 15 trials involving a total of 1155 children and five trials involving a total of 1070 adults contributed data to analyses. Participant ages ranged from 1 to 84 years, with two trials providing data specific to participants under five years (n = 69) and eight trials providing data specific to participants aged 5 to 16 (n = 766). Across the trials, 1245 participants were male and 1229 were female, with two studies not reporting sex distribution. Fifteen trials contributed to the primary outcome analysis of exacerbations requiring systemic corticosteroids. The duration of trials ranged from three to 40 months; all but two investigated effects of administering cholecalciferol (vitamin D3). As in the previous Cochrane Review, the majority of participants had mild to moderate asthma, and profound vitamin D deficiency (25-hydroxyvitamin D (25(OH)D) < 25 nmol/L) at baseline was rare.\nAdministration of vitamin D or its hydroxylated metabolites did not reduce or increase the proportion of participants experiencing one or more asthma exacerbations treated with systemic corticosteroids (odds ratio (OR) 1.04, 95% CI 0.81 to 1.34; I2 = 0%; 14 studies, 1778 participants; high-quality evidence). This equates to an absolute risk of 226 per 1000 (95% CI 185 to 273) in the pooled vitamin D group, compared to a baseline risk of 219 participants per 1000 in the pooled placebo group.\nWe also found no effect of vitamin D supplementation on the rate of exacerbations requiring systemic corticosteroids (rate ratio 0.86, 95% CI 0.62 to 1.19; I2 = 60%; 10 studies, 1599 participants; high-quality evidence), or the time to first exacerbation (hazard ratio 0.82, 95% CI 0.59 to 1.15; I2 = 22%; 3 studies, 850 participants; high-quality evidence). Subgroup analysis did not reveal any evidence of effect modification by baseline vitamin D status, vitamin D dose, frequency of dosing regimen, or age. A single trial investigating administration of calcidiol reported a benefit of the intervention for the primary outcome of asthma control.\nVitamin D supplementation did not influence any secondary efficacy outcome meta-analysed, which were all based on moderate- or high-quality evidence. We observed no effect on the incidence of serious adverse events (OR 0.89, 95% CI 0.56 to 1.41; I2 = 0%; 12 studies, 1556 participants; high-quality evidence). The effect of vitamin D on fatal asthma exacerbations was not estimable, as no such events occurred in any trial. Six studies reported adverse reactions potentially attributable to vitamin D. These occurred across treatment and control arms and included hypercalciuria, hypervitaminosis D, kidney stones, gastrointestinal symptoms and mild itch. In one trial, we could not ascertain the total number of participants with hypercalciuria from the trial report.\nWe assessed three trials as being at high risk of bias in at least one domain; none of these contributed data to the analysis of the outcomes reported above. Sensitivity analyses that excluded these trials from each outcome to which they contributed did not change the null findings."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In contrast to findings of our previous Cochrane Review on this topic, this updated review does not find evidence to support a role for vitamin D supplementation or its hydroxylated metabolites to reduce risk of asthma exacerbations or improve asthma control. Participants with severe asthma and those with baseline 25(OH)D concentrations < 25 nmol/L were poorly represented, so further research is warranted here. A single study investigating effects of calcidiol yielded positive results, so further studies investigating effects of this metabolite are needed."
+    }
+  ],
+  "pls_title": "Does vitamin D reduce risk of severe asthma attacks or improve control of asthma symptoms?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "1) In contrast to our previous Cochrane Review on this topic, this updated review does not find that vitamin D offers protection against severe asthma attacks or improves control of symptoms.\n2) Further trials are required in people with frequent severe asthma attacks and those with very low baseline vitamin D status, and into the potential for calcidiol (a particular form of vitamin D) to offer protective effects."
+    },
+    {
+      "heading": "Why did we think that vitamin D might benefit patients with asthma?",
+      "text": "Low blood levels of vitamin D (the 'sunshine vitamin') have been linked to an increased risk of severe asthma attacks, defined as those requiring oral (systemic) steroid medications.\nOur previous Cochrane Review on this topic in 2016 found that vitamin D reduced the risk of asthma attacks, yet debate has continued, and some subsequent trials found vitamin D to have no effect. We therefore conducted an updated meta-analysis to include data from new trials completed since our last review."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if vitamin D supplementation:\n• reduces the risk of severe asthma attacks;\n• improves control of asthma symptoms;\n• leads to any negative side effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomised controlled trials that assessed the effect of vitamin D supplementation on the risk of severe asthma attacks and asthma symptom control. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods.\nWe also analysed whether effects of vitamin D supplementation differed according to baseline vitamin D status, the dose or form of supplements administered, how often people took the supplements, or the age of participants."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included data from 20 clinical trials in this review that involved a total of 2225 people; nine of these were included in the previous Cochrane Review on the topic and 11 were published since then. Of the 20 studies, 15 reported data on severe asthma attacks. The trials lasted between three and 40 months, and all but two investigated a particular form of vitamin D called cholecalciferol or vitamin D3. This is the most common form of vitamin D tablet.\n• People given vitamin D supplements did not have a lower risk of severe asthma attacks compared to those given placebo (dummy medication).\n• Vitamin D supplementation did not influence measurements of asthma control or breathing capacity; neither did it affect risk of serious harmful side effects."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "• People with severe asthma and those with very low vitamin D levels prior to supplementation were poorly represented, so we cannot assess whether vitamin D supplements might help these individuals.\n• A single study investigating effects of calcidiol, an alternative form of vitamin D, showed a protective effect. Further investigation of this form of vitamin D is needed."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates our previous review. The evidence is up to date to September 2022."
+    }
+  ]
+}

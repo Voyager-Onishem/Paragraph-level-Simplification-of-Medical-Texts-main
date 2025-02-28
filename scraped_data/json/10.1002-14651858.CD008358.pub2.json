@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008358.pub2",
+  "name": "Magnesium for alcohol withdrawal",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Patients have been given magnesium to treat or prevent alcohol withdrawal syndrome (AWS). Evidence to support this practice is limited, and is often based on the controversial link between hypomagnesaemia and AWS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of magnesium for the prevention or treatment of AWS in hospitalised adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Drugs and Alcohol Group Register of Controlled Trials (August 2012), PubMed (from 1966 to August 2012 ), EMBASE (from 1988 to August 2012), CINAHL (from 1982 to March 2010), Web of Science (1965 to August 2012). We also carried out Internet searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised trials of magnesium for hospitalised adults with, or at risk for, acute alcohol withdrawal."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data with a standardised data extraction form, contacting the correspondence investigator if the necessary information was not available in the reports. Dichotomous outcomes were analysed by calculating the risk ratio (RR) for each trial, with the uncertainty in each result expressed with a 95% confidence interval (CI). Continuous outcomes were to be analysed by calculating the standardised mean difference (SMD) with 95% CI. For outcomes assessed by scales we compared and pooled the mean score differences from the end of treatment to baseline (post minus pre) in the experimental and control groups."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials involving 317 people met the inclusion criteria. Three trials studied oral magnesium, with doses ranging from 12.5 mmol/day to 20 mmol/day. One trial studied parenteral magnesium (16.24 mEq q6h for 24 hours). Each trial demonstrated a high risk of bias in at least one domain. There was significant clinical and methodological variation between trials.\nWe found no study that measured all of the identified primary outcomes and met the objectives of this review. Only one trial measured clinical symptoms of seizure, delirium tremens or components of the Clinical Institute Withdrawal Assessment for Alcohol (CIWA) score. A single outcome (handgrip strength) in three trials (113 people), was amenable to meta-analysis. There was no significant increase in handgrip strength in the magnesium group (SMD 0.04; 95% CI -0.22 to 0.30). No clinically important changes in adverse events were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to determine whether magnesium is beneficial or harmful for the treatment or prevention of alcohol withdrawal syndrome."
+    }
+  ],
+  "pls_title": "Magnesium for the prevention or treatment of alcohol withdrawal syndrome in adults",
+  "pls_type": "long",
+  "pls": "Alcohol withdrawal syndrome (AWS) is a set of symptoms experienced when one reduces or stops alcohol consumption after prolonged periods of alcohol intake. Some studies show that AWS coincides with low levels of magnesium in the blood. Since magnesium may play a role in dampening the excitability of the central nervous system, some researchers believe that low levels of magnesium may make the central nervous system 'hyper-excitable' and may cause AWS symptoms, which include sleeplessness, tremors, anxiety, headache, excessive sweating and reduced appetite. Many AWS treatment protocols therefore recommend magnesium supplementation.\nThe goal of our review was to determine whether magnesium supplementation prevents or treats AWS in adults. Our review of four trials covering 317 participants determined that there is not enough evidence about the benefits or harms of using magnesium supplements to prevent or treat AWS in adults."
+}

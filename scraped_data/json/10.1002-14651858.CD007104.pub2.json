@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007104.pub2",
+  "name": "Adjuvant treatment of anaplastic oligodendrogliomas and oligoastrocytomas",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Standard care of adjuvant treatment for anaplastic oligodendrogliomas (AO) and anaplastic oligoastrocytomas (AOA) is not yet well defined. The benefit of adjuvant chemotherapy and radiotherapy (RT), given as single modalities or sequentially, is still unclear. Furthermore, insight into the predictive and prognostic impact of various biomarkers is surging."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare postoperative sequential RT and chemotherapy to RT alone in adults with newly diagnosed AO or mixed AOA. To evaluate the predictive and prognostic impact of the following biomarkers: codeletion of chromosomes 1p and 19q, O6-methylguanine-DNA methyltransferase (MGMT) promotor methylation and isocitrate dehydrogenase (IDH)-1 and -2 mutations."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register for Controlled Trials (CENTRAL, Issue 1, 2014), MEDLINE (2006 to March week 2, 2014) and EMBASE (2006 to week 11, 2014). We scanned reference lists from relevant studies for any additional articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) of adults with AO, AOA or anaplastic astrocytoma (AA) comparing adjuvant treatment of chemotherapy, RT, or sequential chemotherapy and RT. We excluded no specific chemotherapy regimens."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We critically appraised and extracted data from relevant studies. Based on the differences in participant selection with respect to the definition of AO (two versus three high-risk anaplastic features), the inclusion of AA and sequence of treatment (RT and chemotherapy), we could not consider the results from the three RCTs for meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three RCTs, with 931 participants, tested different neoadjuvant treatments: RT alone; sequential RT and procarbazine, lomustine and vincristine (PCV) chemotherapy; PCV chemotherapy alone; and temozolomide chemotherapy alone. None of the studies blinded participants or personnel, and, therefore, are considered at high risk of performance and detection bias. The studies were otherwise at low risk of bias. One study, the European Organisation for Research and Treatment of Cancer (EORTC) trial, demonstrated a statistically significant overall survival (OS) benefit for RT plus PCV, with a median OS of 3.5 years compared with 2.6 years in the RT alone arm (P value = 0.018). This result was reported 10 years after the conclusion of the enrolment, and was not apparent in the original 2008 Cochrane review. Furthermore, with retrospective evaluation of biomarkers, codeletion of complete chromosome arms 1p and 19q and IDH-1 or -2 mutation were independent prognostic factors for OS in two of the RCTs (Radiation Therapy Oncology Group (RTOG) and EORTC), and were predictive for OS in one trial (RTOG). The third trial (NOA-04) evaluated these biomarkers prospectively and found them prognostic for progression-free survival."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Early PCV, either before or after RT, appears to improve OS of participants with AO or AOA. Use of biomarkers including codeletion of chromosomes 1p and 19q with or without IDH-1 or -2 mutation identify a subset of people with increased sensitivity to combined PCV and RT. The important role of biomarkers was supported in all of the RCTs examined, and prospective evaluation should be undertaken in future studies. However, PCV was associated with significant grade 3 and 4 toxicities, and whether temozolomide can be substituted for this remains unclear."
+    }
+  ],
+  "pls_title": "Does giving chemotherapy, radiotherapy or both improve survival in people with rare (anaplastic oligodendrogliomas and oligoastrocytomas) brain tumours?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Traditionally, the standard of care for people with rare anaplastic oligodendrogliomas and anaplastic oligoastrocytomas (brain tumours) has been surgery followed by radiotherapy. However, the benefit of adjuvant (post-surgery) chemotherapy and radiotherapy is still unclear. In addition, the value of chromosome markers is also under investigation."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the scientific literature up to March 2014 for studies of adults over 18 years of age with a diagnosis of anaplastic oligodendrogliomas, anaplastic oligoastrocytomas or anaplastic astrocytomas. After surgery, the participants had to have received radiotherapy alone, chemotherapy alone or radiotherapy plus chemotherapy. In the first review on this topic in 2009, we found two trials to include. In this update, we identified another trial for inclusion, and updates from the two previously included trials were taken into consideration."
+    },
+    {
+      "heading": "Key results",
+      "text": "Three randomized controlled trials, which included 931 participants, assessed the role of chemotherapy alone or in addition to radiotherapy, or radiotherapy alone. One study was able to demonstrate a significant survival benefit for the addition of chemotherapy to radiotherapy after surgery, compared with radiotherapy alone. In addition, during examination of these brain tumour biopsy specimens, they found specific chromosome deletions and mutations in two studies, which helped to identify a group of participants with better survival outcomes. Furthermore, in one study, these specific chromosome deletions and mutations predicted which group of participants derived benefit from the addition of chemotherapy to radiotherapy after surgery."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Evidence for giving radiotherapy and chemotherapy was of good quality, but sparse."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008238.pub3",
+  "name": "Colony‐stimulating factors for prevention and treatment of infectious complications in patients with acute myelogenous leukemia ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute myelogenous leukemia (AML) is a fatal bone marrow cancer. Colony-stimulating factors (CSFs) are frequently administered during and after chemotherapy to reduce complications. However, their safety with regard to disease-related outcomes and survival in AML is unclear. Therefore, we performed a systematic review and meta-analysis to evaluate the impact of CSFs on patient outcomes, including survival."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the safety/efficacy of CSFs with regard to disease-related outcomes and survival in patients with AML."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a comprehensive search strategy. We identified relevant randomized clinical trials by searching the Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 7), MEDLINE (January 1966 to July 2010), LILACS (up to December 2009), databases of ongoing trials and relevant conference proceedings."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials that compared the addition of CSFs during and following chemotherapy to chemotherapy alone in patients with AML. We excluded trials evaluating the role of CSFs administered for the purpose of stem cell collection and/or priming (e.g. before and/or only for the duration of chemotherapy)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors appraised the quality of trials and extracted data. For each trial, we expressed results as relative risk (RR) with 95% confidence intervals (CI) for dichotomous data. We analyzed time-to-event outcomes as hazard ratios (HRs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search yielded 19 trials including 5256 patients. The addition of CSFs to chemotherapy yielded no difference in all-cause mortality at 30 days and at the end of follow up (RR 0.97; 95% CI 0.80 to 1.18 and RR 1.01; 95% CI 0.98 to 1.05, respectively) or in overall survival (HR 1.00; 95% 0.93 to 1.08). There was no difference in complete remission rates (RR 1.03; 95% CI 0.99 to 1.07), relapse rates (RR 0.97; 95% CI 0.89 to 1.05) and disease-free survival (HR 1.00; 95% CI 0.90 to 1.13). CSFs did not decrease the occurrence of bacteremias (RR 0.96; 95% CI 0.82 to 1.12), nor the occurrence of invasive fungal infections (RR 1.40; 95% CI 0.90 to 2.19). CSFs marginally increased adverse events requiring discontinuation of CSFs as compared to the control arm (RR 1.33; 95% CI 1.00 to 1.56)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In summary, colony-stimulating factors should not be given routinely to acute myelogenous leukemia patients post-chemotherapy since they do not affect overall survival or infectious parameters including the rate of bacteremias and invasive fungal infections."
+    }
+  ],
+  "pls_title": "The use of colony-stimulating factors in the supportive care of patients with acute myelogenous leukemia (AML)",
+  "pls_type": "long",
+  "pls": "Acute myelogenous leukemia (AML) is an aggressive, rare type of blood cancer manifested by infections, bleeding and a high rate of mortality. It requires immediate treatment with intensive chemotherapy and sometimes also with bone marrow transplantation. Infections are a major cause of mortality in AML patients since intensive chemotherapy lowers the white blood cell (WBC) count and disrupts the immune system. Colony-stimulating factors (CSFs) are agents administered in order to increase the WBC count, in the hope that this will decrease the rate of infections. However, it has not been established whether their administration might adversely affect other outcomes related to the disease, such as the achievement of remission or the relapse rate. Most importantly, it is unknown whether their administration affects the survival of AML patients. Therefore, we conducted a systematic review assessing the influence of CSFs on disease and infection-related outcomes. Our review showed that the addition of CSFs to chemotherapy in AML patients affected neither overall survival, nor the achievement of disease remission or the rate of relapse. Importantly, they did not affect the rate of infections in this population. We concluded that CSFs post-chemotherapy should not be given routinely in AML patients. However, their administration could be considered on an individual basis."
+}

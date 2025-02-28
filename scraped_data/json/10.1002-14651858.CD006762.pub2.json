@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006762.pub2",
+  "name": "Biphasic versus monophasic waveforms for transthoracic defibrillation in out‐of‐hospital cardiac arrest ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Transthoracic defibrillation is a potentially life-saving treatment for people with ventricular fibrillation (VF) and haemodynamically unstable ventricular tachycardia (VT). In recent years, biphasic waveforms have become more commonly used for defibrillation than monophasic waveforms. Clinical trials of internal defibrillation and transthoracic defibrillation of short-duration arrhythmias of up to 30 seconds have demonstrated the superiority of biphasic waveforms over monophasic waveforms. However, out-of-hospital cardiac arrest (OHCA) involves a duration of VF/VT of several minutes before defibrillation is attempted."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and safety of biphasic defibrillation waveforms, compared to monophasic, for resuscitation of people experiencing out-of-hospital cardiac arrest."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases for potentially relevant studies up to 10 September 2014: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE. Also we checked the bibliographies of relevant studies and review articles, contacted authors of published reviews and reviewed webpages (including those of device manufacturers) relevant to the review topic. We handsearched the abstracts of conference proceedings for the American Heart Association, American College of Cardiology, European Society of Cardiology, European Resuscitation Council, Society of Critical Care Medicine and European Society of Intensive Care Medicine. Regarding language restrictions, we did not apply any."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared biphasic and monophasic waveform defibrillation in adults with OHCA. Two review authors independently screened the literature search results."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data from the included trials and performed 'Risk of bias' assessments. We resolved any disagreements by discussion and consensus. The primary outcome was the risk of failure to achieve return of spontaneous circulation (ROSC). Secondary outcomes included risk of failure to revert VF to an organised rhythm following the first shock or up to three shocks, survival to hospital admission and survival to discharge."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four trials (552 participants) that compared biphasic and monophasic waveform defibrillation in people with OHCA. Based on the assessment of five quality domains, we identified two trials that were at high risk of bias, one trial at unclear risk of bias and one trial at low risk of bias. The risk ratio (RR) for failure to achieve ROSC after biphasic compared to monophasic waveform defibrillation was 0.86 (95% CI 0.62 to 1.20; four trials, 552 participants). The RR for failure to defibrillate on the first shock following biphasic defibrillation compared to monophasic was 0.84 (95% CI 0.70 to 1.01; three trials, 450 participants); and 0.81 (95% CI 0.61 to 1.09; two trials, 317 participants) for one to three stacked shocks. The RR for failure to achieve ROSC after the first shock was 0.92 (95% CI 0.81 to 1.04; two trials, 285 participants). Biphasic waveforms did not reduce the risk of death before hospital admission (RR 1.05, 95% CI 0.90 to 1.23; three trials, 383 participants) or before hospital discharge (RR 1.05, 95% CI 0.78 to 1.42; four trials, 550 participants). There was no statistically significant heterogeneity in any of the pooled analyses. None of the included trials reported adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "It is uncertain whether biphasic defibrillators have an important effect on defibrillation success in people with OHCA. Further large studies are needed to provide adequate statistical power."
+    }
+  ],
+  "pls_title": "Type of electrical shock to restart the heart in a non-hospitalised person whose heart stops beating",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "When a person's heart stops beating it may be necessary to deliver an electrical shock (called 'defibrillation') to the person's chest to restart their heart. Two electrodes are placed on the person's chest to allow the defibrillator to deliver the electrical shock. Historically, the electrical current applied to the chest has travelled in one direction between the electrodes. More recently, defibrillators have been designed to send the electrical pulse in one direction and then in the reverse direction. This is known as a 'biphasic' waveform."
+    },
+    {
+      "heading": "Objective",
+      "text": "Cochrane researchers conducted this review to determine whether the newer biphasic waveform defibrillators are better at restarting a person's heart than the 'monophasic' waveform defibrillators previously used."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the literature up to 10 September 2014 and tried to find all available research (published and unpublished) that compared these two types of defibrillators. We only included trials with a high-quality study design to avoid the possibility of inaccurate results."
+    },
+    {
+      "heading": "Key results",
+      "text": "Four trials (552 participants) met the inclusion criteria of our review. Several included trials were potentially at risk of misleading results due to features of their study design. When we combined these trial results, we found that using the newer biphasic waveform defibrillators may be associated with lower failure rates of restarting a person's heart, but these results were imprecise. There was no difference in the number of people who were alive on arrival at the hospital or who were discharged from the hospital alive. No included trials reported on side effects or operator safety."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "We are uncertain as to whether biphasic defibrillators have an important effect on being able to restart a person's heart because the results were imprecise."
+    }
+  ]
+}

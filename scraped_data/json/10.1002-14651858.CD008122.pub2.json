@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008122.pub2",
+  "name": null,
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Rapid diagnostic tests (RDTs) for Plasmodium falciparum malaria use antibodies to detect either HRP-2 antigen or pLDH antigen, and can improve access to diagnostics in developing countries."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the diagnostic accuracy of RDTs for detecting P. falciparum parasitaemia in persons living in endemic areas who present to ambulatory healthcare facilities with symptoms suggestive of malaria by type and brand."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook a comprehensive search of the following databases: Cochrane Infectious Diseases Group Specialized Register; MEDLINE; EMBASE; MEDION; Science Citation Index; Web of Knowledge; African Index Medicus; LILACS; IndMED; to January 14, 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies comparing RDTs with a reference standard (microscopy or polymerase chain reaction) in blood samples from a random or consecutive series of patients attending ambulatory health facilities with symptoms suggestive of malaria in P. falciparum endemic areas."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For each study, a standard set of data was extracted independently by two authors, using a tailored data extraction form. Comparisons were grouped hierarchically by target antigen, and type and brand of RDT, and combined in meta-analysis where appropriate."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 74 unique studies as eligible for this review and categorized them according to the antigens they detected. Types 1 to 3 include HRP-2 (fromP. falciparum) either by itself or with other antigens. Types 4 and 5 included pLDH (from P. falciparum) either by itself or with other antigens. In comparisons with microscopy, we identified 71 evaluations of Type 1 tests, eight evaluations of Type 2 tests and five evaluations of Type 3 tests. In meta-analyses, average sensitivities and specificities (95% CI) were 94.8% (93.1% to 96.1%) and 95.2% (93.2% to 96.7%) for Type 1 tests, 96.0% (94.0% to 97.3%) and 95.3% (87.3% to 98.3%) for Type 2 tests, and 99.5% (71.0% to 100.0%) and 90.6% (80.5% to 95.7%) for Type 3 tests, respectively.\nOverall for HRP-2, the meta-analytical average sensitivity and specificity (95% CI) were 95.0% (93.5% to 96.2%) and 95.2% (93.4% to 99.4%), respectively.\nFor pLDH antibody-based RDTs verified with microscopy, we identified 17 evaluations of Type 4 RDTs and three evaluations of Type 5 RDTs. In meta-analyses, average sensitivity for Type 4 tests was 91.5% (84.7% to 95.3%) and average specificity was 98.7% (96.9% to 99.5%). For Type 5 tests, average sensitivity was 98.4% (95.1% to 99.5%) and average specificity was 97.5% (93.5% to 99.1%).\nOverall for pLDH, the meta-analytical average sensitivity and specificity (95% CI) were 93.2% (88.0% to 96.2%) and 98.5% (96.7% to 99.4%), respectively.\nFor both categories of test, there was substantial heterogeneity in study results. Quality of the microscopy reference standard could only be assessed in 40% of studies due to inadequate reporting, but results did not seem to be influenced by the reporting quality.\nOverall, HRP-2 antibody-based tests (such as the Type 1 tests) tended to be more sensitive and were significantly less specific than pLDH-based tests (such as the Type 4 tests). If the point estimates for Type 1 and Type 4 tests are applied to a hypothetical cohort of 1000 patients where 30% of those presenting with symptoms have P. falciparum , Type 1 tests will miss 16 cases, and Type 4 tests will miss 26 cases. The number of people wrongly diagnosed with P. falciparum would be 34 with Type 1 tests, and nine with Type 4 tests."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The sensitivity and specificity of all RDTs is such that they can replace or extend the access of diagnostic services for uncomplicated P. falciparum malaria. HRP-2 antibody types may be more sensitive but are less specific than pLDH antibody-based tests, but the differences are small. The HRP-2 antigen persists even after effective treatment and so is not useful for detecting treatment failures.\n"
+    }
+  ],
+  "pls_title": "Rapid diagnostic tests for diagnosing malaria",
+  "pls_type": "long",
+  "pls": "Fever is common in malarial areas, and getting the diagnosis right (ie deciding if it is due to malaria or other causes) and treating correctly helps save lives, particularly in children. The World Health Organization (WHO) now recommends that all patients with fever suspected of being malaria are properly diagnosed before any treatment begins. This ensures that highly effective antimalarial drugs such as artemisinin-based combination treatments (ACTs) are properly used to prevent unnecessary treatments, untoward risks, and resistance developing.\nStandard diagnosis of malaria in the past has depended on blood microscopy, but this requires a technician and a laboratory, and is often not feasible for basic health services in many areas. Sometimes in research studies, another technique called polymerase chain reaction (PCR) is used, but again this requires equipment and trained staff, and cannot be used routinely. Technological advances have led to rapid diagnostic tests (RDTs) for malaria. These detect parasite-specific antigens in the blood, are simple to use, and can give results as a simple positive or negative result, within 15 minutes.\nThis review evaluates the accuracy of RDTs compared with microscopy and PCR for detecting Plasmodium falciparum parasites in the blood. It includes 74 studies, giving a total of 111 RDT evaluations (of which 104 compared RDTs with microscopy), reporting a total of 60,396 RDT results. Results are presented by type of test, classified by the malaria antigen that they are designed to detect (either histidine-rich protein-2 (HRP-2), or plasmodium lactate dehydrogenase (pLDH)).\nThe results indicate that RDTs can be very accurate compared to microscopy and PCR. The performance of RDT types varied but the differences were not large. HRP-2-based tests tended to be more sensitive (ie they identified more true cases of malaria) and less specific (ie they wrongly identified more malaria that was not present) than pLDH-based tests. Choice will depend on prevalence of malaria, and we provide data in this review to assist these decisions, although policy makers will also take into account other factors relating to cost and test stability."
+}

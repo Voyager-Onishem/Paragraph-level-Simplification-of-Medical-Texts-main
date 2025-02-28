@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004263.pub2",
+  "name": "Vaccines for preventing Japanese encephalitis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vaccination is recognized as the only practical measure for preventing Japanese encephalitis. Production shortage, costs, and issues of licensure impair vaccination programmes in many affected countries. Concerns over vaccine effectiveness and safety also have a negative impact on acceptance and uptake."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate vaccines for preventing Japanese encephalitis in terms of effectiveness, adverse events, and immunogenicity."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In March 2007, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2007, Issue 1), MEDLINE, EMBASE, LILACS, BIOSIS, and reference lists. We also attempted to contact corresponding authors and vaccine companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs), including cluster-RCTs, comparing Japanese encephalitis vaccines with placebo (inert agent or unrelated vaccine), no intervention, or alternative Japanese encephalitis vaccine."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Authors independently extracted data and assessed methodological quality. Dichotomous data were compared with risk ratios and a 95% confidence interval (CI), and converted into percentage vaccine efficacy."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight RCTs involving 358,750 participants were included. These trials investigated two available and three pre-licensure vaccines. Two RCTs assessing efficacy of the commercially available inactivated Nakayama vaccine were identified. A two-dose schedule of the licensed vaccine provided significant protection of 95% (95% CI 10% to 100%) for one year only, while two doses of an unpurified precursor vaccine protected children by 81% (95% CI 45% to 94%) in year one and by 59% (95% CI 2% to 83%) in year two. Serious adverse events were not observed. Mild and moderate episodes of injection site soreness, fever, headache, and nausea were reported in less than 6% of children receiving inactivated vaccine compared to 0.6% of unvaccinated controls. One cluster-RCT compared the live-attenuated SA14-14-2 vaccine (widely used in China) with no intervention measuring adverse events. Fever was reported in 2.7% of vaccinees compared to 3.1% of controls, while 0.1% of both groups suffered diarrhoea or seizures. Four small pre-licensure RCTs assessing a genetically engineered vaccine and two cell culture-derived inactivated vaccines revealed high immunogenicity and relative safety."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Only one of the three currently used vaccines has been assessed for efficacy in a RCT. Other RCTs have assessed their safety, however, and they appear to cause only occasional mild or moderate adverse events. Further trials of effectiveness and safety are needed for the currently used vaccines, especially concerning dose levels and schedules. Trials investigating several new vaccines are planned or in progress."
+    }
+  ],
+  "pls_title": "Two doses of an inactivated vaccine can help prevent Japanese encephalitis disease for at least one year; however, comparisons with other widely used vaccines are not available",
+  "pls_type": "long",
+  "pls": "Japanese encephalitis is a viral disease of the central nervous system with general symptoms of headache, fever, vomiting, and diarrhoea. Most people recover within a week without further complications, but approximately 1 in 300 suffers additional and severe symptoms such as disorientation, seizures, paralysis, and coma. Around thirty per cent of the severe cases are fatal and most survivors are left with serious and often chronic disabilities such as mental impairment, limb paralysis, and blindness. In this review of randomized controlled trials, a commercially available inactivated vaccine given in two doses was shown to provide disease protection for at least one year after vaccination, but with some adverse events. Disease protection by two vaccines, widely used in China but presently commercially unavailable, has not been investigated in randomized controlled trials. Further research is needed on all currently used as well as newly developed vaccines."
+}

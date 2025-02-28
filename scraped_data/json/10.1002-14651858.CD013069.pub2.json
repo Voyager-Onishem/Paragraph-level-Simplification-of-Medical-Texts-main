@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD013069.pub2",
+  "name": "Cognitive training for people with mild to moderate dementia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cognitive impairment, a defining feature of dementia, plays an important role in the compromised functional independence that characterises the condition. Cognitive training (CT) is an approach that uses guided practice on structured tasks with the direct aim of improving or maintaining cognitive abilities."
+    },
+    {
+      "heading": "Objectives",
+      "text": "• To assess effects of CT on cognitive and non-cognitive outcomes for people with mild to moderate dementia and their caregivers.\n• To compare effects of CT with those of other non-pharmacological interventions, including cognitive stimulation or rehabilitation, for people with mild to moderate dementia and their caregivers.\n• To identify and explore factors related to intervention and trial design that may be associated with the efficacy of CT for people with mild to moderate dementia and their caregivers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group Specialised Register, on 5 July 2018. ALOIS contains records of clinical trials identified through monthly searches of several major healthcare databases and numerous trial registries and grey literature sources. In addition to this, we searched MEDLINE, Embase, PsycINFO, CINAHL, LILACS, Web of Science Core Collection, ClinicalTrials.gov, and the World Health Organization's trials portal, ICTRP, to ensure that searches were comprehensive and up-to-date."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that described interventions for people with mild to moderate dementia and compared CT versus a control or alternative intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted relevant data from published manuscripts and through contact with trial authors if required. We assessed risk of bias using the Cochrane 'Risk of bias' tool. We divided comparison conditions into active or passive control conditions and alternative treatments. We used a large number of measures and data to evaluate 19 outcomes at end of treatment, as well as 16 outcomes at follow-up in the medium term; we pooled this information in meta-analyses. We calculated pooled estimates of treatment effect using a random-effects model, and we estimated statistical heterogeneity using a standard Chi² statistic. We graded the evidence using GradePro."
+    },
+    {
+      "heading": "Main results",
+      "text": "The 33 included trials were published between 1988 and 2018 and were conducted in 12 countries; most were unregistered, parallel-group, single-site RCTs, with samples ranging from 12 to 653 participants. Interventions were between two and 104 weeks long. We classified most experimental interventions as 'straight CT', but we classified some as 'augmented CT', and about two-thirds as multi-domain interventions. Researchers investigated 18 passive and 13 active control conditions, along with 15 alternative treatment conditions, including occupational therapy, mindfulness, reminiscence therapy, and others.\nThe methodological quality of studies varied, but we rated nearly all studies as having high or unclear risk of selection bias due to lack of allocation concealment, and high or unclear risk of performance bias due to lack of blinding of participants and personnel.\nWe used data from 32 studies in the meta-analysis of at least one outcome. Relative to a control condition, we found moderate-quality evidence showing a small to moderate effect of CT on our first primary outcome, composite measure of global cognition at end of treatment (standardised mean difference (SMD) 0.42, 95% confidence interval (CI) 0.23 to 0.62), and high-quality evidence showing a moderate effect on the secondary outcome of verbal semantic fluency (SMD 0.52, 95% CI 0.23 to 0.81) at end of treatment, with these gains retained in the medium term (3 to 12 months post treatment). In relation to many other outcomes, including our second primary outcome of clinical disease severity in the medium term, the quality of evidence was very low, so we were unable to determine whether CT was associated with any meaningful gains.\nWhen compared with an alternative treatment, we found that CT may have little to no effect on our first primary outcome of global cognition at end of treatment (SMD 0.21, 95% CI -0.23 to 0.64), but the quality of evidence was low. No evidence was available to assess our second primary outcome of clinical disease severity in the medium term. We found moderate-quality evidence showing that CT was associated with improved mood of the caregiver at end of treatment, but this was based on a single trial. The quality of evidence in relation to many other outcomes at end of treatment and in the medium term was too low for us to determine whether CT was associated with any gains, but we are moderately confident that CT did not lead to any gains in mood, behavioural and psychological symptoms, or capacity to perform activities of daily living."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Relative to a control intervention, but not to a variety of alternative treatments, CT is probably associated with small to moderate positive effects on global cognition and verbal semantic fluency at end of treatment, and these benefits appear to be maintained in the medium term. Our certainty in relation to many of these findings is low or very low. Future studies should take stronger measures to mitigate well-established risks of bias, and should provide long-term follow-up to improve our understanding of the extent to which observed gains are retained. Future trials should also focus on direct comparison of CT versus alternative treatments rather than passive or active control conditions."
+    }
+  ],
+  "pls_title": "Cognitive training for people with mild to moderate dementia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Dementia due to Alzheimer’s and other diseases is a leading cause of disability and an enormous health and societal problem. More than 40 million people in the world currently live with dementia, and this number is expected to increase to more than 115 million by the year 2050. Effective treatments to reduce the burden of dementia are urgently needed. Cognitive training (CT) is a non-pharmacological form of treatment that focuses on guided practice on tasks that target specific cognitive functions, such as memory, attention, or problem-solving. Whether CT can help people with mild to moderate dementia maintain or improve their thinking, well-being, and general functioning remains unclear."
+    },
+    {
+      "heading": "Main findings",
+      "text": "We analysed data from 33 studies of CT that included a total of approximately 2000 participants and were conducted in 12 countries. We found that, compared with receiving usual treatment or engaging in non-specific activities, people completing CT may show some benefits in overall cognition, as well as in more specific cognitive abilities such as verbal fluency, and that improvements may last for at least a few months. We did not find any evidence that participating in CT was associated with increased burden for participants. However, we also found no evidence that CT was better than participating in other active treatments."
+    },
+    {
+      "heading": "Limitations of this review",
+      "text": "The quality of the studies we reviewed varied but overall was not very high, so our certainty in some of these findings is low. Future studies should continue improving on quality, should continue comparing CT with other treatments, and should follow participants for a longer period to understand whether observed benefits for cognition last beyond the short or medium term."
+    }
+  ]
+}

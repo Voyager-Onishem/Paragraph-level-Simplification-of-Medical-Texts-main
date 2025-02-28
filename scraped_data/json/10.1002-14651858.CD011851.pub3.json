@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD011851.pub3",
+  "name": "Mobile phone text messaging for medication adherence in secondary prevention of cardiovascular disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cardiovascular diseases (CVDs) are the leading cause of death globally, accounting for almost 18 million deaths annually. People with CVDs have a five times greater chance of suffering a recurrent cardiovascular event than people without known CVDs. Although drug interventions have been shown to be cost-effective in reducing the risk of recurrent cardiovascular events, adherence to medication remains suboptimal. As a scalable and cost-effective approach, mobile phone text messaging presents an opportunity to convey health information, deliver electronic reminders, and encourage behaviour change. However, it is uncertain whether text messaging can improve medication adherence and clinical outcomes. This is an update of a Cochrane review published in 2017."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of mobile phone text messaging for improving medication adherence in people with CVDs compared to usual care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, four other databases, and two trial registers. We also checked the reference lists of all primary included studies and relevant systematic reviews and meta-analyses. The date of the latest search was 30 August 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) with participants with established arterial occlusive events. We included trials investigating interventions using short message service (SMS) or multimedia messaging service (MMS) with the aim of improving adherence to medication for the secondary prevention of cardiovascular events. The comparator was usual care. We excluded cluster-RCTs and quasi-RCTs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were medication adherence, fatal cardiovascular events, non-fatal cardiovascular events, and combined CVD event. Secondary outcomes were low-density lipoprotein cholesterol for the effect of statins, blood pressure for antihypertensive drugs, heart rate for the effect of beta-blockers, urinary 11-dehydrothromboxane B2 for the antiplatelet effects of aspirin, adverse effects, and patient-reported experience. We used GRADE to assess the certainty of the evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 18 RCTs involving a total of 8136 participants with CVDs. We identified 11 new studies in the review update and seven studies in the previous version of the review. Participants had various CVDs including acute coronary syndrome, coronary heart disease, stroke, myocardial infarction, and angina. All studies were conducted in middle- and high-income countries, with no studies conducted in low-income countries. The mean age of participants was 53 to 64 years. Participants were recruited from hospitals or cardiac rehabilitation facilities. Follow-up ranged from one to 12 months. There was variation in the characteristics of text messages amongst studies (e.g. delivery method, frequency, theoretical grounding, content used, personalisation, and directionality). The content of text messages varied across studies, but generally included medication reminders and healthy lifestyle information such as diet, physical activity, and weight loss. Text messages offered advice, motivation, social support, and health education to promote behaviour changes and regular medication-taking.\nWe assessed risk of bias for all studies as high, as all studies had at least one domain at unclear or high risk of bias.\nMedication adherence\nDue to different evaluation score systems and inconsistent definitions applied for the measurement of medication adherence, we did not conduct meta-analysis for medication adherence. Ten out of 18 studies showed a beneficial effect of mobile phone text messaging for medication adherence compared to usual care, whereas the other eight studies showed either a reduction or no difference in medication adherence with text messaging compared to usual care. Overall, the evidence is very uncertain about the effects of mobile phone text messaging for medication adherence when compared to usual care.\nFatal cardiovascular events\nText messaging may have little to no effect on fatal cardiovascular events compared to usual care (odds ratio 0.83, 95% confidence interval (CI) 0.47 to 1.45; 4 studies, 1654 participants; low-certainty evidence).\nNon-fatal cardiovascular events\nWe found very low-certainty evidence that text messaging may have little to no effect on non-fatal cardiovascular events. Two studies reported non-fatal cardiovascular events, neither of which found evidence of a difference between groups.\nCombined CVD events\nWe found very low-certainty evidence that text messaging may have little to no effect on combined CVD events. Only one study reported combined CVD events, and did not find evidence of a difference between groups.\nLow-density lipoprotein cholesterol\nText messaging may have little to no effect on low-density lipoprotein cholesterol compared to usual care (mean difference (MD) −1.79 mg/dL, 95% CI −4.71 to 1.12; 8 studies, 4983 participants; very low-certainty evidence).\nBlood pressure\nText messaging may have little to no effect on systolic blood pressure (MD −0.93 mmHg, 95% CI −3.55 to 1.69; 8 studies, 5173 participants; very low-certainty evidence) and diastolic blood pressure (MD −1.00 mmHg, 95% CI −2.49 to 0.50; 5 studies, 3137 participants; very low-certainty evidence) when compared to usual care.\nHeart rate\nText messaging may have little to no effect on heart rate compared to usual care (MD −0.46 beats per minute, 95% CI −1.74 to 0.82; 4 studies, 2946 participants; very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to limited evidence, we are uncertain if text messaging reduces medication adherence, fatal and non-fatal cardiovascular events, and combined cardiovascular events in people with cardiovascular diseases when compared to usual care. Furthermore, text messaging may result in little or no effect on low-density lipoprotein cholesterol, blood pressure, and heart rate compared to usual care. The included studies were of low methodological quality, and no studies assessed the effects of text messaging in low-income countries or beyond the 12-month follow-up. Long-term and high-quality randomised trials are needed, particularly in low-income countries."
+    }
+  ],
+  "pls_title": "Can text message reminders help people with heart disease take their medications regularly?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Due to a lack of strong evidence, the benefits of text messaging for medication adherence, fatal cardiovascular events (death from heart disease), non-fatal cardiovascular events (heart complications or stroke), combined cardiovascular events (death from heart disease, heart complications, or stroke), cholesterol, blood pressure, and heart rate are unclear.\nLarger and well-designed studies are needed to measure the longer-term effects of text messaging on improving medication adherence in people with heart disease, particularly in low-income countries."
+    },
+    {
+      "heading": "Why is this review important?",
+      "text": "At least 523 million people suffer from heart disease worldwide. Medicines are often prescribed to treat the condition. However, the majority of people do not take the medications they need to keep them from having more heart problems. One possible method to improve medication-taking behaviours is by using text message-based reminders. Mobile phone text messaging may help people with heart disease take their medications by sending health information and text reminders to these people. However, it is still unclear whether text messaging can help people with heart disease take their medications regularly."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if text messaging was effective in improving medication adherence in people with heart disease compared to people who did not receive text messages. We were also interested in the effects of text messaging on fatal cardiovascular events (death from heart disease), non-fatal cardiovascular events (heart complications or stroke), combined cardiovascular events (death from heart disease, heart complications, or stroke), blood pressure, cholesterol, and heart rate."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched medical databases for studies looking at the effects of mobile phone text messaging on medication adherence in people with heart disease."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 18 studies involving 8136 people with heart disease. The studies took place in 11 countries. All studies compared using text messages to not using text messages."
+    },
+    {
+      "heading": "Main results",
+      "text": "All studies took place in middle- and high-income countries, with no studies being performed in low-income countries. People had various types of heart diseases and were on average 53 to 64 years old. Most people came from hospitals or cardiac rehabilitation facilities. Studies lasted for one to 12 months. The delivery method and frequency of text messages differed amongst studies. Some studies sent text messages customised to patient characteristics and allowed people to reply to the messages. The content of text messages also varied across studies. Generally, text messages included medication reminders and healthy lifestyle information such as diet, physical activity, and weight loss.\nThe studies used different ways of measuring and definitions of medication adherence, which prevented us from combining the findings of the studies for this outcome. As a result, the combined effects of text messaging on medication adherence are unknown. Of the 18 included studies, 10 studies showed that text messaging was effective in improving medication adherence. The other eight studies showed either a reduction or no difference in medication adherence compared to those people who did not receive text messages. Given that results on medication adherence differed across studies, we are not sure if text messaging can improve medication adherence.\nWe found that text messaging may make little to no difference to fatal cardiovascular events (death from heart disease). In addition, we are very uncertain whether using text messaging can reduce blood pressure, cholesterol, heart rate, non-fatal cardiovascular events (heart complications or stroke), and combined cardiovascular events (death from heart disease, heart complications, or stroke) compared with people who did not receive text messages. Two studies reported non-fatal cardiovascular events, with neither study finding evidence of difference between groups. Only one study reported combined cardiovascular events, and found no evidence of a difference between groups."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is low to very low. Three main factors reduced our confidence in the evidence. Firstly, the research methods that the studies used were not of the best quality. It is possible that people in the studies were aware of which treatment they were getting, which could have influenced the results. Also, not all studies provided data about everything that we were interested in. Secondly, the content and delivery method of text messages differed across studies. Thirdly, results were very inconsistent across the different studies, and there were not enough studies to be certain about the results of our outcomes."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This review updates our previous review. The evidence is current to August 2023."
+    }
+  ]
+}

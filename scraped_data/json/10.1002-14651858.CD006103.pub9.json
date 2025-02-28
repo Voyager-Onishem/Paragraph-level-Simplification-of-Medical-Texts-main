@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD006103.pub9",
+  "name": "Nicotine receptor partial agonists for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Nicotine receptor partial agonists may help people to stop smoking by a combination of maintaining moderate levels of dopamine to counteract withdrawal symptoms (acting as an agonist) and reducing smoking satisfaction (acting as an antagonist). This is an update of a Cochrane Review first published in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of nicotine receptor partial agonists, including varenicline and cytisine, for smoking cessation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group's Specialised Register in April 2022 for trials, using relevant terms in the title or abstract, or as keywords. The register is compiled from searches of CENTRAL, MEDLINE, Embase, and PsycINFO."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials that compared the treatment drug with placebo, another smoking cessation drug, e-cigarettes, or no medication. We excluded trials that did not report a minimum follow-up period of six months from baseline."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methods. Our main outcome was abstinence from smoking at longest follow-up using the most rigorous definition of abstinence, preferring biochemically validated rates where reported. We pooled risk ratios (RRs), using the Mantel-Haenszel fixed-effect model. We also reported the number of people reporting serious adverse events (SAEs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 75 trials of 45,049 people; 45 were new for this update. We rated 22 at low risk of bias, 18 at high risk, and 35 at unclear risk.\nWe found moderate-certainty evidence (limited by heterogeneity) that cytisine helps more people to quit smoking than placebo (RR 1.30, 95% confidence interval (CI) 1.15 to 1.47; I2 = 83%; 4 studies, 4623 participants), and no evidence of a difference in the number reporting SAEs (RR 1.04, 95% CI 0.78 to 1.37; I2 = 0%; 3 studies, 3781 participants; low-certainty evidence). SAE evidence was limited by imprecision. We found no data on neuropsychiatric or cardiac SAEs.\nWe found high-certainty evidence that varenicline helps more people to quit than placebo (RR 2.32, 95% CI 2.15 to 2.51; I2 = 60%, 41 studies, 17,395 participants), and moderate-certainty evidence that people taking varenicline are more likely to report SAEs than those not taking it (RR 1.23, 95% CI 1.01 to 1.48; I2 = 0%; 26 studies, 14,356 participants). While point estimates suggested increased risk of cardiac SAEs (RR 1.20, 95% CI 0.79 to 1.84; I2 = 0%; 18 studies, 7151 participants; low-certainty evidence), and decreased risk of neuropsychiatric SAEs (RR 0.89, 95% CI 0.61 to 1.29; I2 = 0%; 22 studies, 7846 participants; low-certainty evidence), in both cases evidence was limited by imprecision, and confidence intervals were compatible with both benefit and harm.\nPooled results from studies that randomised people to receive cytisine or varenicline found no clear evidence of difference in quit rates (RR 1.00, 95% CI 0.79 to 1.26; I2 = 65%; 2 studies, 2131 participants; low-certainty evidence) and reported SAEs (RR 0.67, 95% CI 0.44 to 1.03; I2 = 45%; 2 studies, 2017 participants; low-certainty evidence). However, the evidence was limited by imprecision, and confidence intervals incorporated the potential for benefit from either cytisine or varenicline. We found no data on neuropsychiatric or cardiac SAEs.\nWe found high-certainty evidence that varenicline helps more people to quit than bupropion (RR 1.36, 95% CI 1.25 to 1.49; I2 = 0%; 9 studies, 7560 participants), and no clear evidence of difference in rates of SAEs (RR 0.89, 95% CI 0.61 to 1.31; I2 = 0%; 5 studies, 5317 participants), neuropsychiatric SAEs (RR 1.05, 95% CI 0.16 to 7.04; I2 = 10%; 2 studies, 866 participants), or cardiac SAEs (RR 3.17, 95% CI 0.33 to 30.18; I2 = 0%; 2 studies, 866 participants). Evidence of harms was of low certainty, limited by imprecision.\nWe found high-certainty evidence that varenicline helps more people to quit than a single form of nicotine replacement therapy (NRT) (RR 1.25, 95% CI 1.14 to 1.37; I2 = 28%; 11 studies, 7572 participants), and low-certainty evidence, limited by imprecision, of fewer reported SAEs (RR 0.70, 95% CI 0.50 to 0.99; I2 = 24%; 6 studies, 6535 participants). We found no data on neuropsychiatric or cardiac SAEs.\nWe found no clear evidence of a difference in quit rates between varenicline and dual-form NRT (RR 1.02, 95% CI 0.87 to 1.20; I2 = 0%; 5 studies, 2344 participants; low-certainty evidence, downgraded because of imprecision). While pooled point estimates suggested increased risk of SAEs (RR 2.15, 95% CI 0.49 to 9.46; I2 = 0%; 4 studies, 1852 participants) and neuropsychiatric SAEs (RR 4.69, 95% CI 0.23 to 96.50; I2 not estimable as events only in 1 study; 2 studies, 764 participants), and reduced risk of cardiac SAEs (RR 0.32, 95% CI 0.01 to 7.88; I2 not estimable as events only in 1 study; 2 studies, 819 participants), in all three cases evidence was of low certainty and confidence intervals were very wide, encompassing both substantial harm and benefit."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Cytisine and varenicline both help more people to quit smoking than placebo or no medication. Varenicline is more effective at helping people to quit smoking than bupropion, or a single form of NRT, and may be as or more effective than dual-form NRT. People taking varenicline are probably more likely to experience SAEs than those not taking it, and while there may be increased risk of cardiac SAEs and decreased risk of neuropsychiatric SAEs, evidence was compatible with both benefit and harm. Cytisine may lead to fewer people reporting SAEs than varenicline. Based on studies that directly compared cytisine and varenicline, there may be no difference or a benefit from either medication for quitting smoking.\nFuture trials should test the effectiveness and safety of cytisine compared with varenicline and other pharmacotherapies, and should also test variations in dose and duration. There is limited benefit to be gained from more trials testing the effect of standard-dose varenicline compared with placebo for smoking cessation. Further trials on varenicline should test variations in dose and duration, and compare varenicline with e-cigarettes for smoking cessation."
+    }
+  ],
+  "pls_title": "Can medications like varenicline and cytisine (nicotine receptor partial agonists) help people to stop smoking and do they cause unwanted effects?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "· Varenicline can help people to stop smoking for at least 6 months. Evidence shows it works better than bupropion and using only one type of nicotine replacement therapy (e.g. only patches). Quit rates might be similar to using more than one type of nicotine replacement therapy at the same time (e.g. patches and gum together).\n· Cytisine can help people to stop smoking for at least 6 months. It may work as well as varenicline, but future evidence may show that while it helps, it is not quite as helpful as varenicline.\n· Future studies should test the effectiveness and safety of cytisine compared with varenicline and other stop-smoking medications, and should also investigate giving cytisine or varenicline at different doses and for different lengths of time."
+    },
+    {
+      "heading": "What are 'nicotine receptor partial agonists'?",
+      "text": "Smoking tobacco is extremely bad for people’s health. For people who smoke, quitting is the best thing they can do to improve their health. Many people find it difficult to quit smoking. Nicotine receptor partial agonists (NRPAs) are a type of medication used to help people to stop smoking. They help to reduce the withdrawal symptoms people experience when they stop smoking, like cravings and unpleasant mood changes. They also reduce the pleasure people usually experience when they smoke. The most widely-available treatment in this drug type is varenicline. Cytisine is another, similar medication. They may cause unwanted effects such as feeling sick (nausea) and other stomach problems, difficulties sleeping, abnormal dreams, and headache. They may also lead to potentially serious unwanted effects, such as suicidal thoughts, heart problems and raised blood pressure."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if using NRPAs can help people to quit smoking, and if they cause unwanted effects. We wanted to know:\n· how many people stopped smoking for at least 6 months; and\n· how many people had unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated NRPAs used to help people quit smoking. People in the studies had to be chosen at random to receive an NRPA, or another NRPA, placebo (medication like the NRPA but with no active ingredients) or no treatment. They had to be adult tobacco smokers who wanted to stop smoking."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 75 studies that compared NRPAs with:\n· placebo or no medicine;\n· nicotine replacement therapy, such as patches or gum;\n· bupropion (another medicine to help people stop smoking);\n· another NRPA;\n· e-cigarettes.\nThe USA hosted the most studies (28 studies). Other studies took place in a range of countries across the world, some in several countries."
+    },
+    {
+      "heading": "Main results",
+      "text": "People are more likely to stop smoking for at least six months using varenicline than using placebo (41 studies, 17,395 people), bupropion (9 studies, 7560 people), or just one type of nicotine replacement therapy, like patches alone (11 studies, 7572 people). They may be just as likely to quit as people using two or more kinds of nicotine replacement therapy, like patches and gum together (5 studies, 2344 people).\nCytisine probably helps more people to stop smoking than placebo (4 studies, 4623 people) and may be just as effective as varenicline (2 studies, 2131 people).\nFor every 100 people using varenicline to stop smoking, 21 to 25 might successfully stop, compared with only 18 of 100 people using bupropion, 18 of 100 people using a single form of nicotine-replacement therapy, and 20 of 100 using two or more kinds of nicotine-replacement therapy. For every 100 people using cytisine to stop smoking, 18 to 23 might successfully stop.\nThe most common unwanted effect of varenicline is nausea, but this is mostly at mild or moderate levels and usually clears over time. People taking varenicline likely have an increased chance of a more serious unwanted effect that could result in going to hospital, however these are still rare (2.7% to 4% of people on varenicline, compared with 2.7% of people without) and may include many that are unrelated to varenicline. People taking cytisine may also have a slightly increased chance of serious unwanted effects compared with people not taking it, but this may be less likely compared with varenicline."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The evidence for some of our results is very reliable. We’re very confident that varenicline helps people to quit smoking better than many alternatives. We’re less sure of some other results because fewer or smaller studies provided evidence.\nSeveral results suggest one treatment is better or less harmful than another, but the opposite could still be true."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is up to date to 29 April 2022."
+    }
+  ]
+}

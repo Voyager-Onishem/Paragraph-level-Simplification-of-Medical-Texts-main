@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002936",
+  "name": "Intravenous immunoglobulins for multiple sclerosis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Animal experiments suggest that intravenous immunoglobulins can reverse some of the disease process of central nervous system demyelination. Subsequently, clinical trials of intravenous immunoglobulins have been conducted in people with multiple sclerosis (MS)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To identify and summarise the evidence that intravenous immunoglobulins are safe and beneficial for people with MS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Multiple Sclerosis Group Trials Register (Jan 2009), Cochrane Central Register of Controlled Trials (CENTRAL) \"The Cochrane Library 2008, issue 4\", MEDLINE (PubMed) (1996 - Jan 2009), and EMBASE (1974 - Jan 2009). Reference lists of retrieved studies, reviews and conference abstracts were considered and relevant pharmaceutical companies contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of intravenous immunoglobulins for the prevention of relapses and disease progression in MS."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected adverse effects information from the trials."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ten randomised double-blinded trials were identified and suitable for consideration by this review. Four trials were excluded as they did not use outcome measures specified (2 trials, 122 participants), or were of insufficient methodological quality (2 trials, 34 participants). The remaining six trials met our inclusion criteria. These included four with relapsing remitting cases (367 participants) and two with secondary progressive cases (515 participants), one of which had also primary progressive cases (34 participants).\nIn the relapsing remitting group there was a reduction in relapse rate (WMD -0.72 95% CI -0.78 to -0.66), increased time to first relapse and higher proportion of cases remaining relapse free (OR 0.63 95%CIs 0.42-0.94) during treatment with intravenous immunoglobulins. There is no robust data on disease progression in this group. In the secondary progressive group treatment had no impact on sustained EDSS progression (OR 0.96 95%CIs 0.68-1.37). Fewer primary progressive patients treated with immunoglobulin progressed that those in the placebo group (p=0.016). There is conflicting evidence of reduction in number of new lesions on T2 weighted MRI and gadolinium enhancing lesions on T1 weighted MRI and total MRI lesion burden in relapsing remitting MS but no evidence in secondary progressive disease."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is evidence to support use of intravenous immunoglobulins as a preventative treatment for relapses in relapsing remitting MS. There was no evidence of delay in progression of disease in secondary progressive MS, but this needs to be evaluated in relapsing remitting disease. Immunoglobulins were well tolerated with a less than 5% risk of drug related adverse events in participants in included trials."
+    }
+  ],
+  "pls_title": "The use of immunoglobulins (antibodies) for treating people with multiple sclerosis",
+  "pls_type": "long",
+  "pls": "Multiple sclerosis (MS) is a chronic immune-mediated disease of the nervous system that affects young and middle-aged adults and can lead to permanent disability. Immunoglobulins have several effects on the immune system, and help fight infections. The review of trials found there is some evidence that immunoglobulins can reduce the rate of relapses in people who have relapsing remitting MS. There is no evidence that immunoglobulins can reduce the progression of MS."
+}

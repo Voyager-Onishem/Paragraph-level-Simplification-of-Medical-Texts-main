@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013217.pub2",
+  "name": "Non‐pharmacological care for opioid withdrawal in newborns",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The prevalence of substance use, both prescribed and non-prescribed, is increasing in many areas of the world. Substance use by women of childbearing age contributes to increasing rates of neonatal abstinence syndrome (NAS). Neonatal opioid withdrawal syndrome (NOWS) is a newer term describing the subset of NAS related to opioid exposure. Non-pharmacological care is the first-line treatment for substance withdrawal in newborns. Despite the widespread use of non-pharmacological care to mitigate symptoms of NAS, there is not an established definition of, and standard for, non-pharmacological care practices in this population. Evaluation of safety and efficacy of non-pharmacological practices could provide clear guidance for clinical practice."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the safety and efficacy of non-pharmacological treatment of infants at risk for, or having symptoms consistent with, opioid withdrawal on the length of hospitalization and use of pharmacological treatment for symptom management.\nComparison 1: in infants at risk for, or having early symptoms consistent with, opioid withdrawal, does non-pharmacological treatment reduce the length of hospitalization and use of pharmacological treatment?\nComparison 2: in infants receiving pharmacological treatment for symptoms consistent with opioid withdrawal, does concurrent non-pharmacological treatment reduce duration of pharmacological treatment, maximum and cumulative doses of opioid medication, and length of hospitalization?"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search CENTRAL (2019, Issue 10); Ovid MEDLINE; and CINAHL on 11 October 2019. We also searched clinical trials databases and the reference lists of retrieved articles for randomized controlled trials (RCTs), quasi-RCTs, and cluster trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included trials comparing single or bundled non-pharmacological interventions to no non-pharmacological treatment or different single or bundled non-pharmacological interventions. We assessed non-pharmacological interventions independently and in combination based on sufficient similarity in population, intervention, and comparison groups studied. We categorized non-pharmacological interventions as: modifying environmental stimulation, feeding practices, and support of the mother-infant dyad. We presented non-randomized studies identified in the search process narratively."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. We used the GRADE approach to assess the certainty of evidence. Primary outcomes in infants at risk for, or having early symptoms consistent with, opioid withdrawal included length of hospitalization and pharmacological treatment with one or more doses of opioid or sedative medication. Primary outcomes in infants receiving opioid treatment for symptoms consistent with opioid withdrawal included length of hospitalization, length of pharmacological treatment with opioid or sedative medication, and maximum and cumulative doses of opioid medication."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified six RCTs (353 infants) in which infants at risk for, or having symptoms consistent with, opioid withdrawal participated between 1975 and 2018. We identified no RCTs in which infants receiving opioid treatment for symptoms consistent with opioid withdrawal participated. The certainty of evidence for all outcomes was very low to low. We also identified and excluded 34 non-randomized studies published between 2005 and 2018, including 29 in which infants at risk for, or having symptoms consistent with, opioid withdrawal participated and five in which infants receiving opioid treatment for symptoms consistent with opioid withdrawal participated. We identified seven preregistered interventional clinical trials that may qualify for inclusion at review update when complete.\nOf the six RCTs, four studies assessed modifying environmental stimulation in the form of a mechanical rocking bed, prone positioning, non-oscillating waterbed, or a low-stimulation nursery; one study assessed feeding practices (comparing 24 kcal/oz to 20 kcal/oz formula); and one study assessed support of the maternal-infant dyad (tailored breastfeeding support).\nThere was no evidence of a difference in length of hospitalization in the one study that assessed modifying environmental stimulation (mean difference [MD) –1 day, 95% confidence interval [CI) –2.82 to 0.82; 30 infants; very low-certainty evidence) and the one study of support of the maternal-infant dyad (MD –8.9 days, 95% CI –19.84 to 2.04; 14 infants; very low-certainty evidence). No studies of feeding practices evaluated the length of hospitalization.\nThere was no evidence of a difference in use of pharmacological treatment in three studies of modifying environmental stimulation (typical risk ratio [RR) 1.00, 95% CI 0.86 to 1.16; 92 infants; low-certainty evidence), one study of feeding practices (RR 0.92, 95% CI 0.63 to 1.33; 49 infants; very low-certainty evidence), and one study of support of the maternal-infant dyad (RR 0.50, 95% CI 0.13 to 1.90; 14 infants; very low-certainty evidence).\nReported secondary outcomes included neonatal intensive care unit (NICU) admission, days to regain birth weight, and weight nadir. One study of support of the maternal-infant dyad reported NICU admission (RR 0.50, 95% CI 0.13 to 1.90; 14 infants; very low-certainty evidence). One study of feeding practices reported days to regain birth weight (MD 1.10 days, 95% CI 2.76 to 0.56; 46 infants; very low-certainty evidence). One study that assessed modifying environmental stimulation reported weight nadir (MD –0.28, 95% CI –1.15 to 0.59; 194 infants; very low-certainty evidence) and one study of feeding practices reported weight nadir (MD –0.8, 95% CI –2.24 to 0.64; 46 infants; very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are uncertain whether non-pharmacological care for opioid withdrawal in newborns affects important clinical outcomes including length of hospitalization and use of pharmacological treatment based on the six included studies. The outcomes identified for this review were of very low- to low-certainty evidence. Combined analysis was limited by heterogeneity in study design and intervention definitions as well as the number of studies. Many prespecified outcomes were not reported. Although caregivers are encouraged by experts to optimize non-pharmacological care for opioid withdrawal in newborns prior to initiating pharmacological care, we do not have sufficient evidence to inform specific clinical practices. Larger well-designed studies are needed to determine the effect of non-pharmacological care for opioid withdrawal in newborns."
+    }
+  ],
+  "pls_title": "Non-pharmacological care for opioid withdrawal in newborns",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do one or more specific non-pharmacological (treatments other than medicines) care practices benefit newborns with opioid withdrawal after birth?"
+    },
+    {
+      "heading": "Background",
+      "text": "Newborns of mothers who take opioids during pregnancy often experience symptoms of withdrawal after delivery, such as high-pitched cry, tremors, and high tone. Non-pharmacological care is the first treatment for symptoms of withdrawal. If symptoms worsen despite non-pharmacological care, a medication such as morphine, methadone, or buprenorphine is the second treatment to reduce symptoms. Though non-pharmacological care is the first approach to symptom management, it is not the same at every hospital. We wanted to discover whether one or more non-pharmacological care practices benefit newborns with opioid withdrawal after birth."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We looked at randomized controlled trials (RCTs; clinical studies where people are randomly put into one of two or more treatment groups) of opioid-exposed newborns treated with one or more non-pharmacological care practice. Non-pharmacological care practices include changes to the environment to reduce stimulation or provide soothing, changes to feeding frequency or type, changes that increase maternal care of the newborn or maternal wellness, and multiple changes such as occur in a new site or system of care. Search is up to date as of October 2019."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review included six RCTs that enrolled 353 opioid-exposed newborns. The studies were published between 1975 and 2018. We also identified seven ongoing studies that may qualify for inclusion at review update when complete.\nOf the six RCTs, four assessed changes to the environment to reduce stimulation or provide soothing. These studies examined the effect of a mechanical rocking bed, prone positioning (lying on tummy), non-oscillating waterbed, and a low-stimulation nursery. We are uncertain whether modifying environmental stimulation is associated with length of hospitalization based on one study with 30 infants. Modifying environmental stimulation may be associated with little or no difference in use of pharmacological treatment based on three studies with 92 infants. We are uncertain whether modifying environmental stimulation is associated with weight nadir (lowest weight recorded during birth hospitalization) based on one study with 194 infants.\nOne study assessed a change to the feeding type comparing higher-calorie formula to standard-calorie formula. We are uncertain whether feeding practices are associated with use of medicines, days to regain birth weight, or weight nadir based on one study with 46 infants.\nOne study assessed changes to support the mother with tailored breastfeeding support. We are uncertain whether support of the mother-infant dyad is associated with length of hospitalization, use of medicines, or neonatal intensive care unit admission based on one study with 14 infants.\nMany potential important effects were not reported, and others were not reported in all studies."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We are uncertain whether one or more specific non-pharmacological care practices benefit newborns with opioid withdrawal after birth. The quality of evidence for all outcomes is very low to low and provides limited information to inform individual non-pharmacological care practices or combinations of non-pharmacological care practices."
+    }
+  ]
+}

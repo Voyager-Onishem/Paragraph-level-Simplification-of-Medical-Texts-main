@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009537.pub3",
+  "name": "Interventions for preventing delirium in older people in institutional long‐term care",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Delirium is a common and distressing mental disorder. It is often caused by a combination of stressor events in susceptible people, particularly older people living with frailty and dementia. Adults living in institutional long-term care (LTC) are at particularly high risk of delirium. An episode of delirium increases risks of admission to hospital, development or worsening of dementia and death. Multicomponent interventions can reduce the incidence of delirium by a third in the hospital setting. However, it is currently unclear whether interventions to prevent delirium in LTC are effective. This is an update of a Cochrane Review first published in 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of interventions for preventing delirium in older people in institutional long-term care settings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS (www.medicine.ox.ac.uk/alois), the Cochrane Dementia and Cognitive Improvement Group (CDCIG) ’s Specialised Register of dementia trials (dementia.cochrane.org/our-trials-register), to 27 February 2019. The search was sufficiently sensitive to identify all studies relating to delirium. We ran additional separate searches in the Cochrane Central Register of Controlled Trials (CENTRAL), major healthcare databases, trial registers and grey literature sources to ensure that the search was comprehensive."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and cluster-randomised controlled trials (cluster-RCTs) of single and multicomponent, non-pharmacological and pharmacological interventions for preventing delirium in older people (aged 65 years and over) in permanent LTC residence."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Primary outcomes were prevalence, incidence and severity of delirium; and mortality. Secondary outcomes included falls, hospital admissions and other adverse events; cognitive function; new diagnoses of dementia; activities of daily living; quality of life; and cost-related outcomes. We used risk ratios (RRs) as measures of treatment effect for dichotomous outcomes, hazard ratios (HR) for time-to-event outcomes and mean difference (MD) for continuous outcomes. For each outcome, we assessed the overall certainty of the evidence using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three trials with 3851 participants. All three were cluster-RCTs. Two of the trials were of complex, single-component, non-pharmacological interventions and one trial was a feasibility trial of a complex, multicomponent, non-pharmacological intervention. Risk of bias ratings were mixed across the three trials. Due to the heterogeneous nature of the interventions, we did not combine the results statistically, but produced a narrative summary.\nIt was not possible to determine the effect of a hydration-based intervention on delirium incidence (RR 0.85, 95% confidence interval (CI) 0.18 to 4.00; 1 study, 98 participants; very low-certainty evidence downgraded for risk of bias and very serious imprecision). This study did not assess delirium prevalence, severity or mortality.\nThe introduction of a computerised system to identify medications that may contribute to delirium risk and trigger a medication review was probably associated with a reduction in delirium incidence (12-month HR 0.42, CI 0.34 to 0.51; 1 study, 7311 participant-months; moderate-certainty evidence downgraded for risk of bias) but probably had little or no effect on mortality (HR 0.88, CI 0.66 to 1.17; 1 study, 9412 participant-months; moderate-certainty evidence downgraded for imprecision), hospital admissions (HR 0.89, CI 0.72 to 1.10; 1 study, 7599 participant-months; moderate-certainty evidence downgraded for imprecision) or falls (HR 1.03, CI 0.92 to 1.15; 1 study, 2275 participant-months; low-certainty evidence downgraded for imprecision and risk of bias). Delirium prevalence and severity were not assessed.\nIn the enhanced educational intervention study, aimed at changing practice to address key delirium risk factors, it was not possible to determine the effect of the intervention on delirium incidence (RR 0.62, 95% CI 0.16 to 2.39; 1 study, 137 resident months; very low-certainty evidence downgraded for risk of bias and serious imprecision) or delirium prevalence (RR 0.57, 95% CI 0.15 to 2.19; 1 study, 160 participants; very low-certainty evidence downgraded for risk of bias and serious imprecision). There was probably little or no effect on mortality (RR 0.82, CI 0.50 to 1.34; 1 study, 215 participants; moderate-certainty evidence downgraded for imprecision). The intervention was probably associated with a reduction in hospital admissions (RR 0.67, CI 0.57 to 0.79; 1 study, 494 participants; moderate-certainty evidence downgraded due to indirectness)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our review identified limited evidence on interventions for preventing delirium in older people in LTC. A software-based intervention to identify medications that could contribute to delirium risk and trigger a pharmacist-led medication review, probably reduces incidence of delirium in older people in institutional LTC. This is based on one large RCT in the US and may not be practical in other countries or settings which do not have comparable information technology services available in care homes. In the educational intervention aimed at identifying risk factors for delirium and developing bespoke solutions within care homes, it was not possible to determine the effect of the intervention on delirium incidence, prevalence or mortality. This evidence is based on a small feasibility trial. Our review identified three ongoing trials of multicomponent delirium prevention interventions. We identified no trials of pharmacological agents. Future trials of multicomponent non-pharmacological delirium prevention interventions for older people in LTC are needed to help inform the provision of evidence-based care for this vulnerable group."
+    }
+  ],
+  "pls_title": "Interventions for preventing delirium in older people in institutional long-term care (LTC)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How effective are treatments to prevent delirium in older people living in long-term care (LTC)?"
+    },
+    {
+      "heading": "Background",
+      "text": "LTC is the name used for residential homes, which provide personal care, supervision with medications and help with day-to-day activities, and nursing homes, which provide 24-hour nursing care. Delirium is a common and serious illness for older people living in LTC. Delirium is a condition that causes confusion, usually over a few hours or days. Some people with delirium become quiet and sleepy while others become agitated and disorientated, so it can be a very distressing condition. Delirium can increase the chances of being admitted to hospital, developing dementia and can increase the risk of death.\nImportantly, studies of people in hospital have shown that it is possible to prevent around a third of cases of delirium by providing an environment and care plan that target the main delirium risk factors, including, providing better lighting and signs to avoid disorientation; avoiding unnecessary use of catheters to help prevent infection; and avoiding certain medications which increase the risk of delirium.\nThis review has searched for and assessed research on preventing delirium in older people living in LTC."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to February 2019. We found three studies that included 3851 participants. Two studies took place in the US and one study in the UK.\nOne study tested whether delirium could be prevented by calculating how much fluid an older person in a care home needs each day and ensuring hydration was maintained. There were 98 people in the study, which lasted four weeks.\nOne study tested the effect of a computer program which searched for prescriptions of medications that might increase the chance of developing delirium, to enable a pharmacist to adjust or stop them. There were 3538 people in the study, which lasted 12 months.\nOne study tested an enhanced educational intervention which included learning sessions on delirium with care home staff and group meetings to identity targets for preventing delirium. There were 215 people in the study, which lasted 16 months."
+    },
+    {
+      "heading": "Key findings",
+      "text": "It was not possible to determine if the hydration intervention reduced the occurrence of delirium. This was a small study of short duration with serious design problems.\nThe study of a computerised medication search programme probably reduced delirium, but there was no clear reduction in hospital admissions, deaths or falls. A potential problem is that it might not be possible to use this computer program in different countries that do not have similar computer systems available.\nIt was not possible to determine if the enhanced education intervention reduced the occurrence of delirium and there was no clear reduction in the number of deaths. The intervention was probably associated with a reduction in hospital admissions. This is based on findings from a small study."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is very low-quality evidence on the effectiveness of hydration interventions for reducing the incidence of delirium. Therefore, it was not possible to draw firm conclusions.\nThere is moderate-quality evidence that a computerised medication search programme may reduce the incidence of delirium. There is no clear evidence for reducing hospitalisations, mortality or falls.\nThere is very low-quality evidence of the effectiveness of an enhanced educational intervention for reducing delirium. Therefore, it was not possible to draw firm conclusions. There is moderate-quality evidence for reducing hospital admissions.\nAs this review only found a small number of research studies, we recommend that further research be conducted, testing different ways of preventing delirium for older people in LTC."
+    }
+  ]
+}

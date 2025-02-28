@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013398.pub4",
+  "name": "House modifications for preventing malaria",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Malaria remains an important public health problem. Research in 1900 suggested house modifications may reduce malaria transmission. A previous version of this review concluded that house screening may be effective in reducing malaria. This update includes data from five new studies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of house modifications that aim to reduce exposure to mosquitoes on malaria disease and transmission."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE (PubMed); Embase (OVID); Centre for Agriculture and Bioscience International (CAB) Abstracts (Web of Science); and the Latin American and Caribbean Health Science Information database (LILACS) up to 25 May 2022. We also searched the World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry to identify ongoing trials up to 25 May 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials, including cluster-randomized controlled trials (cRCTs), cross-over studies, and stepped-wedge designs were eligible, as were quasi-experimental trials, including controlled before-and-after studies, controlled interrupted time series, and non-randomized cross-over studies.\nWe sought studies investigating primary construction and house modifications to existing homes reporting epidemiological outcomes (malaria case incidence, malaria infection incidence or parasite prevalence). We extracted any entomological outcomes that were also reported in these studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected eligible studies, extracted data, and assessed the risk of bias. We used risk ratios (RR) to compare the effect of the intervention with the control for dichotomous data. For continuous data, we presented the mean difference; and for count and rate data, we used rate ratios. We presented all results with 95% confidence intervals (CIs). We assessed the certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "One RCT and six cRCTs met our inclusion criteria, with an additional six ongoing RCTs. We did not identify any eligible non-randomized studies. All included trials were conducted in sub-Saharan Africa since 2009; two randomized by household and four at the block or village level. All trials assessed screening of windows, doors, eaves, ceilings, or any combination of these; this was either alone, or in combination with roof modification or eave tube installation (an insecticidal \"lure and kill\" device that reduces mosquito entry whilst maintaining some airflow). In one trial, the screening material was treated with 2% permethrin insecticide. In five trials, the researchers implemented the interventions. A community-based approach was adopted in the other trial.\nOverall, the implementation of house modifications probably reduced malaria parasite prevalence (RR 0.68, 95% CI 0.57 to 0.82; 5 trials, 5183 participants; moderate-certainty evidence), although an inconsistent effect was observed in a subpopulation of children in one study. House modifications reduced moderate to severe anaemia prevalence (RR 0.70, 95% CI 0.55 to 0.89; 3 trials, 3643 participants; high-certainty evidence). There was no consistent effect on clinical malaria incidence, with rate ratios ranging from 0.38 to 1.62 (3 trials, 3365 participants, 4126.6 person-years). House modifications may reduce indoor mosquito density (rate ratio 0.63, 95% CI 0.30 to 1.30; 4 trials, 9894 household-nights; low-certainty evidence), although two studies showed little effect on this parameter."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "House modifications – largely screening, sometimes combined with insecticide and lure and kill devices – were associated with a reduction in malaria parasite prevalence and a reduction in people with anaemia. Findings on malaria incidence were mixed. Modifications were also associated with lower indoor adult mosquito density, but this effect was not present in some studies."
+    }
+  ],
+  "pls_title": "House modifications for preventing malaria",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "House modifications, such as screening (covering or closing potential house entry points for mosquitoes with mesh or other materials) or the use of specific house materials or designs, such as metals roofs instead of thatched roofs, or elevated rooms, may contribute to reducing the burden of malaria. They work by preventing mosquitoes from entering houses, and reducing the number of bites householders receive indoors. Some house modifications under consideration additionally aim to kill any mosquitoes that attempt to enter houses by incorporating insecticide into the modification."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Modifying houses to prevent mosquitoes entering the home was associated with a reduction in the proportion of people with malaria parasites in their blood and reduced anaemia, based on evidence from seven studies conducted in Africa. The effect of house modifications on the number of cases of malaria identified during specific time periods was mixed, and the effect on indoor mosquito density was less clear due to differences between study results. Six trials awaiting publication are likely to enrich the current evidence base."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "This review summarized studies investigating the effects of house modifications on human malaria outcomes. If studies additionally reported the effect of the house modifications on mosquitoes (those with potential to carry the parasites that cause malaria), or householders' views, we also summarized this data. After searching for relevant studies, we included seven published trials and six ongoing trials. All complete trials assessed screening (of windows, doors, eaves, ceilings, or any combination of these), either alone or in combination with roof modification or eave tube installation (a \"lure and kill\" device positioned in eave gaps to attract and kill mosquitoes). One trial incorporated insecticide into their house screening."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The seven included trials all assessed either the number of cases of malaria identified during specific time periods in people living in the house, the proportion of people with malaria parasites in their blood, or both. Overall, the studies showed that people living in modified houses were around 32% less likely to have malaria parasites in their blood, and were 30% less likely to experience moderate or severe anaemia. Our confidence in these results was moderate to high. The studies demonstrated 37% reduction in the number of mosquitoes trapped indoors at night in modified houses, although this result varied between trials. The trials showed mixed results for the likelihood of experiencing an episode of clinical malaria (caused by Plasmodium falciparum parasites), ranging from a 62% lower rate to a 68% higher rate of malaria for people living in modified houses. Due to the high inconsistency between these results, we have very low confidence in this evidence."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The review authors searched for studies available up to 25 May 2022."
+    }
+  ]
+}

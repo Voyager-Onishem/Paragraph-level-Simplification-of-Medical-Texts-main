@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD007923.pub6",
+  "name": "Timing of dornase alfa inhalation for cystic fibrosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inhalation of the enzyme dornase alfa reduces sputum viscosity and improves clinical outcomes of people with cystic fibrosis. This is an update of a previously published Cochrane Review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether the timing of dornase alfa inhalation (in relation to airway clearance techniques or morning versus evening inhalation) has an impact on objective and subjective measures of clinical efficacy in people with cystic fibrosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Relevant randomised and quasi-randomised controlled trials were identified from the Cochrane Cystic Fibrosis Trials Register, the Physiotherapy Evidence Database (PEDro), clinical trial registries and international cystic fibrosis conference proceedings.\nDate of the most recent search: 12 October 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Any trial of dornase alfa in people with cystic fibrosis where timing of inhalation was the randomised element in the trial with either: inhalation before compared to after airway clearance techniques; or morning compared to evening inhalation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Both authors independently selected trials, assessed risk of bias and extracted data with disagreements resolved by discussion. Relevant data were extracted and, where possible, meta-analysed. We assessed the quality of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 115 trial reports representing 55 trials, of which five trials (providing data on 122 participants) met our inclusion criteria. All five trials used a cross-over design. Intervention periods ranged from two to eight weeks. Four trials (98 participants) compared dornase alfa inhalation before versus after airway clearance techniques. Inhalation after instead of before airway clearance did not significantly change forced expiratory volume at one second (very-low quality evidence). Similarly, forced vital capacity (low-quality evidence) and quality of life (very-low quality evidence) were not significantly affected; forced expiratory flow at 25% was significantly worse with dornase alfa inhalation after airway clearance, mean difference -0.17 litres (95% confidence interval -0.28 to -0.05), based on the pooled data from two small trials in children (7 to 19 years) with well-preserved lung function. All other secondary outcomes were statistically non-significant.\nIn one trial (25 participants), morning versus evening inhalation had no impact on lung function or symptoms (low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The current evidence derived from a small number of participants does not indicate that inhalation of dornase alfa after airway clearance techniques is more or less effective than the traditional recommendation to inhale nebulised dornase alfa 30 minutes prior to airway clearance techniques, for most outcomes. For children with well-preserved lung function, inhalation before airway clearance may be more beneficial for small airway function than inhalation after. However, this result relied on a measure with high variability and trials with variable follow-up. In the absence of strong evidence to indicate that one timing regimen is better than another, the timing of dornase alfa inhalation can be largely based on pragmatic reasons or individual preference with respect to the time of airway clearance and time of day. Further research is warranted."
+    }
+  ],
+  "pls_title": "The timing of inhalation of dornase alfa in people with cystic fibrosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To determine the effect of timing of dornase alfa inhalation on measures of effectiveness in people with cystic fibrosis (in relation to airway clearance techniques or time of day). This is an update of a previously published Cochrane Review."
+    },
+    {
+      "heading": "Background",
+      "text": "Inhaling the enzyme dornase alfa reduces the stickiness of sputum and improves clinical outcomes in people with cystic fibrosis. It is not certain whether it is better to inhale dornase alfa before or after clearing the airways with physical techniques. It is also not clear whether it is better to inhale it in the morning or in the evening."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to: 12 October 2020."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included five trials with a total of 122 participants. In these trials the length of treatment ranged from two to eight weeks."
+    },
+    {
+      "heading": "Key results",
+      "text": "Four of the trials compared inhaling before to inhaling after the airways had been cleared and found no overall difference in clinical outcomes. However, in children with well-preserved lung function, inhaling of dornase alfa before airway clearance techniques was better for small airways function. However, this did not affect quality of life or other outcomes. In the remaining trial, morning versus evening inhalation had no impact on lung function or symptoms. Therefore, for many people with cystic fibrosis, the timing of dornase alfa inhalation (before or after airway clearance or the time of day) can be based on practical reasons or individual preference."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Apart from one trial published only in abstract form, the quality of the evidence ranged from low to very low. This was due to issues relating to group allocation, blinding, incomplete reporting of outcome data and the the limited age range of participants."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010641.pub2",
+  "name": "Person‐directed, non‐pharmacological interventions for sleepiness at work and sleep disturbances caused by shift work ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Shift work is often associated with sleepiness and sleep disorders. Person-directed, non-pharmacological interventions may positively influence the impact of shift work on sleep, thereby improving workers’ well-being, safety, and health."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of person-directed, non-pharmacological interventions for reducing sleepiness at work and improving the length and quality of sleep between shifts for shift workers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE Ovid, Embase, Web of Knowledge, ProQuest, PsycINFO, OpenGrey, and OSH-UPDATE from inception to August 2015. We also screened reference lists and conference proceedings and searched the World Health Organization (WHO) Trial register. We contacted experts to obtain unpublished data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) (including cross-over designs) that investigated the effect of any person-directed, non-pharmacological intervention on sleepiness on-shift or sleep length and sleep quality off-shift in shift workers who also work nights."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two authors screened titles and abstracts for relevant studies, extracted data, and assessed risk of bias. We contacted authors to obtain missing information. We conducted meta-analyses when pooling of studies was possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 relevant trials (with 556 review-relevant participants) which we categorised into three types of interventions: (1) various exposures to bright light (n = 10); (2) various opportunities for napping (n = 4); and (3) other interventions, such as physical exercise or sleep education (n = 3). In most instances, the studies were too heterogeneous to pool. Most of the comparisons yielded low to very low quality evidence. Only one comparison provided moderate quality evidence. Overall, the included studies’ results were inconclusive. We present the results regarding sleepiness below.\nBright light\nCombining two comparable studies (with 184 participants altogether) that investigated the effect of bright light during the night on sleepiness during a shift, revealed a mean reduction 0.83 score points of sleepiness (measured via the Stanford Sleepiness Scale (SSS) (95% confidence interval (CI) -1.3 to -0.36, very low quality evidence). Another trial did not find a significant difference in overall sleepiness on another sleepiness scale (16 participants, low quality evidence).\nBright light during the night plus sunglasses at dawn did not significantly influence sleepiness compared to normal light (1 study, 17 participants, assessment via reaction time, very low quality evidence).\nBright light during the day shift did not significantly reduce sleepiness during the day compared to normal light (1 trial, 61 participants, subjective assessment, low quality evidence) or compared to normal light plus placebo capsule (1 trial, 12 participants, assessment via reaction time, very low quality evidence).\nNapping during the night shift\nA meta-analysis on a single nap opportunity and the effect on the mean reaction time as a surrogate for sleepiness, resulted in a 11.87 ms reduction (95% CI 31.94 to -8.2, very low quality evidence). Two other studies also reported statistically non-significant decreases in reaction time (1 study seven participants; 1 study 49 participants, very low quality evidence).\nA two-nap opportunity resulted in a statistically non-significant increase of sleepiness (subjective assessment) in one study (mean difference (MD) 2.32, 95% CI -24.74 to 29.38, 1 study, 15 participants, low quality evidence).\nOther interventions\nPhysical exercise and sleep education interventions showed promise, but sufficient data to draw conclusions are lacking."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Given the methodological diversity of the included studies, in terms of interventions, settings, and assessment tools, their limited reporting and the very low to low quality of the evidence they present, it is not possible to determine whether shift workers' sleepiness can be reduced or if their sleep length or quality can be improved with these interventions.\nWe need better and adequately powered RCTs of the effect of bright light, and naps, either on their own or together and other non-pharmacological interventions that also consider shift workers’ chronobiology on the investigated sleep parameters."
+    }
+  ],
+  "pls_title": "Non-drug interventions for sleepiness and sleep problems for shift workers who work nights",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Summary text",
+      "text": "People who work shifts, especially night shifts, often describe being sleepy at work or having sleep problems after work. This can be bad for their well-being, safety, and health. On the basis of a systematic literature search, we evaluated whether person-directed, non-drug interventions can make shift workers less sleepy during their shift, and help them sleep longer and better after their shift is over."
+    },
+    {
+      "heading": "Studies found",
+      "text": "We found 17 randomised controlled trials (with 556 participants) to include in this review. We rated the quality of evidence provided by most of the included studies to be between low and very low. The studies could be divided into three different types of interventions: (1) exposure to bright light; (2) a napping opportunity during the night shift; or (3) others, like physical activity or sleep education."
+    },
+    {
+      "heading": "Key results",
+      "text": "Bright light\nAlmost all of the bright light studies we looked at had some problem with the way they were designed. This problem made it difficult to know if any differences in sleepiness and sleep between those receiving bright light and those not receiving bright light were truly because of the bright light intervention. The studies were also too different in the types of bright light they used and types of light that the control groups received to compare them to one another.\nNapping\nThe studies in the napping group did not report enough information for us to be certain whether napping helps shift workers feel more awake. The studies were very short, with each study lasting only a single night.\nOthers\nThis group of studies, which included, for example, physical exercise and sleep education, also reported too little information for us to say whether these interventions can make shift workers less sleepy on-shift or help them sleep longer and better after their shift."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "We conclude that there is too much uncertainty to determine whether any person-directed, non-drug interventions can really affect shift workers with sleepiness and sleep problems. We need studies that are better designed, report their designs and results more clearly, include more participants and last for a longer time before we can be certain. Studies also need to find out if their participants are 'morning-types' or 'evening-types', to be sure that the right type of shift worker gets the right type of intervention."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to August 2015."
+    }
+  ]
+}

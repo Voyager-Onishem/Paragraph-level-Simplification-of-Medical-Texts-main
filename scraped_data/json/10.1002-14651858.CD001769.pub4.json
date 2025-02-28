@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD001769.pub4",
+  "name": "Sodium valproate versus phenytoin monotherapy for epilepsy: an individual participant data review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment up to 70% of individuals with active epilepsy have the potential to become seizure-free, and to go into long-term remission shortly after starting drug therapy with a single antiepileptic drug in monotherapy.\nWorldwide, sodium valproate and phenytoin are commonly used antiepileptic drugs for monotherapy treatment. It is generally believed that phenytoin is more effective for focal onset seizures, and that sodium pvalproate is more effective for generalised onset tonic-clonic seizures (with or without other generalised seizure types). This review is one in a series of Cochrane Reviews investigating pair-wise monotherapy comparisons. This is the latest updated version of the review first published in 2001, and updated in 2013 and 2016."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the time to treatment failure, remission and first seizure of sodium valproate compared to phenytoin when used as monotherapy in people with focal onset seizures or generalised tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Epilepsy Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform ICTRP on 19 February 2018. We handsearched relevant journals, contacted pharmaceutical companies, original trial investigators and experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing monotherapy with either sodium valproate or phenytoin in children or adults with focal onset seizures or generalised onset tonic-clonic seizures"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post-randomisation, time to six-month, and 12-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 trials in this review and IPD were available for 669 individuals out of 1119 eligible individuals from five out of 11 trials, 60% of the potential data. Results apply to focal onset seizures (simple, complex and secondary generalised tonic-clonic seizures), and generalised tonic-clonic seizures, but not other generalised seizure types (absence or myoclonus seizure types). For remission outcomes, a HR of less than 1 indicates an advantage for phenytoin, and for first seizure and treatment failure outcomes a HR of less than 1 indicates an advantage for sodium valproate.\nThe main overall results were: time to treatment failure for any reason related to treatment (pooled HR adjusted for seizure type 0.88, 95% CI 0.61 to 1.27; 5 studies; 528 participants; moderate-quality evidence), time to treatment failure due to adverse events (pooled HR adjusted for seizure type 0.77, 95% CI 0.44 to 1.37; 4 studies; 418 participants; moderate-quality evidence), time to treatment failure due to lack of efficacy (pooled HR for all participants 1.16 (95% CI 0.71 to 1.89; 5 studies; 451 participants; moderate-quality evidence). These results suggest that treatment failure for any reason related to treatment and treatment failure due to adverse events may occur earlier on phenytoin compared to sodium valproate, while treatment failure due to lack of efficacy may occur earlier on sodium valproate than phenytoin; however none of these results were statistically significant.\nResults for time to first seizure (pooled HR adjusted for seizure type 1.08, 95% CI 0.88 to 1.33; 5 studies; 639 participants; low-quality evidence) suggest that first seizure recurrence may occur slightly earlier on sodium valproate compared to phenytoin. There were no clear differences between drugs in terms of time to 12-month remission (pooled HR adjusted for seizure type 1.02, 95% CI 0.81 to 1.28; 4 studies; 514 participants; moderate-quality evidence) and time to six-month remission (pooled HR adjusted for seizure type 1.05, 95% CI 0.86 to 1.27; 5 studies; 639 participants; moderate-quality evidence).\nLimited information was available regarding adverse events in the trials and we could not make comparisons between the rates of adverse events on sodium valproate and phenytoin. Some adverse events reported with both drugs were drowsiness, rash, dizziness, nausea and gastrointestinal problems. Weight gain was also reported with sodium valproate and gingival hypertrophy/hyperplasia was reported on phenytoin.\nThe methodological quality of the included trials was generally good, however four out of the five trials providing IPD for analysis were of an open-label design, therefore all results were at risk of detection bias. There was also evidence that misclassification of seizure type may have confounded the results of this review, particularly for the outcome 'time to first seizure' and heterogeneity was present in analysis of treatment failure outcomes which could not be explained by subgroup analysis by epilepsy type or by sensitivity analysis for misclassification of seizure type. Therefore, for treatment failure outcomes we judged the quality of the evidence to be moderate to low, for 'time to first seizure' we judged the quality of the evidence to be low, and for remission outcomes we judged the quality of the evidence to be moderate."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We have not found evidence that a significant difference exists between valproate and phenytoin for any of the outcomes examined in this review. However detection bias, classification bias and heterogeneity may have impacted on the results of this review. We did not find any outright evidence to support or refute current treatment policies. We recommend that future trials be designed to the highest quality possible with consideration of masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+    }
+  ],
+  "pls_title": "Sodium valproate versus phenytoin monotherapy (single drug treatment) for epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This is an updated version of the Cochrane Review previously published in Issue 4, 2016 of the Cochrane Database of Systematic Reviews."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common neurological disorder in which abnormal electrical discharges from the brain cause recurrent seizures. We studied two types of epileptic seizures in this review: generalised onset seizures, in which electrical discharges begin in one part of the brain and move throughout the brain; and focal onset seizures, in which the seizure is generated in and affects one part of the brain (the whole hemisphere of the brain or part of a lobe of the brain). Focal seizures may become generalised (secondary generalisation) and move from one part of the brain throughout the brain. For around 70% of people with epilepsy, a single antiepileptic medication can control generalised onset or focal onset seizures."
+    },
+    {
+      "heading": "Objective",
+      "text": "Sodium valproate and phenytoin are commonly used treatments for individuals with epilepsy. The aim of this review was to compare how effective these drugs are at controlling seizures and whether individuals choose to stop taking these treatments (treatment failure), to inform a choice between these drugs."
+    },
+    {
+      "heading": "Methods",
+      "text": "The last search for trials for this review was 19 February 2018. We assessed the evidence from 11 randomised controlled clinical trials comparing sodium valproate to phenytoin and we were able to combine data for 699 people from five of the 11 trials; for the remaining 450 people from six trials, data were not available to use in this review."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review of trials found no difference between these two drugs for the seizure types studied for the outcomes of treatment failure (withdrawal from treatment) and controlling seizures (recurrence of seizures or achievement of a seizure-free period (remission) of 6 months or 12 months). The review also found no evidence to support or refute the policy of using sodium valproate for generalised onset tonic-clonic seizures and phenytoin for focal onset seizures.\nHowever, up to 49% of people within the trials classified as having generalised seizures may have had their seizure type wrongly diagnosed and these people may have been experiencing focal seizures or an uncertain seizure type, and this misclassification may have influenced the results of this review. We were unable to address the issue of preferring sodium valproate for generalised onset seizure types other than tonic-clonic, such as absence or myoclonic seizures."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We judged the quality of the evidence as moderate to low for the evidence of treatment failure, moderate for remission outcomes and low for seizure outcomes as it is likely that misclassification of seizure type influenced the results of the review. Within four of the five trials providing data for this review, the design of the trial meant that the people and treating clinicians knew which medication they were taking. This design may have influenced the results."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Sodium valproate and phenytoin are commonly used treatments for individuals with epilepsy, but we found no difference between these treatments for the outcomes of this review or between seizure types. More information is needed and we recommend that all future trials comparing these medications, or any other antiepileptic medications, should be designed using high-quality methods. Seizure types of people included in trials should also be classified very carefully to ensure that the results are also of high quality."
+    }
+  ]
+}

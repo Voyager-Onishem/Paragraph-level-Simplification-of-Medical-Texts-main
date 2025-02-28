@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003119",
+  "name": "Vinpocetine for cognitive impairment and dementia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vinpocetine is a synthetic ethyl ester of apovincamine, a vinca alkaloid obtained from the leaves of the Lesser Periwinkle (Vinca minor) and discovered in the late 1960s. Although used in human treatment for over twenty years, it has not been approved by any regulatory body for the treatment of cognitive impairment. Basic sciences studies have been used to claim a variety of potentially important effects in the brain. However, despite these many proposed mechanisms and targets, the relevance of this basic science to clinical studies is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of vinpocetine in the treatment of patients with cognitive impairment due to vascular disease, Alzheimer's disease, mixed (vascular and Alzheimer's disease) and other dementias."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Dementia and Cognitive Improvement Group's Specialized Register was searched on 23 March 2009 using the terms vinpocetin*, cavinton, kavinton, Rgh-4405, Tcv-3B, \"ethyl apovincaminate\", vinRx, periwinkle, \"myrtle vincapervinc\" and cezayirmeneksesi. This register contains up to date references from major health care databases like MEDLINE and EMBASE as well as records from trials databases in the field of dementia.The manufacturers of vinpocetine were asked for information on trials of vinpocetine for dementia. In addition we tried to collect articles not listed in MEDLINE or other sources on the Internet (e.g. articles in Hungarian and Romanian)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All human, unconfounded, double-blind, randomized trials in which treatment with vinpocetine was administered for more than a day and compared to control in patients with vascular dementia, Alzheimer's dementia or mixed Alzheimer's and vascular dementia and other dementias. Non-randomized trials were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were independently extracted by the two reviewers (SzSz and PW) and cross-checked. Data from \"washout\" periods were not used for the analysis. For continuous or ordinal variables, such as cognitive test results, the main outcomes of interest were the change in score from baseline. The categorical outcome of global impression was transformed to binary data (improved or not improved) as was the occurrence of adverse effects; here the endpoint itself was of interest and the Peto method of the \"typical odds ratio\" was used. A test for heterogeneity of treatment effects between the trials was made if appropriate. Data synthesis and analysis were performed using the Cochrane Review Manager software (RevMan version 4.1)."
+    },
+    {
+      "heading": "Main results",
+      "text": "All identified studies were performed before and in the early 1990s and used various terms and criteria for cognitive decline and dementia. The three studies included in the review involved a total of 583 people with dementia treated with vinpocetine or placebo. The reports of these studies did not make possible any differentiation of effects for degenerative or vascular dementia. The results show benefit associated with treatment with vinpocetine 30 mg/day and 60 mg/day compared with placebo, but the number of patients treated for six months or more was small. Only one study extended treatment to one year. Adverse effects were inconsistently reported and without regard for relationship to dose. The available data do not demonstrate many problems of adverse effects but intention-to-treat data were not available for any of the trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although the basic science is interesting, the evidence for beneficial effect of vinpocetine on patients with dementia is inconclusive and does not support clinical use. The drug seems to have few adverse effects at the doses used in the studies. Large studies evaluating the use of vinpocetine for people suffering from well defined types of cognitive impairment are needed to explore possible efficacy of this treatment."
+    }
+  ],
+  "pls_title": "Insufficient evidence of benefits of vinpocetine for people with dementia",
+  "pls_type": "long",
+  "pls": "Preclinical data of uneven quality suggest a potential beneficial effect of vinpocetine in chronic cerebrovascular diseases and on cognitive performance in a variety of animal models. Clinical trials to test these hypotheses were performed before currently used criteria for dementia had become generally accepted. The results show improvement after the treatment with vinpocetine versus placebo, but the number of demented patients treated for at least six months was small. The available data does not demonstrate many side effect problems. Although the basic science is interesting, the evidence for beneficial effect of vinpocetine on patients with dementia is inconclusive and does not support clinical use."
+}

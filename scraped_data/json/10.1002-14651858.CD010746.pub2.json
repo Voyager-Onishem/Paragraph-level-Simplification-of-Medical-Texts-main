@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010746.pub2",
+  "name": "Perioperative medications for preventing temporarily increased intraocular pressure after laser trabeculoplasty ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Glaucoma is the international leading cause of irreversible blindness. Intraocular pressure (IOP) is the only currently known modifiable risk factor; it can be reduced by medications, incisional surgery, or laser trabeculoplasty (LTP). LTP reduces IOP by 25% to 30% from baseline, but early acute IOP elevation after LTP is a common adverse effect. Most of these IOP elevations are transient, but temporarily elevated IOP may cause further optic nerve damage, worsening of glaucoma requiring additional therapy, and permanent vision loss. Antihypertensive prophylaxis with medications such as acetazolamide, apraclonidine, brimonidine, dipivefrin, pilocarpine, and timolol have been recommended to blunt and treat the postoperative IOP spike and associated pain and discomfort. Conversely, other researchers have observed that early postoperative IOP rise happens regardless of whether people receive perioperative glaucoma medications. It is unclear whether perioperative administration of antiglaucoma medications may be helpful in preventing or reducing the occurrence of postoperative IOP elevation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of medications administered perioperatively to prevent temporarily increased intraocular pressure (IOP) after laser trabeculoplasty (LTP) in people with open-angle glaucoma (OAG)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register) (2016, Issue 11), MEDLINE Ovid (1946 to 18 November 2016), Embase.com (1947 to 18 November 2016), PubMed (1948 to 18 November 2016), LILACS (Latin American and Caribbean Health Sciences Literature Database) (1982 to 18 November 2016), the meta Register of Controlled Trials (mRCT) (www.controlled-trials.com); last searched 17 September 2013, ClinicalTrials.gov (www.clinicaltrials.gov); searched 18 November 2016 and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en); searched 18 November 2016. We did not use any date or language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) in which participants with OAG received LTP. We included trials which compared any antiglaucoma medication with no medication, one type of antiglaucoma medication compared with another type of antiglaucoma medication, or different timings of medication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened records retrieved by the database searches, assessed the risk of bias, and abstracted data. We graded the certainty of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 22 trials that analyzed 2112 participants and identified no ongoing trials. We performed several comparisons of outcomes: one comparison of any antiglaucoma medication versus no medication or placebo, three comparisons of one antiglaucoma medication versus a different antiglaucoma mediation, and one comparison of antiglaucoma medication given before LTP to the same antiglaucoma medication given after LTP. Only one of the included trials used selective laser trabeculoplasty (SLT); the remaining trials used argon laser trabeculoplasty (ALT). Risk of bias issues were primarily in detection bias, reporting bias, and other potential bias due to studies funded by industry. Two potentially relevant studies are awaiting classification due to needing translation.\nIn the comparison of any medication versus no medication/placebo, there was moderate-certainty evidence that the medication group had a lower risk of IOP increase of 10 mmHg or greater within two hours compared with the no medication/placebo group (risk ratio (RR) 0.05, 95% confidence interval (CI) 0.01 to 0.20). This trend favoring medication continued between two and 24 hours, but the evidence was of low and very low-certainty for an IOP increase of 5 mmHg or greater (RR 0.17, 95% CI 0.09 to 0.31) and 10 mmHg or greater (RR 0.22, 95% CI 0.11 to 0.42). Medication was favored over placebo/no medication with moderate-certainty in reducing IOP from the pre-LTP measurements for both within two hours and between two and 24 hours. At two hours, the mean difference (MD) in IOP between the medication group and the placebo/no medication group was -7.43 mmHg (95% CI -10.60 to -4.27); at between two and 24 hours, the medication group had a mean reduction in IOP of 5.32 mmHg more than the mean change in the placebo/no medication group (95% CI -7.37 to -3.28). Conjunctival blanching was an ocular adverse effect that was more common when brimonidine was given perioperatively compared with placebo in three studies.\nIn our comparison of brimonidine versus apraclonidine, neither medication resulted in a lower risk of increased IOP of 5 mmHg or greater two hours of surgery; however, we were very uncertain about the estimate. There may be a greater mean decrease in IOP within two hours after LTP. We were unable to perform any meta-analyses for other review outcomes for this comparison.\nIn our comparison of apraclonidine versus pilocarpine, we had insufficient data to perform meta-analyses to estimate effects on either of the primary outcomes. There was moderate-certainty evidence that neither medication was favored based on the mean change in IOP measurements from pre-LTP to two hours after surgery.\nIn the comparison of medication given before LTP versus the same medication given after LTP, we had insufficient data for meta-analysis of IOP increase within two hours. For the risk of IOP increase of 5 mmHg or greater and 10 mmHg or greater at time points between two and 24 hours, there was no advantage of medication administration before or after LTP regarding the proportion of participants with an IOP spike (5 mmHg or greater: RR 0.82, 95% CI 0.25 to 2.63; 10 mmHg or greater: RR 1.55, 95% CI 0.19 to 12.43). For an IOP increase of 10 mmHg or greater, we had very low-certainty in the estimate, it would likely change with data from new studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Perioperative medications are superior to no medication or placebo to prevent IOP spikes during the first two hours and up to 24 hours after LTP, but some medications can cause temporary conjunctival blanching, a short-term cosmetic effect. Overall, perioperative treatment was well tolerated and safe. Alpha-2 agonists are useful in helping to prevent IOP increases after LTP, but it is unclear whether one medication in this class of drugs is better than another. There was no notable difference between apraclonidine and pilocarpine in the outcomes we were able to assess. Future research should include participants who have been using these antiglaucoma medications for daily treatment of glaucoma before LTP was performed."
+    }
+  ],
+  "pls_title": "Medicines given before, during, or after surgery to prevent short spikes of eye pressure after laser surgery for glaucoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out whether medicines given before, during, or after laser trabeculoplasty (LTP), a surgical method to reduce eye pressure, can prevent increased eye pressure shortly after surgery."
+    },
+    {
+      "heading": "Key messages",
+      "text": "People who received medicines to reduce eye pressure as part of their LTP surgery had a lower risk of increased eye pressure after surgery than people who did not receive medicines. We are moderately certain that medicine helped reduce spikes in eye pressure. There were no serious side effects, but they could cause conjunctival blanching (a whitening or lightening of the eye), a noticeable cosmetic difference, in the eye that received the eye drops."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Glaucoma is a leading cause of irreversible blindness worldwide, but treatment usually can prevent or slow visual loss. Pressure within the eye, known as intraocular pressure (IOP), is the only risk factor for glaucoma that can be treated or controlled. During a type of glaucoma surgery called LTP, the doctor uses a laser to make small cuts that drain fluid out of the front of the eye. This can lower IOP. 'Spikes' of increased IOP after LTP are common, but the spikes in IOP usually stop without treatment after the operation. However, even short periods of increased IOP can lead to further damage and permanent blindness. Research has suggested that medicines given before, during, or after surgery may prevent spikes in IOP after LTP."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We included 22 studies with 2112 people, which compared the effects of medicine versus no medicine before, during, or after LTP, and one type of medicine versus another type of medicine before or after LTP.\nIn the studies that compared medicine versus no medicine, people who received medicine had a lower risk of increased IOP than people who had not received medicine. This was at both two hours and up to 24 hours after the operation. The group that received medicine also had a greater reduction of IOP after surgery than people who had not received medicine. We were unable to determine whether it was better to administer medicines before or after LTP. The medicines might cause temporary conjunctival blanching.\nBased on this review, people who received medicine before or after LTP had a lower risk of increased IOP afterward. It is unclear which medicines gave the best results. Treatment was safe for patients."
+    },
+    {
+      "heading": "How up-to-date is the review?",
+      "text": "Cochrane researchers searched for studies that had been published up to 18 November 2016."
+    }
+  ]
+}

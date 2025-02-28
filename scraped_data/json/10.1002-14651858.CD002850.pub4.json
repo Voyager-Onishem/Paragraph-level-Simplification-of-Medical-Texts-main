@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD002850.pub4",
+  "name": "Telephone counselling for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Telephone services can provide information and support for smokers. Counselling may be provided proactively or offered reactively to callers to smoking cessation helplines."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effect of telephone support to help smokers quit, including proactive or reactive counselling, or the provision of other information to smokers calling a helpline."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Specialised Register, clinicaltrials.gov, and the ICTRP for studies of telephone counselling, using search terms including 'hotlines' or 'quitline' or 'helpline'. Date of the most recent search: May 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised controlled trials which offered proactive or reactive telephone counselling to smokers to assist smoking cessation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. We pooled studies using a random-effects model and assessed statistical heterogeneity amongst subgroups of clinically comparable studies using the I2 statistic. In trials including smokers who did not call a quitline, we used meta-regression to investigate moderation of the effect of telephone counselling by the planned number of calls in the intervention, trial selection of participants that were motivated to quit, and the baseline support provided together with telephone counselling (either self-help only, brief face-to-face intervention, pharmacotherapy, or financial incentives)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 104 trials including 111,653 participants that met the inclusion criteria. Participants were mostly adult smokers from the general population, but some studies included teenagers, pregnant women, and people with long-term or mental health conditions. Most trials (58.7%) were at high risk of bias, while 30.8% were at unclear risk, and only 11.5% were at low risk of bias for all domains assessed. Most studies (100/104) assessed proactive telephone counselling, as opposed to reactive forms.\nAmong trials including smokers who contacted helplines (32,484 participants), quit rates were higher for smokers receiving multiple sessions of proactive counselling (risk ratio (RR) 1.38, 95% confidence interval (CI) 1.19 to 1.61; 14 trials, 32,484 participants; I2 = 72%) compared with a control condition providing self-help materials or brief counselling in a single call. Due to the substantial unexplained heterogeneity between studies, we downgraded the certainty of the evidence to moderate.\nIn studies that recruited smokers who did not call a helpline, the provision of telephone counselling increased quit rates (RR 1.25, 95% CI 1.15 to 1.35; 65 trials, 41,233 participants; I2 = 52%). Due to the substantial unexplained heterogeneity between studies, we downgraded the certainty of the evidence to moderate. In subgroup analysis, we found no evidence that the effect of telephone counselling depended upon whether or not other interventions were provided (P = 0.21), no evidence that more intensive support was more effective than less intensive (P = 0.43), or that the effect of telephone support depended upon whether or not people were actively trying to quit smoking (P = 0.32). However, in meta-regression, telephone counselling was associated with greater effectiveness when provided as an adjunct to self-help written support (P < 0.01), or to a brief intervention from a health professional (P = 0.02); telephone counselling was less effective when provided as an adjunct to more intensive counselling. Further, telephone support was more effective for people who were motivated to try to quit smoking (P = 0.02). The findings from three additional trials of smokers who had not proactively called a helpline but were offered telephone counselling, found quit rates were higher in those offered three to five telephone calls compared to those offered just one call (RR 1.27, 95% CI 1.12 to 1.44; 2602 participants; I2 = 0%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is moderate-certainty evidence that proactive telephone counselling aids smokers who seek help from quitlines, and moderate-certainty evidence that proactive telephone counselling increases quit rates in smokers in other settings. There is currently insufficient evidence to assess potential variations in effect from differences in the number of contacts, type or timing of telephone counselling, or when telephone counselling is provided as an adjunct to other smoking cessation therapies. Evidence was inconclusive on the effect of reactive telephone counselling, due to a limited number studies, which reflects the difficulty of studying this intervention."
+    }
+  ],
+  "pls_title": "Does telephone counselling help people stop smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "There are a number of interventions available to help people stop smoking. One of them is using telephone calls to give smokers information, advice, and help to stop smoking. People can use these services by calling quitlines or by signing up to get calls from counsellors. We wanted to find out whether telephone counselling can help people quit smoking. Our most recent search for evidence was in May 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 104 studies (including 111,653 participants) testing the effect of any type of telephone counselling. The participants were mostly adult smokers from the general population, but some studies also looked at teenagers, pregnant women, and people with long-term or mental health conditions.\nSome studies included participants who had called helplines that provide smoking counselling (quitlines). Other studies included people who had not called quitlines, but received calls from counsellors or other healthcare providers.\nSome studies provided telephone counselling alone, but many others provided telephone counselling along with minimal support such as self-help leaflets, or more active support such as face-to-face counselling, or with stop-smoking medication. The number of calls offered ranged from a single call to 12 calls. Some studies only recruited people trying to stop smoking, while others offered support even to those not actively trying to stop.\nStudies needed to compare groups whose participants had similar characteristics at the start of the study, to investigate whether the participants had stopped smoking for at least six months, and ideally would test whether people had quit with blood or urine tests.\nWe judged few studies to be well designed and conducted. Most had at least one issue that could have affected the results."
+    },
+    {
+      "heading": "Key results",
+      "text": "In people who had called helplines, providing additional telephone counselling increased their chances of stopping smoking from 7% to 10%. In people who had not called a helpline, but received telephone calls from counsellors or other healthcare providers, their chances of stopping smoking increased from 11% to 14%. In studies which directly compared more versus fewer calls, people who were offered more calls (three to five) tended to be more likely to quit than those who received only one call. Telephone counselling appears to increase the chances of stopping smoking, whether or not people are motivated to quit or are receiving other stop-smoking support."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The overall certainty of the evidence was moderate, meaning that further research is likely to have an important impact on our conclusions."
+    }
+  ]
+}

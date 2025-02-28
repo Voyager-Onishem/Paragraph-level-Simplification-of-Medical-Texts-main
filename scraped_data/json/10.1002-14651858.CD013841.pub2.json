@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD013841.pub2",
+  "name": "Antiseptic solutions for skin preparation during central catheter insertion in neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Central venous catheters (CVC) are associated with potentially dangerous complications such as thromboses, pericardial effusions, extravasation, and infections in neonates. Indwelling catheters are amongst the main risk factors for nosocomial infections. The use of skin antiseptics during the preparation for central catheter insertion may prevent catheter-related bloodstream infections (CRBSI) and central line-associated bloodstream infections (CLABSI). However, it is still not clear which antiseptic solution is the best to prevent infection with minimal side effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically evaluate the safety and efficacy of different antiseptic solutions in preventing CRBSI and other related outcomes in neonates with CVC."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and trial registries up to 22 April 2022. We checked reference lists of included trials and systematic reviews that related to the intervention or population examined in this Cochrane Review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or cluster-RCTs were eligible for inclusion in this review if they were performed in the neonatal intensive care unit (NICU), and were comparing any antiseptic solution (single or in combination) against any other type of antiseptic solution or no antiseptic solution or placebo in preparation for central catheter insertion. We excluded cross-over trials and quasi-RCTs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methods from Cochrane Neonatal. We used the GRADE approach to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three trials that had two different comparisons: 2% chlorhexidine in 70% isopropyl alcohol (CHG-IPA) versus 10% povidone-iodine (PI) (two trials); and CHG-IPA versus 2% chlorhexidine in aqueous solution (CHG-A) (one trial). A total of 466 neonates from level III NICUs were evaluated. All included trials were at high risk of bias. The certainty of the evidence for the primary and some important secondary outcomes ranged from very low to moderate. There were no included trials that compared antiseptic skin solutions with no antiseptic solution or placebo.\nCHG-IPA versus 10% PI\nCompared to PI, CHG-IPA may result in little to no difference in CRBSI (risk ratio (RR) 1.32, 95% confidence interval (CI) 0.53 to 3.25; risk difference (RD) 0.01, 95% CI −0.03 to 0.06; 352 infants, 2 trials, low-certainty evidence) and all-cause mortality (RR 0.88, 95% CI 0.46 to 1.68; RD −0.01, 95% CI −0.08 to 0.06; 304 infants, 1 trial, low-certainty evidence). The evidence is very uncertain about the effect of CHG-IPA on CLABSI (RR 1.00, 95% CI 0.07 to 15.08; RD 0.00, 95% CI −0.11 to 0.11; 48 infants, 1 trial; very low-certainty evidence) and chemical burns (RR 1.04, 95% CI 0.24 to 4.48; RD 0.00, 95% CI −0.03 to 0.03; 352 infants, 2 trials, very low-certainty evidence), compared to PI. Based on a single trial, infants receiving CHG-IPA appeared less likely to develop thyroid dysfunction compared to PI (RR 0.05, 95% CI 0.00 to 0.85; RD −0.06, 95% CI −0.10 to −0.02; number needed to treat for an additional harmful outcome (NNTH) 17, 95% CI 10 to 50; 304 infants). Neither of the two included trials assessed the outcome of premature central line removal or the proportion of infants or catheters with exit-site infection.\nCHG-IPA versus CHG-A\nThe evidence suggests CHG-IPA may result in little to no difference in the rate of proven CRBSI when applied on the skin of neonates prior to central line insertion (RR 0.80, 95% CI 0.34 to 1.87; RD −0.05, 95% CI −0.22 to 0.13; 106 infants, 1 trial, low-certainty evidence) and CLABSI (RR 1.14, 95% CI 0.34 to 3.84; RD 0.02, 95% CI −0.12 to 0.15; 106 infants, 1 trial, low-certainty evidence), compared to CHG-A. Compared to CHG-A, CHG-IPA probably results in little to no difference in premature catheter removal (RR 0.91, 95% CI 0.26 to 3.19; RD −0.01, 95% CI −0.15 to 0.13; 106 infants, 1 trial, moderate-certainty evidence) and chemical burns (RR 0.98, 95% CI 0.47 to 2.03; RD −0.01, 95% CI −0.20 to 0.18; 114 infants, 1 trial, moderate-certainty evidence). No trial assessed the outcome of all-cause mortality and the proportion of infants or catheters with exit-site infection."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on current evidence, compared to PI, CHG-IPA may result in little to no difference in CRBSI and mortality. The evidence is very uncertain about the effect of CHG-IPA on CLABSI and chemical burns. One trial showed a statistically significant increase in thyroid dysfunction with the use of PI compared to CHG-IPA.\nThe evidence suggests CHG-IPA may result in little to no difference in the rate of proven CRBSI and CLABSI when applied on the skin of neonates prior to central line insertion. Compared to CHG-A, CHG-IPA probably results in little to no difference in chemical burns and premature catheter removal.\nFurther trials that compare different antiseptic solutions are required, especially in low- and middle-income countries, before stronger conclusions can be made."
+    }
+  ],
+  "pls_title": "Chlorhexidine or other antiseptic solutions: which works better to prevent infection in newborns with central lines?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Due to a lack of robust evidence, the benefits and risks of chlorhexidine in alcohol compared to povidone-iodine (PI) as antiseptic solution for central line insertion in newborns are unclear.\n• The use of povidone in premature infants may reduce the level of thyroid hormone, which is an essential hormone for growth and development.\n• The limited number of studies and the lack of studies from low- and middle-income countries reduce our confidence in the certainty and applicability of the evidence."
+    },
+    {
+      "heading": "What is a central catheter?",
+      "text": "Babies who require intensive care may need a special line, known as a central line, inserted into their blood vessels. Central lines are needed for a variety of reasons, including giving medications and nutrients. These central lines are important but can lead to various complications."
+    },
+    {
+      "heading": "What are catheter-related blood stream infection (CRBSI) and central line-associated bloodstream infection (CLABSI)?",
+      "text": "Serious infections are amongst the most frequent complications of central line insertion. Infection that originated or possibly originated from the central line is called CRBSI and CLABSI respectively. These infections are potentially preventable by using antiseptic solutions on the skin before inserting the lines."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We were interested to know which antiseptic solution is best in:\n    • preventing CRBSI/CLABSI;\n• reducing the rate of infection in the blood;\n• preventing the growth of germs inside the catheters.\nWe were also interested to know if the use of these solutions increased the risk of chemical irritation on the skin of small infants or caused other adverse effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for trials that compared:\n• different types of antiseptic solutions; or\n• different concentrations of the same antiseptic solution.\nWe compared and summarised their results, and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found three trials: one from the USA, one from the UK, and one from Ireland. These trials involved 466 babies and were conducted in neonatal intensive care units. Two trials compared 10% PI versus 2% chlorhexidine in 70% isopropyl alcohol. The third trial compared two different preparations of chlorhexidine: an alcohol-based solution, and a water-based solution. All the trials involved premature babies born between 26 and 35 weeks of pregnancy and had a birthweight between 1000 g and 2000 g. None of the studies were funded by pharmaceutical companies."
+    },
+    {
+      "heading": "Main results",
+      "text": "In trials comparing 2% chlorhexidine in 70% alcohol (CHG-IPA) and PI:\n    • Compared to PI, the use of CHG-IPA may result in little to no difference in CRBSI (2 trials, 352 infants) and death (1 trial, 304 infants). It is unclear whether CHG-IPA reduces skin burns and CLABSI (2 trials, 352 infants).\n    • The use of 10% PI could disturb the production of thyroid hormone (1 trial, 304 infants).\nCompared to water-based chlorhexidine, alcohol-based chlorhexidine may result in little to no difference in the rate of proven CRBSI and CLABSI and probably results in little to no difference in skin irritation (1 trial, 114 infants)."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Compared to PI, we have little confidence that chlorhexidine is better at preventing CRBSI, CLABSI, or death, and we are not confident in the evidence that chlorhexidine is better than PI for other outcomes. The studies included were small, and the people involved in the studies were aware of the solution received by the infants, which may have influenced the outcomes."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up-to-date to 22 April 2022."
+    }
+  ]
+}

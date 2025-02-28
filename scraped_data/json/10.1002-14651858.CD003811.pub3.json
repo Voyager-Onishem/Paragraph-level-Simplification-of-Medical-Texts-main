@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD003811.pub3",
+  "name": "Antibiotics to prevent complications following tooth extractions",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The most frequent indications for tooth extractions, generally performed by general dental practitioners, are dental caries and periodontal infections. Systemic antibiotics may be prescribed to patients undergoing extractions to prevent complications due to infection. This is an update of a review first published in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of systemic antibiotic prophylaxis on the prevention of infectious complications following tooth extractions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health’s Information Specialist searched the following databases: Cochrane Oral Health Trials Register (to 16 April 2020), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2020, Issue 3), MEDLINE Ovid (1946 to 16 April 2020), Embase Ovid (1980 to 16 April 2020), and LILACS (1982 to 16 April 2020). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised, double-blind, placebo-controlled trials of systemic antibiotic prophylaxis in patients undergoing tooth extraction(s) for any indication."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently performed data extraction and 'Risk of bias' assessment for the included studies. We contacted trial authors for further details where these were unclear. For dichotomous outcomes, we calculated risk ratios (RR) and 95% confidence intervals (CI) using random-effects models. For continuous outcomes, we used mean differences (MD) with 95% CI using random-effects models. We examined potential sources of heterogeneity. We assessed the certainty of the body of evidence for key outcomes as high, moderate, low, or very low, using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 trials that randomised approximately 3206 participants (2583 analysed) to prophylactic antibiotics or placebo. Although general dentists perform dental extractions because of severe dental caries or periodontal infection, only one of the trials evaluated the role of antibiotic prophylaxis in groups of patients affected by those clinical conditions.\nWe assessed 16 trials as being at high risk of bias, three at low risk, and four as unclear.\nCompared to placebo, antibiotics may reduce the risk of postsurgical infectious complications in patients undergoing third molar extractions by approximately 66% (RR 0.34, 95% CI 0.19 to 0.64; 1728 participants; 12 studies; low-certainty evidence), which means that 19 people (95% CI 15 to 34) need to be treated with antibiotics to prevent one infection following extraction of impacted wisdom teeth. Antibiotics may also reduce the risk of dry socket by 34% (RR 0.66, 95% CI 0.45 to 0.97; 1882 participants; 13 studies; low-certainty evidence), which means that 46 people (95% CI 29 to 62) need to take antibiotics to prevent one case of dry socket following extraction of impacted wisdom teeth.\nThe evidence for our other outcomes is uncertain: pain, whether measured dichotomously as presence or absence (RR 0.59, 95% CI 0.31 to 1.12; 675 participants; 3 studies) or continuously using a visual analogue scale (0-to-10-centimetre scale, where 0 is no pain) (MD −0.26, 95% CI −0.59 to 0.07; 422 participants; 4 studies); fever (RR 0.66, 95% CI 0.24 to 1.79; 475 participants; 4 studies); and adverse effects, which were mild and transient (RR 1.46, 95% CI 0.81 to 2.64; 1277 participants; 8 studies) (very low-certainty evidence).\nWe found no clear evidence that the timing of antibiotic administration (preoperative, postoperative, or both) was important.\nThe included studies enrolled a subset of patients undergoing dental extractions, that is healthy people who had surgical extraction of third molars. Consequently, the results of this review may not be generalisable to all people undergoing tooth extractions."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The vast majority (21 out of 23) of the trials included in this review included only healthy patients undergoing extraction of impacted third molars, often performed by oral surgeons. None of the studies evaluated tooth extraction in immunocompromised patients. We found low-certainty evidence that prophylactic antibiotics may reduce the risk of infection and dry socket following third molar extraction when compared to placebo, and very low-certainty evidence of no increase in the risk of adverse effects. On average, treating 19 healthy patients with prophylactic antibiotics may stop one person from getting an infection. It is unclear whether the evidence in this review is generalisable to patients with concomitant illnesses or patients at a higher risk of infection. Due to the increasing prevalence of bacteria that are resistant to antibiotic treatment, clinicians should evaluate if and when to prescribe prophylactic antibiotic therapy before a dental extraction for each patient on the basis of the patient's clinical conditions (healthy or affected by systemic pathology) and level of risk from infective complications. Immunocompromised patients, in particular, need an individualised approach in consultation with their treating medical specialist."
+    }
+  ],
+  "pls_title": "Are antibiotics an effective way to prevent infection following tooth removal?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the problem?",
+      "text": "Teeth that are affected by decay or gum disease or painful wisdom teeth are often removed (extracted) by dentists. Tooth extraction is a surgical procedure that leaves a wound in the mouth that can become infected. Infection can lead to swelling, pain, development of pus, fever, as well as ‘dry socket’ (where the tooth socket is not filled by a blood clot, and there is severe pain and bad odour).\nThese complications are unpleasant for patients and may cause difficulty with chewing, speaking, and teeth cleaning, and may even result in days off work or study. Treatment of infection is generally simple and involves drainage of the infection from the wound and patients receiving antibiotics."
+    },
+    {
+      "heading": "Why is this question important?",
+      "text": "Antibiotics work by killing the bacteria that cause infections, or by slowing their growth. However, some infections clear up by themselves. Taking antibiotics unnecessarily may stop them working effectively in future. This ‘antimicrobial resistance’ is a growing problem throughout the world.\nAntibiotics may also cause unwanted effects such as diarrhoea and nausea. Some patients may be allergic to antibiotics, and antibiotics may not mix well with other medicines.\nDentists frequently give patients antibiotics at the time of the extraction as a precaution in order to prevent infection occurring in the first place. This may be unnecessary and may lead to unwanted effects."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether giving antibiotics as a preventive measure reduces infection and other complications after tooth extraction. We also wanted to understand whether antibiotics work differently in healthy people compared with people with health conditions such as diabetes or HIV."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that assessed the effectiveness of antibiotics compared to placebo (sham medicine), given when no infection was present in order to prevent infection following tooth extraction. Studies could include people of any age undergoing tooth extraction.\nWhere possible, we pooled the studies’ results and analysed them together. We also assessed the quality of each study to judge the reliability (certainty) of evidence of individual studies and the body of evidence."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 23 included studies with a total of more than 3200 participants, who received either antibiotics (of different kinds and dosages) or placebo immediately before or just after tooth extraction, or both.\nFour studies were conducted in Spain, three each in Brazil, Sweden, and the UK, two in India, and one each in Colombia, Denmark, Finland, France, Poland, New Zealand, Nigeria, and the USA. All but one study included healthy patients in their 20s. Twenty-one studies assessed the removal of wisdom teeth in hospital dental departments, one assessed the removal of other teeth and one assessed complex oral surgery. None of the included studies assessed tooth extraction in general dental practice for the removal of decayed teeth."
+    },
+    {
+      "heading": "Main results",
+      "text": "Antibiotics given just before or just after surgery (or both) may reduce the risk of infection and dry socket after the removal of wisdom teeth by oral surgeons. However, antibiotics may cause more (generally brief and minor) unwanted effects for these patients. We found no evidence that antibiotics prevent pain, fever, swelling, or problems with restricted mouth opening in patients who have had wisdom teeth removed.\nThere was no evidence to judge the effects of preventive antibiotics for extractions of severely decayed teeth, teeth in diseased gums, or extractions in patients who are sick or have low immunity to infection."
+    },
+    {
+      "heading": "How reliable are the results?",
+      "text": "Our confidence in the results is limited because we had concerns about aspects of the design and reporting of all of the included studies."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "We did not find studies in patients with depressed immune systems, other illnesses, or in young children or older patients, therefore the results of our review probably do not apply to people who may be at high risk of infection. Also, extractions were mainly carried out by oral surgeons, so the review may not apply to dentists working in general practice.\nAnother concern, which cannot be assessed by clinical studies (i.e. studies testing new medical approaches in people), is that widespread use of antibiotics by people who do not have an infection is likely to contribute to the development of antimicrobial resistance.\nWe concluded that antibiotics given to healthy people when they are having teeth extracted may help prevent infection, but the decision to use an antibiotic should be judged on an individual patient basis based on their state of health and possible complications of getting an infection."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "This is an updated review. The evidence is current to April 2020."
+    }
+  ]
+}

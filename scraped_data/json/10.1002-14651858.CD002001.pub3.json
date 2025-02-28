@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD002001.pub3",
+  "name": "Vitamin K antagonists versus low‐molecular‐weight heparin for the long term treatment of symptomatic venous thromboembolism ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with venous thromboembolism (VTE) generally are treated for five days with intravenous unfractionated heparin or subcutaneous low-molecular-weight heparin (LMWH), followed by three months of vitamin K antagonists (VKAs). Treatment with VKAs requires regular laboratory measurements and carries risk of bleeding; some patients have contraindications to such treatment. Treatment with LMWH has been proposed to minimise the risk of bleeding complications. This is the second update of a review first published in 2001."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The purpose of this review was to evaluate the efficacy and safety of long term treatment (three months) with LMWH versus long term treatment (three months) with VKAs for symptomatic VTE."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, the Cochrane Vascular Information Specialist searched the Specialised Register (last searched November 2016) and the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 10), The Cochrane Vascular Information Specialistalso searched clinical trials registries for ongoing studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing LMWH versus VKA for long treatment (three months) of symptomatic VTE. Two review authors independently evaluated trials for inclusion and methodological quality."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently extracted data and assessed risk of bias. We resolved disagreements by discussion and performed meta-analysis using fixed-effect models with Peto odds ratios (Peto ORs) and 95% confidence intervals (CIs). Outcomes of interest were recurrent VTE, major bleeding, and mortality. We used GRADE to assess the overall quality of evidence supporting these outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixteen trials, with a combined total of 3299 participants fulfilled our inclusion criteria. According to GRADE, the quality of evidence was moderate for recurrent VTE, low for major bleeding, and moderate for mortality. We downgraded the quality of the evidence for imprecision (recurrent VTE, mortality) and for risk of bias and inconsistency (major bleeding).\nWe found no clear differences in recurrent VTE between LMWH and VKA (Peto OR 0.83, 95% confidence interval (CI) 0.60 to 1.15; P = 0.27; 3299 participants; 16 studies; moderate-quality evidence). We found less bleeding with LMWH than with VKA (Peto OR 0.51, 95% CI 0.32 to 0.80; P = 0.004; 3299 participants; 16 studies; low-quality evidence). However, when comparing only high-quality studies for bleeding, we observed no clear differences between LMWH and VKA (Peto OR 0.62, 95% CI 0.36 to 1.07; P = 0.08; 1872 participants; seven studies). We found no clear differences between LMWH and VKA in terms of mortality (Peto OR 1.08, 95% CI 0.75 to 1.56; P = 0.68; 3299 participants; 16 studies; moderate-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-quality evidence shows no clear differences between LMWH and VKA in preventing symptomatic VTE and death after an episode of symptomatic DVT. Low-quality evidence suggests fewer cases of major bleeding with LMWH than with VKA. However, comparison of only high-quality studies for bleeding shows no clear differences between LMWH and VKA. LMWH may represent an alternative for some patients, for example, those residing in geographically inaccessible areas, those who are unable or reluctant to visit the thrombosis service regularly, and those with contraindications to VKA."
+    }
+  ],
+  "pls_title": "Vitamin K antagonists or low-molecular-weight heparin for long term treatment of symptomatic blood clots",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Blood clots (venous thromboembolism) sometimes cause blockages in veins after surgery, during bed rest, or spontaneously. These clots can be fatal when they travel to the lungs. Vitamin K antagonists (VKAs), 99% of which consist of warfarin, are effective in preventing renewed blood clot formation, because they thin the blood. Low-molecular-weight heparins (LMWHs) are drugs that thin the blood and are used for people who are at risk of major bleeding, people who cannot take vitamin K antagonists, and pregnant women."
+    },
+    {
+      "heading": "Purpose of the review",
+      "text": "To assess the benefits and harms of long term treatment (three months) of venous thromboembolism with LMWH compared with long term treatment with VKAs."
+    },
+    {
+      "heading": "Key results",
+      "text": "This systematic review of 16 trials with a combined total of 3299 participants (current until November 2016) found no clear differences in recurrent blood clots and deaths between LMWH and VKA, and fewer bleeding episodes with LMWH than with VKA. However, comparison of only high-quality studies for bleeding revealed no clear differences between LMWH and VKA."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence for the outcomes recurrent blood clots and death was moderate. The quality of this evidence was downgraded because of the small number of events reported, leading to imprecision. For the outcome bleeding, the quality of evidence was low because of inconsistency between studies and risk of bias. Continued research into long term treatment of blood clots in the veins with LMWH and VKA is needed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review found no clear differences in recurrent blood clots and death between LMWH and VKA, and fewer bleeding episodes with LMWH than with VKA. However, when only high-quality studies were compared for bleeding, no clear differences were observed between LMWH and VKA. LMWH may offer an alternative for some patients, for example, those in geographically inaccessible areas, those unable or reluctant to visit the thrombosis service regularly, and those for whom taking VKA may be harmful."
+    }
+  ]
+}

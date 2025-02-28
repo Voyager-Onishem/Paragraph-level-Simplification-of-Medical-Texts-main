@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012221.pub2",
+  "name": "Multifactorial and multiple component interventions for preventing falls in older people living in the community ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Falls and fall-related injuries are common, particularly in those aged over 65, with around one-third of older people living in the community falling at least once a year. Falls prevention interventions may comprise single component interventions (e.g. exercise), or involve combinations of two or more different types of intervention (e.g. exercise and medication review). Their delivery can broadly be divided into two main groups: 1) multifactorial interventions where component interventions differ based on individual assessment of risk; or 2) multiple component interventions where the same component interventions are provided to all people."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects (benefits and harms) of multifactorial interventions and multiple component interventions for preventing falls in older people living in the community."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature, trial registers and reference lists. Date of search: 12 June 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials, individual or cluster, that evaluated the effects of multifactorial and multiple component interventions on falls in older people living in the community, compared with control (i.e. usual care (no change in usual activities) or attention control (social visits)) or exercise as a single intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed risks of bias and extracted data. We calculated the rate ratio (RaR) with 95% confidence intervals (CIs) for rate of falls. For dichotomous outcomes we used risk ratios (RRs) and 95% CIs. For continuous outcomes, we used the standardised mean difference (SMD) with 95% CIs. We pooled data using the random-effects model. We used the GRADE approach to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 62 trials involving 19,935 older people living in the community. The median trial size was 248 participants. Most trials included more women than men. The mean ages in trials ranged from 62 to 85 years (median 77 years). Most trials (43 trials) reported follow-up of 12 months or over. We assessed most trials at unclear or high risk of bias in one or more domains.\nForty-four trials assessed multifactorial interventions and 18 assessed multiple component interventions. (I2 not reported if = 0%).\nMultifactorial interventions versus usual care or attention control\nThis comparison was made in 43 trials. Commonly-applied or recommended interventions after assessment of each participant's risk profile were exercise, environment or assistive technologies, medication review and psychological interventions. Multifactorial interventions may reduce the rate of falls compared with control: rate ratio (RaR) 0.77, 95% CI 0.67 to 0.87; 19 trials; 5853 participants; I2 = 88%; low-quality evidence. Thus if 1000 people were followed over one year, the number of falls may be 1784 (95% CI 1553 to 2016) after multifactorial intervention versus 2317 after usual care or attention control. There was low-quality evidence of little or no difference in the risks of: falling (i.e. people sustaining one or more fall) (RR 0.96, 95% CI 0.90 to 1.03; 29 trials; 9637 participants; I2 = 60%); recurrent falls (RR 0.87, 95% CI 0.74 to 1.03; 12 trials; 3368 participants; I2 = 53%); fall-related hospital admission (RR 1.00, 95% CI 0.92 to 1.07; 15 trials; 5227 participants); requiring medical attention (RR 0.91, 95% CI 0.75 to 1.10; 8 trials; 3078 participants). There is low-quality evidence that multifactorial interventions may reduce the risk of fall-related fractures (RR 0.73, 95% CI 0.53 to 1.01; 9 trials; 2850 participants) and may slightly improve health-related quality of life but not noticeably (SMD 0.19, 95% CI 0.03 to 0.35; 9 trials; 2373 participants; I2 = 70%). Of three trials reporting on adverse events, one found none, and two reported 12 participants with self-limiting musculoskeletal symptoms in total.\nMultifactorial interventions versus exercise\nVery low-quality evidence from one small trial of 51 recently-discharged orthopaedic patients means that we are uncertain of the effects on rate of falls or risk of falling of multifactorial interventions versus exercise alone. Other fall-related outcomes were not assessed.\nMultiple component interventions versus usual care or attention control\nThe 17 trials that make this comparison usually included exercise and another component, commonly education or home-hazard assessment. There is moderate-quality evidence that multiple interventions probably reduce the rate of falls (RaR 0.74, 95% CI 0.60 to 0.91; 6 trials; 1085 participants; I2 = 45%) and risk of falls (RR 0.82, 95% CI 0.74 to 0.90; 11 trials; 1980 participants). There is low-quality evidence that multiple interventions may reduce the risk of recurrent falls, although a small increase cannot be ruled out (RR 0.81, 95% CI 0.63 to 1.05; 4 trials; 662 participants). Very low-quality evidence means that we are uncertain of the effects of multiple component interventions on the risk of fall-related fractures (2 trials) or fall-related hospital admission (1 trial). There is low-quality evidence that multiple interventions may have little or no effect on the risk of requiring medical attention (RR 0.95, 95% CI 0.67 to 1.35; 1 trial; 291 participants); conversely they may slightly improve health-related quality of life (SMD 0.77, 95% CI 0.16 to 1.39; 4 trials; 391 participants; I2 = 88%). Of seven trials reporting on adverse events, five found none, and six minor adverse events were reported in two.\nMultiple component interventions versus exercise\nThis comparison was tested in five trials. There is low-quality evidence of little or no difference between the two interventions in rate of falls (1 trial) and risk of falling (RR 0.93, 95% CI 0.78 to 1.10; 3 trials; 863 participants) and very low-quality evidence, meaning we are uncertain of the effects on hospital admission (1 trial). One trial reported two cases of minor joint pain. Other falls outcomes were not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Multifactorial interventions may reduce the rate of falls compared with usual care or attention control. However, there may be little or no effect on other fall-related outcomes. Multiple component interventions, usually including exercise, may reduce the rate of falls and risk of falling compared with usual care or attention control."
+    }
+  ],
+  "pls_title": "Interventions based on individual assessment of falls risk and multiple component interventions for preventing falls in older people in the community",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To assess whether fall-prevention strategies which target two or more risk factors for falls (multifactorial interventions) or fixed combinations of interventions (multiple component interventions) are effective in preventing falls in older people living in the community."
+    },
+    {
+      "heading": "Background",
+      "text": "As people age they are more likely to fall. Although most fall-related injuries are minor, they can cause significant pain and discomfort, affect a person's confidence and lead to a loss of independence. Some falls can cause serious long-term health problems. A combination of factors increases the risk of falls with ageing, such as weak muscles, stiff joints, hearing problems, changes in sight, side effects of medications, tiredness or confusion. Poor lighting, slippery or uneven surfaces, and issues with poor footwear can also increase the risk of falling.\nDifferent interventions have been developed to help prevent falls in older people. They may involve a single type of intervention, such as exercise to increase muscle strength, or combinations of interventions, such as exercise and adjustment of a person's medication. A combination of two or more components can be delivered as either a multifactorial intervention based on an assessment of a person's risk factors for falling or as a multiple component intervention where the same combination of interventions is provided to all participants."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched the healthcare literature for reports of randomised controlled trials relevant to this review up to 12 June 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 62 randomised trials involving 19,935 older participants. Most trials included more women than men; the average ages in the trials ranged from 62 to 85 years. Trials compared the interventions to an inactive control group receiving usual care (no change in usual activities) or a matched level of attention (such as social visits) or to an active control group receiving an exercise programme."
+    },
+    {
+      "heading": "Key results",
+      "text": "We identified 43 trials that compared a multifactorial intervention with an inactive control. Multifactorial interventions led to some reduction in the rate at which people fall compared with the inactive control group, but the quality of evidence was low because of large differences in how studies were conducted. There may be little or no difference in the number of people who experienced one or more falls (fallers), recurrent falls, fall-related fractures, or experienced a fall requiring hospital admission or medical attention. Multifactorial interventions may make little difference to people's health-related quality of life. There was very limited evidence on adverse events related to the intervention; all 12 reported musculoskeletal complaints such as back pain were minor.\nWe did not find enough evidence to determine the effects of multifactorial interventions compared with exercise as this was only assessed in one small trial.\nWe identified 18 trials assessing the effects of multiple component interventions. Seventeen compared the intervention with an inactive control group and five compared the intervention with exercise. Seventeen of the trials included exercise in the intervention and another component, often education on falls prevention or home safety assessment. There was limited evidence on adverse events related to the intervention; all six reported events were minor.\nMultiple component interventions probably reduce the rate at which people fall and the number of fallers compared with the inactive control group. They may also reduce the number of people who experienced recurrent falls. The evidence was not enough to determine their effects on fall-related fractures or hospital admission. Multiple component interventions may make little or no difference to the risk of a fall requiring medical attention. However, they may slightly improve a person's health-related quality of life.\nTrials comparing multiple component interventions with exercise showed there may be little or no difference in the rate at which people fall and the number of fallers, but not enough evidence to determine the effects on hospital admission. Other falls outcomes were not reported."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the available evidence as of low or very low quality. This means that we have limited confidence about the results where the evidence is low quality, but are uncertain where the evidence is of very low quality."
+    }
+  ]
+}

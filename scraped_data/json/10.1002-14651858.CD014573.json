@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD014573",
+  "name": "Oral killed cholera vaccines for preventing cholera",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cholera causes acute watery diarrhoea and death if not properly treated. Outbreaks occur in areas with poor sanitation, including refugee camps. Several vaccines have been developed and tested over the last 50 years. This is an update of a Cochrane review, originally published in 1998, which explored the effects of all vaccines for preventing cholera. This review examines oral vaccines made from killed bacteria."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of the available World Health Organization (WHO)-prequalified oral killed cholera vaccines among children and adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; CENTRAL, MEDLINE; Embase; LILACS; and two trials registers (February 2023)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), including cluster-RCTs. There were no restrictions on the age and sex of the participants or the setting of the study. We considered any available WHO-prequalified oral killed cholera vaccine as an intervention. The control group was given a placebo, another vaccine, or no vaccine. The outcomes were related to vaccine effectiveness and safety. We included articles published in English only."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the inclusion criteria and extracted data from included studies. We assessed the risk of bias using the Cochrane ROB 1 assessment tool. We used the generic inverse variance and a random-effects model meta-analysis to estimate the pooled effect of the interventions. We assessed the certainty of the evidence using the GRADE approach. For vaccine effectiveness (VE), we converted the overall risk ratio (RR) to vaccine effectiveness using the formula: VE = (1 - RR) x 100%."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five RCTs, reported in 12 records, with 462,754 participants, met the inclusion criteria.\nWe identified trials on whole-cell plus recombinant vaccine (WC-rBS vaccine (Dukoral)) from Peru and trials on bivalent whole-cell vaccine (BivWC (Shanchol)) vaccine from India and Bangladesh. We did not identify any trials on other BivWC vaccines (Euvichol/Euvichol-Plus), or Hillchol.\nTwo doses of Dukoral with or without a booster dose reduces cases of cholera at two-year follow-up in a general population of children and adults, and at five-month follow-up in an adult male population (overall VE 76%; RR 0.24, 95% confidence interval (CI) 0.08 to 0.65; 2 trials, 16,423 participants; high-certainty evidence).\nTwo doses of Shanchol reduces cases of cholera at one-year follow-up (overall VE 37%; RR 0.63, 95% CI 0.47 to 0.85; 2 trials, 241,631 participants; high-certainty evidence), at two-year follow-up (overall VE 64%; RR 0.36, 95% CI 0.16 to 0.81; 2 trials, 168,540 participants; moderate-certainty evidence), and at five-year follow-up (overall VE 80%; RR 0.20, 95% CI 0.15 to 0.26; 1 trial, 54,519 participants; high-certainty evidence).\nA single dose of Shanchol reduces cases of cholera at six-month follow-up (overall VE 40%; RR 0.60, 95% CI 0.47 to 0.77; 1 trial, 204,700 participants; high-certainty evidence), and at two-year follow-up (overall VE 39%; RR 0.61, 95% CI 0.53 to 0.70; 1 trial, 204,700 participants; high-certainty evidence).\nA single dose of Shanchol also reduces cases of severe dehydrating cholera at six-month follow-up (overall VE 63%; RR 0.37, 95% CI 0.28 to 0.50; 1 trial, 204,700 participants; high-certainty evidence), and at two-year follow-up (overall VE 50%; RR 0.50, 95% CI 0.42 to 0.60; 1 trial, 204,700 participants; high-certainty evidence).\nWe found no differences in the reporting of adverse events due to vaccination between the vaccine and control/placebo groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Two doses of Dukoral reduces cases of cholera at two-year follow-up.\nTwo doses of Shanchol reduces cases of cholera at five-year follow-up, and a single dose of Shanchol reduces cases of cholera at two-year follow-up.\nOverall, the vaccines were safe and well-tolerated.\nWe found no trials on other BivWC vaccines (Euvichol/Euvichol-Plus). However, BivWC products (Shanchol, Euvichol/Euvichol-Plus) are considered to produce comparable vibriocidal responses. Therefore, it is reasonable to apply the results from Shanchol trials to the other BivWC products (Euvichol/Euvichol-Plus)."
+    }
+  ],
+  "pls_title": "Oral killed cholera vaccines for preventing cholera",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Two doses of the whole-cell plus recombinant vaccine (WC-rBS vaccine (Dukoral)), with or without a booster dose, reduces cases of cholera for two years.\nTwo doses of the bivalent whole-cell vaccine (BivWC vaccine (Shanchol)) reduces cases of cholera for five years.\nA single dose of Shanchol reduces cases of cholera and cases of severe dehydrating cholera for two years.\nThe vaccines are considered safe, with similar side effects reported by all groups.\nFurther studies are required to assess the effectiveness of a single-dose of Shanchol and two doses of Dukoral for five years of follow-up.\nWe found no trials on other BivWC vaccines, such as Euvichol or Euvichol-Plus. However, all BivWC vaccines are equal in their ability to kill cholera bacteria. Therefore, it is reasonable to apply the results from the Shanchol trials to Euvichol and Euvichol-Plus."
+    },
+    {
+      "heading": "What is cholera?",
+      "text": "Cholera is a disease that is caused by the bacteria Vibrio cholerae. People become infected by eating food or drinking water that is contaminated with these bacteria. Cholera is found throughout much of the world, in areas with poor sanitation or a lack of clean water, and is a particular risk during humanitarian crises. People with cholera can develop severe cases of diarrhoea, which can lead to severe dehydration. Without treatment, many people die."
+    },
+    {
+      "heading": "How is cholera prevented?",
+      "text": "Cholera vaccines have been in development for many years. Cholera vaccines taken by mouth (orally) can be cost-effective, and easy to administer. They can be stored and delivered to areas during humanitarian crises.\nSeveral trials have investigated how effective oral cholera vaccines are in children and adults in different settings, when given in different doses, and followed up for different lengths of time. The World Health Organization (WHO) has prequalified some oral cholera vaccines made with killed bacteria. This means they have used standard procedures to assess the safety and efficacy of a vaccine (that is, how well it works and how many side effects it causes). They provide this service to United Nations organizations that obtain vaccines, such as UNICEF.\nA vaccine that is easy to give to children and adults and is very effective in preventing cholera, or protecting people from severe dehydrating cholera would be very valuable in the control of this potentially fatal disease. If the vaccine is easy to take and has few side effects, it would encourage more people to take it in countries where it is needed."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know how effective and safe the available WHO-prequalified oral cholera vaccines made with killed bacteria were for children and adults."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the medical literature for trials that answered our question. We screened, collected, and analysed all relevant studies. We followed standard Cochrane methods to do this."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included five trials, with 462,754 participants, which were conducted in three different countries; Peru, India, and Bangladesh."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two doses of Dukoral, with or without a booster dose, reduced cases of cholera for two years.\nTwo doses of Shanchol reduced cases of cholera for five years.\nOne dose of Shanchol reduced cases of cholera and cases of severe dehydrating cholera for two years.\nGenerally, participants found that oral cholera vaccines made with killed bacteria were easy to use and safe. Side effects were similar in both the vaccine and comparison groups."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We did not find any studies that examined the effects of any BivWC vaccines besides Shanchol. However, their effects on cholera bacteria are equal, so the results for Shanchol should be applicable to Euvichol and Euvichol-Plus."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "We searched for trials on 7 February 2023."
+    }
+  ]
+}

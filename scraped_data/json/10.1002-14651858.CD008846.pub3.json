@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008846.pub3",
+  "name": "Mass drug administration for malaria",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Studies evaluating mass drug administration (MDA) in malarious areas have shown reductions in malaria immediately following the intervention. However, these effects vary by endemicity and are not sustained. Since the 2013 version of this Cochrane Review on this topic, additional studies have been published."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objectives\nTo assess the sustained effect of MDA with antimalarial drugs on:\n- the reduction in malaria transmission in moderate- to high-transmission settings;\n- the interruption of transmission in very low- to low-transmission settings.\nSecondary objective\nTo summarize the risk of drug-associated adverse effects following MDA."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched several trial registries, citation databases, conference proceedings, and reference lists for relevant articles up to 11 February 2021. We also communicated with researchers to identify additional published and unpublished studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) and non-randomized studies comparing MDA to no MDA with balanced co-interventions across study arms and at least two geographically distinct sites per study arm."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for eligibility and extracted data. We calculated relative risk (RR) and rate ratios with corresponding 95% confidence intervals (CIs) to compare prevalence and incidence, respectively, in MDA compared to no-MDA groups. We stratified analyses by malaria transmission and by malaria species. For cluster-randomized controlled trials (cRCTs), we adjusted standard errors using the intracluster correlation coefficient. We assessed the certainty of the evidence using the GRADE approach. For non-randomized controlled before-and-after (CBA) studies, we summarized the data using difference-in-differences (DiD) analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirteen studies met our criteria for inclusion. Ten were cRCTs and three were CBAs.\nCluster-randomized controlled trials\nModerate- to high-endemicity areas (prevalence ≥ 10%)\nWe included data from two studies conducted in The Gambia and Zambia.\nAt one to three months after MDA, the Plasmodium falciparum (hereafter, P falciparum) parasitaemia prevalence estimates may be higher compared to control but the CIs included no effect (RR 1.76, 95% CI 0.58 to 5.36; Zambia study; low-certainty evidence); parasitaemia incidence was probably lower (RR 0.61, 95% CI 0.40 to 0.92; The Gambia study; moderate-certainty evidence); and confirmed malaria illness incidence may be substantially lower,  but the CIs included no effect (rate ratio 0.41, 95% CI 0.04 to 4.42; Zambia study; low-certainty evidence).\nAt four to six months after MDA, MDA showed little or no effect on P falciparum parasitaemia prevalence (RR 1.18, 95% CI 0.89 to 1.56; The Gambia study; moderate-certainty evidence) and, no persisting effect was demonstrated with parasitaemia incidence (rate ratio 0.91, 95% CI 0.55 to 1.50; The Gambia study).\nVery low- to low-endemicity areas (prevalence < 10%)\nSeven studies from Cambodia, Laos, Myanmar (two studies), Vietnam, Zambia, and Zanzibar evaluated the effects of multiple rounds of MDA on P falciparum. Immediately following MDA (less than one month after MDA), parasitaemia prevalence was reduced (RR 0.12, 95% CI 0.03 to 0.52; one study; low-certainty evidence). At one to three months after MDA, there was a reduction in both parasitaemia incidence (rate ratio 0.37, 95% CI 0.21 to 0.55; 1 study; moderate-certainty evidence) and prevalence (RR 0.25, 95% CI 0.15 to 0.41; 7 studies; low-certainty evidence). For confirmed malaria incidence, absolute rates were low, and it is uncertain whether MDA had an effect on this outcome (rate ratio 0.58, 95% CI 0.12 to 2.73; 2 studies; very low-certainty evidence).\nFor P falciparum prevalence, the relative differences declined over time, from RR 0.63 (95% CI 0.36 to 1.12; 4 studies) at four to six months after MDA, to RR 0.86 (95% CI 0.55 to 1.36; 5 studies) at 7 to 12 months after MDA. Longer-term prevalence estimates showed overall low absolute risks, and relative effect estimates of the effect of MDA on prevalence varied from RR 0.82 (95% CI 0.20 to 3.34) at 13 to 18 months after MDA, to RR 1.25 (95% CI 0.25 to 6.31) at 31 to 36 months after MDA in one study.\nFive studies from Cambodia, Laos, Myanmar (2 studies), and Vietnam evaluated the effect of MDA on Plasmodium vivax (hereafter, P vivax ). One month following MDA, P vivax  prevalence was lower (RR 0.18, 95% CI 0.08 to 0.40; 1 study; low-certainty evidence). At one to three months after MDA, there was a reduction in P vivax  prevalence (RR 0.15, 95% CI 0.10 to 0.24; 5 studies; low-certainty evidence). The immediate reduction on P vivax prevalence was not sustained over time, from RR 0.78 (95% CI 0.63 to 0.95; 4 studies) at four to six months after MDA, to RR 1.12 (95% CI 0.94 to 1.32; 5 studies) at 7 to 12 months after MDA. One of the studies in Myanmar provided estimates of longer-term effects, where overall absolute risks were low, ranging from RR 0.81 (95% CI 0.44 to 1.48) at 13 to 18 months after MDA, to RR 1.20 (95% CI 0.44 to 3.29) at 31 to 36 months after MDA.\nNon-randomized studies\nThree CBA studies were conducted in moderate- to high-transmission areas in Burkina Faso, Kenya, and Nigeria. There was a reduction in P falciparum parasitaemia prevalence in MDA groups compared to control groups during MDA (DiD range: -15.8 to -61.4 percentage points), but the effect varied at one to three months after MDA (DiD range: 14.9 to -41.1 percentage points)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In moderate- to high-transmission settings, no studies reported important effects on P falciparum parasitaemia prevalence within six months after MDA. In very low- to low-transmission settings, parasitaemia prevalence and incidence were reduced initially for up to three months for both P falciparum and P vivax; longer-term data did not demonstrate an effect after four months, but absolute risks in both intervention and control groups were low. No studies provided evidence of interruption of malaria transmission."
+    }
+  ],
+  "pls_title": "Administration of antimalarial drugs to whole populations for reducing malaria",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is mass drug administration (MDA) for malaria?",
+      "text": "MDA for malaria consists of giving a full treatment course of antimalarial medicine (even to persons with no symptoms of malaria and regardless of whether malaria is present) to every member of a defined population or every person living in a defined geographical area (except to those for whom the medicine could be harmful) at approximately the same time and often at repeated intervals."
+    },
+    {
+      "heading": "How can MDA reduce malaria transmission in a population?",
+      "text": "The life cycle of the malaria parasite consists of human liver, human blood, and mosquito stages. Malaria infection begins with the bite of an Anopheles species mosquito carrying the malaria parasite. During the bite, the infective mosquito injects the malaria parasite into the human host. After initially replicating in the liver, the parasites are released into the bloodstream. During the blood stage, parasites multiply in red blood cells, sometimes causing fever and other symptoms characteristic of malaria. Some of these parasites become a form which is infectious to mosquitoes. When the infected person is bitten again, the mosquito ingests blood containing the parasites, which then restarts the transmission cycle.\nMDA with antimalarial drugs temporarily prevents new and clears existing malaria infections in the population. Depending on the characteristics of the antimalarial drug used, MDA targets parasites at different stages, which can lead to reduced disease burden and transmission in the population. Whether MDA can successfully reduce or interrupt malaria transmission may depend on how much malaria there is in the area; the use of other tools to control malaria, including preventing mosquito bites; the proportion of the population who receive at least one round of MDA; population movement; and when MDA rounds occur in relation to the peak malaria transmission season."
+    },
+    {
+      "heading": "What was the aim of the review?",
+      "text": "To guide policy-making and future research for malaria control and elimination, the aim of this review was to update the evidence evaluating the effect of MDA compared to no MDA on malaria outcomes in moderate- to high-transmission settings and very low- to low-transmission settings. Our search of relevant published and unpublished literature identified 13 studies that met our inclusion criteria."
+    },
+    {
+      "heading": "What are the main findings of the review?",
+      "text": "Malaria burden was compared in people receiving MDA and those who did not receive MDA, at different time points. The findings differed by malaria transmission setting. In areas with malaria prevalence of 10% or higher (moderate- to high-transmission areas), based on one trial, MDA did not reduce malaria in the population (low-certainty evidence). In areas with malaria prevalence under 10% (very low- to low-endemicity areas), evidence from seven trials indicates that MDA reduced malaria in the population immediately after MDA has stopped (low-certainty evidence), but we are uncertain if the decline continues long-term because the number of malaria cases in both intervention and control groups were low (very low-certainty evidence).\nIn all settings of malaria transmission, the type of antimalarial drug used for MDA, co-interventions such as mosquito control, coverage of MDA, and risk of re-introduction may have an impact on the effect of MDA compared to no MDA. However, we were unable to explore these factors due to the limited number of studies."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "We included studies available up to 11 February 2021."
+    }
+  ]
+}

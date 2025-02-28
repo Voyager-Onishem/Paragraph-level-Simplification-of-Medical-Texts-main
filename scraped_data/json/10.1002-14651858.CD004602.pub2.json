@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004602.pub2",
+  "name": "Single dose oral paracetamol (acetaminophen) for postoperative pain in adults",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane review published in Issue 1, 2004 - this original review had been split from a previous title on 'Single dose paracetamol (acetaminophen) with and without codeine for postoperative pain'. The last version of this review concluded that paracetamol is an effective analgesic for postoperative pain, but additional trials have since been published. This review sought to evaluate the efficacy and safety of paracetamol using current data, and to compare the findings with other analgesics evaluated in the same way."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of single dose oral paracetamol for the treatment of acute postoperative pain."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Library, MEDLINE, EMBASE, the Oxford Pain Relief Database and reference lists of articles to update an existing version of the review in July 2008."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised, double-blind, placebo-controlled clinical trials of paracetamol for acute postoperative pain in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. Area under the “pain relief versus time” curve was used to derive the proportion of participants with paracetamol or placebo experiencing at least 50% pain relief over four to six hours, using validated equations. Number-needed-to-treat-to-benefit (NNT) was calculated, with 95% confidence intervals (CI). The proportion of participants using rescue analgesia over a specified time period, and time to use, were sought as measures of duration of analgesia. Information on adverse events and withdrawals was also collected."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty-one studies, with 5762 participants, were included: 3277 participants were treated with a single oral dose of paracetamol and 2425 with placebo. About half of participants treated with paracetamol at standard doses achieved at least 50% pain relief over four to six hours, compared with about 20% treated with placebo. NNTs for at least 50% pain relief over four to six hours following a single dose of paracetamol were as follows: 500 mg NNT 3.5 (2.7 to 4.8); 600 to 650 mg NNT 4.6 (3.9 to 5.5); 975 to 1000 mg NNT 3.6 (3.4 to 4.0). There was no dose response. Sensitivity analysis showed no significant effect of trial size or quality on this outcome.\nAbout half of participants needed additional analgesia over four to six hours, compared with about 70% with placebo. Five people would need to be treated with 1000 mg paracetamol, the most commonly used dose, to prevent one needing rescue medication over four to six hours, who would have needed it with placebo. Adverse event reporting was inconsistent and often incomplete. Reported adverse events were mainly mild and transient, and occurred at similar rates with 1000 mg paracetamol and placebo. No serious adverse events were reported. Withdrawals due to adverse events were uncommon and occurred in both paracetamol and placebo treatment arms."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "A single dose of paracetamol provides effective analgesia for about half of patients with acute postoperative pain, for a period of about four hours, and is associated with few, mainly mild, adverse events."
+    }
+  ],
+  "pls_title": "Single dose oral paracetamol (acetaminophen) for postoperative pain relief in adults",
+  "pls_type": "long",
+  "pls": "Pain is commonly experienced after surgical procedures, and is not always well controlled. This review assessed data from fifty-one studies and found that paracetamol provided effective pain relief for about half of participants experiencing moderate to severe pain after an operation, including dental surgery for a period of about four hours. There were no clear differences between doses of paracetamol typically used. These single dose studies did not associate paracetamol with any serious side effects."
+}

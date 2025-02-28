@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD003154.pub6",
+  "name": "Memantine for dementia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Memantine is a moderate affinity uncompetitive antagonist of glutamate NMDA receptors. It is licensed for use in moderate and severe Alzheimer's disease (AD); in the USA, it is also widely used off-label for mild AD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine efficacy and safety of memantine for people with dementia. To assess whether memantine adds benefit for people already taking cholinesterase inhibitors (ChEIs)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register of trials (http://www.medicine.ox.ac.uk/alois/) up to 25 March 2018. We examined clinical trials registries, press releases and posters of memantine manufacturers; and the web sites of the FDA, EMEA and NICE. We contacted authors and companies for missing information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Double-blind, parallel group, placebo-controlled, randomised trials of memantine in people with dementia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We pooled and analysed data from four clinical domains across different aetiologies and severities of dementia and for AD with agitation. We assessed the impact of study duration, severity and concomitant use of ChEIs. Consequently, we restricted analyses to the licensed dose (20 mg/day or 28 mg extended release) and data at six to seven months duration of follow-up, and analysed separately results for mild and moderate-to-severe AD.\nWe transformed results for efficacy outcomes into the difference in points on particular outcome scales."
+    },
+    {
+      "heading": "Main results",
+      "text": "Across all types of dementia, data were available from almost 10,000 participants in 44 included trials, most of which were at low or unclear risk of bias. For nearly half the studies, relevant data were obtained from unpublished sources. The majority of trials (29 in 7885 participants) were conducted in people with AD.\n1. Moderate-to-severe AD (with or without concomitant ChEIs). High-certainty evidence from up to 14 studies in around 3700 participants consistently shows a small clinical benefit for memantine versus placebo: clinical global rating (CGR): 0.21 CIBIC+ points (95% confidence interval (CI) 0.14 to 0.30); cognitive function (CF): 3.11 Severe Impairment Battery (SIB) points (95% CI 2.42 to 3.92); performance on activities of daily living (ADL): 1.09 ADL19 points (95% CI 0.62 to 1.64); and behaviour and mood (BM): 1.84 Neuropsychiatric Inventory (NPI) points (95% CI 1.05 to 2.76). There may be no difference in the number of people discontinuing memantine compared to placebo: risk ratio (RR) 0.93 (95% CI 0.83 to 1.04) corresponding to 13 fewer people per 1000 (95% CI 31 fewer to 7 more). Although there is moderate-certainty evidence that fewer people taking memantine experience agitation as an adverse event: RR 0.81 (95% CI 0.66 to 0.99) (25 fewer people per 1000, 95% CI 1 to 44 fewer), there is also moderate-certainty evidence, from three additional studies, suggesting that memantine is not beneficial as a treatment for agitation (e.g. Cohen Mansfield Agitation Inventory: clinical benefit of 0.50 CMAI points, 95% CI -3.71 to 4.71) .\nThe presence of concomitant ChEI does not impact on the difference between memantine and placebo, with the possible exceptions of the BM outcome (larger effect in people taking ChEIs) and the CF outcome (smaller effect).\n2. Mild AD (Mini Mental State Examination (MMSE) 20 to 23): mainly moderate-certainty evidence based on post-hoc subgroups from up to four studies in around 600 participants suggests there is probably no difference between memantine and placebo for CF: 0.21 ADAS-Cog points (95% CI -0.95 to 1.38); performance on ADL: -0.07 ADL 23 points (95% CI -1.80 to 1.66); and BM: -0.29 NPI points (95% CI -2.16 to 1.58). There is less certainty in the CGR evidence, which also suggests there may be no difference: 0.09 CIBIC+ points (95% CI -0.12 to 0.30). Memantine (compared with placebo) may increase the numbers of people discontinuing treatment because of adverse events (RR 2.12, 95% CI 1.03 to 4.39).\n3. Mild-to-moderate vascular dementia. Moderate- and low-certainty evidence from two studies in around 750 participants indicates there is probably a small clinical benefit for CF: 2.15 ADAS-Cog points (95% CI 1.05 to 3.25); there may be a small clinical benefit for BM: 0.47 NOSGER disturbing behaviour points (95% CI 0.07 to 0.87); there is probably no difference in CGR: 0.03 CIBIC+ points (95% CI -0.28 to 0.34); and there may be no difference in ADL: 0.11 NOSGER II self-care subscale points (95% CI -0.35 to 0.54) or in the numbers of people discontinuing treatment: RR 1.05 (95% CI 0.83 to 1.34).\nThere is limited, mainly low- or very low-certainty efficacy evidence for other types of dementia (Parkinson's disease and dementia Lewy bodies (for which CGR may show a small clinical benefit; four studies in 319 people); frontotemporal dementia (two studies in 133 people); and AIDS-related Dementia Complex (one study in 140 people)).\nThere is high-certainty evidence showing no difference between memantine and placebo in the proportion experiencing at least one adverse event: RR 1.03 (95% CI 1.00 to 1.06); the RR does not differ between aetiologies or severities of dementia. Combining available data from all trials, there is moderate-certainty evidence that memantine is 1.6 times more likely than placebo to result in dizziness (6.1% versus 3.9%), low-certainty evidence of a 1.3-fold increased risk of headache (5.5% versus 4.3%), but high-certainty evidence of no difference in falls."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found important differences in the efficacy of memantine in mild AD compared to that in moderate-to-severe AD. There is a small clinical benefit of memantine in people with moderate-to-severe AD, which occurs irrespective of whether they are also taking a ChEI, but no benefit in people with mild AD.\nClinical heterogeneity in AD makes it unlikely that any single drug will have a large effect size, and means that the optimal drug treatment may involve multiple drugs, each having an effect size that may be less than the minimum clinically important difference.\nA definitive long-duration trial in mild AD is needed to establish whether starting memantine earlier would be beneficial over the long term and safe: at present the evidence is against this, despite it being common practice. A long-duration trial in moderate-to-severe AD is needed to establish whether the benefit persists beyond six months."
+    }
+  ],
+  "pls_title": "Memantine as a treatment for dementia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence on memantine, which is one of the main drugs for treating people with dementia. We wanted to find out if memantine can slow down the course of dementia and if it is harmful in any way. We also wanted to know if adding memantine to other dementia drugs gives an extra effect."
+    },
+    {
+      "heading": "Background",
+      "text": "The commonest type of dementia is Alzheimer's disease (AD), followed by vascular dementia. About one or two people in 100 have AD at age 65, and this rate doubles every five years. Dementia involves loss of memory, difficulty thinking and often changes in mood and behaviour.\nThere are two main types of treatment: acetyl cholinesterase inhibitor (ChEI) drugs and memantine. These drugs work differently and we wanted to find out whether giving the two drug types together would work better than the ChEI drugs on their own."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for as many relevant studies as we could find that had a reliable design (randomised controlled trials) and had compared memantine with placebo for each type of dementia. We found 44 studies involving about 10,000 people. Most studies (29 in 7885 people) were in people with AD. Most studies were well conducted, but some were not well reported and we got extra information from the drug companies. We analysed the results separately for people with mild dementia and those with moderate-to-severe dementia."
+    },
+    {
+      "heading": "Key results",
+      "text": "Memantine has a small beneficial effect in people with moderate-to-severe AD. This benefit affects thinking, the ability to carry on normal daily activities, and the severity of behaviour and mood problems. Overall, it is well tolerated in those with moderate--to-severe AD, but it may cause dizziness in a few of the people taking it.\nAn important result is that adding memantine to established ChEI treatment also results in less deterioration than placebo.\nHowever, in people with mild AD, memantine is probably no better than placebo. This is mainly moderate-quality evidence.\nIn vascular dementia, two studies in about 750 people indicated there is probably a small benefit for thinking difficulties, behaviour and mood, and there may be less agitation for memantine compared with placebo. This is moderate- or low-quality evidence."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the evidence on memantine for AD is high quality, and comes from many trials in thousands of people. We can be confident in the findings for AD, but less so in people with other types of dementia.\nThis plain language summary is up to date as of March 2018."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD006161.pub3",
+  "name": "Supplemental oxygen for caesarean section during regional anaesthesia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Supplementary oxygen is routinely administered to low-risk pregnant women during an elective caesarean section under regional anaesthesia; however, maternal and foetal outcomes have not been well established. This is an update of a review first published in 2013."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective was to determine whether supplementary oxygen given to low-risk term pregnant women undergoing elective caesarean section under regional anaesthesia can prevent maternal and neonatal desaturation. The secondary objective was to compare the mean values of maternal and neonatal blood gas levels between mothers who received supplementary oxygen and those who did not (control group)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, issue 11), MEDLINE (1948 to November 2014) and EMBASE (1980 to November 2014). The original search was first performed in February 2012. We reran the search in CENTRAL, MEDLINE, EMBASE in February 2016. One potential new study of interest was added to the list of ‘Studies awaiting Classification' and will be incorporated into the formal review findings during the next review update."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) of low-risk pregnant women undergoing an elective caesarean section under regional anaesthesia and compared outcomes with, and without, oxygen supplementation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data, assessed methodological quality and performed subgroup and sensitivity analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found one new included study in this updated version. In total, our updated review includes 11 trials (with 753 participants). The low quality of evidence showed no significant differences in average Apgar scores at one minute (N = six trials, 519 participants; 95% confidence (CI) -0.16 to 0.31, P = 0.53) and at five minutes (N = six trials, 519 participants; 95% CI -0.06 to 0.06, P = 0.98). None of the 11 trials reported maternal desaturation. The very low quality of evidence showed that in comparison to room air, women in labour receiving supplementary oxygen had higher maternal oxygen saturation (N = three trials, 209 participants), maternal PaO2 (oxygen pressure in the blood; N = six trials, 241 participants), UaPO2 (foetal umbilical arterial blood; N = eight trials, 504 participants; 95% CI 1.8 to 4.9, P < 0.0001) and UvPO2 (foetal umbilical venous blood; N = 10 trials, 683 participants). There was high heterogeneity among these outcomes. A subgroup analysis showed no significant difference in UaPO2 between the two intervention groups in low-risk studies, whereas the high-risk studies showed a benefit for the neonatal oxygen group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, we found no convincing evidence that giving supplementary oxygen to healthy term pregnant women during elective caesarean section under regional anaesthesia is either beneficial or harmful for either the mother or the foetus' short-term clinical outcome as assessed by Apgar scores. Although, there were significant higher maternal and neonatal blood gas values and markers of free radicals when extra oxygen was given, the results should be interpreted with caution due to the low grade quality of the evidence."
+    }
+  ],
+  "pls_title": "Comparing supplemental oxygen with room air for low-risk pregnant women undergoing an elective caesarean section under regional anaesthesia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of giving extra oxygen to pregnant women during planned caesarean section under epidural or spinal anaesthesia. (Epidural anaesthesia is when a drug is injected into the epidural space of the spinal cord; spinal anaesthesia is when a local anaesthetic is injected into the subarachnoid space)."
+    },
+    {
+      "heading": "Background",
+      "text": "Oxygen was routinely given to pregnant women to provide an extra supply for the foetus in order for the foetus to cope with any unplanned loss of oxygen during or after the birth. Previous studies have shown that giving extra oxygen provided better oxygenation for the mother and foetus in terms of oxygen saturation (a measure of how much oxygen the blood is carrying), PaO2 (oxygen pressure in the blood) and pH (a measure of acidity or alkalinity). However, clear evidence of foetal clinical outcomes have not been obtained."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to November 2014.We reran the search in CENTRAL, MEDLINE, EMBASE in February 2016. We found one potential new study of interest which was added to the list of ‘Studies awaiting Classification'. This study will be incorporated into the formal review findings when we next update the review."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This updated Cochrane review included 11 studies involving 753 participants. The studies compared maternal (mother) and neonatal (foetal) outcomes when pregnant women received extra oxygen versus room air. Oxygen was given to the women in different ways (at any flow rate or concentration via any oxygen delivery device)."
+    },
+    {
+      "heading": "Results",
+      "text": "Overall, the results of this updated review reach the same conclusions as the original published review. None of the 11 included trials reported maternal desaturation. No differences were noted in routine measures of foetal wellbeing (Apgar scores) when mothers who received extra oxygen were compared with those who did not. The pregnant women receiving extra oxygen in comparison with room air had significantly higher oxygen saturation (three trials) and partial pressure of oxygen in arterial blood (five trials), as well as a significantly higher partial pressure of oxygen in both the umbilical artery and the umbilical vein (eight and 11 trials, respectively). Two trials reported higher markers of free radicals (perhaps indicating stress from excess oxygen) in mothers and foetuses when extra oxygen was given, but this is of no clinical significance Overall, we found no convincing evidence that giving oxygen in this situation is either beneficial or harmful for either the mother or the foetus."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "None of the 11 studies focused on maternal changes in oxygen saturation (defined as maternal saturation less than 90%). We graded the quality of evidence as low for the primary outcome (Apgar scores), and very low for the secondary outcomes (maternal oxygen saturation; partial pressure of oxygen in arterial blood, the umbilical artery and the umbilical vein). The reasons for our grading were risk of bias and inconsistency of the results."
+    }
+  ]
+}

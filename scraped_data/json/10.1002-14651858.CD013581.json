@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013581",
+  "name": "Non‐steroidal anti‐inflammatory drugs for acute low back pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute low back pain (LBP) is a common health problem. Non-steroidal anti-inflammatory drugs (NSAIDs) are often used in the treatment of LBP, particularly in people with acute LBP. In 2008, a Cochrane Review was published about the efficacy of NSAIDs for LBP (acute, chronic, and sciatica), identifying a small but significant effect in favour of NSAIDs compared to placebo for short-term pain reduction and global improvement in participants with acute LBP. This is an update of the previous review, focusing on acute LBP."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of NSAIDs compared to placebo and other comparison treatments for acute LBP."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, PubMed, and two trials registers for randomised controlled trials (RCT) to 7 January 2020. We also screened the reference lists from relevant reviews and included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs that assessed the use of one or more types of NSAIDs compared to placebo (the main comparison) or alternative treatments for acute LBP in adults (≥ 18 years); conducted in both primary and secondary care settings. We assessed the effects of treatment on pain reduction, disability, global improvement, adverse events, and return to work."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials to be included in this review, evaluated the risk of bias, and extracted the data. If appropriate, we performed a meta-analysis, using a random-effects model throughout, due to expected variability between studies. We assessed the quality of the evidence using the GRADE approach. We used standard methodological procedures recommended by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 32 trials, with a total of 5356 participants (age range 16 to 78 years). Follow-up ranged from one day to six months. Studies were conducted across the globe, the majority taking place in Europe and North-America. Africa and the Eastern Mediterranean region were not represented. We considered seven studies at low risk of bias. Performance and attrition were the most common biases. There was often a lack of information on randomisation procedures and allocation concealment (selection bias); studies were prone to selective reporting bias, since most studies did not register their trials. Almost half of the studies were industry-funded.\nThere is moderate quality evidence that NSAIDs are slightly more effective in short-term (≤ 3 weeks) reduction of pain intensity (visual analogue scale (VAS), 0 to 100) than placebo (mean difference (MD) -7.29 (95% confidence interval (CI) -10.98 to -3.61; 4 RCTs, N = 815). There is high quality evidence that NSAIDs are slightly more effective for short-term improvement in disability (Roland Morris Disability Questionnaire (RMDQ), 0 to 24) than placebo (MD -2.02, 95% CI -2.89 to -1.15; 2 RCTs, N = 471). The magnitude of these effects is small and probably not clinically relevant. There is low quality evidence that NSAIDs are slightly more effective for short-term global improvement than placebo (risk ratio (RR) 1.40, 95% CI 1.12 to 1.75; 5 RCTs, N = 1201), but there was substantial heterogeneity (I² 52%) between studies. There is very low quality evidence of no clear difference in the proportion of participants experiencing adverse events when using NSAIDs compared to placebo (RR 0.86, 95% CI 0.63 to 1.18; 6 RCTs, N = 1394). There is very low quality evidence of no clear difference between the proportion of participants who could return to work after seven days between those who used NSAIDs and those who used placebo (RR 1.48, 95% CI 0.98 to 2.23; 1 RCT, N = 266).\nThere is low quality evidence of no clear difference in short-term reduction of pain intensity between those who took selective COX-2 inhibitor NSAIDs compared to non-selective NSAIDs (mean change from baseline -2.60, 95% CI -9.23 to 4.03; 2 RCTs, N = 437). There is moderate quality evidence of conflicting results for short-term disability improvement between groups (2 RCTs, N = 437). Low quality evidence from one trial (N = 333) reported no clear difference between groups in the proportion of participants experiencing global improvement. There is very low quality evidence of no clear difference in the proportion of participants experiencing adverse events between those who took COX-2 inhibitors and non-selective NSAIDs (RR 0.97, 95% CI 0.63 to 1.50; 2 RCTs, N = 444). No data were reported for return to work."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This updated Cochrane Review included 32 trials to evaluate the efficacy of NSAIDs in people with acute LBP. The quality of the evidence ranged from high to very low, thus further research is (very) likely to have an important impact on our confidence in the estimates of effect, and may change the estimates.\nNSAIDs seemed slightly more effective than placebo for short-term pain reduction (moderate certainty), disability (high certainty), and global improvement (low certainty), but the magnitude of the effects is small and probably not clinically relevant.\nThere was no clear difference in short-term pain reduction (low certainty) when comparing selective COX-2 inhibitors to non-selective NSAIDs.\nWe found very low evidence of no clear difference in the proportion of participants experiencing adverse events in both the comparison of NSAIDs versus placebo and selective COX-2 inhibitors versus non-selective NSAIDs.\nWe were unable to draw conclusions about adverse events and the safety of NSAIDs for longer-term use, since we only included RCTs with a primary focus on short-term use of NSAIDs and a short follow-up. These are not optimal for answering questions about longer-term or rare adverse events."
+    }
+  ],
+  "pls_title": "Anti-inflammatory drugs for acute low back pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We examined the effect of non-steroidal anti-inflammatory drugs (NSAIDs), such as diclofenac, ibuprofen, and naproxen, for people with acute low back pain. Acute low back pain is defined as the presence of pain in the back, below the ribs and above the buttocks, for under 12 weeks. We compared NSAIDs to placebo, paracetamol, other NSAIDs, other drugs, and non-drug treatments."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute low back pain is common, and causes pain and disability. Physicians often prescribe NSAIDs to treat acute low back pain. Different types of NSAIDs are available, both over-the-counter and as prescription drugs."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for randomised controlled trials that were published or registered before 7 January 2020. We included 32 trials with 5356 participants. Trial participants were 16 to 78 years old and had acute low back pain. Study length varied from one day to six months. The studies took place in many different countries. More than half of the studies was done in Europe and North-America."
+    },
+    {
+      "heading": "Key results",
+      "text": "NSAIDs were slightly more effective than placebo for pain reduction in the first three weeks. On average, the pain intensity decreased by 7.3 points on a 100-point scale. This means there was a small difference between the two treatments, but it was not clinically relevant. People receiving NSAIDs also scored 2.0 points better on a 24-point disability scale than those receiving placebo. This is unlikely to be of real-world benefit. There was a similar number of side effects between people receiving NSAIDs and people receiving placebo. However, the type of studies that we investigated are not designed to find side effects. Therefore, we should be careful about drawing conclusions based upon these findings.\nWe also compared two different types of NSAIDs; non-selective NSAIDs versus COX-2 inhibitors. We found no clear differences in effect. There was also a similar number of reported side effects of the digestive system, such as abdominal pain, nausea, diarrhoea, or stomach symptoms."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is moderate quality evidence that NSAIDs are slightly more effective than placebo for reducing short-term pain, and high quality evidence that they are slightly more effective than placebo for reducing disability in acute low back pain. The magnitude of the effect is very small."
+    }
+  ]
+}

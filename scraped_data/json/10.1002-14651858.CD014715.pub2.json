@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014715.pub2",
+  "name": "Diagnostic accuracy of ultrasound screening for fetal structural abnormalities during the first and second trimester of pregnancy in low‐risk and unselected populations ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Prenatal ultrasound is widely used to screen for structural anomalies before birth. While this is traditionally done in the second trimester, there is an increasing use of first-trimester ultrasound for early detection of lethal and certain severe structural anomalies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the diagnostic accuracy of ultrasound in detecting fetal structural anomalies before 14 and 24 weeks’ gestation in low-risk and unselected pregnant women and to compare the current two main prenatal screening approaches: a single second-trimester scan (single-stage screening) and a first- and second-trimester scan combined (two-stage screening) in terms of anomaly detection before 24 weeks’ gestation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, EMBASE, Science Citation Index Expanded (Web of Science), Social Sciences Citation Index (Web of Science), Arts & Humanities Citation Index and Emerging Sources Citation Index (Web of Science) from 1 January 1997 to 22 July 2022. We limited our search to studies published after 1997 and excluded animal studies, reviews and case reports. No further restrictions were applied. We also screened reference lists and citing articles of each of the included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were eligible if they included low-risk or unselected pregnant women undergoing a first- and/or second-trimester fetal anomaly scan, conducted at 11 to 14 or 18 to 24 weeks’ gestation, respectively. The reference standard was detection of anomalies at birth or postmortem."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently undertook study selection, quality assessment (QUADAS-2), data extraction and evaluation of the certainty of evidence (GRADE approach). We used univariate random-effects logistic regression models for the meta-analysis of sensitivity and specificity."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eighty-seven studies covering 7,057,859 fetuses (including 25,202 with structural anomalies) were included. No study was deemed low risk across all QUADAS-2 domains. Main methodological concerns included risk of bias in the reference standard domain and risk of partial verification. Applicability concerns were common in studies evaluating first-trimester scans and two-stage screening in terms of patient selection due to frequent recruitment from single tertiary centres without exclusion of referrals.\nWe reported ultrasound accuracy for fetal structural anomalies overall, by severity, affected organ system and for 46 specific anomalies. Detection rates varied widely across categories, with the highest estimates of sensitivity for thoracic and abdominal wall anomalies and the lowest for gastrointestinal anomalies across all tests.\nThe summary sensitivity of a first-trimester scan was 37.5% for detection of structural anomalies overall (95% confidence interval (CI) 31.1 to 44.3; low-certainty evidence) and 91.3% for lethal anomalies (95% CI 83.9 to 95.5; moderate-certainty evidence), with an overall specificity of 99.9% (95% CI 99.9 to 100; low-certainty evidence).\nTwo-stage screening had a combined sensitivity of 83.8% (95% CI 74.7 to 90.1; low-certainty evidence), while single-stage screening had a sensitivity of 50.5% (95% CI 38.5 to 62.4; very low-certainty evidence).\nThe specificity of two-stage screening was 99.9% (95% CI 99.7 to 100; low-certainty evidence) and for single-stage screening, it was 99.8% (95% CI 99.2 to 100; moderate-certainty evidence).\nIndirect comparisons suggested superiority of two-stage screening across all analyses regarding sensitivity, with no significant difference in specificity. However, the certainty of the evidence is very low due to the absence of direct comparisons."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "A first-trimester scan has the potential to detect lethal and certain severe anomalies with high accuracy before 14 weeks’ gestation, despite its limited overall sensitivity. Conversely, two-stage screening shows high accuracy in detecting most fetal structural anomalies before 24 weeks’ gestation with high sensitivity and specificity.\nIn a hypothetical cohort of 100,000 fetuses, the first-trimester scan is expected to correctly identify 113 out of 124 fetuses with lethal anomalies (91.3%) and 665 out of 1776 fetuses with any anomaly (37.5%). However, 79 false-positive diagnoses are anticipated among 98,224 fetuses (0.08%). Two-stage screening is expected to correctly identify 1448 out of 1776 cases of structural anomalies overall (83.8%), with 118 false positives (0.1%).\nIn contrast, single-stage screening is expected to correctly identify 896 out of 1776 cases before 24 weeks’ gestation (50.5%), with 205 false-positive diagnoses (0.2%). This represents a difference of 592 fewer correct identifications and 88 more false positives compared to two-stage screening.\nHowever, it is crucial to acknowledge the uncertainty surrounding the additional benefits of two-stage versus single-stage screening, as there are no studies directly comparing them. Moreover, the evidence supporting the accuracy of first-trimester ultrasound and two-stage screening approaches primarily originates from studies conducted in single tertiary care facilities, which restricts the generalisability of the results of this meta-analysis to the broader population."
+    }
+  ],
+  "pls_title": "Accuracy of a first- and second-trimester ultrasound scan for identifying fetal anomalies in low-risk and unselected pregnancies",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Prenatal ultrasound is commonly used in the first and second trimesters of pregnancy to identify potential issues with a developing baby (fetus). In this study, we analysed 87 studies covering over 7 million fetuses. While both first- and second-trimester scans confirm normal development well (high specificity), their ability to detect issues (sensitivity) varied. Women with both scans seemed to have more anomalies detected before 24 weeks compared to those with only a second-trimester scan. However, differences might be due to study setup variations rather than a real difference in detection."
+    },
+    {
+      "heading": "What are fetal anomalies?",
+      "text": "Fetal anomalies are abnormalities that can affect the baby's organs or body parts, which develop during pregnancy. These anomalies can range from severe conditions incompatible with life to less significant ones, some of which may be considered normal variations."
+    },
+    {
+      "heading": "How are fetal anomalies detected?",
+      "text": "Fetal anomalies are primarily detected by ultrasound, which uses sound waves to create detailed images of the baby’s internal organs. Most countries offer one ultrasound scan during pregnancy to check for fetal anomalies, typically conducted between 18 and 24 weeks of pregnancy (second-trimester scan). Some countries also offer an early anomaly scan to identify some major anomalies at an earlier stage. This scan is typically performed at 11 to 14 weeks (first-trimester scan)."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "The goal was to understand how accurate ultrasound scans are in detecting structural anomalies in low-risk and unselected pregnant women when conducted in the first and second trimesters. The study also aimed to compare the accuracy of two different approaches: a single-stage screening approach involving only a second-trimester scan and a two-stage approach involving both first- and second-trimester scans."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We reviewed 87 studies, covering over 7 million fetuses. These studies focused on low-risk pregnant and unselected women who had undergone first- and/or second-trimester ultrasound scans as part of routine prenatal care. We assessed the quality of the studies, extracted relevant data and used statistical methods to analyse the accuracy of the ultrasound scans."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "A first-trimester scan appears accurate in early detection of lethal and some severe fetal anomalies. However, its overall ability to detect anomalies is limited. In a hypothetical group of 100,000 fetuses, this scan is expected to correctly identify 113 out of 124 fetuses with lethal anomalies (91.3%) and 665 out of 1776 fetuses with any anomaly (37.5%). Unfortunately, about 79 out of 98,224 healthy fetuses (0.08%) might mistakenly receive a diagnosis of a fetal anomaly when, in reality, there isn't one (false-positive diagnosis). Although the chance of receiving a false-positive diagnosis is very low, in the cases where this occurs, this can lead to unnecessary anxiety and investigations.\nThe combination of a first- and second-trimester scan seems highly sensitive, expecting to identify 1448 out of 1776 cases (83.8%) before 24 weeks in a hypothetical group of 100,000 pregnancies. However, around 118 out of 98,224 healthy fetuses (0.1%) may receive a false-positive diagnosis.\nFewer fetal anomalies seem to be identified before 24 weeks in groups of women undergoing only a second-trimester scan (single-stage screening) compared to those also undergoing a first-trimester scan (two-stage screening). A single second-trimester scan is expected to detect 896 out of 1776 cases (50.5%, 592 fewer than two-stage screening), potentially resulting in false-positive diagnoses for around 205 out of 98,224 healthy fetuses (0.2%, 88 more than two-stage screening).\nHowever, studies solely focusing on the second-trimester scan were designed differently. Women generally entered these studies after the first trimester. Easily detectable anomalies might have been identified before study entry through other investigations, leaving only the more subtle cases in the study populations. This difference may have led to underestimation of overall anomaly detection in studies assessing the accuracy of a single second-trimester scan.\nIt is crucial to note varying anomaly detection rates across organ systems. Abdominal wall anomalies had the highest detection rates: 95.6% (first-trimester scan), 99.0% (first- and second-trimester scan combined) and 90.8% (single second-trimester scan). Digestive tract anomalies had the lowest rates: 8.3%, 46.5% and 33.3%, respectively."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The results of the included studies varied widely, making it challenging to draw consistent conclusions. Additionally, none of the studies were entirely free from potential issues in how they were conducted. Concerns mainly focused on confirming normal and abnormal prenatal findings after birth and how well the results applied to the general population, as most studies were conducted in major university hospitals. Lastly, no studies directly compared detection rates between groups receiving both scans and those with only a second-trimester scan. Although the results of the review indicate that the combination of a first- and second-trimester scan might be better at detecting anomalies before 24 weeks of pregnancy than a single second-trimester scan, this difference could be due to variations in study designs and entry times."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The search for evidence was conducted up to 22 July 2022."
+    }
+  ]
+}

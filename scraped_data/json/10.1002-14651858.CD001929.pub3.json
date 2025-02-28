@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD001929.pub3",
+  "name": "Massage for low‐back pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Low-back pain (LBP) is one of the most common and costly musculoskeletal problems in modern society. It is experienced by 70% to 80% of adults at some time in their lives. Massage therapy has the potential to minimize pain and speed return to normal function."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of massage therapy for people with non-specific LBP."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched PubMed to August 2014, and the following databases to July 2014: MEDLINE, EMBASE, CENTRAL, CINAHL, LILACS, Index to Chiropractic Literature, and Proquest Dissertation Abstracts. We also checked reference lists. There were no language restrictions used."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomized controlled trials of adults with non-specific LBP classified as acute, sub-acute or chronic. Massage was defined as soft-tissue manipulation using the hands or a mechanical device. We grouped the comparison groups into two types: inactive controls (sham therapy, waiting list, or no treatment), and active controls (manipulation, mobilization, TENS, acupuncture, traction, relaxation, physical therapy, exercises or self-care education)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures and followed CBN guidelines. Two independent authors performed article selection, data extraction and critical appraisal."
+    },
+    {
+      "heading": "Main results",
+      "text": "In total we included 25 trials (3096 participants) in this review update. The majority was funded by not-for-profit organizations. One trial included participants with acute LBP, and the remaining trials included people with sub-acute or chronic LBP (CLBP). In three trials massage was done with a mechanical device, and the remaining trials used only the hands. The most common type of bias in these studies was performance and measurement bias because it is difficult to blind participants, massage therapists and the measuring outcomes. We judged the quality of the evidence to be \"low\" to \"very low\", and the main reasons for downgrading the evidence were risk of bias and imprecision. There was no suggestion of publication bias. For acute LBP, massage was found to be better than inactive controls for pain ((SMD -1.24, 95% CI -1.85 to -0.64; participants = 51; studies = 1)) in the short-term, but not for function ((SMD -0.50, 95% CI -1.06 to 0.06; participants = 51; studies = 1)). For sub-acute and chronic LBP, massage was better than inactive controls for pain ((SMD -0.75, 95% CI -0.90 to -0.60; participants = 761; studies = 7)) and function (SMD -0.72, 95% CI -1.05 to -0.39; 725 participants; 6 studies; ) in the short-term, but not in the long-term; however, when compared to active controls, massage was better for pain, both in the short ((SMD -0.37, 95% CI -0.62 to -0.13; participants = 964; studies = 12)) and long-term follow-up ((SMD -0.40, 95% CI -0.80 to -0.01; participants = 757; studies = 5)), but no differences were found for function (both in the short and long-term). There were no reports of serious adverse events in any of these trials. Increased pain intensity was the most common adverse event reported in 1.5% to 25% of the participants."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We have very little confidence that massage is an effective treatment for LBP. Acute, sub-acute and chronic LBP had improvements in pain outcomes with massage only in the short-term follow-up. Functional improvement was observed in participants with sub-acute and chronic LBP when compared with inactive controls, but only for the short-term follow-up. There were only minor adverse effects with massage."
+    }
+  ],
+  "pls_title": "Massage for low-back pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of massage therapy for people with low-back pain (LBP)?"
+    },
+    {
+      "heading": "Background",
+      "text": "LBP is very common. While most back pain gets better without medical treatment, about 10% of cases lasts for three months or more. There are many therapies that are used to treat the pain, and improve the lives of individuals with back pain. Massage is one of these treatments."
+    },
+    {
+      "heading": "Search date",
+      "text": "We updated the searches in 07 August 2014 and included 12 additional randomized controlled trials (RCTs) in this review update."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In total we included 25 RCTs and 3096 participants in this review update. Only one trial included patients with acute LBP (pain duration less than four weeks), while all the others included patients with sub-acute (four to 12 weeks) or chronic LBP (12 weeks or longer). In three studies, massage was applied using a mechanical device (such as a metal bar to increase the compression to the skin or a vibrating instrument), and in the remaining trials it was done using the hands. Pain intensity and quality were the most common outcomes measured in these studies, followed by back-related function, such as walking, sleeping, bending and lifting weights."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Seven studies did not report the sources of funding, Sixteen studies were funded by not-for-profit organizations. One study reported not receiving any funding, and one study was funded by a College of Massage Therapists."
+    },
+    {
+      "heading": "Key results",
+      "text": "There were eight studies comparing massage to interventions that are not expected to improve outcomes (inactive controls) and 13 studies comparing massage to other interventions expected to improve outcomes (active controls). Massage was better than inactive controls for pain and function in the short-term, but not in the long-term follow-up. Massage was better than active controls for pain both in the short and long-term follow-ups, but we found no differences for function, either in the short or long-term follow-ups. There were no reports of serious adverse events in any of these trials. The most common adverse events were increased pain intensity in 1.5% to 25% of the participants."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence for all comparisons was graded \"low \" or \"very low\" which means that we have very little confidence in these results. This is because most of the included studies were small and had methodological flaws."
+    }
+  ]
+}

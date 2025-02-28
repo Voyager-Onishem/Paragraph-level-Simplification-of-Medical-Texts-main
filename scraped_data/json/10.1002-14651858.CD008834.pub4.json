@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008834.pub4",
+  "name": "Antiplatelet agents for chronic kidney disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Antiplatelet agents are widely used to prevent cardiovascular events. The risks and benefits of antiplatelet agents may be different in people with chronic kidney disease (CKD) for whom occlusive atherosclerotic events are less prevalent, and bleeding hazards might be increased. This is an update of a review first published in 2013."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of antiplatelet agents in people with any form of CKD, including those with CKD not receiving renal replacement therapy, patients receiving any form of dialysis, and kidney transplant recipients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 13 July 2021 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials of any antiplatelet agents versus placebo or no treatment, or direct head-to-head antiplatelet agent studies in people with CKD. Studies were included if they enrolled participants with CKD, or included people in broader at-risk populations in which data for subgroups with CKD could be disaggregated."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Four authors independently extracted data from primary study reports and any available supplementary information for study population, interventions, outcomes, and risks of bias. Risk ratios (RR) and 95% confidence intervals (CI) were calculated from numbers of events and numbers of participants at risk which were extracted from each included study. The reported RRs were extracted where crude event rates were not provided. Data were pooled using the random-effects model. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 113 studies, enrolling 51,959 participants; 90 studies (40,597 CKD participants) compared an antiplatelet agent with placebo or no treatment, and 29 studies (11,805 CKD participants) directly compared one antiplatelet agent with another. Fifty-six new studies were added to this 2021 update. Seven studies originally excluded from the 2013 review were included, although they had a follow-up lower than two months.\nRandom sequence generation and allocation concealment were at low risk of bias in 16 and 22 studies, respectively. Sixty-four studies reported low-risk methods for blinding of participants and investigators; outcome assessment was blinded in 41 studies. Forty-one studies were at low risk of attrition bias, 50 studies were at low risk of selective reporting bias, and 57 studies were at low risk of other potential sources of bias.\nCompared to placebo or no treatment, antiplatelet agents probably reduces myocardial infarction (18 studies, 15,289 participants: RR 0.88, 95% CI 0.79 to 0.99, I² = 0%; moderate certainty). Antiplatelet agents has uncertain effects on fatal or nonfatal stroke (12 studies, 10.382 participants: RR 1.01, 95% CI 0.64 to 1.59, I² = 37%; very low certainty) and may have little or no effect on death from any cause (35 studies, 18,241 participants: RR 0.94, 95 % CI 0.84 to 1.06, I² = 14%; low certainty). Antiplatelet therapy probably increases major bleeding in people with CKD and those treated with haemodialysis (HD) (29 studies, 16,194 participants: RR 1.35, 95% CI 1.10 to 1.65, I² = 12%; moderate certainty). In addition, antiplatelet therapy may increase minor bleeding in people with CKD and those treated with HD (21 studies, 13,218 participants: RR 1.55, 95% CI 1.27 to 1.90, I² = 58%; low certainty). Antiplatelet treatment may reduce early dialysis vascular access thrombosis (8 studies, 1525 participants) RR 0.52, 95% CI 0.38 to 0.70; low certainty). Antiplatelet agents may reduce doubling of serum creatinine in CKD (3 studies, 217 participants: RR 0.39, 95% CI 0.17 to 0.86, I² = 8%; low certainty). The treatment effects of antiplatelet agents on stroke, cardiovascular death, kidney failure, kidney transplant graft loss, transplant rejection, creatinine clearance, proteinuria, dialysis access failure, loss of primary unassisted patency, failure to attain suitability for dialysis, need of intervention and cardiovascular hospitalisation were uncertain. Limited data were available for direct head-to-head comparisons of antiplatelet drugs, including prasugrel, ticagrelor, different doses of clopidogrel, abciximab, defibrotide, sarpogrelate and beraprost."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antiplatelet agents probably reduced myocardial infarction and increased major bleeding, but do not appear to reduce all-cause and cardiovascular death among people with CKD and those treated with dialysis. The treatment effects of antiplatelet agents compared with each other are uncertain."
+    }
+  ],
+  "pls_title": "Are anti-blood clotting drugs beneficial for people with chronic kidney disease?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People with chronic kidney disease (CKD) have an increased risk of heart disease that can block the blood supply to the heart or brain causing a heart attack or stroke. Drugs that prevent blood clots from forming (antiplatelet agents) can prevent deaths caused by clots in arteries in the general adult population. However, there may be fewer benefits for people who have CKD, because blood clots in arteries is a less common cause of death or reason to be admitted to hospital compared with heart failure or sudden death in these people. People with CKD also have an increased tendency for bleeding due to changes in how the blood clots. Antiplatelet agents may therefore be more hazardous when CKD is present."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "This updated review evaluated the benefits and harms of antiplatelet agents to prevent cardiovascular disease and death, and the impact on dialysis vascular access (fistula or graft) function in people who have CKD. We identified 90 studies comparing antiplatelet agents with placebo or no treatment and 29 studies directly comparing one antiplatelet agent with another."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Antiplatelet agents probably prevent heart attacks, but do not clearly reduce death or stroke. Treatment with these agents may increase the risk of major and minor bleeding. Clotting of dialysis access was prevented with antiplatelet agents."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The benefits of antiplatelet agents for people with CKD is probably limited to the prevention of a heart attack. The treatment does not appear to prevent stroke or death and probably incurs excess serious bleeding that may require hospital admission or transfusion."
+    }
+  ]
+}

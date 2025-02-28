@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011737.pub3",
+  "name": "Reduction in saturated fat intake for cardiovascular disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Reducing saturated fat reduces serum cholesterol, but effects on other intermediate outcomes may be less clear. Additionally, it is unclear whether the energy from saturated fats eliminated from the diet are more helpfully replaced by polyunsaturated fats, monounsaturated fats, carbohydrate or protein."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of reducing saturated fat intake and replacing it with carbohydrate (CHO), polyunsaturated (PUFA), monounsaturated fat (MUFA) and/or protein on mortality and cardiovascular morbidity, using all available randomised clinical trials."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated our searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid) and Embase (Ovid) on 15 October 2019, and searched Clinicaltrials.gov and WHO International Clinical Trials Registry Platform (ICTRP) on 17 October 2019."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Included trials fulfilled the following criteria: 1) randomised; 2) intention to reduce saturated fat intake OR intention to alter dietary fats and achieving a reduction in saturated fat; 3) compared with higher saturated fat intake or usual diet; 4) not multifactorial; 5) in adult humans with or without cardiovascular disease (but not acutely ill, pregnant or breastfeeding); 6) intervention duration at least 24 months; 7) mortality or cardiovascular morbidity data available."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed inclusion, extracted study data and assessed risk of bias. We performed random-effects meta-analyses, meta-regression, subgrouping, sensitivity analyses, funnel plots and GRADE assessment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 15 randomised controlled trials (RCTs) (16 comparisons, 56,675 participants), that used a variety of interventions from providing all food to advice on reducing saturated fat. The included long-term trials suggested that reducing dietary saturated fat reduced the risk of combined cardiovascular events by 17% (risk ratio (RR) 0.83; 95% confidence interval (CI) 0.70 to 0.98, 12 trials, 53,758 participants of whom 8% had a cardiovascular event, I² = 67%, GRADE moderate-quality evidence). Meta-regression suggested that greater reductions in saturated fat (reflected in greater reductions in serum cholesterol) resulted in greater reductions in risk of CVD events, explaining most heterogeneity between trials. The number needed to treat for an additional beneficial outcome (NNTB) was 56 in primary prevention trials, so 56 people need to reduce their saturated fat intake for ~four years for one person to avoid experiencing a CVD event. In secondary prevention trials, the NNTB was 53. Subgrouping did not suggest significant differences between replacement of saturated fat calories with polyunsaturated fat or carbohydrate, and data on replacement with monounsaturated fat and protein was very limited.\nWe found little or no effect of reducing saturated fat on all-cause mortality (RR 0.96; 95% CI 0.90 to 1.03; 11 trials, 55,858 participants) or cardiovascular mortality (RR 0.95; 95% CI 0.80 to 1.12, 10 trials, 53,421 participants), both with GRADE moderate-quality evidence.\nThere was little or no effect of reducing saturated fats on non-fatal myocardial infarction (RR 0.97, 95% CI 0.87 to 1.07) or CHD mortality (RR 0.97, 95% CI 0.82 to 1.16, both low-quality evidence), but effects on total (fatal or non-fatal) myocardial infarction, stroke and CHD events (fatal or non-fatal) were all unclear as the evidence was of very low quality. There was little or no effect on cancer mortality, cancer diagnoses, diabetes diagnosis, HDL cholesterol, serum triglycerides or blood pressure, and small reductions in weight, serum total cholesterol, LDL cholesterol and BMI. There was no evidence of harmful effects of reducing saturated fat intakes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings of this updated review suggest that reducing saturated fat intake for at least two years causes a potentially important reduction in combined cardiovascular events. Replacing the energy from saturated fat with polyunsaturated fat or carbohydrate appear to be useful strategies, while effects of replacement with monounsaturated fat are unclear. The reduction in combined cardiovascular events resulting from reducing saturated fat did not alter by study duration, sex or baseline level of cardiovascular risk, but greater reduction in saturated fat caused greater reductions in cardiovascular events."
+    }
+  ],
+  "pls_title": "Effect of cutting down on the saturated fat we eat on our risk of heart disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to find out the effects on health of cutting down on saturated fat in our food (replacing animal fats and hard vegetable fats with plant oils, unsaturated spreads or starchy foods)."
+    },
+    {
+      "heading": "Background",
+      "text": "Health guidance suggests that reducing the amount of saturated fat we eat, by cutting down on animal fats, is good for our health. We wanted to combine all available evidence to see whether following this advice leads to a reduced risk of dying or getting cardiovascular disease (heart disease or stroke)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We assessed the effect of cutting down the amount of saturated fat we eat for at least two years on health outcomes including dying, heart disease and stroke. We only looked at studies of adults (18 years or older). They included men and women with and without cardiovascular disease. We did not include studies of acutely ill people or pregnant or breastfeeding women."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found 15 studies with over 56,000 participants. The evidence is current to October 2019. The review found that cutting down on saturated fat led to a 17% reduction in the risk of cardiovascular disease (including heart disease and strokes), but had little effect on the risk of dying. The review found that health benefits arose from replacing saturated fats with polyunsaturated fat or starchy foods. The greater the decrease in saturated fat, and the more serum total cholesterol is reduced, the greater the protection from cardiovascular events. People who are currently healthy appear to benefit as much as those at increased risk of heart disease or stroke (people with high blood pressure, high serum cholesterol or diabetes, for example), and people who have already had heart disease or stroke. There was no difference in effect between men and women.\nThis means that, if 56 people without cardiovascular disease, or 53 people who already have cardiovascular disease, reduce their saturated fat for around 4 years, then one person will avoid a cardiovascular event (heart attack or stroke) they would otherwise have experienced."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is a large body of evidence assessing effects of reducing saturated fat for at least two years. These studies provide moderate-quality evidence that reducing saturated fat reduces our risk of cardiovascular disease."
+    }
+  ]
+}

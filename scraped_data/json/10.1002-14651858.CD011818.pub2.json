@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011818.pub2",
+  "name": "Cognitive behavioural therapy (CBT) for adults and adolescents with asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with asthma have a higher prevalence of anxiety and depression than the general population. This is associated with poorer asthma control, medication adherence, and health outcomes. Cognitive behavioural therapy (CBT) may be a way to improve the quality of life of people with asthma by addressing associated psychological issues, which may lead to a lower risk of exacerbations and better asthma control."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of CBT for asthma compared with usual care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). We also searched reference lists of all primary studies and review articles and contacted authors for unpublished data. The most recent searches were conducted in August 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs) comparing any cognitive behavioural intervention to usual care or no intervention. We included studies of adults or adolescents with asthma, with or without comorbid anxiety or depression. We included studies reported as full text, those published as abstract only, and unpublished data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two or more review authors independently screened the search results, extracted data, and assessed included studies for risk of bias. We analysed dichotomous data as odds ratios (ORs) and continuous data as mean differences (MDs) or standardised mean differences (SMD) where scales varied across studies, all using a random-effects model. The primary outcomes were asthma-related quality of life and exacerbations requiring at least a course of oral steroids. We rated all outcomes using GRADE and presented our confidence in the results in a 'Summary of findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine RCTs involving 407 adults with asthma in this review; no studies included adolescents under 18. Study size ranged from 10 to 94 (median 40), and mean age ranged from 39 to 53. Study populations generally had persistent asthma, but severity and diagnostic measures varied. Three studies recruited participants with psychological symptomatology, although with different criteria. Interventions ranged from 4 to 15 sessions, and primary measurements were taken at a mean of 3 months (range 1.2 to 12 months).\nParticipants given CBT had improved scores on the Asthma Quality of Life Questionnaire (AQLQ) (MD 0.55, 95% confidence interval (CI) 0.17 to 0.93; participants = 214; studies = 6; I2 = 53%) and on measures of asthma control (SMD -0.98, 95% CI -1.76 to -0.20; participants = 95; studies = 3; I2 = 68%) compared to people getting usual care. The AQLQ effect appeared to be sustained up to a year after treatment, but due to its low quality this evidence must be interpreted with caution. As asthma exacerbations requiring at least a course of oral steroids were not consistently reported, we could not perform a meta-analysis.\nAnxiety scores were difficult to pool but showed a benefit of CBT compared with usual care (SMD -0.38, 95% CI -0.73 to -0.03), although this depended on the analysis used. The confidence intervals for the effect on depression scales included no difference between CBT and usual care when measured as change from baseline (SMD -0.33, 95% CI -0.70 to 0.05) or endpoint scores (SMD -0.41, 95% CI -0.87 to 0.05); the same was true for medication adherence (MD -1.40, 95% CI -2.94 to 0.14; participants = 23; studies = 1; I2 = 0%).\nSubgroup analyses conducted on the AQLQ outcome did not suggest a clear difference between individual and group CBT, baseline psychological status, or CBT model. The small number of studies and the variation between their designs, populations, and other intervention characteristics limited the conclusions that could be drawn about these possibly moderating factors.\nThe inability to blind participants and investigators to group allocation introduced significant potential bias, and overall we had low confidence in the evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For adults with persistent asthma, CBT may improve quality of life, asthma control, and anxiety levels compared with usual care. Risks of bias, imprecision of effects, and inconsistency between results reduced our confidence in the results to low, and evidence was lacking regarding the effect of CBT on asthma exacerbations, unscheduled contacts, depression, and medication adherence. There was much variation between studies in how CBT was delivered and what constituted usual care, meaning the most optimal method of CBT delivery, format, and target population requires further investigation. There is currently no evidence for the use of CBT in adolescents with asthma."
+    }
+  ],
+  "pls_title": "Cognitive behavioural therapy for people with asthma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Take-home message",
+      "text": "Cognitive behavioural therapy (CBT) may improve the quality of life and asthma control of adults with asthma, but there is limited evidence for other important outcomes, and our confidence in the results is quite low. None of the studies included adolescents with asthma."
+    },
+    {
+      "heading": "Review question",
+      "text": "We wanted to review the evidence of the effect of CBT compared to usual care (without CBT) on a range of health outcomes in people with asthma including quality of life, medication adherence, and levels of anxiety and depression."
+    },
+    {
+      "heading": "Background",
+      "text": "People with asthma suffer from anxiety and depression more than the general public. These psychological problems are linked with having worse asthma, including having poorer control of symptoms and being admitted to hospital more often. CBT is a talking therapy that aims to help people recognise how their behaviour affects their thoughts and feelings, which may help people with asthma better cope with their condition. We wanted to learn whether using CBT was better than not using CBT for improving the lives of people with asthma."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence reviewed is current to August 2016. We included nine studies with a total of 407 participants in the review. All of the participants had asthma. In three of the nine studies, the participants also had a diagnosis of anxiety or depression, or both. The CBT was given either individually or in a group and ranged from four to 15 sessions."
+    },
+    {
+      "heading": "Key results",
+      "text": "Participants given CBT had improved scores on the Asthma Quality of Life Questionnaire (AQLQ) and on measures of asthma control compared to participants who did not receive CBT. The studies generally did not report whether CBT reduced the likelihood of people needing oral steroids for an asthma attack. The benefit on AQLQ score was sustained up to a year after receiving CBT. Participants given CBT also had better anxiety scores compared to those given usual care. Participants given CBT did not have clearly improved depression scale scores or medication adherence.\nThe overall quality of evidence presented is low due to the small number of studies included in the review, the differences in the design of the studies and in how the CBT was conducted, and because the participants knew to which treatment group (CBT or no CBT) they had been assigned."
+    }
+  ]
+}

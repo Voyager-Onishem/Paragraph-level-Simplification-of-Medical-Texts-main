@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003313.pub2",
+  "name": "Immunoglobulin for alloimmune hemolytic disease in neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Exchange transfusion and phototherapy have traditionally been used to treat jaundice and avoid the associated neurological complications. Because of the risks and burdens of exchange transfusion, intravenous immunoglobulin (IVIg) has been suggested as an alternative therapy for alloimmune hemolytic disease of the newborn (HDN) to reduce the need for exchange transfusion."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect and complications of IVIg in newborn infants with alloimmune HDN on the need for and number of exchange transfusions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed electronic searches of CENTRAL, PubMed, Embase (Ovid), Web of Science, CINAHL (EBSCOhost), Academic Search Premier, and the trial registers ClinicalTrials.gov and controlled-trials.com in May 2017. We also searched reference lists of included and excluded trials and relevant reviews for further relevant studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered all randomized and quasi-randomized controlled trials of IVIg in the treatment of alloimmune HDN. Trials must have used predefined criteria for the use of IVIg and exchange transfusion therapy to be included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methods of Cochrane and its Neonatal Review Group. We assessed studies for inclusion and two review authors independently assessed quality and extracted data. We discussed any differences of opinion to reach consensus. We contacted investigators for additional or missing information. We calculated risk ratio (RR), risk difference (RD) and number needed to treat for an additional beneficial outcome (NNTB) for categorical outcomes. We calculated mean difference (MD) for continuous variables. We used GRADE criteria to assess the risk of bias for major outcomes and to summarize the level of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine studies with 658 infants fulfilled the inclusion criteria. Term and preterm infants with Rh or ABO (or both) incompatibility were included. The use of exchange transfusion decreased significantly in the immunoglobulin treated group (typical RR 0.35, 95% CI 0.25 to 0.49; typical RD -0.22, 95% CI -0.27 to -0.16; NNTB 5). The mean number of exchange transfusions per infant was also significantly lower in the immunoglobulin treated group (MD -0.34, 95% CI -0.50 to -0.17). However, sensitivity analysis by risk of bias showed that in the only two studies in which the treatment was masked by use of a placebo and outcome assessment was blinded, the results differed; there was no difference in the need for exchange transfusions (RR 0.98, 95% CI 0.48 to 1.98) or number of exchange transfusions (MD -0.04, 95% CI -0.18 to 0.10). Two studies assessed long-term outcomes and found no cases of kernicterus, deafness or cerebral palsy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although overall results show a significant reduction in the need for exchange transfusion in infants treated with IVIg, the applicability of the results is limited because of low to very low quality of evidence. Furthermore, the two studies at lowest risk of bias show no benefit of IVIg in reducing the need for and number of exchange transfusions. Based on these results, we have insufficient confidence in the effect estimate for benefit of IVIg to make even a weak recommendation for the use of IVIg for the treatment of alloimmune HDN. Further studies are needed before the use of IVIg for the treatment of alloimmune HDN can be recommended, and should include blinding of the intervention by use of a placebo as well as sufficient sample size to assess the potential for serious adverse effects."
+    }
+  ],
+  "pls_title": "Immunoglobulin for alloimmune hemolytic disease in newborns",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": ""
+    },
+    {
+      "heading": "Background",
+      "text": "Background\nIn alloimmune HDN, maternal antibodies (circulating proteins that are produced by the immune system in response to the presence of a foreign substance) are produced against fetal blood cells. These antibodies are transferred across the placenta and destroy red blood cells, leading to fetal anemia (deficiency of red cells in the unborn baby). Intrauterine (within the womb) blood transfusion is used to treat severe fetal anemia. After birth, the antibodies persist in the infant and cause hyperbilirubinemia (a raised blood level of an orange-yellow pigment (bilirubin, a waste product of a degrading red blood cell) with the risk of serious brain damage (kernicterus) and anemia. Traditional treatment of hyperbilirubinemia consists of (intensive) phototherapy (light treatment) and exchange transfusion (where the baby's blood is replaced with that of a donor; ET). Because ET is an invasive, high risk procedure, alternative treatments such as intravenous immunoglobulin (IVIg), have been investigated. IVIg is thought to reduce the rate of hemolysis and consequently the need for ETs."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the medical literature to 19 May 2017 and found nine randomized (clinical studies where people are randomly put into one of two or more treatment groups) or partly (quasi) randomized trials (including 658 participants) that assessed the efficiency of IVIg in infants with alloimmune HDN."
+    },
+    {
+      "heading": "Key results",
+      "text": "Analysis of all included studies showed a reduction in the need for and number of ETs in infants treated with IVIg combined with phototherapy compared to infants treated with phototherapy only. However, this was not confirmed in an analysis of the two placebo-controlled studies (where a pretend treatment was given). There was no difference in the need for or number of top-up transfusions."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The evidence from the studies was very low quality. However, two studies used a placebo, thereby minimizing bias and allowing blinding of the researchers assessing the response. These studies were consistent with each other and yielded moderate quality evidence (with a relatively small total number of participants involved (172) being the only reason to not regard the level of evidence from them as high) that IVIg was ineffective in preventing ET or top-up transfusions."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Based on all included studies, we could make no conclusions on the benefit of IVIg in preventing ET or top-up transfusion. However, the two placebo-controlled trials provided evidence of moderate quality that IVIg was ineffective in preventing ET or top-up transfusion, and therefore routine use in alloimmune HDN should not be recommended. However, since there was some evidence that IVIg reduced hemolysis (in laboratory studies), future high-quality studies are needed to determine whether IVIg has limited role in some infants with alloimmune HDN."
+    }
+  ]
+}

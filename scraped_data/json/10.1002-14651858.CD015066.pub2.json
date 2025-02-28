@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015066.pub2",
+  "name": "Hearing protection field attenuation estimation systems and associated training for reducing workers’ exposure to noise ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Global Burden of Disease studies identify hearing loss as the third leading cause of years lived with a disability. Their estimates point to large societal and individual costs from unaddressed hearing difficulties. Workplace noise is an important modifiable risk factor; if addressed, it could significantly reduce the global burden of disease.\nIn practice, providing hearing protection devices (HPDs) is the most common intervention to reduce noise exposure at work. However, lack of fit of HPDs, especially earplugs, can greatly limit their effectiveness. This may be the case for 40% of users. Testing the fit and providing instructions to improve noise attenuation might be effective. In the past two decades, hearing protection fit-test systems have been developed and evaluated in the field. They are called field attenuation estimation systems. They measure the noise attenuation obtained by individual workers using HPDs. If there is a lack of fit, instruction for better fit is provided, and may lead to better noise attenuation obtained by HPDs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess: (1) the effects of field attenuation estimation systems and associated training on the noise attenuation obtained by HPDs compared to no instruction or to less instruction in workers exposed to noise; and (2) whether these interventions promote adherence to HPD use."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used CENTRAL, MEDLINE, five other databases, and two trial registers, together with reference checking, citation searching, and contact with study authors to identify studies. We imposed no language or date restrictions. The latest search date was February 2024."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs), cluster-RCTs, controlled before-after studies (CBAs), and interrupted time-series studies (ITSs) exploring HPD fit testing in workers exposed to noise levels of more than 80 A-weighted decibels (or dBA) who use hearing protection devices. The unit 'dBA' reports on the use of a frequency-weighting filter to adjust sound measurement results to better reflect how human ears process sound. The outcome noise attenuation had to be measured either as a personal attenuation rating (PAR), PAR pass rate, or both. PAR pass rate is the percentage of workers who passed a pre-established level of sufficient attenuation from their HPDs, identified on the basis of their individual noise exposure."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed study eligibility, risk of bias, and extracted data. We categorised interventions as fit testing of HPDs with instructions at different levels (no instructions, simple instructions, and extensive instructions)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three RCTs (756 participants). We did not find any studies that examined whether fit testing and training contributed to hearing protector use, nor any studies that examined whether age, gender, or HPD experience influenced attenuation. We would have included any adverse effects if mentioned by the trial authors, but none reported them. None of the included studies blinded participants; two studies blinded those who delivered the intervention.\nEffects of fit testing of HPDs with instructions (simple or extensive) versus fit testing of HPDs without instructions\nTesting the fit of foam and premoulded earplugs accompanied by simple instructions probably does not improve their noise attenuation in the short term after the test (1-month follow-up: mean difference (MD) 1.62 decibels (dB), 95% confidence interval (CI) -0.93 to 4.17; 1 study, 209 participants; 4-month follow-up: MD 0.40 dB, 95% CI -2.28 to 3.08; 1 study, 197 participants; both moderate-certainty evidence). The intervention probably does not improve noise attenuation in the long term (MD 0.15 dB, 95% CI -3.44 to 3.74; 1 study, 103 participants; moderate-certainty evidence).\nFit testing of premoulded earplugs with extensive instructions on the fit of the earplugs may improve their noise attenuation at the immediate retest when compared to fit testing without instructions (MD 8.34 dB, 95% CI 7.32 to 9.36; 1 study, 100 participants; low-certainty evidence).\nEffects of fit testing of HPDs with extensive instructions versus fit testing of HPDs with simple instructions\nFit testing of foam earplugs with extensive instructions probably improves their attenuation (MD 8.62 dB, 95% CI 6.31 to 10.93; 1 study, 321 participants; moderate-certainty evidence) and also the pass rate of sufficient attenuation (risk ratio (RR) 1.75, 95% CI 1.44 to 2.11; 1 study, 321 participants; moderate-certainty evidence) when compared to fit testing with simple instructions immediately after the test. This is significant because every 3 dB decrease in noise exposure level halves the sound energy entering the ear.\nNo RCTs reported on the long-term effectiveness of the HPD fit testing with extensive instructions."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "HPD fit testing accompanied by simple instructions probably does not improve noise attenuation from foam and premoulded earplugs. Testing the fit of foam and premoulded earplugs with extensive instructions probably improves attenuation and PAR pass rate immediately after the test. The effects of fit testing associated with training to improve attenuation may vary with types of HPDs and training methods. Better-designed trials with larger sample sizes are required to increase the certainty of the evidence."
+    }
+  ],
+  "pls_title": "Do earplug fit tests plus training on how to fit earplugs help people who work in noisy environments?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Earplug fit testing paired with simple instructions for properly fitting earplugs probably does not improve noise reduction.\n• Earplug fit testing paired with extensive instructions probably improves protection against noise compared to receiving no instructions or simple instructions."
+    },
+    {
+      "heading": "Why are noisy work environments a problem?",
+      "text": "Noise exposure at work is associated with serious health conditions, from hearing loss and tinnitus (ringing or buzzing sounds in the ears without an external source), to injuries and heart/blood vessel problems. Hearing protection devices (HPDs) – such as earplugs and earmuffs – are commonly used to reduce people’s noise exposure at work. Especially for earplugs, it is well-known that many workers struggle to insert them properly into the ear canal. Ill-fitting earplugs will not protect one's hearing sufficiently."
+    },
+    {
+      "heading": "What are hearing protection fit-test systems?",
+      "text": "Hearing protection fit-test systems are technologies that measure the extent to which noise is reduced (attenuated) at the ear for a person wearing earplugs or another hearing protection device."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if hearing protection fit testing plus training to wear earplugs (or other protection devices) properly is effective at reducing noise experienced by workers, and whether they continued to wear earplugs consistently. We also wanted to find out if people’s age, gender, earplug type, and experience of using hearing protection devices made any differences to the effectiveness of fit testing and training."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 3 studies involving 756 participants. They examined the effects of giving people simple or extensive instructions for fitting their hearing protection devices (all the studies used foam or premoulded earplugs) together with fit tests that measured how much noise was reduced. We did not find any studies that examined whether fit testing and training promoted consistent hearing protection use, nor any studies that examined whether age, gender, or hearing protection experience influenced noise reduction."
+    },
+    {
+      "heading": "Main results",
+      "text": "• Earplug fit testing accompanied by simple instructions probably does not improve personal attenuation ratings (PAR) from foam and premoulded earplugs compared to no instructions.\n• Fit testing with extensive instructions probably improves workers’ protection against noise, measured immediately after the test and training, compared to having no or simple instructions. An increase in protection of about 3 dB will halve the sound's power at the ear, increasing the protective effect of earplugs.\n• The effects of fit testing may depend on the type of hearing protection device and training methods.\n• None of the included studies measured or reported harmful effects from fit testing and training, and we did not think it was likely we would find any."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have moderate to low confidence in the evidence. Our confidence was reduced because the studies were small, and we had concerns about how participants were allocated to groups."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to February 2024."
+    }
+  ]
+}

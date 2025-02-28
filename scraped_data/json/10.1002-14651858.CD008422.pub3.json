@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD008422.pub3",
+  "name": "Vitamin D for the management of multiple sclerosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This review is an update of a previously published review, \"Vitamin D for the management of multiple sclerosis\" (published in the Cochrane Library; 2010, Issue 12). Multiple sclerosis (MS) is characterised by inflammation, demyelination, axonal or neuronal loss, and astrocytic gliosis in the central nervous system (CNS), which can result in varying levels of disability. Some studies have provided evidence showing an association of MS with low levels of vitamin D and benefit derived from its supplementation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefit and safety of vitamin D supplementation for reducing disease activity in people with MS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Multiple Sclerosis and Rare Diseases of the CNS Specialized Register up to 2 October 2017 through contact with the Information Specialist with search terms relevant to this review. We included references identified from comprehensive electronic database searches and from handsearches of relevant journals and abstract books from conferences."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs that compared vitamin D versus placebo, routine care, or low doses of vitamin D in patients with MS. Vitamin D was administered as monotherapy or in combination with calcium. Concomitant interventions were allowed if they were used equally in all trial intervention groups."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed the methodological quality of studies, while another review author sorted any disagreements. We expressed treatment effects as mean differences (MDs) for continuous outcomes (Expanded Disability Status Scale and number of magnetic resonance imaging (MRI) gadolinium-enhancing T1 lesions), as standardised MDs for health-related quality of life, as rate differences for annualised relapse rates, and as risk differences (RDs) for serious adverse events and minor adverse events, together with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 RCTs enrolling 933 participants with MS; 464 were randomised to the vitamin D group, and 469 to the comparator group. Eleven trials tested vitamin D₃, and one trial tested vitamin D₂. Vitamin D₃ had no effect on the annualised relapse rate at 52 weeks' follow-up (rate difference -0.05, 95% CI -0.17 to 0.07; I² = 38%; five trials; 417 participants; very low-quality evidence according to the GRADE instrument); on the Expanded Disability Status Scale at 52 weeks' follow-up (MD -0.25, 95% CI -0.61 to 0.10; I² = 35%; five trials; 221 participants; very low-quality evidence according to GRADE); and on MRI gadolinium-enhancing T1 lesions at 52 weeks' follow-up (MD 0.02, 95% CI -0.45 to 0.48; I² = 12%; two trials; 256 participants; very low-quality evidence according to GRADE). Vitamin D₃ did not increase the risk of serious adverse effects within a range of 26 to 52 weeks' follow-up (RD 0.01, 95% CI -0.03 to 0.04; I² = 35%; eight trials; 621 participants; low-quality evidence according to GRADE) or minor adverse effects within a range of 26 to 96 weeks' follow-up (RD 0.02, 95% CI -0.02 to 0.06; I² = 20%; eight trials; 701 participants; low-quality evidence according to GRADE). Three studies reported health-related quality of life (HRQOL) using different HRQOL scales. One study reported that vitamin D improved ratings on the psychological and social components of the HRQOL scale but had no effects on the physical components. The other two studies found no effect of vitamin D on HRQOL. Two studies reported fatigue using different scales. One study (158 participants) reported that vitamin D₃ reduced fatigue compared with placebo at 26 weeks' follow-up. The other study (71 participants) found no effect on fatigue at 96 weeks' follow-up. Seven studies reported on cytokine levels, four on T-lymphocyte proliferation, and one on matrix metalloproteinase levels, with no consistent pattern of change in these immunological outcomes. The randomised trials included in this review provided no data on time to first treated relapse, number of participants requiring hospitalisation owing to progression of the disease, proportion of participants who remained relapse-free, cognitive function, or psychological symptoms."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "To date, very low-quality evidence suggests no benefit of vitamin D for patient-important outcomes among people with MS. Vitamin D appears to have no effect on recurrence of relapse, worsening of disability measured by the Expanded Disability Status Scale (EDSS), and MRI lesions. Effects on health-related quality of life and fatigue are unclear. Vitamin D₃ at the doses and treatment durations used in the included trials appears to be safe, although available data are limited. Seven ongoing studies will likely provide further evidence that can be included in a future update of this review."
+    }
+  ],
+  "pls_title": "Vitamin D for the management of multiple sclerosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does vitamin D supplementation reduce disease activity in people with multiple sclerosis (MS)?"
+    },
+    {
+      "heading": "What is the issue?",
+      "text": "Several epidemiological, immunological, and genetic studies have reported an association between low vitamin D, measured as low blood 25-hydroxyvitamin D levels, and MS before and after the disease is triggered. Hence people with MS are screened for vitamin D deficiency, and vitamin D preparations are given along with immunomodulatory therapy. Whether vitamin D supplementation improves relevant clinical outcomes (recurrence of relapse, worsening of disability) or decreases the number of lesions observed by magnetic resonance imaging (MRI) is not clear."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We evaluated the benefits and harms of vitamin D in people with MS. We included randomised controlled trials (RCTs) and quasi-RCTs that compared the effects of vitamin D supplementation versus placebo, routine care, or low doses of vitamin D."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Our systematic search identified 12 studies enrolling 933 people with MS. Research shows that vitamin D has no effect on recurrence of relapse, worsening of disability measured by the Expanded Disability Status Scale (EDSS), or new MRI gadolinium-enhancing T1 lesions. Its effects on health-related quality of life and fatigue are unclear. Our confidence in these results is very low because vitamin D has been evaluated in only a few small trials that we judged as having high risk of bias. Vitamin D supplementation appears to be safe for people with MS included in our review, but available data are limited."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "For people with MS, vitamin D supplementation appears to have no effect on relevant clinical outcomes or new MRI lesions. Vitamin D supplementation at the doses and treatment durations used in the included trials appears to be safe, although available data are limited. Seven trials are ongoing; they will likely provide further evidence for a future update of this review."
+    },
+    {
+      "heading": "Currentness of evidence",
+      "text": "This evidence is up-to-date as of October 2017."
+    }
+  ]
+}

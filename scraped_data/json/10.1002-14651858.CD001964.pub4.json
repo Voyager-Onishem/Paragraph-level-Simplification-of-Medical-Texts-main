@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001964.pub4",
+  "name": "Extent of lymph node dissection for adenocarcinoma of the stomach",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The impact of lymphadenectomy extent on the survival of patients with primary resectable gastric carcinoma is debated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to systematically review and meta-analyze the evidence on the impact of the three main types of progressively more extended lymph node dissection (that is, D1, D2 and D3 lymphadenectomy) on the clinical outcome of patients with primary resectable carcinoma of the stomach. The primary objective was to assess the impact of lymphadenectomy extent on survival (overall survival [OS], disease specific survival [DSS] and disease free survival [DFS]). The secondary aim was to assess the impact of lymphadenectomy on post-operative mortality."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE and EMBASE until 2001, including references from relevant articles and conference proceedings. We also contacted known researchers in the field. For the updated review, CENTRAL, MEDLINE and EMBASE were searched from 2001 to February 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomized controlled trials (RCTs) comparing the three main types of lymph node dissection (i.e., D1, D2 and D3 lymphadenectomy) in patients with primary non-metastatic resectable carcinoma of the stomach."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data from the included studies. Hazard ratios (HR) and relative risks (RR) along with their 95% confidence intervals (CI) were used to measure differences in survival and mortality rates between trial arms, respectively. Potential sources of between-study heterogeneity were investigated by means of subgroup and sensitivity analyses. The same two authors independently assessed the risk of bias of eligible studies according to the standards of the Cochrane Collaboration and the quality of the overall evidence based on the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight RCTs (enrolling 2515 patients) met the inclusion criteria. Three RCTs (all performed in Asian countries) compared D3 with D2 lymphadenectomy: data suggested no significant difference in OS between these two types of lymph node dissection (HR 0.99, 95% CI 0.81 to 1.21), with no significant difference in postoperative mortality (RR 1.67, 95% CI 0.41 to 6.73). Data for DFS were available only from one trial and for no trial were DSS data available. Five RCTs (n = 3 European; n = 2 Asian) compared D2 to D1 lymphadenectomy: OS (n = 5; HR 0.91, 95% CI 0.71 to 1.17) and DFS (n=3; HR 0.95, 95% CI 0.84 to 1.07) findings suggested no significant difference between these two types of lymph node dissection. In contrast, D2 lymphadenectomy was associated with a significantly better DSS compared to D1 lymphadenectomy (HR 0.81, 95% CI 0.71 to 0.92), the quality of the body of evidence being moderate; however, D2 lymphadenectomy was also associated with a higher postoperative mortality rate (RR 2.02, 95% CI 1.34 to 3.04)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "D2 lymphadenectomy can improve DSS in patients with resectable carcinoma of the stomach, although the increased incidence of postoperative mortality reduces its therapeutic benefit."
+    }
+  ],
+  "pls_title": "Extent of lymphadenectomy in patients with gastric cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does more extended lymphadenectomy lead to a survival advantage for patients undergoing surgery for gastric carcinoma?"
+    },
+    {
+      "heading": "Background",
+      "text": "Gastric carcinoma is a leading cause of cancer death worldwide. For patients affected with this disease, the main therapy is surgery, which consists of gastric resection along with the removal of lymph nodes surrounding the stomach (a procedure called lymphadenectomy). Three types of progressively more extended lymphadenectomies exist (called D1, D2 and D3); their therapeutic benefit is debated."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We collected data from eight randomized controlled trials addressing this issue and enrolling a total of 2515 patients."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that D2 lymphadenectomy can reduce the number of deaths due to disease progression as compared to D1 lymphadenectomy. However, D2 lymphadenectomy was also associated with a higher rate of postoperative mortality. In addition, available evidence does not support the superiority of D3 versus D2 lymphadenectomy. In conclusion, our findings support the use of D2 lymphadenectomy in patients with resectable carcinoma of the stomach, although the increased incidence of postoperative mortality reduces its therapeutic effect."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was moderate due to an intermediate level of result heterogeneity across the included trials."
+    }
+  ]
+}

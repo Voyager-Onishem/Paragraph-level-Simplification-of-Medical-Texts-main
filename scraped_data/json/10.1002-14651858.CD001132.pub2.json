@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD001132.pub2",
+  "name": "5‐Fluorouracil for glaucoma surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Trabeculectomy is performed as a treatment for many types of glaucoma in an attempt to lower the intraocular pressure. The surgery involves creating a channel through the sclera, through which intraocular fluid can leave the eye. If scar tissue blocks the exit of the surgically created channel, intraocular pressure rises and the operation fails. Antimetabolites such as 5-Fluorouracil (5-FU) are used to inhibit wound healing to prevent the conjunctiva scarring down on to the sclera. This is an update of a Cochrane review first published in 2000, and previously updated in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of both intraoperative application and postoperative injections of 5-FU in eyes of people undergoing surgery for glaucoma at one year."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 6), Ovid MEDLINE, Ovid MEDLINE In-Process and Other Non-Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to July 2013), EMBASE (January 1980 to July 2013), the meta Register of Controlled Trials (mRCT) (www.controlled-trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 25 July 2013. We also searched the reference lists of relevant articles and the Science Citation Index and contacted investigators and experts for details of additional relevant trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials of intraoperative application and postoperative 5-FU injections compared with placebo or no treatment in trabeculectomy for glaucoma."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed trial quality and extracted data. We used standard methodological procedures expected by The Cochrane Collaboration. We contacted trial investigators for missing information. Data were summarised using risk ratio (RR), Peto odds ratio and mean difference, as appropriate.\nThe participants were divided into three separate subgroup populations (high risk of failure, combined surgery and primary trabeculectomy) and the interventions were divided into three subgroups of 5-FU injections (intraoperative, regular dose postoperative and low dose postoperative). The low dose was defined as a total dose less than 19 mg."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twelve trials, which randomised 1319 participants, were included in the review. As far as can be determined from the trial reports, the methodological quality of the trials was not high, including a high risk of detection bias in many. Of note, only one study reported low-dose postoperative 5-FU and this paper was at high risk of reporting bias.\nNot all studies reported population characteristics, of those that did mean age ranged from 61 to 75 years. 83% of participants were white and 40% were male. All studies were a minimum of one year long.\nA significant reduction in surgical failure in the first year after trabeculectomy was detected in eyes at high risk of failure and those undergoing surgery for the first time receiving regular-dose 5-FU postoperative injections (RR 0.44, 95% confidence interval (CI) 0.29 to 0.68 and 0.21, 0.06 to 0.68, respectively). No surgical failures were detected in studies assessing combined surgery. No difference was detected in the low-dose postoperative 5-FU injection group in patients undergoing primary trabeculectomy (RR 0.93, 95% CI 0.70 to 1.24). Peroperative 5-FU in patients undergoing primary trabeculectomy significantly reduced risk of failure (RR 0.67, 95% CI 0.51 to 0.88). This translates to a number needed to treat for an additional beneficial outcome of 4.1 for the high risk of failure patients, and 5.0 for primary trabeculectomy patients receiving postoperative 5-FU.\nIntraocular pressure was also reduced in the primary trabeculectomy group receiving intraoperative 5-FU (mean difference (MD) -1.04, 95% CI -1.65 to -0.43) and regular-dose postoperative 5-FU (MD -4.67, 95% CI -6.60 to -2.73). No significant change occurred in the primary trabeculectomy group receiving low-dose postoperative 5-FU (MD -0.50, 95% CI -2.96 to 1.96). Intraocular pressure was particularly reduced in the high risk of failure population receiving regular-dose postoperative 5-FU (MD -16.30, 95% CI -18.63 to -13.97). No difference was detected in the combined surgery population receiving regular-dose postoperative 5-FU (MD -1.02, 95% CI -2.40 to 0.37).\nWhilst no evidence was found of an increased risk of serious sight-threatening complications, other complications are more common after 5-FU injections. None of the trials reported on the participants' perspective of care.\nThe quality of evidence varied between subgroups and outcomes, most notably the evidence for combined surgery and low-dose postoperative 5-FU was found to be very low using GRADE. The combined surgery postoperative 5-FU subgroup because no surgical failures have been reported and the sample size is small (n = 118), and the low-dose postoperative 5-FU group because of the small sample size (n = 76) and high risk of bias of the only contributing study."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Postoperative injections of 5-FU are now rarely used as part of routine packages of postoperative care but are increasingly used on an ad hoc basis. This presumably reflects an aspect of the treatment that is unacceptable to both patients and doctors. None of the trials reported on the participants' perspective of care, which constitutes a serious omission for an invasive treatment such as this.\nThe small but statistically significant reduction in surgical failures and intraocular pressure at one year in the primary trabeculectomy group and high-risk group must be weighed against the increased risk of complications and patient preference."
+    }
+  ],
+  "pls_title": "5-Fluorouracil compared with placebo or no intervention during or after surgery for glaucoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Glaucoma involves a loss of vision that may be associated with raised pressure inside the eye. When glaucoma is diagnosed, it is common to try to reduce that pressure with medical, laser or surgical procedures (trabeculectomy). Surgery does not immediately restore vision, and may involve extra vision loss in the short term. Drugs can be used to modify wound healing to improve the likelihood of the success of surgery."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This is a summary of a Cochrane review that looked at the effect of using one of these drugs, 5-Fluorouracil (5-FU). We gathered evidence from 12 trials involving 1319 participants. The evidence is current to July 2013."
+    },
+    {
+      "heading": "5-FU injections after glaucoma surgery",
+      "text": "For patients who have never had eye surgery before, 5-FU injections after surgery can slightly reduce the pressure in the eye after one year and also the risk of having more surgery in the first year.\nFor patients having both cataract surgery and glaucoma surgery at the same time, no difference has been detected between injections and no injections.\nSome people are at higher risk of having problems following trabeculectomy, for instance people that have had previous surgery on the eye. For this group, the 5-FU injections can reduce the pressure in the eye a little and also reduce the risk of having more surgery in the first year."
+    },
+    {
+      "heading": "Low-dose 5-FU injections after glaucoma surgery",
+      "text": "Only one study has investigated the effect of using lower than normal doses in the injections. No benefit was found when compared to a control group who had no injections."
+    },
+    {
+      "heading": "5-FU during surgery",
+      "text": "If 5-Fluorouracil was applied to the eye during the surgery, there was less chance of having to have more surgery within the year and the pressure in the eye was also reduced slightly at one year."
+    },
+    {
+      "heading": "Side effects and complications of 5-FU during or after surgery",
+      "text": "Complications such as damage to cells at the front of the eye or a leak from the wound seem more common when 5-FU is used."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The methodological quality of the trials was not high in general. In many of the studies that contributed to the evidence about 5-FU after glaucoma surgery the researchers were aware of whether the participant had received the dummy injection or the 5-FU injection. This may have introduced bias into the results. Importantly the only study contributing information about low dose 5-FU was of low methodological quality so our conclusions on low dose 5-FU must be cautious.\nThe studies that contributed evidence about 5-FU during surgery was largely very good, the studies were designed and reported to a standard we would expect of modern trials."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We concluded that the main benefit is for people at high risk of problems. There may be a smaller benefit for people at low risk of problems if 5-FU is given either as injections after surgery or during the operation. However, 5-FU was found to increase the risk of serious complications and so may not be worthwhile for the small benefit gained."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003175.pub2",
+  "name": "Adjuvant chemotherapy for endometrial cancer after hysterectomy",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Endometrial adenocarcinoma (womb cancer) is a malignant growth of the lining (endometrium) of the womb (uterus). It is distinct from sarcomas (tumours of the uterine muscle). Survival depends the risk of microscopic metastases after surgery. Adjuvant (postoperative) chemotherapy improves survival from some other adenocarcinomas, and there is evidence that endometrial cancer is sensitive to cytotoxic therapy. This systematic review examines the effect of chemotherapy on survival after hysterectomy for endometrial cancer."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess efficacy of adjuvant (postoperative) chemotherapy for endometrial cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2010, Issue 3), MEDLINE and EMBASE up to August 2010, registers of clinical trials, abstracts of scientific meetings, reference lists of included studies and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing adjuvant chemotherapy with any other adjuvant treatment or no other treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used a random-effects meta-analysis to assess hazard ratios (HR) for overall and progression-free survival and risk ratios (RR) to compare death rates and site of initial relapse."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five RCTs compared no additional treatment with additional chemotherapy after hysterectomy and radiotherapy. Four trials compared platinum based combination chemotherapy directly with radiotherapy. Indiscriminate pooling of survival data from 2197 women shows a significant overall survival advantage from adjuvant chemotherapy (RR (95% CI) = 0.88 (0.79 to 0.99)). Sensitivity analysis focused on trials of modern platinum based chemotherapy regimens and found the relative risk of death to be 0.85 ((0.76 to 0.96); number needed to treat for an additional beneficial outcome (NNT) = 25; absolute risk reduction = 4% (1% to 8%)). The HR for overall survival is 0.74 (0.64 to 0.89), significantly favouring the addition of postoperative platinum based chemotherapy. The HR for progression-free survival is 0.75 (0.64 to 0.89). This means that chemotherapy reduces the risk of being dead at any censorship by a quarter. Chemotherapy reduces the risk of developing the first recurrence outside the pelvis (RR = 0.79 (0.68 to 0.92), 5% absolute risk reduction; NNT = 20). The analysis of pelvic recurrence rates is underpowered but the trend suggests that chemotherapy may be less effective than radiotherapy in a direct comparison (RR = 1.28 (0.97 to 1.68)) but it may have added value when used with radiotherapy (RR = 0.48 (0.20 to 1.18))."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Postoperative platinum based chemotherapy is associated with a small benefit in progression-free survival and overall survival irrespective of radiotherapy treatment. It reduces the risk of developing a metastasis, could be an alternative to radiotherapy and has added value when used with radiotherapy."
+    }
+  ],
+  "pls_title": "The effect of chemotherapy on survival from early womb cancer after hysterectomy",
+  "pls_type": "long",
+  "pls": "Womb (uterine/endometrial) cancer is a fairly common disease affecting approximately 1 in 70 women. A hysterectomy is usually curative because most cancers have a low risk of spreading (metastasising) to other sites which may result in a later recurrence. Microscopic examination of the hysterectomy specimen can tell doctors if there is a high risk of the cancer returning and this allows women to decide if they want further preventative treatment (adjuvant therapy) to reduce the risk. Chemotherapy can increase cure rates for other types of high-risk cancer after initial surgery and this review examines the effectiveness of chemotherapy for primary womb cancer after hysterectomy. Data from nine high quality randomised clinical trials involving up to 2197 women were subjected to systematic statistical modelling. This shows that chemotherapy reduces the risk of recurrent disease, lengthens the duration women have before a metastasis is diagnosed and improves survival rates. There are many ways to examine the data. The subset analysis that excluded old fashioned drug regimens suggests that chemotherapy reduces the risk of being dead at any nominated time by a quarter. The number of women who would need to have need chemotherapy to prevent one death depends on the type of cancer. In these trials, one woman was cured for every 25 women treated with high dose platinum based chemotherapy after hysterectomy. This is an absolute risk reduction of 4%. Chemotherapy is associated with a greater survival advantage than radiotherapy and has added value when used with radiotherapy. It also appears to reduce the absolute risk of developing a recurrence outside the pelvis by about 5%. This would benefit one woman in every 20 treated. However, chemotherapy has side effects, risks and temporarily reduces a woman's quality of life. In many cases, the small reduction in the cancer recurrence risk may not be worth the side effects of adjuvant treatment."
+}

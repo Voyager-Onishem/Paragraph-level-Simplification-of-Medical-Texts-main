@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011227.pub2",
+  "name": "Non‐medical prescribing versus medical prescribing for acute and chronic disease management in primary and secondary care ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A range of health workforce strategies are needed to address health service demands in low-, middle- and high-income countries. Non-medical prescribing involves nurses, pharmacists, allied health professionals, and physician assistants substituting for doctors in a prescribing role, and this is one approach to improve access to medicines."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess clinical, patient-reported, and resource use outcomes of non-medical prescribing for managing acute and chronic health conditions in primary and secondary care settings compared with medical prescribing (usual care)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched databases including CENTRAL, MEDLINE, Embase, and five other databases on 19 July 2016. We also searched the grey literature and handsearched bibliographies of relevant papers and publications."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs), cluster-RCTs, controlled before-and-after (CBA) studies (with at least two intervention and two control sites) and interrupted time series analysis (with at least three observations before and after the intervention) comparing: 1. non-medical prescribing versus medical prescribing in acute care; 2. non-medical prescribing versus medical prescribing in chronic care; 3. non-medical prescribing versus medical prescribing in secondary care; 4 non-medical prescribing versus medical prescribing in primary care; 5. comparisons between different non-medical prescriber groups; and 6. non-medical healthcare providers with formal prescribing training versus those without formal prescribing training."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Two review authors independently reviewed studies for inclusion, extracted data, and assessed study quality with discrepancies resolved by discussion. Two review authors independently assessed risk of bias for the included studies according to EPOC criteria. We undertook meta-analyses using the fixed-effect model where studies were examining the same treatment effect and to account for small sample sizes. We compared outcomes to a random-effects model where clinical or statistical heterogeneity existed."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 46 studies (37,337 participants); non-medical prescribing was undertaken by nurses in 26 studies and pharmacists in 20 studies. In 45 studies non-medical prescribing as a component of care was compared with usual care medical prescribing. A further study compared nurse prescribing supported by guidelines with usual nurse prescribing care. No studies were found with non-medical prescribing being undertaken by other health professionals. The education requirement for non-medical prescribing varied with country and location.\nA meta-analysis of surrogate markers of chronic disease (systolic blood pressure, glycated haemoglobin, and low-density lipoprotein) showed positive intervention group effects. There was a moderate-certainty of evidence for studies of blood pressure at 12 months (mean difference (MD) -5.31 mmHg, 95% confidence interval (CI) -6.46 to -4.16; 12 studies, 4229 participants) and low-density lipoprotein (MD -0.21, 95% CI -0.29 to -0.14; 7 studies, 1469 participants); we downgraded the certainty of evidence from high due to considerations of serious inconsistency (considerable heterogeneity), multifaceted interventions, and variable prescribing autonomy. A high-certainty of evidence existed for comparative studies of glycated haemoglobin management at 12 months (MD -0.62, 95% CI -0.85 to -0.38; 6 studies, 775 participants). While there appeared little difference in medication adherence across studies, a meta-analysis of continuous outcome data from four studies showed an effect favouring patient adherence in the non-medical prescribing group (MD 0.15, 95% CI 0.00 to 0.30; 4 studies, 700 participants). We downgraded the certainty of evidence for adherence to moderate due to the serious risk of performance bias. While little difference was seen in patient-related adverse events between treatment groups, we downgraded the certainty of evidence to low due to indirectness, as the range of adverse events may not be related to the intervention and selective reporting failed to adequately report adverse events in many studies.\nPatients were generally satisfied with non-medical prescriber care (14 studies, 7514 participants). We downgraded the certainty of evidence from high to moderate due to indirectness, in that satisfaction with the prescribing component of care was only addressed in one study, and there was variability of satisfaction measures with little use of validated tools. A meta-analysis of health-related quality of life scores (SF-12 and SF-36) found a difference favouring non-medical prescriber care for the physical component score (MD 1.17, 95% CI 0.16 to 2.17), and the mental component score (MD 0.58, 95% CI -0.40 to 1.55). However, the quality of life measurement may more appropriately reflect composite care rather than the prescribing component of care, and for this reason we downgraded the certainty of evidence to moderate due to indirectness of the measure of effect. A wide variety of resource use measures were reported across studies with little difference between groups for hospitalisations, emergency department visits, and outpatient visits. In the majority of studies reporting medication use, non-medical prescribers prescribed more drugs, intensified drug doses, and used a greater variety of drugs compared to usual care medical prescribers.\nThe risk of bias across studies was generally low for selection bias (random sequence generation), detection bias (blinding of outcome assessment), attrition bias (incomplete outcome data), and reporting bias (selective reporting). There was an unclear risk of selection bias (allocation concealment) and for other biases. A high risk of performance bias (blinding of participants and personnel) existed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings suggest that non-medical prescribers, practising with varying but high levels of prescribing autonomy, in a range of settings, were as effective as usual care medical prescribers. Non-medical prescribers can deliver comparable outcomes for systolic blood pressure, glycated haemoglobin, low-density lipoprotein, medication adherence, patient satisfaction, and health-related quality of life. It was difficult to determine the impact of non-medical prescribing compared to medical prescribing for adverse events and resource use outcomes due to the inconsistency and variability in reporting across studies. Future efforts should be directed towards more rigorous studies that can clearly identify the clinical, patient-reported, resource use, and economic outcomes of non-medical prescribing, in both high-income and low-income countries."
+    }
+  ],
+  "pls_title": "Prescribing roles for health professionals other than doctors",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane review was to find out if prescribing by health professionals other than doctors delivers comparable outcomes to prescribing by doctors. Cochrane researchers collected and analysed all relevant studies to answer this question and found 46 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "With appropriate training and support, nurses and pharmacists are able to prescribe medicines as part of managing a range of conditions to achieve comparable health management outcomes to doctors. The majority of studies focus on chronic disease management in higher-income counties where there is generally a moderate-certainty of evidence supporting similar outcomes for the markers of disease in high blood pressure, diabetes, and high cholesterol. Further high-quality studies are needed in poorer countries and to better quantify differences in prescribing outcomes for adverse events, and to determine health economic outcomes. Further studies could also focus more specifically on the prescribing component of care."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "A number of countries allow health professionals other than doctors to prescribe medicines. This shift in roles is thought to provide improved and timely access to medicines for consumers where there are shortages of doctors or the health system is facing pressures in coping with the burden of disease. In addition, this task shift has been supported by a number of governments as a way to more appropriately use the skills of health professionals, such as nurses and pharmacists, in the care of patients. We compared the outcomes of any healthcare workers who were prescribing with a high degree of autonomy with medical prescribers in the hospital or community setting in low-, middle- and high-income countries."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "This review found 45 studies where nurses and pharmacists with high levels of prescribing autonomy were compared with usual care medical prescribers. A further study compared nurse prescribing with guideline support with usual nurse prescribing care. No studies were found with other health professionals or lay prescribers. Four nurse prescribing studies were undertaken in the low- and middle-income settings of Colombia, South Africa, Uganda, and Thailand. The remainder of studies were undertaken in high-income Western countries. Forty-two studies were based in a community setting, two studies were located in hospitals, one study in the workplace, and one study in an aged care facility. Prescribing was but one part of many health-related interventions, particularly in the management of chronic disease.\nThe review found that the outcomes for non-medical prescribers were comparable to medical prescribers for: high blood pressure (moderate-certainty of evidence); diabetes control (high-certainty of evidence); high cholesterol (moderate-certainty of evidence); adverse events (low-certainty of evidence); patients adhering to their medication regimens (moderate-certainty of evidence); patient satisfaction with care (moderate-certainty of evidence); and health-related quality of life (moderate-certainty of evidence).\nPharmacists and nurses with varying levels of undergraduate, postgraduate, and specific on-the-job training related to the disease or condition were able to deliver comparable prescribing outcomes to doctors. Non-medical prescribers frequently had medical support available to facilitate a collaborative practice model."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to 19th July 2016."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013569.pub2",
+  "name": "Supervised maintenance programmes following pulmonary rehabilitation compared to usual care for chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pulmonary rehabilitation benefits patients with chronic obstructive pulmonary disease (COPD), but gains are not maintained over time. Maintenance pulmonary rehabilitation has been defined as ongoing supervised exercise at a lower frequency than the initial pulmonary rehabilitation programme. It is not yet known whether a maintenance programme can preserve the benefits of pulmonary rehabilitation over time. Studies of maintenance programmes following pulmonary rehabilitation are heterogeneous, especially regarding supervision frequency. Furthermore, new maintenance models (remote and home-based) are emerging."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether supervised pulmonary rehabilitation maintenance programmes improve health-related quality of life (HRQoL), exercise performance, and health care utilisation in COPD patients compared with usual care. Secondly, to examine in subgroup analyses the impact of supervision frequency and model (remote or in-person) during the supervised maintenance programme."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Trials Register, CENTRAL, MEDLINE, Embase, PEDro, and two additional trial registries platforms up to 31 March 2020, without restriction by language or type of publication. We screened the reference lists of all primary studies for additional references. We also hand-searched conference abstracts and grey literature through the Cochrane Airways Trials Register and CENTRAL."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomised trials comparing pulmonary rehabilitation maintenance for COPD with attention control or usual care. The primary outcomes were HRQoL, exercise capacity and hospitalisation; the secondary outcomes were exacerbation rate, mortality, direct costs of care, and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts, extracted data, and assessed the risk of bias. Results data that were similar enough to be pooled were meta-analysed using a random-effects model, and those that could not be pooled were reported in narrative form. Subgroup analyses were undertaken for frequency of supervision (programmes offered monthly or less frequently, versus more frequently) and those using remote supervision (e.g. telerehabilitation versus face-to-face supervision). We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 21 studies (39 reports) with 1799 COPD patients. Participants ranged in age from 52 years to 88 years. Disease severity ranged from 24% to 88% of the predicted forced expiratory volume in one second. Programme duration ranged from four weeks to 36 months. In-person supervision was provided in 12 studies, and remote supervision was provided in six studies (telephone or web platform). Four studies provided a combination of in-person and remote supervision. Most studies had a high risk of performance bias due to lack of blinding of participants, and high risk of detection, attrition, and reporting bias.\nLow- to moderate-certainty evidence showed that supervised maintenance programmes may improve health-related quality of life at six to 12 months following pulmonary rehabilitation compared to usual care (Chronic Respiratory Questionnaire total score mean difference (MD) 0.54 points, 95% confidence interval (CI) 0.04 to 1.03, 258 participants, four studies), with a mean difference that exceeded the minimal important difference of 0.5 points for this outcome. It is possible that supervised maintenance could improve six-minute walk distance, but this is uncertain (MD 26 metres (m), 95% CI -1.04 to 52.84, 639 participants, 10 studies). There was little to no difference between the maintenance programme and the usual care group in exacerbations or all-cause hospitalizations, or the chance of death (odds ratio (OR) for mortality 0.73, 95% CI 0.36 to 1.51, 755 participants, six studies). Insufficient data were available to understand the impact of the frequency of supervision, or of remote versus in-person supervision. No adverse events were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review suggests that supervised maintenance programmes for COPD patients after pulmonary rehabilitation are not associated with increased adverse events, may improve health-related quality of life, and could possibly improve exercise capacity at six to 12 months. Effects on exacerbations, hospitalisation and mortality are similar to those of usual care. However, the strength of evidence was limited because most included studies had a high risk of bias and small sample size. The optimal supervision frequency and models for supervised maintenance programmes are still unclear."
+    }
+  ],
+  "pls_title": "Is supervised maintenance after pulmonary rehabilitation effective compared to usual treatment in people with chronic obstructive pulmonary disease?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Pulmonary rehabilitation is helpful for people with chronic obstructive pulmonary disease (COPD). Pulmonary rehabilitation can give significant improvements in symptoms, quality of life, exercise tolerance, and reduces hospitalizations. This review considers whether maintenance rehabilitation programmes are helpful. Maintenance rehabilitation is supervised exercise training that is offered after a completed pulmonary rehabilitation programme. Typical maintenance rehabilitation programmes are supervised"
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 31 March 2020."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review included 21 studies involving 1799 people with COPD. Maintenance rehabilitation programmes were supervised at monthly or shorter intervals, but two studies had longer intervals between sessions. All the programmes were supervised, but some were supervised over the telephone, some were face-to-face, and some were a mixture of both. All maintenance programmes in this review gave people supervised exercise training. Some of the programmes also included education sessions. Most programmes lasted between six and 12 months."
+    },
+    {
+      "heading": "Key results",
+      "text": "At six to 12 months follow-up, compared with usual care, supervised maintenance programmes did appear to improve quality of life and physical function by a small amount. The studies did not show reduced hospitalizations, exacerbations, or mortality. There were no adverse events related to maintenance programmes, suggesting that maintenance programmes are safe."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Many studies showed a high risk of bias because participants knew whether they were in the intervention group or the control group. Some outcomes were based on a small number of studies, and patients, resulting in inconsistent and imprecise results. This means that these results may not apply to all supervised maintenance programme models of delivery."
+    }
+  ]
+}

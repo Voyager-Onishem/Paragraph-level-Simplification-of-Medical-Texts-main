@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005019.pub4",
+  "name": "HMG CoA reductase inhibitors (statins) for kidney transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with chronic kidney disease (CKD) have higher risks of cardiovascular disease compared to the general population. Specifically, cardiovascular deaths account most deaths in kidney transplant recipients. Statins are a potentially beneficial intervention for kidney transplant patients given their established benefits in patients at risk of cardiovascular disease in the general population. This is an update of a review first published in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "We aimed to evaluate the benefits (reductions in all-cause and cardiovascular mortality, major cardiovascular events, myocardial infarction and stroke, and progression of CKD to requiring dialysis) and harms (muscle or liver dysfunction, withdrawal, cancer) of statins compared to placebo, no treatment, standard care, or another statin in adults with CKD who have a functioning kidney transplant."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 29 February 2012 through contact with the Trials Search Co-ordinator using search terms relevant to this review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-RCTs that compared the effects of statins with placebo, no treatment, standard care, or statins on mortality, cardiovascular events, kidney function and toxicity in kidney transplant recipients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data and assessed risk of bias. Treatment effects were expressed as mean difference (MD) for continuous outcomes (lipids, glomerular filtration rate (GFR), proteinuria) and relative risk (RR) for dichotomous outcomes (major cardiovascular events, mortality, fatal or non-fatal myocardial infarction, fatal or non-fatal stroke, elevated muscle or liver enzymes, withdrawal due to adverse events, cancer, end-stage kidney disease (ESKD), acute allograft rejection) together with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 22 studies (3465 participants); 17 studies (3282 participants) compared statin with placebo or no treatment, and five studies (183 participants) compared two different statin regimens.\nFrom data generally derived from a single high-quality study, it was found that statins may reduce major cardiovascular events (1 study, 2102 participants: RR 0.84, CI 0.66 to 1.06), cardiovascular mortality (4 studies, 2322 participants: RR 0.68, CI 0.45 to 1.01), and fatal or non-fatal myocardial infarction (1 study, 2102 participants: RR 0.70, CI 0.48 to 1.01); although effect estimates lack precision and include the possibility of no effect.\nStatins had uncertain effects on all-cause mortality (6 studies, 2760 participants: RR 1.08, CI 0.63 to 1.83); fatal or non-fatal stroke (1 study, 2102 participants: RR 1.18, CI 0.85 to 1.63); creatine kinase elevation (3 studies, 2233 participants: RR 0.86, CI 0.39 to 1.89); liver enzyme elevation (4 studies, 608 participants: RR 0.62, CI 0.33 to 1.19); withdrawal due to adverse events (9 studies, 2810 participants: RR 0.89, CI 0.74 to 1.06); and cancer (1 study, 2094 participants: RR 0.94, CI 0.82 to 1.07).\nStatins significantly reduced serum total cholesterol (12 studies, 3070 participants: MD -42.43 mg/dL, CI -51.22 to -33.65); low-density lipoprotein cholesterol (11 studies, 3004 participants: MD -43.19 mg/dL, CI -52.59 to -33.78); serum triglycerides (11 studies, 3012 participants: MD -27.28 mg/dL, CI -34.29 to -20.27); and lowered high-density lipoprotein cholesterol (11 studies, 3005 participants: MD -5.69 mg/dL, CI -10.35 to -1.03).\nStatins had uncertain effects on kidney function: ESKD (6 studies, 2740 participants: RR 1.14, CI 0.94 to 1.37); proteinuria (2 studies, 136 participants: MD -0.04 g/24 h, CI -0.17 to 0.25); acute allograft rejection (4 studies, 582 participants: RR 0.88, CI 0.61 to 1.28); and GFR (1 study, 62 participants: MD -1.00 mL/min, CI -9.96 to 7.96).\nDue to heterogeneity in comparisons, data directly comparing differing statin regimens could not be meta-analysed. Evidence for statins in people who have had a kidney transplant were sparse and lower quality due to imprecise effect estimates and provided limited systematic evaluation of treatment harm."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Statins may reduce cardiovascular events in kidney transplant recipients, although treatment effects are imprecise. Statin treatment has uncertain effects on overall mortality, stroke, kidney function, and toxicity outcomes in kidney transplant recipients. Additional studies would improve our confidence in the treatment benefits and harms of statins on cardiovascular events in this clinical setting."
+    }
+  ],
+  "pls_title": "HMG CoA reductase inhibitors (statins) for kidney transplant recipients",
+  "pls_type": "long",
+  "pls": "Kidney transplant patients experience heart disease more often than the general population. Statins have been shown to decrease cholesterol, heart attacks, strokes and deaths for the general population. The aim of this review was to find out whether statins prevent death and complications from heart disease in people who have had a kidney transplant. We included 17 studies in 3282 adults with a functioning kidney transplant which compared statin therapy to a placebo or standard treatment. Based largely on information from a single, large and well-conducted study, statins may reduce complications from heart disease although information from the available research is imprecise. The effects of statin treatment on death overall, stroke, kidney function and side-effects are uncertain in people with a kidney transplant. Large additional studies of statin therapy may improve our confidence that statin treatment can safely prevent serious complications from heart disease for people who have a kidney transplant."
+}

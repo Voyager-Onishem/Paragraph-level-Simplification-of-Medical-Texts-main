@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD010350.pub2",
+  "name": "Dietary interventions for mineral and bone disorder in people with chronic kidney disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic kidney disease-mineral and bone disorder (CKD-MBD) is a systemic dysfunction of mineral and bone metabolism in people with CKD. Recent research shows that phosphate retention plays a significant role in the development of CKD-MBD. Compared with drug therapies, dietary interventions may be simple, inexpensive and feasible for phosphate retention. However, there is little evidence to support these interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our objective was to assess the benefits and harms of any dietary intervention for preventing and treating CKD-MBD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Kidney and Transplant's Specialised Register to 27 August 2015 through contact with the Trials' Search Co-ordinator using search terms relevant to this review. We also searched the Chinese Biomedicine Database (CBM) (1976 to August 2015), China Knowledge Resource Integrated Database (CNKI) (1979 to August 2015), and VIP (1989 to August 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and quasi-RCTs looking at dietary interventions for prevention or treatment of CKD-MBD were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed the eligibility, methodological quality, and extracted data. Continuous outcomes (serum calcium level, serum phosphorus level, calcium × phosphate product, parathyroid hormone (PTH), fibroblast growth factor 23 (FGF-23) and alkaline phosphatase) were expressed as mean difference (MD) with 95% confidence interval (CI). Dichotomous outcomes (mortality) were expressed as risk ratio (RR) with 95% CI. We used a random-effects model to meta-analyse studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine studies were included in this review which analysed 634 participants. Study duration ranged from 4 to 24 weeks. The interventions included calcium-enriched bread, low phosphorus intake, low protein intake, very low protein intake, post haemodialysis supplements and hypolipaemic diet. Only one study reported death; none of the included studies reported cardiovascular events or fractures. There was insufficient reporting of design and methodological aspects among the included studies to enable robust assessment of risk of bias.\nThere was limited and low-quality evidence to indicate that calcium-enriched bread increased serum calcium (1 study, 53 participants: MD -0.16 mmol/L, 95% CI -0.51 to -0.31), decreased serum phosphorus (53 participants: MD -0.41 mmol/L, 95% CI -0.51 to -0.31) and decreased the calcium × phosphate product (53 participants: MD -0.62 mmol²/L², 95% CI -0.77 to -0.47).\nVery low protein intake was not superior to conventional low protein intake in terms of effect on serum phosphorus (2 studies, 41 participants: MD -0.12 mmol/L, 95% CI -0.50 to 0.25), serum calcium (MD 0.00 mmol/L, 95% CI -0.17 to 0.17), or alkaline phosphatase (MD -22.00 U/L, 95% CI -78.25 to 34.25). PTH was significantly lower in the very low protein intake group (2 studies, 41 participants: MD -69.64 pmol/L, 95% CI -139.83 to 0.54).\nOne study reported no significant difference in the number of deaths between low phosphorus intake and normal diet (279 participants: RR 0.18, 95% CI 0.01 to 3.82). Low phosphorus intake decreased serum phosphorus (2 studies, 359 participants: MD -0.18 mmol/L, 95% CI -0.29 to -0.07; I2 = 0%).\nOne study reported post-haemodialysis supplements did not increase serum phosphorus compared to normal diet (40 participants: MD 0.12 mmol/L, 95% CI -0.24 to 0.49).\nOne study reported low phosphorus intake plus lanthanum carbonate significantly decreased FGF-23 (19 participants: MD -333.80 RU/mL, 95% CI -526.60 to -141.00), but did not decrease serum phosphorus (19 participants: MD -0.10 mg/dL, 95% CI -0.38 to 0.58) or PTH (19 participants: MD 31.60 pg/mL, 95% CI -29.82 to 93.02)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was limited low quality evidence to indicate that dietary interventions (calcium-enriched bread or low phosphorus/protein intake) may positively affect CKD-MBD by increasing serum calcium, decreasing serum phosphorus, the calcium × phosphate product and FGF-23. Large and well-designed RCTs are needed to evaluate the effects of various interventions for people with CKD-MBD."
+    }
+  ],
+  "pls_title": "Are changes to diet effective to manage mineral and bone abnormalities in people with chronic kidney disease?",
+  "pls_type": "long",
+  "pls": "Problems with mineral and bone metabolism are very common in people with chronic kidney disease (CKD) which can lead to broken bones (fracture), heart and blood circulation (cardiovascular) problems, and sometimes death. Many pharmaceutical treatments used to treat mineral-bone disease can have side effects and cause problems for patients. We wanted to find out if specific diets (such as low protein or phosphorus intake) were better or worse than normal diets or pharmaceutical treatments.\nWe searched the literature to August 2015 and included nine studies that analysed 634 participants; durations of studies ranged from 4 and 24 weeks. The interventions included calcium-enriched bread, low phosphorus intake, low protein intake, very low protein intake, post-haemodialysis supplements and low lipid diet. Only one study reported death; none of the included studies reported cardiovascular events or fractures. One study reported adverse events. There was insufficient reporting of design and methodological aspects among the included studies to enable robust assessment of risk of bias.\nWe found scant evidence to suggest that restricting protein or phosphorus in the diet may have positive effects for people with CKD. Evidence from one small, low quality study suggested that calcium-enriched bread may help to increase calcium and decrease phosphorus and the calcium × phosphate product.\nEvidence was assessed as low quality, and was insufficient to inform clinical decision-making about the value of dietary modification for people with CKD-MBD. None of the included studies reported our primary outcomes of cardiovascular events or fracture; only one study reported adverse events."
+}

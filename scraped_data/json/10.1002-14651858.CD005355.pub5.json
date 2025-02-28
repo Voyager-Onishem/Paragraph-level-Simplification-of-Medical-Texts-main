@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005355.pub5",
+  "name": "Interventions to reduce haemorrhage during myomectomy for fibroids",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Benign smooth muscle tumours of the uterus, known as fibroids or myomas, are often symptomless. However, about one-third of women with fibroids will present with symptoms that are severe enough to warrant treatment. The standard treatment of symptomatic fibroids is hysterectomy (that is surgical removal of the uterus) for women who have completed childbearing, and myomectomy for women who desire future childbearing or simply want to preserve their uterus. Myomectomy, the surgical removal of myomas, can be associated with life-threatening bleeding. Excessive bleeding can necessitate emergency blood transfusion. Knowledge of the effectiveness of the interventions to reduce bleeding during myomectomy is essential to enable evidence-based clinical decisions. This is an update of the review published in The Cochrane Library (2011, Issue 11)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness, safety, tolerability and costs of interventions to reduce blood loss during myomectomy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In June 2014, we conducted electronic searches in the Cochrane Menstrual Disorders and Subfertility Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL and PsycINFO, and trial registers for ongoing and registered trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials (RCTs) that compared potential interventions to reduce blood loss during myomectomy to placebo or no treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The two authors independently selected RCTs for inclusion, assessed the risk of bias and extracted data from the included RCTs. The primary review outcomes were blood loss and need for blood transfusion. We expressed study results as mean differences (MD) for continuous data and odds ratios for dichotomous data, with 95% confidence intervals (CI). We assessed the quality of evidence using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eighteen RCTs with 1250 participants met our inclusion criteria. The studies were conducted in hospital settings in low, middle and high income countries.\nBlood loss\nWe found significant reductions in blood loss with the following interventions:\nvaginal misoprostol (2 RCTs, 89 women: MD -97.88 ml, 95% CI -125.52 to -70.24; I2 = 43%; moderate-quality evidence); intramyometrial vasopressin (3 RCTs, 128 women: MD -245.87 ml, 95% CI -434.58 to -57.16; I2 = 98%; moderate-quality evidence); intramyometrial bupivacaine plus epinephrine (1 RCT, 60 women: MD -68.60 ml, 95% CI -93.69 to -43.51; low-quality evidence); intravenous tranexamic acid (1 RCT, 100 women: MD -243 ml, 95% CI -460.02 to -25.98; low-quality evidence); gelatin-thrombin matrix (1 RCT, 50 women: MD -545.00 ml, 95% CI -593.26 to -496.74; low-quality evidence); intravenous ascorbic acid (1 RCT, 102 women: MD -411.46 ml, 95% CI -502.58 to -320.34; low-quality evidence); vaginal dinoprostone (1 RCT, 108 women: MD -131.60 ml, 95% CI -253.42 to -9.78; low-quality evidence); loop ligation of the myoma pseudocapsule (1 RCT, 70 women: MD -305.01 ml, 95% CI -354.83 to -255.19; low-quality evidence); a fibrin sealant patch (1 RCT, 70 women: MD -26.50 ml, 95% CI -44.47 to -8.53; low-quality evidence), a Foley catheter tied around the cervix (1 RCT, 93 women: MD -240.70 ml, 95% CI -359.61 to -121.79; low-quality evidence), and a polyglactin suture round both cervix and infundibulopelvic ligament (1 RCT, 28 women: MD -1870.0 ml, 95% CI -2547.16 to 1192.84; low-quality evidence). There was no good evidence of an effect on blood loss with oxytocin, morcellation or clipping of the uterine artery.\nNeed for blood transfusion\nWe found significant reductions in the need for blood transfusion with vasopressin (2 RCTs, 90 women: OR 0.15, 95% CI 0.03 to 0.74; I2 = 0%; moderate-quality evidence); tourniquet tied round the cervix (1 RCT, 98 women: OR 0.22, 95% CI 0.09 to 0.55; low-quality evidence); tourniquet tied round both cervix and infundibulopelvic ligament (1 RCT, 28 women: OR 0.02, 95% CI 0.00 to 0.23; low-quality evidence); gelatin-thrombin matrix (1 RCT, 100 women: OR 0.01, 95% CI 0.00 to 0.10; low-quality evidence) and dinoprostone (1 RCT, 108 women: OR 0.17, 95% CI 0.04 to 0.81; low-quality evidence), but no evidence of effect on the need for blood transfusion with misoprostol, oxytocin, tranexamic acid, ascorbic acid, loop ligation of the myoma pseudocapsule and a fibrin sealant patch.\nThere were insufficient data on the adverse effects and costs of the different interventions."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "At present there is moderate-quality evidence that misoprostol or vasopressin may reduce bleeding during myomectomy, and low-quality evidence that bupivacaine plus epinephrine, tranexamic acid, gelatin-thrombin matrix, ascorbic acid, dinoprostone, loop ligation, a fibrin sealant patch, a peri-cervical tourniquet or a tourniquet tied round both cervix and infundibulopelvic ligament may reduce bleeding during myomectomy. There is no evidence that oxytocin, morcellation and temporary clipping of the uterine artery reduce blood loss. Further well designed studies are required to establish the effectiveness, safety and costs of different interventions for reducing blood loss during myomectomy."
+    }
+  ],
+  "pls_title": "Interventions to reduce haemorrhage during myomectomy for treating fibroids",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Some women have non-cancerous growths of the uterus, called fibroids. In a third of cases the fibroids produce symptoms, such as vaginal bleeding, that warrant treatment. The surgical removal of the fibroids, called myomectomy, is one of the treatment options for fibroids. It can be accomplished by either laparotomy (through an incision into the abdomen) or laparoscopy (keyhole surgery). The procedure is associated with heavy bleeding. Many interventions have been used by doctors to reduce bleeding during an operation for removing fibroids but it is unclear whether or not the interventions are effective."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to June 2014. The review included 18 studies with a total of 1250 women who had myomectomy for uterine fibroids. All studies compared an intervention to reduce bleeding during myomectomy with either a placebo or no such treatment."
+    },
+    {
+      "heading": "Key results",
+      "text": "The data available suggest that vaginal insertion of misoprostol and infiltration of vasopressin into the uterine muscle are effective in reducing bleeding during myomectomy. Limited data available also suggest that chemical dissection (such as with mesna), vaginal insertion of dinoprostone, a gelatin-thrombin matrix, tranexamic acid, infusion of vitamin C (ascorbic acid) during surgery, infiltration of a mixture of bupivacaine and epinephrine into the uterine muscles, the use of fibrin sealant patch (a surgical patch that improves blood clotting) or a tourniquet around the cervix or around both the cervix and the infundibulopelvic ligamentmay be effective in reducing bleeding during myomectomy. We found limited information on the harms (adverse effects) of the different interventions."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is moderate-quality evidence that misoprostol reduces blood loss by between 70.24 ml and 125.52 ml; with a laparotomy vasopressin reduces blood loss by between 392.51 and 507.49 ml during myomectomy, and by between 121.73 ml and 172.17 ml during laparoscopic myomectomy. There is low-quality evidence for the rest of the interventions (chemical dissection, dinoprostone, gelatin-thrombin matrix, tranexamic acid, vitamin C, mixture of bupivacaine and epinephrine, a fibrin sealant patch and the two types of tourniquet)."
+    }
+  ]
+}

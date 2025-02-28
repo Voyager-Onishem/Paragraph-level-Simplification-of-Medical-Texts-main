@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012494.pub2",
+  "name": "Cholinesterase inhibitors for the treatment of delirium in non‐ICU settings",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Delirium is a common clinical syndrome defined as alterations in attention with an additional disturbance in cognition or perception, which develop over a short period of time and tend to fluctuate during the course of the episode. Delirium is commonly treated in hospitals or community settings and is often associated with multiple adverse outcomes such as increased cost, morbidity, and even mortality. The first-line intervention involves a multicomponent non-pharmacological approach that includes ensuring effective communication and reorientation in addition to providing reassurance or a suitable care environment. There are currently no drugs approved specifically for the treatment of delirium. Clinically, however, various medications are employed to provide symptomatic relief, such as antipsychotic medications and cholinesterase inhibitors, among others."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of cholinesterase inhibitors for treating people with established delirium in a non-intensive care unit (ICU) setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS, which is the Cochrane Dementia and Cognitive Improvement Group's Specialised Register, on 26 October 2017. We also cross-checked the reference lists of included studies to identify any potentially eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials, published or unpublished, reported in English or Chinese, which compared cholinesterase inhibitors to placebo or other drugs intended to treat people with established delirium in a non-ICU setting."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures expected by Cochrane. The primary outcomes were duration of delirium, severity of delirium, and adverse events. The secondary outcomes were use of rescue medications, persistent cognitive impairment, length of hospitalisation, institutionalisation, mortality, cost of intervention, leaving the study early, and quality of life. For dichotomous outcomes, we calculated the risk ratio (RR) with 95% confidence intervals (CIs); for continuous outcomes we calculated the mean difference (MD) with 95% CIs. We assessed the quality of evidence using GRADE to generate a 'Summary of findings' table."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one study involving 15 participants from the UK. The included participants were diagnosed with delirium based on the Confusion Assessment Method (CAM) criteria. Eight males and seven females were included, with a mean age of 82.5 years. Seven of the 15 participants had comorbid dementia at baseline. The risk of bias was low in all domains.\nThe study compared rivastigmine with placebo. We did not find any clear differences between the two groups in terms of duration of delirium (MD -3.6, 95% CI -15.6 to 8.4), adverse events (nausea, RR 0.30, 95% CI 0.01 to 6.29), use of rescue medications (RR 0.13, 95% CI 0.01 to 2.1), mortality (RR 0.10, 95% CI 0.01 to 1.56), and leaving the study early (RR 0.88, 95% CI 0.07 to 11.54). Evidence was not available regarding the severity of delirium, persistent cognitive impairment, length of hospitalisation, cost of intervention, or other predefined secondary outcomes.\nThe quality of evidence is low due to the very small sample size."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to support or refute the use of cholinesterase inhibitors for the treatment of delirium in non-ICU settings. No clear benefits or harms associated with cholinesterase inhibitors were observed when compared with placebo due to the lack of data. More trials are required."
+    }
+  ],
+  "pls_title": "Cholinesterase inhibitors for people with delirium, not including those in intensive care units",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "During a period of illness, people can develop symptoms of confusion and altered consciousness, which is known as delirium. Compared to patients with no delirium, patients with delirium spend a longer time in hospital and are less likely to survive their illness. Treatment of delirium should focus on good care of the underlying illness and strategies such as reorientation of the patient. However, medication-based treatments are still often used. Medications used for treating the symptoms of dementia (cholinesterase inhibitors) may have a role in treating delirium."
+    },
+    {
+      "heading": "Review question",
+      "text": "We wished to find out if treatment with a cholinesterase inhibitors reduces the severity or duration of delirium. We were also interested in side effects from cholinesterase inhibitors. Delirium is often seen in severe illnesses that require high levels of medical and nursing care, for example in the intensive care unit. In this review we focused on studies of patients who were not in a high-level care setting."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found one trial from the UK, which included 15 participants with delirium. The average age of the participants was 82.5 years; eight participants were male and seven were female. Seven participants also had a history of dementia. This trial compared rivastigmine (a type of cholinesterase inhibitor used in the treatment of dementia) with an inactive treatment (placebo)."
+    },
+    {
+      "heading": "Key results",
+      "text": "The trial did not show any difference in effect between those participants given rivastigmine and those given placebo. The study was conducted and reported appropriately, but the small number of participants limits any conclusions that could be made about rivastigmine as a treatment for delirium."
+    }
+  ]
+}

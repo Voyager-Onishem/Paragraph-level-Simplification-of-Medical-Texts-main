@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015477",
+  "name": "Efficacy and safety of COVID‐19 vaccines",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Different forms of vaccines have been developed to prevent the SARS-CoV-2 virus and subsequent COVID-19 disease. Several are in widespread use globally."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of COVID-19 vaccines (as a full primary vaccination series or a booster dose) against SARS-CoV-2."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register and the COVID-19 L·OVE platform (last search date 5 November 2021). We also searched the WHO International Clinical Trials Registry Platform, regulatory agency websites, and Retraction Watch."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing COVID-19 vaccines to placebo, no vaccine, other active vaccines, or other vaccine schedules."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. We used GRADE to assess the certainty of evidence for all except immunogenicity outcomes.\nWe synthesized data for each vaccine separately and presented summary effect estimates with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included and analyzed 41 RCTs assessing 12 different vaccines, including homologous and heterologous vaccine schedules and the effect of booster doses. Thirty-two RCTs were multicentre and five were multinational. The sample sizes of RCTs were 60 to 44,325 participants. Participants were aged: 18 years or older in 36 RCTs; 12 years or older in one RCT; 12 to 17 years in two RCTs; and three to 17 years in two RCTs. Twenty-nine RCTs provided results for individuals aged over 60 years, and three RCTs included immunocompromized patients. No trials included pregnant women. Sixteen RCTs had two-month follow-up or less, 20 RCTs had two to six months, and five RCTs had greater than six to 12 months or less. Eighteen reports were based on preplanned interim analyses.\nOverall risk of bias was low for all outcomes in eight RCTs, while 33 had concerns for at least one outcome.\nWe identified 343 registered RCTs with results not yet available.\nThis abstract reports results for the critical outcomes of confirmed symptomatic COVID-19, severe and critical COVID-19, and serious adverse events only for the 10 WHO-approved vaccines. For remaining outcomes and vaccines, see main text. The evidence for mortality was generally sparse and of low or very low certainty for all WHO-approved vaccines, except AD26.COV2.S (Janssen), which probably reduces the risk of all-cause mortality (risk ratio (RR) 0.25, 95% CI 0.09 to 0.67; 1 RCT, 43,783 participants; high-certainty evidence).\nConfirmed symptomatic COVID-19\nHigh-certainty evidence found that BNT162b2 (BioNtech/Fosun Pharma/Pfizer), mRNA-1273 (ModernaTx), ChAdOx1 (Oxford/AstraZeneca), Ad26.COV2.S, BBIBP-CorV (Sinopharm-Beijing), and BBV152 (Bharat Biotect) reduce the incidence of symptomatic COVID-19 compared to placebo (vaccine efficacy (VE): BNT162b2: 97.84%, 95% CI 44.25% to 99.92%; 2 RCTs, 44,077 participants; mRNA-1273: 93.20%, 95% CI 91.06% to 94.83%; 2 RCTs, 31,632 participants; ChAdOx1: 70.23%, 95% CI 62.10% to 76.62%; 2 RCTs, 43,390 participants; Ad26.COV2.S: 66.90%, 95% CI 59.10% to 73.40%; 1 RCT, 39,058 participants; BBIBP-CorV: 78.10%, 95% CI 64.80% to 86.30%; 1 RCT, 25,463 participants; BBV152: 77.80%, 95% CI 65.20% to 86.40%; 1 RCT, 16,973 participants).\nModerate-certainty evidence found that NVX-CoV2373 (Novavax) probably reduces the incidence of symptomatic COVID-19 compared to placebo (VE 82.91%, 95% CI 50.49% to 94.10%; 3 RCTs, 42,175 participants).\nThere is low-certainty evidence for CoronaVac (Sinovac) for this outcome (VE 69.81%, 95% CI 12.27% to 89.61%; 2 RCTs, 19,852 participants).\nSevere or critical COVID-19\nHigh-certainty evidence found that BNT162b2, mRNA-1273, Ad26.COV2.S, and BBV152 result in a large reduction in incidence of severe or critical disease due to COVID-19 compared to placebo (VE: BNT162b2: 95.70%, 95% CI 73.90% to 99.90%; 1 RCT, 46,077 participants; mRNA-1273: 98.20%, 95% CI 92.80% to 99.60%; 1 RCT, 28,451 participants; AD26.COV2.S: 76.30%, 95% CI 57.90% to 87.50%; 1 RCT, 39,058 participants; BBV152: 93.40%, 95% CI 57.10% to 99.80%; 1 RCT, 16,976 participants).\nModerate-certainty evidence found that NVX-CoV2373 probably reduces the incidence of severe or critical COVID-19 (VE 100.00%, 95% CI 86.99% to 100.00%; 1 RCT, 25,452 participants).\nTwo trials reported high efficacy of CoronaVac for severe or critical disease with wide CIs, but these results could not be pooled.\nSerious adverse events (SAEs)\nmRNA-1273, ChAdOx1 (Oxford-AstraZeneca)/SII-ChAdOx1 (Serum Institute of India), Ad26.COV2.S, and BBV152 probably result in little or no difference in SAEs compared to placebo (RR: mRNA-1273: 0.92, 95% CI 0.78 to 1.08; 2 RCTs, 34,072 participants; ChAdOx1/SII-ChAdOx1: 0.88, 95% CI 0.72 to 1.07; 7 RCTs, 58,182 participants; Ad26.COV2.S: 0.92, 95% CI 0.69 to 1.22; 1 RCT, 43,783 participants); BBV152: 0.65, 95% CI 0.43 to 0.97; 1 RCT, 25,928 participants). In each of these, the likely absolute difference in effects was fewer than 5/1000 participants.\nEvidence for SAEs is uncertain for BNT162b2, CoronaVac, BBIBP-CorV, and NVX-CoV2373 compared to placebo (RR: BNT162b2: 1.30, 95% CI 0.55 to 3.07; 2 RCTs, 46,107 participants; CoronaVac: 0.97, 95% CI 0.62 to 1.51; 4 RCTs, 23,139 participants; BBIBP-CorV: 0.76, 95% CI 0.54 to 1.06; 1 RCT, 26,924 participants; NVX-CoV2373: 0.92, 95% CI 0.74 to 1.14; 4 RCTs, 38,802 participants).\nFor the evaluation of heterologous schedules, booster doses, and efficacy against variants of concern, see main text of review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared to placebo, most vaccines reduce, or likely reduce, the proportion of participants with confirmed symptomatic COVID-19, and for some, there is high-certainty evidence that they reduce severe or critical disease. There is probably little or no difference between most vaccines and placebo for serious adverse events. Over 300 registered RCTs are evaluating the efficacy of COVID-19 vaccines, and this review is updated regularly on the COVID-NMA platform (covid-nma.com).\nImplications for practice\nDue to the trial exclusions, these results cannot be generalized to pregnant women, individuals with a history of SARS-CoV-2 infection, or immunocompromized people. Most trials had a short follow-up and were conducted before the emergence of variants of concern.\nImplications for research\nFuture research should evaluate the long-term effect of vaccines, compare different vaccines and vaccine schedules, assess vaccine efficacy and safety in specific populations, and include outcomes such as preventing long COVID-19. Ongoing evaluation of vaccine efficacy and effectiveness against emerging variants of concern is also vital."
+    }
+  ],
+  "pls_title": "What are the benefits and risks of vaccines for preventing COVID-19?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "– Most vaccines reduce, or probably reduce, the number of people who get COVID-19 disease and severe COVID-19 disease.\n– Many vaccines likely increase number of people experiencing events such as fever or headache compared to placebo (sham vaccine that contains no medicine but looks identical to the vaccine being tested). This is expected because these events are mainly due to the body's response to the vaccine; they are usually mild and short-term.\n– Many vaccines have little or no difference in the incidence of serious adverse events compared to placebo.\n– There is insufficient evidence to determine whether there was a difference between the vaccine and placebo in terms of death because the numbers of deaths were low in the trials.\n– Most trials assessed vaccine efficacy over a short time, and did not evaluate efficacy to the COVID variants of concern."
+    },
+    {
+      "heading": "What is SARS-CoV-2 and COVID-19?",
+      "text": "SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) is the virus that causes COVID-19 disease. Not everyone infected with SARS-CoV-2 will develop symptoms of COVID-19. Symptoms can be mild (e.g. fever and headaches) to life-threatening (e.g. difficulty breathing), or death."
+    },
+    {
+      "heading": "How do vaccines prevent COVID-19?",
+      "text": "While vaccines work slightly differently, they all prepare the body's immune system to prevent people from getting infected with SARS-CoV-2 or, if they do get infected, to prevent severe disease."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out how well each vaccine works in reducing SARS-CoV-2 infection, COVID-19 disease with symptoms, severe COVID-19 disease, and total number of deaths (including any death, not only those related to COVID-19).\nWe wanted to find out about serious adverse events that might require hospitalization, be life-threatening, or both; systemic reactogenicity events (immediate short-term reactions to vaccines mainly due to immunological responses; e.g. fever, headache, body aches, fatigue); and any adverse events (which include non-serious adverse events)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that examined any COVID-19 vaccine compared to placebo, no vaccine, or another COVID-19 vaccine.\nWe selected only randomized trials (a study design that provides the most robust evidence because they evaluate interventions under ideal conditions among participants assigned by chance to one of two or more groups). We compared and summarized the results of the studies, and rated our confidence in the evidence based on factors such as how the study was conducted."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 41 worldwide studies involving 433,838 people assessing 12 different vaccines. Thirty-five studies included only healthy people who had never had COVID-19. Thirty-six studies included only adults, two only adolescents, two children and adolescents, and one included adolescents and adults. Three studied people with weakened immune systems, and none studied pregnant women.\nMost cases assessed results less than six months after the primary vaccination. Most received co-funding from academic institutions and pharmaceutical companies. Most studies compared a COVID-19 vaccine with placebo. Five evaluated the addition of a 'mix and match' booster dose."
+    },
+    {
+      "heading": "Main results",
+      "text": "We report below results for three main outcomes and for 10 World Health Organization (WHO)-approved vaccines (for the remaining outcomes and vaccines, see main text). There is insufficient evidence regarding deaths between vaccines and placebo (mainly because the number of deaths was low), except for the Janssen vaccine, which probably reduces the risk of all-cause deaths.\nPeople with symptoms\nThe Pfizer, Moderna, AstraZeneca, Sinopharm-Beijing, and Bharat vaccines produce a large reduction in the number of people with symptomatic COVID-19.\nThe Janssen vaccine reduces the number of people with symptomatic COVID-19.\nThe Novavax vaccine probably has a large reduction in the number of people with symptomatic COVID-19.\nThere is insufficient evidence to determine whether CoronaVac vaccine affects the number of people with symptomatic COVID-19 because results differed between the two studies (one involved only healthcare workers with a higher risk of exposure).\nSevere disease\nThe Pfizer, Moderna, Janssen, and Bharat vaccines produce a large reduction in the number of people with severe disease.\nThere is insufficient evidence about CoronaVac vaccine on severe disease because results differed between the two studies (one involved only healthcare workers with a higher risk of exposure).\nSerious adverse events\nFor the Pfizer, CoronaVac, Sinopharm-Beijing, and Novavax vaccines, there is insufficient evidence to determine whether there was a difference between the vaccine and placebo mainly because the number of serious adverse events was low.\nModerna, AstraZeneca, Janssen, and Bharat vaccines probably result in no or little difference in the number of serious adverse events."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Most studies assessed the vaccine for a short time after injection, and it is unclear if and how vaccine protection wanes over time. Due to the exclusion criteria of COVID-19 vaccine trials, results cannot be generalized to pregnant women, people with a history of SARS-CoV-2 infection, or people with weakened immune systems. More research is needed comparing vaccines and vaccine schedules, and effectiveness and safety in specific populations and outcomes (e.g. preventing long COVID-19). Further, most studies were conducted before the emergence of variants of concerns."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to November 2021. This is a living systematic review. Our results are available and updated bi-weekly on the COVID-NMA platform at covid-nma.com."
+    }
+  ]
+}

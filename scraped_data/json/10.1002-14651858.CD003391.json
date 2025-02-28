@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003391",
+  "name": "Antidepressants versus placebo for people with bulimia nervosa",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bulimia Nervosa (BN) represents an important public health problem and is related to serious morbidity and even mortality. This review attempted to systematically evaluate the use of antidepressant medications compared with placebo for the treatment of bulimia nervosa."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of this review was to determine whether using antidepressant medications was clinically effective for the treatment of bulimia nervosa.\nThe secondary objectives were: \n(i) to examine whether there was a differential effect for the various classes/types of antidepressants with regard to effectiveness and tolerability \n(ii) to test the hypothesis that the effect of antidepressants on bulimic symptoms was independent of its effect on depressive symptoms"
+    },
+    {
+      "heading": "Search methods",
+      "text": "(1) electronic searches of MEDLINE (1966 to December 2002), EMBASE (1980-December 2002) , PsycINFO (to December 2002), LILACS & SCISEARCH (to 2002) \n(2) the Cochrane Register of Controlled Trials and the Cochrane Depression, Anxiety and Neurosis Group Register - ongoing \n(3) inspection of the references of all identified trials \n(4) contact with the pharmaceutical companies and the principal investigator of included trials \n(5) inspection of the International Journal of Eating Disorders - ongoing"
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Inclusion criteria: every randomised, placebo-controlled trial in which antidepressant medications were compared to placebo to reduce the symptoms of bulimia nervosa in patients of any age or gender. \nQuality criteria: reports were considered adequate if they were classified as A or B according to the Cochrane Manual. The Jadad scale, with a cut off of 2 points, was applied to check the validity of the above referred criterion but was not used as an inclusion criterion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two reviewers for each included trial. Dichotomous data were evaluated by the relative risk with 95% confidence intervals (CI) around this measure, based on the random effects model; continuous data were evaluated by the standardised mean difference with the 95% CI. NNT was calculated using the inverse of the absolute risk reduction."
+    },
+    {
+      "heading": "Main results",
+      "text": "Currently the review includes 19 trials comparing antidepressants with placebo: 6 trials with TCAs (imipramine, desipramine and amitriptyline), 5 with SSRIs (fluoxetine), 5 with MAOIs (phenelzine, isocarboxazid, moclobemide and brofaromine) and 3 with other classes of drugs (mianserin, trazodone and bupropion). Similar results were obtained in terms of efficacy for these different groups of drugs. The pooled RR for remission of binge episodes was 0.87 (95% CI 0.81-0.93; p<0,001) favouring drugs. The NNT for a mean treatment duration of 8 weeks, taking the non-remission rate in the placebo controls of 92% as a measure of the baseline risk was 9 (95% CI 6 - 16). The RR for clinical improvement, defined as a reduction of 50% or more in binge episodes was 0.63 (95% CI 0.55-0.74) and the NNT for a mean treatment duration of 9 weeks was 4 (95% CI 3 - 6), with a non-improvement rate of 67% in the placebo group. Patients treated with antidepressants were more likely to interrupt prematurely the treatment due to adverse events. Patients treated with TCAs dropped out due to any cause more frequently that patients treated with placebo. The opposite was found for those treated with fluoxetine, suggesting it may be a more acceptable treatment. Independence between antidepressant and anti-bulimic effects could not be evaluated due to incomplete published data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of a single antidepressant agent was clinically effective for the treatment of bulimia nervosa when compared to placebo, with an overall greater remission rate but a higher rate of dropouts. No differential effect regarding efficacy and tolerability among the various classes of antidepressants could be demonstrated."
+    }
+  ],
+  "pls_title": "Antidepressants compared with placebo for bulimia nervosa",
+  "pls_type": "long",
+  "pls": "Individual antidepressants are effective for the treatment of bulimia nervosa when compared to placebo treatment, with an overall greater remission rate but a higher rate of dropouts."
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009768.pub2",
+  "name": "Mesenchymal stromal cells as treatment or prophylaxis for acute or chronic graft‐versus‐host disease in haematopoietic stem cell transplant (HSCT) recipients with a haematological condition ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Recipients of allogeneic haematopoietic stem cell transplants (HSCT) can develop acute or chronic, or both forms of graft-versus-host disease (a/cGvHD), whereby immune cells of the donor attack host tissues. Steroids are the primary treatment, but patients with severe, refractory disease have limited options and a poor prognosis. Mesenchymal stromal cells (MSCs) exhibit immunosuppressive properties and are being tested in clinical trials for their safety and efficacy in treating many immune-mediated disorders. GvHD is one of the first areas in which MSCs were clinically applied, and it is important that the accumulating evidence is systematically reviewed to assess whether their use is favoured."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the evidence for the safety and efficacy of MSCs for treating immune-mediated inflammation post-transplantation of haematopoietic stem cells."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library 2018, Issue 12), MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1937), Web of Science: Conference Proceedings Citation Index-Science (CPCI-S) (from 1990) and ongoing trial databases to 6 December 2018. No constraints were placed on language or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs of participants with a haematological condition who have undergone an HSCT as treatment for their condition and were randomised to MSCs (intervention arm) or no MSCs (comparator arm), to prevent or treat GvHD. We also included RCTs which compared different doses of MSCs or MSCs of different sources (e.g. bone marrow versus cord). We included MSCs co-transplanted with haematopoietic stem cells as well as MSCs administered post-transplantation of haematopoietic stem cells."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane.\nWe employed a random-effects model for all analyses due to expected clinical heterogeneity arising from differences in participant characteristics and interventions."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 completed RCTs (879 participants), and 13 ongoing trials (1532 enrolled participants planned). Of 12 completed trials, 10 compared MSCs versus no MSCs and two compared different doses of MSCs. One trial was in people with thalassaemia major, the remaining trials were for haematological malignancies. Seven trials administered MSCs to prevent GvHD, whereas five trials gave MSCs to treat GvHD.\nIn the comparison of MSCs with no MSCs, cells were administered at a dose of between 105 and 107 cells/kg in either a single dose (six trials) or in multiple doses (four trials) over a period of three days to four months. The dose-comparison trials compared 2 x 106 cells/kg with 8 x 106 cells/kg in two infusions, or 1 x 106 cells/kg with 3 x 106 cells/kg in a single infusion.\nThe median duration of follow-up in seven trials which administered MSCs prophylactically ranged from 10 to 60 months. In three trials of MSCs as treatment for aGvHD, participants were followed up for 90 or 100 days. In two trials of MSCs as treatment for cGvHD, the mean duration of follow-up was 13.4 months (MSC group) and 23.6 months (control group) in one trial, and 56 weeks in the second trial. Five trials included adults only, six trials included adults and children, and one trial included children only. In eight trials which reported the gender distribution, the percentage of females ranged from 20% to 59% (median 35.8%).\nThe overall quality of the included studies was low: randomisation methods were poorly reported and several of the included studies were subject to a high risk of performance bias and reporting bias. One trial which started in 2008 has not been published and the progress of this trial in unknown, leading to potential publication bias. The quality of evidence was therefore low or very low for all outcomes due to a high risk of bias as well as imprecision due to the low number of overall participants, and in some cases evidence based on a single study. We found that MSCs may make little or no difference in the risk of all-cause mortality in either prophylactic trials (HR 0.85, 95% CI 0.50 to 1.42; participants = 301; studies = 5; I2 = 34% ; low-quality evidence) or therapeutic trials (HR 1.12, 95% CI 0.80 to 1.56; participants = 244; studies = 1; very low-quality evidence), and no difference in the risk of relapse of malignant disease (prophylactic trials: RR 1.08, 95% CI 0.73 to 1.59; participants = 323; studies = 6; I2 = 0%; low-quality evidence) compared with no MSCs. MSCs were well-tolerated, no infusion-related toxicity or ectopic tissue formation was reported. No study reported health-related quality of life. In prophylactic trials, MSCs may reduce the risk of chronic GvHD (RR 0.66, 95% CI 0.49 to 0.89; participants = 283; studies = 6; I2 = 0%; low-quality evidence). This means that only 310 (95% CI 230 to 418) in every 1000 patients in the MSC arm are expected to develop chronic GvHD compared to 469 in the control arm. However, MSCs may make little or no difference to the risk of aGvHD (RR 0.86, 95% CI 0.63 to 1.17; participants = 247; studies = 6; I2 = 0%; low-quality evidence). In GvHD therapeutic trials, we are very uncertain whether MSCs improve complete response of either aGvHD (RR 1.16, 95% CI 0.79 to 1.70, participants = 260, studies = 1; very low-quality evidence) or cGvHD (RR 5.00, 95%CI 0.75 to 33.21, participants = 40, studies = 1; very low-quality evidence).\nIn two trials which compared different doses of MSCs, we found no evidence of any differences in outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "MSCs are an area of intense research activity, and an increasing number of trials have been undertaken or are planned. Despite a number of reports of positive outcomes from the use of MSCs for treating acute GvHD, the evidence to date from RCTs has not supported the conclusion that they are an effective therapy. There is low-quality evidence that MSCs may reduce the risk of cGvHD. New trial evidence will be incorporated into future updates of this review, which may better establish a role for MSCs in the prevention or treatment of GvHD."
+    }
+  ],
+  "pls_title": "Mesenchymal stromal cells to treat or prevent graft-versus-host disease in stem cell transplant recipients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "In people who receive a stem cell transplant for a haematological condition, can an additional infusion of mesenchymal stromal cells (MSCs) prevent the development of graft-versus-host disease (GvHD)? In people who have already developed GvHD as a result of their stem cell transplant, can MSCs improve their clinical outcome?"
+    },
+    {
+      "heading": "Background",
+      "text": "Patients with leukaemia or other blood disorders may be treated with blood stem cells from another person, but the immune cells in the graft can attack their tissues in a serious complication referred to as graft-versus-host disease (GvHD). Steroids are the standard treatment for GvHD, but if they are unable stop the damage then treatment options are limited. In order to look for potential new treatments, a number of hospitals around the world have investigated the use of MSCs for inhibiting GvHD. MSCs are a type of cell that can develop into connective tissue (e.g. bone or cartilage), but they have also been found to have anti-inflammatory properties. For clinical trials, MSCs have been isolated from different tissue sources (e.g. bone marrow, fat, or umbilical cords) and then grown in large numbers in the laboratory. The MSC preparations are then injected intravenously into the patient at the time they have their stem cell transplant or afterward, either to prevent GvHD (prophylaxis) or to treat ongoing disease. For patients being treated for GvHD, is treatment with MSCs safe and effective against complications of inflammation associated with GvHD?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 6 December 2018. We identified 12 studies and 13 ongoing trials. Ten studies compared MSCs with a control group, and two studies compared different doses of MSCs. Five trials included only adults, whereas six trials include both adults and children and one trial was exclusively performed in children. Of the 12 completed trials, one trial was in people with inherited blood disorders (thalassaemia major), and 11 trials were in people with blood cancers. In seven trials, MSCs were given to prevent GvHD, whereas in five trials, MSCs were given to people who had already developed GvHD. MSCs were derived from umbilical cord in two trials, bone marrow in seven trials and adipose tissue in one trial; in two trials the origin of MSCs was unknown. In the comparison of MSCs with no MSCs, cells were administered at a dose of between 105 and 107 cells/kg. Seven trials gave MSCs in a single dose, whereas five trials gave multiple doses of MSCs. Trial participants were followed up for between 10 and 60 months, or in those who had already developed GvHD, up to two years. Three trials were funded and carried out by a commercial manufacturer, using their cultured mesenchymal stromal cells known as Prochymal. All trials included both men and women."
+    },
+    {
+      "heading": "Key results",
+      "text": "MSCs may have little or no difference in the risk of death or relapse of malignant disease, in either GvHD prevention or treatment trials, as the quality of evidence was low. MSCs were well-tolerated, no infusion-related toxicity or ectopic tissue formation was reported. No study reported health-related quality-of-life. In trials where MSCs were administered to prevent GvHD, MSCs may reduce the risk of developing chronic GvHD, but may make little or no difference to the risk of developing acute GvHD. In GvHD treatment trials, we are very uncertain whether MSCs improve complete response of either acute or chronic GvHD as the quality of evidence is very low. We found no differences in outcomes between participants who received a higher dose of MSCs when compared with those who received a lower dose of MSCs."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence is low or very low for all outcome measures, due to the small number of trials and low number of study participants included in this review. One trial started in 2008, but its results are unknown as it is not yet published. It is therefore difficult to draw conclusions or provide recommendations on the use of MSCs, either to prevent or treat GvHD. More trials with large numbers of study participants are needed to improve the quality of evidence."
+    }
+  ]
+}

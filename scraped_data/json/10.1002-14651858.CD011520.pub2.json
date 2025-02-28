@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD011520.pub2",
+  "name": "Vortioxetine for depression in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Major depressive disorder is a common mental disorder affecting a person's mind, behaviour and body. It is expressed as a variety of symptoms and is associated with substantial impairment. Despite a range of pharmacological and non-pharmacological treatment options, there is still room for improvement of the pharmacological treatment of depression in terms of efficacy and tolerability. The latest available antidepressant is vortioxetine. It is assumed that vortioxetine's antidepressant action is related to a direct modulation of serotonergic receptor activity and inhibition of the serotonin transporter. The mechanism of action is not fully understood, but it is claimed to be novel. Vortioxetine was placed in the category of \"Other\" antidepressants and may therefore provide an alternative to existing antidepressant drugs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and acceptability of vortioxetine compared with placebo and other antidepressant drugs in the treatment of acute depression in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane's Depression, Anxiety and Neurosis Review Group's Specialised Register to May 2016 without applying any restrictions to date, language or publication status. We checked reference lists of relevant studies and reviews, regulatory agency reports and trial databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing the efficacy, tolerability, or both of vortioxetine versus placebo or any other antidepressant agent in the treatment of acute depression in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected the studies and extracted data. We extracted data on study characteristics, participant characteristics, intervention details and outcome measures in terms of efficacy, acceptability and tolerability. We analysed intention-to-treat (ITT) data only and used risk ratios (RR) as effect sizes for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI). Meta-analyses used random-effects models."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 15 studies (7746 participants) in this review. Seven studies were placebo controlled; eight studies compared vortioxetine to serotonin-norepinephrine reuptake inhibitors (SNRIs). We were unable to identify any study that compared vortioxetine to antidepressant drugs from other classes, such as selective serotonin reuptake inhibitors (SSRIs).\nVortioxetine may be more effective than placebo across the three efficacy outcomes: response (Mantel-Haenszel RR 1.35, 95% CI 1.22 to 1.49; 14 studies, 6220 participants), remission (RR 1.32, 95% CI 1.15 to 1.53; 14 studies, 6220 participants) and depressive symptoms measured using the Montgomery-Åsberg Depression Scale (MADRS) (score range: 0 to 34; higher score means worse outcome: MD -2.94, 95% CI -4.07 to -1.80; 14 studies, 5566 participants). The quality of the evidence was low for response and remission and very low for depressive symptoms. We found no evidence of a difference in total dropout rates (RR 1.05, 95% CI 0.93 to 1.19; 14 studies, 6220 participants). More participants discontinued vortioxetine than placebo because of adverse effects (RR 1.41, 95% CI 1.09 to 1.81; 14 studies, 6220 participants) but fewer discontinued due to inefficacy (RR 0.56, 95% CI 0.34 to 0.90, P = 0.02; 14 studies, 6220 participants). The quality of the evidence for dropouts was moderate.The subgroup and sensitivity analyses did not reveal factors that significantly influenced the results.\nIn comparison with other antidepressants, very low-quality evidence from eight studies showed no clinically significant difference between vortioxetine and SNRIs as a class for response (RR 0.91, 95% CI 0.82 to 1.00; 3159 participants) or remission (RR 0.89, 95% CI 0.77 to 1.03; 3155 participants). There was a small difference favouring SNRIs for depressive symptom scores on the MADRS (MD 1.52, 95% CI 0.50 to 2.53; 8 studies, 2807 participants). Very low quality evidence from eight studies (3159 participants) showed no significant differences between vortioxetine and the SNRIs as a class for total dropout rates (RR 0.89, 95% CI 0.73 to 1.08), dropouts due to adverse events (RR 0.74, 95% CI 0.51 to 1.08) and dropouts due to inefficacy (RR 1.52, 95% CI 0.70 to 3.30).\nAgainst individual antidepressants, analyses suggested that vortioxetine may be less effective than duloxetine in terms of response rates (RR 0.86, 95% CI 0.79 to 0.94; 6 studies, 2392 participants) and depressive symptoms scores on the MADRS scale (MD 1.99, 95% CI 1.15 to 2.83; 6 studies; 2106 participants). Against venlafaxine, meta-analysis of two studies found no statistically significant differences (response: RR 1.03, 95% CI 0.85 to 1.25; 767 participants; depressive symptom scores: MD 0.02, 95% CI -2.49 to 2.54; 701 participants). In terms of number of participants reporting at least one adverse effect (tolerability), vortioxetine was better than the SNRIs as a class (RR 0.90, 95% CI 0.86 to 0.94; 8 studies, 3134 participants) and duloxetine (RR 0.89, 95% CI 0.84 to 0.95; 6 studies; 2376 participants). However, the sensitivity analysis casts some doubts on this result, as only two studies used comparable dosing.\nWe judged none of the studies to have a high risk of bias for any domain, but we rated all studies to have an unclear risk of bias of selective reporting and other biases."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The place of vortioxetine in the treatment of acute depression is unclear. Our analyses showed vortioxetine may be more effective than placebo in terms of response, remission and depressive symptoms, but the clinical relevance of these effects is uncertain. Furthermore, the quality of evidence to support these findings was generally low. In comparison to SNRIs, we found no advantage for vortioxetine. Vortioxetine was less effective than duloxetine, but fewer people reported adverse effects when treated with vortioxetine compared to duloxetine. However, these findings are uncertain and not well supported by evidence. A major limitation of the current evidence is the lack of comparisons with the SSRIs, which are usually recommended as first-line treatments for acute depression. Studies with direct comparisons to SSRIs are needed to address this gap and may be supplemented by network meta-analyses to define the role of vortioxetine in the treatment of depression."
+    }
+  ],
+  "pls_title": "Vortioxetine for the treatment of depression in adults",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Many people suffer from major depression. Major depression is a serious illness that can cause significant distress both to patients and their families. Major depression affects people's work and relationships, but can also affect people physically, for example by changing concentration or appetite. Available antidepressant medicines are not always effective in treating major depression and may also have unpleasant side effects. This review compares a new antidepressant, vortioxetine, to placebo (a pretend treatment, e.g. sugar tablet) and other antidepressants. It is assumed that vortioxetine works differently from other available antidepressants and it is important to know if it is an effective treatment and a possible alternative for already available treatments."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "People affected by major depression and their families, general practitioners (GPs), psychiatrists, and pharmacists and other professionals working in adult mental health services."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "Is vortioxetine more effective than placebo in treating individual with an episode of major depression?\nIs vortioxetine more or less effective than other available antidepressant treatments?\nDo more or fewer people stay in treatment when treated with vortioxetine compared to placebo or other antidepressants?\nDo more or fewer people have side effects when treated with vortioxetine compared to other antidepressants?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "In May 2016, we searched electronic medical databases to find trials that compared vortioxetine to placebo or other antidepressants. We included only studies that used a randomised controlled design (where people were randomly put into one of two or more treatment groups) and had adults (aged over 18 years) with a diagnosis of major depression. We included 15 trials, involving 7746 participants in the review."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "The quality of the evidence ranged from very low to moderate, depending on the outcome (what symptom or effect was measured) and the comparison. Vortioxetine was more effective than placebo, but it was not more effective than other commonly used antidepressants. The studies found no difference in people stopping their treatment compared to placebo or other antidepressants. Vortioxetine was only compared to one type of medicine (called SNRIs) and not compared to the most frequently prescribed antidepressants. The outcomes varied markedly across studies."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "No firm conclusion on vortioxetine can be made. Vortioxetine was effective in treating acute major depression, but did not show a clear advantage in comparison with some treatments which are already available. Conclusions are also made difficult because comparisons to the most frequently prescribed antidepressants (called SSRIs) are lacking. Furthermore, it is unclear if vortioxetine has an advantage in specific side effects associated with commonly prescribed antidepressants, for example sexual problems. These questions should be addressed in future studies."
+    }
+  ]
+}

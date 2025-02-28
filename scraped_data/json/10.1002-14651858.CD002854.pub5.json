@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD002854.pub5",
+  "name": "Vitamin E for Alzheimer's dementia and mild cognitive impairment",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vitamin E occurs naturally in the diet. It has several biological activities, including functioning as an antioxidant to scavenge toxic free radicals. Evidence that free radicals may contribute to the pathological processes behind cognitive impairment has led to interest in the use of vitamin E supplements to treat mild cognitive impairment (MCI) and Alzheimer's disease (AD). This is an update of a Cochrane Review first published in 2000, and previously updated in 2006 and 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of vitamin E in the treatment of MCI and dementia due to AD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (ALOIS), the Cochrane Library, MEDLINE, Embase, PsycINFO, CINAHL, LILACS as well as many trials databases and grey literature sources on 22 April 2016 using the terms: \"Vitamin E\", vitamin-E, alpha-tocopherol."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all double-blind, randomised trials in which treatment with any dose of vitamin E was compared with placebo in people with AD or MCI."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures according to the Cochrane Handbook for Systematic Reviews of Interventions. We rated the quality of the evidence using the GRADE approach. Where appropriate we attempted to contact authors to obtain missing information."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials met the inclusion criteria, but we could only extract outcome data in accordance with our protocol from two trials, one in an AD population (n = 304) and one in an MCI population (n = 516). Both trials had an overall low to unclear risk of bias. It was not possible to pool data across studies owing to a lack of comparable outcome measures.\nIn people with AD, we found no evidence of any clinically important effect of vitamin E on cognition, measured with change from baseline in the Alzheimer's Disease Assessment Scale - Cognitive subscale (ADAS-Cog) over six to 48 months (mean difference (MD) -1.81, 95% confidence interval (CI) -3.75 to 0.13, P = 0.07, 1 study, n = 272; moderate quality evidence). There was no evidence of a difference between vitamin E and placebo groups in the risk of experiencing at least one serious adverse event over six to 48 months (risk ratio (RR) 0.86, 95% CI 0.71 to 1.05, P = 0.13, 1 study, n = 304; moderate quality evidence), or in the risk of death (RR 0.84, 95% CI 0.52 to 1.34, P = 0.46, 1 study, n = 304; moderate quality evidence). People with AD receiving vitamin E showed less functional decline on the Alzheimer's Disease Cooperative Study/Activities of Daily Living Inventory than people receiving placebo at six to 48 months (mean difference (MD) 3.15, 95% CI 0.07 to 6.23, P = 0.04, 1 study, n = 280; moderate quality evidence). There was no evidence of any clinically important effect on neuropsychiatric symptoms measured with the Neuropsychiatric Inventory (MD -1.47, 95% CI -4.26 to 1.32, P = 0.30, 1 study, n = 280; moderate quality evidence).\nWe found no evidence that vitamin E affected the probability of progression from MCI to probable dementia due to AD over 36 months (RR 1.03, 95% CI 0.79 to 1.35, P = 0.81, 1 study, n = 516; moderate quality evidence). Five deaths occurred in each of the vitamin E and placebo groups over the 36 months (RR 1.01, 95% CI 0.30 to 3.44, P = 0.99, 1 study, n = 516; moderate quality evidence). We were unable to extract data in accordance with the review protocol for other outcomes. However, the study authors found no evidence that vitamin E differed from placebo in its effect on cognitive function, global severity or activities of daily living . There was also no evidence of a difference between groups in the more commonly reported adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence that the alpha-tocopherol form of vitamin E given to people with MCI prevents progression to dementia, or that it improves cognitive function in people with MCI or dementia due to AD. However, there is moderate quality evidence from a single study that it may slow functional decline in AD. Vitamin E was not associated with an increased risk of serious adverse events or mortality in the trials in this review. These conclusions have changed since the previous update, however they are still based on small numbers of trials and participants and further research is quite likely to affect the results."
+    }
+  ],
+  "pls_title": "The use of vitamin E in the treatment of mild cognitive impairment and Alzheimer's disease (AD)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Vitamin E is found in a variety of foods, including vegetable oils and fats, nuts and seeds. Some animal and non-interventional studies have suggested it might have a role in the prevention or treatment of Alzheimer's disease (AD). However, evidence has linked vitamin E with potentially serious side effects and even an increased risk of death. In this review, we looked for evidence about the effect of vitamin E on people who had either dementia due to AD or milder problems with memory or thinking (mild cognitive impairment or MCI). People with MCI have an increased risk of developing dementia."
+    },
+    {
+      "heading": "Included trials",
+      "text": "We searched for clinical trials published up to April 2016 which had randomly allocated people with dementia due to AD or with MCI to treatment with vitamin E supplements or a placebo (pretend treatment). We found three trials that investigated the effects of vitamin E on people with AD, but we could extract data from only one of these trials (304 participants). We found only one trial with 516 participants which investigated the effects of vitamin E on people with MCI. The quality of these two trials was generally good."
+    },
+    {
+      "heading": "Results",
+      "text": "Vitamin E did not reduce the number of people with MCI who developed dementia over three years. We also found no evidence that vitamin E improved cognition (e.g. learning and memory) in people with MCI or with dementia due to AD. One trial found that people with dementia due to AD who took vitamin E could manage daily activities (e.g. bathing and dressing) better than people who took placebo. There was no evidence from these trials that vitamin E caused significant harm to participants, but these types of trials are not the best way to look for harmful effects unless the effects are very common. Because all the results came from single trials, it is likely that further research could lead to different conclusions."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "From limited evidence, we found nothing to suggest that there are either benefits or harms from vitamin E supplements. As the quality of evidence was only moderate, further trials are needed to confirm the findings. It is possible that different types or doses of vitamin E might have different effects."
+    }
+  ]
+}

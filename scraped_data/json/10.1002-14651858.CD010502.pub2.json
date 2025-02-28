@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010502.pub2",
+  "name": "Rapid antigen detection test for group A streptococcus in children with pharyngitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Group A streptococcus (GAS) accounts for 20% to 40% of cases of pharyngitis in children; the remaining cases are caused by viruses. Compared with throat culture, rapid antigen detection tests (RADTs) offer diagnosis at the point of care (within five to 10 minutes)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of RADTs for diagnosing GAS in children with pharyngitis. To assess the relative diagnostic accuracy of the two major types of RADTs (enzyme immunoassays (EIA) and optical immunoassays (OIA)) by indirect and direct comparison."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, EMBASE, Web of Science, CDSR, DARE, MEDION and TRIP (January 1980 to July 2015). We also conducted related citations tracking via PubMed, handsearched reference lists of included studies and relevant review articles, and screened all articles citing included studies via Google Scholar."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that compared RADT for GAS pharyngitis with throat culture on a blood agar plate in a microbiology laboratory in children seen in ambulatory care."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts for relevance, assessed full texts for inclusion, and carried out data extraction and quality assessment using the QUADAS-2 tool. We used bivariate meta-analysis to estimate summary sensitivity and specificity, and to investigate heterogeneity across studies. We compared the accuracy of EIA and OIA tests using indirect and direct evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 98 unique studies in the review (116 test evaluations; 101,121 participants). The overall methodological quality of included studies was poor, mainly because many studies were at high risk of bias regarding patient selection and the reference standard used (in 73% and 43% of test evaluations, respectively). In studies in which all participants underwent both RADT and throat culture (105 test evaluations; 58,244 participants; median prevalence of participants with GAS was 29.5%), RADT had a summary sensitivity of 85.6%; 95% confidence interval (CI) 83.3 to 87.6 and a summary specificity of 95.4%; 95% CI 94.5 to 96.2. There was substantial heterogeneity in sensitivity across studies; specificity was more stable. There was no evidence of a trade-off between sensitivity and specificity. Heterogeneity in accuracy was not explained by study-level characteristics such as whether an enrichment broth was used before plating, mean age and clinical severity of participants, and GAS prevalence. The sensitivity of EIA and OIA tests was comparable (summary sensitivity 85.4% versus 86.2%). Sensitivity analyses showed that summary estimates of sensitivity and specificity were stable in low risk of bias studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In a population of 1000 children with a GAS prevalence of 30%, 43 patients with GAS will be missed. Whether or not RADT can be used as a stand-alone test to rule out GAS will depend mainly on the epidemiological context. The sensitivity of EIA and OIA tests seems comparable. RADT specificity is sufficiently high to ensure against unnecessary use of antibiotics. Based on these results, we would expect that amongst 100 children with strep throat, 86 would be correctly detected with the rapid test while 14 would be missed and not receive antibiotic treatment."
+    }
+  ],
+  "pls_title": "What is the performance of rapid tests for the diagnosis of strep throat in children?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background and aims",
+      "text": "Sore throat is very common in children. It can be caused by viruses or bacteria. The bacterium most frequently identified during sore throat in children is group A streptococcus ('strep throat'). Amongst children with sore throat, antibiotic treatment is only useful in those with strep throat.\nSimple, rapid tests for the diagnosis of strep throat have been available since the 1980s. Physicians can do a rapid test at the point of care by swabbing the throat. Based on the result of the rapid test, they can then decide if antibiotics are needed.\nWe reviewed the evidence about the performance of rapid tests for correctly detecting strep throat in children seen in Outpatient departments with a main complaint of sore throat."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for studies published in any language from January 1980 to July 2015. We found 98 unique studies, for a total of 116 test evaluations, involving 101,121 children. The number of participants ranged from 42 to 11,644 across test evaluations. The proportion of children with strep throat ranged from 9.5% to 66.6% across test evaluations."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Important study design features were frequently not reported. The overall methodological quality of included studies was poor. For most studies, we had concerns about the ways in which participants were selected."
+    },
+    {
+      "heading": "Key results",
+      "text": "On average, rapid tests for strep throat had a sensitivity (ability to correctly detect people with the disease) of 86% and a specificity (ability to correctly identify people who do not have the disease) of 95%. There was substantial variability in rapid test performance across studies, which was not explained by study characteristics, including methodological quality. The two types of rapid tests under evaluation seemed to have comparable sensitivity (85.4% versus 86.2% for enzyme immunoassays and optical immunoassays, respectively). Based on these results, we would expect that amongst 100 children with strep throat, 86 would be correctly detected with the rapid test while 14 would be missed and not receive antibiotic treatment. Of 100 children with non-streptococcal sore throat, 95 would be correctly classified as such with the rapid test while 5 would be misdiagnosed as having strep throat and receive unnecessary antibiotics."
+    }
+  ]
+}

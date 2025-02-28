@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012893.pub2",
+  "name": "Certolizumab pegol for induction of remission in Crohn's disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Crohn’s disease (CD) is a chronic inflammatory disease of the gastrointestinal tract, and immune response modulation is the main treatment strategy to induce remission in active CD. Certolizumab pegol (CZP) is a tumor necrosis factor-alfa (TNF-α) inhibitor which regulates impaired immune response."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objectives were to evaluate the efficacy and safety of CZP for the induction of remission in CD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, CENTRAL, the Cochrane IBD group specialized register, trials registers and other sources from inception to 28 January 2019. Moreover, we contacted the pharmaceutical company that manufactures CZP."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials comparing CZP with placebo or no treatment in active CD patients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures. The main outcomes selected for GRADE analysis were clinical remission at week 8 (Crohn’s Disease Activity Index [CDAI] ≤150), clinical response at week 8 (CDAI reduction ≥ 100 or clinical remission), and serious adverse events. The Mantel-Haenszel random-effects method was applied for the statistical analyses. For dichotomous outcomes, we calculated the risk ratio (RR) and corresponding 95% confidence interval (95% CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four studies involving 1485 participants with moderate to severe CD met the inclusion criteria and were used in the meta-analyses. All studies included active CD patients with CDAI ranging from 220 to 450. Most patients were adults over 18 years of age. One study was identified as high risk of bias due to a non-identical placebo while the other studies were judged to be at low risk of bias.\nCZP (100 mg to 400 mg every 2 to 4 weeks) was shown to be superior to placebo for achieving clinical remission at week 8 (RR 1.36, 95% CI 1.11 to 1.66; moderate certainty evidence). The raw numbers of participants achieving clinical remission at week 8 were 26.9% (225/835) and 19.8% (129/650) in the CZP and the placebo groups, respectively.\nCZP was shown to be superior to placebo for achieving clinical response at week 8 (RR 1.29, 95% CI 1.09 to 1.53; moderate certainty evidence). In raw numbers, clinical response at week 8 was achieved in 40.2% (336/835) and 30.9% (201/650) of participants in the CZP and the placebo groups, respectively.\nIn raw numbers, serious adverse events were observed in 8.7% (73/835) and 6.2% (40/650) of participants in the CZP and the placebo groups, respectively (RR 1.35, 95% CI 0.93 to 1.97; moderate certainty evidence). Serious adverse events included worsening Crohn's disease, infections, and malignancy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate certainty evidence suggests that CZP is effective for induction of clinical remission and clinical response in participants with active CD patients. It is uncertain whether the risk of serious adverse events differs between CZP and placebo as the 95% CI includes the possibility of a small decrease or doubling of events. Future studies are needed to evaluate the long-term efficacy and safety of CZP in CD patients."
+    }
+  ],
+  "pls_title": "Certolizumab pegol for the treatment of active Crohn’s disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the benefits and harms of using certolizumab pegol in people with active Crohn’s disease."
+    },
+    {
+      "heading": "Background",
+      "text": "Crohn’s disease is a chronic inflammatory disease that mainly affects the gastrointestinal tract such as the small and large intestine. Common symptoms of Crohn’s disease are chronic diarrhea, abdominal pain, and weight loss. When patients with Crohn’s disease have symptoms, the condition is considered to be 'active'. When in 'remission', patients do not have symptoms.\nCertolizumab pegol is a biologic medication used to modify the excessive immune response that causes chronic inflammation in Crohn’s disease. Certolizumab pegol is usually injected under the skin every 2 to 4 weeks."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The literature was searched up to 28 January 2019. Four studies involving 1485 patients compared certolizumab pegol with placebo (a dummy drug). All studies included patients with active Crohn’s disease. Most patients were adults over 18 years of age, except for six patients aged 16 or 17 years old. All studies were funded by the drug manufacturer."
+    },
+    {
+      "heading": "Key results",
+      "text": "In a combined analysis of the four studies, patients with active Crohn’s disease who received certolizumab pegol at a dose ranging from 100 mg to 400 mg every 2 to 4 weeks, responded to the treatment and achieved remission at 8 weeks more often than patients taking placebo. No remarkable difference in the rate of serious side effects was observed between certolizumab pegol and placebo. Serious side effects included worsening Crohn's disease, infections, and malignancy (i.e. cancer)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Moderate certainty evidence suggests that certolizumab pegol is beneficial in terms of achieving remission in people with moderate to severe Crohn's disease. Because of a low number of serious side effects, the certainty of evidence about harms of certolizumab pegol was moderate."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Moderate certainty evidence suggests that certolizumab pegol is effective for induction of clinical remission and clinical response in people with active Crohn's disease. It is uncertain whether the risk of serious side effects differs between certolizumab pegol and placebo. Future studies are needed to evaluate the long-term benefits and harms of certolizumab pegol in people with Crohn's disease."
+    }
+  ]
+}

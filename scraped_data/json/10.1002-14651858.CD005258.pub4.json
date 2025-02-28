@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005258.pub4",
+  "name": "Combined intermittent pneumatic leg compression and pharmacological prophylaxis for prevention of venous thromboembolism ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "It is generally assumed by practitioners and guideline authors that combined modalities (methods of treatment) are more effective than single modalities in preventing venous thromboembolism (VTE), defined as deep vein thrombosis (DVT) or pulmonary embolism (PE), or both. This is the second update of the review first published in 2008."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of this review was to assess the efficacy of combined intermittent pneumatic leg compression (IPC) and pharmacological prophylaxis compared to single modalities in preventing VTE."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, and AMED databases, and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 18 January 2021. We searched the reference lists of relevant articles for additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) or controlled clinical trials (CCTs) of combined IPC and pharmacological interventions used to prevent VTE compared to either intervention individually."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently selected studies, applied Cochrane's risk of bias tool, and extracted data. We resolved disagreements by discussion. We performed fixed-effect model meta-analyses with odds ratios (ORs) and 95% confidence intervals (CIs). We used a random-effects model when there was heterogeneity. We assessed the certainty of the evidence using GRADE. The outcomes of interest were PE, DVT, bleeding and major bleeding."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 34 studies involving 14,931 participants, mainly undergoing surgery or admitted with trauma. Twenty-five studies were RCTs (12,672 participants) and nine were CCTs (2259 participants). Overall, the risk of bias was mostly unclear or high. We used GRADE to assess the certainty of the evidence and this was downgraded due to the risk of bias, imprecision or indirectness.\nThe addition of pharmacological prophylaxis to IPC compared with IPC alone reduced the incidence of symptomatic PE from 1.34% (34/2530) in the IPC group to 0.65% (19/2932) in the combined group (OR 0.51, 95% CI 0.29 to 0.91; 19 studies, 5462 participants, low-certainty evidence). The incidence of DVT was 3.81% in the IPC group and 2.03% in the combined group showing a reduced incidence of DVT in favour of the combined group (OR 0.51, 95% CI 0.36 to 0.72; 18 studies, 5394 participants, low-certainty evidence). The addition of pharmacological prophylaxis to IPC, however, increased the risk of any bleeding compared to IPC alone: 0.95% (22/2304) in the IPC group and 5.88% (137/2330) in the combined group (OR 6.02, 95% CI 3.88 to 9.35; 13 studies, 4634 participants, very low-certainty evidence). Major bleeding followed a similar pattern: 0.34% (7/2054) in the IPC group compared to 2.21% (46/2079) in the combined group (OR 5.77, 95% CI 2.81 to 11.83; 12 studies, 4133 participants, very low-certainty evidence).\nTests for subgroup differences between orthopaedic and non-orthopaedic surgery participants were not possible for PE incidence as no PE events were reported in the orthopaedic subgroup. No difference was detected between orthopaedic and non-orthopaedic surgery participants for DVT incidence (test for subgroup difference P = 0.19).\nThe use of combined IPC and pharmacological prophylaxis modalities compared with pharmacological prophylaxis alone reduced the incidence of PE from 1.84% (61/3318) in the pharmacological prophylaxis group to 0.91% (31/3419) in the combined group (OR 0.46, 95% CI 0.30 to 0.71; 15 studies, 6737 participants, low-certainty evidence). The incidence of DVT was 9.28% (288/3105) in the pharmacological prophylaxis group and 5.48% (167/3046) in the combined group (OR 0.38, 95% CI 0.21 to 0.70; 17 studies; 6151 participants, high-certainty evidence). Increased bleeding side effects were not observed for IPC when it was added to anticoagulation (any bleeding: OR 0.87, 95% CI 0.56 to 1.35, 6 studies, 1314 participants, very low-certainty evidence; major bleeding: OR 1.21, 95% CI 0.35 to 4.18, 5 studies, 908 participants, very low-certainty evidence).\nNo difference was detected between the orthopaedic and non-orthopaedic surgery participants for PE incidence (test for subgroup difference P = 0.82) or for DVT incidence (test for subgroup difference P = 0.69)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence suggests that combining IPC with pharmacological prophylaxis, compared to IPC alone reduces the incidence of both PE and DVT (low-certainty evidence). Combining IPC with pharmacological prophylaxis, compared to pharmacological prophylaxis alone, reduces the incidence of both PE (low-certainty evidence) and DVT (high-certainty evidence). We downgraded due to risk of bias in study methodology and imprecision. Very low-certainty evidence suggests that the addition of pharmacological prophylaxis to IPC increased the risk of bleeding compared to IPC alone, a side effect not observed when IPC is added to pharmacological prophylaxis (very low-certainty evidence), as expected for a physical method of thromboprophylaxis. The certainty of the evidence for bleeding was downgraded to very low due to risk of bias in study methodology, imprecision and indirectness. The results of this update agree with current guideline recommendations, which support the use of combined modalities in hospitalised people (limited to those with trauma or undergoing surgery) at risk of developing VTE. More studies on the role of combined modalities in VTE prevention are needed to provide evidence for specific patient groups and to increase our certainty in the evidence."
+    }
+  ],
+  "pls_title": "Are inflatable sleeves and medication effective to prevent deep vein thrombosis and pulmonary embolism after surgery?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "• The use of inflatable sleeves worn on the legs (intermittent pneumatic leg compression) plus medication may reduce the rate of new cases of blood clots in the lungs and legs compared to inflatable sleeves alone.\n• The use of inflatable sleeves plus medication compared to medication alone reduces the rate of new cases of blood clots in the legs and may reduce new blood clots in the lungs.\n• The addition of a medication to inflatable sleeves, may increase the risk of bleeding compared to inflatable sleeves alone."
+    },
+    {
+      "heading": "Why is this question important?",
+      "text": "Deep vein thrombosis (DVT) and pulmonary embolism are collectively known as venous thromboembolism, and occur when a blood clot develops inside the leg veins and travels to the lungs. They are possible complications of staying in hospital after surgery, trauma or other risk factors. These complications extend hospital stay and are associated with long-term disability and death. Patients undergoing total hip or knee replacement (orthopaedic) surgery or surgery for colorectal cancer are at high risk of venous thromboembolism. Sluggish blood flow, increased blood clotting and blood vessel wall injury are factors that make it more likely that people will experience a blood clot. Treating more than one of these factors may improve prevention. Mechanical intermittent pneumatic leg compression involves wrapping the legs with inflatable sleeves or using foot pumps. These put gentle pressure on the legs and its veins, reducing sluggish blood flow, while medications such as aspirin and anticoagulants reduce blood clotting. These medications are known as pharmacological prophylaxis (drugs used to prevent blood clots). However, these medications can also increase the risk of bleeding.  We wanted to find out if combining compression and medication to stop blood clots was more effective than either compression or medication alone."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We searched for studies that compared combined compression and medication against either compression or medication alone. We found 34 studies with a total of 14,931 participants. The mean age of participants, where reported, was 62.7 years. Most participants had either a high-risk procedure or condition (orthopaedic surgery in 14 studies and urology, cardiothoracic, neurosurgery, trauma, general surgery, gynaecology or other types of participants in the remaining studies).\nCompared to compression alone, compression plus medication was better by reducing the rate of new cases of pulmonary embolism (19 studies, 5462 participants). DVT was also reduced for compression combined with medication when compared with compression alone (18 studies, 5394 participants). The addition of a medication to compression, however, increased the risk of any bleeding compared to IPC alone, from 1% to 5.9%. Major bleeding followed a similar pattern, with an increase from 0.3% to 2.2%. Further analysis looking at different types of participants (orthopaedic and non-orthopaedic participants) showed a similar risk for DVT. It was not possible to assess differences between subgroups for pulmonary embolism.\nCompared with medication alone, combined compression and medication was better by reducing pulmonary embolism (15 studies with 6737 participants). DVT was also reduced in the combined compression and medication group (17 studies with 6151 participants). No differences were observed in rates of bleeding (six studies with 1314 participants). Further analysis looking at different subgroups of participants did not show any overall difference in incidence of pulmonary embolism or DVT between orthopaedic and non-orthopaedic participants."
+    },
+    {
+      "heading": "How certain are we in the evidence?",
+      "text": "We found our confidence in the evidence ranged from high to very low. We had concerns on how the studies were carried out, because there were small numbers of clots overall and different definitions used for bleeding between the studies."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates our previous evidence. The evidence is current to January 2021."
+    }
+  ]
+}

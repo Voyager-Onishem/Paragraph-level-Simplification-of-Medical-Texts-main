@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012397.pub2",
+  "name": "Risk assessment for aggressive behaviour in schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Aggressive or violent behaviour is often associated with people with schizophrenia in common perceptions of the disease. Risk assessment methods have been used to identify and evaluate the behaviour of those individuals who are at the greatest risk of perpetrating aggression or violence or characterise the likelihood to commit acts. Although many different interventions have been developed to decrease aggressive or violent incidences in inpatient care, staff working in inpatient settings seek easy-to-use methods to decrease patient aggressive events. However, many of these are time-consuming, and they require intensive training for staff and patient monitoring. It has also been recognised in clinical practice that if staff monitor patients' behaviour in a structured manner, the monitoring itself may result in a reduction of aggressive/violent behaviour and incidents in psychiatric settings."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of structured aggression or violence risk assessment methods for people with schizophrenia or schizophrenia-like illnesses."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Study-Based Register of Trials, which is based on CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, PubMed, ISRCTN registry, ClinicalTrials.gov, and WHO ICTRP, on 10 February 2021. We also inspected references of all identified studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) comparing structured risk assessment methods added to standard professional care with standard professional care for the evaluation of aggressive or violent behaviour among people with schizophrenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently inspected citations, selected studies, extracted data, and appraised study quality. For binary outcomes, we calculated a standard estimation of the risk ratio (RR) and its 95% confidence interval (CI). For continuous outcomes, we calculated the mean difference (MD) and its 95% CI. We assessed risk of bias in the included studies and created a summary of findings table using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four studies in the review. The total number of participants was not identifiable, as some studies provided number of participants included, and some only patient days. The studies compared a package of structured assessment methods with a control group that included routine nursing care and drug therapy or unstructured psychiatric observations/treatment based on clinical judgement. In two studies, information about treatment in control care was not available.\nOne study reported results for our primary outcome, clinically important change in aggressive/violent behaviour, measured by the rate of severe aggression events. There was likely a positive effect favouring structured risk assessment over standard professional care (RR 0.59, 95% CI 0.41 to 0.85; 1 RCT; 1852 participants; corrected for cluster design: RR 0.59, 95% CI 0.37 to 0.93; moderate-certainty evidence).\nOne trial reported data for the use of coercive measures (seclusion room). Compared to standard professional care, structured risk assessment may have little or no effect on use of seclusion room as days (corrected for cluster design: RR 0.92, 95% CI 0.27 to 3.07; N = 20; low-certainty evidence) or use of seclusion room as secluded participants (RR 1.83, 95% CI 0.39 to 8.7; 1 RCT; N = 20; low-certainty evidence). However, seclusion room may be used less frequently in the standard professional care group compared to the structured risk assessment group (incidence) (corrected for cluster design: RR 1.63, 95% CI 0.49 to 5.47; 1 RCT; N = 20; substantial heterogeneity, Chi2 = 0.0; df = 0.0; P = 0.0; I2 = 100%; low-certainty evidence).\nThere was no evidence of a clear effect on adverse events of escape (RR 0.2, 95% CI 0.01 to 4.11; 1 RCT; n = 200; very low-certainty evidence); fall down (RR 0.33, 95% CI 0.04 to 3.15; 1 RCT; n = 200; very low-certainty evidence); or choking (RR 0.2, 95% CI 0.01 to 4.11; 1 RCT; n = 200; very low-certainty evidence) when comparing structured risk assessment to standard professional care.\nThere were no useable data for patient-related outcomes such as global state, acceptance of treatment, satisfaction with treatment, quality of life, service use, or costs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, it is not possible to conclude that structured aggression or violence risk assessment methods are effective for people with schizophrenia or schizophrenia-like illnesses. Future work should combine the use of interventions and structured risk assessment methods to prevent aggressive incidents in psychiatric inpatient settings."
+    }
+  ],
+  "pls_title": "Risk assessment for aggressive behaviour in schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are structured aggression or violence risk assessment methods effective for people with schizophrenia or schizophrenia-like illnesses for decreasing aggressive incidents in psychiatric settings?"
+    },
+    {
+      "heading": "Background",
+      "text": "Aggressive or violent behaviour is often associated with people with schizophrenia in common perceptions of the disease. Although many different interventions have been developed to decrease aggressive or violent occurrences in inpatient care, staff working in inpatient settings seek easy-to-use methods to decrease patient aggressive events. However, many of these are time-consuming, and they require intensive training for staff and patient monitoring. If staff monitor patients' behaviour in a structured manner, the monitoring itself might result in a reduction of aggressive/violent behaviour and incidents in psychiatric settings."
+    },
+    {
+      "heading": "Searching for evidence",
+      "text": "We ran an electronic search in 10 February 2021 for trials that randomly assigned people with schizophrenia or schizophrenia-like illnesses to participate in structured aggression or violence risk assessment methods, or to standard treatment."
+    },
+    {
+      "heading": "Evidence found",
+      "text": "Four trials met the review requirements and provided useable data. The trials compared the effects of structured risk assessment with standard professional care. The results suggest that use of structured aggression or violence risk assessment is likely better at reducing severe aggression events at psychiatric hospital than standard professional care; however, the evidence is not strong. In addition, there is no clear evidence that structured risk assessment is better at reducing numbers of people that are subjected to coercive measures (seclusion room) or the length of time people are placed in a seclusion room; however, these results were based on low-certainty evidence. There was no evidence of a clear effect of structured risk assessment on adverse effects compared to standard professional care. There was no available evidence on satisfaction with treatment, service use, adverse events (death), or leaving the study early."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The evidence identified in this review is limited and of moderate to very low certainty, therefore no firm conclusions can be drawn. High-quality trials focusing on outcomes that are relevant and important to patients and carers are needed."
+    }
+  ]
+}

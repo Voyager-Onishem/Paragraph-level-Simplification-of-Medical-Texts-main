@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012485.pub2",
+  "name": "Comprehensive geriatric assessment for older people admitted to a surgical service",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Aging populations are at increased risk of postoperative complications. New methods to provide care for older people recovering from surgery may reduce surgery-related complications. Comprehensive geriatric assessment (CGA) has been shown to improve some outcomes for medical patients, such as enabling them to continue living at home, and has been proposed to have positive impacts for surgical patients. CGA is a coordinated, multidisciplinary collaboration that assesses the medical, psychosocial and functional capabilities and limitations of an older person, with the goal of establishing a treatment plan and long-term follow-up."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of CGA interventions compared to standard care on the postoperative outcomes of older people admitted to hospital for surgical care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL and two clinical trials registers on 13 January 2017. We also searched grey literature for additional citations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials of people undergoing surgery aged 65 years and over comparing CGA with usual surgical care and reporting any of our primary (mortality and discharge to an increased level of care) or secondary (length of stay, re-admission, total cost and postoperative complication) outcomes. We excluded studies if the participants did not receive a complete CGA, did not undergo surgery, and if the study recruited participants aged less than 65 years or from a setting other than an acute care hospital."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened, assessed risk of bias, extracted data and assessed certainty of evidence from identified articles. We expressed dichotomous treatment effects as risk ratio (RR) with 95% confidence intervals and continuous outcomes as mean difference (MD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight randomised trials, seven recruited people recovering from a hip fracture (N = 1583) and one elective surgical oncology trial (N = 260), conducted in North America and Europe. For two trials CGA was done pre-operatively and postoperatively for the remaining. Six trials had adequate randomization, five had low risk of performance bias and four had low risk of detection bias. Blinding of participants was not possible. All eight trials had low attrition rates and seven reported all expected outcomes.\nCGA probably reduces mortality in older people with hip fracture (RR 0.85, 95% CI 0.68 to 1.05; 5 trials, 1316 participants, I² = 0%; moderate-certainty evidence). The intervention reduces discharge to an increased level of care (RR 0.71, 95% CI 0.55 to 0.92; 5 trials, 941 participants, I² = 0%; high-certainty evidence).\nLength of stay was highly heterogeneous, with mean difference between participants allocated to the intervention and the control groups ranging between -12.8 and 8.3 days. CGA probably leads to slightly reduced length of stay (4 trials, 841 participants, moderate-certainty evidence). The intervention probably makes little or no difference in re-admission rates (RR 1.00, 95% CI 0.76 to 1.32; 3 trials, 741 participants, I² = 37%; moderate-certainty evidence).\nCGA probably slightly reduces total cost (1 trial, 397 participants, moderate-certainty evidence). The intervention may make little or no difference for major postoperative complications (2 trials, 579 participants, low-certainty evidence) and delirium rates (RR 0.75, 95% CI 0.60 to 0.94, 3 trials, 705 participants, I² = 0%; low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is evidence that CGA can improve outcomes in people with hip fracture. There are not enough studies to determine when CGA is most effective in relation to surgical intervention or if CGA is effective in surgical patients presenting with conditions other than hip fracture."
+    }
+  ],
+  "pls_title": "Does special assessment of older people getting surgery improve their recovery after surgery?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "Our aim was to find out whether an assessment, called comprehensive geriatric assessment (CGA), of people who are aged 65 years and over improves how well they do after surgery. CGA involves several healthcare professionals and addresses the medical illness, physical decline and social factors that slow recovery."
+    },
+    {
+      "heading": "Key messages",
+      "text": "We found that older people with hip fracture who received CGA were less likely to die and more likely to return home. There were not enough high quality studies in other patient groups to determine if CGA is useful for them."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "The world's population is getting older; more and more people are now over the age of 65 years and are at increased risk of complications after surgery, which include infection, heart attacks and even death. CGA is known to lower complications in hospitalized older people, but no reviews looked specifically into older people who have had surgery. We conducted this review to address that gap. We compared people who received CGA either before (2 studies) or after surgery (6 studies) to people who received traditional postoperative care from their surgeon."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We included eight studies conducted in North America and Europe. Seven studies recruited people with broken hips (1583 participants) and one involved people who had cancers removed (260 participants).\nWe found that older people who received CGA probably have lower risk of dying, and that after discharge, were more likely to return to the same location they lived in before hospital admission. Older people who received the intervention probably stayed in hospital for fewer days, although we cannot be sure by how long, because results from studies varied too much. Both those who received the intervention, and those who did not, were re-admitted to hospital a similar number of times. It probably costs a bit less to provide care when older people receive CGA. As for complications after surgery, the results from the different studies varied a lot so we cannot be sure whether CGA causes more complications."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We last searched for new studies on 13 January 2017."
+    }
+  ]
+}

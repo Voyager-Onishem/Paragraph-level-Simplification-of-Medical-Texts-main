@@ -1,0 +1,43 @@
+{
+  "doi": "10.1002/14651858.CD011708.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chlamydia trachomatis (C trachomatis) is one of the most frequent sexually transmitted infections and a source of deleterious effects on the reproductive health of men and women. Because this infection is likely asymptomatic and is associated with subfertility, ectopic pregnancy, and chronic pain, its presence needs to be confirmed. Technologies available for the diagnosis of C trachomatis infection can be classified into tests performed in a laboratory and rapid tests at the point of care (POC tests). Laboratory-based tests include culture, nucleic acid amplification tests, enzyme immunoassays (EIA), direct fluorescent antibody, nucleic acid hybridization, and transformation tests. Rapid tests include solid-phase EIA and solid-phase optical immunoassay. POC tests can be performed within 30 minutes without the need for expensive or sophisticated equipment. The principal advantage of this technology is the immediate presentation of results with the subsequent possibility to start the treatment of infected patients immediately."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of rapid point-of-care (POC) testing for detecting urogenital C trachomatis infection in nonpregnant women and men of reproductive age, as verified with nucleic acid amplification tests (NAATs) as the reference standard."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In November 2019 we searched CENTRAL, MEDLINE, Embase and LILACS. We also searched Web of Science, two trials registries and an abstract database. We screened reference lists of included studies for additional references."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy studies of symptomatic or asymptomatic nonpregnant women and men reproductive age. Included trials should have prospectively enrolled participants without previous diagnostic testing, co-infections or complications and consecutively or through random sampling at primary or secondary care facilities. Only studies reporting that all participants received the index test and the reference standard and presenting 2 x 2 data were eligible for inclusion. We excluded diagnostic case-control studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and abstracts for relevance. Two review authors independently, and in duplicate, assessed eligibility, extracted data, and carried out quality assessment. We resolved differences through consensus or by involving a third review author. We assessed studies for methodological quality using QUADAS-2 and used meta-analysis to combine the results of studies using the bivariate approach to estimate the expected sensitivity and specificity values. We assessed the quality of the evidence using GRADE criteria and explored sources of heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 19 studies, with 13,676 participants, that assessed the diagnostic accuracy of POC tests for C trachomatis infection in nonpregnant women and men of reproductive age, as verified with NAATs as the reference standard. Rapid tests were provided by the distributors in nine studies. Seven studies recruited a predominantly high risk or symptomatic population; the studies were conducted in America, Asia, Africa, Europe and Oceania, with a median prevalence of 10% (range 8% to 28%); nine different brands were assessed. The mean sensitivity for rapid tests for detecting urogenital infection was 0.48 (95% confidence interval (CI) 0.39 to 0.58; low-quality evidence) with a mean specificity of 0.98 (95% CI 0.97 to 0.99; moderate-quality evidence). We explored sources of heterogeneity by looking into differences in diagnostic accuracy according to the specimen (endocervical versus urine or vaginal), symptoms among participants (symptomatic versus asymptomatic), and setting (low/middle-income versus high-income countries). Likelihood ratio tests were not significantly different in terms of sensitivity or specificity by specimen (P = 0.27) or setting (P = 0.28); for this reason, these covariates do not appear to explain the observed variability. Included studies did not provide enough information to assess the 'presence of symptoms' covariate. We downgraded the quality of evidence because of some limitations in applicability and heterogeneity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the results of this systematic review, the POC test based on antigen detection has suboptimal sensitivity but good specificity. Performance of this test translates, on average, to a 52% chance of mistakenly indicating absence of infection and a 2% chance of mistakenly pointing to the presence of this condition. Because of its deleterious consequences for reproductive health, and considering the current availability of safe and effective interventions to treat C trachomatis infection, the POC screening strategy should not be based on a rapid diagnostic test for antigen detection. Research in this topic should focus on different technologies."
+    }
+  ],
+  "pls_title": "What are the most accurate rapid point-of-care tests for the detection of Chlamydia?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Chlamydia trachomatis(C trachomatis)is a common, sexually transmitted infection. It can cause serious health problems if not treated early, but many people withC trachomatisdo not notice any symptoms and need to have a urine or swab test to confirm infection. This review aimed to find out how accurate new test methods, such as rapid point-of-care (tests at the time and place of patient care) tests are for diagnosingC trachomatisinfection.BackgroundThere are about 90 million cases ofC trachomatisinfection worldwide and 3 million cases annually among young and sexually active people. Rapid point-of-care tests can be performed in less than 30 minutes without the need for expensive or sophisticated equipment. The main advantage of this technology is the immediate display of results so that treatment can start straight away.Study characteristicsWe searched for evidence in November 2019 and found 19 relevant studies with 13,676 participants, published between 1999 and 2016. The studies compared the accuracy of the current ‘gold standard’ test (nucleic acid amplification tests (NAAT)) with a total of nine different brands of rapid point-of-care tests.Key ResultsThis review looked at the accuracy of rapid point-of-care tests for diagnosingC trachomatisinfection in nonpregnant women and men. Our results show that there is a 42% to 62% chance of the test result incorrectly indicating noC trachomatisinfection, and close to a 2% chance of the test incorrectly indicating aC trachomatisinfection. This means that for every 1000 patients tested, the point-of-care test could fail to diagnose between 420 to 620 people, who could go on to develop serious health problems as a result of the incorrect diagnosis.Quality of the evidenceAll the included studies used reliable methods to look at the tests, so we thought that they were high quality. However, in some studies, most of the participants were at high risk ofC trachomatisinfection or already showed symptoms, so we are not sure how useful their results would be for low-risk people not showing symptoms. Also, some studies reported very different results from others, and we could not explain the difference.ConclusionC trachomatisinfection is potentially very serious so we think that health providers should not rely on rapid point-of-care tests to diagnoseC trachomatisinfection. In future, research should investigate different technologies."
+    }
+  ]
+}

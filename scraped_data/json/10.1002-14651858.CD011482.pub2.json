@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011482.pub2",
+  "name": "Imaging modalities for the detection of posterior pelvic floor disorders in women with obstructed defaecation syndrome ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Obstructed defaecation syndrome (ODS) is difficulty in evacuating stools, requiring straining efforts at defaecation, having the sensation of incomplete evacuation, or the need to manually assist defaecation. This is due to a physical blockage of the faecal stream during defaecation attempts, caused by rectocele, enterocele, intussusception, anismus or pelvic floor descent. Evacuation proctography (EP) is the most common imaging technique for diagnosis of posterior pelvic floor disorders. It has been regarded as the reference standard because of extensive experience, although it has been proven not to have perfect accuracy. Moreover, EP is invasive, embarrassing and uses ionising radiation. Alternative imaging techniques addressing these issues have been developed and assessed for their accuracy. Because of varying results, leading to a lack of consensus, a systematic review and meta-analysis of the literature are required."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic test accuracy of EP, dynamic magnetic resonance imaging (MRI) and pelvic floor ultrasound for the detection of posterior pelvic floor disorders in women with ODS, using latent class analysis in the absence of a reference standard, and to assess whether MRI or ultrasound could replace EP. The secondary objective was to investigate differences in diagnostic test accuracy in relation to the use of rectal contrast, evacuation phase, patient position and cut-off values, which could influence test outcome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We ran an electronic search on 18 December 2019 in the Cochrane Library, MEDLINE, Embase, SCI, CINAHL and CPCI. Reference list, Google scholar. We also searched WHO ICTRP and clinicaltrials.gov for eligible articles. Two review authors conducted title and abstract screening and full-text assessment, resolving disagreements with a third review author."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Diagnostic test accuracy and cohort studies were eligible for inclusion if they evaluated the test accuracy of EP, and MRI or pelvic floor ultrasound, or both, for the detection of posterior pelvic floor disorders in women with ODS. We excluded case-control studies. If studies partially met the inclusion criteria, we contacted the authors for additional information."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors performed data extraction, including study characteristics, 'Risk-of-bias' assessment, sources of heterogeneity and test accuracy results. We excluded studies if test accuracy data could not be retrieved despite all efforts. We performed meta-analysis using Bayesian hierarchical latent class analysis. For the index test to qualify as a replacement test for EP, both sensitivity and specificity should be similar or higher than the historic reference standard (EP), and for a triage test either specificity or sensitivity should be similar or higher. We conducted heterogeneity analysis assessing the effect of different test conditions on test accuracy. We ran sensitivity analyses by excluding studies with high risk of bias, with concerns about applicability, or those published before 2010. We assessed the overall quality of evidence (QoE) according to GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-nine studies covering 2483 participants were included into the meta-analyses. We produced pooled estimates of sensitivity and specificity for all index tests for each target condition. Findings of the sensitivity analyses were consistent with the main analysis.\nSensitivity of EP for diagnosis of rectocele was 98% (credible interval (CrI)94%-99%), enterocele 91%(CrI 83%-97%), intussusception 89%(CrI 79%-96%) and pelvic floor descent 98%(CrI 93%-100%); specificity for enterocele was 96%(CrI 93%-99%), intussusception 92%(CrI 86%-97%) and anismus 97%(CrI 94%-99%), all with high QoE. Moderate to low QoE showed a sensitivity for anismus of 80%(CrI 63%-94%), and specificity for rectocele of 78%(CrI 63%-90%) and pelvic floor descent 83%(CrI 59%-96%).\nSpecificity of MRI for diagnosis of rectocele was 90% (CrI 79%-97%), enterocele 99% (CrI 96%-100%) and intussusception 97% (CrI 88%-100%), meeting the criteria for a triage test with high QoE. MRI did not meet the criteria to replace EP. Heterogeneity analysis showed that sensitivity of MRI performed with evacuation phase was higher than without for rectocele (94%, CrI 87%-98%) versus 65%, CrI 52% to 89%, and enterocele (87%, CrI 74%-95% versus 62%, CrI 51%-88%), and sensitivity of MRI without evacuation phase was significantly lower than EP.\nSpecificity of transperineal ultrasound (TPUS) for diagnosis of rectocele was 89% (CrI 81%-96%), enterocele 98% (CrI 95%-100%) and intussusception 96% (CrI 91%-99%); sensitivity for anismus was 92% (CrI 72%-98%), meeting the criteria for a triage test with high QoE. TPUS did not meet the criteria to replace EP. Heterogeneity analysis showed that sensitivity of TPUS performed with rectal contrast was not significantly higher than without for rectocele(92%, CrI 69%-99% versus 81%, CrI 58%-95%), enterocele (90%, CrI 71%-99% versus 67%, CrI 51%-90%) and intussusception (90%, CrI 69%-98% versus 61%, CrI 51%-86%), and was lower than EP.\nSpecificity of endovaginal ultrasound (EVUS) for diagnosis of rectocele was 76% (CrI 54%-93%), enterocele 97% (CrI 80%-99%) and intussusception 93% (CrI 72%-99%); sensitivity for anismus was 84% (CrI 59%-96%), meeting the criteria for a triage test with very low to moderate QoE. EVUS did not meet the criteria to replace EP.\nSpecificity of dynamic anal endosonography (DAE) for diagnosis of rectocele was 88% (CrI 62%-99%), enterocele 97% (CrI 75%-100%) and intussusception 93% (CrI 65%-99%), meeting the criteria for a triage test with very low to moderate QoE. DAE did not meet the criteria to replace EP.\nEchodefaecography (EDF) had a sensitivity of 89% (CrI 65%-98%) and specificity of 92% (CrI 72%-99%) for intussusception, meeting the criteria to replace EP but with very low QoE. Specificity of EDF for diagnosis of rectocele was 89% (CrI 60%-99%) and for enterocele 97% (CrI 87%-100%); sensitivity for anismus was 87% (CrI 72%-96%), meeting the criteria for a triage test with low to very low QoE."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In a population of women with symptoms of ODS, none of the imaging techniques met the criteria to replace EP. MRI and TPUS met the criteria of a triage test, as a positive test confirms diagnosis of rectocele, enterocele and intussusception, and a negative test rules out diagnosis of anismus. An evacuation phase increased sensitivity of MRI. Rectal contrast did not increase sensitivity of TPUS. QoE of EVUS, DAE and EDF was too low to draw conclusions. More well-designed studies are required to define their role in the diagnostic pathway of ODS."
+    }
+  ],
+  "pls_title": "Is evacuation proctogram still the reference standard for diagnosis of posterior pelvic floor disorders in women with obstructed defaecation syndrome?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "The issue",
+      "text": "Obstructed defaecation syndrome is a sensation of obstruction during attempts to empty the bowel, a feeling of incomplete bowel emptying, or the need to use a finger to splint the perineum/vagina or insert into the rectum to remove stool. This can cause embarrassment and frustration, leading to an adverse effect on quality of life. Different imaging techniques exist to examine women with these symptoms. The most commonly performed technique currently used is called evacuation proctography (EP). This test can cause embarrassment, as it requires the woman to have a large amount of a porridge-like substance introduced via the back passage and then she has to sit on a commode and open her bowels whilst X-ray images are being taken by the radiologist."
+    },
+    {
+      "heading": "Why is this review important?",
+      "text": "Other imaging techniques to assess women with these symptoms are available, and most of them are less embarrassing. However, it remains unclear how good these imaging techniques are in diagnosing the conditions that cause these symptoms. To be able to provide evidence for potential use of these less embarrassing imaging techniques, existing data of previously-published studies reporting the accuracy (the ability to detect and exclude a specific disorder) of these imaging techniques need to be analysed."
+    },
+    {
+      "heading": "How was this review conducted?",
+      "text": "We searched the available literature on 18 December 2019. We selected studies that assessed the performance of magnetic resonance imaging (MRI) or pelvic floor ultrasound, or both, and EP in women with symptoms of obstructed defaecation. We assessed the quality of the included studies, as well as possible sources that might influence the performance of imaging techniques. We conducted statistical analysis by assessing all available imaging techniques equally, in the absence of a reference standard, to calculate the test accuracy of all imaging techniques under evaluation."
+    },
+    {
+      "heading": "What are the findings?",
+      "text": "We included 39 studies covering 2483 women in the meta-analysis. EP was found to have the highest ability to correctly detect most conditions causing symptoms of obstructed defaecation; none of the other diagnostic tests met the criteria to replace EP. MRI and transperineal ultrasound (TPUS) met the criteria for a triage test. They are better able to correctly identify healthy patients than EP. This means that a positive test result suggests the presence of the disease, as the test rarely gives positive results in healthy women, and avoids further testing. The results of the other ultrasound techniques were of too low a quality of evidence to draw conclusions."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "In a population of women seeking help for their symptoms of obstructed defaecation, EP remains the test of choice. MRI and TPUS can be used for the initial assessment of women with obstructed defaecation as a screening test. TPUS or MRI could therefore potentially reduce the number of women having to undergo EP."
+    }
+  ]
+}

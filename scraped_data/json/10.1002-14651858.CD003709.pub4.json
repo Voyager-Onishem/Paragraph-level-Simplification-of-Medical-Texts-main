@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003709.pub4",
+  "name": "Vasopressors for hypotensive shock",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Initial goal-directed resuscitation for hypotensive shock usually includes administration of intravenous fluids, followed by initiation of vasopressors. Despite obvious immediate effects of vasopressors on haemodynamics, their effect on patient-relevant outcomes remains controversial. This review was published originally in 2004 and was updated in 2011 and again in 2016."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our objective was to compare the effect of one vasopressor regimen (vasopressor alone, or in combination) versus another vasopressor regimen on mortality in critically ill participants with shock. We further aimed to investigate effects on other patient-relevant outcomes and to assess the influence of bias on the robustness of our effect estimates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015 Issue 6), MEDLINE, EMBASE, PASCAL BioMed, CINAHL, BIOSIS and PsycINFO (from inception to June 2015). We performed the original search in November 2003. We also asked experts in the field and searched meta-registries to identify ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) comparing various vasopressor regimens for hypotensive shock."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors abstracted data independently. They discussed disagreements between them and resolved differences by consulting with a third review author. We used a random-effects model to combine quantitative data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 28 RCTs (3497 participants) with 1773 mortality outcomes. Six different vasopressors, given alone or in combination, were studied in 12 different comparisons.\nAll 28 studies reported mortality outcomes; 12 studies reported length of stay. Investigators reported other morbidity outcomes in a variable and heterogeneous way. No data were available on quality of life nor on anxiety and depression outcomes. We classified 11 studies as having low risk of bias for the primary outcome of mortality; only four studies fulfilled all trial quality criteria.\nIn summary, researchers reported no differences in total mortality in any comparisons of different vasopressors or combinations in any of the pre-defined analyses (evidence quality ranging from high to very low). More arrhythmias were observed in participants treated with dopamine than in those treated with norepinephrine (high-quality evidence). These findings were consistent among the few large studies and among studies with different levels of within-study bias risk."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no evidence of substantial differences in total mortality between several vasopressors. Dopamine increases the risk of arrhythmia compared with norepinephrine and might increase mortality. Otherwise, evidence of any other differences between any of the six vasopressors examined is insufficient. We identified low risk of bias and high-quality evidence for the comparison of norepinephrine versus dopamine and moderate to very low-quality evidence for all other comparisons, mainly because single comparisons occasionally were based on only a few participants. Increasing evidence indicates that the treatment goals most often employed are of limited clinical value. Our findings suggest that major changes in clinical practice are not needed, but that selection of vasopressors could be better individualised and could be based on clinical variables reflecting hypoperfusion."
+    }
+  ],
+  "pls_title": "Vasopressors for hypotensive shock",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review seeks unbiased evidence about the effects of different drugs that enhance blood pressure on risk of dying in critically ill patients with impaired blood circulation."
+    },
+    {
+      "heading": "Background",
+      "text": "● Circulatory shock is broadly defined as a life-threatening condition of impaired blood flow resulting in inability of the body to maintain blood delivery to body tissue and to meet oxygen demands.\n● Typical signs of shock include low blood pressure, rapid heartbeat and poor organ perfusion indicated by low urine output, confusion or loss of consciousness.\n● Death in the intensive care unit ranges from 16% to 60%, depending on the underlying condition: treatment includes fluid replacement followed by use of vasopressor agents, if necessary.\n● A vasopressor agent is a drug that causes a rise in blood pressure. Six vasopressor drugs are available and are used successfully to increase blood pressure to reverse circulatory failure in critical care. Differences in their effects on survival are discussed with controversy and must be investigated.\n● This review aims to discover whether any of the drugs given alone or in combination were better or worse than the others."
+    },
+    {
+      "heading": "Search date",
+      "text": "Evidence is current to June 2015."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Review authors identified 28 randomized controlled trials involving 3497 critically ill patients with circulatory failure, among whom 1773 died. Patients were followed up to one year.\nThe following drugs, given alone or in combination, were studied in 12 different comparisons: dopamine, norepinephrine, epinephrine, phenylephrine, vasopressin, and terlipressin."
+    },
+    {
+      "heading": "Key results",
+      "text": "In summary, researchers found no significant differences in risk of dying in any comparisons of different drugs given alone or in combination when latest reported death was considered.\nDisturbances in the rhythm of the heart were observed more frequently in people treated with dopamine than in those treated with norepinephrine."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was high for the comparison of norepinephrine and dopamine, and was very low to moderate for the other comparisons.\nFindings were consistent among the few large studies and studies of different quality."
+    }
+  ]
+}

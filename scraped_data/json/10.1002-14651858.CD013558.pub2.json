@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD013558.pub2",
+  "name": "Oxygenation during the apnoeic phase preceding intubation in adults in prehospital, emergency department, intensive care and operating theatre environments ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Apnoeic oxygenation is the delivery of oxygen during the apnoeic phase preceding intubation. It is used to prevent respiratory complications of endotracheal intubation that have the potential to lead to significant adverse events including dysrhythmia, haemodynamic decompensation, hypoxic brain injury and death. Oxygen delivered by nasal cannulae during the apnoeic phase of intubation (apnoeic oxygenation) may serve as a non-invasive adjunct to endotracheal intubation to decrease the incidence of hypoxaemia, morbidity and mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of apnoeic oxygenation before intubation in adults in the prehospital, emergency department, intensive care unit and operating theatre environments compared to no apnoeic oxygenation during intubation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 4 November 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and quasi-RCTs that compared the use of any form of apnoeic oxygenation including high flow and low flow nasal cannulae versus no apnoeic oxygenation during intubation. We defined quasi-randomization as participant allocation to each arm by means that were not truly random, such as alternation, case record number or date of birth. We excluded comparative prospective cohort and comparative retrospective cohort studies, physiological modelling studies and case reports."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Our primary outcomes were 1. hospital stay and 2. incidence of severe hypoxaemia. Our secondary outcomes were 3. incidence of hypoxaemia, 4. lowest recorded saturation of pulse oximetry (SpO2), 5. intensive care unit (ICU) stay, 6. first pass success rate, 7. adverse events and 8. mortality. We used GRADE to assess certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 RCTs (2264 participants) in our analyses. Eight studies (729 participants) investigated the use of low-flow (15 L/minute or less), and 15 studies (1535 participants) investigated the use of high-flow (greater than 15 L/minute) oxygen. Settings were varied and included the emergency department (2 studies, 327 participants), ICU (7 studies, 913 participants) and operating theatre (14 studies, 1024 participants). We considered two studies to be at low risk of bias across all domains.\nNone of the studies reported on hospital length of stay. In predominately critically ill people, there may be little to no difference in the incidence of severe hypoxaemia (SpO2 less than 80%) when using apnoeic oxygenation at any flow rate from the start of apnoea until successful intubation (risk ratio (RR) 0.86, 95% confidence interval (CI) 0.66 to 1.11; P = 0.25, I² = 0%; 15 studies, 1802 participants; low-certainty evidence).\nThere was insufficient evidence of any effect on the incidence of hypoxaemia (SpO2 less than 93%) (RR 0.58, 95% CI 0.23 to 1.46; P = 0.25, I² = 36%; 3 studies, 489 participants; low-certainty evidence). There may be an improvement in the lowest recorded oxygen saturation, with a mean increase of 1.9% (95% CI 0.75% to 3.05%; P < 0.001, I² = 86%; 15 studies, 1525 participants; low-certainty evidence). There may be a reduction in the duration of ICU stay with the use of apnoeic oxygenation during intubation (mean difference (MD) ‒1.13 days, 95% CI ‒1.51 to ‒0.74; P < 0.0001, I² = 46%; 5 studies, 815 participants; low-certainty evidence). There may be little to no difference in first pass success rate (RR 1.00, 95% CI 0.93 to 1.08; P = 0.79, I² = 0%; 8 studies, 826 participants; moderate-certainty evidence). There may be little to no difference in incidence of adverse events including oral trauma, arrhythmia, aspiration, hypotension, pneumonia and cardiac arrest when apnoeic oxygenation is used. There was insufficient evidence about any effect on mortality (RR 0.84, 95% CI 0.70 to 1.00; P = 0.06, I² = 0%; 6 studies, 1015 participants; low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was some evidence that oxygenation during the apnoeic phase of intubation may improve the lowest recorded oxygen saturation. However, the differences in oxygen saturation were unlikely to be clinically significant. This did not translate into any measurable effect on the incidence of hypoxaemia or severe hypoxaemia in a group of predominately critically ill people. We were unable to assess the influence on hospital length of stay; however, there was a reduction in ICU stay in the apnoeic oxygenation group. The mechanism for this is unclear as there was little to no difference in first pass success or adverse event rates."
+    }
+  ],
+  "pls_title": "In adults, does oxygen therapy during the non-breathing period before intubation prevent complications?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is intubation?",
+      "text": "Intubation is a medical procedure that involves insertion of a tube into the breathing passage during the course of anaesthesia before surgery or in life-saving emergency situations such as road-side trauma or in times of critical illness. The breathing tube serves as a portal for assisted ventilation."
+    },
+    {
+      "heading": "Why might oxygen therapy help?",
+      "text": "During the time when a person stops breathing after going to sleep ready for an operation before an oral breathing tube is inserted low blood oxygen levels (saturations) can occur. This potentially can lead to devastating complications such as a heart attack, stroke or death. Passively providing oxygen via the nose can provide oxygen deep into the lungs and might help prevent low oxygen saturations and the associated complications."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "Does oxygen therapy delivered by small tubes into the nose reduce the incidence of low and critically low oxygen levels in the blood during the time it takes for the medical team to insert the breathing tube whilst the person is not breathing? Does this then prevent the incidence of associated complications and change the length of stay in both the hospital and intensive care unit?"
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched medical databases for randomized controlled trials (a type of study where people are randomly assigned to treatment groups) of adults (aged years or older) that compared giving oxygen therapy with giving no oxygen therapy during the period between when they stopped breathing and intubation."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 23 studies with 2264 participants. The studies were conducted in intensive care units and operating theatres in countries around the world. Pharmaceutical companies contributed funding to some studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "Compared with no oxygen therapy, oxygen therapy improved the lowest recorded blood oxygen levels slightly (by about 2%; 15 studies, 1525 participants), and reduced the duration of intensive care unit stay by about one day (5 studies, 815 people).\nOxygen therapy had no effect on the incidence of critically low oxygen levels in the blood during the non-breathing period in predominately critically ill people (15 studies, 1802 people).\nThere was no effect on the occurrence of complications during intubation (10 studies, 997 participants), or in the success rate of first attempt at intubation (8 studies, 826 participants).\nNone of our included studies reported the effect on hospital length of stay."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Although we did find some benefits of oxygen therapy, we have low to moderate confidence in the results. This was mainly because the doctors in many studies were aware if the participants were receiving extra oxygen and there were differences between the groups of participants that we could not account for."
+    },
+    {
+      "heading": "What next?",
+      "text": "It is unlikely that oxygen therapy during the non-breathing period provides much benefit to all participants in any of the measured intubation-related outcomes. Further studies might focus on length of intensive care stay and any plausible reasons for its effect, or on which groups of participants it is more helpful to."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "Our evidence is current to 4 November 2022."
+    }
+  ]
+}

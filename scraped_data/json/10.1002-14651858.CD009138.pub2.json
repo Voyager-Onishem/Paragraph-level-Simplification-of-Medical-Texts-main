@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009138.pub2",
+  "name": "Amitriptyline versus placebo for major depressive disorder",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Amitriptyline is a tricyclic antidepressant that was synthesised in 1960 and introduced as early as 1961 in the USA, but is still regularly used. It has also been frequently used as an active comparator in trials on newer antidepressants and can therefore be called a 'benchmark' antidepressant. However, its efficacy and safety compared to placebo in the treatment of major depression has not been assessed in a systematic review and meta-analysis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of amitriptyline compared to placebo or no treatment for major depressive disorder in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Depression, Anxiety and Neurosis Group's Specialised Register (CCDANCTR-Studies and CCDANCTR-References) to August 2012. This register contains relevant randomised controlled trials from: The Cochrane Library (all years), EMBASE (1974 to date), MEDLINE (1950 to date) and PsycINFO (1967 to date). The reference lists of reports of all included studies were screened and manufacturers of amitriptyline contacted for details of additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) comparing amitriptyline with placebo or no treatment in patients with major depressive disorder as diagnosed by operationalised criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data. For dichotomous data, we calculated the odds ratio (OR) with 95% confidence intervals (CI). We analysed continuous data using standardised mean differences (with 95% CI). We used a random-effects model throughout."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review includes 39 trials with a total of 3509 participants. Study duration ranged between three and 12 weeks. Amitriptyline was significantly more effective than placebo in achieving acute response (18 RCTs, n = 1987, OR 2.67, 95% CI 2.21 to 3.23). Significantly fewer participants allocated to amitriptyline than to placebo withdrew from trials due to inefficacy of treatment (19 RCTs, n = 2017, OR 0.20, 95% CI 0.14 to 0.28), but more amitriptyline-treated participants withdrew due to side effects (19 RCTs, n = 2174, OR 4.15, 95% CI 2.71 to 6.35). Amitriptyline also caused more anticholinergic side effects, tachycardia, dizziness, nervousness, sedation, tremor, dyspepsia, sedation, sexual dysfunction and weight gain. In subgroup and meta-regression analyses the results of the primary outcome were robust towards publication year (1971 to 1997), mean participant age at baseline, mean amitriptyline dose, study duration in weeks, pharmaceutical sponsor, inpatient versus outpatient setting and two-arm versus three-arm design. However, higher severity at baseline was associated with higher superiority of amitriptyline (P = 0.02), while higher responder rates in the placebo groups were associated with lower superiority of amitriptyline (P = 0.05). The results of the primary outcome were rather homogeneous, reflecting comparability of the trials. However, methods of randomisation, allocation concealment and blinding were usually poorly reported. Not all studies used intention-to-treat analyses and in many of them standard deviations were not reported and often had to be imputed. Funnel plots suggested a possible publication bias, but the trim and fill method did not change the overall effect size much (seven adjusted studies, OR 2.64, 95% CI 2.24 to 3.10)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Amitriptyline is an efficacious antidepressant drug. It is, however, also associated with a number of side effects. Degree of placebo response and severity of depression at baseline may moderate drug-placebo efficacy differences."
+    }
+  ],
+  "pls_title": "Amitriptyline for the treatment of depression",
+  "pls_type": "long",
+  "pls": "Amitriptyline is a tricyclic antidepressant drug that has been used for decades in the treatment of depression. The current review includes 39 trials with a total of 3509 participants and confirms its efficacy compared to placebo or no treatment. This finding is important, because the efficacy of antidepressants has recently been questioned. However, the review also demonstrated that amitriptyline produces a number of side effects such as vision problems, constipation and sedation. It is a limitation of this review that many studies have been poorly reported, which might have led to bias."
+}

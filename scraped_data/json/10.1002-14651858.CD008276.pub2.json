@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD008276.pub2",
+  "name": "Pharmacotherapy for hypertension in adults aged 18 to 59 years",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hypertension is an important risk factor for adverse cardiovascular events including stroke, myocardial infarction, heart failure and renal failure. The main goal of treatment is to reduce these events. Systematic reviews have shown proven benefit of antihypertensive drug therapy in reducing cardiovascular morbidity and mortality but most of the evidence is in people 60 years of age and older. We wanted to know what the effects of therapy are in people 18 to 59 years of age."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify antihypertensive drug effects on all-cause mortality in adults aged 18 to 59 years with mild to moderate primary hypertension. To quantify effects on cardiovascular mortality plus morbidity (including cerebrovascular and coronary heart disease mortality plus morbidity), withdrawal due adverse events and estimate magnitude of systolic blood pressure (SBP) and diastolic blood pressure (DBP) lowering at one year."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched the following databases for randomized controlled trials up to January 2017: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1946), Embase (from 1974), the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov. We contacted authors of relevant papers regarding further published and unpublished work."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials of at least one year' duration comparing antihypertensive pharmacotherapy with a placebo or no treatment in adults aged 18 to 59 years with mild to moderate primary hypertension defined as SBP 140 mmHg or greater or DBP 90 mmHg or greater at baseline, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The outcomes assessed were all-cause mortality, total cardiovascular (CVS) mortality plus morbidity, withdrawals due to adverse events, and decrease in SBP and DBP. For dichotomous outcomes, we used risk ratio (RR) with 95% confidence interval (CI) and a fixed-effect model to combine outcomes across trials. For continuous outcomes, we used mean difference (MD) with 95% CI and a random-effects model as there was significant heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "The population in the seven included studies (17,327 participants) were predominantly healthy adults with mild to moderate primary hypertension. The Medical Research Council Trial of Mild Hypertension contributed 14,541 (84%) of total randomized participants, with mean age of 50 years and mean baseline blood pressure of 160/98 mmHg and a mean duration of follow-up of five years. Treatments used in this study were bendrofluazide 10 mg daily or propranolol 80 mg to 240 mg daily with addition of methyldopa if required. The risk of bias in the studies was high or unclear for a number of domains and led us to downgrade the quality of evidence for all outcomes.\nBased on five studies, antihypertensive drug therapy as compared to placebo or untreated control may have little or no effect on all-cause mortality (2.4% with control vs 2.3% with treatment; low quality evidence; RR 0.94, 95% CI 0.77 to 1.13). Based on 4 studies, the effects on coronary heart disease were uncertain due to low quality evidence (RR 0.99, 95% CI 0.82 to 1.19). Low quality evidence from six studies showed that drug therapy may reduce total cardiovascular mortality and morbidity from 4.1% to 3.2% over five years (RR 0.78, 95% CI 0.67 to 0.91) due to reduction in cerebrovascular mortality and morbidity (1.3% with control vs 0.6% with treatment; RR 0.46, 95% CI 0.34 to 0.64). Very low quality evidence from three studies showed that withdrawals due to adverse events were higher with drug therapy from 0.7% to 3.0% (RR 4.82, 95% CI 1.67 to 13.92). The effects on blood pressure varied between the studies and we are uncertain as to how much of a difference treatment makes on average."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antihypertensive drugs used to treat predominantly healthy adults aged 18 to 59 years with mild to moderate primary hypertension have a small absolute effect to reduce cardiovascular mortality and morbidity primarily due to reduction in cerebrovascular mortality and morbidity. All-cause mortality and coronary heart disease were not reduced. There is lack of good evidence on withdrawal due to adverse events. Future trials in this age group should be at least 10 years in duration and should compare different first-line drug classes and strategies."
+    }
+  ],
+  "pls_title": "Treatment for hypertension in adults aged 18 to 59 years",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to study the benefits and harms of using blood pressure lowering (antihypertensive) medicines in adults aged 18 to 59 years with raised blood pressure (hypertension).\nWe searched the available medical literature to find all the trials that had assessed this question. The data included in this review is up to date as of January 2017."
+    },
+    {
+      "heading": "Background",
+      "text": "Hypertension increases the risk of stroke, heart attacks and heart failure; therefore, the main goal of treatment with antihypertensive medicines is to reduce this risk. There is substantial evidence mostly in people older than 60 years that antihypertensive therapy reduces these outcomes."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": ""
+    },
+    {
+      "heading": ".",
+      "text": ".The average duration of treatment was five years. Medicine classes studied in most people included medicines called thiazide diuretics or beta-blockers."
+    },
+    {
+      "heading": "Key results",
+      "text": "Treatment may have little or no effect on death from any cause compared with placebo or no treatment (2.4% with placebo/no treatment versus 2.3% with treatment; low quality evidence) and it may reduce the number of people experiencing heart disease or death from heart disease from 4.1% to 3.2% (low quality evidence). It may reduce stroke by a small amount from 1.3% to 0.6% (low quality evidence). We are not certain about the effects of treatment on the number of people who had blocked arteries (low quality evidence). Withdrawal due to side effects increased from 0.7% to 3.0% although the quality of evidence for this result was very low. The effects of treatment on blood pressure varied between the studies and we are uncertain as to how much of a difference treatment makes on average."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Antihypertensive medicines for adults aged 18 to 59 years with raised blood pressure have a small beneficial effect to reduce stroke. However, death due to all-causes and heart attack were not reduced and withdrawals due to side effects were increased."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The overall evidence was graded as low or very low quality."
+    }
+  ]
+}

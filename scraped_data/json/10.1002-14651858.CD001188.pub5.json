@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD001188.pub5",
+  "name": "Nursing interventions for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Healthcare professionals, including nurses, frequently advise people to improve their health by stopping smoking. Such advice may be brief, or part of more intensive interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of nursing-delivered smoking cessation interventions in adults. To establish whether nursing-delivered smoking cessation interventions are more effective than no intervention; are more effective if the intervention is more intensive; differ in effectiveness with health state and setting of the participants; are more effective if they include follow-ups; are more effective if they include aids that demonstrate the pathophysiological effect of smoking."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Specialized Register and CINAHL in January 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials of smoking cessation interventions delivered by nurses or health visitors with follow-up of at least six months."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data independently. The main outcome measure was abstinence from smoking after at least six months of follow-up. We used the most rigorous definition of abstinence for each trial, and biochemically-validated rates if available. Where statistically and clinically appropriate, we pooled studies using a Mantel-Haenszel fixed-effect model and reported the outcome as a risk ratio (RR) with a 95% confidence interval (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fifty-eight studies met the inclusion criteria, nine of which are new for this update. Pooling 44 studies (over 20,000 participants) comparing a nursing intervention to a control or to usual care, we found the intervention increased the likelihood of quitting (RR 1.29, 95% CI 1.21 to 1.38); however, statistical heterogeneity was moderate (I2 = 50%) and not explained by subgroup analysis. Because of this, we judged the quality of evidence to be moderate. Despite most studies being at unclear risk of bias in at least one domain, we did not downgrade the quality of evidence further, as restricting the main analysis to only those studies at low risk of bias did not significantly alter the effect estimate. Subgroup analyses found no evidence that high-intensity interventions, interventions with additional follow-up or interventions including aids that demonstrate the pathophysiological effect of smoking are more effective than lower intensity interventions, or interventions without additional follow-up or aids. There was no evidence that the effect of support differed by patient group or across healthcare settings."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is moderate quality evidence that behavioural support to motivate and sustain smoking cessation delivered by nurses can lead to a modest increase in the number of people who achieve prolonged abstinence. There is insufficient evidence to assess whether more intensive interventions, those incorporating additional follow-up, or those incorporating pathophysiological feedback are more effective than one-off support. There was no evidence that the effect of support differed by patient group or across healthcare settings."
+    }
+  ],
+  "pls_title": "Does support and intervention from nurses help people to stop smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Most smokers want to quit, and may be helped by advice and support from healthcare professionals. Nurses are the largest healthcare workforce, and are involved in virtually all levels of health care. The main aim of this review was to determine if nursing-delivered interventions can help adult smokers to stop smoking."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review of clinical trials covered 58 studies in which nurses delivered a stop-smoking intervention to smokers. More than 20,000 participants were included in the main analysis, including hospitalized adults and adults in the general community. The most recent search was conducted in January 2017. All studies reported whether or not participants had quit smoking at six months or longer."
+    },
+    {
+      "heading": "Key Results",
+      "text": "This review found moderate-quality evidence that advice and support from nurses could increase people's success in quitting smoking, whether in hospitals or in community settings. Eleven studies compared different nurse-delivered interventions and did not find that adding more components changed the effect."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The quality of evidence was moderate, meaning that further research may change our confidence in the result. This is because results were not consistent across all of the studies, and in some cases there were not very many studies contributing to comparisons."
+    }
+  ]
+}

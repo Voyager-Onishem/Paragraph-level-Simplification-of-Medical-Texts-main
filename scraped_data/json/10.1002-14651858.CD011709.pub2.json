@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011709.pub2",
+  "name": "Chlorpromazine versus piperacetazine for schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a severe mental disorder with a prevalence of about 1% among the general population. It is listed among the top 10 causes of disability-adjusted life years (DALYs) worldwide. Antipsychotics are the mainstay treatment. Piperacetazine has been reported to be as clinically effective as chlorpromazine, a well established 'benchmark' antipsychotic, for people with schizophrenia. However, the side effect profiles of these antipsychotics differ and it is important that an evidence base is available comparing the benefits, and potential harms of these two antipsychotics."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical and side effects of chlorpromazine for people with schizophrenia and schizophrenia-like psychoses in comparison with piperacetazine."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Trials Register (6 June 2015 and 8 October 2018) which is based on regular searches of CINAHL, CENTRAL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO and registries of clinical trials. There are no language, date, document type, or publication status limitations for inclusion of records in the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) focusing on chlorpromazine versus piperacetazine for people with schizophrenia, reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention-to-treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a fixed-effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 12 records referring to six trials. We included five trials, all from the 1970s, randomising 343 participants. We excluded one trial. The overall methodology and data reporting by the trials was poor. Only short-term data were available.\nResults from the included trials found that, in terms of global state improvement, when rated by a psychiatrist, there was no clear difference between chlorpromazine and piperacetazine (RR 0.90, 95% CI 0.80 to 1.02; participants = 208; studies = 2; very low-quality evidence). One trial reported change scores on the mental state scale Brief Psychiatric Rating Scale (BPRS); no clear difference was observed (MD -0.40, 95% CI -1.41 to 0.61; participants = 182; studies = 1; very low-quality evidence). Chlorpromazine appears no worse or better than piperacetazine regarding adverse effects. In both treatment groups, around 60% of participants experienced some sort of adverse effect (RR 1.00, 95% CI 0.75 to 1.33; participants = 74; studies = 3; very low-quality evidence), with approximately 40% of these participants experiencing some parkinsonism-type movement disorder (RR 0.95, CI 0.61 to 1.49; participants = 106; studies = 3; very low-quality evidence). No clear difference in numbers of participants leaving the study early for any reason was observed (RR 0.50, 95% CI 0.10 to 2.56; participants = 256; studies = 4; very low-quality evidence). No trial reported data for change in negative symptoms or economic costs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this review show chlorpromazine and piperacetazine may have similar clinical efficacy, but data are based on very small numbers of participants and the evidence is very low quality. We can not make firm conclusions based on such data. Currently, should clinicians and people with schizophrenia need to choose between chlorpromazine and piperacetazine they should be aware there is no good quality evidence to base decisions. More high quality research is needed."
+    }
+  ],
+  "pls_title": "Chlorpromazine versus piperacetazine for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is the antipsychotic drug, chlorpromazine, better or worse than the antipsychotic drug, piperacetazine, for treating the symptoms of schizophrenia?"
+    },
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a serious mental illness that severely disrupts a person's thought processes and affects around 1% of the general population. Schizophrenia is listed among the top 10 causes of disability-adjusted life years (DALYs) worldwide. People with schizophrenia often have a lower life expectancy and an increased risk of suicide. There are two main types of symptoms, positive and negative. Common positive symptoms include delusions (beliefs that are not based in reality) and hallucinations (seeing or hearing things that are not real). Negative symptoms include social withdrawal and lack of motivation and poor emotional response. Positive symptoms are usually of short duration and the negative symptoms can be long term. Schizophrenia is usually treated with a combination of antipsychotic drugs and psychological therapies. Chlorpromazine and piperacetazine are antipsychotic drugs used to treat schizophrenia, however, they both can also cause unpleasant side effects. This review aims to assess evidence from randomised controlled trials regarding the effectiveness and safety of both of these drugs."
+    },
+    {
+      "heading": "Searching for evidence",
+      "text": "A search for randomised controlled trials that could be relevant to this review was carried out on 6 June 2015, and another search was carried out 8 October 2018. This was achieved by searching the Specialised Register of Cochrane Schizophrenia. The 2015 search found six possible trials and we carefully checked these to see if we could include them in the review. The 2018 search found no new trials."
+    },
+    {
+      "heading": "Results",
+      "text": "Five trials, randomising a total of 343 participants met the review requirements for inclusion. These trials randomly allocated participants to receive either chlorpromazine or piperacetazine. Data were reported for participants' global and mental state after treatment, incidence of adverse effects and numbers leaving the trial early. However, we did not find any data concerning service use, functioning of participants or economic costs of these treatments. The overall results showed chlorpromazine and piperacetazine may have similar clinical efficacy and side effect profiles. However, these results are based on very low-quality data."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The number of included studies and the sample size of participants included in this review is small, and the quality of data very low, so the results of this review are not conclusive and must be used with caution. Further research would be needed before decisions can be made regarding which drug is more effective."
+    }
+  ]
+}

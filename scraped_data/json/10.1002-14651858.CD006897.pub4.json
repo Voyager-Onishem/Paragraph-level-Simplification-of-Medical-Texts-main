@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD006897.pub4",
+  "name": "Different durations of corticosteroid therapy for exacerbations of chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Current guidelines recommend that patients with acute exacerbations of chronic obstructive pulmonary disease (COPD) should be treated with systemic corticosteroid for seven to 14 days. Intermittent systemic corticosteroid use is cumulatively associated with adverse effects such as osteoporosis, hyperglycaemia and muscle weakness. Shorter treatment could reduce adverse effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy of short-duration (seven or fewer days) and conventional longer-duration (longer than seven days) systemic corticosteroid treatment of adults with acute exacerbations of COPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches were carried out using the Cochrane Airways Group Specialised Register of Trials, MEDLINE and CENTRAL (Cochrane Central Register of Controlled Trials) and ongoing trials registers up to March 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing different durations of systemic corticosteroid defined as short (i.e. seven or fewer days) or longer (i.e. longer than seven days). Other interventions—bronchodilators and antibiotics—were standardised. Studies with participants requiring assisted ventilation were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as expected by The Cochrane Collaboration."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight studies with 582 participants met the inclusion criteria, of which five studies conducted in hospitals with 519 participants (range 28 to 296) contributed to the meta-analysis. Mean ages of study participants were 65 to 73 years, the proportion of male participants varied (58% to 84%) and COPD was classified as severe or very severe. Corticosteroid treatment was given at equivalent daily doses for three to seven days for short-duration treatment and for 10 to 15 days for longer-duration treatment. Five studies administered oral prednisolone (30 mg in four, tapered in one), and two studies provided intravenous corticosteroid treatment. Studies contributing to the meta-analysis were at low risk of selection, performance, detection and attrition bias. In four studies we did not find a difference in risk of treatment failure between short-duration and longer-duration systemic corticosteroid treatment (n = 457; odds ratio (OR) 0.72, 95% confidence interval (CI) 0.36 to 1.46)), which was equivalent to 22 fewer per 1000 for short-duration treatment (95% CI 51 fewer to 34 more). No difference in risk of relapse (a new event) was observed between short-duration and longer-duration systemic corticosteroid treatment (n = 457; OR 1.04, 95% CI 0.70 to 1.56), which was equivalent to nine fewer per 1000 for short-duration treatment (95% CI 68 fewer to 100 more). Time to the next COPD exacerbation did not differ in one large study that was powered to detect non-inferiority and compared five days versus 14 days of systemic corticosteroid treatment (n = 311; hazard ratio 0.95, 95% CI 0.66 to 1.37). In five studies no difference in the likelihood of an adverse event was found between short-duration and longer-duration systemic corticosteroid treatment (n = 503; OR 0.89, 95% CI 0.46 to 1.69, or nine fewer per 1000 (95% CI 44 fewer to 51 more)). Length of hospital stay (n = 421; mean difference (MD) -0.61 days, 95% CI -1.51 to 0.28) and lung function at the end of treatment (n = 185; MD FEV1 -0.04 L; 95% CI -0.19 to 0.10) did not differ between short-duration and longer-duration treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Information from a new large study has increased our confidence that five days of oral corticosteroids is likely to be sufficient for treatment of adults with acute exacerbations of COPD, and this review suggests that the likelihood is low that shorter courses of systemic corticosteroids (of around five days) lead to worse outcomes than are seen with longer (10 to 14 days) courses. We graded most available evidence as moderate in quality because of imprecision; further research may have an important impact on our confidence in the estimates of effect or may change the estimates. The studies in this review did not include people with mild or moderate COPD; further studies comparing short-duration systemic corticosteroid versus conventional longer-duration systemic corticosteroid for treatment of adults with acute exacerbations of COPD are required."
+    }
+  ],
+  "pls_title": "Are shorter courses of systemic steroids as effective as conventional longer courses in the treatment of patients with flare-ups of COPD?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "Chronic obstructive pulmonary disease (COPD), which includes emphysema and chronic bronchitis, is a long-term lung condition that is commonly associated with smoking. Patients with COPD may experience flare-ups (exacerbations), often precipitated by infection, in which symptoms such as breathlessness, cough and phlegm become markedly worse, and extra treatment or admission to hospital is required.\nSystemic (i.e. not inhaled) corticosteroids, such as prednisolone, prednisone and cortisone, are commonly used in the treatment of patients with these flare-ups (exacerbations). We wanted to assess whether a shorter course (seven or fewer days) of this treatment was as good as a course of usual length (longer than seven days) and caused fewer side effects."
+    },
+    {
+      "heading": "How did we answer the question?",
+      "text": "We looked for all studies that compared oral or injected corticosteroid treatment given for seven or fewer days versus treatment given for longer than seven days in people with acute exacerbations of COPD."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found eight studies that included 582 people with COPD who experienced a flare-up that required extra treatment in hospital. These studies compared oral or injected corticosteroid treatment given for seven or fewer days versus treatment for longer than seven days. Most of the people in these studies were in their late sixties and had severe or very severe symptoms of COPD; more men than women took part. The last search for studies to be included in the review was conducted in March 2017.\nNo differences were observed between shorter and longer courses of treatment. People treated for seven or fewer days did not have a higher rate of treatment failure or longer time to their next exacerbation; the number of people who avoided treatment failure ranged from 51 fewer to 34 more per 1000 treated (average 22 fewer people per 1000). Time in hospital and lung function (blowing tests) at the end of treatment were not different. No differences in side effects or death were noted between treatments. Information on quality of life, which is an important outcome for people with COPD, is limited, as only one study measured it.\nThe eight studies included in this review were generally well designed, and the quality of the evidence was rated as moderate because of imprecision in results; more research, especially involving people with less severe COPD, is needed."
+    }
+  ]
+}

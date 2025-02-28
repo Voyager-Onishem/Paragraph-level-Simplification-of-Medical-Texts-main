@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD014962.pub2",
+  "name": "Remdesivir for the treatment of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Remdesivir is an antiviral medicine approved for the treatment of mild-to-moderate coronavirus disease 2019 (COVID-19). This led to widespread implementation, although the available evidence remains inconsistent. This update aims to fill current knowledge gaps by identifying, describing, evaluating, and synthesising all evidence from randomised controlled trials (RCTs) on the effects of remdesivir on clinical outcomes in COVID-19."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of remdesivir and standard care compared to standard care plus/minus placebo on clinical outcomes in patients treated for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (which comprises the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, Embase, ClinicalTrials.gov, World Health Organization (WHO) International Clinical Trials Registry Platform, and medRxiv) as well as Web of Science (Science Citation Index Expanded and Emerging Sources Citation Index) and WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies, without language restrictions. We conducted the searches on 31 May 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We followed standard Cochrane methodology.\nWe included RCTs evaluating remdesivir and standard care for the treatment of SARS-CoV-2 infection compared to standard care plus/minus placebo irrespective of disease severity, gender, ethnicity, or setting.\nWe excluded studies that evaluated remdesivir for the treatment of other coronavirus diseases."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology.\nTo assess risk of bias in included studies, we used the Cochrane RoB 2 tool for RCTs. We rated the certainty of evidence using the GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach for outcomes that were reported according to our prioritised categories: all-cause mortality, in-hospital mortality, clinical improvement (being alive and ready for discharge up to day 28) or worsening (new need for invasive mechanical ventilation or death up to day 28), quality of life, serious adverse events, and adverse events (any grade).\nWe differentiated between non-hospitalised individuals with asymptomatic SARS-CoV-2 infection or mild COVID-19 and hospitalised individuals with moderate to severe COVID-19."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine RCTs with 11,218 participants diagnosed with SARS-CoV-2 infection and a mean age of 53.6 years, of whom 5982 participants were randomised to receive remdesivir. Most participants required low-flow oxygen at baseline. Studies were mainly conducted in high- and upper-middle-income countries. We identified two studies that are awaiting classification and five ongoing studies.\nEffects of remdesivir in hospitalised individuals with moderate to severe COVID-19\nWith moderate-certainty evidence, remdesivir probably makes little or no difference to all-cause mortality at up to day 28 (risk ratio (RR) 0.93, 95% confidence interval (CI) 0.81 to 1.06; risk difference (RD) 8 fewer per 1000, 95% CI 21 fewer to 6 more; 4 studies, 7142 participants), day 60 (RR 0.85, 95% CI 0.69 to 1.05; RD 35 fewer per 1000, 95% CI 73 fewer to 12 more; 1 study, 1281 participants), or in-hospital mortality at up to day 150 (RR 0.93, 95% CI 0.84 to 1.03; RD 11 fewer per 1000, 95% CI 25 fewer to 5 more; 1 study, 8275 participants).\nRemdesivir probably increases the chance of clinical improvement at up to day 28 slightly (RR 1.11, 95% CI 1.06 to 1.17; RD 68 more per 1000, 95% CI 37 more to 105 more; 4 studies, 2514 participants; moderate-certainty evidence). It probably decreases the risk of clinical worsening within 28 days (hazard ratio (HR) 0.67, 95% CI 0.54 to 0.82; RD 135 fewer per 1000, 95% CI 198 fewer to 69 fewer; 2 studies, 1734 participants, moderate-certainty evidence).\nRemdesivir may make little or no difference to the rate of adverse events of any grade (RR 1.04, 95% CI 0.92 to 1.18; RD 23 more per 1000, 95% CI 46 fewer to 104 more; 4 studies, 2498 participants; low-certainty evidence), or serious adverse events (RR 0.84, 95% CI 0.65 to 1.07; RD 44 fewer per 1000, 95% CI 96 fewer to 19 more; 4 studies, 2498 participants; low-certainty evidence).\nWe considered risk of bias to be low, with some concerns for mortality and clinical course. We had some concerns for safety outcomes because participants who had died did not contribute information. Without adjustment, this leads to an uncertain amount of missing values and the potential for bias due to missing data.\nEffects of remdesivir in non-hospitalised individuals with mild COVID-19\nOne of the nine RCTs was conducted in the outpatient setting and included symptomatic people with a risk of progression. No deaths occurred within the 28 days observation period.\nWe are uncertain about clinical improvement due to very low-certainty evidence. Remdesivir probably decreases the risk of clinical worsening (hospitalisation) at up to day 28 (RR 0.28, 95% CI 0.11 to 0.75; RD 46 fewer per 1000, 95% CI 57 fewer to 16 fewer; 562 participants; moderate-certainty evidence). We did not find any data for quality of life.\nRemdesivir may decrease the rate of serious adverse events at up to 28 days (RR 0.27, 95% CI 0.10 to 0.70; RD 49 fewer per 1000, 95% CI 60 fewer to 20 fewer; 562 participants; low-certainty evidence), but it probably makes little or no difference to the risk of adverse events of any grade (RR 0.91, 95% CI 0.76 to 1.10; RD 42 fewer per 1000, 95% CI 111 fewer to 46 more; 562 participants; moderate-certainty evidence).\nWe considered risk of bias to be low for mortality, clinical improvement, and safety outcomes. We identified a high risk of bias for clinical worsening."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence up to 31 May 2022, remdesivir probably has little or no effect on all-cause mortality or in-hospital mortality of individuals with moderate to severe COVID-19. The hospitalisation rate was reduced with remdesivir in one study including participants with mild to moderate COVID-19. It may be beneficial in the clinical course for both hospitalised and non-hospitalised patients, but certainty remains limited. The applicability of the evidence to current practice may be limited by the recruitment of participants from mostly unvaccinated populations exposed to early variants of the SARS-CoV-2 virus at the time the studies were undertaken.\nFuture studies should provide additional data on the efficacy and safety of remdesivir for defined core outcomes in COVID-19 research, especially for different population subgroups."
+    }
+  ],
+  "pls_title": "Remdesivir to treat people with COVID-19",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Is remdesivir (an antiviral medicine) an effective treatment for COVID-19?",
+      "text": ""
+    },
+    {
+      "heading": "Key messages",
+      "text": "• For adults hospitalised with COVID-19, remdesivir probably has little or no effect on deaths up to 150 days after treatment compared with placebo (sham treatment) or usual care.\n• Remdesivir probably slightly raises the chance for hospitalised patients to improve and get discharged (leave the hospital or go home). It may also decrease the risk of becoming worse (invasive ventilation through a breathing tube or death).\n• Usually patients who have mild symptoms and are not hospitalised are less likely to die. Remdesivir probably reduces the risk of getting worse and being hospitalised, but we cannot say if it affects recovery (e.g. relief in symptoms).\n• Future studies should investigate the impact of remdesivir on the course of COVID-19 in different subgroups (e.g. less or more severely ill people)."
+    },
+    {
+      "heading": "What is remdesivir?",
+      "text": "Remdesivir is a medicine that fights viruses. It has been shown to prevent the virus that causes COVID-19 (SARS-CoV-2) from reproducing. Medical regulators have approved remdesivir to treat people with COVID-19. Common reported side effects are nausea, vomiting, and headaches, as well as changes in blood tests."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if remdesivir is an effective treatment for people with COVID-19 and if it causes unwanted effects compared to placebo or usual care. Its effect could depend on how advanced the illness is when treatment begins. We therefore distinguished between hospitalised patients with moderate to severe disease (e.g. having ventilation) and non-hospitalised people who have tested positive for COVID-19 but have no or mild symptoms.\nWe were interested in the following outcomes for hospitalised patients:\n• deaths in the 28 days after treatment or after more than 28 days, if available;\n• deaths that occurred during hospitalisation;\n• whether patients got better after treatment and were ready to be discharged;\n• whether patients’ condition worsened so that they needed mechanical ventilation through a breathing tube or died;\n• any unwanted effects; and\n• serious unwanted effects.\nWe were interested in the following outcomes for non-hospitalised patients:\n• deaths in the 28 days after treatment or after more than 28 days, if available;\n• whether patients got better after treatment so that they were free of symptoms;\n• whether patients’ condition worsened so that they needed to be hospitalised or that they died;\n• quality of life;\n• any unwanted effects; and\n• serious unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated remdesivir to treat adults with COVID-19 compared to placebo or standard care. Patients could be of any gender or ethnicity.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found eight studies with 10,656 people hospitalised with moderate to severe COVID-19 and one study with 562 people with mild COVID-19. Of these, 5982 people were given remdesivir. No studies evaluated people without symptoms of COVID-19. The average age of patients was 59 years."
+    },
+    {
+      "heading": "Main results",
+      "text": "The included studies compared remdesivir and usual care to usual care (plus/minus placebo) in people with COVID-19."
+    },
+    {
+      "heading": "Hospitalised people with moderate to severe COVID-19",
+      "text": "Remdesivir probably makes little or no difference to deaths after 28 days, after 60 days, or to deaths in hospital during 150 days. It probably raises the chance for patients to get better slightly, and it probably lowers the risk of getting worse. The rates of unwanted effects of any severity were similar between the compared groups."
+    },
+    {
+      "heading": "Non-hospitalised people with mild COVID-19",
+      "text": "In the study with outpatients no one died during the investigation (28 days). After treatment with remdesivir, people were less likely to get worse and be hospitalised. We do not know whether remdesivir leads to more or less chance for patients to improve. Patients may suffer fewer serious unwanted effects with remdesivir than with placebo or standard care. The rates of unwanted effects of any severity were similar between the compared groups."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are moderately confident in the evidence for deaths and course of disease in hospitalised people. Our confidence in the evidence of all other results in this group is limited because of differences between studies and a possible influence of their methods. For non-hospitalised people with mild COVID-19, we are moderately confident in the evidence for worsening of patients' condition and unwanted effects. Our confidence in the evidence of all other results is limited, especially for improvement of patients' condition, for methodological reasons (e.g. measurements were carried out inadequately or are not comparable, or both) and different results between studies. The studies were conducted at a time when vaccine programmes had not been started and the virus differed from subsequent strains. Most of the people in the studies also live in high- and middle-income countries. This might limit the applicability of the findings to people who are vaccinated and in low-income countries with less access to medical care."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This is an update of the initial review and the evidence is current to 31 May 2022."
+    }
+  ]
+}

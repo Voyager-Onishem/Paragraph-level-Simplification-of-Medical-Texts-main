@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/14651858.CD011305.pub3",
+  "name": "Restrictive versus liberal red blood cell transfusion strategies for people with haematological malignancies treated with intensive chemotherapy or radiotherapy, or both, with or without haematopoietic stem cell support ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "An estimated one-quarter to one-half of people diagnosed with haematological malignancies experience anaemia. There are different strategies for red blood cell (RBC) transfusions to treat anaemia. A restrictive transfusion strategy permits a lower haemoglobin (Hb) level whereas a liberal transfusion strategy aims to maintain a higher Hb. The most effective and safest strategy is unknown."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and safety of restrictive versus liberal RBC transfusion strategies for people diagnosed with haematological malignancies treated with intensive chemotherapy or radiotherapy, or both, with or without a haematopoietic stem cell transplant (HSCT)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched for randomised controlled trials (RCTs) and non-randomised studies (NRS) in MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1982), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2023, Issue 2), and eight other databases (including three trial registries) to 21 March 2023. We also searched grey literature and contacted experts in transfusion for additional trials. There were no language, date or publication status restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs and prospective NRS that evaluated restrictive versus liberal RBC transfusion strategies in children or adults with malignant haematological disorders receiving intensive chemotherapy or radiotherapy, or both, with or without HSCT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened references, full-text reports of potentially relevant studies, extracted data from the studies, and assessed the risk of bias. Any disagreement was discussed and resolved with a third review author. Dichotomous outcomes were presented as a risk ratio (RR) with a 95% confidence interval (CI). Narrative syntheses were used for heterogeneous outcome measures. Review Manager Web was used to meta-analyse the data. Main outcomes of interest included: all-cause mortality at 31 to 100 days, quality of life, number of participants with any bleeding, number of participants with clinically significant bleeding, serious infections, length of hospital admission (days) and hospital readmission at 0 to 3 months. The certainty of the evidence was assessed using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine studies met eligibility; eight RCTs and one NRS. Six hundred and forty-four participants were included from six completed RCTs (n = 560) and one completed NRS (n = 84), with two ongoing RCTs consisting of 294 participants (260 adult and 34 paediatric) pending inclusion. Only one completed RCT included children receiving HSCT (n = 6); the other five RCTs only included adults: 239 with acute leukaemia receiving chemotherapy and 315 receiving HSCT (166 allogeneic and 149 autologous). The transfusion threshold ranged from 70 g/L to 80 g/L for restrictive and from 80 g/L to 120 g/L for liberal strategies. Effects were reported in the summary of findings tables only for the trials that included adults to reduce indirectness due to the limited evidence contributed by the prematurely terminated paediatric trial.\nEvidence from RCTs\nOverall, there may be little to no difference in the number of participants who die within 31 to 100 days using a restrictive compared to a liberal transfusion strategy, but the evidence is very uncertain (three studies; 451 participants; RR 1.00, 95% CI 0.27 to 3.70, P=0.99; very low-certainty evidence).\nThere may be little to no difference in quality of life at 0 to 3 months using a restrictive compared to a liberal transfusion strategy, but the evidence is very uncertain (three studies; 431 participants; analysis unable to be completed due to heterogeneity; very low-certainty evidence).\nThere may be little to no difference in the number of participants who suffer from any bleeding at 0 to 3 months using a restrictive compared to a liberal transfusion strategy (three studies; 448 participants; RR 0.91, 95% CI 0.78 to 1.06, P = 0.22; low-certainty evidence).\nThere may be little to no difference in the number of participants who suffer from clinically significant bleeding at 0 to 3 months using a restrictive compared to a liberal transfusion strategy (four studies; 511 participants; RR: 0.94, 95% CI 0.74 to 1.19, P = 0.60; low-certainty evidence).\nThere may be little to no difference in the number of participants who experience serious infections at 0 to 3 months using a restrictive compared to a liberal transfusion strategy (three studies, 451 participants; RR: 1.20, 95% CI 0.93 to 1.55, P = 0.17; low-certainty evidence).\nA restrictive transfusion strategy likely results in little to no difference in the length of hospital admission at 0 to 3 months compared to a liberal strategy (two studies; 388 participants; analysis unable to be completed due to heterogeneity in reporting; moderate-certainty evidence).\nThere may be little to no difference between hospital readmission using a restrictive transfusion strategy compared to a liberal transfusion strategy (one study, 299 participants; RR: 0.89, 95% CI 0.52 to 1.50; P = 0.65; low-certainty evidence).\nEvidence from NRS\nThe evidence is very uncertain whether a restrictive RBC transfusion strategy: reduces the risk of death within 100 days (one study, 84 participants, restrictive 1 death; liberal 1 death; very low-certainty evidence ); or decreases the risk of clinically significant bleeding (one study, 84 participants, restrictive 3; liberal 8; very low-certainty evidence).\nNo NRS reported on the other eligible outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Findings from this review were based on seven studies and 644 participants.\nDefinite conclusions are challenging given the relatively few included studies, low number of included participants, heterogeneity of intervention and outcome reporting, and overall certainty of evidence. To increase the certainty of the true effect of a restrictive RBC transfusion strategy on clinical outcomes, there is a need for rigorously designed and executed studies. The evidence is largely based on two populations: adults with acute leukaemia receiving intensive chemotherapy and adults with haematologic malignancy requiring HSCT. Despite the addition of 405 participants from three RCTs to the previous review's results, there is still insufficient evidence to answer this review's primary outcome. If we assume a mortality rate of 3% within 100 days, we would need a total of 1492 participants to have an 80% chance of detecting, at a 5% level of significance, an increase in all-cause mortality from 3% to 6%. Further RCTs are needed overall, particularly in children."
+    }
+  ],
+  "pls_title": "Is there a benefit of using a lower red blood cell level (restrictive) compared to a higher red blood cell level (liberal) to determine the need for red blood cell transfusion in patients diagnosed with blood cancers (e.g. leukaemia, lymphoma, myeloma) requiring intensive treatments for their disease (chemotherapy or stem cell transplantation)?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "The use of a restrictive RBC transfusion strategy may result in little to no difference in the number of participants that die within 31 to 100 days compared to a liberal strategy, although the research question was still not appropriately addressed, given the relatively few included studies, low number of included participants, heterogeneity of intervention and outcome reporting, and overall certainty of evidence."
+    },
+    {
+      "heading": "•",
+      "text": "The use of a restrictive RBC transfusion strategy may result in little to no difference in quality of life, any bleeding, clinically significant bleeding (e.g. bleeding which results in loss of blood requiring a blood transfusion, admission to hospital, needing surgery or resulting in death), serious infections, length of time in hospital or the need to be re-admitted to hospital compared to a liberal strategy. Missing data and the lack of blinding of participants significantly affected the data for the quality of life and bleeding outcomes. Similar to the primary outcome, further studies, with a larger number of included participants, are needed to answer these questions."
+    },
+    {
+      "heading": "•",
+      "text": "No studies were found that looked at the risk of development of blood clots or risk of death within 30 days of intensive radiation therapy. There is a need for larger studies involving paediatrics as well as other populations outside of adults with acute leukaemia to answer the research questions in the broader population of individuals with haematological malignancy receiving intensive therapy."
+    },
+    {
+      "heading": "What is a red blood cell transfusion threshold?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "A RBC transfusion is a medical procedure where donated red blood cells are given to a person who needs them to replace their own red blood cells that may be low. People who have blood cancers and particularly those that need intensive treatment, such as chemotherapy or stem cell transplantation, often need many transfusions. Often, a certain RBC level, or transfusion threshold, is used to know when to give someone a blood transfusion due to negative health consequences occurring below that certain level. A restrictive transfusion strategy would transfuse red blood cells at a lower level compared to a liberal strategy which would transfuse at a higher level."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "We wanted to find out if a restrictive transfusion strategy would increase survival at 31 to 100 days compared to a liberal strategy. We also wanted to find out if a restrictive strategy would improve quality of life, any bleeding, clinically significant bleeding, serious infections, length of hospital admission and hospital readmission rates compared to a liberal strategy."
+    },
+    {
+      "heading": "What did we do?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "We searched for randomised controlled trials and prospective non-randomised studies in MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1982), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library2023, Issue 2), and eight other databases (including three trial registries) that evaluated a restrictive compared with a liberal RBC transfusion strategy in children or adults with blood cancers receiving intensive chemotherapy or radiotherapy, or both, with or without undergoing stem cell transplant. We compared and summarised the results and evaluated the study characteristics and methodology to rate our confidence in the collective evidence."
+    },
+    {
+      "heading": "What did we find?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "Nine studies met our inclusion criteria; seven were completed and two were still ongoing. The completed studies were conducted between 1997 and 2022 and included 540 participants. One RCT included children receiving a stem cell transplant, and it was stopped early due to safety concerns (six children). The other five RCTs only included adults, 239 adults with acute leukaemia receiving chemotherapy, and 315 with blood cancer receiving a stem cell transplant. The Hb threshold of both the restrictive (70 to 80 g/L) and liberal (80 to 120 g/L) strategies varied across the studies. The sources of funding were reported in all seven studies. One study was sponsored by industry."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "The included studies were at considerable risk of bias; the estimates of how the different strategies impacted the outcomes, particularly mortality, had a wide range of possible benefit or harm with too few people to be certain, and a large amount of the evidence was specifically for people with acute leukaemia and blood cancers treated with stem cell transplantation. Most studies experienced a significant number of deviations from the protocols which could have the potential to impact many outcomes due to the rationale for deviations not being well documented. Studies included in the review almost exclusively involved adult participants with only one study included which enroled six paediatric participants."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": ""
+    },
+    {
+      "heading": "•",
+      "text": "This review updates the previous review. The evidence is up-to-date until 21 March 2023."
+    }
+  ]
+}

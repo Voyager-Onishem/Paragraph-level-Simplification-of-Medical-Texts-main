@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010081.pub2",
+  "name": "Interventions for hidradenitis suppurativa",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hidradenitis suppurativa (HS) is a chronic inflammatory skin condition characterised by recurrent painful boils in flexural sites, such as the axillae and groin, that affects about 1% of the population, with onset in early adulthood."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions for HS in people of all ages."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to 13 August 2015: the Cochrane Skin Group Specialised Register, CENTRAL in the Cochrane Library (Issue 7, 2015), MEDLINE (from 1946), EMBASE (from 1974), and LILACS (from 1982). We also searched five trials registers and handsearched the conference proceedings of eight dermatology meetings. We checked the reference lists of included and excluded studies for further references to relevant trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of all interventions for hidradenitis suppurativa."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed study eligibility and methodological quality and performed data extraction. Our primary outcomes were quality of life, measured by a validated dermatology-specific scale, and adverse effects of the interventions."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twelve trials, with 615 participants, met our inclusion criteria. The median number of participants in each trial was 27, and median trial duration was 16 weeks. The included studies were conducted over a 32-year time period, from 1983 to 2015. A single RCT that was underpowered to detect clinically meaningful differences investigated most interventions.\nThere were four trials of anti-TNF-α (tumour necrosis factor-alpha) therapies, which included etanercept, infliximab, and adalimumab. Adalimumab 40 mg weekly improved the Dermatology Life Quality Index (DLQI) score in participants with moderate to severe HS by 4.0 points relative to placebo (95% confidence interval (CI) -6.5 to -1.5 points), an effect size approximately equal to the DLQI minimal clinically important difference. We reduced the evidence quality to 'moderate' because the effect size was based on the results of only one study. In a meta-analysis of two studies with 124 participants, standard dose adalimumab 40 mg every other week was ineffective compared with placebo (moderate quality evidence). In a smaller study of 38 participants, of whom only 33 provided efficacy data, infliximab 5 mg/kg treatment improved DLQI by 8.4 DLQI points after eight weeks. Etanercept 50 mg twice weekly was well tolerated but ineffective.\nIn a RCT of 200 participants, no difference was found in surgical complications (week one: risk ratio (RR) 0.78, 95% CI 0.58 to 1.05, moderate quality evidence) or risk of recurrence (after three months: RR 0.96, 95% CI 0.68 to 1.34, moderate quality evidence) in those randomised to receive a gentamicin-collagen sponge prior to primary closure compared with primary closure alone.\nRCTs of other interventions, including topical clindamycin 1% solution; oral tetracycline; oral ethinylestradiol 50 mcg with either cyproterone acetate 50 mg or norgestrel 500 mcg; intense pulsed light; neodymium-doped yttrium aluminium garnet (Nd:YAG) laser; methylene blue gel photodynamic therapy; and staphage lysate, were relatively small studies, preventing firm conclusions due to imprecision."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Many knowledge gaps exist in RCT evidence for HS. Moderate quality evidence exists for adalimumab, which improves DLQI score when 40 mg is given weekly, twice the standard psoriasis dose. However, the 95% confidence interval includes an effect size of only 1.5 DLQI points, which may not be clinically relevant, and the safety profile of weekly dosing has not been fully established. Infliximab also improves quality of life, based on moderate quality evidence.\nMore RCTs are needed in most areas of HS care, particularly oral treatments and the type and timing of surgical procedures. Outcomes should be validated, ideally, including a minimal clinically important difference for HS."
+    }
+  ],
+  "pls_title": "Treatments for hidradenitis suppurativa",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Hidradenitis suppurativa (HS) is a long-term, distressing skin condition involving multiple painful boils in skin creases, such as the armpits, groin, and genital region, estimated to affect about 1 in 100 people. It typically begins in early adulthood and has a large impact on quality of life because of pain, scarring, and low self-esteem. Doctors and the general public have largely ignored the condition, in part because people with HS do not wish to draw attention to their condition, so there is a relative lack of evidence to guide treatment."
+    },
+    {
+      "heading": "Review question",
+      "text": "What are the beneficial and harmful effects of treatments for hidradenitis suppurativa in terms of changes in quality of life and side effects?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Our review included only randomised controlled trials (RCTs); we included 12 trials, containing a total of 615 people. In most cases, only a single trial that was too small to provide meaningful results investigated the treatments. There was no RCT evidence to support several quite commonly used treatments. The average duration of the trials was four months, long enough to check whether a treatment works initially but not long enough to show the duration of disease control or to detect delayed side effects."
+    },
+    {
+      "heading": "Key results",
+      "text": "The evidence from two trials for clindamycin lotion applied to the skin and oral tetracyclines was relatively weak, despite these antibiotics being standard treatments for mild to moderate HS. There were four pharmaceutical industry-sponsored trials of anti-TNF-α (tumour necrosis factor-alpha) therapies, which included etanercept, infliximab, and adalimumab. Of these, a trial of etanercept did not find benefit, whereas a small trial of infliximab reported an improvement in quality of life after eight weeks. A larger trial, including 154 participants, investigated adalimumab. There was no benefit for moderate to severe HS at standard psoriasis doses of 40 mg every other week, but 40 mg weekly did improve quality of life. The estimate of quality of life improvement ranged from a level that probably would help people with HS to a level that might not be enough to justify use of adalimumab. The trial found no increase in serious side effects, including infections, but it was not large enough to detect rare effects. There were no trials investigating when to perform surgery or what surgical procedure to consider. One trial looked at inserting an antibiotic sponge into wounds after removal of HS lesions, but found no benefit compared with surgery without the antibiotic sponge. There were three trials of laser-type treatments, but the trial quality was too low to recommend these therapies."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Our review has highlighted a need for more clinical trials to give better evidence to guide treatment choices in HS. More trials of oral treatments are required as well as surgical studies. Future trials should include patient-reported outcomes, such as quality of life and pain."
+    }
+  ]
+}

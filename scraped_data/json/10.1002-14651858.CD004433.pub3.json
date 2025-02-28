@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004433.pub3",
+  "name": "Constraint‐induced movement therapy for upper extremities in people with stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In people who have had a stroke, upper limb paresis affects many activities of daily life. Reducing disability is therefore a major aim of rehabilitative interventions. Despite preserving or recovering movement ability after stroke, sometimes people do not fully realise this ability in their everyday activities. Constraint-induced movement therapy (CIMT) is an approach to stroke rehabilitation that involves the forced use and massed practice of the affected arm by restraining the unaffected arm. This has been proposed as a useful tool for recovering abilities in everyday activities."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of CIMT, modified CIMT (mCIMT), or forced use (FU) for arm management in people with hemiparesis after stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group trials register (last searched June 2015), the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library Issue 1, 2015), MEDLINE (1966 to January 2015), EMBASE (1980 to January 2015), CINAHL (1982 to January 2015), and the Physiotherapy Evidence Database (PEDro; January 2015)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised control trials (RCTs) and quasi-RCTs comparing CIMT, mCIMT or FU with other rehabilitative techniques, or none."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One author identified trials from the results of the electronic searches according to the inclusion and exclusion criteria, three review authors independently assessed methodological quality and risk of bias, and extracted data. The primary outcome was disability."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 42 studies involving 1453 participants. The trials included participants who had some residual motor power of the paretic arm, the potential for further motor recovery and with limited pain or spasticity, but tended to use the limb little, if at all. The majority of studies were underpowered (median number of included participants was 29) and we cannot rule out small-trial bias. Eleven trials (344 participants) assessed disability immediately after the intervention, indicating a non-significant standard mean difference (SMD) 0.24 (95% confidence interval (CI) -0.05 to 0.52) favouring CIMT compared with conventional treatment. For the most frequently reported outcome, arm motor function (28 studies involving 858 participants), the SMD was 0.34 (95% CI 0.12 to 0.55) showing a significant effect (P value 0.004) in favour of CIMT. Three studies involving 125 participants explored disability after a few months of follow-up and found no significant difference, SMD -0.20 (95% CI -0.57 to 0.16) in favour of conventional treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "CIMT is a multi-faceted intervention where restriction of the less affected limb is accompanied by increased exercise tailored to the person’s capacity. We found that CIMT was associated with limited improvements in motor impairment and motor function, but that these benefits did not convincingly reduce disability. This differs from the result of our previous meta-analysis where there was a suggestion that CIMT might be superior to traditional rehabilitation. Information about the long-term effects of CIMT is scarce. Further trials studying the relationship between participant characteristics and improved outcomes are required."
+    }
+  ],
+  "pls_title": "Constraint-induced movement therapy for upper limb (arm) recovery after stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to assess the effects of constraint-induced movement therapy (CIMT) on ability to manage daily activities and on the recovery of movement in paralysed arms after a stroke."
+    },
+    {
+      "heading": "Background",
+      "text": "After a stroke, people can suffer from paralysis of an arm, and, even if some movement control remains, use it less than the unaffected arm. The paralysis makes arm movements, such as reaching, grasping, and manipulating objects difficult. In turn, this causes many difficulties in activities of daily life, such as bathing, dressing, eating and using the toilet. During CIMT the unaffected arm is restrained so it cannot be used, which means the affected arm has to be used instead. The unaffected arm and hand are prevented from moving with a glove or a special arm rest. CIMT is supposed to be a useful tool for recovering the ability to perform everyday activities."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We, a team of Cochrane researchers, searched widely through the medical literature and identified 42 relevant studies involving 1453 participants. The evidence is current to January 2015. The participants in these studies had some control of their affected arm and were generally able to open their affected hand by extending the wrist and fingers. CIMT treatments varied between studies in terms of the time for which the participants' unaffected arm was constrained each day, and the amount of active exercise that the affected arm was required to do. CIMT was compared mainly to active physiotherapy treatments, and sometimes to no treatment."
+    },
+    {
+      "heading": "Key results",
+      "text": "The 42 studies assessed different aspects of recovery from stroke, and not all measured the same things. Eleven studies (with 344 participants) assessed the effect of CIMT on disability (the effective use of the arm in daily living) and found that the use of CIMT did not lead to improvement in ability to manage everyday activities such as bathing, dressing, eating, and toileting. Twenty-eight trials (with 858 participants) tested whether CIMT improved the ability to use the affected arm. CIMT appeared to be more effective at improving arm movement than active physiotherapy treatments or no treatment."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence for each outcome is limited due to small numbers of study participants and poor reporting of study details. We considered the quality of the evidence to be low for disability and very low for the ability to use the affected arm."
+    }
+  ]
+}

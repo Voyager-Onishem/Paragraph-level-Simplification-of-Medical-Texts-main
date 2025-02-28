@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD003188.pub4",
+  "name": "Bisphosphonates in multiple myeloma: an updated network meta‐analysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bisphosphonates are specific inhibitors of osteoclastic activity and are used in the treatment of patients with multiple myeloma (MM). While bisphosphonates are shown to be effective in reducing vertebral fractures and pain, their role in improving overall survival (OS) remains unclear. This is an update of a Cochrane review first published in 2002 and previously updated in 2010 and 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the evidence related to benefits and harms associated with use of various types of bisphosphonates (aminobisphosphonates versus non-aminobisphosphonates) in the management of patients with MM. Our primary objective was to determine whether adding bisphosphonates to standard therapy in MM improves OS and progression-free survival (PFS), and decreases skeletal-related morbidity. Our secondary objectives were to determine the effects of bisphosphonates on pain, quality of life, incidence of hypercalcemia, incidence of bisphosphonate-related gastrointestinal toxicities, osteonecrosis of jaw (ONJ) and hypocalcemia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase (September 2011 to July 2017) and the CENTRAL (2017, Issue 7) to identify all randomized controlled trial (RCT) in MM up to July 2017 using a combination of text and MeSH terms."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Any randomized controlled trial (RCT) comparing bisphosphonates versus placebo/no treatment/bisphosphonates and observational studies or case reports examining bisphosphonate-related ONJ in patients with MM were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted the data. Data were pooled and reported as hazard ratio (HR) or risk ratio (RR) using a random-effects model. We used meta-regression to explore statistical heterogeneity. Network meta-analysis using Bayesian approach was conducted."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this update, we included four new studies (601 participants), resulting in a total of 24 included studies.\nTwenty RCTs compared bisphosphonates with either placebo or no treatment and four RCTs involved another bisphosphonate as a comparator. The 24 included RCTs enrolled 7293 participants. Pooled results showed that there was moderate-quality evidence of a reduction in mortality with on OS from 41% to 31%, but the confidence interval is consistent with a larger reduction and small increase in mortality compared with placebo or no treatment (HR 0.90, 95% CI 0.76 to 1.07; 14 studies; 2706 participants). There was substantial heterogeneity among the included RCTs (I2 = 65%) for OS. To explain this heterogeneity we performed a meta-regression assessing the relationship between bisphosphonate potency and improvement in OS, which found an OS benefit with zoledronate but limited evidence of an effect on PFS. This provided a further rationale for performing a network meta-analyses of the various types of bisphosphonates that were not compared head-to-head in RCTs. Results from network meta-analyses showed evidence of a benefit for OS with zoledronate compared with etidronate (HR 0.56, 95% CI 0.29 to 0.87) and placebo (HR 0.67, 95% CI 0.46 to 0.91). However, there was no evidence for a difference between zoledronate and other bisphosphonates.\nThe effect of bisphosphonates on disease progression (PFS) is uncertain. Based on the HR of 0.75 (95% CI 0.57 to 1.00; seven studies; 908 participants), 47% participants would experience disease progression without treatment compared with between 30% and 47% with bisphosphonates (low-quality evidence). There is probably a similar risk of non-vertebral fractures between treatment groups (RR 1.03, 95% CI 0.68 to 1.56; six studies; 1389 participants; moderate-quality evidence). Pooled analysis demonstrated evidence for a difference favoring bisphosphonates compared with placebo or no treatment on prevention of pathological vertebral fractures (RR 0.74, 95% CI 0.62 to 0.89; seven studies; 1116 participants; moderate-quality evidence) and skeletal-related events (SREs) (RR 0.74, 95% CI 0.63 to 0.88; 10 studies; 2141 participants; moderate-quality evidence). The evidence for less pain with bisphosphonates was of very low quality (RR 0.75, 95% CI 0.60 to 0.95; eight studies; 1281 participants).\nBisphosphonates may increase ONJ compared with placebo but the confidence interval is very wide (RR 4.61, 95% CI 0.99 to 21.35; P = 0.05; six studies; 1284 participants; low-quality evidence). The results from the network meta-analysis did not show any evidence for a difference in the incidence of ONJ (eight RCTs, 3746 participants) between bisphosphonates. Data from nine observational studies (1400 participants) reported an incidence of 5% to 51% with combination of pamidronate and zoledronate, 3% to 11% with zoledronate alone, and 0% to 18% with pamidronate alone.\nThe pooled results showed no evidence for a difference in increase in frequency of gastrointestinal symptoms with the use of bisphosphonates compared with placebo or no treatment (RR 1.23, 95% CI 0.95 to 1.59; seven studies; 1829 participants; low-quality evidence).The pooled results showed no evidence for a difference in increase in frequency of hypocalcemia with the use of bisphosphonates compared with placebo or no treatment (RR 2.19, 95% CI 0.49 to 9.74; three studies; 1090 participants; low-quality evidence). The results from network meta-analysis did not show any evidence for differences in the incidence of hypocalcemia, renal dysfunction and gastrointestinal toxicity between the bisphosphonates used."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Use of bisphosphonates in participants with MM reduces pathological vertebral fractures, SREs and pain. Bisphosphonates were associated with an increased risk of developing ONJ. For every 1000 participants treated with bisphosphonates, about one patient will suffer from the ONJ. We found no evidence of superiority of any specific aminobisphosphonate (zoledronate, pamidronate or ibandronate) or non-aminobisphosphonate (etidronate or clodronate) for any outcome. However, zoledronate was found to be better than placebo and first-generation bisposphonate (etidronate) in pooled direct and indirect analyses for improving OS and other outcomes such as vertebral fractures. Direct head-to-head trials of the second-generation bisphosphonates are needed to settle the issue if zoledronate is truly the most efficacious bisphosphonate currently used in practice."
+    }
+  ],
+  "pls_title": "Bisphosphonates in multiple myeloma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the effect of bisphosphonates if added to the existing treatments for multiple myeloma?"
+    },
+    {
+      "heading": "Background",
+      "text": "Multiple myeloma (also known as myeloma or plasma cell myeloma) is a B-cell malignancy or, more precisely, plasma cell neoplasm. This cancer grows inside or outside of bones. The bone damage, or osteolytic lesions, may lead to fractures of the long bones or compression fractures in the spine. The mechanism of bone destruction appears to be related to increased bone resorption by cells called osteoclasts. Bisphosphonates are drugs that can inhibit bone resorption by reducing the number and activity of osteoclasts."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to July 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This is an updated review of 24 trials enrolling 7293 participants. Twenty randomized controlled trials compared bisphosphonates with either placebo or no treatment and four randomized controlled trials involved another bisphosphonate as a comparator."
+    },
+    {
+      "heading": "Key results",
+      "text": "Use of bisphosphonates in participants with multiple myeloma did not improve overall survival or disease progression-free survival. Use of bisphosphonates in participants with multiple myeloma reduces overall fractures, fractures of the vertebra but not the non-vertebral fractures. Bisphosphonates also alleviates pain without many side effects except a significant increase in reduced blood flow to bones of the jaw resulting in decay of the bone also called osteonecrosis. Overall, for every 1000 participants treated with bisphosphonates, about one patient will suffer from the osteonecrosis of the jaw. Zoledronate was found to be better than etidronate and placebo, but not superior to pamidronate or clodronate for improving overall survival and other outcomes such as fractures in general or specifically fractures of vertebra. There was no evidence of superiority of any specific aminobisphosphonate (zoledronate, pamidronate or ibandronate) or non-aminobisphosphonate (etidronate or clodronate) for any outcome."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The overall quality of evidence ranged from moderate to very low indicating the need for more research on this issue and specifically randomized controlled trials comparing different bisphosphonates directly instead of no treatment or placebo."
+    }
+  ]
+}

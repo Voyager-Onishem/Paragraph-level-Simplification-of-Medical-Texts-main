@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012007.pub2",
+  "name": "Weekly versus tri‐weekly paclitaxel with carboplatin for first‐line treatment in women with epithelial ovarian cancer ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Epithelial ovarian cancer is the sixth most common cancer worldwide: 295,414 new cases were diagnosed in 2018, with 184,799 deaths. The lack of an effective screening strategy has led to the majority of women being diagnosed at an advanced stage. For these women, intravenous carboplatin combined with paclitaxel for six cycles is widely accepted as the standard first-line treatment for epithelial ovarian cancer, in combination with debulking surgery. However, there is conflicting evidence regarding the optimal dosing schedule of paclitaxel when combined with carboplatin in this setting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy and tolerability of intravenous weekly paclitaxel with that of tri-weekly paclitaxel, in combination with intravenous carboplatin, as first-line treatment for epithelial ovarian cancer (defined as epithelial ovarian, primary peritoneal and fallopian tube cancer)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, and Embase databases for relevant studies up to 15 November 2021, using keywords and MeSH terms. We additionally handsearched conference libraries, online clinical trial databases and screened through lists of retrieved references."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We Included randomised controlled trials (RCTs) comparing weekly paclitaxel in combination with carboplatin versus tri-weekly paclitaxel in combination with carboplatin, for treatment of newly-diagnosed epithelial ovarian cancer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the hazard ratio (HR) to estimate the primary efficacy outcomes progression-free (PFS) and overall survival (OS). We used the risk ratio (RR) to estimate the primary toxicity outcome of severe neutropenia and secondary outcomes of quality of life (QoL) and treatment-related adverse events. Two review authors independently selected studies, extracted data, and assessed risk of bias, using standard Cochrane methodological procedures. We included individual participant data (IPD) from one of the included studies, ICON-8, provided by the study team. We analysed data using a random-effects model in Review Manager 5.4 software. Additionally, we reconstructed IPD for PFS and OS data from published Kaplan-Meier curves from all studies and subsequently pooled these to analyse the two primary efficacy outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 2469 records, we identified four eligible RCTs with data for 3699 participants. All eligible studies were included in the main meta-analysis and reported on PFS and OS.\nThere was likely a slight improvement in PFS when paclitaxel was dosed weekly compared to tri-weekly (HR 0.89, 95% confidence interval (CI) 0.81 to 0.98; 4 studies, 3699 participants; moderate-certainty evidence). We found little to no improvement in OS when paclitaxel was dosed weekly compared to tri-weekly (HR 0.92, 95% CI 0.79 to 1.06; 4 studies, 3699 participants; high-certainty evidence). There was likely little to no difference in high-grade (grade 3 or 4) neutropenia when paclitaxel was dosed weekly compared to tri-weekly (RR 1.11, 95% CI 0.86 to 1.43; 4 studies, 3639 participants; moderate-certainty evidence). However, weekly paclitaxel increased high-grade (grade 3 or 4) anaemia when compared to tri-weekly dosing (RR 1.57, 95% CI 1.12 to 2.20; 4 studies, 3639 participants; high-certainty evidence). There may be little to no difference in high-grade neuropathy when paclitaxel was dosed weekly compared to tri-weekly (RR 1.12, 95% CI 0.64 to 1.94; 4 studies, 3639 participants; low-certainty evidence). The overall risk of detection bias and performance bias was low for OS, but was unclear for other outcomes, as treatments were not blinded. The risk of bias in other domains was low or unclear.\nWe note that OS data were immature for three of the included studies (GOG-0262, ICON-8 and MITO-7)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Weekly paclitaxel combined with carboplatin for first-line treatment of epithelial ovarian cancer likely improves PFS slightly (moderate-certainty evidence) but not OS (high-certainty evidence), compared to tri-weekly paclitaxel combined with carboplatin. However, this was associated with increased risk for high-grade anaemia, treatment discontinuation, dose delays and dose omissions (high- to low-certainty evidence). Our findings may not apply to women receiving bevacizumab in first-line therapy, those receiving treatment in the neo-adjuvant setting, or those with rare subtypes of clear cell or mucinous ovarian cancer."
+    }
+  ],
+  "pls_title": "Does weekly dosing of paclitaxel improve survival, compared with tri-weekly dosing of paclitaxel in the initial treatment of ovarian cancer?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Ovarian cancer is the sixth most common cancer worldwide. Treatment consists of a combination of surgery and chemotherapy (most commonly including paclitaxel and carboplatin), with the aim to reduce or delay the return of the cancer (known as progression-free survival (PFS)), and improve chances for cancer survival (known as overall survival (OS)). Several clinical trials (studies) have investigated whether the dosing schedule (timing) of paclitaxel affects these outcomes. However, the results from reported studies are conflicting."
+    },
+    {
+      "heading": "The aim of the review",
+      "text": "We reviewed the evidence about the effect of different schedules of paclitaxel on survival in women with newly-diagnosed ovarian cancer."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current up to 15 November 2021. We included four studies with a total of 3699 participants. All studies included were randomised controlled trials (clinical trials where people are randomly put into one of two or more treatment groups) of women aged 18 years or older with newly diagnosed ovarian cancer. The studies compared weekly versus tri-weekly dosing of paclitaxel, plus carboplatin."
+    },
+    {
+      "heading": "Main findings",
+      "text": "We found that, compared with tri-weekly paclitaxel dosing, weekly paclitaxel plus carboplatin likely slightly improves progression-free survival, although results in little to no difference in overall survival (high-certainty evidence).\nFor adverse effects, we found that weekly paclitaxel plus carboplatin likely results in little to no difference in severe low neutrophil count (a type of white blood cell that helps to fight infections) (moderate-certainty evidence); increases severe anaemia (haemoglobin level - an important component of red blood cells) (high-certainty evidence) and may result in little to no difference in severe damage to nerves (low-certainty evidence)."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Weekly dosing of paclitaxel likely prolongs progression-free survival compared to tri-weekly dosing of paclitaxel, when combined with carboplatin in the initial treatment of ovarian cancer. However, this does not improve overall survival."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010909.pub2",
+  "name": "Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asthma is a chronic respiratory condition characterised by airways inflammation, constriction of airway smooth muscle and structural alteration of the airways that is at least partially reversible. Exacerbations of asthma can be life threatening and place a significant burden on healthcare services. Various guidelines have been published to inform management personnel in the acute setting; several include the use of a single bolus of intravenous magnesium sulfate (IV MgSO4) in cases that do not respond to first-line treatment. However, the effectiveness of this approach remains unclear, particularly in less severe cases."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the safety and efficacy of IV MgSO4 in adults treated for acute asthma in the emergency department."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Review Group Specialised Register (CAGR) up to 2 May 2014. We also searched www.ClinicalTrials.gov and reference lists of other reviews, and we contacted trial authors to ask for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of adults treated in the emergency department (ED) for exacerbations of asthma if they compared any dose of IV MgSO4 with placebo."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All review authors screened titles and abstracts for inclusion, and at least two review authors independently extracted study characteristics, risk of bias and numerical data. Disagreements were resolved by consensus, and we contacted trial investigators to obtain missing information.\nWe analysed dichotomous data as odds ratios using study participants as the unit of analysis, and we analysed continuous data as mean differences or standardised mean differences using fixed-effect models. We rated all outcomes using GRADE and presented results in Summary of findings table 1.\nWe carried out subgroup analyses on the primary outcome for baseline severity of exacerbations and whether or not ipratropium bromide was given as a co-medication. Unpublished data and studies at high risk of bias for blinding were removed from the main analysis in sensitivity analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "Fourteen studies met the inclusion criteria, randomly assigning 2313 people with acute asthma to the comparisons of interest in this review.\nMost studies were double-blinded trials comparing a single infusion of 1.2 g or 2 g IV MgSO4 over 15 to 30 minutes versus a matching placebo. Eleven were conducted at a single centre, and three were multi-centre trials. Participants in almost all of the studies had already been given at least oxygen, nebulised short-acting beta2-agonists and IV corticosteroids in the ED; in some studies, investigators also administered ipratropium bromide. Ten studies included only adults, and four included both adults and children; these were included because the mean age of participants was over 18 years.\nIntravenous MgSO4 reduced hospital admissions compared with placebo (odds ratio (OR) 0.75, 95% confidence interval (CI) 0.60 to 0.92; I2 = 28%, P value 0.18; n = 972; high-quality evidence). In absolute terms, this odds ratio translates into a reduction of seven hospital admissions for every 100 adults treated with IV MgSO4 (95% CI two to 13 fewer). The test for subgroup differences revealed no statistical heterogeneity between the three severity subgroups (I2 = 0%, P value 0.73) or between the four studies that administered nebulised ipratropium bromide as a co-medication and those that did not (I2 = 0%, P value 0.82). Sensitivity analyses in which unpublished data and studies at high risk for blinding were removed from the primary analysis did not change conclusions.\nWithin the secondary outcomes, high- and moderate-quality evidence across three spirometric indices suggests some improvement in lung function with IV MgSO4. No difference was found between IV MgSO4and placebo for most of the non-spirometric secondary outcomes, all of which were rated as low or moderate quality (intensive care admissions, ED treatment duration, length of hospital stay, readmission, respiration rate, systolic blood pressure).\nAdverse events were inconsistently reported and were not meta-analysed. The most commonly cited adverse events in the IV MgSO4 groups were flushing, fatigue, nausea and headache and hypotension (low blood pressure)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review provides evidence that a single infusion of 1.2 g or 2 g IV MgSO4 over 15 to 30 minutes reduces hospital admissions and improves lung function in adults with acute asthma who have not responded sufficiently to oxygen, nebulised short-acting beta2-agonists and IV corticosteroids. Differences in the ways the trials were conducted made it difficult for the review authors to assess whether severity of the exacerbation or additional co-medications altered the treatment effect of IV MgSO4. Limited evidence was found for other measures of benefit and safety.\nStudies conducted in these populations should clearly define baseline severity parameters and systematically record adverse events. Studies recruiting participants with exacerbations of varying severity should consider subgrouping results on the basis of accepted severity classifications."
+    }
+  ],
+  "pls_title": "Do magnesium sulfate infusions reduce the need for hospital admission in adults with acute asthma?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "Asthma is a long-term condition that causes coughing, wheezing, shortness of breath and chest tightness. When symptoms significantly worsen, often referred to as an attack or 'exacerbation,' this can be life threatening. Management of exacerbations in the emergency department (ED) varies, and some guidelines recommend the use of intravenous magnesium sulfate (IV MgSO4) when other treatments have not helped. However, it is unclear whether IV MgSO4is effective, particularly in less severe cases, and we wanted to answer this question."
+    },
+    {
+      "heading": "How did we answer the question?",
+      "text": "We looked for trials that compared IV MgSO4versus placebo in adults attending the ED with an asthma exacerbation. The most recent searches were done on 2 May 2014. We were interested primarily in whether IV MgSO4reduced the number of people needing to be admitted to hospital, and we looked at several other measures as well, including time spent in the ED, lung function and symptom scores."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Fourteen studies met the inclusion criteria, involving a total of 2313 people. These studies varied in terms of how bad exacerbations had to be for people to be included and in terms of what other treatments were provided before IV MgSO4was given, but almost all trials gave participants at least oxygen, nebulised short-acting medications and steroid tablets or injection.\nOverall, IV MgSO4 reduced the need for hospital admission compared with placebo (seven fewer per 100 treated; 95% confidence interval two to 13 fewer). Not enough information was available to show whether the reduction in hospital admissions was associated with severity of the asthma exacerbation, or whether it made a difference what other treatments were given. Evidence suggests that IV MgSO4 improved some lung function parameters, but for other measures such as heart rate, variation among study findings reduced our confidence in the results. We did not find a difference between IV MgSO4 and placebo in most other measures (including time spent in the ED, respiratory rate and blood pressure), and adverse events generally were poorly reported."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "This review showed that IV MgSO4reduces hospital admissions and improves lung function in adults with exacerbations of asthma when other first-line medications have not relieved the acute symptoms (i.e. oxygen, inhaled short-acting medications and IV steroids). Evidence for other measures of benefit and safety was limited.\nResearchers should clearly define the severity of the asthma condition among people in their studies while carefully recording adverse events.\nThis plain language summary is current as of May 2014."
+    }
+  ]
+}

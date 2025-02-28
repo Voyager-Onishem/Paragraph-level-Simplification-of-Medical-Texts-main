@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003040.pub2",
+  "name": "Angiotensin receptor blockers for heart failure",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic heart failure (HF) is a prevalent world-wide. Angiotensin receptor blockers (ARBs) are widely prescribed for chronic HF although their role is controversial."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefit and harm of ARBs compared with ACE inhibitors (ACEIs) or placebo on mortality, morbidity and withdrawals due to adverse effects in patients with symptomatic HF and left ventricular systolic dysfunction or preserved systolic function."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Clinical trials were identified by searching CENTRAL, HTA, and DARE, (The Cochrane Library 2010 Issue 3), as well as MEDLINE (2002 to July 2010), and EMBASE (2002 to July 2010). Reference lists of retrieved articles and systematic reviews were checked for additional studies not identified by the electronic searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Double blind randomised controlled trials in men and women of all ages who have symptomatic (NYHA Class II to IV) HF and: 1) left ventricular systolic dysfunction, defined as left ventricular ejection fraction (LVEF) ≤40%; or 2) preserved ejection fraction, defined as LVEF >40%."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed risk of bias and extracted data from included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty two studies evaluated the effects of ARBs in 17,900 patients with a LVEF ≤40% (mean 2.2 years). ARBs did not reduce total mortality (RR 0.87 [95% CI 0.76, 1.00]) or total morbidity as measured by total hospitalisations (RR 0.94 [95% CI 0.88, 1.01]) compared with placebo.\nTotal mortality (RR 1.05 [95% CI 0.91, 1.22]), total hospitalisations (RR 1.00 [95% CI 0.92, 1.08]), MI (RR 1.00 [95% CI 0.62, 1.63]), and stroke (RR 1.63 [0.77, 3.44]) did not differ between ARBs and ACEIs but withdrawals due to adverse effects were lower with ARBs (RR 0.63 [95% CI 0.52, 0.76]). Combinations of ARBs plus ACEIs increased the risk of withdrawals due to adverse effects (RR 1.34 [95% CI 1.19, 1.51]) but did not reduce total mortality or total hospital admissions versus ACEI alone.\nTwo placebo-controlled studies evaluated ARBs in 7151 patients with a LVEF >40% (mean 3.7 years). ARBs did not reduce total mortality (RR 1.02 [95% CI 0.93, 1.12]) or total morbidity as measured by total hospitalisations (RR 1.00 [95% CI 0.97, 1.05]) compared with placebo. Withdrawals due to adverse effects were higher with ARBs versus placebo when all patients were pooled irrespective of LVEF (RR 1.06 [95% CI 1.01, 1.12])."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In patients with symptomatic HF and systolic dysfunction or with preserved ejection fraction, ARBs compared to placebo or ACEIs do not reduce total mortality or morbidity. ARBs are better tolerated than ACEIs but do not appear to be as safe and well tolerated as placebo in terms of withdrawals due to adverse effects. Adding an ARB in combination with an ACEI does not reduce total mortality or total hospital admission but increases withdrawals due to adverse effects compared with ACEI alone."
+    }
+  ],
+  "pls_title": "Are angiotensin receptor blockers (ARBs) an effective treatment for heart failure?",
+  "pls_type": "long",
+  "pls": "Drugs called angiotensin receptor blockers (ARBs), such as losartan (brand name: Cozaar), candesartan (Atacand), eprosartan (Teveten), irbesartan (Avapro), telmisartan (Micardis) and valsartan (Diovan) are commonly used to treat heart failure. We asked whether ARBs reduced death, or severe disability as assessed by hospital admission for any reason versus an inert substance (placebo) or another class of drugs called ACE inhibitors, such as ramipril (Altace), captopril (Capoten), enalapril (Vasotec), fosinopril (Monopril), lisinopril (Prinivil, Zestril), and quinapril (Accupril). We also asked whether combining an ARB with an ACE inhibitor is more effective than an ACE inhibitor alone in reducing death, disability, or hospital admission for any reason. The scientific literature was searched to find all trials that had assessed these questions.\nWe found 24 trials that randomly assigned participants to take either an ARB or control substance (placebo or ACEI). These trials evaluated ARBs in 25,051 patients with heart failure and followed them for 2 years. ARBs were no better than placebo or ACE inhibitors in reducing the risk of death, disability, or hospital admission for any reason. However, more patients stopped treatment early with ARBs than with placebo due to side effects. Adding an ARB to an ACEI also did not reduce the risk of death, disability, or hospital admission for any reason as compared to ACEI alone, although more patients taking the combination stopped early due to side effects."
+}

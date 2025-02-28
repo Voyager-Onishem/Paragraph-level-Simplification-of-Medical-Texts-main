@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD000398.pub2",
+  "name": "Nitric oxide donors (nitrates), L‐arginine, or nitric oxide synthase inhibitors for acute stroke ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Nitric oxide (NO) has multiple effects that may be beneficial in acute stroke, including lowering blood pressure, and promoting reperfusion and cytoprotection. Some forms of nitric oxide synthase inhibition (NOS-I) may also be beneficial. However, high concentrations of NO are likely to be toxic to brain tissue. This is an update of a Cochrane review first published in 1998, and last updated in 2002."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the safety and efficacy of NO donors, L-arginine, and NOS-I in people with acute stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched 6 February 2017), MEDLINE (1966 to June 2016), Embase (1980 to June 2016), ISI Science Citation Indexes (1981 to June 2016), Stroke Trials Registry (searched June 2016), International Standard Randomised Controlled Trial Number (ISRCTN) (searched June 2016), Clinical Trials registry (searched June 2016), and International Clinical Trials Registry Platform (ICTRP) (searched June 2016). Previously, we had contacted drug companies and researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing nitric oxide donors, L-arginine, or NOS-I versus placebo or open control in people within one week of onset of confirmed stroke."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the inclusion criteria, assessed trial quality and risk of bias, and extracted data. The review authors cross-checked data and resolved issues through discussion. We obtained published and unpublished data, as available. Data were reported as mean difference (MD) or odds ratio (OR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five completed trials, involving 4197 participants; all tested transdermal glyceryl trinitrate (GTN), an NO donor. The assessed risk of bias was low across the included studies; one study was double-blind, one open-label and three were single-blind. All included studies had blinded outcome assessment. Overall, GTN did not improve the primary outcome of death or dependency at the end of trial (modified Rankin Scale (mRS) > 2, OR 0.97, 95% CI 0.86 to 1.10, 4195 participants, high-quality evidence). GTN did not improve secondary outcomes, including death (OR 0.78, 95% CI 0.40 to 1.50) and quality of life (MD -0.01, 95% CI -0.17 to 0.15) at the end of trial overall (high-quality evidence). Systolic/diastolic blood pressure (BP) was lower in people treated with GTN (MD -7.2 mmHg (95% CI -8.6 to -5.9) and MD -3.3 (95% CI -4.2 to -2.5) respectively) and heart rate was higher (MD 2.0 beats per minute (95% CI 1.1 to 2.9)). Headache was more common in those randomised to GTN (OR 2.37, 95% CI 1.55 to 3.62). We did not find any trials assessing other nitrates, L-arginine, or NOS-I."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently insufficient evidence to recommend the use of NO donors, L-arginine or NOS-I in acute stroke, and only one drug (GTN) has been assessed. In people with acute stroke, GTN reduces blood pressure, increases heart rate and headache, but does not alter clinical outcome (all based on high-quality evidence)."
+    }
+  ],
+  "pls_title": "Nitric oxide donors (nitrates), L-arginine, or nitric oxide synthase inhibitors for acute stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "Are nitric oxide donors, L-arginine, or nitric oxide synthase inhibitors safe and effective drugs for use in people soon after they have suffered a stroke?"
+    },
+    {
+      "heading": "Background",
+      "text": "Nitric oxide is a key molecule involved in the control of blood pressure, blood flow, and brain activity, both before and during a brain attack (stroke, either due to a blockage or rupture of an artery in the brain). Drugs that produce nitric oxide or control its production may be beneficial in acute stroke. This review looked at trials that tested such drugs in people with a stroke that came on within the last few days."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review is up-to-date as of September 2016. We included five trials involving 4197 people; all trials assessed glyceryl trinitrate, a drug that is given as a skin patch and which releases nitric oxide. One study was international, whilst the remainder were studies performed at single centres. Not all trials contributed data to all outcomes. We used both unpublished and published information, where available. We did not find any trials assessing other nitrate drugs, L-arginine, or nitric oxide synthase inhibitors."
+    },
+    {
+      "heading": "Key results",
+      "text": "Overall, glyceryl trinitrate did not improve the rate of death or dependency compared with those who did not receive glyceryl trinitrate after acute stroke. Glyceryl trinitrate did not improve other outcomes including death and quality of life. Glyceryl trinitrate lowers blood pressure, and increases heart rate and headache in people with acute stroke."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The key results are based on high-quality evidence."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "There is currently insufficient evidence to recommend the use of drugs affecting nitric oxide production in acute stroke. Overall, glyceryl trinitrate is inexpensive, lowers blood pressure, increases heart rate and headache, but does not change clinical outcomes in people who have suffered a stroke."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011221.pub2",
+  "name": "Tests for detecting strabismus in children aged 1 to 6 years in the community",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Strabismus (misalignment of the eyes) is a risk factor for impaired visual development both of visual acuity and of stereopsis. Detection of strabismus in the community by non-expert examiners may be performed using a number of different index tests that include direct measures of misalignment (corneal or fundus reflex tests), or indirect measures such as stereopsis and visual acuity. The reference test to detect strabismus by trained professionals is the cover‒uncover test."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess and compare the accuracy of tests, alone or in combination, for detection of strabismus in children aged 1 to 6 years, in a community setting by non-expert screeners or primary care professionals to inform healthcare commissioners setting up childhood screening programmes.\nSecondary objectives were to investigate sources of heterogeneity of diagnostic accuracy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 12) (which contains the Cochrane Eyes and Vision Trials Register) in the Cochrane Library, the Health Technology Assessment Database (HTAD) in the Cochrane Library (2016, Issue 4), MEDLINE Ovid (1946 to 5 January 2017), Embase Ovid (1947 to 5 January 2017), CINAHL (January 1937 to 5 January 2017), Web of Science Conference Proceedings Citation Index-Science (CPCI-S) (January 1990 to 5 January 2017), BIOSIS Previews (January 1969 to 5 January 2017), MEDION (to 18 August 2014), the Aggressive Research Intelligence Facility database (ARIF) (to 5 January 2017), the ISRCTN registry (www.isrctn.com/editAdvancedSearch); searched 5 January 2017, ClinicalTrials.gov (www.clinicaltrials.gov); searched 5 January 2017 and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en); searched 5 January 2017. We did not use any date or language restrictions in the electronic searches for trials. In addition, orthoptic journals and conference proceedings without electronic listings were searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All prospective or retrospective population-based test accuracy studies of consecutive participants were included. Studies compared a single or combination of index tests with the reference test. Only those studies with sufficient data for analysis were included specifically to calculate sensitivity and specificity and determine diagnostic accuracy.\nParticipants were aged 1 to 6 years. Studies reporting participants outside this range were included if subgroup data were available.\nPermitted settings included population-based vision screening programmes or opportunistic screening programmes, such as those performed in schools."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. In brief, two review authors independently assessed titles and abstracts for eligibility and extracted the data, with a third senior author resolving any disagreement. We analysed data primarily for specificity and sensitivity."
+    },
+    {
+      "heading": "Main results",
+      "text": "One study from a total of 1236 papers, abstracts and trials was eligible for inclusion with a total number of participants of 335 of which 271 completed both the screening test and the gold standard test. The screening test using an automated photoscreener had a sensitivity of 0.46 (95% confidence interval (CI) 0.19 to 0.75) and specificity of 0.97 (CI 0.94 to 0.99). The overall number affected by strabismus was low at 13 (4.8%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is very limited data in the literature to ascertain the accuracy of tests for detecting strabismus in the community as performed by non-expert screeners. A large prospective study to compare methods would be required to determine which tests have the greatest accuracy."
+    }
+  ],
+  "pls_title": "Tests for detecting strabismus in children aged one to six years in the community",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review aim",
+      "text": "The aim of this Cochrane Review was to find out how well different tests work to detect strabismus in children aged 1 to 6 years old outside of eye departments. These tests were used in the community and were performed by screeners who were not eye specialists."
+    },
+    {
+      "heading": "Background",
+      "text": "Strabismus (also known as squint) occurs when the eyes are not aligned. It can lead to reduced vision and failure of the eyes to work properly together, including for 3D vision. A number of different tests can be used to screen for strabismus directly, by measuring the misalignment; or indirectly, by measuring the level of vision in each eye (visual acuity); or by measuring 3D vision (stereopsis). It is unknown which of these tests is the most accurate in correctly identifying children with strabismus."
+    },
+    {
+      "heading": "Results and conclusion",
+      "text": "Only one study was found that met the standards to be included in this review. This study used a photoscreener (a type of camera that measures refractive error and misalignment). Following screening, all children were offered an examination by an eye-care specialist to confirm which children did have strabismus. The photoscreener was very accurate in identifying those children without strabismus (highly specific) but not accurate in correctly identifying those children with strabismus (low sensitivity only).\nAs only one study could be included in this review, it was not possible to conclude which test is the most accurate for screening for strabismus. Further studies would be needed to determine this. However, they would need to include very large numbers of children to be able to make statistically valid conclusions."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "Cochrane researchers searched for studies that had been published up to 5 January 2017."
+    }
+  ]
+}

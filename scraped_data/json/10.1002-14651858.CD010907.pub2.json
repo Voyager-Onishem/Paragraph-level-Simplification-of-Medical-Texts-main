@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010907.pub2",
+  "name": "Interventions to facilitate shared decision making to address antibiotic use for acute respiratory infections in primary care ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Shared decision making is an important component of patient-centred care. It is a set of communication and evidence-based practice skills that elicits patients' expectations, clarifies any misperceptions and discusses the best available evidence for benefits and harms of treatment. Acute respiratory infections (ARIs) are one of the most common reasons for consulting in primary care and obtaining prescriptions for antibiotics. However, antibiotics offer few benefits for ARIs, and their excessive use contributes to antibiotic resistance – an evolving public health crisis. Greater explicit consideration of the benefit-harm trade-off within shared decision making may reduce antibiotic prescribing for ARIs in primary care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether interventions that aim to facilitate shared decision making increase or reduce antibiotic prescribing for ARIs in primary care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2014, Issue 11), MEDLINE (1946 to November week 3, 2014), EMBASE (2010 to December 2014) and Web of Science (1985 to December 2014). We searched for other published, unpublished or ongoing trials by searching bibliographies of published articles, personal communication with key trial authors and content experts, and by searching trial registries at the National Institutes of Health and the World Health Organization."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) (individual level or cluster-randomised), which evaluated the effectiveness of interventions that promote shared decision making (as the focus or a component of the intervention) about antibiotic prescribing for ARIs in primary care."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted and collected data. Antibiotic prescribing was the primary outcome, and secondary outcomes included clinically important adverse endpoints (e.g. re-consultations, hospital admissions, mortality) and process measures (e.g. patient satisfaction). We assessed the risk of bias of all included trials and the quality of evidence. We contacted trial authors to obtain missing information where available."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 10 published reports of nine original RCTs (one report was a long-term follow-up of the original trial) in over 1100 primary care doctors and around 492,000 patients.\nThe main risk of bias came from participants in most studies knowing whether they had received the intervention or not, and we downgraded the rating of the quality of evidence because of this.\nWe meta-analysed data using a random-effects model on the primary and key secondary outcomes and formally assessed heterogeneity. Remaining outcomes are presented narratively.\nThere is moderate quality evidence that interventions that aim to facilitate shared decision making reduce antibiotic use for ARIs in primary care (immediately after or within six weeks of the consultation), compared with usual care, from 47% to 29%: risk ratio (RR) 0.61, 95% confidence interval (CI) 0.55 to 0.68. Reduction in antibiotic prescribing occurred without an increase in patient-initiated re-consultations (RR 0.87, 95% CI 0.74 to 1.03, moderate quality evidence) or a decrease in patient satisfaction with the consultation (OR 0.86, 95% CI 0.57 to 1.30, low quality evidence). There were insufficient data to assess the effects of the intervention on sustained reduction in antibiotic prescribing, adverse clinical outcomes (such as hospital admission, incidence of pneumonia and mortality), or measures of patient and caregiver involvement in shared decision making (such as satisfaction with the consultation; regret or conflict with the decision made; or treatment compliance following the decision). No studies assessed antibiotic resistance in colonising or infective organisms."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Interventions that aim to facilitate shared decision making reduce antibiotic prescribing in primary care in the short term. Effects on longer-term rates of prescribing are uncertain and more evidence is needed to determine how any sustained reduction in antibiotic prescribing affects hospital admission, pneumonia and death."
+    }
+  ],
+  "pls_title": "Interventions that facilitate shared decisions between primary care clinicians and patients about antibiotic use for acute respiratory infections",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We wanted to see if shared decision making was better or worse than usual care in reducing antibiotic prescribing for an acute respiratory infection in primary care."
+    },
+    {
+      "heading": "Background",
+      "text": "Shared decision making enables health decisions to be made jointly by a clinician and patient. The decision making occurs after the options and their benefits and harms have been discussed together with the patient's values and preferences.\nAcute respiratory infections (such as an acute cough, middle ear infection or sore throat) are one of the most common reasons to see a health professional, and antibiotics are commonly prescribed despite good evidence that they have little benefit for these conditions. Any decision to prescribe an antibiotic should be balanced by any benefits against the risk of common harms (such as rash and stomach upset) and the contribution to antibiotic resistance - now a major threat to human health.\nShared decision making provides an ideal opportunity within a primary care consultation for greater consideration about the trade-off between benefit and harm of antibiotics for acute respiratory illnesses. Antibiotic prescribing may decrease as a result."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 10 studies (nine trials and one follow-up study) up to December 2014. In total, the studies involved over 1100 primary care doctors and around 492,000 patients. The intervention was different in each study. Six of the studies involved training clinicians (mostly primary care doctors) in communication skills that are needed to facilitate shared decision making. In three studies, as well as training doctors in these skills, patients were also given written information about antibiotics for acute respiratory infections. All included trials received funding from government sources. No studies declared a conflict of interest."
+    },
+    {
+      "heading": "Key results",
+      "text": "Interventions that aim to facilitate shared decision making significantly reduce antibiotic prescribing for acute respiratory infections in primary care, without a decrease in patients' satisfaction with the consultation, or an increase in repeat consultations for the same illness. There was not enough information to decide whether shared decision making affects other clinically adverse secondary outcomes, measures of clinician and patient involvement in sharing decision making, or antibiotic resistance."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the evidence as moderate or low for all outcomes."
+    }
+  ]
+}

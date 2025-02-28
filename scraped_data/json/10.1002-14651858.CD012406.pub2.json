@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012406.pub2",
+  "name": "Macrolide antibiotics for bronchiectasis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bronchiectasis is a chronic respiratory disease characterised by abnormal and irreversible dilatation and distortion of the smaller airways. Bacterial colonisation of the damaged airways leads to chronic cough and sputum production, often with breathlessness and further structural damage to the airways. Long-term macrolide antibiotic therapy may suppress bacterial infection and reduce inflammation, leading to fewer exacerbations, fewer symptoms, improved lung function, and improved quality of life. Further evidence is required on the efficacy of macrolides in terms of specific bacterial eradication and the extent of antibiotic resistance."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the impact of macrolide antibiotics in the treatment of adults and children with bronchiectasis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Trials Register, which contains studies identified through multiple electronic searches and handsearches of other sources. We also searched trial registries and reference lists of primary studies. We conducted all searches on 18 January 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of at least four weeks' duration that compared macrolide antibiotics with placebo or no intervention for the long-term management of stable bronchiectasis in adults or children with a diagnosis of bronchiectasis by bronchography, plain film chest radiograph, or high-resolution computed tomography. We excluded studies in which participants had received continuous or high-dose antibiotics immediately before enrolment or before a diagnosis of cystic fibrosis, sarcoidosis, or allergic bronchopulmonary aspergillosis. Our primary outcomes were exacerbation, hospitalisation, and serious adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the titles and abstracts of 103 records. We independently screened the full text of 40 study reports and included 15 trials from 30 reports. Two review authors independently extracted outcome data and assessed risk of bias for each study. We analysed dichotomous data as odds ratios (ORs) and continuous data as mean differences (MDs) or standardised mean differences (SMDs). We used standard methodological procedures as expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 parallel-group RCTs and one cross-over RCT with interventions lasting from 8 weeks to 24 months. Of 11 adult studies with 690 participants, six used azithromycin, four roxithromycin, and one erythromycin. Four studies with 190 children used either azithromycin, clarithromycin, erythromycin, or roxithromycin.\nWe included nine adult studies in our comparison between macrolides and placebo and two in our comparison with no intervention. We included one study with children in our comparison between macrolides and placebo and one in our comparison with no intervention.\nIn adults, macrolides reduced exacerbation frequency to a greater extent than placebo (OR 0.34, 95% confidence interval (CI) 0.22 to 0.54; 341 participants; three studies; I2 = 65%; moderate-quality evidence). This translates to a number needed to treat for an additional beneficial outcome of 4 (95% CI 3 to 8). Data show no differences in exacerbation frequency between use of macrolides (OR 0.31, 95% CI 0.08 to 1.15; 43 participants; one study; moderate-quality evidence) and no intervention. Macrolides were also associated with a significantly better quality of life compared with placebo (MD -8.90, 95% CI -13.13 to -4.67; 68 participants; one study; moderate-quality evidence). We found no evidence of a reduction in hospitalisations (OR 0.56, 95% CI 0.19 to 1.62; 151 participants; two studies; I2 = 0%; low-quality evidence), in the number of participants with serious adverse events, including pneumonia, respiratory and non-respiratory infections, haemoptysis, and gastroenteritis (OR 0.49, 95% CI 0.20 to 1.23; 326 participants; three studies; I2 = 0%; low-quality evidence), or in the number experiencing adverse events (OR 0.83, 95% CI 0.51 to 1.35; 435 participants; five studies; I2 = 28%) in adults with macrolides compared with placebo.\nIn children, exacerbation frequency was reduced more with macrolides than with placebo (IRR 0.50, 95% CI 0.35 to 0.71; 89 children; one study; low-quality evidence). However there was no significant difference in this age group with regard to: hospitalisations (OR 0.28, 95% CI 0.07 to 1.11; 89 children; one study; low-quality evidence), serious adverse events, defined within the study as exacerbations of bronchiectasis or investigations related to bronchiectasis (OR 0.43, 95% CI 0.17 to 1.05; 89 children; one study; low-quality evidence), or adverse events (OR 0.78, 95% CI 0.33 to 1.83; 89 children; one study), in those receiving macrolides compared to placebo. The same study reported an increase in macrolide-resistant bacteria (OR 7.13, 95% CI 2.13 to 23.79; 89 children; one study), an increase in resistance to Streptococcus pneumoniae (OR 13.20, 95% CI 1.61 to 108.19; 89 children; one study), and an increase in resistance to Staphylococcus aureus (OR 4.16, 95% CI 1.06 to 16.32; 89 children; one study) with macrolides compared with placebo. Quality of life was not reported in the studies with children."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Long-term macrolide therapy may reduce the frequency of exacerbations and improve quality of life, although supporting evidence is derived mainly from studies of azithromycin, rather than other macrolides, and predominantly among adults rather than children. However, macrolides should be used with caution, as limited data indicate an associated increase in microbial resistance. Macrolides are associated with increased risk of cardiovascular death and other serious adverse events in other populations, and available data cannot exclude a similar risk among patients with bronchiectasis."
+    }
+  ],
+  "pls_title": "Macrolide antibiotics for bronchiectasis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background to the question",
+      "text": "Bronchiectasis is a long-term respiratory condition. The airways in the lungs are damaged, and people are prone to infection. Symptoms are chronic cough and the production of sputum (coughed-up material (phlegm) from the lower airways). Moreover, bronchiectasis is associated with a mortality rate more than twice that of the general population.\nLong-term antibiotic therapy with macrolides (such as azithromycin, roxithromycin, erythromycin, and clarithromycin) may reduce the cycle of reinfection, reduce symptoms, and improve quality of life. We wanted to do this review to look at the evidence on use of macrolides in people with bronchiectasis. This review is intended to help people such as guideline producers, doctors, and patients make decisions about whether to use or recommend macrolides."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 15 studies that compared macrolides with placebo (a substance or treatment with no benefit) or no intervention. Eleven studies involved 690 adults (aged 18 years and older) and four studies involved 190 children. Among adults, six used azithromycin, four roxithromycin, and one erythromycin. The four studies with children used azithromycin, clarithromycin, erythromycin, or roxithromycin. This review is current to January 2018."
+    },
+    {
+      "heading": "Main results",
+      "text": "The studies on azithromycin reported improved quality of life in adults. We do not have sufficient evidence from other macrolides to make a robust judgement on their use, and we similarly have insufficient evidence from children to draw clear conclusions.\nAlthough we found only a few trials, they do show a possible increase in antibiotic resistance. Antibiotic resistance is seen when an antibiotic becomes less effective at killing the bacteria causing the chest infection.\nWe know that macrolides are associated with higher risk of cardiovascular death and other serious adverse events when they are used to treat other conditions. The data in our review suggest it is possible that people with bronchiectasis are at risk for these adverse effects when taking macrolides."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Generally the limited number of studies evaluating macrolides and the variation among them indicate that we cannot be sure of the overall effect of their use in bronchiectasis. Further high-quality studies are needed to examine the role of long-term macrolide antibiotics in the treatment of adults and children with bronchiectasis."
+    }
+  ]
+}

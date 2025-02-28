@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012421",
+  "name": "Surgical options for lumbar spinal stenosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hospital charges for lumbar spinal stenosis have increased significantly worldwide in recent times, with great variation in the costs and rates of different surgical procedures. There have also been significant increases in the rate of complex fusion and the use of spinal spacer implants compared to that of traditional decompression surgery, even though the former is known to incur costs up to three times higher. Moreover, the superiority of these new surgical procedures over traditional decompression surgery is still unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of surgery in the management of patients with symptomatic lumbar spinal stenosis and the comparative effectiveness between commonly performed surgical techniques to treat this condition on patient-related outcomes. We also aimed to investigate the safety of these surgical interventions by including perioperative surgical data and reoperation rates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Review authors performed electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, AMED, Web of Science, LILACS and three trials registries from their inception to 16 June 2016. Authors also conducted citation tracking on the reference lists of included trials and relevant systematic reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "This review included only randomised controlled trials that investigated the efficacy and safety of surgery compared with no treatment, placebo or sham surgery, or with another surgical technique in patients with lumbar spinal stenosis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently assessed the studies for inclusion and performed the 'Risk of bias' assessment, using the Cochrane Back and Neck Review Group criteria. Reviewers also extracted demographics, surgery details, and types of outcomes to describe the characteristics of included studies. Primary outcomes were pain intensity, physical function or disability status, quality of life, and recovery. The secondary outcomes included measurements related to surgery, such as perioperative blood loss, operation time, length of hospital stay, reoperation rates, and costs. We grouped trials according to the types of surgical interventions being compared and categorised follow-up times as short-term when less than 12 months and long-term when 12 months or more. Pain and disability scores were converted to a common 0 to 100 scale. We calculated mean differences for continuous outcomes and relative risks for dichotomous outcomes. We pooled data using the random-effects model in Review Manager 5.3, and used the GRADE approach to assess the quality of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 24 randomised controlled trials (reported in 39 published research articles or abstracts) in this review. The trials included 2352 participants with lumbar spinal stenosis with symptoms of neurogenic claudication. None of the included trials compared surgery with no treatment, placebo or sham surgery. Therefore, all included studies compared two or more surgical techniques. We judged all trials to be at high risk of bias for the blinding of care provider domain, and most of the trials failed to adequately conceal the randomisation process, blind the participants or use intention-to-treat analysis. Five trials compared the effects of fusion in addition to decompression surgery. Our results showed no significant differences in pain relief at long-term (mean difference (MD) -0.29, 95% confidence interval (CI) -7.32 to 6.74). Similarly, we found no between-group differences in disability reduction in the long-term (MD 3.26, 95% CI -6.12 to 12.63). Participants who received decompression alone had significantly less perioperative blood loss (MD -0.52 L, 95% CI -0.70 L to -0.34 L) and required shorter operations (MD -107.94 minutes, 95% CI -161.65 minutes to -54.23 minutes) compared with those treated with decompression plus fusion, though we found no difference in the number of reoperations (risk ratio (RR) 1.25, 95% CI 0.81 to 1.92). Another three trials investigated the effects of interspinous process spacer devices compared with conventional bony decompression. These spacer devices resulted in similar reductions in pain (MD -0.55, 95% CI -8.08 to 6.99) and disability (MD 1.25, 95% CI -4.48 to 6.98). The spacer devices required longer operation time (MD 39.11 minutes, 95% CI 19.43 minutes to 58.78 minutes) and were associated with higher risk of reoperation (RR 3.95, 95% CI 2.12 to 7.37), but we found no difference in perioperative blood loss (MD 144.00 mL, 95% CI -209.74 mL to 497.74 mL). Two trials compared interspinous spacer devices with decompression plus fusion. Although we found no difference in pain relief (MD 5.35, 95% CI -1.18 to 11.88), the spacer devices revealed a small but significant effect in disability reduction (MD 5.72, 95% CI 1.28 to 10.15). They were also superior to decompression plus fusion in terms of operation time (MD 78.91 minutes, 95% CI 30.16 minutes to 127.65 minutes) and perioperative blood loss (MD 238.90 mL, 95% CI 182.66 mL to 295.14 mL), however, there was no difference in rate of reoperation (RR 0.70, 95% CI 0.32 to 1.51). Overall there were no differences for the primary or secondary outcomes when different types of surgical decompression techniques were compared among each other. The quality of evidence varied from 'very low quality' to 'high quality'."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this Cochrane review show a paucity of evidence on the efficacy of surgery for lumbar spinal stenosis, as to date no trials have compared surgery with no treatment, placebo or sham surgery. Placebo-controlled trials in surgery are feasible and needed in the field of lumbar spinal stenosis. Our results demonstrate that at present, decompression plus fusion and interspinous process spacers have not been shown to be superior to conventional decompression alone. More methodologically rigorous studies are needed in this field to confirm our results."
+    }
+  ],
+  "pls_title": "Effectiveness of surgery for people with leg or back pain due to symptomatic spinal stenosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How well do different types of surgery work for lumbar spinal stenosis?"
+    },
+    {
+      "heading": "Background",
+      "text": "Spinal stenosis is the narrowing of the spinal canal in the lower back region caused by thickening of the soft tissues and bones. It is a common condition for which surgery is usually performed after non-surgical treatments (such as physiotherapy) have failed to bring sufficient relief to patients. Spinal stenosis is a common cause of low back pain that radiates to the legs, and it is more common in older adults. Surgery for lumbar spinal stenosis normally involves taking pressure off the spinal cord or spinal nerves (known as decompression) by removing bone and soft tissues from around the spinal canal. Another common surgical approach is to fuse two or more vertebrae together after decompression in the patient whose spine seems to be unstable. The usefulness of some types of surgery for lumbar spinal stenosis, however, has been questioned, and previous studies have reported that patients who receive fusion are more likely to have major complications and higher costs when compared with patients who undergo decompression only. More recently, spinal implants were created to help indirectly reduce pressure in the spinal canal and at the same time stabilise the bones. However, these implants have also been linked to worse outcomes (e.g., higher reoperation rates) when compared to conventional decompression."
+    },
+    {
+      "heading": "Search date",
+      "text": "This review includes all trials published up to June 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included all trials that compared any surgical technique with no surgery or placebo surgery, and also trials comparing different surgical techniques with each other, including fusion and spinal implants. All the patients included in these studies were diagnosed with lumbar spinal stenosis and had symptoms in the leg or thigh that worsened by walking or standing and were generally relieved by a change in position, such as bending forward or sitting. The main measure we used to compare how well the different types of surgery worked was how much less pain people felt as they went about their daily lives. We also looked at whether their leg pain improved, how much blood they lost during surgery, how long the surgery took, how long they had to stay in hospital, how many patients had to have another operation for the problem and how much the treatment cost."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "Twenty-four randomised controlled trials were included with a total of 2352 people. We did not find trials that compared surgery with no treatment or placebo surgery, so all included trials compared different surgical techniques. The quality of the evidence from these studies varied from very low quality to high quality. This large variation was mainly due to different study protocols, surgical techniques and quality of reporting according to the 'Risk of bias' assessment. We found that patients who had decompression plus fusion fared no better than those who underwent decompression surgery alone. In fact, decompression plus fusion resulted in more blood loss during surgery than decompression alone. Although the spinal spacers were slightly better than decompression plus fusion in terms of improvements on daily activities, there were no differences when they were compared with decompression alone. Finally, we found no differences between different forms of decompression."
+    }
+  ]
+}

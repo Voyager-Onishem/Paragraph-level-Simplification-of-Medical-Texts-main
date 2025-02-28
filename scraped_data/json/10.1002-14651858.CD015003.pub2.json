@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015003.pub2",
+  "name": "Colchicine for the primary prevention of cardiovascular events",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Atherosclerotic cardiovascular diseases (ACVDs), a condition characterised by lipid accumulation in arterial walls, which is often exacerbated by chronic inflammation disorders, is the major cause of mortality and morbidity worldwide. Colchicine, with its first medicinal use in ancient Egypt, is an inexpensive drug with anti-inflammatory properties. However, its role in primary prevention of ACVDs in the general population remains unknown."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical benefits and harms of colchicine as primary prevention of cardiovascular outcomes in the general population."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Heart Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE (including In-Process & Other Non-Indexed Citations), Ovid Embase, Web of Science, and LILACS. We searched ClinicalTrials.gov and WHO ICTRP for ongoing and unpublished studies. We also scanned the reference lists of relevant included studies, reviews, meta-analyses, and health technology reports to identify additional studies. There were no limitations on language, date of publication, or study setting. The search results were updated on 31 May 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) in any setting, recruiting adults without pre-existing cardiovascular disease. We included trials that compared colchicine versus placebo, non-steroidal anti-inflammatory drugs, corticosteroids, immunomodulating drugs, or usual care. Our primary outcomes were all-cause mortality, non-fatal myocardial infarction, stroke, and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two or more review authors independently selected studies, extracted data, and performed risk of bias and GRADE assessments."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 15 RCTs (1721 participants randomised; 1412 participants analysed) with follow-up periods ranging from 4 to 728 weeks. The intervention was oral colchicine compared with placebo, immunomodulating drugs, or usual care or no treatment. Due to biases and imprecision, the evidence was very uncertain for all outcomes. All trials but one had a high risk of bias. Five out of seven meta-analyses included fewer than six trials (71.4%). The objectives of the review were to assess cardiovascular outcomes in the general population, but many of the included trials focused on liver disease.\nColchicine compared to placebo\nColchicine may reduce all-cause mortality compared to placebo in primary prevention, but the evidence is very uncertain (risk ratio (RR) 0.68, 95% confidence interval (CI) 0.51 to 0.91; 6 studies, 463 participants; very low-certainty evidence; number needed to treat for an additional beneficial outcome (NNTB) 11, 95% CI 6 to 67). Colchicine may result in little to no difference in non-fatal myocardial infarction, but the evidence is very uncertain (RR 0.87, 95% CI 0.41 to 1.82; 1 study, 100 participants; very low-certainty evidence). Colchicine may not reduce the incidence of stroke, but the evidence is very uncertain (RR 2.43, 95% CI 0.67 to 8.86; 1 study, 100 participants; very low-certainty evidence). Regarding adverse events, colchicine may increase the incidence of diarrhoea (RR 3.99, 95% CI 1.44 to 11.06; 8 studies, 605 participants; very low-certainty evidence; number needed to treat for an additional harmful outcome (NNTH) 10, 95% CI 6 to 17), and may have little to no effect on neurological outcomes such as seizure or mental confusion (RR 0.72, 95% CI 0.31 to 1.66; 2 studies, 155 participants; very low-certainty evidence), but the evidence is very uncertain. The effect of colchicine on cardiovascular mortality is also very uncertain (RR 1.27, 95% CI 0.03 to 62.43; 2 studies, 160 participants; very low-certainty evidence). Colchicine may not reduce post-cardiac procedure atrial fibrillation, but the evidence is very uncertain (RR 0.74, 95% CI 0.25 to 2.19; 1 study, 100 participants). We found no trials reporting on pericardial effusion, peripheral artery disease, heart failure, or unstable angina.\nColchicine compared to methotrexate (immunomodulating drug)\nColchicine may result in little to no difference in all-cause mortality compared to methotrexate, but the evidence is very uncertain (RR 0.42, 95% CI 0.12 to 1.51; 1 study, 85 participants; very low-certainty evidence). We found no trials reporting other cardiovascular outcomes or adverse events for this comparison.\nColchicine compared to usual care or no treatment\nThe evidence is very uncertain about the effect of colchicine compared with usual care on all-cause mortality in primary prevention (RR 1.07, 95% CI 0.90 to 1.27; 2 studies, 729 participants; very low-certainty evidence). Regarding adverse events, colchicine may increase the incidence of diarrhoea compared to usual care, but the evidence is very uncertain (RR 3.32, 95% CI 1.56 to 7.03; 2 studies, 729 participants; very low-certainty evidence; NNTH 18, 95% CI 12 to 42). No trials reported other cardiovascular outcomes for this comparison."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This Cochrane review evaluated the clinical benefits and harms of using colchicine for the primary prevention of cardiovascular events in the general population. Comparisons were made against placebo, immunomodulating medications, or usual care or no treatment. However, the certainty of the evidence for the predefined outcomes was very low, highlighting the pressing need for high-quality, rigorous studies to ascertain colchicine's clinical impact definitively. We identified numerous biases and inaccuracies in the included studies, limiting their generalisability and precluding a conclusive determination of colchicine’s efficacy in preventing cardiovascular events. The existing evidence regarding colchicine’s potential cardiovascular benefits or harms for primary prevention is inconclusive owing to the limitations inherent in the current studies. More robust clinical trials are needed to bridge this evidence gap effectively."
+    }
+  ],
+  "pls_title": "What are the effects of colchicine in preventing cardiovascular events before they ever occur?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• The benefits and harms of colchicine in preventing atherosclerotic cardiovascular disease before it ever occurs remain unclear.\n• Further research is needed before any strong conclusions can be made."
+    },
+    {
+      "heading": "Colchicine and cardiovascular disease",
+      "text": "Atherosclerotic cardiovascular disease (ACVD), a condition marked by lipid accumulation (buildup of fats, cholesterol, and other substances) on the artery walls, which is often made worse by chronic inflammation disorders, is a major cause of death and illness worldwide. Colchicine, first used to treat illness in ancient Egypt, is an inexpensive medication that fights inflammation. It has been used to treat gout, liver diseases, and systemic connective tissue disorders. More recently, researchers have been studying its potential for preventing ACVD."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out colchicine's benefits and harms in preventing ACVD before it ever occurs (primary prevention) in the general population. Primary prevention is all about taking steps to prevent a disease before it even develops, rather than waiting until someone is already sick to start treatment. In the case of ACVD, this is especially important because it is a leading cause of death and disability worldwide. By focusing on prevention, people can be helped to live longer, healthier lives with a resulting reduced burden on healthcare systems. One approach to primary prevention is using immunomodulating medications, which work by modifying the immune system's response. Colchicine is one example of this type of medication."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked at the effects of colchicine for primary prevention of ACVD, including heart attacks, strokes, death from cardiovascular causes, and death for any reason. We also looked at unwanted effects such as diarrhoea and neurological events (seizure and mental confusion). We compared and summarised the results of the studies and rated our confidence in the evidence based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 15 studies involving 1721 participants with follow-up periods ranging from 4 to 728 weeks, comparing colchicine with placebo (dummy pill), immunomodulating medications, or usual care. Colchicine was taken by mouth as a pill, either once or twice a day, depending on the regimen being followed. The people included in the studies were adults at high risk for developing ACVD, but who had not yet had a major cardiovascular event like a heart attack or stroke. The risk factors considered included age, family history, smoking status, blood pressure, cholesterol levels, and presence of other conditions like diabetes."
+    },
+    {
+      "heading": "Main results",
+      "text": "The evidence for the effects of colchicine on preventing cardiovascular events is very uncertain. Although the current evidence does not suggest clear benefits or a reduction in ACVD complications, this conclusion is limited by the quality of the evidence. Further high-quality studies are essential to accurately determine the benefits and harms of colchicine for the primary prevention of ACVD."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is very low because of concerns about how some of the studies were conducted, results that differed across studies, and changes to the intended populations or treatments. The studies were very small, and analyses included only a few studies."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to 31 May 2023."
+    }
+  ]
+}

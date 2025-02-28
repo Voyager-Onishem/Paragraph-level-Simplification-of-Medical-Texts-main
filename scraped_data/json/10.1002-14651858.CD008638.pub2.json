@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008638.pub2",
+  "name": "Automated weaning and SBT systems versus non‐automated weaning strategies for weaning time in invasively ventilated critically ill adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Automated systems use closed-loop control to enable ventilators to perform basic and advanced functions while supporting respiration. SmartCare™ is a unique automated weaning system that measures selected respiratory variables, adapts ventilator output to individual patient needs by operationalizing predetermined algorithms and automatically conducts spontaneous breathing trials (SBTs) when predetermined thresholds are met."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of this review was to compare weaning time (time from randomization to extubation as defined by study authors) between invasively ventilated critically ill adults weaned by automated weaning and SBT systems versus non-automated weaning strategies.\nAs secondary objectives, we ascertained differences between effects of alternative weaning strategies on clinical outcomes (time to successful extubation, time to first SBT and first successful SBT, mortality, ventilator-associated pneumonia, total duration of ventilation, lengths of intensive care unit (ICU) and hospital stay, use of non-invasive ventilation (NIV), adverse events and clinician acceptance).\nThe third objective of our review was to use subgroup analyses to explore variations in weaning time, length of ICU stay, mortality, ventilator-associated pneumonia, use of NIV and reintubation according to (1) the type of clinician primarily involved in implementing the automated weaning and SBT strategy, (2) the ICU (as a reflection of the population involved) and (3) the non-automated (control) weaning strategy utilized.\nWe conducted a sensitivity analysis to evaluate variations in weaning time based on (4) the methodological quality (low or unclear versus high risk of bias) of the included studies."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2013, Issue 5; MEDLINE (1966 to 31 May 2013); EMBASE (1988 to 31 May 2013); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to 31 May 2013), Evidence-Based Medicine Reviews and Ovid HealthSTAR (1999 to 31 May 2013), as well as conference proceedings and trial registration websites; we also contacted study authors and content experts to identify potentially eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and quasi-randomized trials comparing automated weaning and SBT systems versus non-automated weaning strategies in intubated adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and abstracted data according to prespecified criteria. Sensitivity and subgroup analyses were planned to assess the impact on selected outcomes of the following: (1) the type of clinician primarily involved in implementing automated weaning and SBT systems, (2) the ICU (as a reflection of the population involved) and (3) the non-automated (control) weaning strategy utilized."
+    },
+    {
+      "heading": "Main results",
+      "text": "We pooled summary estimates from 10 trials evaluating SmartCare™ involving 654 participants. Overall, eight trials were judged to be at low or unclear risk of bias, and two trials were judged to be at high risk of bias. Compared with non-automated strategies, SmartCare™ decreased weaning time (mean difference (MD) -2.68 days, 95% confidence interval (CI) -3.99 to -1.37; P value < 0.0001, seven trials, 495 participants, moderate-quality evidence), time to successful extubation (MD -0.99 days, 95% CI -1.89 to -0.09; P value 0.03, seven trials, 516 participants, low-quality evidence), length of ICU stay (MD -5.70 days, 95% CI -10.54 to -0.85; P value 0.02, six trials, 499 participants, moderate-quality evidence) and proportions of participants receiving ventilation for longer than seven and 21 days (risk ratio (RR) 0.44, 95% CI 0.23 to 0.85; P value 0.01 and RR 0.39, 95% CI 0.18 to 0.86; P value 0.02). SmartCare™ reduced the total duration of ventilation (MD -1.68 days, 95% CI -3.33 to -0.03; P value 0.05, seven trials, 521 participants, low-quality evidence) and the number of participants receiving ventilation for longer than 14 days (RR 0.61, 95% CI 0.37 to 1.00; P value 0.05); however the estimated effects were imprecise. SmartCare™ had no effect on time to first successful SBT, mortality or adverse events, specifically reintubation. Subgroup analysis suggested that trials with protocolized (versus non-protocolized) control weaning strategies reported significantly shorter ICU stays. Sensitivity analysis excluded two trials with high risk of bias and supported a trend toward significant reductions in weaning time favouring SmartCare™."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared with non-automated weaning strategies, weaning with SmartCare™ significantly decreased weaning time, time to successful extubation, ICU stay and proportions of patients receiving ventilation for longer than seven days and 21 days. It also showed a favourable trend toward fewer patients receiving ventilation for longer than 14 days; however the estimated effect was imprecise. Summary estimates from our review suggest that these benefits may be achieved without increasing the risk of adverse events, especially reintubation; however, the quality of the evidence ranged from low to moderate, and evidence was derived from 10 small randomized controlled trials."
+    }
+  ],
+  "pls_title": "SmartCare™ versus non-automated weaning strategies for weaning time in invasively ventilated critically ill adults",
+  "pls_type": "long",
+  "pls": "The process of discontinuing mechanical ventilation is known as weaning. During weaning, the work of breathing is transferred from the ventilator to the patient. Weaning is typically achieved by clinicians reducing ventilator support and/or conducting tests to determine whether a patient can breathe on his/her own. SmartCare™ is a unique system that automates this process by measuring selected respiratory variables, adapting ventilator output to meet individual patient needs and automatically conducting tests of spontaneous breathing to determine the earliest time when patients can breathe on their own.\nWe identified 10 trials of moderate quality involving 654 participants and comparing SmartCare™ versus non-automated weaning strategies. Compared with non-automated strategies, SmartCare™ significantly decreased weaning time, time to successful removal from breathing machines and time spent in the ICU, with fewer patients receiving breathing machine support for longer than seven days and 21 days, and no increase in adverse events. SmartCare™ also showed a favourable trend toward fewer patients receiving ventilation for longer than 14 days, with no increase in adverse events. Subgroup analyses suggested more beneficial effects on weaning time in trials comparing SmartCare™ to a protocolized weaning strategy versus a non-protocolized control strategy. Sensitivity analyses, which excluded two trials with high risk of bias, supported significant reductions in weaning time with SmartCare™."
+}

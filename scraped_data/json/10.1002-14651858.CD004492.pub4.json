@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004492.pub4",
+  "name": "Stage‐based interventions for smoking cessation",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The transtheoretical model is the most widely known of several stage-based theories of behaviour. It proposes that smokers move through a discrete series of motivational stages before they quit successfully. These are precontemplation (no thoughts of quitting), contemplation (thinking about quitting), preparation (planning to quit in the next 30 days), action (quitting successfully for up to six months), and maintenance (no smoking for more than six months). According to this influential model, interventions which help people to stop smoking should be tailored to their stage of readiness to quit, and are designed to move them forward through subsequent stages to eventual success. People in the preparation and action stages of quitting would require different types of support from those in precontemplation or contemplation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our primary objective was to test the effectiveness of stage-based interventions in helping smokers to quit."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group's specialised register for trials, using the terms ('stage* of change', 'transtheoretical model*', 'trans-theoretical model*, 'precaution adoption model*', 'health action model', 'processes of change questionnaire*', 'readiness to change', 'tailor*') and 'smoking' in the title or abstract, or as keywords. The latest search was in August 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials, which compared stage-based interventions with non-stage-based controls, with 'usual care' or with assessment only. We excluded trials which did not report a minimum follow-up period of six months from start of treatment, and those which measured stage of change but did not modify their intervention in the light of it."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data in duplicate on the participants, the dose and duration of intervention, the outcome measures, the randomization procedure, concealment of allocation, and completeness of follow up.\nThe main outcome was abstinence from smoking for at least six months. We used the most rigorous definition of abstinence, and preferred biochemically validated rates where reported. Where appropriate we performed meta-analysis to estimate a pooled risk ratio, using the Mantel-Haenszel fixed-effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 41 trials (>33,000 participants) which met our inclusion criteria. Four trials, which directly compared the same intervention in stage-based and standard versions, found no clear advantage for the staging component. Stage-based versus standard self-help materials (two trials) gave a relative risk (RR) of 0.93 (95% CI 0.62 to 1.39). Stage-based versus standard counselling (two trials) gave a relative risk of 1.00 (95% CI 0.82 to 1.22). Six trials of stage-based self-help systems versus any standard self-help support demonstrated a benefit for the staged groups, with an RR of 1.27 (95% CI 1.01 to 1.59). Twelve trials comparing stage-based self help with 'usual care' or assessment-only gave an RR of 1.32 (95% CI 1.17 to 1.48). Thirteen trials of stage-based individual counselling versus any control condition gave an RR of 1.24 (95% CI 1.08 to 1.42). These findings are consistent with the proven effectiveness of these interventions in their non-stage-based versions. The evidence was unclear for telephone counselling, interactive computer programmes or training of doctors or lay supporters. This uncertainty may be due in part to smaller numbers of trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on four trials using direct comparisons, stage-based self-help interventions (expert systems and/or tailored materials) and individual counselling were neither more nor less effective than their non-stage-based equivalents. Thirty-one trials of stage-based self help or counselling interventions versus any control condition demonstrated levels of effectiveness which were comparable with their non-stage-based counterparts. Providing these forms of practical support to those trying to quit appears to be more productive than not intervening. However, the additional value of adapting the intervention to the smoker's stage of change is uncertain. The evidence is not clear for other types of staged intervention, including telephone counselling, interactive computer programmes and training of physicians or lay supporters. The evidence does not support the restriction of quitting advice and encouragement only to those smokers perceived to be in the preparation and action stages."
+    }
+  ],
+  "pls_title": "Are stage-based interventions more effective than non-stage-based ones in helping smokers to quit?",
+  "pls_type": "long",
+  "pls": "The transtheoretical model is one of several stage-based theories of behaviour change. It suggests that smokers move through a series of motivational stages before they manage to stop smoking. These are precontemplation (no thoughts of quitting), contemplation (thinking about quitting), preparation (planning to quit in the next 30 days), action (quitting successfully for up to six months), and maintenance (no smoking for more than six months). According to this widely-known theory, programmes which help people to stop smoking should be matched to their stage of readiness to quit. They are designed to move them forward through the stages to eventual success. In this review, we have compared stage-based programmes of smoking cessation with standard (unstaged) programmes, or with 'usual care', or with assessment only. We found 41 stage-based trials, covering more than 33,000 smokers, which measured quit rates at least six months after treatment. Only four of the 41 trials directly compared the same intervention in a standard and a stage-based version. This showed that the stage-based version was neither more nor less effective than the standard one. Eighteen trials which compared stage-based self-help programmes with any control condition showed better success rates for the intervention groups. Thirteen trials of stage-based individual counselling versus any control condition showed a similar benefit for the intervention groups. These findings confirm the known effectiveness of these interventions, whether staged or unstaged. The evidence was less clear on the effects of stage-based telephone counselling, interactive computer programmes or training of doctors and helpers. This uncertainty may be due in part to smaller numbers of trials. We find on the evidence from this review that providing self-help or counselling support to smokers trying to quit is more effective than 'usual care' or simple observation. However, the extra value of fitting that support to the smoker's stage of change is currently unclear."
+}

@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD013186",
+  "name": "Computer‐assisted diagnosis techniques (dermoscopy and spectroscopy‐based) for diagnosing skin cancer in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Early accurate detection of all skin cancer types is essential to guide appropriate management and to improve morbidity and survival. Melanoma and cutaneous squamous cell carcinoma (cSCC) are high-risk skin cancers which have the potential to metastasise and ultimately lead to death, whereas basal cell carcinoma (BCC) is usually localised with potential to infiltrate and damage surrounding tissue. Anxiety around missing early curable cases needs to be balanced against inappropriate referral and unnecessary excision of benign lesions. Computer-assisted diagnosis (CAD) systems use artificial intelligence to analyse lesion data and arrive at a diagnosis of skin cancer. When used in unreferred settings ('primary care'), CAD may assist general practitioners (GPs) or other clinicians to more appropriately triage high-risk lesions to secondary care. Used alongside clinical and dermoscopic suspicion of malignancy, CAD may reduce unnecessary excisions without missing melanoma cases."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the accuracy of CAD systems for diagnosing cutaneous invasive melanoma and atypical intraepidermal melanocytic variants, BCC or cSCC in adults, and to compare its accuracy with that of dermoscopy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook a comprehensive search of the following databases from inception up to August 2016: Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; Embase; CINAHL; CPCI; Zetoc; Science Citation Index; US National Institutes of Health Ongoing Trials Register; NIHR Clinical Research Network Portfolio Database; and the World Health Organization International Clinical Trials Registry Platform. We studied reference lists and published systematic review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies of any design that evaluated CAD alone, or in comparison with dermoscopy, in adults with lesions suspicious for melanoma or BCC or cSCC, and compared with a reference standard of either histological confirmation or clinical follow-up."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted all data using a standardised data extraction and quality assessment form (based on QUADAS-2). We contacted authors of included studies where information related to the target condition or diagnostic threshold were missing. We estimated summary sensitivities and specificities separately by type of CAD system, using the bivariate hierarchical model. We compared CAD with dermoscopy using (a) all available CAD data (indirect comparisons), and (b) studies providing paired data for both tests (direct comparisons). We tested the contribution of human decision-making to the accuracy of CAD diagnoses in a sensitivity analysis by removing studies that gave CAD results to clinicians to guide diagnostic decision-making."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 42 studies, 24 evaluating digital dermoscopy-based CAD systems (Derm–CAD) in 23 study cohorts with 9602 lesions (1220 melanomas, at least 83 BCCs, 9 cSCCs), providing 32 datasets for Derm–CAD and seven for dermoscopy. Eighteen studies evaluated spectroscopy-based CAD (Spectro–CAD) in 16 study cohorts with 6336 lesions (934 melanomas, 163 BCC, 49 cSCCs), providing 32 datasets for Spectro–CAD and six for dermoscopy. These consisted of 15 studies using multispectral imaging (MSI), two studies using electrical impedance spectroscopy (EIS) and one study using diffuse-reflectance spectroscopy. Studies were incompletely reported and at unclear to high risk of bias across all domains. Included studies inadequately address the review question, due to an abundance of low-quality studies, poor reporting, and recruitment of highly selected groups of participants.\nAcross all CAD systems, we found considerable variation in the hardware and software technologies used, the types of classification algorithm employed, methods used to train the algorithms, and which lesion morphological features were extracted and analysed across all CAD systems, and even between studies evaluating CAD systems. Meta–analysis found CAD systems had high sensitivity for correct identification of cutaneous invasive melanoma and atypical intraepidermal melanocytic variants in highly selected populations, but with low and very variable specificity, particularly for Spectro–CAD systems. Pooled data from 22 studies estimated the sensitivity of Derm–CAD for the detection of melanoma as 90.1% (95% confidence interval (CI) 84.0% to 94.0%) and specificity as 74.3% (95% CI 63.6% to 82.7%). Pooled data from eight studies estimated the sensitivity of multispectral imaging CAD (MSI–CAD) as 92.9% (95% CI 83.7% to 97.1%) and specificity as 43.6% (95% CI 24.8% to 64.5%). When applied to a hypothetical population of 1000 lesions at the mean observed melanoma prevalence of 20%, Derm–CAD would miss 20 melanomas and would lead to 206 false-positive results for melanoma. MSI–CAD would miss 14 melanomas and would lead to 451 false diagnoses for melanoma. Preliminary findings suggest CAD systems are at least as sensitive as assessment of dermoscopic images for the diagnosis of invasive melanoma and atypical intraepidermal melanocytic variants. We are unable to make summary statements about the use of CAD in unreferred populations, or its accuracy in detecting keratinocyte cancers, or its use in any setting as a diagnostic aid, because of the paucity of studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In highly selected patient populations all CAD types demonstrate high sensitivity, and could prove useful as a back-up for specialist diagnosis to assist in minimising the risk of missing melanomas. However, the evidence base is currently too poor to understand whether CAD system outputs translate to different clinical decision–making in practice. Insufficient data are available on the use of CAD in community settings, or for the detection of keratinocyte cancers. The evidence base for individual systems is too limited to draw conclusions on which might be preferred for practice. Prospective comparative studies are required that evaluate the use of already evaluated CAD systems as diagnostic aids, by comparison to face–to–face dermoscopy, and in participant populations that are representative of those in which the test would be used in practice."
+    }
+  ],
+  "pls_title": "What is the diagnostic accuracy of computer-assisted diagnosis techniques for the detection of skin cancer in adults?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is improving the diagnosis of skin cancer important?",
+      "text": "There are a number of different types of skin cancer, including melanoma, squamous cell carcinoma (SCC) and basal cell carcinoma (BCC). Melanoma is one of the most dangerous forms. If it is not recognised early treatment can be delayed and this risks the melanoma spreading to other organs in the body and may eventually lead to death. Cutaneous squamous cell carcinoma (cSCC) and BCC are considered less dangerous, as they are localised (less likely to spread to other parts of the body compared to melanoma). However, cSCC can spread to other parts of the body and BCC can cause disfigurement if not recognised early. Diagnosing a skin cancer when it is not actually present (a false-positive result) might result in unnecessary surgery and other investigations and can cause stress and anxiety to the patient. Missing a diagnosis of skin cancer may result in the wrong treatment being used or lead to a delay in effective treatment."
+    },
+    {
+      "heading": "What is the aim of the review?",
+      "text": "The aim of this Cochrane Review was to find out how accurate computer–assisted diagnosis (CAD) is for diagnosing melanoma, BCC or cSCC. The review also compared the accuracy of two different types of CAD, and compared the accuracy of CAD with diagnosis by a doctor using a handheld illuminated microscope (a dermatoscope or ‘dermoscopy’). We included 42 studies to answer these questions."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "A number of tools are available to skin cancer specialists which allow a more detailed examination of the skin compared to examination by the naked eye alone. Currently a dermatoscope which magnifies the skin lesion (a mole or area of skin with an unusual appearance in comparison with the surrounding skin) using a bright light source is used by most skin cancer specialists. CAD tests are computer systems that analyse information about skin lesions obtained from a dermatoscope or other techniques that use light to describe the features of a skin lesion (spectroscopy) to produce a result indicating whether skin cancer is likely to be present. We included CAD systems that get their information from dermoscopic images of lesions (Derm–CAD), or that use data from spectroscopy. Most of the spectroscopy studies used data from multispectral imaging (MSI–CAD) and are the main focus here. When a skin cancer specialist finds a lesion is suspicious using visual examination with or without additional dermoscopy, results from CAD systems can be used alone to make a diagnosis of skin cancer (CAD–based diagnosis), or can be used by doctors in addition to their visual inspection examination of a skin lesion to help them reach a diagnosis (CAD–aided diagnosis). Researchers examined how useful CAD systems are to help diagnose skin cancers in addition to visual inspection and dermoscopy."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review included 42 studies looking at CAD systems for the diagnosis of melanoma. There was not enough evidence to determine the accuracy of CAD systems for the diagnosis of BCC (3 studies) or cSCC (1 study)."
+    },
+    {
+      "heading": "Derm-CAD results for diagnosis of melanoma",
+      "text": "The main results for Derm-CAD are based on 22 studies including 8992 lesions.\nApplied to a group of 1000 skin lesions, of which 200 (20%) are given a final diagnosis* of melanoma, the results suggest that:\n- An estimated 386 people will have a Derm–CAD result suggesting that a melanoma is present, and of these 206 (53%) will not actually have a melanoma (false-positive result)\n- Of the 614 people with a Derm–CAD result indicating that no melanoma is present, 20 (3%) will in fact actually have a melanoma (false-negative result)\nThere was no evidence to suggest that dermoscopy or Derm–CAD was different in its ability to detect or rule out melanoma."
+    },
+    {
+      "heading": "MSI-CAD results for diagnosis of melanoma",
+      "text": "The main results for MSI–CAD are based on eight studies including 2401 lesions. In a group of 1000 people, of whom 200 (20%) actually do have melanoma*, then:\n- An estimated 637 people will have an MSI–CAD result suggesting that a melanoma is present, and of these 451 (71%) will not actually have a melanoma (false-positive result)\n- Of the 363 people with an MSI–CAD result indicating that no melanoma is present, 14 (4%) will in fact have a melanoma (false-negative result)\nMSI–CAD detects more melanomas, but possibly produces more false-positive results (an increase in unnecessary surgery)."
+    },
+    {
+      "heading": "How reliable are the results of the studies of this review?",
+      "text": "Incomplete reporting of studies made it difficult for us to judge how reliable they were. Many studies had important limitations. Some studies only included particular types of skin lesions or excluded lesions that were considered difficult to diagnose. Importantly, most of the studies only included skin lesions with a biopsy result, which means that only a sample of lesions that would be seen by a doctor in practice were included. These characteristics may result in CAD systems appearing more or less accurate than they actually are."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Studies were largely conducted in Europe (29, 69%) and North America (8, 19%). Mean age (reported in 6/42 studies) ranged from 32 to 49 years for melanoma. The percentage of people with a final diagnosis of melanoma ranged from 1% to 52%. It was not always possible to tell whether suspicion of skin cancer in study participants was based on clinical examination alone, or both clinical and dermoscopic examinations. Almost all studies were done in people with skin lesions who were seen at specialist clinics rather than by doctors in primary care."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": ""
+    },
+    {
+      "heading": "-",
+      "text": "-positive diagnoses than dermoscopy, and could lead to considerable increases in unnecessary surgery. The performance of CAD systems for detecting BCC and cSCC skin cancers is unclear. More studies are needed to evaluate the use of CAD by doctors for the diagnosis of skin cancer in comparison to face-to-face diagnosis using dermoscopy, both in primary care and in specialist skin cancer clinics."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for and used studies published up to August 2016.\n*In these studies, biopsy, clinical follow up, or specialist clinician diagnosis were the reference standards (means of establishing the final diagnosis)."
+    }
+  ]
+}

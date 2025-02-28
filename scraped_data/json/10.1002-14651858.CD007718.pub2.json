@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007718.pub2",
+  "name": "Telehealthcare for chronic obstructive pulmonary disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic obstructive pulmonary disease (COPD) is a disease of irreversible airways obstruction in which patients often suffer exacerbations. Sometimes these exacerbations need hospital care: telehealthcare has the potential to reduce admission to hospital when used to administer care to the pateint from within their own home."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effectiveness of telehealthcare for COPD compared with usual face-to-face care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register, which is derived from systematic searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED, and PsycINFO; last searched January 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials which assessed telehealthcare, defined as follows: healthcare at a distance, involving the communication of data from the patient to the health carer, usually a doctor or nurse, who then processes the information and responds with feedback regarding the management of the illness. The primary outcomes considered were: number of exacerbations, quality of life as recorded by the St George's Respiratory Questionnaire, hospitalisations, emergency department visits and deaths."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected trials for inclusion and extracted data. We combined data into forest plots using fixed-effects modelling as heterogeneity was low (I2 < 40%)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ten trials met the inclusion criteria. Telehealthcare was assessed as part of a complex intervention, including nurse case management and other interventions. Telehealthcare was associated with a clinically significant increase in quality of life in two trials with 253 participants (mean difference -6.57 (95% confidence interval (CI) -13.62 to 0.48); minimum clinically significant difference is a change of -4.0), but the confidence interval was wide. Telehealthcare showed a significant reduction in the number of patients with one or more emergency department attendances over 12 months; odds ratio (OR) 0.27 (95% CI 0.11 to 0.66) in three trials with 449 participants, and the OR of having one or more admissions to hospital over 12 months was 0.46 (95% CI 0.33 to 0.65) in six trials with 604 participants. There was no significant difference in the OR for deaths over 12 months for the telehealthcare group as compared to the usual care group in three trials with 503 participants; OR 1.05 (95% CI 0.63 to 1.75)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Telehealthcare in COPD appears to have a possible impact on the quality of life of patients and the number of times patients attend the emergency department and the hospital. However, further research is needed to clarify precisely its role since the trials included telehealthcare as part of more complex packages."
+    }
+  ],
+  "pls_title": "Telehealthcare for COPD - bronchitis and emphysema",
+  "pls_type": "long",
+  "pls": "The smoking related diseases of bronchitis and emphysema are now considered under the umbrella term of chronic obstructive pulmonary disease, COPD. This is because they are diseases which leave people breathless and often with a cough and increased phlegm. Such people often have times when their COPD worsens and they cannot \"get their breath\" and have to go into hospital for treatment. It is very expensive to look after people this way and often they do not want to spend time in hospital but there are few alternatives. Telehealthcare involves using technology such as telephones, video cameras and the Internet to allow people to stay at home and communicate with a nurse or doctor when they have a period of increased breathlessness. The professional can obtain information from the patient to allow them to prescribe treatments and monitor the patient closely without them having to go into hospital or to the emergency department. This study shows that people treated this way do manage to stay out of hospital longer than people treated by conventional systems of care. There are also some data showing that although these systems are expensive to start off with, if they are successful at keeping people out of hospital, then the cost saving from this means that they are cheaper in the long run."
+}

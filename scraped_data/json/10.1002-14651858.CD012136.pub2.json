@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012136.pub2",
+  "name": "Antibiotic prophylaxis for episiotomy repair following vaginal birth",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bacterial infections occurring during labour, childbirth, and the puerperium may be associated with considerable maternal and perinatal morbidity and mortality. Antibiotic prophylaxis might reduce wound infection incidence after an episiotomy, particularly in situations associated with a higher risk of postpartum perineal infection, such as midline episiotomy, extension of the incision, or in settings where the baseline risk of infection after vaginal birth is high. However, available evidence is unclear concerning the role of prophylactic antibiotics in preventing infections after an episiotomy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether routine antibiotic prophylaxis before or immediately after incision or repair of episiotomy for women with an uncomplicated vaginal birth, compared with either placebo or no antibiotic prophylaxis, prevents maternal infectious morbidities and improves outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth's Trials Register, LILACS, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP) on 24 July 2017, and screened reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomised controlled trials, quasi-randomised trials, and cluster-randomised trials that compared the use of routine antibiotic prophylaxis for incision or repair of an episiotomy for women with otherwise normal vaginal births, compared with either placebo or no antibiotic prophylaxis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data, and checked them for accuracy. We only found one quasi-randomised trial that met the inclusion criteria and was included in the analysis, therefore, we did not perform a meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one quasi-RCT (with data from 73 women) in the review. The trial, which was conducted in a public hospital in Brazil, compared oral chloramphenicol 500 mg four times daily for 72 hours after episiotomy repair (N = 34) and no treatment (N = 39). We assessed most of the domains at high risk of bias because women were randomised according to even and odd numbers, allocation concealment was based on protocol number, there was no treatment or placebo administered in the control group, we were unclear about the blinding of outcome assessments, and outcomes were incompletely reported. We considered the other domains to be at low risk of bias. We downgraded the quality of the evidence for very serious design limitations (related to lack of random sequence generation, allocation concealment, and blinding) and imprecision of effect estimates (small sample sizes and wide confidence intervals (CI) of effect estimates).\nWe found very low-quality evidence, from one trial of 73 women, that there was no clear indication that prophylactic antibiotics reduced the incidence of episiotomy wound dehiscence with infection (risk ratio (RR) 0.13, 95% CI 0.01 to 2.28), or without infection (RR 0.82, 95% CI 0.29 to 2.34). No cases of other puerperal infections (e.g. endometritis) were reported in either the antibiotic or control group.\nThe trial did not report on any of the secondary outcomes of interest for this review, including severe maternal infectious morbidity, discomfort or pain at the episiotomy wound site, sexual function postpartum, adverse effects of antibiotics, costs of care, women's satisfaction with care, and individual antimicrobial resistance."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was insufficient evidence to assess the clinical benefits or harms of routine antibiotic prophylaxis for episiotomy repair after normal birth. The only trial included in this review had several methodological limitations, with very serious limitations in design, and imprecision of effect estimates. In addition, the trial tested an antibiotic with limited application in current clinical practice. There is a need for a careful and rigorous assessment of the comparative benefits and harms of prophylactic antibiotics on infection morbidity after episiotomy, in well-designed randomised controlled trials, using common antibiotics and regimens in current obstetric practice."
+    }
+  ],
+  "pls_title": "Routine antibiotic use for episiotomy repair after normal vaginal birth",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Current research evidence favours a hospital policy of restrictive use of episiotomy, rather than routine episiotomy. However, the practice of performing an episiotomy is still very common among women giving birth vaginally, in many parts of the world. Bacterial infections associated with childbirth can cause considerable ill-health for the mother and her baby, and even death. General infection control measures, such as hand hygiene, aseptic surgical techniques, disinfection of the surgical site, and sterilisation of instruments can help minimise the risk of episiotomy infection. Preventative antibiotics, or prophylaxis, might reduce wound infections after episiotomy, particularly in situations associated with a higher risk of infection, such as extension of the incision during childbirth, or in healthcare settings where the baseline risk of childbirth-related infections is high."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Women with an episiotomy may not require the routine use of antibiotics to prevent infection, particularly if general infection control measures have been respected. Inadequate use of antibiotics is associated with poorer outcomes, while still exposing women and their nursing babies to the risk of antibiotic-related side effects. Healthcare costs may be increased with antibiotic use, and widespread use of antibiotics can lead to the emergence of antibiotic resistance."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "The review assessed whether routine use of antibiotics at the time of an episiotomy prevented infection for women with an uncomplicated vaginal birth, compared with either placebo, or no antibiotics. We searched for evidence (24 July 2017) from randomised controlled trials in the medical literature. We only identified one small trial that was conducted in a public hospital in Brazil and provided very low-quality data from 73 women. The trial showed no clear difference between the groups, with or without antibiotics, of the number of women who experienced infection or breakdown of the episiotomy wound. No women developed infection of the lining of the uterus in either group. The trial did not report on any other outcomes of interest for this review."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "The current evidence on the impact of prophylactic antibiotics for prevention of infection after episiotomy is from one small trial with design limitations. The relatively low incidence of episiotomy infection, when infection control measures are well observed, raises questions about the potential added benefit of antibiotic prophylaxis, particularly when balanced against the risk of antibiotic-related side effects for the mother, and her baby, and in terms of emerging antibiotic resistance. There is a need for a careful and rigorous assessment of the comparative benefits and harms of prophylactic antibiotics on infection morbidity after episiotomy, in well-designed randomised controlled trials, using common antibiotics and regimens in current obstetric practice."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD014959.pub2",
+  "name": "Antibiotic prophylaxis for leptospirosis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Leptospirosis is a global zoonotic and waterborne disease caused by pathogenic Leptospira species. Antibiotics are used as a strategy for prevention of leptospirosis, in particular in travellers and high-risk groups. However, the clinical benefits are unknown, especially when considering possible treatment-associated adverse effects. This review assesses the use of antibiotic prophylaxis in leptospirosis and is an update of a previously published review in the Cochrane Library (2009, Issue 3)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of antibiotic prophylaxis for human leptospirosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified randomised clinical trials through electronic searches of the Cochrane Hepato-Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, LILACS, Science Citation Index Expanded, and other resources. We searched online clinical trial registries to identify unpublished or ongoing trials. We checked reference lists of the retrieved studies for further trials. The last date of search was 17 April 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included ⁠⁠randomised clinical trials of any trial design, assessing antibiotics for prevention of leptospirosis, and with no restrictions on age, sex, occupation, or comorbidity of trial participants. We looked for trials assessing antibiotics irrespective of route of administration, dosage, and schedule versus placebo or no intervention. We also included trials assessing antibiotics versus other antibiotics using these criteria, or the same antibiotic but with another dose or schedule."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed Cochrane methodology. The primary outcomes were all-cause mortality, laboratory-confirmed leptospirosis regardless of the presence of an identified clinical syndrome (inclusive of asymptomatic cases), clinical diagnosis of leptospirosis regardless of the presence of laboratory confirmation, clinical diagnosis of leptospirosis confirmed by laboratory diagnosis (exclusive of asymptomatic cases), and serious adverse events. The secondary outcomes were quality of life and the proportion of people with non-serious adverse events. We assessed the risk of bias of the included trials using the RoB 2 tool and the certainty of evidence using GRADE. We presented dichotomous outcomes as risk ratios (RR) and continuous outcomes as mean difference (MD), with their 95% confidence intervals (CI). We used a random-effects model for our main analyses and the fixed-effect model for sensitivity analyses. Our primary outcome analyses included trial data at the longest follow-up."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified five randomised clinical trials comprising 2593 participants that compared antibiotics (doxycycline, azithromycin, or penicillin) with placebo, or one antibiotic compared with another. Four trials assessed doxycycline with different durations, one trial assessed azithromycin, and one trial assessed penicillin. One trial had three intervention groups: doxycycline, azithromycin, and placebo. Three trials assessed pre-exposure prophylaxis, one trial assessed postexposure prophylaxis, and one did not report this clearly. Four trials recruited residents in endemic areas, and one trial recruited soldiers who experienced limited time exposure. The participants' ages in the included trials were 10 to 80 years. Follow-up ranged from one to three months.\nAntibiotics versus placebo\nDoxycycline compared with placebo may result in little to no difference in all-cause mortality (RR 0.15, 95% CI 0.01 to 2.83; 1 trial, 782 participants; low-certainty evidence). Prophylactic antibiotics may have little to no effect on laboratory-confirmed leptospirosis, but the evidence is very uncertain (RR 0.56, 95% CI 0.25 to 1.26; 5 trials, 2593 participants; very low-certainty evidence). Antibiotics may result in little to no difference in the clinical diagnosis of leptospirosis regardless of laboratory confirmation (RR 0.76, 95% CI 0.53 to 1.08; 4 trials, 1653 participants; low-certainty evidence) and the clinical diagnosis of leptospirosis with laboratory confirmation (RR 0.57, 95% CI 0.26 to 1.26; 4 trials, 1653 participants; low-certainty evidence). Antibiotics compared with placebo may increase non-serious adverse events, but the evidence is very uncertain (RR 10.13, 95% CI 2.40 to 42.71; 3 trials, 1909 participants; very low-certainty evidence).\nOne antibiotic versus another antibiotic\nOne trial assessed doxycycline versus azithromycin but did not report mortality. Compared to azithromycin, doxycycline may have little to no effect on laboratory-confirmed leptospirosis regardless of the presence of an identified clinical syndrome (RR 1.49, 95% CI 0.51 to 4.32; 1 trial, 137 participants), on the clinical diagnosis of leptospirosis regardless of the presence of laboratory confirmation (RR 4.18, 95% CI 0.94 to 18.66; 1 trial, 137 participants), on the clinical diagnosis of leptospirosis confirmed by laboratory diagnosis (RR 4.18, 95% CI 0.94 to 18.66; 1 trial, 137 participants), and on non-serious adverse events (RR 1.12, 95% CI 0.36 to 3.48; 1 trial, 137 participants), but the evidence is very uncertain. The certainty of evidence for all the outcomes was very low.\nNone of the five included trials reported serious adverse events or assessed quality of life.\nOne study is awaiting classification.\nFunding\nFour of the five trials included statements disclosing their funding/supporting sources, and the remaining trial did not include this. Three of the four trials that disclosed their supporting sources received the supply of trial drugs directly from the same pharmaceutical company, and the remaining trial received financial support from a governmental source."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We do not know if antibiotics versus placebo or another antibiotic has little or have no effect on all-cause mortality or leptospirosis infection because the certainty of evidence is low or very low. We do not know if antibiotics versus placebo may increase the overall risk of non-serious adverse events because of very low-certainty evidence.\nWe lack definitive rigorous data from randomised trials to support the use of antibiotics for the prophylaxis of leptospirosis infection. We lack trials reporting data on clinically relevant outcomes."
+    }
+  ],
+  "pls_title": "Does the use of antibiotics prevent leptospirosis?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key message",
+      "text": "– Antibiotics probably do not reduce the chance of developing leptospirosis infection and may cause non-serious adverse events. The evidence is very limited, so our findings may change if there are more quality trials published."
+    },
+    {
+      "heading": "What is leptospirosis?",
+      "text": "Leptospirosis is a zoonotic (that is,infection that can be transmitted naturally from animals with a backbone to humans or from humans to animals with a backbone)and waterborne disease that occurs worldwide. Humans are infected when they come into contact with water, soil, or food contaminated with the urine of infected animals. Most infected people experience mild, self-limiting flu-like symptoms, and do not seek medical attention. Some people infected with leptospirosis develop severe disease, which can cause multiple organs to stop functioning properly and death."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if antibiotics can be an effective prophylaxis for leptospirosis (that is, prevent leptospirosis) and if they have unwanted side effects?"
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched medical databases for studies that assessed the use of antibiotics for the prophylaxis of leptospirosis. The studies could have compared antibiotics versus placebo (a pretend treatment) or no treatment, and antibiotics versus another antibiotic, or another dose or schedule of the same antibiotic."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found five studies with 2593 participants, which took place in Brazil, Sri Lanka, India, Panama, and Iran. Participants mostly resided in these areas."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three studies compared doxycycline versus either placebo or no treatment. One trial compared doxycycline versus azithromycin versus placebo. Only one trial compared penicillin versus placebo.\nAntibiotics may not reduce the chance of developing leptospirosis infection and may lead to some non-serious side effects (for example, diarrhoea (loose stools), nausea (feeling sick), and vomiting (being sick)), particularly if doxycycline is used.\nNone of the studies reported serious side effects or assessed quality of life."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have low or very low confidence in the results. This was based on a few studies that had a wide range of results, problems in how the studies selected participants, a low number of participants, a high amount of missing information, and considerable differences between groups of participants."
+    },
+    {
+      "heading": "Funding",
+      "text": "Four studies included statements disclosing their funding/supporting sources, and one study did not include this. Three of the four studies that disclosed their supporting sources received the supply of study medicine directly from the same pharmaceutical company, and the remaining trial received financial support from a governmental source."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates the previous Cochrane review. The evidence is up to date to 17 April 2023."
+    }
+  ]
+}

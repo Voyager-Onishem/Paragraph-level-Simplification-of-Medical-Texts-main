@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007289.pub3",
+  "name": "Prophylactic chemotherapy for hydatidiform mole to prevent gestational trophoblastic neoplasia ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of the original Cochrane Review published in Cochrane Library, Issue 10, 2012.\nHydatidiform mole (HM), also called a molar pregnancy, is characterised by an overgrowth of foetal chorionic tissue within the uterus. HMs may be partial (PM) or complete (CM) depending on their gross appearance, histopathology and karyotype. PMs usually have a triploid karyotype, derived from maternal and paternal origins, whereas CMs are diploid and have paternal origins only. Most women with HM can be cured by evacuation of retained products of conception (ERPC) and their fertility preserved. However, in some women the growth persists and develops into gestational trophoblastic neoplasia (GTN), a malignant form of the disease that requires treatment with chemotherapy. CMs have a higher rate of malignant transformation than PMs. It may be possible to reduce the risk of GTN in women with HM by administering prophylactic chemotherapy (P-Chem). However, P-Chem given before or after evacuation of HM to prevent malignant sequelae remains controversial, as the risks and benefits of this practice are unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of P-Chem to prevent GTN in women with a molar pregnancy. To investigate whether any subgroup of women with HM may benefit more from P-Chem than others."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the original review we performed electronic searches in the Cochrane Gynaecological Cancer Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 2, 2012), MEDLINE (1946 to February week 4, 2012) and Embase (1980 to 2012, week 9). We developed the search strategy using free text and MeSH. For this update we searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 5, 2017), MEDLINE (February 2012 to June week 1, 2017) and Embase (February 2012 to 2017, week 23). We also handsearched reference lists of relevant literature to identify additional studies and searched trial registries."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of P-Chem for HM."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for inclusion in the review and extracted data using a specifically designed data collection form. Meta-analyses were performed by pooling data from individual trials using Review Manager 5 (RevMan 5) software in line with standard methodological procedures expected by Cochrane methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "The searches identified 161 records; after de-duplication and title and abstract screening 90 full-text articles were retrieved. From these we included three RCTs with a combined total of 613 participants. One study compared prophylactic dactinomycin to no prophylaxis (60 participants); the other two studies compared prophylactic methotrexate to no prophylaxis (420 and 133 participants). All participants were diagnosed with CMs. We considered the latter two studies to be of poor methodological quality.\nP-Chem reduced the risk of GTN occurring in women following a CM (3 studies, 550 participants; risk ratio (RR) 0.37, 95% confidence interval (CI) 0.24 to 0.57; I² = 0%; P < 0.00001; low-quality evidence). However, owing to the poor quality (high risk of bias) of two of the included studies, we performed sensitivity analyses excluding these two studies. This left only one small study of high-risk women to contribute data for this primary outcome (59 participants; RR 0.28, 95% CI 0.10 to 0.73; P = 0.01); therefore we consider this evidence to be of low quality.\nThe time to diagnosis was longer in the P-Chem group than the control group (2 studies, 33 participants; mean difference (MD) 28.72, 95% CI 13.19 to 44.24; P = 0.0003; low-quality evidence); and the P-Chem group required more courses to cure subsequent GTN (1 poor-quality study, 14 participants; MD 1.10, 95% CI 0.52 to 1.68; P = 0.0002; very low quality evidence).\nThere were insufficient data to perform meta-analyses for toxicity, overall survival, drug resistance and reproductive outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "P-Chem may reduce the risk of progression to GTN in women with CMs who are at a high risk of malignant transformation; however, current evidence in favour of P-Chem is limited by the poor methodological quality and small size of the included studies. As P-Chem may increase drug resistance, delays treatment of GTN and may expose women toxic side effects, this practice cannot currently be recommended."
+    }
+  ],
+  "pls_title": "Prophylactic (preventive) chemotherapy for hydatidiform mole (molar pregnancy) to prevent cancerous growth later",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "A molar pregnancy (hydatidiform mole) develops following an abnormal process of conception, whereby placental tissue overgrows inside the womb (uterus). Molar pregnancies are classified as complete (CM) or partial (PM) based on their appearance (gross and microscopic), and their chromosome pattern. When present, moles are usually suspected at the early pregnancy scan and women often present with bleeding, similar to a miscarriage. The molar tissue is removed by evacuation of retained products of conception (ERPC), also known as dilatation and curettage (D&C) and women generally make a full recovery. However, some women go on to develop a cancer in the womb (about 1 in every 5 women with a CM and 1 in 200 with a PM). Women are generally at a higher risk of getting this cancer, which is known as gestational trophoblastic neoplasia (GTN), if they are over 40 years old, have a large increase in the size of the womb, have large cysts in the ovaries or have high initial levels of β-human chorionic gonadotrophin (hCG) (the pregnancy hormone) in their blood. Although treatment of the cancer with chemotherapy (anti-cancer drugs) is almost always effective, it has been suggested that routinely giving women anti-cancer drugs (P-Chem) before or after the removal the molar tissue may reduce the risk of the cancerous tissue developing."
+    },
+    {
+      "heading": "The aim of the review",
+      "text": "By doing this review, we tried to assess the benefits and risks of giving anti-cancer drugs (P-Chem) to women with molar pregnancies, before or after ERPC."
+    },
+    {
+      "heading": "What are the main findings?",
+      "text": "We found three randomised studies (randomised controlled trials (RCTs) where people are allocated at random i.e. by chance alone) involving a total of 613 women. Two studies tested methotrexate in all women with a CM and one study tested dactinomycin in women with a CM who were at a high risk of getting GTN. The two methotrexate studies are older studies that used relatively poor research methods, therefore their findings cannot be relied upon. Overall the review findings suggest that P-Chem reduces the number of women developing cancer after molar pregnancy; however, this is probably only true for women with high-risk moles (i.e. CM). In addition, P-Chem might make the time to diagnose the cancer longer and might increase the number of anti-cancer treatments needed to cure the cancer if it develops. We were unable to assess the short- and long-term side-effects of P-Chem in this review because there were not enough available data; however, we are concerned that the five- and eight-day courses of P-Chem used by researchers in these studies are too toxic to be given to women routinely."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We consider this evidence to be of a low to very low quality. This conclusion is based on our assessment that two of the included studies were of poor methodological quality and at a high risk of bias; the third study was of a good quality but consisted of only 60 participants."
+    },
+    {
+      "heading": "What are the conclusions?",
+      "text": "Currently there is insufficient evidence to support giving anti-cancer drugs to women with molar pregnancies. However, GTN is almost always cured with modern care and P-Chem for molar pregnancy would only reduce the risk of needing full-scale chemotherapy, but would not remove that risk. In addition, it would not change the need for careful monitoring and follow-up of women with hydatidiform moles."
+    }
+  ]
+}

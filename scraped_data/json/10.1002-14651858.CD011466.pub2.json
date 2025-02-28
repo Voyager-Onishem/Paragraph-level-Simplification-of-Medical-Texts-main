@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011466.pub2",
+  "name": "Fluid restriction in the management of transient tachypnea of the newborn",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Transient tachypnea of the newborn (TTN) is caused by delayed clearance of lung fluid at birth. TTN typically appears within the first two hours of life in term and late preterm neonates and is characterized by tachypnea and signs of respiratory distress. Although it is usually a self-limited condition, admission to a neonatal unit is frequently required for monitoring and providing respiratory support. Restricting intake of fluids administered to these infants in the first days of life might improve clearance of lung liquid, thus reducing the effort required to breathe, improving respiratory distress, and potentially reducing the duration of tachypnea."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of restricted fluid therapy as compared to standard fluid therapy in decreasing the duration of oxygen administration and the need for noninvasive or invasive ventilation among neonates with TTN."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 12), in the Cochrane Library; Ovid MEDLINE and electronic ahead of print publications, in-process & other non-indexed citations, Daily and Versions(R); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), on December 6, 2019. We also searched clinical trial databases and the reference lists of retrieved articles for randomized controlled trials and quasi-randomized trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), quasi-RCTs, and cluster trials on fluid restriction in term and preterm neonates with the diagnosis of TTN or delayed adaptation during the first week after birth."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For each of the included trials, two review authors independently extracted data (e.g. number of participants, birth weight, gestational age, duration of oxygen therapy, need for continuous positive airway pressure [CPAP], need for mechanical ventilation, duration of mechanical ventilation) and assessed the risk of bias (e.g. adequacy of randomization, blinding, completeness of follow-up). The primary outcome considered in this review was the duration of supplemental oxygen therapy in hours or days. We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials enrolling 317 infants met the inclusion criteria. Three trials enrolled late preterm and term infants with TTN, and the fourth trial enrolled only term infants with TTN. Infants were on various methods of respiratory support at the time of enrollment including room air, oxygen, or nasal CPAP. Infants in the fluid-restricted group received 15 to 20 mL/kg/d less fluid than those in the control group for varying durations after enrollment. Two studies had high risk of selection bias, and three out of four had high risk of performance bias. Only one study had low risk of detection bias, with two at high risk and one at unclear risk.\nThe certainty of evidence for all outcomes was very low due to imprecision of estimates and unclear risk of bias. Two trials reported the primary duration of supplemental oxygen therapy. We are uncertain whether fluid restriction decreases or increases the duration of supplemental oxygen therapy (mean difference [MD] -12.95 hours, 95% confidence interval [CI] -32.82 to 6.92; I² = 98%; 172 infants). Similarly, there is uncertainty for various secondary outcomes including incidence of hypernatremia (serum sodium > 145 mEq/L, risk ratio [RR] 4.0, 95% CI 0.46 to 34.54; test of heterogeneity not applicable; 1 trial, 100 infants), hypoglycemia (blood glucose < 40 mg/dL, RR 1.0, 95% CI 0.15 to 6.82; test of heterogeneity not applicable; 2 trials, 164 infants), endotracheal ventilation (RR 0.73, 95% CI 0.24 to 2.23; I² = 0%; 3 trials, 242 infants), need for noninvasive ventilation (RR 0.40, 95% CI 0.14 to 1.17; test of heterogeneity not applicable; 2 trials, 150 infants), length of hospital stay (MD -0.92 days, 95% CI -1.53 to -0.31; test of heterogeneity not applicable; 1 trial, 80 infants), and cumulative weight loss at 72 hours of age (%) (MD 0.24, 95% CI -1.60 to 2.08; I² = 89%; 2 trials, 156 infants). We did not identify any ongoing trials; however, one trial is awaiting classification."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found limited evidence to establish the benefits and harms of fluid restriction in the management of TTN. Given the very low certainty of available evidence, it is impossible to determine whether fluid restriction is safe or effective for management of TTN. However, given the simplicity of the intervention, a well-designed trial is justified."
+    }
+  ],
+  "pls_title": "Giving less oral or intravenous fluid to newborn infants with breathing difficulty (transient tachypnea of the newborn)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does fluid restriction (i.e. giving a lesser quantity of fluids by mouth to the stomach or through the veins) in babies with rapid breathing at birth due to delayed clearance of normal fetal lung fluid (a condition called \"transient tachypnea of the newborn\") reduce the duration of treatment with oxygen?"
+    },
+    {
+      "heading": "Background",
+      "text": "Transient tachypnea (abnormally rapid breathing) of the newborn (TTN) is characterized by a high respiratory rate (more than 60 breaths per minute) and signs of respiratory distress (difficulty breathing). It typically appears within the first two hours of life in babies born at, or after, 34 weeks' gestational age. Although transient tachypnea of the newborn usually improves without treatment, it might be associated with wheezing in late childhood. The idea behind using fluid restriction for transient tachypnea of the newborn consists of reducing fluid in small cavities within the lungs called the alveoli and improving breathing difficulties. In the first days after birth, these babies may receive fluids directly into the mouth (colostrum or milk), to the stomach (milk or solutions containing dextrose solution), or through the veins (solutions containing dextrose solution). This review reports and critically analyzes available evidence on the benefits and harms of fluid restriction in the management of transient tachypnea of the newborn."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified and included four studies (317 babies in total) comparing the use of restricted versus standard fluid administration. We found no ongoing studies; however, one trial is awaiting classification. Evidence is current to December 6, 2019."
+    },
+    {
+      "heading": "Key results",
+      "text": "The very limited available evidence cannot answer our review question. Only two small studies (172 babies) reported the duration of treatment with oxygen - the primary outcome of this review - and we are uncertain whether fluid restriction decreases or increases treatment duration. Three studies reported the incidence of the need for a breathing machine, and we are uncertain about any differences between restricted and standard fluid administration. The length of hospital stay was shorter by 22 hours for infants with fluid restriction; however, this was reported in only one trial (80 babies) of low methodological quality, and we are uncertain about this finding."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "The certainty of evidence was very low for all analyses because only a small number of studies have looked at this intervention, few babies were included in these studies, and all studies could have been better designed. Thus, we are uncertain whether fluid restriction improves the outcomes of babies with TTN."
+    }
+  ]
+}

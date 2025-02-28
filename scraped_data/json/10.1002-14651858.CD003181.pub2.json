@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003181.pub2",
+  "name": "Bile acids for viral hepatitis",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Trials have assessed bile acids for patients with viral hepatitis, but no consensus has been reached regarding their usefulness."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the beneficial and harmful effects of bile acids for viral hepatitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches were performed in The Cochrane Hepato-Biliary Group Controlled Trials Register (July 2007), The Cochrane Library (Issue 1, 2007), MEDLINE (July 2007), EMBASE (July 2007), Science Citation Index Expanded (July 2007), and Chinese Biomedical Database (July 2007)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials comparing any dose or duration of bile acids versus placebo or no intervention for viral hepatitis were included, irrespective of language, publication status, or blinding. Co-interventions were allowed in the included randomised clinical trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors extracted the data independently. The methodological quality of the trials was evaluated with respect to generation of the allocation sequence, allocation concealment, double blinding, and follow-up. The outcomes were presented as relative risks (RR) or weighted mean differences (WMD) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 29 randomised trials of bile acids for hepatitis B or C; none were of high methodological quality. We were unable to extract data from two trials. In one trial, ursodeoxycholic acid (UDCA) versus placebo for acute hepatitis B significantly reduced the risk of hepatitis B surface antigen positivity at the end of treatment and serum HBV DNA level at the end of follow-up. In another trial, UDCA versus no intervention for chronic hepatitis B significantly reduced the risk of having abnormal serum transaminase activities at the end of treatment. Twenty-five trials compared bile acids (21 trials UDCA; four trials tauro-UDCA) versus placebo or no intervention with or without co-interventions for chronic hepatitis C. Bile acids did not significantly reduce the risk of having detectable serum HCV RNA (RR 0.99, 95% CI 0.91 to 1.07), cirrhosis, or portal and periportal inflammation score at the end of treatment. Bile acids significantly decreased the risk of having abnormal serum alanine aminotransferase activity at the end of treatment (RR 0.82, 95% CI 0.76 to 0.90) and follow-up (RR 0.91, 95% CI 0.85 to 0.98). Bile acids significantly increased the Knodell score (WMD 0.20, 95% CI 0.08 to 0.31) at the end of treatment. No severe adverse events were reported. We did not identify trials including patients with hepatitis A, acute hepatitis C, hepatitis D, or hepatitis E."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Bile acids lead to a significant improvement in serum transaminase activities in hepatitis B and C but have no effects on the clearance of virus. There is insufficient evidence either to support or to refute effects on long-term outcomes including hepatocellular carcinoma, hepatic decompensation, and liver related mortality. Randomised trials with high methodological quality are required before clinical use is considered."
+    }
+  ],
+  "pls_title": "Bile acids may improve liver biochemistry of patients with hepatitis B or C, but there is insufficient evidence about long-term beneficial effects",
+  "pls_type": "long",
+  "pls": "Viral hepatitis causes significant morbidity and mortality. Based on this Cochrane systematic review, bile acids may decrease serum transaminase activities in patients with acute hepatitis B, chronic hepatitis B, or chronic hepatitis C. However, bile acids have no effects in eradicating viral markers. There is insufficient evidence either to support or to refute effects on the long-term outcomes that include hepatocellular carcinoma, decompensated cirrhosis, and/or liver related mortality.\nNo clinical trials have evaluated bile acids for patients with hepatitis A, acute hepatitis C, hepatitis D, or hepatitis E. Accordingly, bile acids should first be evaluated in adequately sized and adequately conducted randomised trials before clinical use is considered."
+}

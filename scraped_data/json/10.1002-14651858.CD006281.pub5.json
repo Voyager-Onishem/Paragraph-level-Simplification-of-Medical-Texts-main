@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006281.pub5",
+  "name": "Drug treatment for spinal muscular atrophy type I",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Spinal muscular atrophy (SMA) is caused by a homozygous deletion of the survival motor neuron 1 (SMN1 ) gene on chromosome 5, or a heterozygous deletion in combination with a point mutation in the second SMN1 allele. This results in degeneration of anterior horn cells, which leads to progressive muscle weakness. By definition, children with SMA type I are never able to sit without support and usually die or become ventilator dependent before the age of two years. There have until very recently been no drug treatments to influence the course of SMA. We undertook this updated review to evaluate new evidence on emerging treatments for SMA type I. The review was first published in 2009 and previously updated in 2011."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of any drug therapy designed to slow or arrest progression of spinal muscular atrophy (SMA) type I."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and ISI Web of Science conference proceedings in October 2018. We also searched two trials registries to identify unpublished trials (October 2018)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We sought all randomised controlled trials (RCTs) or quasi-RCTs that examined the efficacy of drug treatment for SMA type I. Included participants had to fulfil clinical criteria and have a genetically confirmed deletion or mutation of the SMN1 gene (5q11.2-13.2).\nThe primary outcome measure was age at death or full-time ventilation. Secondary outcome measures were acquisition of motor milestones, i.e. head control, rolling, sitting or standing, motor milestone response on disability scores within one year after the onset of treatment, and adverse events and serious adverse events attributable to treatment during the trial period.\nTreatment strategies involving SMN1 gene replacement with viral vectors are out of the scope of this review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified two RCTs: one trial of intrathecal nusinersen in comparison to a sham (control) procedure in 121 randomised infants with SMA type I, which was newly included at this update, and one small trial comparing riluzole treatment to placebo in 10 children with SMA type I.\nThe RCT of intrathecally-injected nusinersen was stopped early for efficacy (based on a predefined Hammersmith Infant Neurological Examination-Section 2 (HINE-2) response). At the interim analyses after 183 days of treatment, 41% (21/51) of nusinersen-treated infants showed a predefined improvement on HINE-2, compared to 0% (0/27) of participants in the control group. This trial was largely at low risk of bias.\nFinal analyses (ranging from 6 months to 13 months of treatment), showed that fewer participants died or required full-time ventilation (defined as more than 16 hours daily for 21 days or more) in the nusinersen-treated group than the control group (hazard ratio (HR) 0.53, 95% confidence interval (CI) 0.32 to 0.89; N = 121; a 47% lower risk; moderate-certainty evidence). A proportion of infants in the nusinersen group and none of 37 infants in the control group achieved motor milestones: 37/73 nusinersen-treated infants (51%) achieved a motor milestone response on HINE-2 (risk ratio (RR) 38.51, 95% CI 2.43 to 610.14; N = 110; moderate-certainty evidence); 16/73 achieved head control (RR 16.95, 95% CI 1.04 to 274.84; moderate-certainty evidence); 6/73 achieved independent sitting (RR 6.68, 95% CI 0.39 to 115.38; moderate-certainty evidence); 7/73 achieved rolling over (RR 7.70, 95% CI 0.45 to 131.29); and 1/73 achieved standing (RR 1.54, 95% CI 0.06 to 36.92; moderate-certainty evidence). Seventy-one per cent of nusinersen-treated infants versus 3% of infants in the control group were responders on the Children's Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP INTEND) measure of motor disability (RR 26.36, 95% CI 3.79 to 183.18; N = 110; moderate-certainty evidence).\nAdverse events and serious adverse events occurred in the majority of infants but were no more frequent in the nusinersen-treated group than the control group (RR 0.99, 95% CI 0.92 to 1.05 and RR 0.70, 95% CI 0.55 to 0.89, respectively; N = 121; moderate-certainty evidence).\nIn the riluzole trial, three of seven children treated with riluzole were still alive at the ages of 30, 48, and 64 months, whereas all three children in the placebo group died. None of the children in the riluzole or placebo group developed the ability to sit, which was the only milestone reported. There were no adverse effects. The certainty of the evidence for all measured outcomes from this study was very low, because the study was too small to detect or rule out an effect, and had serious limitations, including baseline differences. This trial was stopped prematurely because the pharmaceutical company withdrew funding.\nVarious trials and studies investigating treatment strategies other than nusinersen, such as SMN2 augmentation by small molecules, are ongoing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the very limited evidence currently available regarding drug treatments for SMA type 1, intrathecal nusinersen probably prolongs ventilation-free and overall survival in infants with SMA type I. It is also probable that a greater proportion of infants treated with nusinersen than with a sham procedure achieve motor milestones and can be classed as responders to treatment on clinical assessments (HINE-2 and CHOP INTEND). The proportion of children experiencing adverse events and serious adverse events on nusinersen is no higher with nusinersen treatment than with a sham procedure, based on evidence of moderate certainty. It is uncertain whether riluzole has any effect in patients with SMA type I, based on the limited available evidence. Future trials could provide more high-certainty, longer-term evidence to confirm this result, or focus on comparing new treatments to nusinersen or evaluate them as an add-on therapy to nusinersen."
+    }
+  ],
+  "pls_title": "Drug treatment for spinal muscular atrophy type I",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to look at the effects of drug treatments on spinal muscular atrophy (SMA) type I, in terms of age at death or full-time ventilation and the ability to reach motor milestones, e.g. rolling, sitting or standing, within one year after beginning treatment, and any adverse events."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Nusinersen probably increases ventilation-free and overall survival in children with SMA type I. Nusinersen may improve the proportion of infants achieving motor milestones. Adverse events and serious adverse events are probably not more common with nusinersen injection than with a sham procedure.\nIt is uncertain whether riluzole has any effect in SMA type I, based on the limited available evidence."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "SMA is a disorder with onset in childhood and adolescence and leads to increasing muscle weakness. SMA type I, also known as Werdnig-Hoffman disease, is the most severe form of SMA and begins before the age of six months. Untreated children with SMA type I will never be able to sit without support and in general die or develop respiratory insufficiency and need non-invasive ventilation before they reach the age of two years.\nAt the time of the previous versions of the review there was no known treatment to slow down or cure SMA type I. We updated the review to include emerging evidence.\nCochrane review authors collected relevant studies and found two trials. Both studies were funded by pharmaceutical companies. One trial, in 121 infants with SMA type I, studied nusinersen, which is an antisense oligonucleotide drug, given by injection into the spinal canal. The researchers compared the effects of nusinersen with a sham procedure in the control group. This trial stopped early because results showed that nusinersen improved the proportion of infants achieving motor milestones. The other trial compared riluzole to placebo and involved 10 infants with SMA type I. This trial was stopped prematurely because the pharmaceutical company withdrew funding."
+    },
+    {
+      "heading": "What are the main results of the review",
+      "text": "Results were not all reported at the same follow-up point, as the trial was stopped before some participants completed the planned follow-up. Nusinersen probably reduced the risk of death or progression to full-time ventilation (assisted breathing) by 47% compared to the control group. The evidence is also moderately certain that the percentage of children with a response on objective clinical assessments of motor function was higher in the nusinersen-treated group than the sham procedure group (51% versus 0% on the Hammersmith Infant Neurological Examination-Section 2 (HINE-2) and 71% versus 3% on the Children's Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP INTEND)). Infants treated with nusinersen are probably also more likely to reach developmental milestones: 16 of the 73 treated infants achieved head control, six achieved independent sitting, seven achieved the ability to roll over, and one achieved the ability to stand; none of the 37 infants in the control group achieved any of these milestones.\nThere was probably little difference between the nusinersen-treated and control group in the number of infants with adverse events; the majority experienced adverse events. Serious adverse events were probably no more common with nusinersen than with the sham procedure.\nOne study compared riluzole treatment to placebo (an identical, but inactive treatment) in 10 children with SMA type I. The certainty of the evidence was very low, mainly because the study was too small to detect or rule out an effect. In this trial, all three children in the placebo group and four of the seven children in the riluzole group died within 12 months of the study. Three of the seven children treated with riluzole were still alive at the ages of 30, 48, and 64 months. None of the children in the riluzole or placebo group developed the ability to sit. The evidence can neither confirm nor rule out an effect of riluzole in children with SMA type I because of its small size and severe limitations."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to October 2018."
+    }
+  ]
+}

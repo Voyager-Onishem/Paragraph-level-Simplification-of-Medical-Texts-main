@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004386.pub3",
+  "name": "Antibiotic prophylaxis for bacterial infections in afebrile neutropenic patients following chemotherapy ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bacterial infections are a major cause of morbidity and mortality in patients who are neutropenic following chemotherapy for malignancy. Trials have shown the efficacy of antibiotic prophylaxis in reducing the incidence of bacterial infections but not in reducing mortality rates. Our systematic review from 2006 also showed a reduction in mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This updated review aimed to evaluate whether there is still a benefit of reduction in mortality when compared to placebo or no intervention."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Cancer Network Register of Trials (2011), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2011), MEDLINE (1966 to March 2011), EMBASE (1980 to March 2011), abstracts of conference proceedings and the references of identified studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-RCTs comparing different types of antibiotic prophylaxis with placebo or no intervention, or another antibiotic, to prevent bacterial infections in afebrile neutropenic patients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently appraised the quality of each trial and extracted data from the included trials. Analyses were performed using RevMan 5.1 software."
+    },
+    {
+      "heading": "Main results",
+      "text": "One-hundred and nine trials (involving 13,579 patients) that were conducted between the years 1973 to 2010 met the inclusion criteria. When compared with placebo or no intervention, antibiotic prophylaxis significantly reduced the risk of death from all causes (46 trials, 5635 participants; risk ratio (RR) 0.66, 95% CI 0.55 to 0.79) and the risk of infection-related death (43 trials, 5777 participants; RR 0.61, 95% CI 0.48 to 0.77). The estimated number needed to treat (NNT) to prevent one death was 34 (all-cause mortality) and 48 (infection-related mortality).\nProphylaxis also significantly reduced the occurrence of fever (54 trials, 6658 participants; RR 0.80, 95% CI 0.74 to 0.87), clinically documented infection (48 trials, 5758 participants; RR 0.65, 95% CI 0.56 to 0.76), microbiologically documented infection (53 trials, 6383 participants; RR 0.51, 95% CI 0.42 to 0.62) and other indicators of infection.\nThere were no significant differences between quinolone prophylaxis and TMP-SMZ prophylaxis with regard to death from all causes or infection, however, quinolone prophylaxis was associated with fewer side effects leading to discontinuation (seven trials, 850 participants; RR 0.37, 95% CI 0.16 to 0.87) and less resistance to the drugs thereafter (six trials, 366 participants; RR 0.45, 95% CI 0.27 to 0.74)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotic prophylaxis in afebrile neutropenic patients significantly reduced all-cause mortality. In our review, the most significant reduction in mortality was observed in trials assessing prophylaxis with quinolones. The benefits of antibiotic prophylaxis outweighed the harm such as adverse effects and the development of resistance since all-cause mortality was reduced. As most trials in our review were of patients with haematologic cancer, we strongly recommend antibiotic prophylaxis for these patients, preferably with a quinolone. Prophylaxis may also be considered for patients with solid tumours or lymphoma."
+    }
+  ],
+  "pls_title": "Antibiotics to prevent bacterial infections due to chemotherapy in cancer patients with a low white blood cell count and no fever",
+  "pls_type": "long",
+  "pls": "For patients receiving chemotherapy, there is an increased risk of infection due to a low white blood cell count (neutropenia) caused by a toxic effect of chemotherapy on the bone marrow. The objective of this review was to establish whether preventive antibiotic therapy (prophylaxis) before the development of fever prevents illness and death in people with a low white blood cell count after chemotherapy and to assess whether certain types of antibiotics are better than others. We included 109 randomised controlled trials conducted between the years 1973 to 2010.\nAntibiotic prophylaxis significantly decreased the risk of death when compared to no intervention. We estimated that the number of patients needed to be treated with antibiotics in order to prevent one death from all causes was 34. Antibiotic prophylaxis also decreased the risk of death from infection and the risk of development of fever.  Although antibiotic prophylaxis may be associated with unfavourable effects and may encourage new and more resistant infection, this was not shown in existing trials. Recent studies used antibiotics of the quinolone class, which showed fewer adverse events and better outcomes than other classes of antibiotics.\nMost studies were limited to haematological cancer patients (mostly leukaemia).\nIn conclusion, patients with a low white blood count following chemotherapy who received preventive antibiotic treatment in the absence of fever had a reduced risk of dying. This was shown mainly for haematological cancer patients. Antibiotic prophylaxis, preferably from the quinolone class of antibiotics, should be recommended for routine use in these patients."
+}

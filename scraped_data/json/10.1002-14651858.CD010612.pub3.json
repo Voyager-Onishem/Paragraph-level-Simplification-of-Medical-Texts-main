@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD010612.pub3",
+  "name": "Timing of kidney replacement therapy initiation for acute kidney injury",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute kidney injury (AKI) is a common condition among patients in intensive care units (ICUs) and is associated with high numbers of deaths. Kidney replacement therapy (KRT) is a blood purification technique used to treat the most severe forms of AKI. The optimal time to initiate KRT so as to improve clinical outcomes remains uncertain. This is an update of a review first published in 2018.\nThis review complements another Cochrane review by the same authors: Intensity of continuous renal replacement therapy for acute kidney injury."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of different timing (early and standard) of KRT initiation on death and recovery of kidney function in critically ill patients with AKI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant’s Specialised Register to 4 August 2022 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register, ClinicalTrials and LILACS to 1 August 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs). We included all patients with AKI in the ICU regardless of age, comparing early versus standard KRT initiation. For safety and cost outcomes, we planned to include cohort studies and non-RCTs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were extracted independently by two authors. The random-effects model was used, and results were reported as risk ratios(RR) for dichotomous outcomes and mean difference(MD) for continuous outcomes, with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 12 studies enrolling 4880 participants. Overall, most domains were assessed as being at low or unclear risk of bias.\nCompared to standard treatment, early KRT initiation may have little to no difference on the risk of death at day 30 (12 studies, 4826 participants: RR 0.97,95% CI 0.87 to 1.09; I²= 29%; low certainty evidence), and death after 30 days (7 studies, 4534 participants: RR 0.99, 95% CI 0.92 to 1.07; I² = 6%; moderate certainty evidence).\nEarly KRT initiation may make little or no difference to the risk of death or non-recovery of kidney function at 90 days (6 studies, 4011 participants: RR 0.91, 95% CI 0.74 to 1.11; I² = 66%; low certainty evidence); CIs included both benefits and harms.\nLow certainty evidence showed early KRT initiation may make little or no difference to the number of patients who were free from KRT (10 studies, 4717 participants: RR 1.07, 95% CI 0.94 to1.22; I² = 55%) and recovery of kidney function among survivors who were free from KRT after day 30 (10 studies, 2510 participants: RR 1.02, 95% CI 0.97 to 1.07; I² = 69%) compared to standard treatment.\nHigh certainty evidence showed early KRT initiation increased the risk of hypophosphataemia (1 study, 2927 participants: RR 1.80, 95% CI 1.33 to 2.44), hypotension (5 studies, 3864 participants: RR 1.54, 95% CI 1.29 to 1.85; I² = 0%), cardiac-rhythm disorder (6 studies, 4483 participants: RR 1.35, 95% CI 1.04 to 1.75; I² = 16%), and infection (5 studies, 4252 participants: RR 1.33, 95% CI 1.00 to 1.77; I² = 0%); however, it is uncertain whether early KRT initiation increases or reduces the number of patients who experienced any adverse events (5 studies, 3983 participants: RR 1.23, 95% CI 0.90 to 1.68; I² = 91%; very low certainty evidence).\nModerate certainty evidence showed early KRT initiation probably reduces the number of days in hospital (7 studies, 4589 participants: MD-2.45 days, 95% CI -4.75 to -0.14; I² = 10%) and length of stay in ICU (5 studies, 4240 participants: MD -1.01 days, 95% CI -1.60 to -0.42; I² = 0%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on mainly low to moderate certainty of the evidence, early KRT has no beneficial effect on death and may increase the recovery of kidney function. Earlier KRT probably reduces the length of ICU and hospital stay but increases the risk of adverse events.\nFurther adequate-powered RCTs using robust and validated tools that complement clinical judgement are needed to define the optimal time of KRT in critical patients with AKI in order to improve their outcomes. The surgical AKI population should be considered in future research."
+    }
+  ],
+  "pls_title": "Timing of initiation of kidney replacement therapy (dialysis) for acute kidney injury",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Acute kidney injury (AKI) is very common among patients admitted to the intensive care unit (ICU); it is associated with high death rates and is characterised by the rapid loss of kidney function. Patients with AKI show increased levels of serum uraemic toxins (creatinine and urea), serum potassium and metabolic acids, accumulation of fluid and, in most cases, a reduction in urine output. In this population, these chemicals and fluid overload are related to increased rates of death. Theoretically, early removal of toxins and excess fluid from the bloodstream might improve patient outcomes (such as death rate and recovery of kidney function).\nKidney replacement therapy (KRT), also known as dialysis, is a blood purification technique that enables the removal of excess fluid and toxins. KRT involves blood being diverted from the patient via a catheter (a hollow, flexible tube placed into a vein) through a filtering system which removes excess fluid and toxins; purified blood is then returned to the patient via the catheter. Early initiation of KRT improves the removal of toxins and excess fluid.\nThe aim of this review was to investigate the effect of the different timing of KRT initiation (early or standard) on death, recovery of kidney function, and adverse events in people with AKI who are critically ill."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the literature up until 4 August 2022 and identified 12 studies enrolling 4880 critically ill patients with AKI that were evaluated in this review."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Compared to standard, early KRT initiation may have no benefits on death; however, may increase recovery of kidney function and probably reduces the number of days in ICU and hospital stay, but increases the risk of adverse events in patients with AKI in intensive care units. Nevertheless, regarding death and recovery of kidney function, early KRT initiation showed a range of values that included benefits as well as harms."
+    }
+  ]
+}

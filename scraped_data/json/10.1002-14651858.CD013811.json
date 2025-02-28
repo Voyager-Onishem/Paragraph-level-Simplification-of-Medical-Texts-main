@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013811",
+  "name": "Fluorescence devices for the detection of dental caries",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Caries is one of the most prevalent and preventable conditions worldwide. If identified early enough then non-invasive techniques can be applied, and therefore this review focusses on early caries involving the enamel surface of the tooth. The cornerstone of caries detection is a visual and tactile dental examination, however alternative methods of detection are available, and these include fluorescence-based devices. There are three categories of fluorescence-based device each primarily defined by the different wavelengths they exploit; we have labelled these groups as red, blue, and green fluorescence. These devices could support the visual examination for the detection and diagnosis of caries at an early stage of decay."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our primary objectives were to estimate the diagnostic test accuracy of fluorescence-based devices for the detection and diagnosis of enamel caries in children or adults. We planned to investigate the following potential sources of heterogeneity: tooth surface (occlusal, proximal, smooth surface or adjacent to a restoration); single point measurement devices versus imaging or surface assessment devices; and the prevalence of more severe disease in each study sample, at the level of caries into dentine."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health's Information Specialist undertook a search of the following databases: MEDLINE Ovid (1946 to 30 May 2019); Embase Ovid (1980 to 30 May 2019); US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov, to 30 May 2019); and the World Health Organization International Clinical Trials Registry Platform (to 30 May 2019). We studied reference lists as well as published systematic review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy study designs that compared a fluorescence-based device with a reference standard. This included prospective studies that evaluated the diagnostic accuracy of single index tests and studies that directly compared two or more index tests. Studies that explicitly recruited participants with caries into dentine or frank cavitation were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data independently using a piloted study data extraction form based on the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS-2). Sensitivity and specificity with 95% confidence intervals (CIs) were reported for each study. This information has been displayed as coupled forest plots and summary receiver operating characteristic (SROC) plots, displaying the sensitivity-specificity points for each study. We estimated diagnostic accuracy using hierarchical summary receiver operating characteristic (HSROC) methods. We reported sensitivities at fixed values of specificity (median 0.78, upper quartile 0.90)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 133 studies, 55 did not report data in the 2 x 2 format and could not be included in the meta-analysis. 79 studies which provided 114 datasets and evaluated 21,283 tooth surfaces were included in the meta-analysis. There was a high risk of bias for the participant selection domain. The index test, reference standard, and flow and timing domains all showed a high proportion of studies to be at low risk of bias. Concerns regarding the applicability of the evidence were high or unclear for all domains, the highest proportion being seen in participant selection. Selective participant recruitment, poorly defined diagnostic thresholds, and in vitro studies being non-generalisable to the clinical scenario of a routine dental examination were the main reasons for these findings. The dominance of in vitro studies also means that the information on how the results of these devices are used to support diagnosis, as opposed to pure detection, was extremely limited. There was substantial variability in the results which could not be explained by the different devices or dentition or other sources of heterogeneity that we investigated. The diagnostic odds ratio (DOR) was 14.12 (95% CI 11.17 to 17.84).\nThe estimated sensitivity, at a fixed median specificity of 0.78, was 0.70 (95% CI 0.64 to 0.75). In a hypothetical cohort of 1000 tooth sites or surfaces, with a prevalence of enamel caries of 57%, obtained from the included studies, the estimated sensitivity of 0.70 and specificity of 0.78 would result in 171 missed tooth sites or surfaces with enamel caries (false negatives) and 95 incorrectly classed as having early caries (false positives).\nWe used meta-regression to compare the accuracy of the different devices for red fluorescence (84 datasets, 14,514 tooth sites), blue fluorescence (21 datasets, 3429 tooth sites), and green fluorescence (9 datasets, 3340 tooth sites) devices. Initially, we allowed threshold, shape, and accuracy to vary according to device type by including covariates in the model. Allowing consistency of shape, removal of the covariates for accuracy had only a negligible effect (Chi2 = 3.91, degrees of freedom (df) = 2, P = 0.14).\nDespite the relatively large volume of evidence we rated the certainty of the evidence as low, downgraded two levels in total, for risk of bias due to limitations in the design and conduct of the included studies, indirectness arising from the high number of in vitro studies, and inconsistency due to the substantial variability of results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is considerable variation in the performance of these fluorescence-based devices that could not be explained by the different wavelengths of the devices assessed, participant, or study characteristics. Blue and green fluorescence-based devices appeared to outperform red fluorescence-based devices but this difference was not supported by the results of a formal statistical comparison. The evidence base was considerable, but we were only able to include 79 studies out of 133 in the meta-analysis as estimates of sensitivity or specificity values or both could not be extracted or derived. In terms of applicability, any future studies should be carried out in a clinical setting, where difficulties of caries assessment within the oral cavity include plaque, staining, and restorations. Other considerations include the potential of fluorescence devices to be used in combination with other technologies and comparative diagnostic accuracy studies."
+    }
+  ],
+  "pls_title": "Fluorescence devices for the detection of dental caries",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is it important to improve dental caries (tooth decay) detection?",
+      "text": "Dentists often aim to identify tooth decay that has already advanced to a level which needs a filling. If dentists were able to find tooth decay when it has only affected the outer layer of the tooth then it is possible to stop the decay from spreading any further and prevent the need for fillings. It is also important to avoid a false-positive result, when treatment may be provided when caries is absent."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "This Cochrane Review aimed to find out how accurate fluorescence devices (non-invasive devices that shine a light on the surface of the tooth) are for detecting and diagnosing early tooth decay as part of the dental 'check-up' for children and adults who visit their general dentist. Researchers included 133 studies to answer this question."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "There are three different types of fluorescence device that use different types of light which we grouped as red, blue, and green fluorescence. Each device reflects more or less light depending on the amount of tooth decay, and this is measured by the device to give a score which indicates whether there is tooth decay and how severe the decay is. We studied decay on the occlusal surfaces (biting surfaces of the back teeth), the proximal surfaces (tooth surfaces that are next to each other), and the smooth surfaces."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review included 133 relevant studies but 55 of these did not provide data in a format that we could use for analysis, so 79 studies with a total of 21,283 teeth were included in the analysis. Some of these studies reported on more than one type of fluorescence device, this gave us 114 sets of data. The results of these studies indicate that, in theory, if the fluorescence devices were to be used by a dentist for a routine dental examination in a group of 1000 tooth sites or surfaces, of which 574 (57%) have early tooth decay:\n• an estimated 494 will have a fluorescence device result indicating tooth decay, and of these, 95 (19%) will not have tooth decay (false positive - incorrect diagnosis);\n• of the 506 tooth sites or surfaces with a result indicating that tooth decay is not present, 171 (34%) will have early tooth decay (false negative - incorrect diagnosis).\nPlease see oralhealth.cochrane.org/fluorescence-devices-results.\nWe found no evidence that the devices that used different types of light (red, blue, or green fluorescence) differed in their accuracy."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "We only included studies that assessed healthy teeth or those that were thought to have early tooth decay. This is because teeth with deep tooth decay would be easier to detect. However, there were some problems with how the studies were carried out. This may have resulted in the fluorescence-based devices appearing more accurate than they are. We judged the certainty of the evidence as low due to how the studies selected their participants, the large number of studies that were carried out in a laboratory setting on extracted teeth, and the variation in results reported."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Studies included in the review were carried out in Brazil, Europe, the Middle East, Asia, North America, and Australia. A large number of studies used extracted teeth. Others were completed in dental hospitals, general dental practices, or schools. Studies were from the years 1998 and 2019."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "Because of the wide variation in performance that cannot be easily explained the interpretation of results is difficult. The proportion of cases missed or incorrectly diagnosed as evidence of caries is relatively high. Important information was missing from many of the included studies. Any future studies should be carried out in a clinical setting, and look at the potential of fluorescence devices to be used alongside other devices."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for and used studies published up to 30 May 2019."
+    }
+  ]
+}

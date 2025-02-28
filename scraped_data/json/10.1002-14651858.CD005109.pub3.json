@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005109.pub3",
+  "name": "Recombinant human interleukin 10 for induction of remission in Crohn's disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The etiology of Crohn’s disease remains unknown, nevertheless, it is apparent that inflammation is associated with an imbalance between proinflammatory and anti-inflammatory cytokines produced within the intestinal mucosa. Crohn’s disease represents a state of dysregulated inflammation and drugs that can augment the anti-inflammatory response have the potential to downregulate inflammation and thereby improve the disease. The efficacy of recombinant IL-10 in Crohn's disease was first demonstrated in a pilot study. Since then other trials have evaluated its efficacy but the available evidence has not been systematically reviewed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy and tolerability of recombinant human interleukin 10 (IL-10) for induction of remission in Crohn's disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A computer assisted search of the Cochrane Central Register of Controlled Trials and the Cochrane IBD/FBD Review Group Specialized Trials Register and the on-line databases MEDLINE and EMBASE was performed to identify relevant publications up to September 2010. Reference lists were searched and the pharmaceutical industry and experts were contacted to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials comparing recombinant human interleukin 10 to a placebo or control therapy for the treatment of patients with active Crohn's disease were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All publications identified by the search strategy were assessed independently by two authors, and relevant studies selected according to the inclusion criteria. The risk of bias of each included study was assessed independently by two authors. Data were analyzed using Review Manager (RevMan 5). A random effects model was used for pooling of data. All data were analyzed on an intention-to-treat basis. Heterogeneity among studies was assessed using the chi-square test and the I2 statistic."
+    },
+    {
+      "heading": "Main results",
+      "text": "The risk of bias in the included studies was low. The overall quality of the evidence based on the GRADE approach was moderate. No statistically significant differences were found between interleukin 10 and placebo for complete remission (CDAI < 150 with a 100 point decrease in CDAI from baseline; RR=1.43; 95% CI 0.62 to 3.29; I2=40%) or clinical remission (CDAI < 150; RR=1.29; 95% CI 0.79 to 2.11; I2= 0%). Patients treated with interleukin 10 were significantly more likely to withdraw from the studies due to adverse events (RR=13.50; 95% CI 3.89 to 46.79; I2=0%)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Interleukin 10 does not appear to provide any benefit for the treatment of active Crohn's disease. This systematic review shows that interleukin 10 does not increase the number of remissions (complete or clinical), but increases the rate of withdrawal due to adverse events relative to placebo. The quality of the evidence regarding the efficacy of IL-10 is moderate and although further research may have an impact on point estimates of efficacy further randomized trials are unlikely to be undertaken."
+    }
+  ],
+  "pls_title": "Interleukin 10 (IL-10) for induction of remission in Crohn's disease",
+  "pls_type": "long",
+  "pls": "Crohn's disease is an inflammatory condition of unknown origin that can affect any portion of the gastrointestinal tract from the mouth to the anus. However, it most commonly involves the distal small bowel and/or the colon. Interleukin 10 does not appear to provide any benefit for the treatment of active Crohn's disease. This systematic review showed that this drug does not increase the number of remissions but increases the number of patients that withdrew from the included studies due to side effects. The methodological quality of the included studies was high. Further studies of this agent for the treatment of active Crohn's disease are unlikely to be undertaken."
+}

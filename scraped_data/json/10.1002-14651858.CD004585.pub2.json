@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004585.pub2",
+  "name": "EMG biofeedback for the recovery of motor function after stroke",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Electromyographic biofeedback (EMG-BFB) is a technique that is believed to have additional benefit when used with standard physiotherapy for the recovery of motor function in stroke patients. However, evidence from individual trials and previous systematic reviews has been inconclusive."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of EMG-BFB for motor function recovery following stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched 30 March 2006), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2005), MEDLINE (1966 to November 2005), EMBASE (1980 to November 2005), CINAHL (1983 to November 2005), PsycINFO (1974 to November 2005) and First Search (1966 to November 2005). We scanned reference lists for relevant articles and contacted equipment manufacturers and distributors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised studies comparing EMG-BFB with control for motor function recovery in stroke patients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data. Where possible we contacted study authors for further information. Any reported adverse effects were noted."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirteen trials involving 269 people were included. All trials compared EMG-BFB plus standard physiotherapy to standard physiotherapy either alone or with sham EMG-BFB. Only one study used a motor strength assessment scale for evaluation of patients, which indicated benefit from EMG-BFB (WMD 1.09, 95% CI 0.48 to 1.70). EMG-BFB did not have a significant benefit in improving range of motion (ROM) through the ankle (SMD 0.05, 95% CI -0.36 to 0.46), knee or wrist joints. However, one trial suggested a benefit in ROM at the shoulder (SMD 0.88, 95% CI 0.07 to 1.70). Change in stride length or gait speed was not improved by EMG-BFB. Two studies used different assessment scores to quantify gait quality. One of these suggested a beneficial effect of EMG-BFB (SMD 0.90, 95% CI 0.01 to 1.78). Most of the studies examining functional outcomes used different assessment scales, which made meta-analysis impossible. Two studies that used the same scale did show a beneficial effect (SMD 0.69, 95% CI 0.15 to 1.23)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Despite evidence from a small number of individual studies to suggest that EMG-BFB plus standard physiotherapy produces improvements in motor power, functional recovery and gait quality when compared to standard physiotherapy alone, combination of all the identified studies did not find a treatment benefit. Overall the results are limited because the trials were small, generally poorly designed and utilised varying outcome measures."
+    }
+  ],
+  "pls_title": "EMG biofeedback for the recovery of motor function after stroke",
+  "pls_type": "long",
+  "pls": "Electromyographic biofeedback (techniques using visual or sound signals to monitor muscle activity) has an uncertain impact on recovery after stroke. Electromyographic biofeedback (EMG-BFB) uses electrodes placed on a patient's muscles to generate a feedback signal (in vision or sound) in response to muscle activation. It is believed that this may allow patients to learn a more effective way of using their disabled limb. Amongst the 13 studies identified, there was a small amount of evidence to suggest that EMG-BFB had a beneficial effect when used with standard physiotherapy techniques. However EMG-BFB cannot currently be recommended as an effective routine treatment because other studies found no effect, and the positive trials were small."
+}

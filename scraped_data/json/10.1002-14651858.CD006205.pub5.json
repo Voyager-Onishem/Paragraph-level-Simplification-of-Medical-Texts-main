@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD006205.pub5",
+  "name": "Interventions for the treatment of oral cavity and oropharyngeal cancers: surgical treatment ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Surgery is a common treatment option in oral cavity cancer (and less frequently in oropharyngeal cancer) to remove the primary tumour and sometimes neck lymph nodes. People with early-stage disease may undergo surgery alone or surgery plus radiotherapy, chemotherapy, immunotherapy/biotherapy, or a combination of these. Timing and extent of surgery varies. This is the third update of a review originally published in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the relative benefits and harms of different surgical treatment modalities for oral cavity and oropharyngeal cancers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 9 February 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) that compared two or more surgical treatment modalities, or surgery versus other treatment modalities, for primary tumours of the oral cavity or oropharynx."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Our primary outcomes were overall survival, disease-free survival, locoregional recurrence, and recurrence; and our secondary outcomes were adverse effects of treatment, quality of life, direct and indirect costs to patients and health services, and participant satisfaction. We used standard Cochrane methods. We reported survival data as hazard ratios (HRs). For overall survival, we reported the HR of mortality, and for disease-free survival, we reported the combined HR of new disease, progression, and mortality; therefore, HRs below 1 indicated improvement in these outcomes. We used GRADE to assess certainty of evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified four new trials, bringing the total number of included trials to 15 (2820 participants randomised, 2583 participants analysed). For objective outcomes, we assessed four trials at high risk of bias, three at low risk, and eight at unclear risk. The trials evaluated nine comparisons; none compared different surgical approaches for excision of the primary tumour.\nFive trials evaluated elective neck dissection (ND) versus therapeutic (delayed) ND in people with oral cavity cancer and clinically negative neck nodes. Elective ND compared with therapeutic ND probably improves overall survival (HR 0.64, 95% confidence interval (CI) 0.50 to 0.83; I2 = 0%; 4 trials, 883 participants; moderate certainty) and disease-free survival (HR 0.56, 95% CI 0.45 to 0.70; I2 = 12%; 5 trials, 954 participants; moderate certainty), and probably reduces locoregional recurrence (HR 0.58, 95% CI 0.43 to 0.78; I2 = 0%; 4 trials, 458 participants; moderate certainty) and recurrence (RR 0.58, 95% CI 0.48 to 0.70; I2 = 0%; 3 trials, 633 participants; moderate certainty). Elective ND is probably associated with more adverse events (risk ratio (RR) 1.31, 95% CI 1.11 to 1.54; I2 = 0%; 2 trials, 746 participants; moderate certainty).\nTwo trials evaluated elective radical ND versus elective selective ND in people with oral cavity cancer, but we were unable to pool the data as the trials used different surgical procedures. Neither study found evidence of a difference in overall survival (pooled measure not estimable; very low certainty). We are unsure if there is a difference in effect on disease-free survival (HR 0.57, 95% CI 0.29 to 1.11; 1 trial, 104 participants; very low certainty) or recurrence (RR 1.21, 95% CI 0.63 to 2.33; 1 trial, 143 participants; very low certainty). There may be no difference between the interventions in terms of adverse events (1 trial, 148 participants; low certainty).\nTwo trials evaluated superselective ND versus selective ND, but we were unable to use the data.\nOne trial evaluated supraomohyoid ND versus modified radical ND in 332 participants. We were unable to use any of the primary outcome data. The evidence on adverse events was very uncertain, with more complications, pain, and poorer shoulder function in the modified radical ND group.\nOne trial evaluated sentinel node biopsy versus elective ND in 279 participants. There may be little or no difference between the interventions in overall survival (HR 1.00, 95% CI 0.90 to 1.11; low certainty), disease-free survival (HR 0.98, 95% CI 0.90 to 1.07; low certainty), or locoregional recurrence (HR 1.04, 95% CI 0.91 to 1.19; low certainty). The trial provided no usable data for recurrence, and reported no adverse events (very low certainty).\nOne trial evaluated positron emission tomography-computed tomography (PET-CT) following chemoradiotherapy (with ND only if no or incomplete response) versus planned ND (before or after chemoradiotherapy) in 564 participants. There is probably no difference between the interventions in overall survival (HR 0.92, 95% CI 0.65 to 1.31; moderate certainty) or locoregional recurrence (HR 1.00, 95% CI 0.94 to 1.06; moderate certainty).\nOne trial evaluated surgery plus radiotherapy versus radiotherapy alone and provided very low-certainty evidence of better overall survival in the surgery plus radiotherapy group (HR 0.24, 95% CI 0.10 to 0.59; 35 participants). The data were unreliable because the trial stopped early and had multiple protocol violations. In terms of adverse events, subcutaneous fibrosis was more frequent in the surgery plus radiotherapy group, but there were no differences in other adverse events (very low certainty).\nOne trial evaluated surgery versus radiotherapy alone for oropharyngeal cancer in 68 participants. There may be little or no difference between the interventions for overall survival (HR 0.83, 95% CI 0.09 to 7.46; low certainty) or disease-free survival (HR 1.07, 95% CI 0.27 to 4.22; low certainty). For adverse events, there were too many outcomes to draw reliable conclusions.\nOne trial evaluated surgery plus adjuvant radiotherapy versus chemotherapy. We were unable to use the data for any of the outcomes reported (very low certainty)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found moderate-certainty evidence based on five trials that elective neck dissection of clinically negative neck nodes at the time of removal of the primary oral cavity tumour is superior to therapeutic neck dissection, with increased survival and disease-free survival, and reduced locoregional recurrence.\nThere was moderate-certainty evidence from one trial of no difference between positron emission tomography (PET-CT) following chemoradiotherapy versus planned neck dissection in terms of overall survival or locoregional recurrence.\nThe evidence for each of the other seven comparisons came from only one or two studies and was assessed as low or very low-certainty."
+    }
+  ],
+  "pls_title": "Surgical treatments for oral cavity (mouth) and oropharyngeal (throat) cancers",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• In people with mouth cancer, elective removal of neck lymph nodes at the same time as primary tumour removal, compared with the removal of neck lymph nodes only when they become cancerous, probably increases survival and reduces recurrence, but may increase the risk of unwanted effects.\n• Future studies of surgical treatment of mouth and throat cancers should report findings according to primary tumour location and measure quality of life and illness or disability associated with treatment."
+    },
+    {
+      "heading": "What is the background to the review?",
+      "text": "Oral cavity (mouth) and oropharyngeal (throat) cancers are becoming more common and are very difficult to cure. Treatment can involve surgery, chemotherapy, radiotherapy, or a combination of these. For people with mouth cancer, the removal of the lymph nodes (small glands that filter cancer cells and other foreign substances) is sometimes part of the treatment; this is known as neck dissection. Surgeons sometimes remove lymph nodes that appear cancer free while removing the original tumour (elective neck dissection). Other surgeons adopt a 'watch and wait' approach, removing lymph nodes when they become cancerous. The type of dissection can be radical neck dissection, where all the lymph nodes are removed, or selective neck dissection, where only diseased nodes are removed. One way to determine whether the lymph node is diseased is to perform a lymph node biopsy."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know which surgical treatments are most likely to result in people with mouth and throat cancers living longer (overall survival), living longer without symptoms (disease-free survival), and not having the cancer come back at the same site (locoregional recurrence) or spread to other sites (recurrence). We also wanted to know if the different treatments have unwanted effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that randomly allocated people with mouth or throat cancer to different types of surgical treatment. We summarised the characteristics and findings of relevant studies and assessed our confidence in the results."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 15 studies (four new studies in this update) that evaluated nine comparisons of different treatments. No studies compared different approaches to cutting out the original (primary) tumour. The studies involved 2820 participants."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies evaluated removal of the primary tumour, comparing elective neck dissection with the 'watch and wait approach' in people with mouth cancer. The results show that elective neck dissection probably leads to longer overall and disease-free survival and less locoregional recurrence, but more unwanted effects.\nTwo studies compared radical neck dissection versus selective neck dissection in people with mouth cancer. It is unclear which treatment provides better outcomes.\nTwo trials evaluated a more limited neck dissection (superselective) versus selective neck dissection; we were unable to use the data reported.\nOne study compared a more selective neck dissection (supraomohyoid) and a modified radical neck dissection. We were unable to use the data reported. The modified radical neck dissection group had more complications, more pain, and poorer shoulder function, but we are very uncertain about the results.\nIn one study, all the people in one group had a lymph node biopsy and only had neck lymph nodes removed if the biopsy was positive, while all people in the other group had neck lymph nodes removed without a biopsy. There may be no difference between these two approaches in terms of overall survival, disease-free survival, and locoregional recurrence. No unwanted effects were reported.\nOne study evaluated using a special scan (positron emission tomography-computed tomography (PET-CT)) after combined chemotherapy and radiotherapy to guide decisions about neck dissection, versus a planned neck dissection before or after chemoradiotherapy. There is probably no difference between these approaches in terms of overall survival or locoregional recurrence. There may be no difference in unwanted effects, but we are very uncertain about the results.\nOne trial suggested that surgery plus radiotherapy may result in better overall survival than radiotherapy alone, but we are very uncertain about the results. Surgery may result in more thickened scar tissue. There may be no difference with regard to other unwanted effects.\nOne study compared surgery versus radiotherapy in people with throat cancer. There may be no difference in overall survival, disease-free survival, or unwanted effects, but we are very uncertain about the results.\nOne study compared surgery followed by radiotherapy versus chemotherapy. People receiving surgery and radiotherapy may live longer without symptoms, but we are very uncertain about the results."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are moderately confident that elective neck dissection at the same time as removal of the main tumour improves survival and reduces recurrence. Not all studies provided information about everything that we were interested in.\nWe are moderately confident that PET-CT does not improve survival or reduce recurrence. There are too few studies to be certain about the results.\nWe have little confidence in results from other comparisons due to too few studies and limited information within them."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is current to 9 February 2022."
+    }
+  ]
+}

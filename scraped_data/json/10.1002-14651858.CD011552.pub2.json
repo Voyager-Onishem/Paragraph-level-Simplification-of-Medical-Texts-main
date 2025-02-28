@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011552.pub2",
+  "name": "Interventions for preventing oral mucositis in patients with cancer receiving treatment: oral cryotherapy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Oral mucositis is a side effect of chemotherapy, head and neck radiotherapy, and targeted therapy, affecting over 75% of high risk patients. Ulceration can lead to severe pain and difficulty eating and drinking, which may necessitate opioid analgesics, hospitalisation and nasogastric or intravenous nutrition. These complications may lead to interruptions or alterations to cancer therapy, which may reduce survival. There is also a risk of death from sepsis if pathogens enter the ulcers of immunocompromised patients. Ulcerative oral mucositis can be costly to healthcare systems, yet there are few preventive interventions proven to be beneficial. Oral cryotherapy is a low-cost, simple intervention which is unlikely to cause side-effects. It has shown promise in clinical trials and warrants an up-to-date Cochrane review to assess and summarise the international evidence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of oral cryotherapy for preventing oral mucositis in patients with cancer who are receiving treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases: the Cochrane Oral Health Group Trials Register (to 17 June 2015), the Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Library 2015, Issue 5), MEDLINE via Ovid (1946 to 17 June 2015), EMBASE via Ovid (1980 to 17 June 2015), CANCERLIT via PubMed (1950 to 17 June 2015) and CINAHL via EBSCO (1937 to 17 June 2015). We searched the US National Institutes of Health Trials Registry, and the WHO Clinical Trials Registry Platform for ongoing trials. No restrictions were placed on the language or date of publication when searching databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel-design randomised controlled trials (RCTs) assessing the effects of oral cryotherapy in patients with cancer receiving treatment. We used outcomes from a published core outcome set registered on the COMET website."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the results of electronic searches, extracted data and assessed risk of bias. We contacted study authors for information where feasible. For dichotomous outcomes, we reported risk ratios (RR) and 95% confidence intervals (CI). For continuous outcomes, we reported mean differences (MD) and 95% CIs. We pooled similar studies in random-effects meta-analyses. We reported adverse effects in a narrative format."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 RCTs analysing 1280 participants. The vast majority of participants did not receive radiotherapy to the head and neck, so this review primarily assesses prevention of chemotherapy-induced oral mucositis. All studies were at high risk of bias. The following results are for the main comparison: oral cryotherapy versus control (standard care or no treatment).\nAdults receiving fluorouracil-based (5FU) chemotherapy for solid cancers\nOral cryotherapy probably reduces oral mucositis of any severity (RR 0.61, 95% CI 0.52 to 0.72, 5 studies, 444 analysed, moderate quality evidence). In a population where 728 per 1000 would develop oral mucositis, oral cryotherapy would reduce this to 444 (95% CI 379 to 524). The number needed to treat to benefit one additional person (NNTB), i.e. to prevent them from developing oral mucositis, is 4 people (95% CI 3 to 5).\nThe results were similar for moderate to severe oral mucositis (RR 0.52, 95% CI 0.41 to 0.65, 5 studies, 444 analysed, moderate quality evidence). NNTB 4 (95% CI 4 to 6).\nSevere oral mucositis is probably reduced (RR 0.40, 95% CI 0.27 to 0.61, 5 studies, 444 analysed, moderate quality evidence). Where 300 per 1000 would develop severe oral mucositis, oral cryotherapy would reduce this to 120 (95% CI 81 to 183), NNTB 6 (95% CI 5 to 9).\nAdults receiving high-dose melphalan-based chemotherapy before haematopoietic stem cell transplantation (HSCT)\nOral cryotherapy may reduce oral mucositis of any severity (RR 0.59, 95% CI 0.35 to 1.01, 5 studies, 270 analysed, low quality evidence). Where 824 per 1000 would develop oral mucositis, oral cryotherapy would reduce this to 486 (95% CI reduced to 289 to increased to 833). The NNTB is 3, although the uncertainty surrounding the effect estimate means that the 95% CI ranges from 2 NNTB, to 111 NNTH (number needed to treat in order to harm one additional person, i.e. for one additional person to develop oral mucositis).\nThe results were similar for moderate to severe oral mucositis (RR 0.43, 95% CI 0.17 to 1.09, 5 studies, 270 analysed, low quality evidence). NNTB 3 (95% CI 2 NNTB to 17 NNTH).\nSevere oral mucositis is probably reduced (RR 0.38, 95% CI 0.20 to 0.72, 5 studies, 270 analysed, moderate quality evidence). Where 427 per 1000 would develop severe oral mucositis, oral cryotherapy would reduce this to 162 (95% CI 85 to 308), NNTB 4 (95% CI 3 to 9).\nOral cryotherapy was shown to be safe, with very low rates of minor adverse effects, such as headaches, chills, numbness/taste disturbance, and tooth pain. This appears to contribute to the high rates of compliance seen in the included studies.\nThere was limited or no evidence on the secondary outcomes of this review, or on patients undergoing other chemotherapies, radiotherapy, targeted therapy, or on comparisons of oral cryotherapy with other interventions or different oral cryotherapy regimens. Therefore no further robust conclusions can be made. There was also no evidence on the effects of oral cryotherapy in children undergoing cancer treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are confident that oral cryotherapy leads to large reductions in oral mucositis of all severities in adults receiving 5FU for solid cancers. We are less confident in the ability of oral cryotherapy to reduce oral mucositis in adults receiving high-dose melphalan before HSCT. Evidence suggests that it does reduce oral mucositis in these adults, but we are less certain about the size of the reduction, which could be large or small. However, we are confident that there is an appreciable reduction in severe oral mucositis in these adults.\nThis Cochrane review includes some very recent and currently unpublished data, and strengthens international guideline statements for adults receiving the above cancer treatments."
+    }
+  ],
+  "pls_title": "Can keeping the mouth cold during cancer treatment help to prevent mouth soreness and ulcers in children and adults?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review has been produced to assess whether or not keeping the mouth cold during cancer treatment, by using ice, ice-cold water, ice cream or ice lollies/popsicles, can help prevent mouth soreness and ulcers in children and adults."
+    },
+    {
+      "heading": "Background",
+      "text": "People receiving treatment for cancer are at risk of developing a sore mouth and ulcers as a side effect. This side effect is called oral mucositis and affects over 75% of high-risk patients (those receiving radiotherapy to the head and neck or high-dose chemotherapy). The pain caused by this condition can be severe and can stop the person's ability to eat and drink, which may mean they need to take strong pain killers, stay in hospital and be fed through a tube into their stomach, or even into their veins. This in turn can lead to disruption to their cancer treatment, meaning they are not receiving the best possible treatment. The results may be a reduction in the patient's chances of survival, and increased costs to the healthcare system. Cancer patients have weakened immune systems due to their treatment, meaning that their bodies are less able to fight infections. This can be a problem if bacteria enter the body through the ulcer, which is an open wound. This can lead to sepsis (a dangerous inflammatory reaction of the body to infection), which requires antibiotics and hospitalisation, and can cause death.\nOral cryotherapy is the cooling of the mouth using ice, ice-cold water, ice cream or ice lollies/popsicles. It is thought to help prevent oral mucositis in people receiving certain types of chemotherapy because the coldness makes the blood vessels in the mouth more narrow, and this reduces the amount of blood containing chemotherapy drugs from reaching the mouth and causing oral mucositis. It is a low-cost, natural treatment without serious side effects."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Authors from the Cochrane Oral Health Group carried out this review of existing studies and the evidence is current up to 17 June 2015. It includes 14 studies published from 1991 to 2015 in which 1316 participants were randomised (1280 of whom were included in the analyses) to receive oral cryotherapy versus standard care (usually saline mouthrinses) or no treatment or a different treatment or a different method of oral cryotherapy, and the number of people developing oral mucositis of different severities was compared. Nearly all the evidence was on adults receiving oral cryotherapy versus standard care or no treatment. This evidence fell into two main groups: 1) adults receiving fluorouracil-based (5FU) treatment for solid cancers; or 2) adults receiving high-dose melphalan-based cancer treatment before haematopoietic stem cell transplantation (HSCT). HSCT is given to help the body to produce all types of blood cells, which are destroyed during cancer treatment."
+    },
+    {
+      "heading": "Key results",
+      "text": "There is evidence showing that oral cryotherapy can lead to large reductions in the numbers of adults who get oral mucositis of all severities after receiving 5FU-based treatment for solid cancers. There is less certain evidence to suggest that oral cryotherapy may reduce the numbers of adults who get oral mucositis after receiving high-dose melphalan-based cancer treatment prior to HSCT. The evidence suggests that it does reduce oral mucositis in these adults, but the size of the reduction is much less certain. However, there is more certain evidence that there is a large reduction in severe oral mucositis in these adults.\nOral cryotherapy did not cause any serious side effects in any of the participants of these studies, and most people seemed able to carry it out properly and complete it."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence presented, on the main outcome of whether or not people developed oral mucositis of all severities, is of moderate (because the nature of the oral cryotherapy treatment meant that the studies could not be 'blinded' which is a desirable characteristic of these studies) to low quality (because in addition to the above problem, the results of the individual studies were too different to give a precise result when they were combined)."
+    }
+  ]
+}

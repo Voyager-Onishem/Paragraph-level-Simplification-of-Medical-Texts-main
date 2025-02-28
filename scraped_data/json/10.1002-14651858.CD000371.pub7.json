@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000371.pub7",
+  "name": "Public health deworming programmes for soil‐transmitted helminths in children living in endemic areas ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The World Health Organization (WHO) recommends treating all school children at regular intervals with deworming drugs in areas where helminth infection is common. Global advocacy organizations claim routine deworming has substantive health and societal effects beyond the removal of worms. In this update of the 2015 edition we included six new trials, additional data from included trials, and addressed comments and criticisms."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarize the effects of public health programmes to regularly treat all children with deworming drugs on child growth, haemoglobin, cognition, school attendance, school performance, physical fitness, and mortality."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; Embase; LILACS; the meta Register of Controlled Trials (mRCT); reference lists; and registers of ongoing and completed trials up to 19 September 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and quasi-RCTs that compared deworming drugs for soil-transmitted helminths (STHs) with placebo or no treatment in children aged 16 years or less, reporting on weight, height, haemoglobin, and formal tests of cognition. We also sought data on other measures of growth, school attendance, school performance, physical fitness, and mortality."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently assessed the trials for inclusion, risk of bias, and extracted data. We analysed continuous data using the mean difference (MD) with 95% confidence intervals (CIs). Where data were missing, we contacted trial authors. We stratified the analysis based on the background burden of STH infection. We used outcomes at time of longest follow-up. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 51 trials, including 10 cluster-RCTs, that met the inclusion criteria. One trial evaluating mortality included over one million children, and the remaining 50 trials included a total of 84,336 participants. Twenty-four trials were in populations categorized as high burden, including nine trials in children selected because they were helminth-stool positive; 18 with intermediate burden; and nine as low burden.\nFirst or single dose of deworming drugs\nFourteen trials reported on weight after a single dose of deworming drugs (4970 participants, 14 RCTs). The effects were variable. There was little or no effect in studies conducted in low and intermediate worm burden groups. In the high-burden group, there was little or no effect in most studies, except for a large effect detected from one study area in Kenya reported in two trials carried out over 30 years ago. These trials result in qualitative heterogeneity and uncertainty in the meta-analysis across all studies (I2 statistic = 90%), with GRADE assessment assessed as very low-certainty, which means we do not know if a first dose or single dose of deworming impacts on weight.\nFor height, most studies showed little or no effect after a single dose, with one of the two trials in Kenya from 30 years ago showing a large average difference (2621 participants, 10 trials, low-certainty evidence). Single dose probably had no effect on average haemoglobin (MD 0.10 g/dL, 95% CI 0.03 lower to 0.22 higher; 1252 participants, five trials, moderate-certainty evidence), or on average cognition (1596 participants, five trials, low-certainty evidence). The data are insufficient to know if there is an effect on school attendance and performance (304 participants, one trial, low-certainty evidence), or on physical fitness (280 participants, three trials, very low-certainty evidence). No trials reported on mortality.\nMultiple doses of deworming drugs\nThe effect of regularly treating children with deworming drugs given every three to six months on weight was reported in 18 trials, with follow-up times of between six months and three years; there was little or no effect on average weight in all but two trials, irrespective of worm prevalence-intensity. The two trials with large average weight gain included one in the high burden area in Kenya carried out over 30 years ago, and one study from India in a low prevalence area where subsequent studies in the same area did not show an effect. This heterogeneity causes uncertainty in any meta-analysis (I2 = 78%). Post-hoc analysis excluding trials published prior to 2000 gave an estimate of average difference in weight gain of 0.02 kg (95%CI from 0.04 kg loss to 0.08 gain, I2 = 0%). Thus we conclude that we do not know if repeated doses of deworming drugs impact on average weight, with a fewer older studies showing large gains, and studies since 2000 showing little or no average gain.\nRegular treatment probably had little or no effect on the following parameters: average height (MD 0.02 cm higher, 95% CI 0.09 lower to 0.13 cm higher; 13,700 participants, 13 trials, moderate-certainty evidence); average haemoglobin (MD 0.01 g/dL lower; 95% CI 0.05 g/dL lower to 0.07 g/dL higher; 5498 participants, nine trials, moderate-certainty evidence); formal tests of cognition (35,394 participants, 8 trials, moderate-certainty evidence); school performance (34,967 participants, four trials, moderate-certainty evidence). The evidence assessing an effect on school attendance is inconsistent, and at risk of bias (mean attendance 2% higher, 95% CI 5% lower to 8% higher; 20,650 participants, three trials, very low-certainty evidence). No trials reported on physical fitness. No effect was shown on mortality (1,005,135 participants, three trials, low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Public health programmes to regularly treat all children with deworming drugs do not appear to improve height, haemoglobin, cognition, school performance, or mortality. We do not know if there is an effect on school attendance, since the evidence is inconsistent and at risk of bias, and there is insufficient data on physical fitness. Studies conducted in two settings over 20 years ago showed large effects on weight gain, but this is not a finding in more recent, larger studies. We would caution against selecting only the evidence from these older studies as a rationale for contemporary mass treatment programmes as this ignores the recent studies that have not shown benefit.\nThe conclusions of the 2015 edition have not changed in this update."
+    }
+  ],
+  "pls_title": "Deworming school children in low- and middle-income countries",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Cochrane researchers examined the effects of deworming children in areas where intestinal worm infection is common. After searching for relevant trials up to 19 September 2018, we included 50 trials with a total of 84,336 participants, and an additional trial of one million children."
+    },
+    {
+      "heading": "What is deworming and why might it be important",
+      "text": "Soil-transmitted worms, including roundworms, hookworms, and whipworms, are common in tropical and subtropical areas, and particularly affect children living in poverty where there is inadequate sanitation. The World Health Organization (WHO) currently recommends that school children in many areas are regularly treated with drugs which kill these worms. Some advocates claim such programmes improve child growth, haemoglobin, cognition, school attendance, school performance, physical fitness, and survival."
+    },
+    {
+      "heading": "What the research says",
+      "text": "In populations of children living in endemic areas, the effect of the first, single dose of deworming drugs on weight is unclear. There was little or no effect in most studies, except for a large effect detected from one study area in Kenya, reported in two trials carried out over 30 years ago in a school where children were heavily infected with worms. This causes uncertainty, which means we do not know if a first dose or single dose of deworming impacts on weight. For height, most studies showed little or no effect, with the exception of the site in Kenya. A single dose of deworming medicine probably has no effect on haemoglobin and cognition. There is insufficient data to know if there is an effect on school attendance, school performance, or physical fitness or mortality.\nIn studies where children were regularly treated with deworming medicine there was little or no effect on weight in all but two trials, irrespective of whether children were heavily infected with worms or not. The two trials with large average weight gains included the Kenya study carried out over 30 years ago, and one study from India carried out over 20 years ago in a low worm burden area where later studies in the same area did not show an effect. In trials from 2000 onwards, which are more relevant given the global reduction in worm burden, there is little or no effect. This causes uncertainty and means we do not know if regularly treating children with deworming medicine improves their weight. Regularly deworming children probably has no effect on height, haemoglobin, cognition, and mortality. We do not know if there is an impact on school attendance, since the evidence is inconsistent and at high risk of bias. There is insufficient data to know if there is an effect on physical fitness."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For public health programmes to regularly treat all children in endemic areas with deworming drugs, there is quite substantial evidence of no benefit in terms of haemoglobin, cognition, school performance, and mortality. For weight, contemporary studies do not show an effect, but unusually large effects were seen in studies over 20 years ago."
+    }
+  ]
+}

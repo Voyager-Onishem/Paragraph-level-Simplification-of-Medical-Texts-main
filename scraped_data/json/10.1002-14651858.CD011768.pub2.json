@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011768.pub2",
+  "name": "Educational interventions for improving primary caregiver complementary feeding practices for children aged 24 months and under ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Although complementary feeding is a universal practice, the methods and manner in which it is practiced vary between cultures, individuals and socioeconomic classes. The period of complementary feeding is a critical time of transition in the life of an infant, and inappropriate complementary feeding practices, with their associated adverse health consequences, remain a significant global public health problem. Educational interventions are widely acknowledged as effective in promoting public health strategy, and those aimed at improving complementary feeding practices provide information about proper complementary feeding practices to caregivers of infants/children. It is therefore important to summarise evidence on the effectiveness of educational interventions to improve the complementary feeding practices of caregivers of infants."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of educational interventions for improving the complementary feeding (weaning) practices of primary caregivers of children of complementary feeding age, and related health and growth outcomes in infants."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In November 2017, we searched CENTRAL, MEDLINE, Embase, 10 other databases and two trials registers. We also searched the reference lists of relevant studies and reviews to identify any additional studies. We did not limit the searches by date, language or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs), comparing educational interventions to no intervention, usual practice, or educational interventions provided in conjunction with another intervention, so long as the educational intervention was only available in the experimental group and the adjunctive intervention was available to the control group. Study participants included caregivers of infants aged 4 to 24 months undergoing complementary feeding. Pregnant women who were expected to give birth and commence complementary feeding during the period of the study were also included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data on participants, settings, interventions, methodology and outcomes using a specifically-developed and piloted data extraction form. We calculated risk ratios (RR) and 95% confidence intervals (CIs) for dichotomous data, and mean differences (MD) and 95% CIs for continuous data. Where data permitted, we conducted a meta-analysis using a random-effects model. We assessed the included studies for risk of bias and also assessed the quality of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 studies (from 35 reports) with a total of 11,170 caregiver-infant pairs who were randomly assigned to receive an educational intervention delivered to the caregiver or usual care. Nineteen of the included studies were community-based studies while four were facility-based studies. In addition, 13 of the included studies were cluster-randomised while the others were individually randomised. Generally, the interventions were focused on the introduction of complementary feeding at the appropriate time, the types and amount of complementary foods to be fed to infants, and hygiene. Using the GRADE criteria, we assessed the quality of the evidence as moderate, mostly due to inadequate allocation concealment and insufficient blinding.\nEducational interventions led to improvements in complementary feeding practices for age at introduction of complementary foods (average RR 0.88, 95% CI 0.83 to 0.94; 4 studies, 1738 children; moderate-quality evidence) and hygiene practices (average RR 1.38, 95% CI 1.23 to 1.55; 4 studies, 2029 participants; moderate-quality evidence). For duration of exclusive breastfeeding, pooled results were compatible with both a reduction and an increase in the outcome (average RR 1.58, 95% CI 0.77 to 3.22; 3 studies, 1544 children; very low-quality evidence). There was limited (low to very low-quality) evidence of an effect for all growth outcomes.\nQuality of evidence\nThere is moderate to very low-quality evidence that educational interventions can improve complementary feeding practices but insufficient evidence to conclude that it impacts growth outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, we found evidence that education improves complementary feeding practices."
+    }
+  ],
+  "pls_title": "Educational interventions for improving complementary feeding practices",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Complementary feeding is the period when an infant moves from taking only breast milk or breast-milk substitutes (such as infant formula) to family food. It is a critical period in the life of an infant. Inappropriate complementary feeding practices, with their associated adverse health consequences, remain a significant global public health problem. This is because inappropriate complementary feeding practices, such as introduction of semi-solid foods too early (before six months of age), poor hygiene or giving foods that do not contain adequate nutrients, are all major causes of illness. Such illnesses include malnutrition, diarrhoea, poor growth, infections and poor mental development of children. Education has been proposed as an effective means of improving complementary feeding practices."
+    },
+    {
+      "heading": "Review question",
+      "text": "Does education improve complementary feeding practices of caregivers of infants as well as the health and growth of the infants?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for randomised controlled trials (a type of experiment in which people are randomly allocated to one or more treatment groups) up until November 2017. The search identified 23 studies involving a total of 11,170 caregivers and their children. The ages of the children ranged from birth to 24 months. The caregivers received educational interventions alone while the control group received no intervention, usual care or any other non-educational intervention. The educational methods included printed materials such as leaflets, counselling, teaching sessions, peer support, videos and practical demonstrations. Generally, the education messages were focused on the introduction of semi-solid foods at the appropriate age, the types and amount of complementary foods to be fed to infants, and hygiene."
+    },
+    {
+      "heading": "Key results",
+      "text": "Education reduced the number of caregivers that introduced semi-solid foods to their infants before six months of age by up to 12% (moderate-quality evidence). Hygiene practices of caregivers who received education also showed some improvement compared to those that did not (moderate-quality evidence). In studies conducted in the community, education increased the duration of exclusive breastfeeding, but not in studies conducted in health facilities. There was no convincing evidence of an effect of education on the growth of children (low to very low-quality evidence). We could not combine the results from different studies for diarrhoea, knowledge of caregivers and adequacy of complementary food. However, from the individual reports of the study authors, education led to a reduction in diarrhoea and an improvement in the knowledge of caregivers. It also led to improvement in the quality and quantity of complementary foods fed to infants.\nOverall, we found evidence that education improves complementary feeding practices."
+    }
+  ]
+}

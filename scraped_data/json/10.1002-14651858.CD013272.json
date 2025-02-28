@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD013272",
+  "name": "Competitions for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Competitions might encourage people to undertake and/or reinforce behaviour change, including smoking cessation. Competitions involve individuals or groups having the opportunity to win a prize following successful cessation, either through direct competition or by entry into a lottery or raffle."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether competitions lead to higher long-term smoking quit rates. We also aimed to examine the impact on the population, the costs, and the unintended consequences of smoking cessation competitions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "This review has merged two previous Cochrane reviews. Here we include studies testing competitions from the reviews ‘Competitions and incentives for smoking cessation ' and ‘Quit & Win interventions for smoking cessation'. We updated the evidence by searching the Cochrane Tobacco Addiction Group Specialized Register in June 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomized controlled trials (RCTs), allocating individuals, workplaces, groups within workplaces, or communities to experimental or control conditions. We also considered controlled studies with baseline and post-intervention measures in which participants were assigned to interventions by the investigators. Participants were smokers, of any age and gender, in any setting. Eligible interventions were contests, competitions, lotteries, and raffles, to reward cessation and continuous abstinence in smoking cessation programmes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For this update, data from new studies were extracted independently by two review authors. The primary outcome measure was abstinence from smoking at least six months from the start of the intervention. We performed meta-analyses to pool study effects where suitable data were available and where the effect of the competition component could be separated from that of other intervention components, and report other findings narratively."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty studies met our inclusion criteria. Five investigated performance-based reward, where groups of smokers competed against each other to win a prize (N = 915). The remaining 15 used performance-based eligibility, where cessation resulted in entry into a prize draw (N = 10,580). Five of these used Quit & Win contests (N = 4282), of which three were population-level interventions. Fourteen studies were RCTs, and the remainder quasi-randomized or controlled trials. Six had suitable abstinence data for a meta-analysis, which did not show evidence of effectiveness of performance-based eligibility interventions (risk ratio (RR) 1.16, 95% confidence interval (CI) 0.77 to 1.74, N = 3201, I2 = 57%). No trials that used performance-based rewards found a beneficial effect of the intervention on long-term quit rates.\nThe three population-level Quit & Win studies found higher smoking cessation rates in the intervention group (4% to 16.9%) than the control group at long-term follow-up, but none were RCTs and all had important between-group differences in baseline characteristics. These studies suggested that fewer than one in 500 smokers would quit because of the contest.\nReported unintended consequences in all sets of studies generally related to discrepancies between self-reported smoking status and biochemically-verified smoking status. More serious adverse events were not attributed to the competition intervention.\nUsing the GRADE system we rated the overall quality of the evidence for smoking cessation as ‘very low', because of the high and unclear risk of bias associated with the included studies, substantial clinical and methodological heterogeneity, and the limited population investigated."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "At present, it is impossible to draw any firm conclusions about the effectiveness, or a lack of it, of smoking cessation competitions. This is due to a lack of well-designed comparative studies. Smoking cessation competitions have not been shown to enhance long-term cessation rates. The limited evidence suggesting that population-based Quit & Win contests at local and regional level might deliver quit rates above baseline community rates has not been tested adequately using rigorous study designs. It is also unclear whether the value or frequency of possible cash reward schedules influence the success of competitions. Future studies should be designed to compensate for the substantial biases in the current evidence base."
+    }
+  ],
+  "pls_title": "Do competitions help smokers to quit in the medium to long term?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "In competitions designed to help people to quit smoking, participants are encouraged to quit while also having the chance to win a reward if they are successful in doing so. Some contests allow groups of smokers to compete against each other directly, with the group in which the most smokers quit winning a prize. Alternatively, a person who quits smoking might be entered into a lottery to win a prize, such as cash payments, vouchers, salary bonuses, promotional items (t-shirts, pens or bags), holidays, or luxury goods (cars or boats). A particular type of stop smoking competition called the ‘Quit & Win' contest took place internationally until 2006."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review has merged studies from two previous reviews. One of the reviews was of competitions and incentives for quitting smoking. The studies that investigated incentives are now in a separate review. Here we include the studies which investigated competitions, alongside the studies originally included in our review of Quit & Win contests. We also searched for more recent relevant studies that were published up to June 2018. We include 20 studies of more than 11,000 participants that investigated competitions to encourage people to quit smoking. In five of these studies, groups of smokers recruited from workplaces competed directly against each other. In the other 15 studies, successful quitters were entered into prize draws."
+    },
+    {
+      "heading": "Key results and the quality of the evidence",
+      "text": "None of the studies in which groups of smokers competed against each other directly found that more people quit than in similar groups of smokers who were not entered into a competition. Combining the results of randomized controlled trials of lottery-type competitions, which provide the best evidence, did not show evidence that competitions increase rates of quitting smoking. Three Quit & Win contests did find that people who were in the contest had higher quit rates than people in a comparison community, who did not take part. However, these studies were of low quality and appeared to have very little effect on the overall smoking rates in the community, as fewer than one in 500 smokers appeared to quit because of the Quit & Win contest.\nFourteen of the 20 studies included were randomized controlled trials, but many of these did not describe their methods well enough for us to decide whether they were of high quality. Overall, we judged the quality of the evidence included in this review to be very low, so we can draw no strong conclusions from the findings. It is important that any future research in this area is designed to be of high quality and is reported in detail, so that we can increase the confidence we have in our findings."
+    }
+  ]
+}

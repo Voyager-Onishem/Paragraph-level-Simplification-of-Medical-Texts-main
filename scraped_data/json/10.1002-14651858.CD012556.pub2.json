@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012556.pub2",
+  "name": "Nivolumab for adults with Hodgkin's lymphoma (a rapid review using the software RobotReviewer)",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Hodgkin's lymphoma (HL) is a cancer of the lymphatic system, and involves the lymph nodes, spleen and other organs such as the liver, lung, bone or bone marrow, depending on the tumour stage. With cure rates of up to 90%, HL is one of the most curable cancers worldwide. Approximately 10% of people with HL will be refractory to initial treatment or will relapse; this is more common in people with advanced stage or bulky disease. Standard of care for these people is high-dose chemotherapy and autologous stem cell transplantation (ASCT), but only 55% of participants treated with high-dose chemotherapy and ASCT are free from treatment failure at three years, with an overall survival (OS) of about 80% at three years.\nCheckpoint inhibitors that target the interaction of the programmed death (PD)-1 immune checkpoint receptor, and its ligands PD-L1 and PD-L2, have shown remarkable activity in a wide range of malignancies. Nivolumab is an anti-(PD)-1 monoclonal antibody and currently approved by the US Food and Drug Administration (FDA) for the treatment of melanoma, non-small cell lung cancer, renal cell carcinoma and, since 2016, for classical Hodgkin's lymphoma (cHL) after treatment with ASCT and brentuximab vedotin."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of nivolumab in adults with HL (irrespective of stage of disease)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, International Pharmaceutical Abstracts, conference proceedings and six study registries from January 2000 to May 2018 for prospectively planned trials evaluating nivolumab."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included prospectively planned trials evaluating nivolumab in adults with HL. We excluded trials in which less than 80% of participants had HL, unless the trial authors provided the subgroup data for these participants in the publication or after we contacted the trial authors."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed potential risk of bias. We used the software RobotReviewer to extract data and compared results with our findings. As we did not identify any randomised controlled trials (RCTs) or non-RCTs, we did not meta-analyse data."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our search found 782 potentially relevant references. From these, we included three trials without a control group, with 283 participants. In addition, we identified 14 ongoing trials evaluating nivolumab, of which two are randomised. Risk of bias of the three included studies was moderate to high. All of the participants were in relapsed stage, most of them were heavily pretreated and had received at least two previous treatments, most of them had also undergone ASCT. As we did not identify any RCTs, we could not use the software RobotReviewer to assess risk of bias. The software identified correctly that one study was not an RCT and did not extract any trial data, but extracted characteristics of the other two studies (although also not RCTs) in a sufficient way.\nTwo studies with 260 participants evaluated OS. After six months, OS was 100% in one study and median OS (the timepoint when only 50% of participants were alive) was not reached in the other trial after a median follow-up of 18 months (interquartile range (IQR) 15 to 22 months) (very low certainty evidence, due to observational trial design, heterogenous patient population in terms of pretreatments and various follow-up times (downgrading by 1 point)). In one study, one out of three cohorts reported quality of life. It was unclear whether there was an effect on quality of life as only a subset of participants filled out the follow-up questionnaire (very low certainty evidence). Three trials (283 participants) evaluated progression-free survival (PFS) (very low certainty evidence). Six-month PFS ranged between 60% and 86%, and median PFS ranged between 12 and 18 months. All three trials (283 participants) reported complete response rates, ranging from 12% to 29%, depending on inclusion criteria and participants' previous treatments (very low certainty evidence).\nOne trial (243 participants) reported drug-related grade 3 or 4 adverse events (AEs) only after a median follow-up of 18 months (IQR 15 to 22 months); these were fatigue (23%), diarrhoea (15%), infusion reactions (14%) and rash (12%). The other two trials (40 participants) reported 23% to 52% grade 3 or 4 AEs after six months' follow-up (very low certainty evidence). Only one trial (243 participants) reported drug-related serious AEs; 2% of participants developed infusion reactions and 1% pneumonitis (very low certainty evidence).\nNone of the studies reported treatment-related mortality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "To date, data on OS, quality of life, PFS, response rate, or short- and long-term AEs are available from small uncontrolled trials only. The three trials included heavily pretreated participants, which had previously undergone regimens of BV or ASCT. For these participants, median OS was not reached after follow-up times of at least 16 months (more than 50% of participants with a limited life expectancy were alive at this timepoint). Only one cohort out of three only reported quality of life, with limited follow-up data so that meaningful conclusions were not possible. Serious adverse events occurred rarely. Currently, data are too sparse to make a clear statement on nivolumab for people with relapsed or refractory HL except for heavily pretreated people, which had previously undergone regimens of BV or ASCT. When interpreting these results, it is important to consider that proper RCTs should confirm these findings.\nAs there are 14 ongoing trials evaluating nivolumab, of which two are RCTs, it is possible that an update of this review will be published in the near future and that this update will show different results to those reported here."
+    }
+  ],
+  "pls_title": "Nivolumab for adults with Hodgkin's lymphoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Hodgkin's lymphoma (HL) is a cancer of the lymphatic system. As part of the immune system, the lymphatic system comprises a network of lymphatic vessels, which transport lymph throughout the body. Lymph is a fluid which contains white blood cells, that tackle infection. HL occurs in children and adults, but it is more common in the third decade of life. It is one of the most curable forms of cancer and up to 90% of people will be cured; however, approximately 10% of people with HL will relapse (the cancer will return). Treatment options are chemotherapy, radiotherapy, or both, or newly developed agents, called checkpoint inhibitors that target the cancer cell directly. Nivolumab is one checkpoint inhibitor and currently approved by the US Food and Drug Administration for the treatment of various cancers and relapsed HL after treatment with stem cell transplantation and brentuximab vedotin, which is a medicine used to treat cancer. In stem cell transplantation patients receive blood building cells, so called stem cells, which replace their own when they have been destroyed along the disease or previous therapy regimens."
+    },
+    {
+      "heading": "Review question",
+      "text": "This systematic review evaluated the benefits and harms of nivolumab for adults with Hodgkin's lymphoma."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched important medical databases for clinical trials assessing the benefits and harms of nivolumab in adults with HL. Two review authors independently screened, summarised and analysed the results. In addition, we tested the computer software RobotReviewer to extract data. Our search led to the inclusion of three studies involving 283 participants and 14 ongoing trials.\nThe evidence provided is current to May 2018."
+    },
+    {
+      "heading": "Key results",
+      "text": "Two studies with 260 participants evaluated survival. After six months, all participants were alive in one trial (17 participants). One trial reported quality of life for a subgroup of participants using a questionnaire but not all follow-up data were available. Although it seemed that the participants answering the questionnaire might have had a benefit, it was unclear whether this applied to all the participants. The studies also reported tumour control and tumour response, but with different results, depending on the treatment and how many previous treatments participants had received before nivolumab was given.\nAs nivolumab is given until the disease progresses (gets worse) or until unacceptable side effects occur, people receive the drug for a long time. Therefore, reporting of side effects is related to the time the person received the medicine, with potentially more side effects with longer usage. The most commonly reported side effects were fatigue (tiredness), diarrhoea (loose stools), infusion reactions (during or shortly after giving the medicine by a vein) and rash. Only one study reported medicine-related serious side effects. They occurred rarely (infusion reactions and lung disease). Deaths related to the medicine were not reported."
+    },
+    {
+      "heading": "Reliability of the evidence",
+      "text": "Due to the study design and varied type of participants with different numbers of previous treatments and various treatment options, the reliability of the evidence was low to very low."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "This systematic review evaluated the benefits and harms of nivolumab in adults with HL.\nData on survival, quality of life, tumour response and side effects were available from small trials only. The three trials included only people different previous treatment options, very often also with a previous stem cell transplantation. In one trial, all participants were alive after six months. Quality of life data were not reported for all the included participants; moreover, data after a long period of treatment were not available for all evaluated participants, therefore meaningful conclusions were not possible. Serious side effects occurred rarely. Currently, data are too sparse to make a clear statement on nivolumab for people with relapsed or refractory HL except for those who had received several treatments before. As there are currently 14 ongoing trials evaluating nivolumab, of which two are well designed, it is possible that an update of this review will be published in the near future and that this update will show different results to those reported here."
+    }
+  ]
+}

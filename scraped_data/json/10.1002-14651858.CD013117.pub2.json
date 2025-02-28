@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013117.pub2",
+  "name": "Ivermectin treatment in humans for reducing malaria transmission",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Malaria is transmitted through the bite of Plasmodium- infected adult female Anopheles mosquitoes. Ivermectin, an anti-parasitic drug, acts by killing mosquitoes that are exposed to the drug while feeding on the blood of people (known as blood feeds) who have ingested the drug. This effect on mosquitoes has been demonstrated by individual randomized trials. This effect has generated interest in using ivermectin as a tool for malaria control."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of community administration of ivermectin on malaria transmission."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group (CIDG) Specialized Register, CENTRAL, MEDLINE, Embase, LILACS, Science Citation index - expanded, the World Health Organization (WHO) International Clinical Trials Registry Platform, ClinicalTrials.gov, and the National Institutes of Health (NIH) RePORTER database to 14 January 2021.\nWe checked the reference lists of included studies for other potentially relevant studies, and contacted researchers working in the field for unpublished and ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cluster-randomized controlled trials (cRCTs) that compared ivermectin, as single or multiple doses, with a control treatment or placebo given to populations living in malaria-endemic areas, in the context of mass drug administration. Primary outcomes were prevalence of malaria parasite infection and incidence of clinical malaria in the community."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data on the number of events and the number of participants in each trial arm at the time of assessment. For rate data, we noted the total time at risk in each trial arm. To assess risk of bias, we used Cochrane's RoB 2 tool for cRCTs. We documented the method of data analysis, any adjustments for clustering or other covariates, and recorded the estimate of the intra-cluster correlation (ICC) coefficient.\nWe re-analysed the trial data provided by the trial authors to adjust for cluster effects. We used a Poisson mixed-effect model with small sample size correction, and a cluster-level analysis using the linear weighted model to adequately adjust for clustering."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one cRCT and identified six ongoing trials.\nThe included cRCT examined the incidence of malaria in eight villages in Burkina Faso, randomized to two arms. Both trial arms received a single dose of ivermectin 150 µg/kg to 200 µg/kg, together with a dose of albendazole. The villages in the intervention arm received an additional five doses of ivermectin, once every three weeks. Children were enrolled into an active cohort, in which they were repeatedly screened for malaria infection.\nThe primary outcome was the cumulative incidence of uncomplicated malaria in a cohort of children aged five years and younger, over the 18-week study. We judged the study to be at high risk of bias, as the analysis did not account for clustering or correlation between participants in the same village.\nThe study did not demonstrate an effect of Ivermectin on the cumulative incidence of uncomplicated malaria in the cohort of children over the 18-week study (risk ratio 0.86, 95% confidence interval (CI) 0.62 to 1.17; P = 0.2607; very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are uncertain whether community administration of ivermectin has an effect on malaria transmission, based on one trial published to date."
+    }
+  ],
+  "pls_title": "Malaria control using ivermectin",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if giving the drug ivermectin to entire communities could reduce malaria transmission. We examined all relevant studies to answer this question, and found one relevant study."
+    },
+    {
+      "heading": "Key messages",
+      "text": "It is not possible to say at this point if treating an entire community with ivermectin reduces malaria. Several research studies are in progress; we anticipate they will provide more answers in the future."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Malaria is a disease transmitted to humans through the bite of mosquitoes infected with Plasmodium parasites. It results in nearly half a million deaths every year. Ivermectin is a drug that is given to whole communities to control the parasites that are responsible for elephantiasis and river blindness. It has been observed that ivermectin can kill mosquitoes when they feed on the blood of people who have taken this medication. Therefore, it is believed that by giving this drug to whole communities, it will kill many mosquitoes, and could reduce malaria transmission.\nIn this review, we assessed whether treating entire communities with ivermectin would reduce malaria transmission. We looked for studies from different sources, and only included studies that took place in communities with malaria, and that randomly assigned groups of people to ivermectin or a control, which could be a placebo or standard community drug treatments. We wanted to know if the treatment influenced the occurrence of malaria in the community."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "One study met the inclusion criteria. This study included eight villages in Burkina Faso, which were randomly assigned to receive ivermectin or a control. All villages received ivermectin, as part of the scheduled control of lymphatic filariasis. In addition, the treatment villages received five more doses of ivermectin, once every three weeks. The effect of ivermectin on malaria was measured in children younger than five years of age. In these children, the treatment did not show a notable difference in the presence of malaria between the treatment and control groups (very low-certainty evidence).\nTherefore, it is not possible to say at this point if the treatment of entire communities with ivermectin has an effect on reducing malaria. Several studies are currently ongoing; we anticipate they will provide more answers in the future."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies published up to 14 January 2021."
+    }
+  ]
+}

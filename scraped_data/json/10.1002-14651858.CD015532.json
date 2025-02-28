@@ -1,0 +1,91 @@
+{
+  "doi": "10.1002/14651858.CD015532",
+  "name": "Early versus late tracheostomy in critically ill COVID‐19 patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The role of early tracheostomy as an intervention for critically ill COVID-19 patients is unclear. Previous reports have described prolonged intensive care stays and difficulty weaning from mechanical ventilation in critically ill COVID-19 patients, particularly in those developing acute respiratory distress syndrome. Pre-pandemic evidence on the benefits of early tracheostomy is conflicting but suggests shorter hospital stays and lower mortality rates compared to late tracheostomy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of early tracheostomy compared to late tracheostomy in critically ill COVID-19 patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register, which comprises CENTRAL, PubMed, Embase, ClinicalTrials.gov, WHO International Clinical Trials Registry Platform, and medRxiv, as well as Web of Science (Science Citation Index Expanded and Emerging Sources Citation Index) and WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies without language restrictions. We conducted the searches on 14 June 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We followed standard Cochrane methodology.\nWe included randomized controlled trials (RCTs) and non-randomized studies of interventions (NRSI) evaluating early tracheostomy compared to late tracheostomy during SARS-CoV-2 infection in critically ill adults irrespective of gender, ethnicity, or setting."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology.\nTo assess risk of bias in included studies, we used the Cochrane RoB 2 tool for RCTs and the ROBINS-I tool for NRSIs. We used the GRADE approach to assess the certainty of evidence for outcomes of our prioritized categories: mortality, clinical status, and intensive care unit (ICU) length of stay. As the timing of tracheostomy was very heterogeneous among the included studies, we applied GRADE only to studies that defined early tracheostomy as 10 days or less, which was chosen according to clinical relevance."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one RCT with 150 participants diagnosed with SARS-CoV-2 infection and 24 NRSIs with 6372 participants diagnosed with SARS-CoV-2 infection. All participants were admitted to the ICU, orally intubated and mechanically ventilated. The RCT was a multicenter, parallel, single-blinded study conducted in Sweden. Of the 24 NRSIs, which were mostly conducted in high- and middle-income countries, eight had a prospective design and 16 a retrospective design. We did not find any ongoing studies.\nRCT-based evidence\nWe judged risk of bias for the RCT to be of low or some concerns regarding randomization and measurement of the outcome.\nEarly tracheostomy may result in little to no difference in overall mortality (RR 0.82, 95% CI 0.52 to 1.29; RD 67 fewer per 1000, 95% CI 178 fewer to 108 more; 1 study, 150 participants; low-certainty evidence).\nAs an indicator of improvement of clinical status, early tracheostomy may result in little to no difference in duration to liberation from invasive mechanical ventilation (MD 1.50 days fewer, 95%, CI 5.74 days fewer to 2.74 days more; 1 study, 150 participants; low-certainty evidence).\nAs an indicator of worsening clinical status, early tracheostomy may result in little to no difference in the incidence of adverse events of any grade (RR 0.94, 95% CI 0.79 to 1.13; RD 47 fewer per 1000, 95% CI 164 fewer to 102 more; 1 study, 150 participants; low-certainty evidence); little to no difference in the incidence of ventilator-associated pneumonia (RR 1.08, 95% CI 0.23 to 5.20; RD 3 more per 1000, 95% CI 30 fewer to 162 more; 1 study, 150 participants; low-certainty evidence). None of the studies reported need for renal replacement therapy.\nEarly tracheostomy may result in little benefit to no difference in ICU length of stay (MD 0.5 days fewer, 95% CI 5.34 days fewer to 4.34 days more; 1 study, 150 participants; low-certainty evidence).\nNRSI-based evidence\nWe considered risk of bias for NRSIs to be critical because of possible confounding, study participant enrollment into the studies, intervention classification and potentially systematic errors in the measurement of outcomes.\nWe are uncertain whether early tracheostomy (≤ 10 days) increases or decreases overall mortality (RR 1.47, 95% CI 0.43 to 5.00; RD 143 more per 1000, 95% CI 174 less to 1218 more; I2 = 79%; 2 studies, 719 participants) or duration to liberation from mechanical ventilation (MD 1.98 days fewer, 95% CI 0.16 days fewer to 4.12 more; 1 study, 50 participants), because we graded the certainty of evidence as very low.\nThree NRSIs reported ICU length of stay for 519 patients with early tracheostomy (≤ 10 days) as a median value, which we could not include in the meta-analyses. We are uncertain whether early tracheostomy (≤ 10 days) increases or decreases the ICU length of stay, because we graded the certainty of evidence as very low."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found low-certainty evidence that early tracheostomy may result in little to no difference in overall mortality in critically ill COVID-19 patients requiring prolonged mechanical ventilation compared with late tracheostomy. In terms of clinical improvement, early tracheostomy may result in little to no difference in duration to liberation from mechanical ventilation compared with late tracheostomy. We are not certain about the impact of early tracheostomy on clinical worsening in terms of the incidence of adverse events, need for renal replacement therapy, ventilator-associated pneumonia, or the length of stay in the ICU.\nFuture RCTs should provide additional data on the benefits and harms of early tracheostomy for defined main outcomes of COVID-19 research, as well as of comparable diseases, especially for different population subgroups to reduce clinical heterogeneity, and report a longer observation period. Then it would be possible to draw conclusions regarding which patient groups might benefit from early intervention. Furthermore, validated scoring systems for more accurate predictions of the need for prolonged mechanical ventilation should be developed and used in new RCTs to ensure safer indication and patient safety.\nHigh-quality (prospectively registered) NRSIs should be conducted in the future to provide valuable answers to clinical questions.\nThis could enable us to draw more reliable conclusions about the potential benefits and harms of early tracheostomy in critically ill COVID-19 patients."
+    }
+  ],
+  "pls_title": "Is early or late tracheostomy more effective in critically ill COVID-19 patients who are expected to require long-term artificial ventilation?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• For adults hospitalized with COVID-19 on mechanical ventilators, performing an early tracheostomy (where doctors cut through the skin into the trachea (windpipe) to insert a breathing tube) before 10 days after starting ventilation, may have little or no effect on deaths and the time patients spend on a ventilator compared with late tracheostomy, performed 10 days or more after starting ventilation.\n• We are uncertain whether early tracheostomy improves or worsens patients’ condition or shortens their intensive care unit stay.\n• Researchers should agree on key outcomes to be used in COVID-19 research; future research should focus on well-designed studies with robust methods. We could then draw stronger conclusions about the best timing for tracheostomy in critically ill COVID-19 patients."
+    },
+    {
+      "heading": "What is a tracheostomy?",
+      "text": "A tracheostomy is a procedure where doctors cut through the skin into the trachea (windpipe) to insert a breathing tube. Breathing then takes place completely through this tube. Tracheostomies are performed on patients who require long-term ventilation in order to make ventilation easier and provide a safe airway access directly to the trachea. Compared to a breathing tube through the mouth, a tracheostomy tube offers less resistance to airflow. This can help to reduce the work of breathing and make weaning from mechanical ventilation easier. However, tracheostomies can also lead to complications. There is a risk of infection at the tracheostomy site. Prolonged placement of a tracheostomy tube can lead to obstruction of the windpipe. This can obstruct the flow of air and lead to breathing difficulties.\nTracheostomies may be performed 'early' or 'late' during ventilation. 'Early' is often defined as during the first 10 days of ventilation and 'late' as 10 days or more after ventilation started."
+    },
+    {
+      "heading": "What is the link between tracheostomy and COVID-19?",
+      "text": "Most patients with severe COVID-19 need help with breathing. In some cases, this means long-term mechanical ventilation, so tracheostomy may be advised. In these patients, a tracheostomy can be associated with serious complications for both the patient and the caregiver. Patients with COVID-19 already have a higher risk of additional infections because their immune system is weakened. The tracheostomy can bring an additional risk of infection. These patients often have a higher risk of bleeding. Bleeding complications can happen during a tracheostomy. Doctors and nursing staff are at increased risk of becoming infected with the virus during the procedure.\nTo date, there are no universal recommendations for the best time to perform a tracheostomy for these patients."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out the effects of early tracheostomy in very ill COVID-19 patients on:\n• death from any cause;\n• whether patients got better after treatment, measured by how long they spent on a ventilator;\n• whether patients' condition worsened so that they developed unwanted effects, such as lung infections; and\n• how long they stayed in the intensive care unit."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated the performance of early tracheostomy compared to late tracheostomy in hospitalized adults with COVID-19.\nWe compared and summarized their results, and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 1 good-quality study with 150 people, and 24 lower-quality studies with 6372 people. Patients’ average age was 62 years. Studies took place around the world, mainly in high- and upper-middle-income countries. All studies compared early with late tracheostomy but defined early and late differently. Early tracheostomy was defined at 7, 10, 12, 14 and 21 days after the start of mechanical ventilation. We selected up to 10 days for early tracheostomy and after 10 days as late. This was the time used by the good-quality study and in 6 of the other studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found the following results from 1 study with 150 people."
+    },
+    {
+      "heading": "Deaths",
+      "text": "early tracheostomy may result in little to no difference to deaths from any cause. Of 1000 people, 67 fewer die when a tracheostomy is performed early."
+    },
+    {
+      "heading": "Did patients get better with early tracheostomy?",
+      "text": "Early tracheostomy may result in little to no effect on how long patients spend on a ventilator."
+    },
+    {
+      "heading": "Did patients get worse with early tracheostomy?",
+      "text": "Early tracheostomy may result in little to no difference in the number of patients:\n• with any unwanted effect; or\n• with ventilator-related lung infections."
+    },
+    {
+      "heading": "How long did patients have to stay in the intensive care unit?",
+      "text": "Early tracheostomy may result in little benefit to no difference in the length of time patients spend in the intensive care unit."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence is very limited, because we found only 1 good-quality study with few participants. The other, less robust studies, performed tracheostomies at very different time points and measured and reported their results inconsistently."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up-to-date to 14 June 2022."
+    }
+  ]
+}

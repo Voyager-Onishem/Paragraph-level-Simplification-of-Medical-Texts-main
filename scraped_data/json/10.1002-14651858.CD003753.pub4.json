@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003753.pub4",
+  "name": "Albendazole alone or in combination with microfilaricidal drugs for lymphatic filariasis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The Global Programme to Eliminate Lymphatic Filariasis recommends mass treatment of albendazole co-administered with the microfilaricidal (antifilarial) drugs diethylcarbamazine (DEC) or ivermectin; and recommends albendazole alone in areas where loiasis is endemic."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of albendazole alone, and the effects of adding albendazole to DEC or ivermectin, in people and communities with lymphatic filariasis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE (PubMed), Embase (OVID), LILACS (BIREME), and reference lists of included trials. We also searched the World Health Organization (WHO) International Clinical Trials Registry Platform and ClinicalTrials.gov to identify ongoing trials. We performed all searches up to 15 January 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and cluster-RCTs that compared albendazole to placebo or no placebo, or compared albendazole combined with a microfilaricidal drug to a microfilaricidal drug alone, given to people known to have lymphatic filariasis or communities where lymphatic filariasis was known to be endemic. We sought data on measures of transmission potential (microfilariae (mf) prevalence and density); markers of adult worm infection (antigenaemia prevalence and density, and adult worm prevalence detected by ultrasound); and data on clinical disease and adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently assessed the trials, evaluated the risks of bias, and extracted data. The main analysis examined albendazole overall, whether given alone or added to a microfilaricidal drug. We used data collected from all randomized individuals at time of longest follow-up (up to 12 months) for meta-analysis of outcomes. We evaluated mf density data up to six months and at 12 months follow-up to ensure that we did not miss any subtle temporal effects. We conducted additional analyses for different follow-up periods and whether trials reported on individuals known to be infected or both infected and uninfected. We analysed dichotomous data using the risk ratio (RR) with a 95% confidence interval (CI). We could not meta-analyse data on parasite density outcomes and we summarized them in tables. Where data were missing, we contacted trial authors. We used GRADE to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 13 trials (12 individually-randomized and one small cluster-randomized trial) with 8713 participants in total. No trials evaluated population-level effects of albendazole in mass drug administration programmes. Seven trials enrolled people with a variety of inclusion criteria related to filarial infection, and six trials enrolled individuals from endemic areas. Outcomes were reported as end or change values. Mf and antigen density data were reported using the geometric mean, log mean and arithmetic mean, and reductions in density were variously calculated. Two trials discounted any increases in mf density in individuals at follow-up by setting any density increase to zero.\nFor mf prevalence over two weeks to 12 months, albendazole alone or added to another microfilaricidal drug makes little or no difference (RR 0.95, 95% CI 0.85 to 1.07; 5027 participants, 12 trials, high-certainty evidence). For mf density there is no trend, with some trials reporting a greater reduction in mf density with albendazole and others a greater reduction with the control group. For mf density up to six months and at 12 months, we do not know if albendazole has an effect (one to six months: 1216 participants, 10 trials, very low-certainty evidence; at 12 months: 1052 participants, 9 trials, very low-certainty evidence).\nFor antigenaemia prevalence between six to 12 months, albendazole alone or added to another microfilaricidal drug makes little or no difference (RR 1.04, 95% CI 0.97 to 1.12; 3774 participants, 7 trials, high-certainty evidence). For antigen density over six to 12 months, the trend shows little or no effect of albendazole; but we do not know if albendazole has an effect on antigen density (1374 participants, 5 trials, very low-certainty evidence). For adult worm prevalence detected by ultrasound at 12 months, albendazole added to a microfilaricidal drug may make little or no difference (RR 1.16, 95% CI 0.72 to 1.86; 165 participants, 3 trials, low-certainty evidence).\nFor people reporting adverse events, albendazole makes little or no difference (RR 0.97, 95% CI 0.84 to 1.13; 2894 participants, 6 trials, high-certainty evidence).\nWe also provide meta-analyses and GRADE tables by drug, as operationally this may be of interest: for albendazole versus placebo (4 trials, 1870 participants); for albendazole with DEC compared to DEC alone (8 trials, 3405 participants); and albendazole with ivermectin compared to ivermectin alone (4 trials, 3438 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is good evidence that albendazole makes little difference to clearing microfilaraemia or adult filarial worms in the 12 months post-treatment. This finding is consistent in trials evaluating albendazole alone, or added to DEC or ivermectin. Trials reporting mf density included small numbers of participants, calculated density data variously, and gave inconsistent results.\nThe review raises questions over whether albendazole has any important contribution to the elimination of lymphatic filariasis. To inform policy for areas with loiasis where only albendazole can be used, it may be worth conducting placebo-controlled trials of albendazole alone."
+    }
+  ],
+  "pls_title": "Albendazole alone or in combination with microfilaricidal drugs for lymphatic filariasis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "In this Cochrane Review, Cochrane researchers examined the effects of using albendazole alone and albendazole added to antifilarial drugs to treat infected people and people who live in areas with lymphatic filariasis. After searching for relevant trials up to January 2018, we included 13 randomized controlled trials (RCTs), including one cluster-RCT, with a total of 8713 participants."
+    },
+    {
+      "heading": "Lymphatic filariasis",
+      "text": "Lymphatic filariasis, a disease common in tropical and subtropical areas, is spread by mosquitoes and caused by infection with parasitic filarial worms. After a person is infected from a mosquito bite, the worms grow into adults and mate to produce microfilariae (mf). The mf circulate in the blood so they can be collected by mosquitoes, and the infection can be spread to another person. Infection can be diagnosed by checking for the presence of circulating mf (microfilaraemia) or parasite antigens (antigenaemia), or by ultrasound imaging to detect live adult worms.\nThe World Health Organization (WHO) recommends mass treatment of entire populations once a year for many years. Treatment is a two-drug combination of albendazole and a microfilaricidal (antifilarial) drug, either diethycarbamazine (DEC) or ivermectin. Albendazole alone is recommended for people when DEC or ivermectin can not be used."
+    },
+    {
+      "heading": "What the research says",
+      "text": "Albendazole alone or added to a microfilaricidal drug makes little or no difference to mf prevalence over two weeks to 12 months after treatment (high-certainty evidence), but we do not know if albendazole alone or in combination reduces mf density between one to six months (very low-certainty evidence) or at 12 months (very low-certainty evidence).\nTreatment with albendazole alone or added to a microfilaricidal drug makes little or no difference to antigenaemia prevalence between six to 12 months (high-certainty evidence). We do not know if albendazole alone or in combination reduces antigen density over six to 12 months (very low-certainty evidence). Albendazole added to a microfilaricidal drug may make little or no difference to adult worm prevalence detected by ultrasound at 12 months (low-certainty evidence).\nWhen given alone or added to a microfilaricidal drug, albendazole makes little or no difference to the number of people reporting an adverse event (high-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is good evidence that albendazole, alone or added to DEC or ivermectin, delivers little or no benefit for totally clearing the mf or the adult worms up to 12 months after treatment. Evidence for an effect of albendazole in reducing the numbers of mf and adult worms is inconsistent. To inform policy for areas where ivermectin and DEC can not be given, further research could help determine whether there is any effect of albendazole alone."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012765",
+  "name": "Low‐level laser therapy for carpal tunnel syndrome",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The role of low-level laser therapy (LLLT) in the management of carpal tunnel syndrome (CTS) is controversial. While some trials have shown distinct advantages of LLLT over placebo and some other non-surgical treatments, other trials have not."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of LLLT versus placebo and versus other non-surgical interventions in the management of CTS."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 9 December 2016 we searched CENTRAL, MEDLINE, Embase, and Science Citation Index Expanded for randomised controlled trials (RCTs). We also searched clinical trial registries for ongoing studies. We checked the references of primary studies and review articles, and contacted trial authors for additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion RCTs (irrespective of blinding, publication status or language) comparing LLLT versus placebo or non-surgical treatment for the management of CTS."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently identified trials for inclusion and extracted the data. For continuous outcomes, we calculated the mean difference (MD) or standardised mean difference (SMD) with a 95% confidence interval (CI) using the random-effects model, calculated using Review Manager. For dichotomous data, we reported risk ratio (RR) and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 22 trials randomising 1153 participants that were eligible for inclusion; nine trials (525 participants, 256 randomised to LLLT) compared LLLT with placebo, two (150 participants, 75 randomised to LLLT) compared LLLT with ultrasound, one compared LLLT with placebo and LLLT with ultrasound, two compared LLLT with steroid injection, and one trial each compared LLLT with other non-surgical interventions: fascial manipulation, application of a pulsed magnetic field, transcutaneous electrical nerve stimulation (TENS), steroid injection, tendon gliding exercises, and applying a wrist splint combined with non-steroidal anti-inflammatory drugs. Three studies compared LLLT as part of multiple interventions. Risk of bias varied across the studies, but was high or unclear in most assessed domains in most studies. Most studies were small, with few events, and effect estimates were generally imprecise and inconsistent; the combination of these factors led us to categorise the quality of evidence for most outcomes as very low or, for a small number, low.\nAt short-term follow-up (less than three months), there was very low-quality evidence for any effect over placebo of LLLT on CTS for the primary outcome of Symptom Severity Score (scale 1 to 5, higher score represents worsening; MD -0.36, 95% CI -0.78 to 0.06) or Functional Status Scale (scale 1 to 5, higher score represents worsened disability; MD -0.56, 95% CI -1.03 to -0.09). At short-term (less than three months) follow-up, we are uncertain whether LLLT results in a greater improvement than placebo in visual analogue score (VAS) pain (scale 0 to 10, higher score represents worsening; MD -1.47, 95% CI -2.36 to -0.58) and several aspects of nerve conduction studies (motor nerve latency: higher score represents worsening; MD -0.09 ms, 95% CI -0.16 to -0.03; range 3.1 ms to 4.99 ms; sensory nerve latency: MD -0.10 ms, 95% CI -0.15 to -0.06; range 1.8 ms to 3.9 ms), as the quality of the evidence was very low. When compared with placebo at short-term follow-up, LLLT may slightly improve grip strength (MD 2.58 kg, 95% CI 1.22 to 3.95; range 14.2 kg to 25.23 kg) and finger-pinch strength (MD 0.94 kg, 95% CI 0.43 to 1.44; range 4.35 kg to 5.7 kg); however, the quality of evidence was low. Only VAS pain and finger-pinch strength results reached the minimal clinically important difference (MCID) as previously published.\nWe are uncertain about the effect of LLLT in comparison to ultrasound at short-term follow-up for improvement in VAS pain (MD 2.81, 95% CI 1.21 to 4.40) and motor nerve latency (MD 0.61 ms, 95% CI 0.27 to 0.95), as the quality of evidence was very low. When compared with ultrasound at short-term follow-up, LLLT may result in slightly less improvement in finger-pinch strength (MD -0.71 kg, 95% CI -0.94 to -0.49) and motor nerve amplitude (MD -1.90 mV, 95% CI -3.63 to -0.18; range 7.10 mV to 9.70 mV); however, the quality of evidence was low.\nThere was insufficient evidence to assess the long-term benefits of LLLT versus placebo or ultrasound. There was insufficient evidence to show whether LLLT is better or worse in the management of CTS than other non-surgical interventions. For all outcomes reported within these other comparisons, the quality of evidence was very low.\nThere was insufficient evidence to assess adverse events, as only one study reported this outcome."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence is of very low quality and we found no data to support any clinical effect of LLLT in treating CTS. Only VAS pain and finger-pinch strength met previously published MCIDs but these are likely to be overestimates of effect given the small studies and significant risk of bias. There is low or very low-quality evidence to suggest that LLLT is less effective than ultrasound in the management of CTS based on short-term, clinically significant improvements in pain and finger-pinch strength.\nThere is insufficient evidence to support LLLT being better or worse than any other type of non-surgical treatment in the management of CTS. Any further research of LLLT should be definitive, blinded, and of high quality."
+    }
+  ],
+  "pls_title": "Laser therapy for carpal tunnel syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of low-level laser therapy (LLLT) for the treatment of carpal tunnel syndrome (CTS) when compared to inactive treatment or other non-surgical treatments? What are the short-term and long-term benefits? Are there any harmful effects?"
+    },
+    {
+      "heading": "Background",
+      "text": "CTS is a condition where one of the main nerves in the wrist is compressed. The underlying cause is often unknown. CTS can cause pain, tingling, and numbness in the hand. It is more common as we age and women are more often affected than men. CTS can be treated with surgery, but this is not without risk. For people who do not wish to have surgery, or have a long wait until their operation, other treatments are available. LLLT is one of the non-surgical treatments available to manage CTS. Use of LLLT is controversial, as some research has shown it to be of benefit whereas other research has not."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to December 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We collected and analysed all relevant studies to answer the review question. We found 22 clinical trials that assessed the safety and benefit of LLLT when compared to a placebo (pretend treatment) or another non-surgical treatment for CTS. Non-surgical treatments included ultrasound (delivery of sound waves to relieve pain), fascial manipulation (massage of deep connective tissue), application of a pulsed magnetic field, transcutaneous electrical nerve stimulation (TENS; delivery of electrical current through skin to nerves), steroid injection, tendon gliding exercises (to improve the movement of the nerve), and applying a wrist splint combined with non-steroidal anti-inflammatory drugs (pain killers that reduce inflammation). The trials involved 1153 participants. Most of these studies had weaknesses that could have compromised their results and caused them to overestimate or underestimate benefits or harms."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We assessed the quality of the evidence as low quality or very low quality, due to poorly conducted studies, issues with study designs including lack of blinding (participants or assessor may have known which treatment was given and thereby anticipated the results), dissimilar results across studies, and not enough participants and therefore data."
+    },
+    {
+      "heading": "Key results",
+      "text": "We are uncertain whether LLLT improves symptoms of CTS more than placebo in the short term as the quality of the evidence is very low. Similarly, we are uncertain whether LLLT is less effective than ultrasound treatment in the short term as the quality of evidence Is very low. We do not know whether LLLT is better or worse than any other non-surgical treatment as evidence is lacking. There is also not enough evidence to draw any conclusions about any long-term benefits or harms of LLLT. There is not enough evidence to draw any conclusions about the adverse events a participant may experience from using LLLT. We need more well-designed, well-conducted research to find out how effective and safe LLLT is in the management of CTS."
+    }
+  ]
+}

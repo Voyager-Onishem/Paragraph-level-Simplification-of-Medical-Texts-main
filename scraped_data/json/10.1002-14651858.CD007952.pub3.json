@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD007952.pub3",
+  "name": "Incentives and enablers to improve adherence in tuberculosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Patient adherence to medications, particularly for conditions requiring prolonged treatment such as tuberculosis (TB), is frequently less than ideal and can result in poor treatment outcomes. Material incentives to reward good behaviour and enablers to remove economic barriers to accessing care are sometimes given in the form of cash, vouchers, or food to improve adherence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of material incentives and enablers in patients undergoing diagnostic testing, or receiving prophylactic or curative therapy, for TB."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We undertook a comprehensive search of the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; Science Citation Index; and reference lists of relevant publications up to 5 June 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of material incentives in patients being investigated for TB, or on treatment for latent or active TB."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently screened and selected studies, extracted data, and assessed the risk of bias in the included trials. We compared the effects of interventions using risk ratios (RR), and presented RRs with 95% confidence intervals (CI). The quality of the evidence was assessed using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 12 eligible trials. Ten were conducted in the USA: in adolescents (one trial), in injection drug or cocaine users (four trials), in homeless adults (three trials), and in prisoners (two trials). The remaining two trials, in general adult populations, were conducted in Timor-Leste and South Africa.\nSustained incentive programmes\nOnly two trials have assessed whether material incentives and enablers can improve long-term adherence and completion of treatment for active TB, and neither demonstrated a clear benefit (RR 1.04, 95% CI 0.97 to 1.14; two trials, 4356 participants; low quality evidence). In one trial, the incentive, given as a daily hot meal, was not well received by the population due to the inconvenience of attending the clinic at midday, whilst in the other trial, nurses distributing the vouchers chose to \"ration\" their distribution among eligible patients, giving only to those whom they felt were most deprived.\nThree trials assessed the effects of material incentives and enablers on completion of TB prophylaxis with mixed results (low quality evidence). A large effect was seen with regular cash incentives given to drug users at each clinic visit in a setting with extremely low treatment completion in the control group (treatment completion 52.8% intervention versus 3.6% control; RR 14.53, 95% CI 3.64 to 57.98; one trial, 108 participants), but no effects were seen in one trial assessing a cash incentive for recently released prisoners (373 participants), or another trial assessing material incentives offered by parents to teenagers (388 participants).\nSingle once-only incentives\nHowever in specific populations, such as recently released prisoners, drug users, and the homeless, trials show that material incentives probably do improve one-off clinic re-attendance for initiation or continuation of anti-TB prophylaxis (RR 1.58, 95% CI 1.27 to 1.96; three trials, 595 participants; moderate quality evidence ), and may increase the return rate for reading of tuberculin skin test results (RR 2.16, 95% CI 1.41 to 3.29; two trials, 1371 participants; low quality evidence ).\nComparison of different types of incentives\nSingle trials in specific sub-populations suggest that an immediate cash incentive may be more effective than delaying the incentive until completion of treatment (RR 1.11, 95% CI 0.98 to 1.24; one trial, 300 participants; low quality evidence ), cash incentives may be more effective than non-cash incentives (completion of TB prophylaxis: RR 1.26, 95% CI 1.02 to 1.56; one trial, 141 participants; low quality evidence ; return for skin test reading: RR 1.13, 95% CI 1.07 to 1.19; one trial, 652 participants; low quality evidence ); and higher cash incentives may be more effective than lower cash incentives (RR 1.08, 95% CI 1.01 to 1.16; one trial, 404 participants; low quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Material incentives and enablers may have some positive short term effects on clinic attendance, particularly for marginal populations such as drug users, recently released prisoners, and the homeless, but there is currently insufficient evidence to know if they can improve long term adherence to TB treatment."
+    }
+  ],
+  "pls_title": "Incentives and enablers for improving patient adherence to tuberculosis diagnosis, prophylaxis, and treatment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Cochrane researchers conducted a review of the effects of material (economic) incentives or enablers on the adherence and outcomes of patients being tested or treated for latent or active tuberculosis (TB). After searching up to 5 June 2015 for relevant trials, they included 12 randomized controlled trials in this Cochrane review."
+    },
+    {
+      "heading": "What are material incentives and enablers and how might they improve patient care?",
+      "text": "Material incentives and enablers are economic interventions which may be given to patients to reward healthy behaviour (incentives) or remove economic barriers to accessing healthcare (enablers). Incentives and enablers may be given directly as cash or vouchers, or indirectly in the provision of a service for which the patient might otherwise have to pay (like transport to a health facility)."
+    },
+    {
+      "heading": "What the research says",
+      "text": "Material incentives and enablers may have little or no effect in improving the outcomes of patients on treatment for active TB (low quality evidence), but further trials of alternative incentives and enablers are needed.\nMaterial incentives and enablers may have some effects on completion of prophylaxis for latent TB in some circumstances but trial results were mixed, with one trial showing a large effect, and two trials showing no effect (low quality evidence).\nOne-off material incentives and enablers probably improve rates of return to a single clinic appointment for patients starting or continuing prophylaxis for TB (moderate quality evidence ) and may improve the rate of return to the clinic for the reading of diagnostic tests for TB (low quality evidence).\nThus although material incentives and enablers may improve some patients' attendance at the clinic in the short term, more research is needed to determine if they have an important positive effect in patients on long term treatment for TB."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000007.pub3",
+  "name": "Individual participant data meta‐analyses compared with meta‐analyses based on aggregate data ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Meta-analyses based on individual participant data (IPD-MAs) allow more powerful and uniformly consistent analyses as well as better characterisation of subgroups and outcomes, compared to those which are based on aggregate data (AD-MAs) extracted from published trial reports. However, IPD-MAs are a larger undertaking requiring greater resources than AD-MAs. Researchers have compared results from IPD-MA against results obtained from AD-MA and reported conflicting findings. We present a methodology review to summarise this empirical evidence ."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review systematically empirical comparisons of meta-analyses of randomised trials based on IPD with those based on AD extracted from published reports, to evaluate the level of agreement between IPD-MA and AD-MA and whether agreement is affected by differences in type of effect measure, trials and participants included within the IPD-MA and AD-MA, and whether analyses were undertaken to explore the main effect of treatment or a treatment effect modifier."
+    },
+    {
+      "heading": "Search methods",
+      "text": "An electronic search of the Cochrane Library (includes Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effectiveness, CENTRAL, Cochrane Methodology Register, HTA database, NHS Economic Evaluations Database), MEDLINE, and Embase was undertaken up to 7 January 2016. Potentially relevant articles that were known to any of the review authors and reference lists of retrieved articles were also checked."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies reporting an empirical comparison of the results of meta-analyses of randomised trials using IPD with those using AD. Studies were included if sufficient numerical data, comparing IPD-MA and AD-MA, were available in their reports."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened the title and abstract of identified studies with full-text publications retrieved for those identified as eligible or potentially eligible. A ‘quality’ assessment was done and data were extracted independently by two review authors with disagreements resolved by involving a third author. Data were summarised descriptively for comparisons where an estimate of effect measure and corresponding precision have been provided both for IPD-MA and for AD-MA in the study report. Comparisons have been classified according to whether identical effect measures, identical trials and patients had been used in the IPD-MA and the AD-MA, and whether the analyses were undertaken to explore the main effect of treatment, or to explore a potential treatment effect modifier.\nEffect measures were transformed to a standardised scale (z scores) and scatter plots generated to allow visual comparisons. For each comparison, we compared the statistical significance (at the 5% two-sided level) of an IPD-MA compared to the corresponding AD-MA and calculated the number of discrepancies. We examined discrepancies by type of analysis (main effect or modifier) and according to whether identical trials, patients and effect measures had been used by the IPD-MA and AD-MA. We calculated the average of differences between IPD-MA and AD-MA (z scores, ratio effect estimates and standard errors (of ratio effects)) and 95% limits of agreement."
+    },
+    {
+      "heading": "Main results",
+      "text": "From the 9330 reports found by our searches, 39 studies were eligible for this review with effect estimate and measure of precision extracted for 190 comparisons of IPD-MA and AD-MA. We classified the quality of studies as ‘no important flaws’ (29 (74%) studies) or ‘possibly important flaws’ (10 (26%) studies).\nA median of 4 (interquartile range (IQR): 2 to 6) comparisons were made per study, with 6 (IQR 4 to 11) trials and 1225 (542 to 2641) participants in IPD-MAs and 7 (4 to 11) and 1225 (705 to 2541) for the AD-MAs. One hundred and forty-four (76%) comparisons were made on the main treatment effect meta-analysis and 46 (24%) made using results from analyses to explore treatment effect modifiers.\nThere is agreement in statistical significance between the IPD-MA and AD-MA for 152 (80%) comparisons, 23 of which disagreed in direction of effect. There is disagreement in statistical significance for 38 (20%) comparisons with an excess proportion of IPD-MA detecting a statistically significant result that was not confirmed with AD-MA (28 (15%)), compared with 10 (5%) comparisons with a statistically significant AD-MA that was not confirmed by IPD-MA. This pattern of disagreement is consistent for the 144 main effect analyses but not for the 46 comparisons of treatment effect modifier analyses. Conclusions from some IPD-MA and AD-MA differed even when based on identical trials, participants (but not necessarily identical follow-up) and treatment effect measures. The average difference between IPD-MA and AD-MA in z scores, ratio effect estimates and standard errors is small but limits of agreement are wide and include important differences in both directions. Discrepancies between IPD-MA and AD-MA do not appear to increase as the differences between trials and participants increase."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "IPD offers the potential to explore additional, more thorough, and potentially more appropriate analyses compared to those possible with AD. But in many cases, similar results and conclusions can be drawn from IPD-MA and AD-MA. Therefore, before embarking on a resource-intensive IPD-MA, an AD-MA should initially be explored and researchers should carefully consider the potential added benefits of IPD."
+    }
+  ],
+  "pls_title": "Meta-analysis using individual participant data or summary aggregate data",
+  "pls_type": "long",
+  "pls": "Meta-analysis is a statistical technique to combine results from separate research studies. A meta-analysis can be performed using summary data published in a study report, referred to as aggregate data (AD), or using data collected on each individual participant in the study, referred to as individual participant data (IPD). A meta-analysis of individual participant data (IPD-MA) can take longer and be more expensive than a meta-analysis of aggregate data (AD-MA), but the IPD-MA can be more reliable and can answer much more detailed questions than an AD-MA.\nWe searched for studies, published up to 7 January 2016, that compared results of IPD-MA with AD-MA. We found that four times out of five, similar conclusions can be drawn, but in one out of five cases the two different types of meta-analyses gave different results and conclusions. As we could not reliably identify when an IPD-MA and AD-MA will differ most using these studies, we recommend that an AD-MA should be done first before doing an IPD-MA. If there are shortcomings with the AD-MA, researchers should then consider the possible benefits of IPD whilst remembering the extra work involved."
+}

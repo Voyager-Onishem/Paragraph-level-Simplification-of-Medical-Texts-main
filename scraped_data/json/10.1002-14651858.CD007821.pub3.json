@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007821.pub3",
+  "name": "Heated insufflation with or without humidification for laparoscopic abdominal surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Intraoperative hypothermia during both open and laparoscopic abdominal surgery may be associated with adverse events. For laparoscopic abdominal surgery, the use of heated insufflation systems for establishing pneumoperitoneum has been described to prevent hypothermia. Humidification of the insufflated gas is also possible. Past studies on heated insufflation have shown inconclusive results with regards to maintenance of core temperature and reduction of postoperative pain and recovery times."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of heated gas insufflation compared to cold gas insufflation on maintaining intraoperative normothermia as well as patient outcomes following laparoscopic abdominal surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Cochrane Colorectal Cancer Specialised Register (September 2016), the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library 2016, Issue 8), Ovid MEDLINE (1950 to September 2016), Ovid Embase (1974 to September 2016), International Pharmaceutical Abstracts (IPA) (September 2016), Web of Science (1985 to September 2016), Scopus, www.clinicaltrials.gov and the National Research Register (1956 to September 2016). We also searched grey literature and cross references. Searches were limited to human studies without language restriction."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Only randomised controlled trials comparing heated (with or without humidification) with cold gas insufflation in adult and paediatric populations undergoing laparoscopic abdominal procedures were included. We assessed study quality in regards to relevance, design, sequence generation, allocation concealment, blinding, possibility of incomplete data and selective reporting. Two review authors independently selected studies for the review, with any disagreement resolved in consensus with a third co-author."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently performed screening of eligible studies, data extraction and methodological quality assessment of the trials. We classified a study as low-risk of bias if all of the first six main criteria indicated in the 'Risk of Bias Assessment' table were assessed as low risk. We used data sheets to collect data from eligible studies. We presented results using mean differences for continuous outcomes and relative risks for dichotomous outcomes, with 95% confidence intervals. We used Review Manager (RevMan) 5.3 software to calculate the estimated effects. We took publication bias into consideration and compiled funnel plots."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 22 studies in this updated analysis, including six new trials with 584 additional participants, resulting in a total of 1428 participants. The risk of bias was low in 11 studies, high in one study and unclear in the remaining studies, due primarily to failure to report methodology for randomisation, and allocation concealment or blinding, or both. Fourteen studies examined intraoperative core temperatures among heated and humidified insufflation cohorts and core temperatures were higher compared to cold gas insufflation (MD 0.31 °C, 95% CI, 0.09 to 0.53, I2 = 88%, P = 0.005) (low-quality evidence). If the analysis was limited to the eight studies at low risk of bias, this result became non-significant but remained heterogeneous (MD 0.18 °C, 95% CI, -0.04 to 0.39, I2= 81%, P = 0.10) (moderate-quality evidence).\nIn comparison to the cold CO2 group, the meta-analysis of the heated, non-humidified group also showed no statistically significant difference between groups. Core temperature was statistically, significantly higher in the heated, humidified CO2 with external warming groups (MD 0.29 °C, 95% CI, 0.05 to 0.52, I2 = 84%, P = 0.02) (moderate-quality evidence). Despite the small difference in temperature of 0.31 °C with heated CO2, this is unlikely to be of clinical significance.\nFor postoperative pain scores, there were no statistically significant differences between heated and cold CO2, either overall, or for any of the subgroups assessed. Interestingly, morphine-equivalent use was homogeneous and higher in heated, non-humidified insufflation compared to cold insufflation for postoperative day one (MD 11.93 mg, 95% CI 0.92 to 22.94, I2 = 0%, P = 0.03) (low-quality evidence) and day two (MD 9.79 mg, 95% CI 1.58 to 18.00, I2 = 0%, P = 0.02) (low-quality evidence). However, morphine use was not significantly different six hours postoperatively or in any humidified insufflation groups.\nThere was no apparent effect on length of hospitalisation, lens fogging or length of operation with heated compared to cold gas insufflation, with or without humidification. Recovery room time was shorter in the heated cohort (MD -26.79 minutes, 95% CI -51.34 to -2.25, I2 = 95%, P = 0.03) (low-quality evidence). When the one and only unclear-risk study was removed from the analysis, the difference in recovery-room time became non-significant and the studies were statistically homogeneous (MD -1.22 minutes, 95% CI, -6.62 to 4.17, I2 = 12%, P = 0.66) (moderate-quality evidence).\nThere were also no differences in the frequency of major adverse events that occurred in the cold or heated cohorts.\nThese results should be interpreted with caution due to some limitations. Heterogeneity of core temperature remained significant despite subgroup analysis, likely due to variations in the study design of the individual trials, as the trials had variations in insufflation gas temperatures (35 ºC to 37 ºC), humidity ranges (88% to 100%), gas volumes and location of the temperature probes. Additionally, some of the trials lacked specific study design information making evaluation difficult."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "While heated, humidified gas leads to mildly smaller decreases in core body temperatures, clinically this does not account for improved patient outcomes, therefore, there is no clear evidence for the use of heated gas insufflation, with or without humidification, compared to cold gas insufflation in laparoscopic abdominal surgery."
+    }
+  ],
+  "pls_title": "Heated CO2 for laparoscopic abdominal surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "In laparoscopic surgery, surgery is performed through small incisions using long instruments and video cameras. To create a working and viewing space in the abdomen, carbon dioxide (CO2) is insufflated to separate the abdominal wall from internal organs. Traditionally, unheated CO2 is used but there has been suggestions that heated CO2 may prevent hypothermia. Hypothermia has been associated with heart attacks, abnormal heart rhythms, increased infections, decreased clotting ability and increased blood loss. We aimed to investigate the role of heated compared with cold CO2 in laparoscopic abdominal surgery."
+    },
+    {
+      "heading": "Study Characteristics",
+      "text": "We searched the medical literature for randomised controlled trials (where people are allocated at random to one of two or more treatment groups) that compared heated and cold CO2. We analysed data from the trials for changes in core temperature. We also compared post-operative pain scores and pain medication requirements, length of hospital stay, length of surgery and fogging of the surgical video camera lens. Evidence is current to September 2016."
+    },
+    {
+      "heading": "Key results and quality of evidence",
+      "text": "We identified and included 22 trials. There was an increase of 0.31 °C in the heated, humidified CO2 group compared to the cold CO2 group but the data were heterogeneous (highly variable). However, if the analysis was limited to the eight low-risk-of-bias studies that reported core temperatures, no significant difference was found. Also, there was no temperature difference for heated and non-humidified gas compared to cold gas.\nThere was no difference in postoperative pain with heated or cold insufflation. However, pain medication use was higher in only the heated, non-humidified group on postoperative days one and two.\nHeated gas apparently did not change length of hospitalisation, lens fogging or length of operation. Recovery room stay was shorter with heated gas but the data was heterogeneous (highly variable). When we only included studies at low risk of bias, the data became homogeneous (less variable) and the recovery room time was not significantly different between the heated and cold gas groups."
+    },
+    {
+      "heading": "Authors' Conclusions",
+      "text": "While heated, humidified gas leads to slightly smaller decreases in core body temperatures, this does not account for improvement in any patient outcomes. Therefore, there is no clear evidence for the use of heated gas insufflation, with or without humidification, in laparoscopic abdominal surgery."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD005949.pub2",
+  "name": "Higher versus lower amino acid intake in parenteral nutrition for newborn infants",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sick newborn and preterm infants frequently are not able to be fed enterally, necessitating parenteral fluid and nutrition. Potential benefits of higher parenteral amino acid (AA) intake for improved nitrogen balance, growth, and infant health may be outweighed by the infant's ability to utilise high intake of parenteral AA, especially in the days after birth."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective is to determine whether higher versus lower intake of parenteral AA is associated with improved growth and disability-free survival in newborn infants receiving parenteral nutrition.\nSecondary objectives include determining whether:\n• higher versus lower starting or initial intake of amino acids is associated with improved growth and disability-free survival without side effects;\n• higher versus lower intake of amino acids at maximal intake is associated with improved growth and disability-free survival without side effects; and\n• increased amino acid intake should replace non-protein energy intake (glucose and lipid), should be added to non-protein energy intake, or should be provided simultaneously with non-protein energy intake.\nWe conducted subgroup analyses to look for any differences in the effects of higher versus lower intake of amino acids according to gestational age, birth weight, age at commencement, and condition of the infant, or concomitant increases in fluid intake."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (2 June 2017), MEDLINE (1966 to 2 June 2017), Embase (1980 to 2 June 2017), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to 2 June 2017). We also searched clinical trials databases, conference proceedings, and citations of articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of higher versus lower intake of AAs as parenteral nutrition in newborn infants. Comparisons of higher intake at commencement, at maximal intake, and at both commencement and maximal intake were performed."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials, assessed trial quality, and extracted data from included studies. We performed fixed-effect analyses and expressed treatment effects as mean difference (MD), risk ratio (RR), and risk difference (RD) with 95% confidence intervals (CIs) and assessed the quality of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-two studies were eligible for inclusion. Six were short-term biochemical tolerance studies, one was in infants at > 35 weeks' gestation, one in term surgical newborns, and three yielding no usable data. The 21 remaining studies reported clinical outcomes in very preterm or low birth weight infants for inclusion in meta-analysis for this review.\nHigher AA intake had no effect on mortality before hospital discharge (typical RR 0.90, 95% CI 0.69 to 1.17; participants = 1407; studies = 14; I2 = 0%; quality of evidence: low). Evidence was insufficient to show an effect on neurodevelopment and suggest no reported benefit (quality of evidence: very low). Higher AA intake was associated with a reduction in postnatal growth failure (< 10th centile) at discharge (typical RR 0.74, 95% CI 0.56 to 0.97; participants = 203; studies = 3; I2 = 22%; typical RD -0.15, 95% CI -0.27 to -0.02; number needed to treat for an additional beneficial outcome (NNTB) 7, 95% CI 4 to 50; quality of evidence: very low). Subgroup analyses found reduced postnatal growth failure in infants that commenced on high amino acid intake (> 2 to ≤ 3 g/kg/day); that occurred with increased amino acid and non-protein caloric intake; that commenced on intake at < 24 hours' age; and that occurred with early lipid infusion.\nHigher AA intake was associated with a reduction in days needed to regain birth weight (MD -1.14, 95% CI -1.73 to -0.56; participants = 950; studies = 13; I2 = 77%). Data show varying effects on growth parameters and no consistent effects on anthropometric z-scores at any time point, as well as increased growth in head circumference at discharge (MD 0.09 cm/week, 95% CI 0.06 to 0.13; participants = 315; studies = 4; I2 = 90%; quality of evidence: very low).\nHigher AA intake was not associated with effects on days to full enteral feeds, late-onset sepsis, necrotising enterocolitis, chronic lung disease, any or severe intraventricular haemorrhage, or periventricular leukomalacia. Data show a reduction in retinopathy of prematurity (typical RR 0.44, 95% CI 0.21 to 0.93; participants = 269; studies = 4; I2 = 31%; quality of evidence: very low) but no difference in severe retinopathy of prematurity.\nHigher AA intake was associated with an increase in positive protein balance and nitrogen balance. Potential biochemical intolerances were reported, including risk of abnormal blood urea nitrogen (typical RR 2.77, 95% CI 2.13 to 3.61; participants = 688; studies = 7; I2 = 6%; typical RD 0.26, 95% CI 0.20 to 0.32; number needed to treat for an additional harmful outcome (NNTH) 4; 95% CI 3 to 5; quality of evidence: high). Higher amino acid intake in parenteral nutrition was associated with a reduction in hyperglycaemia (> 8.3 mmol/L) (typical RR 0.69, 95% CI 0.49 to 0.96; participants = 505; studies = 5; I2 = 68%), although the incidence of hyperglycaemia treated with insulin was not different."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-quality evidence suggests that higher AA intake in parenteral nutrition does not affect mortality. Very low-quality evidence suggests that higher AA intake reduces the incidence of postnatal growth failure. Evidence was insufficient to show an effect on neurodevelopment. Very low-quality evidence suggests that higher AA intake reduces retinopathy of prematurity but not severe retinopathy of prematurity. Higher AA intake was associated with potentially adverse biochemical effects resulting from excess amino acid load, including azotaemia. Adequately powered trials in very preterm infants are required to determine the optimal intake of AA and effects of caloric balance in parenteral nutrition on the brain and on neurodevelopment."
+    }
+  ],
+  "pls_title": "Higher versus lower amino acid intake in parenteral nutrition for newborn infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "In newborn infants, does administration of intravenous nutrition with higher amino acid (protein) content during the first few days after birth result in improved growth and disability-free survival in newborn infants?"
+    },
+    {
+      "heading": "Background",
+      "text": "Sick and preterm newborns are at risk of malnutrition and growth failure from an inability to receive protein at a dose equivalent to that received when they were in the womb. Although administering a higher dose of amino acids in parenteral nutrition via a vein provides potential benefits, possible side effects from excess protein due to immaturity of the infant's liver and kidneys, which are responsible for utilising protein and removing protein waste from the body, remain a matter of concern."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The review included 21 studies that reported clinical outcomes in very preterm or low birth weight infants. Reporting was incomplete for all outcomes. Searches for studies were conducted in June 2017."
+    },
+    {
+      "heading": "Key results",
+      "text": "Higher amino acid intake did not affect survival in preterm or low birth weight infants. Not enough information is available to determine whether this had an effect on neurodevelopment. Higher amino acid intake was associated with lower rates of growth failure, increased head growth, and fewer premature eye problems (eye problems were not severe). Higher amino acid intake was also associated with increased levels of protein breakdown products (urea) and a lower incidence of high blood glucose levels."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Higher amino acid intake did not affect survival but reduced the incidence of growth failure up to the time of hospital discharge. Higher amino acid intake may produce other effects, including an increase in head growth and a reduction in eye problems (retinopathy of prematurity), although these effects are uncertain. Evidence suggests that high amino acid intake may not be tolerated by all infants. Further research is needed to determine the optimal amino acid intake for parenteral nutrition and nutritional balance in preterm infants."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "Low-quality evidence suggests that higher AA intake in parenteral nutrition does not affect mortality. Very low-quality evidence suggests that higher AA intake reduces the incidence of postnatal growth failure, and that higher AA intake reduces retinopathy of prematurity, but not severe retinopathy. Evidence was insufficient to show whether higher AA intake had an effect on neurodevelopment."
+    }
+  ]
+}

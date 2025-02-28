@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD013332.pub2",
+  "name": "Interventions to prevent surgical site infection in adults undergoing cardiac surgery",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Surgical site infection (SSI) is a common type of hospital-acquired infection and affects up to a third of patients following surgical procedures. It is associated with significant mortality and morbidity. In the United Kingdom alone, it is estimated to add another £30 million to the cost of adult cardiac surgery. Although generic guidance for SSI prevention exists, this is not specific to adult cardiac surgery. Furthermore, many of the risk factors for SSI are prevalent within the cardiac surgery population. Despite this, there is currently no standard of care for SSI prevention in adults undergoing cardiac surgery throughout the preoperative, intraoperative and postoperative periods of care, with variations in practice existing throughout from risk stratification, decontamination strategies and surveillance."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objective: to assess the clinical effectiveness of pre-, intra-, and postoperative interventions in the prevention of cardiac SSI.\nSecondary objectives: (i) to evaluate the effects of SSI prevention interventions on morbidity, mortality, and resource use; (ii) to evaluate the effects of SSI prevention care bundles on morbidity, mortality, and resource use."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE (Ovid, from inception) and Embase (Ovid, from inception) on 31 May 2021. ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) were also searched for ongoing or unpublished trials on 21 May 2021. No language restrictions were imposed."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs evaluating interventions to reduce SSI in adults (≥ 18 years of age) who have undergone any cardiac surgery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed the methods as per our published Cochrane protocol. Our primary outcome was surgical site infection. Our secondary outcomes were all-cause mortality, reoperation for SSI, hospital length of stay, hospital readmissions for SSI, healthcare costs and cost-effectiveness, quality of life (QoL), and adverse effects. We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 118 studies involving 51,854 participants were included. Twenty-two interventions to reduce SSI in adults undergoing cardiac surgery were identified. The risk of bias was judged to be high in the majority of studies. There was heterogeneity in the study populations and interventions; consequently, meta-analysis was not appropriate for many of the comparisons and these are presented as narrative summaries. We focused our reporting of findings on four comparisons deemed to be of great clinical relevance by all review authors.\nDecolonisation versus no decolonisation\nPooled data from three studies (n = 1564) using preoperative topical oral/nasal decontamination in all patients demonstrated an uncertain direction of treatment effect in relation to total SSI (RR 0.98, 95% CI 0.70 to 1.36; I2 = 0%; very low-certainty evidence). A single study reported that decolonisation likely results in little to no difference in superficial SSI (RR 1.35, 95% CI 0.84 to 2.15; moderate-certainty evidence) and a reduction in deep SSI (RR 0.36, 95% CI 0.17 to 0.77; high-certainty evidence).\nThe evidence on all-cause mortality from three studies (n = 1564) is very uncertain (RR 0.66, 95% CI 0.24 to 1.84; I2 = 49%; very low-certainty evidence).\nA single study (n = 954) demonstrated that decolonisation may result in little to no difference in hospital readmission for SSI (RR 0.80, 95% CI 0.44 to 1.45; low-certainty evidence).\nA single study (n = 954) reported one case of temporary discolouration of teeth in the decolonisation arm (low-certainty-evidence.\nReoperation for SSI was not reported.\nTight glucose control versus standard glucose control\nPooled data from seven studies (n = 880) showed that tight glucose control may reduce total SSI, but the evidence is very uncertain (RR 0.41, 95% CI 0.19 to 0.85; I2 = 29%; numbers need to treat to benefit (NNTB) = 13; very-low certainty evidence).\nPooled data from seven studies (n = 3334) showed tight glucose control may reduce all-cause mortality, but the evidence is very uncertain (RR 0.61, 95% CI 0.41 to 0.91; I2 = 0%; very low-certainty evidence).\nBased on four studies (n = 2793), there may be little to no difference in episodes of hypoglycaemia between tight control vs. standard control, but the evidence is very uncertain (RR 2.12, 95% CI 0.51 to 8.76; I2 = 72%; very low-certainty evidence).\nNo studies reported superficial/deep SSI, reoperation for SSI, or hospital readmission for SSI.\nNegative pressure wound therapy (NPWT) versus standard dressings\nNPWT was assessed in two studies (n = 144) and it may reduce total SSI, but the evidence is very uncertain (RR 0.17, 95% CI 0.03 to 0.97; I2 = 0%; NNTB = 10; very low-certainty evidence).\nA single study (n = 80) reported reoperation for SSI. The relative effect could not be estimated. The certainty of evidence was judged to be very low.\nNo studies reported superficial/deep SSI, all-cause mortality, hospital readmission for SSI, or adverse effects.\nTopical antimicrobials versus no topical antimicrobials\nFive studies (n = 5382) evaluated topical gentamicin sponge, which may reduce total SSI (RR 0.62, 95% CI 0.46 to 0.84; I2 = 48%; NNTB = 32), superficial SSI (RR 0.60, 95% CI 0.37 to 0.98; I2 = 69%), and deep SSI (RR 0.67, 95% CI 0.47 to 0.96; I2 = 5%; low-certainty evidence.\nFour studies (n = 4662) demonstrated that topical gentamicin sponge may result in little to no difference in all-cause mortality, but the evidence is very uncertain (RR 0.96, 95% CI 0.65 to 1.42; I2 = 0%; very low-certainty evidence).\nReoperation for SSI, hospital readmission for SSI, and adverse effects were not reported in any included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review provides the broadest and most recent review of the current evidence base for interventions to reduce SSI in adults undergoing cardiac surgery. Twenty-one interventions were identified across the perioperative period. Evidence is of low to very low certainty primarily due to significant heterogeneity in how interventions were implemented and the definitions of SSI used. Knowledge gaps have been identified across a number of practices that should represent key areas for future research. Efforts to standardise SSI outcome reporting are warranted."
+    }
+  ],
+  "pls_title": "Interventions to prevent wound infections after heart surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- The overall quality of evidence supporting interventions to reduce surgical site infection in adult heart surgery is poor. Studies used varying definitions for wound infection, which meant that it was difficult to make any comparison between these.\n- Significant knowledge gaps exist around the implementation of interventions to reduce surgical site infection in adult patients undergoing heart surgery."
+    },
+    {
+      "heading": "What is a surgical site infection?",
+      "text": "A surgical site infection (SSI) or wound infection as defined by the Centers for Disease Control and Prevention as “an infection that occurs after surgery in the part of the body where surgery took place. SSIs can be superficial infections involving the skin only or deeper, affecting tissues under the skin, organs, and/or implanted material.”\nSSIs after heart surgery can have a significant impact on the physical and mental health of patients and the lives of their carers and relatives. There are a number of different interventions that have been used to try and reduce wound infections, but these strategies differ between surgeons, hospitals, and countries. We think this might be because there are no nationally or internationally agreed protocols or guidelines for heart surgery. This may also explain why the rates of wound infections vary across hospitals in the United Kingdom, with between 1 and 9 of 100 people affected by an infection after heart surgery."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out the best interventions to reduce SSIs after heart surgery. We planned to assess the effectiveness of pre-, intra- and postoperative interventions to prevent SSIs after heart surgery (primary outcome) and also the impact these interventions have on complications, deaths and use of resources (secondary outcomes)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies (randomised controlled trials) that assessed an intervention to reduce or prevent SSI in adult patients (> 18 years of age) undergoing cardiac surgery (operations on the heart or great vessels). Following selection of appropriate studies, they were firstly categorised into pre-, intra- and postoperative interventions and then into appropriate comparisons based on what the intervention entailed.\nA comparison of studies and our confidence in the evidence based on study methods and size were provided for each comparison."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "This review included 118 studies involving 51,854 participants. We identified 22 different interventional categories throughout the pre-, intra- and post-operative period that were implemented to reduce SSI in adult cardiac surgery. Given the size of this review and numerous differences in study methodology making certain comparisons less meaningful, we prioritised our discussion around four interventional categories."
+    },
+    {
+      "heading": "Antibacterial decolonisation of skin and/or nose",
+      "text": "there is considerable uncertainty about the benefit of bacterial decolonisation (removing or reducing bacteria) and further work is required to investigate the impact this may have on bacterial resistance."
+    },
+    {
+      "heading": "Blood sugar control",
+      "text": "tight blood sugar in people with diabetes may reduce SSIs; however, uncertainty remains in evidence in people without diabetes. Further research into patient-specific blood sugar control is needed."
+    },
+    {
+      "heading": "Specialised dressings to apply suction to the wound",
+      "text": "specialised dressings (negative pressure wound therapy) may reduce SSIs, but current studies are too small to be definitive."
+    },
+    {
+      "heading": "Topical antibiotics in the wound",
+      "text": "antibiotic sponges placed in the chest may reduce SSI of the sternum (breastbone), but it is unclear whether, if placed in the leg or arm, these will reduce SSIs there. The impact on bacterial resistance also remains unknown."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The main limitation of the evidence is the inherent poor quality of the included studies. Only one study was perceived by authors to be at ‘low risk’ of bias. As a consequence of the inconsistency of SSI definitions, studies utilised and the manner in which interventions were implemented, meta-analyses (syntheses of evidence data) were not possible for many of the comparisons. Furthermore, many of the studies did not include sufficient numbers of participants to provide reliable conclusions."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to May 2021."
+    }
+  ]
+}

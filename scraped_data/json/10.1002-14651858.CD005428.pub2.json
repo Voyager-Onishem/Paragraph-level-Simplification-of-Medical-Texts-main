@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005428.pub2",
+  "name": "Antibiotic prophylaxis for short‐term catheter bladder drainage in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Urinary tract infections account for about 40% of hospital-acquired (nosocomial) infections, and about 80% of urinary tract infections acquired in hospital are associated with urinary catheters."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if certain antibiotic prophylaxes are better than others in terms of prevention of urinary tract infections, complications, quality of life and cost-effectiveness in short-term catheterisation in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and MEDLINE in Process, and handsearching of journals and conference proceedings (searched 31st October 2012). Additionally, we examined all reference lists of identified trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised and quasi-randomised trials comparing antibiotic prophylaxis for short-term (up to and including 14 days) catheterisation in adults."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were independently extracted by all review authors and compared. Disagreements were resolved by discussion. Data were processed as described in the Cochrane Handbook for Systemtic Reviews of Interventions. Where data had not been fully reported, clarification was sought directly from the authors of the trial."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six parallel-group randomised controlled trials with 789 participants met the inclusion criteria. All six trials compared antibiotic prophylaxis versus no prophylaxis. Studies presented a low to unclear risk of bias with similar interventions and measured outcomes.\nThe primary outcome of bacteriuria was less common in the prophylaxis group amongst surgical patients with asymptomatic bacteriuria (I2 = 0; risk ratio (RR) 0.20; 95% confidence interval (CI) 0.13 to 0.31) . Two non-surgical studies could not be combined in a meta-analysis due to heterogeneity and only one showed significantly fewer cases of bacteriuria (RR 0.19; 95% CI 0.09 to 0.37).\nTwo trials of surgical patients with asymptomatic bacteriuria only (255 participants) compared one type of antibiotic prophylaxis with another and neither study showed a significant difference in cases of bacteriuria.\nOne study (78 participants) compared antibiotic prophylaxis in patients at catheterisation only versus antibiotic prophylaxis throughout catheterisation period with asymptomatic bacteriuria. Antibiotics at catheterisation only, resulted in significantly fewer cases of bacteriuria than giving prophylaxis throughout the catheterisation period (RR 0.29 95% CI 0.09 to 0.91).\nSecondary data of pyuria were provided by two surgical studies (255 participants). When studies were pooled, pyuria occurred in significantly fewer cases in the prophylactic antibiotic group (RR 0.23, 95% CI 0.13 to 0.42). The number of gram-negative isolates in patients' urine just before catheter removal in one study (RR 0.05, 95% CI 0.00 to 0.79) and six weeks after hospital discharge (RR 0.36, 95% CI 0.23 to 0.56) were significantly lower. There were no events in the treatment group before catheter removal. When pooled data from two studies showed significantly reduced febrile morbidity in those receiving antibiotic prophylaxis (RR 0.53 95% CI 0.31 to 0.89).\nAlthough all studies assessed micro-organisms isolated from the urine specimens the data were too heterogenous to pool in a meta-analysis and have been provided in a narrative form. Further secondary data such as economic analysis, length of stay and quality of life were not covered in detail."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The limited evidence indicated that receiving prophylactic antibiotics reduced the rate of bacteriuria and other signs of infection, such as pyuria, febrile morbidity and gram-negative isolates in patients' urine, in surgical patients who undergo bladder drainage for at least 24 hours postoperatively. There was also limited evidence that prophylactic antibiotics reduced bacteriuria in non-surgical patients."
+    }
+  ],
+  "pls_title": "Antibiotic prophylaxis for short-term catheter bladder drainage in adults",
+  "pls_type": "long",
+  "pls": "Catheters may be used to drain urine from the bladder in hospital for short periods of time (less than two weeks). This may cause a urinary infection, or an increase in the number of bacteria in the urine. The review found that people who had antibiotics before or during catheter use were less likely to have an infection, and less likely to have a large number of bacteria or pus cells in the urine. However, there was no evidence concerning the chance of allergic reactions or other side effects from the antibiotics. Antibiotic-resistant bacteria were identified in most studies but there was no definite link made to the use of antibiotics."
+}

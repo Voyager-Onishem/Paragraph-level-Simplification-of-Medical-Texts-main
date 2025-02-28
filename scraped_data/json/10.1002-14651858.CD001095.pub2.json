@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001095.pub2",
+  "name": "Short‐course antibiotics for acute otitis media",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute otitis media (AOM) is a common illness during childhood, for which antibiotics are frequently prescribed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of a short course of antibiotics (less than seven days) in comparison to a long course of antibiotics (seven days or greater) for the treatment of AOM in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, issue 4) which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE, EMBASE, MEDLINE In-Process & Other Non-Indexed Citations, CINAHL, BIOSIS Previews, OCLC Papers First and Proceedings First, Proquest Dissertations and Theses (inception to November 2009); International Pharmaceutical Abstracts, the NLM Gateway, ClinicalTrials.gov and Current Controlled Trials (inception to August 2008)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Trials were included if they met the following criteria: participants aged one month to 18 years; clinical diagnosis of ear infection; no previous antimicrobial therapy; and randomisation to treatment with less than seven days versus seven days or more of antibiotics."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The primary outcome of treatment failure was defined as the absence of clinical resolution, relapse or recurrence of AOM during one month following initiation of therapy. Treatment outcomes were extracted from individual studies and combined in the form of a summary odds ratio (OR). A summary OR of 1.0 indicates that the treatment failure rate following less than seven days of antibiotic treatment was similar to the failure rate following seven days or more of treatment."
+    },
+    {
+      "heading": "Main results",
+      "text": "This update included 49 trials containing 12,045 participants. Risk of treatment failure was higher with short courses of antibiotics (OR 1.34, 95% CI 1.15 to 1.55) at one month after initiation of therapy (21% failure with short-course treatment and 18% with long-course; absolute difference of 3% between groups). There were no differences found when examining treatment with ceftriaxone for less than seven days (30% failure in those receiving ceftriaxone and 27% in short-acting antibiotics administered for seven days or more) or azithromycin for less than seven days (18% failure in both those receiving azithromycin and short-acting antibiotics administered for seven days or more) with respect to risk of treatment failure at one month or less. Significant reductions in gastrointestinal adverse events were observed for treatment with short-acting antibiotics and azithromycin."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Clinicians need to evaluate whether the minimal short-term benefit from longer treatment of antibiotics is worth exposing children to a longer course of antibiotics."
+    }
+  ],
+  "pls_title": "Short course antibiotics for healthy children with uncomplicated acute otitis media",
+  "pls_type": "long",
+  "pls": "Acute otitis media (AOM), or middle ear infection, is a common childhood illness, with more than half of all children having at least one infection by the time they are seven. Although otitis media often resolves without treatment, it is frequently treated with antibiotics. The length of treatment varies widely. This review of 49 trials found that treating children with a short course (less than seven days) of antibiotics, compared to treatment with a long course (seven days or greater) of antibiotics, increases the likelihood of treatment failure in the short term. No differences are seen one month later. The amount of gastrointestinal adverse events decreased with a shorter course of antibiotics."
+}

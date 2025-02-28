@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011715.pub2",
+  "name": "Remote versus face‐to‐face check‐ups for asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asthma remains a significant cause of avoidable morbidity and mortality. Regular check-ups with a healthcare professional are essential to monitor symptoms and adjust medication.\nHealth services worldwide are considering telephone and internet technologies as a way to manage the rising number of people with asthma and other long-term health conditions. This may serve to improve health and reduce the burden on emergency and inpatient services. Remote check-ups may represent an unobtrusive and efficient way of maintaining contact with patients, but it is uncertain whether conducting check-ups in this way is effective or whether it may have unexpected negative consequences."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the safety and efficacy of conducting asthma check-ups remotely versus usual face-to-face consultations."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Review Group Specialised Register (CAGR) up to 24 November 2015. We also searched www.clinicaltrials.gov, the World Health Organization (WHO) trials portal, reference lists of other reviews and contacted trial authors for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel randomised controlled trials (RCTs) of adults or children with asthma that compared remote check-ups conducted using any form of technology versus standard face-to-face consultations. We excluded studies that used automated telehealth interventions that did not include personalised contact with a health professional. We included studies reported as full-text articles, as abstracts only and unpublished data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened the literature search results and independently extracted risk of bias and numerical data. We resolved any disagreements by consensus, and we contacted study authors for missing information.\nWe analysed dichotomous data as odds ratios (ORs) using study participants as the unit of analysis, and continuous data as mean differences using the random-effects models. We rated all outcomes using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six studies including a total of 2100 participants met the inclusion criteria: we pooled four studies including 792 people in the main efficacy analyses, and presented the results of a cluster implementation study (n = 1213) and an oral steroid tapering study (n = 95) separately. Baseline characteristics relating to asthma severity were variable, but studies generally recruited people with asthma taking regular medications and excluded those with COPD or severe asthma. One study compared the two types of check-up for oral steroid tapering in severe refractory asthma and we assessed it as a separate question. The studies could not be blinded and dropout was high in four of the six studies, which may have biased the results.\nWe could not say whether more people who had a remote check-up needed oral corticosteroids for an asthma exacerbation than those who were seen face-to-face because the confidence intervals (CIs) were very wide (OR 1.74, 95% CI 0.41 to 7.44; 278 participants; one study; low quality evidence). In the face-to-face check-up groups, 21 participants out of 1000 had exacerbations that required oral steroids over three months, compared to 36 (95% CI nine to 139) out of 1000 for the remote check-up group. Exacerbations that needed treatment in the Emergency Department (ED), hospital admission or an unscheduled healthcare visit all happened too infrequently to detect whether remote check-ups are a safe alternative to face-to-face consultations. Serious adverse events were not reported separately from the exacerbation outcomes.\nThere was no difference in asthma control measured by the Asthma Control Questionnaire (ACQ) or in quality of life measured on the Asthma Quality of Life Questionnaire (AQLQ) between remote and face-to-face check-ups. We could rule out significant harm of remote check-ups for these outcomes but we were less confident because these outcomes are more prone to bias from lack of blinding.\nThe larger implementation study that compared two general practice populations demonstrated that offering telephone check-ups and proactively phoning participants increased the number of people with asthma who received a review. However, we do not know whether the additional participants who had a telephone check-up subsequently benefited in asthma outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current randomised evidence does not demonstrate any important differences between face-to-face and remote asthma check-ups in terms of exacerbations, asthma control or quality of life. There is insufficient information to rule out differences in efficacy, or to say whether or not remote asthma check-ups are a safe alternative to being seen face-to-face."
+    }
+  ],
+  "pls_title": "Are telephone or internet check-ups a safe alternative to being seen face-to-face?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Take-home message",
+      "text": "Studies that tried to answer this research question did not show important differences between the two types of check-up. However, there is not enough information to rule out differences in their harms or benefits. At this stage, we cannot say whether or not asthma check-ups conducted over the phone or internet are a safe alternative to usual face-to-face consultations."
+    },
+    {
+      "heading": "Background",
+      "text": "Regular contact with a doctor or asthma nurse is essential to keep track of symptoms and use of inhalers. Telephone and internet technologies may be a way to manage the rising number of people with asthma and other long-term health conditions. This has been referred to as 'remote reviews' or e-consultations, and may be a way of more easily keeping contact between patients and doctors, but we don't know whether it's as good as meeting face-to-face."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found a total of six studies including 2100 participants: four studies including 792 people could be pooled for the main results, and two other studies were looked at separately because their designs were very different (n = 1213 and n = 95). People in the four pooled studies in general took regular medications and we excluded those with severe asthma or other lung diseases. We looked at two other studies with very different designs to the main four separately: one compared a practice where people with asthma were given the option of a telephone check-up or a practice visit where they came to the clinic as usual, and one looked specifically at using technology to monitor people while cutting down their oral steroids dose. We last looked for studies on 24 November 2015."
+    },
+    {
+      "heading": "Key results",
+      "text": "We cannot say whether or not people who had a check-up over the phone or internet were more or less likely to need oral corticosteroids for an asthma attack than those seen face-to-face, and we were uncertain of the result for several reasons. Too few people had asthma attacks that needed treatment in the Emergency Department or hospital, or an unscheduled visit to see their doctor to tell if remote check-ups were as good as face-to-face consultations. There didn't appear to be a difference in asthma control or quality of life, but we were able to rule out the possibility that remote check-ups are not as good as face-to-face consultations on these measures. The evidence was all considered to be of low or moderate quality. The study that tested the possible benefit of giving people the option of a telephone check-up showed that this increased the number of people reviewed, but did not show an overall benefit on asthma outcomes."
+    }
+  ]
+}

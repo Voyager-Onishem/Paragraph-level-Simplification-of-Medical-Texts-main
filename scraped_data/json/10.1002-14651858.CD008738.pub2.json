@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008738.pub2",
+  "name": "Antibiotic prophylaxis for preventing burn wound infection",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Infection of burn wounds is a serious problem because it can delay healing, increase scarring and invasive infection may result in the death of the patient. Antibiotic prophylaxis is one of several interventions that may prevent burn wound infection and protect the burned patient from invasive infections."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of antibiotic prophylaxis on rates of burn wound infection."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In January 2013 we searched the Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid MEDLINE - In-Process & Other Non-Indexed Citations (2013); Ovid EMBASE; EBSCO CINAHL and reference lists of relevant articles. There were no restrictions with respect to language, date of publication or study setting."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) that evaluated the efficacy and safety of antibiotic prophylaxis for the prevention of BWI. Quasi-randomised studies were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed the risk of bias, and extracted relevant data. Risk ratio (RR) and mean difference (MD) were estimated for dichotomous data and continuous data, respectively. When sufficient numbers of comparable RCTs were available, trials were pooled in a meta-analysis to estimate the combined effect."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 36 RCTs (2117 participants); twenty six (72%) evaluated topical antibiotics, seven evaluated systemic antibiotics (four of these administered the antibiotic perioperatively and three administered upon hospital admission or during routine treatment), two evaluated prophylaxis with non absorbable antibiotics, and one evaluated local antibiotics administered via the airway.\nThe 11 trials (645 participants) that evaluated topical prophylaxis with silver sulfadiazine were pooled in a meta analysis. There was a statistically significant increase in burn wound infection associated with silver sulfadiazine compared with dressings/skin substitute (OR = 1.87; 95% CI: 1.09 to 3.19, I2 = 0%). These trials were at high, or unclear, risk of bias. Silver sulfadiazine was also associated with significantly longer length of hospital stay compared with dressings/skin substitute (MD = 2.11 days; 95% CI: 1.93 to 2.28).\nSystemic antibiotic prophylaxis in non-surgical patients was evaluated in three trials (119 participants) and there was no evidence of an effect on rates of burn wound infection. Systemic antibiotics (trimethoprim-sulfamethoxazole) were associated with a significant reduction in pneumonia (only one trial, 40 participants) (RR = 0.18; 95% CI: 0.05 to 0.72) but not sepsis (two trials 59 participants) (RR = 0.43; 95% CI: 0.12 to 1.61).\nPerioperative systemic antibiotic prophylaxis had no effect on any of the outcomes of this review.\nSelective decontamination of the digestive tract with non-absorbable antibiotics had no significant effect on rates of all types of infection (2 trials, 140 participants). Moreover, there was a statistically significant increase in rates of MRSA associated with use of non-absorbable antibiotics plus cefotaxime compared with placebo (RR = 2.22; 95% CI: 1.21 to 4.07).\nThere was no evidence of a difference in mortality or rates of sepsis with local airway antibiotic prophylaxis compared with placebo (only one trial, 30 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The conclusions we are able to draw regarding the effects of prophylactic antibiotics in people with burns are limited by the volume and quality of the existing research (largely small numbers of small studies at unclear or high risk of bias for each comparison). The largest volume of evidence suggests that topical silver sulfadiazine is associated with a significant increase in rates of burn wound infection and increased length of hospital stay compared with dressings or skin substitutes; this evidence is at unclear or high risk of bias. Currently the effects of other forms of antibiotic prophylaxis on burn wound infection are unclear. One small study reported a reduction in incidence of pneumonia associated with a specific systematic antibiotic regimen."
+    }
+  ],
+  "pls_title": "Antibiotics to prevent burn wounds becoming infected",
+  "pls_type": "long",
+  "pls": "Burn injuries are a serious problem. They are associated with a significant incidence of death and disability, multiple surgical procedures, prolonged hospitalisation, and high costs of health care.\nVarious antibiotics are used with the aim of reducing the risk of infection in burn patients before it occurs. Some antibiotics are used locally on the skin (topical treatments), others are taken orally, or by injection, and affect the whole body (systemic treatments). It is not clear if prophylactic antibiotics are beneficial.\nThirty six studies involving 2117 participants are included in this review. The studies compared people with burns who were given antibiotics with people also with burns who received either an inactive treatment (placebo), no treatment, wound dressings, or another topical preparation or antibiotic. Twenty-six trials (72%) evaluated topical antibiotics and smaller numbers evaluated antibiotics given orally, intravenously or via the airway. Most studies were small and of poor quality.\nThere was some evidence that a particular antibiotic (silver sulfadiazine) applied directly to the burn actually increases the rates of infection by between 8% and 80%. Otherwise there was not enough research evidence about the effects of antibiotics to enable reliable conclusions to be drawn."
+}

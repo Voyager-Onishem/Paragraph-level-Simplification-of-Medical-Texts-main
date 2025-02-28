@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD002997.pub5",
+  "name": "Macrolides versus placebo for chronic asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asthma is a chronic disease in which inflammation of the airways causes symptomatic wheezing, coughing and difficult breathing. Macrolides are antibiotics with antimicrobial and anti-inflammatory activities that have been explored for the long-term control of asthma symptoms."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of macrolides compared with placebo for managing chronic asthma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Group Specialised Register up to March 2021. We also manually searched bibliographies of previously published reviews and conference proceedings and contacted study authors. We included records published in any language in the search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled clinical trials (RCTs) involving both children and adults with asthma treated with macrolides versus placebo for four or more weeks. Primary outcomes were exacerbation requiring hospitalisation, severe exacerbations (exacerbations requiring emergency department (ED) visits or systemic steroids, or both), symptom scales, asthma control questionnaire (ACQ, score from 0 totally controlled, to 6 severely uncontrolled), Asthma Quality of Life Questionnaire (AQLQ, with score from 1 to 7 with higher scores indicating better QoL), rescue medication puffs per day, morning and evening peak expiratory flow (PEF; litres per minutes), forced expiratory volume in one second (FEV1; litres), bronchial hyperresponsiveness, and oral corticosteroid dose. Secondary outcomes were adverse events (including mortality), withdrawal, blood eosinophils, sputum eosinophils, eosinophil cationic protein (ECP) in serum, and ECP in sputum."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently examined all records identified in the searches then reviewed the full text of all potentially relevant articles before extracting data in duplicate from all included studies. As per protocol, we used a fixed-effect model. We conducted a sensitivity analysis for analyses with high heterogeneity (I2 greater than 30%). GRADE was used to assess the certainty of the body of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-five studies met the inclusion criteria, randomising 1973 participants to receive macrolide or placebo for at least four weeks. Most of the included studies reported data from adults (mean age 21 to 61 years) with persistent or severe asthma, while four studies included children. All participants were recruited in outpatient settings. Inclusion criteria, interventions and outcomes were highly variable.\nThe evidence suggests macrolides probably deliver a moderately sized reduction in exacerbations requiring hospitalisations compared to placebo (odds ratio (OR) 0.47, 95% confidence interval (CI) 0.20 to 1.12; studies = 2, participants = 529; moderate-certainty evidence). Macrolides probably reduce exacerbations requiring ED visits and/or treatment with systemic steroids (rate ratio (RaR) 0.65, 95% CI 0.53 to 0.80; studies = 4, participants = 640; moderate-certainty evidence). Macrolides may reduce symptoms (as measured on symptom scales) (standardised mean difference (SMD) −0.46, 95% CI −0.81 to −0.11; studies = 4, participants = 136 ; very low-certainty evidence). Macrolides may result in a little improvement in ACQ (SMD −0.17, 95% CI −0.31 to −0.03; studies = 5, participants = 773; low-certainty evidence). Macrolides may have little to no effect on AQLQ (mean difference (MD) 0.24, 95% CI 0.12 to 0.35; studies = 6, participants = 802; very low-certainty evidence). For both the ACQ and the AQLQ the suggested effect of macrolides versus placebo did not reach a minimal clinically important difference (MCID, 0.5 for ACQ and AQLQ) (ACQ: low-certainty evidence; AQLQ: very low-certainty evidence). Due to high heterogeneity (I2 > 30%), we conducted sensitivity analyses on the above results, which reduced the size of the suggested effects by reducing the weighting on the large, high quality studies.\nMacrolides may result in a small effect compared to placebo in reducing need for rescue medication (MD −0.43 puffs/day, 95% CI −0.81 to −0.04; studies = 4, participants = 314; low-certainty evidence). Macrolides may increase FEV1, but the effect is almost certainly below a level discernible to patients (MD 0.04 L, 95% CI 0 to 0.08; studies = 10, participants = 1046; low-certainty evidence). It was not possible to pool outcomes for non-specific bronchial hyperresponsiveness or lowest tolerated oral corticosteroid dose (in people requiring oral corticosteroids at baseline). There was no evidence of a difference in severe adverse events (including mortality), although less than half of the studies reported the outcome (OR 0.80, 95% CI 0.49 to 1.31; studies = 8, participants = 854; low-certainty evidence). Reporting of specific adverse effects was too inconsistent across studies for a meaningful analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Existing evidence suggests an effect of macrolides compared with placebo on the rate of exacerbations requiring hospitalisation. Macrolides probably reduce severe exacerbations (requiring ED visit and/or treatment with systemic steroids) and may reduce symptoms. However, we cannot rule out the possibility of other benefits or harms because the evidence is of very low quality due to heterogeneity among patients and interventions, imprecision and reporting biases. The results were mostly driven by a well-designed, well powered RCT, indicating that azithromycin may reduce exacerbation rate and improve symptom scores in severe asthma.\nThe review highlights the need for researchers to report outcomes accurately and according to standard definitions. Macrolides can reduce exacerbation rate in people with severe asthma. Future trials could evaluate if this effect is sustained across all the severe asthma phenotypes, the comparison with newer biological drugs, whether effects persist or wane after treatment cessation and whether effects are associated with infection biomarkers."
+    }
+  ],
+  "pls_title": "Should macrolides be used for chronic asthma?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Main point",
+      "text": "the existing evidence suggests a benefit of macrolides compared to placebo for reducing exacerbations requiring hospitalisation and severe exacerbations (defined as exacerbations requiring emergency department visit/treatment with systemic steroids). The effect of macrolides on other relevant clinical outcomes such as symptom scales and lung function is still unclear."
+    },
+    {
+      "heading": "Background",
+      "text": "Asthma is a chronic disease in which inflammation of the airways leads to coughing, wheezing and breathing problems. There are probably different reasons for this inflammation and why it persists, and these may require different treatments. Infection in the lungs may be one cause, and macrolides are a type of antibiotic that may be used long term as a way of improving symptoms for these people."
+    },
+    {
+      "heading": "How we answered the question",
+      "text": "We looked for studies on adults or children with asthma who were either given a macrolide or placebo (pretend treatment) for at least four weeks to see if it improved their symptoms and made it less likely for them to have an asthma attack, often referred to as an 'exacerbation'. We carried out our most recent search for studies in March 2021. After finding all the relevant studies, we collected information about asthma attacks requiring hospital admission, asthma attacks that needed to be treated with oral steroids, symptom scores, asthma control, quality of life, several measures of lung function, the need for rescue inhalers, serious side effects and measures of asthma activity in blood and sputum (mucous)."
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 25 studies, including two new ones that had been published since the last search was done in 2015. Overall, almost 2000 people received either macrolides or placebo. There were many problems in the way studies were described and how well they reported data, which made us consider the overall evidence to be low quality, undermining our confidence in most of the results. The studies were quite different from each other, for example in the severity of people's asthma, the type of macrolide they were given and the length of the treatment period.\nOur review showed that macrolides were better than placebo in reducing exacerbations and may have benefits for some people in improving asthma symptoms, asthma control, asthma quality of life and some measures of lung function, but how much benefit and for whom are uncertain. Based on one well conducted study, the macrolide azithromycin may have some benefit for people with severe asthma, but overall the findings of this review do not support the use of macrolides for all asthma of any grade or severity. There were no reports of serious side effects of macrolides, but 16 studies did not report whether any occurred."
+    }
+  ]
+}

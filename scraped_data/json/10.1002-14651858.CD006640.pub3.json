@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006640.pub3",
+  "name": "Tranexamic acid for upper gastrointestinal bleeding",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tranexamic acid reduces haemorrhage through its antifibrinolytic effects. In a previous version of the present review, we found that tranexamic acid may reduce mortality. This review includes updated searches and new trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of tranexamic acid versus no intervention, placebo or other antiulcer drugs for upper gastrointestinal bleeding."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated the review by performing electronic database searches (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index) and manual searches in July 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials, irrespective of language or publication status."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures of the The Cochrane Collaboration. All-cause mortality, bleeding and adverse events were the primary outcome measures. We performed fixed-effect and random-effects model meta-analyses and presented results as risk ratios (RRs) with 95% confidence intervals (CIs) and used I² as a measure of between-trial heterogeneity. We analysed tranexamic acid versus placebo or no intervention and tranexamic acid versus antiulcer drugs separately. To analyse sources of heterogeneity and robustness of the overall results, we performed subgroup, sensitivity and sequential analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight randomised controlled trials on tranexamic acid for upper gastrointestinal bleeding. Additionally, we identified one large ongoing pragmatic randomised controlled trial from which data are not yet available. Control groups were randomly assigned to placebo (seven trials) or no intervention (one trial). Two trials also included a control group randomly assigned to antiulcer drugs (lansoprazole or cimetidine). The included studies were published from 1973 to 2011. The number of participants randomly assigned ranged from 47 to 216 (median 204). All trials reported mortality. In total, 42 of 851 participants randomly assigned to tranexamic acid and 71 of 850 in the control group died (RR 0.60, 95% CI 0.42 to 0.87; P value 0.007; I² = 0%). The analysis was not confirmed when all participants in the intervention group with missing outcome data were included as treatment failures, or when the analysis was limited to trials with low risk of attrition bias. Rebleeding was diagnosed for 117 of 826 participants in the tranexamic acid group and for 146 of 825 participants in the control group (RR 0.80, 95% CI 0.64 to 1.00; P value 0.07; I² = 49%). We were able to evaluate the risk of serious adverse events on the basis of only four trials. Our analyses showed 'no evidence of a difference between tranexamic acid and control interventions regarding the risk of thromboembolic events.' Tranexamic acid appeared to reduce the risk of surgery in a fixed-effect meta-analysis (RR 0.73, 95% CI 0.56 to 0.95), but this result was no longer statistically significant in a random-effects meta-analysis (RR 0.61, 95% CI 0.35 to 1.04; P value 0.07). No difference was apparent between tranexamic acid and placebo in the assessment of transfusion (RR 1.02, 95% CI 0.94 to 1.11; I² = 0%), and meta-analyses that compared tranexamic acid versus antiulcer drugs did not identify beneficial or detrimental effects of tranexamic acid for any of the outcomes assessed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review found that tranexamic acid appears to have a beneficial effect on mortality, but a high dropout rate in some trials means that we cannot be sure of this until the findings of additional research are published. At the time of this update in 2014, one large study (8000 participants) is in progress, so this review will be much more informative in a few years. Further examination of tranexamic acid would require inclusion of high-quality randomised controlled trials. Timing of randomisation is essential to avoid attrition bias and to limit the number of withdrawals. Future trials may use a pragmatic design and should include all participants with suspected bleeding or with endoscopically verified bleeding, as well as a tranexamic placebo arm and co-administration of pump inhibitors and endoscopic therapy. Assessment of outcome measures in such studies should be clearly defined. Endoscopic examination with appropriate control of severe bleeding should be performed, as should endoscopic verification of clinically significant rebleeding. In addition, clinical measures of rebleeding should be included. Other important outcome measures include mortality (30-day or in-hospital), need for emergency surgery or blood transfusion and adverse events (major or minor)."
+    }
+  ],
+  "pls_title": "Tranexamic acid, an agent that promotes blood clotting, for serious or uncontrolled upper gastrointestinal bleeding",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Upper gastrointestinal bleeding is a common reason for emergency hospital admission. The prognosis is serious. Some patients may die as the result of uncontrolled bleeding."
+    },
+    {
+      "heading": "Review question",
+      "text": "Tranexamic acid is an antifibrinolytic agent. This drug reduces the breakdown of fibrin; fibrin provides the framework for the formation of a blood clot, which is needed to stop the bleeding. Clinical trials suggest that tranexamic acid could reduce mortality in upper gastrointestinal bleeding."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review includes data from eight randomised trials on tranexamic acid. Two trials also assessed antiulcer drugs. Only one trial used additional endoscopic therapy, as the remaining trials were performed before this intervention was introduced into clinical practice."
+    },
+    {
+      "heading": "Key results",
+      "text": "These trials found that tranexamic acid appears to have a beneficial effect on mortality, but a high dropout rate in some trials means that we cannot be sure of these findings until additional research is published . Tranexamic acid did not reduce mortality in the trials that included antiulcer drugs or endoscopic therapy. Additional randomised controlled trials are needed before we can determine whether tranexamic acid has a beneficial effect on serious or uncontrolled upper gastrointestinal bleeding."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Many patients who were randomly assigned were subsequently excluded from the assessment. The main source of bias was therefore attrition. The overall quality of the evidence was moderate to low."
+    }
+  ]
+}

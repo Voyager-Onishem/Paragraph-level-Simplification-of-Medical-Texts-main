@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000493.pub3",
+  "name": "Pharmacological interventions for treating intrahepatic cholestasis of pregnancy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Intrahepatic cholestasis of pregnancy (ICP) is a liver disorder that can develop in pregnancy. It occurs when there is a build-up of bile acids in the maternal blood. It has been linked to adverse maternal and fetal/neonatal outcomes. As the pathophysiology is poorly understood, therapies have been largely empiric. As ICP is an uncommon condition (incidence less than 2% a year), many trials have been small. Synthesis, including recent larger trials, will provide more evidence to guide clinical practice. This review is an update of a review first published in 2001 and last updated in 2013."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of pharmacological interventions to treat women with intrahepatic cholestasis of pregnancy, on maternal, fetal and neonatal outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (13 December 2019), and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised controlled trials, including cluster-randomised trials and trials published in abstract form only, that compared any drug with placebo or no treatment, or two drug intervention strategies, for women with a clinical diagnosis of intrahepatic cholestasis of pregnancy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The review authors independently assessed trials for eligibility and risks of bias. We independently extracted data and checked these for accuracy. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 26 trials involving 2007 women. They were mostly at unclear to high risk of bias. They assessed nine different pharmacological interventions, resulting in 14 different comparisons. We judged two placebo-controlled trials of ursodeoxycholic acid (UDCA) in 715 women to be at low risk of bias.\nThe ten different pharmacological interventions were: agents believed to detoxify bile acids (UCDA) and S-adenosylmethionine (SAMe); agents used to bind bile acids in the intestine (activated charcoal, guar gum, cholestyramine); Chinese herbal medicines (yinchenghao decoction (YCHD), salvia, Yiganling and Danxioling pill (DXLP)), and agents aimed to reduce bile acid production (dexamethasone)\nCompared with placebo, UDCA probably results in a small improvement in pruritus score measured on a 100 mm visual analogue scale (VAS) (mean difference (MD) −7.64 points, 95% confidence interval (CI) −9.69 to −5.60 points; 2 trials, 715 women; GRADE moderate certainty), where a score of zero indicates no itch and a score of 100 indicates severe itching. The evidence for fetal distress and stillbirth were uncertain, due to serious limitations in study design and imprecision (risk ratio (RR) 0.70, 95% CI 0.35 to 1.40; 6 trials, 944 women; RR 0.33, 95% CI 0.08 to 1.37; 6 trials, 955 women; GRADE very low certainty).\nWe found very few differences for the other comparisons included in this review.\nThere is insufficient evidence to indicate if SAMe, guar gum, activated charcoal, dexamethasone, cholestyramine, Salvia, Yinchenghao decoction, Danxioling and Yiganling, or Yiganling alone or in combination are effective in treating women with intrahepatic cholestasis of pregnancy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "When compared with placebo, UDCA administered to women with ICP probably shows a reduction in pruritus. However the size of the effect is small and for most pregnant women and clinicians, the reduction may fall below the minimum clinically worthwhile effect. The evidence was unclear for other adverse fetal outcomes, due to very low-certainty evidence. There is insufficient evidence to indicate that SAMe, guar gum, activated charcoal, dexamethasone, cholestyramine, YCHD, DXLP, Salvia, Yiganling alone or in combination are effective in treating women with cholestasis of pregnancy. There are no trials of the efficacy of topical emollients.\nFurther high-quality trials of other interventions are needed in order to identify effective treatments for maternal itching and preventing adverse perinatal outcomes. It would also be helpful to identify those women who are mostly likely to respond to UDCA (for example, whether bile acid concentrations affect how women with ICP respond to treatment with UDCA)."
+    }
+  ],
+  "pls_title": "Interventions for treating intrahepatic cholestasis of pregnancy (ICP)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "A liver disorder arising during pregnancy, most often in the last three months, commonly causes itching (pruritus), which can be extremely distressing to the pregnant woman. Bile acids accumulate within the liver and the blood concentration of bile acids is raised, although not always apparent with the symptoms. The signs and symptoms often resolve spontaneously within the first few days after birth, and usually within four to six weeks. Although the condition is poorly understood, there is an association with preterm birth and stillbirth among women with the severest forms of the disease. Many treatments have been suggested. This review is an update of a review first published in 2001 and last updated in 2013."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "The itching can be disabling. Stillbirth and preterm birth are serious adverse outcomes which are important to prevent."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for evidence in December 2019, and identified 26 trials involving 2007 women. The trials assessed nine different interventions, but for most of them the trials were small and had a high risk of bias; we were therefore unable to draw firm conclusions. However, the most widely-used treatment, ursodeoxycholic acid (UDCA), for which we identified seven trials (1008 women), included two trials at low risk of bias (755 women). There is now evidence that UDCA probably reduces itching (moderate-certainty evidence). However, the size of the effect is small and for many pregnant women may not be worthwhile. The evidence for an effect of UCDA on stillbirth or fetal distress is unclear, mainly due to limitations in study design and imprecise results (very low-certainty evidence)."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Although UDCA has not been shown to prevent the adverse outcomes of intrahepatic cholestasis of pregnancy, there is no other effective treatment for this condition, and there is a small reduction in maternal itch.\nMore high-quality trials of other treatments are needed in order to identify what is effective for maternal itching and to prevent adverse outcomes. It would also be helpful to identify those women who are mostly likely to respond to UDCA (for example, whether bile acid concentrations affect how women with ICP respond to treatment with UDCA)."
+    }
+  ]
+}

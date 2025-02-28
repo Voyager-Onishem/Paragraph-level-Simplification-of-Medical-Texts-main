@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008909.pub2",
+  "name": "Anthracycline‐containing regimens for treatment of follicular lymphoma in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Anthracycline-containing regimens (ACR) are the most prevalent regimens in the management of patients with advanced follicular lymphoma (FL). However, there is no proof that they are superior to non-anthracycline-containing regimens (non-ACR)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy of ACRs to other chemotherapy regimens, in the treatment of FL."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 3), MEDLINE (January 1966 to April 2013), smaller databases, relevant conference proceedings (2004 to 2012) and the National Medical Library (April 2013)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing ACR with non-ACR for adult patients with FL. We excluded trials in which immunotherapy, radiotherapy alone or stem-cell transplantation were used in one arm alone. Our primary outcome was overall survival (OS). Secondary outcomes included disease control, as measured by progression-free survival (PFS) or remission duration (RD)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors assessed the quality of trials and extracted data. We contacted study authors for additional information. We analyzed trials separately according to resemblance of the chemotherapeutic regimens in study arms, other than the addition of anthracyclines ('same' versus 'different' chemotherapy). Hazard ratios (HR) and risk ratios (RR) with 95% confidence intervals (CI) were estimated and pooled using the fixed-effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight RCTs, conducted between 1974 and 2011, and involving 2636 patients were included in this meta-analysis. All trials included therapy-naive patients. Rituximab was used in one trial only. Follow-up was between three and five years in most trials (range three to 18 years). All trials were published in peer-reviewed journals.\nFive trials compared similar chemotherapeutic regimens, except for the anthracycline. In three studies reporting overall survival specifically in FL patients, there was no statistically significant difference between ACR and non-ACR arms (HR 0.99; 95% CI 0.77 to 1.29; I2 = 0%). ACR significantly improved disease control (HR 0.65; 95% CI 0.52 to 0.81; four trials). Progression or relapse at three years were reduced (RR 0.73; 95% CI 0.63 to 0.85). Anthracyclines did not significantly increase rates of complete response (RR 1.05; 95% CI 0.94 to 1.18) or overall response (RR 1.06; 95% CI 1.00 to 1.12), but heterogeneity was substantial.\nOverall, ACR were more often associated with cytopenias, but not with serious infections or death related to chemotherapy. Cardiotoxicity, albeit rare, was associated with anthracycline use (RR 4.55; 95% CI 0.92 to 22.49; four trials).\nThree trials added anthracycline to one arm of two different regimens. None showed benefit to ACR regarding OS, yet there was a trend in favor of anthracyclines for disease control. Results were heterogeneous.\nWe judged the overall quality of these trials as moderate as all are unblinded, some are outdated and are not uniform in outcome definitions."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of anthracyclines in patients with FL has no demonstrable benefit on overall survival, although it may have been mitigated by the more intense regimens given in the control arms of three of five trials. ACR improved disease control, as measured by PFS and RD with an increased risk for side effects, notably cardiotoxicity. The current evidence on the added value of ACR in the management of FL is limited. Further studies involving immunotherapy during induction and maintenance may change conclusion."
+    }
+  ],
+  "pls_title": "Anthracyclines in the treatment of follicular lymphoma (FL) in adults",
+  "pls_type": "long",
+  "pls": "FL is the most common indolent non-Hodgkin's lymphoma (NHL). It is a slowly progressive disease, with a risk of transformation to a more aggressive lymphoma. Advanced disease (stage III and IV) has been considered incurable. However, in recent years, the use of combination therapy and treatment with the monoclonal anti-CD20 antibody rituximab, have prolonged survival and decreased transformation rate, and is now considered standard of care in FL patients. One of the most common chemotherapies used in the treatment of FL is the combination of rituximab with cyclophosphamide, vincristine, adriamycin, prednisone (R-CHOP), which contains an anthracycline (adriamycin). Other anthracycline-containing regimens (ACR) have also been used to treat FL patients. However, there is no proof that ACRs are better than non-anthracycline-containing regimens (non-ACRs), and there are no standard guidelines for the initial treatment of advanced FL. Importantly, anthracyclines have serious side effects, notably a decrease in blood counts and potential damage to the heart, depending on the dose.\nThe aim of this systematic review and meta-analysis was to examine if there is a benefit in the use of anthracyclines for patients with FL. We looked at overall survival (OS); measures of disease control; response rates; and side effects.\nWe found eight randomized controlled trials, of which five compared similar chemotherapy regimens in both trial arms, except for the anthracycline. Even among these five trials, three included more intense chemotherapy in the control arm. Most trials were conducted in the 1980s and 1990s. Only one of them included rituximab as part of the chemotherapy regimen. Almost all patients were treatment-naive with advanced disease. Follow-up ranged between three and five years in most trials. The main results from this set of trials are.\n1. There is no evidence that OS is prolonged with the use of anthracyclines, although it may have been hampered by the more intense regimens given in the control arms of three of five trials.\n2. Anthracyclines improved disease control. Concordantly, less patients progressed or relapsed within three years of treatment with ACR.\n3. There is no statistically significant difference in complete or overall response rates.\n4. Qualitatively, more side effects were reported with ACR, myelotoxicity and cardiotoxicity included.\nThis evidence is limited, mainly due to disparities in regimens between control and study arms, but also since most included trials were conducted over one to two decades ago, and only one employed rituximab. Importantly, results from this study were in agreement with pooled-outcomes from trials of the pre-rituximab era.\nIt is essential to find the optimal chemotherapeutic regimen in conjunction with rituximab and other novel agents, and understand the role of anthracyclines in this combination, especially with current methods that are able to reduce their toxicity. With longer follow-up periods we may better understand whether improved disease control will eventually translate to an increase in survival."
+}

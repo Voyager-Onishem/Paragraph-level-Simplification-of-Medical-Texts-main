@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000006.pub3",
+  "name": "Publication bias in clinical trials due to statistical significance or direction of trial results ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The tendency for authors to submit, and of journals to accept, manuscripts for publication based on the direction or strength of the study findings has been termed publication bias."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the extent to which publication of a cohort of clinical trials is influenced by the statistical significance, perceived importance, or direction of their results."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Methodology Register (The Cochrane Library [Online] Issue 2, 2007), MEDLINE (1950 to March Week 2 2007), EMBASE (1980 to Week 11 2007) and Ovid MEDLINE In-Process & Other Non-Indexed Citations (March 21 2007). We also searched the Science Citation Index (April 2007), checked reference lists of relevant articles and contacted researchers to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies containing analyses of the association between publication and the statistical significance or direction of the results (trial findings), for a cohort of registered clinical trials."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data. We classified findings as either positive (defined as results classified by the investigators as statistically significant (P < 0.05), or perceived as striking or important, or showing a positive direction of effect) or negative (findings that were not statistically significant (P ≥ 0.05), or perceived as unimportant, or showing a negative or null direction in effect). We extracted information on other potential risk factors for failure to publish, when these data were available."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies were included. Trials with positive findings were more likely to be published than trials with negative or null findings (odds ratio 3.90; 95% confidence interval 2.68 to 5.68). This corresponds to a risk ratio of 1.78 (95% CI 1.58 to 1.95), assuming that 41% of negative trials are published (the median among the included studies, range = 11% to 85%). In absolute terms, this means that if 41% of negative trials are published, we would expect that 73% of positive trials would be published.\nTwo studies assessed time to publication and showed that trials with positive findings tended to be published after four to five years compared to those with negative findings, which were published after six to eight years. Three studies found no statistically significant association between sample size and publication. One study found no significant association between either funding mechanism, investigator rank, or sex and publication."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Trials with positive findings are published more often, and more quickly, than trials with negative findings."
+    }
+  ],
+  "pls_title": "Publication bias in clinical trials due to statistical significance or direction of trial results",
+  "pls_type": "long",
+  "pls": "The validity of a systematic review depends on the methods used to conduct the review. If there is a systematic bias, such that studies with statistically significant or positive findings are more likely to be published and included in systematic reviews than trials with non-significant findings, then the validity of a review's conclusions can be threatened.\nThis methodology review identified five studies that investigated the extent to which the publication of clinical trials (such as those approved by an ethics review board) is influenced by the statistical significance or direction of a trial's results. These studies showed that trials with positive findings (defined either as those that were statistically significant (P < 0.05), or those findings perceived to be important or striking, or those indicating a positive direction of treatment effect), had nearly four times the odds of being published compared to findings that were not statistically significant (P ≥ 0.05), or perceived as unimportant, or showing a negative or null direction of treatment effect. This corresponds to a risk ratio of 1.78 (95% CI 1.58 to 1.95), assuming that 41% of negative trials are published.Two studies found that trials with positive findings also tended to be published more quickly than trials with negative findings. The size of the trial (assessed in three studies) and the source of funding, academic rank, and sex of the principal investigator (assessed in one study) did not appear to influence whether a trial was published.\nThese results provide support for mandating that clinical trials are registered before recruiting participants so that review authors know about all potentially eligible studies, regardless of their findings. Those carrying out systematic reviews should ensure they assess the potential problems of publication bias in their review and consider methods for addressing this issue by ensuring a comprehensive search for both published and unpublished trials."
+}

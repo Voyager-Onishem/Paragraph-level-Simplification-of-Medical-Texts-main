@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000433.pub3",
+  "name": "Protein supplementation of human milk for promoting growth in preterm infants",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Preterm infants require high protein intake to achieve adequate growth and development. Although breast milk feeding has many benefits for this population, the protein content is highly variable, and inadequate to support rapid infant growth. This is a 2020 update of a Cochrane Review first published in 1999."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether protein-supplemented human milk compared with unsupplemented human milk, fed to preterm infants, improves growth, body composition, cardio-metabolic, and neurodevelopmental outcomes, without significant adverse effects."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search Cochrane Central Register of Controlled Trials (CENTRAL 2019, Issue 8) in the Cochrane Library and MEDLINE via PubMed on 23 August 2019. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Published and unpublished RCTs were eligible if they used random or quasi-random methods to allocate hospitalised preterm infants who were being fed human milk, to additional protein supplementation or no supplementation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently abstracted data, assessed risk of bias and the quality of evidence at the outcome level, using GRADE methodology. We performed meta-analyses, using risk ratio (RR) for dichotomous data, and mean difference (MD) for continuous data, with their respective 95% confidence intervals (CIs). We used a fixed-effect model and had planned to explore potential causes of heterogeneity via subgroup or sensitivity analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six RCTs, involving 204 preterm infants. The risk of bias for most methodological domains was unclear as there was insufficient detail reported. Low-quality evidence showed that protein supplementation of human milk may increase in-hospital rates of growth in weight (MD 3.82 g/kg/day, 95% CI 2.94 to 4.7; five RCTs, 101 infants; I² = 73%), length (MD 0.12 cm/wk, 95% CI 0.07 to 0.17; four RCTs, 68 infants; I² = 89%), and head circumference (MD 0.06 cm/wk, 95% CI 0.01 to 0.12; four RCTs, 68 infants; I² = 84%). Protein supplementation may lead to longer hospital stays (MD 18.5 days, 95% CI 4.39 to 32.61; one RCT, 20 infants; very low-quality evidence). Very low quality evidence means that the effect of protein supplementation on the risk of feeding intolerance (RR 2.70, 95% CI 0.13 to 58.24; one RCT, 17 infants), or necrotizing enterocolitis (RR 1.11, 95% CI 0.07 to 17.12; one RCT, 76 infants) remains uncertain. No data were available about the effects of protein supplementation on neurodevelopmental outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-quality evidence showed that protein supplementation of human milk, fed to preterm infants, increased short-term growth. However, the small sample sizes, low precision, and very low-quality evidence regarding duration of hospital stay, feeding intolerance, and necrotising enterocolitis precluded any conclusions about these outcomes. There were no data on outcomes after hospital discharge. Our findings may not be generalisable to low-resource settings, as none of the included studies were conducted in these settings.\nSince protein supplementation of human milk is now usually done as a component of multi-nutrient fortifiers, future studies should compare different amounts of protein in multi-component fortifiers, and be designed to determine the effects on duration of hospital stay and safety, as well as on long-term growth, body composition, cardio-metabolic, and neurodevelopmental outcomes."
+    }
+  ],
+  "pls_title": "Protein supplementation of human milk for promoting growth in preterm infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence to see whether the addition of extra protein to human milk, compared with no additional protein, fed to preterm infants, improved growth, body fat, obesity, heart problems, high blood sugar, and brain development, without significant side effects."
+    },
+    {
+      "heading": "Background",
+      "text": "Lack of adequate protein intake during the early stages of the preterm infant's life can result in poor growth and development. Preterm infants need more protein than full term babies. Breast milk has numerous benefits for babies born preterm (before 37 weeks), but its protein content is variable, and may not meet the nutritional needs of the rapidly growing preterm infant. Therefore, to meet their higher protein needs, and to promote optimum health and long-term development, additional protein, in the form of a fortifier, may be added to expressed breast milk for preterm babies."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found six randomised trials (trials in which each infant had an equal chance of being chosen to receive either treatment), involving 204 preterm infants. The search is up to date to August 2019."
+    },
+    {
+      "heading": "Key results",
+      "text": "Low-quality evidence showed that the addition of extra protein to breast milk increased short-term rates of weight gain (five trials), length gain (four trials), and head growth (four trials). Low-quality evidence from one trial did not show a clear difference in the rate of growth of skin fold thickness (measure of fat under the skin) between the supplemented and unsupplemented groups. Very low-quality evidence from one trial reported that infants who received additional protein stayed in hospital longer, while very low-quality evidence from four trials observed higher blood urea nitrogen concentrations (measure of kidney function and protein breakdown) in these infants, compared to those who received no additional protein. Very low-quality evidence from one trial suggested that adding extra protein to expressed breast milk did not clearly increase the risk of necrotising enterocolitis (inflammation of the intestine) or feeding intolerance, or clearly alter serum albumin concentrations (a measure of blood protein levels). No data were available on the effects of adding extra protein to human milk on long-term growth, body fat, obesity, high blood sugar, or brain development."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Adding extra protein to human milk for preterm infants may increase short-term growth. However, its effect on length of hospital stay, feeding intolerance, and necrotizing enterocolitis is uncertain, due to data limitations and very low-quality evidence. There were no data about effects on later health and development, or effects in low resource settings.\nSince protein supplementation of human milk is now usually done as a component of multi-nutrient fortifiers, future studies should compare different amounts of protein in multi-component fortifiers, and be designed to determine the effects on length of hospital stay, safety, long-term growth, body fat, obesity, high blood sugar, and brain development."
+    }
+  ]
+}

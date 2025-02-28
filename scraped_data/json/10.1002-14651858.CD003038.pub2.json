@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003038.pub2",
+  "name": "Beta‐lactam versus beta‐lactam‐aminoglycoside combination therapy in cancer patients with neutropenia ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Continued controversy surrounds the optimal empirical treatment for febrile neutropenia. New broad-spectrum beta-lactams have been introduced as single treatment, and classically, a combination of a beta-lactam with an aminoglycoside has been used."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare beta-lactam monotherapy versus beta-lactam-aminoglycoside combination therapy for cancer patients with fever and neutropenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 7, 2012), LILACS (August 2012), MEDLINE and EMBASE (August 2012) and the Database of Abstracts of Reviews of Effects (DARE) (Issue 3, 2012). We scanned references of all included studies and pertinent reviews and contacted the first author of each included trial, as well as the pharmaceutical companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing any beta-lactam antibiotic monotherapy with any combination of a beta-lactam and an aminoglycoside antibiotic, for the initial empirical treatment of febrile neutropenic cancer patients. All cause mortality was the primary outcome assessed."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data concerning all cause mortality, infection related mortality, treatment failure (including treatment modifications), super-infections, adverse effects and study quality measures were extracted independently by two review authors. Risk ratios (RRs) with their 95% confidence intervals (CIs) were estimated. Outcomes were extracted by intention-to-treat (ITT) analysis whenever possible. Individual domains of risk of bias were examined through sensitivity analyses. Published data were complemented by correspondence with authors."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventy-one trials published between 1983 and 2012 were included. All cause mortality was lower with monotherapy (RR 0.87, 95% CI 0.75 to 1.02, without statistical significance). Results were similar for trials comparing the same beta-lactam in both trial arms (11 trials, 1718 episodes; RR 0.74, 95% CI 0.53 to 1.06) and for trials comparing different beta-lactams－usually a broad-spectrum beta-lactam compared with a narrower-spectrum beta-lactam combined with an aminoglycoside (33 trials, 5468 episodes; RR 0.91, 95% CI 0.77 to 1.09). Infection related mortality was significantly lower with monotherapy (RR 0.80, 95% CI 0.64 to 0.99). Treatment failure was significantly more frequent with monotherapy in trials comparing the same beta-lactam (16 trials, 2833 episodes; RR 1.11, 95% CI 1.02 to 1.20), and was significantly more frequent with combination therapy in trials comparing different beta-lactams (55 trials, 7736 episodes; RR 0.92, 95% CI 0.88 to 0.97). Bacterial super-infections occurred with equal frequency, and fungal super-infections were more common with combination therapy. Adverse events were more frequent with combination therapy (numbers needed to harm 4; 95% CI 4 to 5). Specifically, the difference with regard to nephrotoxicity was highly significant. Adequate trial methods were associated with a larger effect estimate for mortality and smaller effect estimates for failure. Nearly all trials were open-label. No correlation was noted between mortality and failure rates and these trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Beta-lactam monotherapy is advantageous compared with beta-lactam-aminoglycoside combination therapy with regard to survival, adverse events and fungal super-infections. Treatment failure should not be regarded as the primary outcome in open-label trials, as it reflects mainly treatment modifications."
+    }
+  ],
+  "pls_title": "Cancer patients with fever and suspected infection can be treated with a single 'new-generation' beta-lactam antibiotic",
+  "pls_type": "long",
+  "pls": "Cancer chemotherapy or bone marrow transplantation disrupts the immune system, exposing patients to severe infection. The major sign of infection is fever, and the hallmark of damaged immune defences is a decreased white blood cell count. Patients have usually been treated with a combination of two different classes of antibiotics. Evidence shows that treatment with a new single drug (monotherapy), belonging to the beta-lactam class of antibiotics, is associated with better outcomes. Survival is improved when single-drug therapy is used, and side effects, mainly damage to the kidneys, are more frequent with combination therapy."
+}

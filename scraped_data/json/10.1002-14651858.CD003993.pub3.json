@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003993.pub3",
+  "name": "Thymic peptides for treatment of cancer patients",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Purified thymus extracts (pTE) and synthetic thymic peptides (sTP) are thought to enhance the immune system of cancer patients in order to fight the growth of tumour cells and to resist infections due to immunosuppression induced by the disease and antineoplastic therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of pTE and sTP for the management of cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (The Cochrane Library 2010, Issue 3), MEDLINE, EMBASE, AMED, BIOETHICSLINE, BIOSIS, CATLINE, CISCOM, HEALTHSTAR, HTA, SOMED and LILACS (to February 2010)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials of pTE or sTP in addition to chemotherapy or radiotherapy, or both, compared to the same regimen with placebo or no additional treatment in adult cancer patients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data from published trials. We derived odds ratios (OR) from overall survival (OS) and disease-free survival (DFS) rates, tumour response (TR) rates, and rates of adverse effects (AE) related to antineoplastic treatments. We used a random-effects model for meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 26 trials (2736 patients). Twenty trials investigated pTE (thymostimulin or thymosin fraction 5) and six trials investigated sTP (thymopentin or thymosin α1). Twenty-one trials reported results for OS, six for DFS, 14 for TR, nine for AE and 10  for safety of pTE and sTP. Addition of pTE conferred no benefit on OS (RR 1.00, 95% CI 0.79 to 1.25); DFS (RR 0.97, 95% CI 0.82 to 1.16); or TR (RR 1.07, 95% CI 0.92 to 1.25). Heterogeneity was moderate to high for all these outcomes. For thymosin α1 the pooled RR for OS was 1.21 (95% CI 0.94 to 1.56, P = 0.14), with low heterogeneity; and 3.37 (95% CI 0.66 to 17.30, P = 0.15) for DFS, with moderate heterogeneity. The pTE reduced the risk of severe infectious complications (RR 0.54, 95% CI 0.38 to 0.78, P = 0.0008; I² = 0%). The RR for severe neutropenia in patients treated with thymostimulin was 0.55 (95% CI 0.25 to 1.23,  P = 0.15). Tolerability of pTE and sTP was good. Most of the trials had at least a moderate risk of bias."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, we found neither evidence that the addition of pTE to antineoplastic treatment reduced the risk of death or disease progression nor that it improved the rate of tumour responses to antineoplastic treatment. For thymosin α1, there was a trend for a reduced risk of dying and of improved DFS. There was preliminary evidence that pTE lowered the risk of severe infectious complications in patients undergoing chemotherapy or radiotherapy."
+    }
+  ],
+  "pls_title": "Thymic peptides for treatment of cancer patients in addition to chemotherapy or radiotherapy, or both",
+  "pls_type": "long",
+  "pls": "The immune system plays a key role in the body’s own defences against cancer cells. The thymus gland plays a central part in this and modifies T-cells, a subset of lymphocytes. Studies with thymic peptides have shown a variety of effects on the immune system. There are two groups of thymic peptides available for use in treatment: purified extracts from animal (mostly calf) thymus glands and synthetically produced thymus gland peptides.\nThis review aims to answer the question whether having thymic peptides can improve the response to and tolerability of standard chemotherapy or radiotherapy, or combined treatment. Further questions are whether the peptides inhibit or reduce the progression and recurrence of disease, whether they prolong the life of cancer patients and whether quality of life is improved.\nThis review looked at the evidence from 26 clinical trials with a total of 2736 adult cancer patients. Many of the trials were small and of moderate quality. Only three studies were less than 10 years old. Thymosin α1 is a synthetic peptide that shows some promise as a treatment option for patients with metastatic melanoma when used in addition to chemotherapy. Severe problems occur during chemotherapy and radiotherapy due to low white blood cell counts and infections. These were reduced by using purified thymus extracts. However, the use of purified thymus extracts should be investigated more thoroughly before the extracts are used routinely in patients. The findings were not conclusive and caution is advised. Overall, thymic peptides seem to be well tolerated."
+}

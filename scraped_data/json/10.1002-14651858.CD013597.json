@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD013597",
+  "name": "Hand cleaning with ash for reducing the spread of viral and bacterial infections: a rapid review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Handwashing is important to reduce the spread and transmission of infectious disease. Ash, the residue from stoves and fires, is a material used for cleaning hands in settings where soap is not widely available."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of hand cleaning with ash compared with hand cleaning using soap or other materials for reducing the spread of viral and bacterial infections."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 26 March 2020 we searched CENTRAL, MEDLINE, Embase, WHO Global Index Medicus, and the WHO International Clinical Trials Registry Platform."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all types of studies, in any population, that examined hand cleaning with ash compared to hand cleaning with any other material."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened titles and full texts, and one review author extracted outcome data and assessed risk of bias, which another review author double-checked. We used the ROBINS-I tool for observational studies, we used RoB 2.0 for three interventional studies, and we used GRADE to assess the certainty of the evidence. We planned to synthesise data with random-effects meta-analyses. Our prespecified outcome measures were overall mortality, number of cases of infections (as defined in the individual studies), severity of infectious disease, harms (as reported in the individual studies), and adherence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 studies described in 19 records using eight different study designs, but only one randomised trial. The studies were primarily conducted in rural settings in low- and lower-middle-income countries. Six studies reported outcome data relevant to our review.\nA retrospective case-control study and a cohort study assessed diarrhoea in children under the age of five years and self-reported reproductive tract symptoms in women, respectively. It was very uncertain whether the rate of hospital contacts for moderate-to-severe diarrhoea in children differed between households that cleaned hands using ash compared with households cleaning hands using soap (RR 0.97, 95% CI 0.84 to 1.11; very low-certainty evidence). Similarly, it was very uncertain whether the rate of women experiencing symptoms of reproductive tract infection differed between women cleaning hands with ash compared with cleaning hands using soap (RR 0.48, 95% CI 0.12 to 1.86; very low-certainty evidence) or when compared with handwashing with water only or not washing hands (RR 0.50, 95% CI 0.13 to 1.96; very low-certainty evidence).\nFour studies reported on bacteriological counts after hand wash. We rated all four studies at high risk of bias, and we did not synthesise data due to methodological heterogeneity and unclear outcome reporting."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, the benefits and harms of hand cleaning with ash compared with soap or other materials for reducing the spread of viral or bacterial infections are uncertain."
+    }
+  ],
+  "pls_title": "Does cleaning hands with ash stop or reduce the spread of viral and bacterial infections compared with soap or other materials?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Some infectious diseases are spread by airborne droplets from coughs and sneezes, which can infect people who touch contaminated skin or surfaces. Washing hands with soap and water may prevent these diseases from spreading. People with no soap may use other materials like ash, mud, soil with or without water, or water alone, to clean their hands. Hand cleaning with ash (the solid remains from cooking stoves and fires) might work by rubbing away or inactivating the virus or bacteria. However, chemicals in the ash could also damage the skin.\nIf ash is an effective hand cleanser, it could reduce the spread of coronavirus (COVID-19) and other infectious diseases in low-income areas where soap is not widely available."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether people who use ash for hand cleaning are more or less likely to catch infectious diseases than people who use soap, water, mud or soil, or who do not clean their hands. We also wanted to know whether using ash causes unwanted effects, like sore hands or a rash."
+    },
+    {
+      "heading": "Our methods",
+      "text": "We looked for studies that examined hand cleaning with ash compared with soap, mud, soil, water only or no hand cleaning. To answer our questions, the studies could include adults and children and take place anywhere.\nCOVID-19 is spreading rapidly, so we needed to answer this question quickly. This meant we shortened some steps of the normal Cochrane Review process. We could not find the full texts of five potentially relevant studies, or contact study authors for additional data. Although we searched several databases we may have missed some studies. We plan to include all relevant information in a future version of the review."
+    },
+    {
+      "heading": "Results",
+      "text": "We identified 14 studies that assessed ash for hand cleaning. Only one small study directly compared people chosen at random to use ash or soap or other materials (randomised studies produce the best evidence). The studies included people of all ages and mainly took place in low-income, rural communities. Six studies provided information to help answer our question.\nOne study investigated children who had been to hospital with diarrhoea compared with children who had not. Study authors looked at the hand washing area in the children’s houses to see how they cleaned their hands. They found that families that used ash for hand cleaning made a similar number of hospital visits for children with diarrhoea as those families that used soap.\nAnother study investigated whether women with unusual vaginal itching or discharge were more likely to clean their hands with ash than women who had not experienced such symptoms. They found that women who used ash and water for hand cleaning were as likely to experience vaginal itching or discharge as those women who used soap.\nFour studies measured bacteria on hands after using ash, soap, water, mud or no hand cleaning. We are uncertain about the effect of ash compared with other materials for hand cleaning on bacteria on people’s hands because the studies used unreliable methods and their results were unclear.\nNone of the studies provided information about the severity of infectious diseases, whether people used ash or another material consistently, the number of deaths, or unwanted effects due to hand cleaning with ash."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "Our certainty (confidence) in the evidence was limited because we found few studies; those we did find had unreliable methods and different kinds of participants, and none of the studies we found reliably examined whether participants got infections."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "We are uncertain whether hand cleaning with ash compared with hand cleaning with soap, water, mud, soil or no hand cleaning stops or reduces the spread of viral or bacterial infections. We do not know if hand cleaning with ash causes unwanted effects."
+    },
+    {
+      "heading": "Search date",
+      "text": "This review includes evidence published up to 26 March 2020."
+    }
+  ]
+}

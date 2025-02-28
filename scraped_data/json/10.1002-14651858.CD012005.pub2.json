@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012005.pub2",
+  "name": "Interventions for fatigue in inflammatory bowel disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Inflammatory bowel disease (IBD) is an umbrella term used to describe a group of chronic, progressive inflammatory disorders of the digestive tract. Crohn's disease and ulcerative colitis are the two main types. Fatigue is a common, debilitating and burdensome symptom experienced by individuals with IBD. The subjective, complex nature of fatigue can often hamper its management. The efficacy and safety of pharmacological or non-pharmacological treatments for fatigue in IBD is not yet established through systematic review of studies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of pharmacological and non-pharmacological interventions for managing fatigue in IBD compared to no treatment, placebo or active comparator."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A systematic search of the databases Embase, MEDLINE, Cochrane Library, CINAHL, PsycINFO was undertaken from inception to July 2018. A top-up search was run in October 2019. We also searched the Cochrane IBD Group Specialized Register, the Cochrane Central Register of Controlled Trials, ongoing trials and research registers, conference abstracts and reference lists for potentially eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of pharmacological and non-pharmacological interventions in children or adults with IBD, where fatigue was assessed as a primary or secondary outcome using a generic or disease-specific fatigue measure, a subscale of a larger quality of life scale or as a single-item measure, were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened search results and four authors extracted and assessed bias independently using the Cochrane 'Risk of bias' tool. The primary outcome was fatigue and the secondary outcomes included quality of life, adverse events (AEs), serious AEs and withdrawal due to AEs. Standard methodological procedures were used."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 studies (3741 participants): nine trials of pharmacological interventions and five trials of non-pharmacological interventions. Thirty ongoing studies were identified, and five studies are awaiting classification. Data on fatigue were available from nine trials (1344 participants). In only four trials was managing fatigue the primary intention of the intervention (electroacupuncture, physical activity advice, cognitive behavioural therapy and solution-focused therapy).\nElectroacupuncture\nFatigue was measured with Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-F) (scores range from 0 to 52). The FACIT-F score at week eight was 8.00 points higher (better) in participants receiving electroacupuncture compared with no treatment (mean difference (MD) 8.00, 95% CI 6.45 to 9.55; 1 RCT; 27 participants; low-certainty evidence). Results at week 16 could not be calculated. FACIT-F scores were also higher with electroacupuncture compared to sham electroacupuncture at week eight (MD 5.10, 95% CI 3.49 to 6.71; 1 RCT; 30 participants; low-certainty evidence) but not at week 16 (MD 2.60, 95% CI 0.74 to 4.46; 1 RCT; 30 participants; low-certainty evidence). No adverse events were reported, except for one adverse event in the sham electroacupuncture group.\nCognitive behavioural therapy (CBT) and solution-focused therapy\nCompared with a fatigue information leaflet, the effects of CBT on fatigue are very uncertain (Inflammatory Bowel Disease-Fatigue (IBD-F) section I: MD -2.16, 95% CI -6.13 to 1.81; IBD-F section II: MD -21.62, 95% CI -45.02 to 1.78; 1 RCT, 18 participants, very low-certainty evidence). The efficacy of solution-focused therapy on fatigue is also very uncertain, because standard summary data were not reported (1 RCT, 98 participants).\nPhysical activity advice\nOne 2 x 2 factorial trial (45 participants) found physical activity advice may reduce fatigue but the evidence is very uncertain. At week 12, compared to a control group receiving no physical activity advice plus omega 3 capsules, FACIT-F scores were higher (better) in the physical activity advice plus omega 3 group (FACIT-F MD 6.40, 95% CI -1.80 to 14.60, very low-certainty evidence) and the physical activity advice plus placebo group (FACIT-F MD 9.00, 95% CI 1.64 to 16.36, very low-certainty evidence). Adverse events were predominantly gastrointestinal and similar across physical activity groups, although more adverse events were reported in the no physical activity advice plus omega 3 group.\nPharmacological interventions\nCompared with placebo, adalimumab 40 mg, administered every other week ('eow') (only for those known to respond to adalimumab induction therapy), may reduce fatigue in patients with moderately-to-severely active Crohn's disease, but the evidence is very uncertain (FACIT-F MD 4.30, 95% CI 1.75 to 6.85; very low-certainty evidence). The adalimumab 40 mg eow group was less likely to experience serious adverse events (OR 0.56, 95% CI 0.33 to 0.96; 521 participants; moderate-certainty evidence) and withdrawal due to adverse events (OR 0.48, 95%CI 0.26 to 0.87; 521 participants; moderate-certainty evidence).\nFerric maltol may result in a slight increase in fatigue, with better SF-36 vitality scores reported in the placebo group compared to the treatment group following 12 weeks of treatment (MD -9.31, 95% CI -17.15 to -1.47; 118 participants; low-certainty evidence). There may be little or no difference in adverse events (OR 0.55, 95% CI 0.26 to 1.18; 120 participants; low-certainty evidence)"
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of interventions for the management of fatigue in IBD are uncertain. No firm conclusions regarding the efficacy and safety of interventions can be drawn. Further high-quality studies, with a larger number of participants, are required to assess the potential benefits and harms of therapies. Future studies should assess interventions specifically designed for fatigue management, targeted at selected IBD populations, and measure fatigue as the primary outcome."
+    }
+  ],
+  "pls_title": "Treatments for extreme tiredness and lack of energy (fatigue) in inflammatory bowel disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of drug and non-drug treatments on fatigue in individuals with inflammatory bowel disease (IBD) compared to no treatment, placebo (e.g. a sugar pill) or active comparator (e.g. a known effective treatment)?"
+    },
+    {
+      "heading": "Background",
+      "text": "IBD is a life-long illness that causes inflammation and ulceration in the gut. Crohn's disease and ulcerative colitis are the two main types of IBD. People living with IBD often experience fatigue, which can be burdensome and negatively impact on their quality of life. Different treatments, such as medications and exercise, may improve fatigue. However, it is unclear what the effects of such treatments on fatigue in IBD are. This review presents the available evidence of the effectiveness of treatments on fatigue in IBD."
+    },
+    {
+      "heading": "Search date",
+      "text": "Extensive searches were undertaken from inception up to July 2018. A top-up search was run in October 2019."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Fourteen studies (3741 participants with IBD) met the inclusion criteria. Nine different drug trials, four non-drug trials and one multimodular trial were included in the review. Thirty ongoing studies were also identified and five studies are awaiting classification. In only four trials was managing fatigue the aim of the intervention. In the remaining trials the interventions were aimed at managing other symptoms, including fatigue. Data on fatigue were not available for the fourteen trials, therefore, the findings of this review are based on 1344 participants in nine trials. Most studies were small in size and had low or very low quality of evidence."
+    },
+    {
+      "heading": "Key results and quality of evidence",
+      "text": "The evidence suggests electroacupuncture may result in a large reduction in fatigue compared to control and sham electroacupuncture, however, the overall certainty of the evidence is low due to sparse data. No adverse events were reported, except for one adverse event in the sham acupuncture group.\nWe are very uncertain about the effect of cognitive behavioural therapy and solution-focused therapy on fatigue, as the quality of the evidence is very low.\nOne small study found that physical activity advice plus omega 3 and physical activity advice plus placebo may reduce fatigue compared to no physical activity advice plus omega 3. Adverse events were similar across physical activity groups, although more adverse events were reported in the no physical activity advice plus omega 3 group. Adverse events were mainly mild gastrointestinal events like diarrhoea and bloating\nCompared with placebo, the drug alimumab 40 mg, administered every other week, may reduce fatigue in patients with moderately-to-severely active Crohn's disease, who are already known to respond to adalimumab treatment, but the evidence is very uncertain. People taking adalimumab 40 mg weekly were less like to experience serious adverse events or withdraw from the trial due to adverse events, compared to people taking placebo.\nThe evidence suggests ferric maltol results in a slight increase in fatigue in participants with Crohn's disease and ulcerative colitis, in remission or with mild-to-moderate disease activity. Following 12 weeks of ferric maltol treatment, less fatigue was reported in the placebo group compared to the treatment group, however, the quality of evidence is low."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "The effects of interventions for the management of fatigue on IBD are uncertain, with limited evidence available. No firm conclusions regarding the benefits and harms (e.g. side effects) can be drawn, Further high-quality studies, with a larger number of participants, are needed to determine the potential effect of treatments on fatigue in IBD. Future studies should assess fatigue as a primary outcome, be specifically designed for fatigue management and targeted at specific IBD populations."
+    }
+  ]
+}

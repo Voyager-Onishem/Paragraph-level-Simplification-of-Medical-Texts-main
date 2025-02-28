@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005590.pub3",
+  "name": "Prophylaxis for Pneumocystis pneumonia (PCP) in non‐HIV immunocompromised patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pneumocystis pneumonia (PCP) is a disease affecting immunocompromised patients. PCP among these patients is associated with significant morbidity and mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of PCP prophylaxis among non-HIV immunocompromised patients; and to define the type of immunocompromised patient for whom evidence suggests a benefit for PCP prophylaxis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 1), MEDLINE and EMBASE (to March 2014), LILACS (to March 2014), relevant conference proceedings; and references of identified trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) or quasi-RCTs comparing prophylaxis with an antibiotic effective against PCP versus placebo, no intervention, or antibiotic(s) with no activity against PCP; and trials comparing different antibiotics effective against PCP among immunocompromised non-HIV patients. We only included trials in which Pneumocystis infections were available as an outcome."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed risk of bias in each trial and extracted data from the included trials. We contacted authors of the included trials to obtain missing data. The primary outcome was documented PCP infections. Risk ratios (RR) with 95% confidence intervals (CI) were estimated and pooled using the random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirteen trials performed between the years 1974 and 2008 were included, involving 1412 patients. Four trials included 520 children with acute lymphoblastic leukemia and the remaining trials included adults with acute leukemia, solid organ transplantation or autologous bone marrow transplantation. Compared to no treatment or treatment with fluoroquinolones (inactive against Pneumocystis), there was an 85% reduction in the occurrence of PCP in patients receiving prophylaxis with trimethoprim/sulfamethoxazole, RR of 0.15 (95% CI 0.04 to 0.62; 10 trials, 1000 patients). The evidence was graded as moderate due to possible risk of bias. PCP-related mortality was also significantly reduced, RR of 0.17 (95% CI 0.03 to 0.94; nine trials, 886 patients) (low quality of evidence due to possible risk of bias and imprecision), but in trials comparing PCP prophylaxis against placebo or no treatment there was no significant effect on all-cause mortality (low quality of evidence due to imprecision). Occurrence of leukopenia or neutropenia and their duration were not reported consistently. No significant differences in overall adverse events or events requiring discontinuation were seen comparing trimethoprim/sulfamethoxazole to no treatment or placebo (four trials, 470 patients, moderate quality evidence). No differences between once daily versus thrice weekly trimethoprim/sulfamethoxazole were seen (two trials, 207 patients)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Given an event rate of 6.2% in the control groups of the included trials, prophylaxis for PCP using trimethoprim/sulfamethoxazole is highly effective among non-HIV immunocompromised patients, with a number needed to treat to prevent PCP of 19 patients (95% CI 17 to 42). Prophylaxis should be considered for patients with a similar baseline risk of PCP."
+    }
+  ],
+  "pls_title": "Antibiotic treatment for the prevention of Pneumocystis pneumonia (PCP) in non-HIV immunocompromised patients",
+  "pls_type": "long",
+  "pls": "Pneumocystis jiroveci is a fungus causing pneumonia mainly among patients with an impaired immune system, such as those infected with the human immunodeficiency virus (HIV), cancer patients, following organ transplantation, and patients receiving immune suppressive medications. Previous evidence shows that preventive antibiotic treatment (before the onset of the disease) could reduce mortality and morbidity from PCP among patients with HIV. We assessed whether this is also true for immunocompromised non-HIV patients.\nThe patients included in the 13 trials we identified were adults with acute leukemia or solid organ transplantation and children with acute leukemia. This review of randomised controlled trials (RCTs) found that prophylaxis with trimethoprim/sulfamethoxazole, an antibiotic effective against PCP, significantly reduced the occurrence of PCP by 85%. We found no evidence for a reduction in all cause mortality. Confidence in the results for PCP was moderate to high, while for mortality it was low due to paucity of data. Preventive treatment was not associated with an increased rate of adverse events. Trimethoprim/sulfamethoxazole may be administered thrice weekly as effectively as once daily.\nBased on our results, the number of people that need to be treated with trimethoprim/sulfamethoxazole for a prolonged period of time (ranging between several weeks to three years in the included trials) in order to prevent one episode of PCP infection was 19; when PCP infection occurs at a rate of about 6% without prophylaxis. Given the low rate of adverse events, prophylaxis should be considered for patients at similar risk of PCP."
+}

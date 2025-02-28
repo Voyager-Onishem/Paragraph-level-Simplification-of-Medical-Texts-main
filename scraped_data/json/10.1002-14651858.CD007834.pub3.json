@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD007834.pub3",
+  "name": "Iron for the treatment of restless legs syndrome",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Restless legs syndrome (RLS) is a common neurologic disorder that is associated with peripheral iron deficiency in a subgroup of patients. It is unclear whether iron therapy is effective treatment for RLS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of oral or parenteral iron for the treatment of restless legs syndrome (RLS) when compared with placebo or other therapies."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycNFO, and CINAHL for the time period January 1995 to September 2017. We searched reference lists for additional published studies. We searched Clinicaltrials.gov and other clinical trial registries (September 2017) for ongoing or unpublished studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Controlled trials comparing any formulation of iron with placebo, other medications, or no treatment, in adults diagnosed with RLS according to expert clinical interview or explicit diagnostic criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed trial quality, with discussion to reach consensus in the case of any disagreement. The primary outcome considered in this review was restlessness or unpleasant sensations, as experienced subjectively by the patient. We combined treatment/control differences in the outcomes across studies using random-effects meta-analyses. We analysed continuous data using mean differences (MDs) where possible and performed standardised mean difference (SMD) analyses when different measurements were used across studies. We calculated risk ratios (RRs) for dichotomous data using the Mantel-Haenszel method and 95% confidence intervals (CIs). We analysed study heterogeneity using the I2 statistic. We used standard methodological procedures expected by Cochrane. We performed GRADE analysis using GRADEpro."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified and included 10 studies (428 total participants, followed for 2-16 weeks) in this review. Our primary outcome was restlessness or uncomfortable leg sensations, which was quantified using the International Restless Legs Scale (IRLS) (range, 0 to 40) in eight trials and a different RLS symptom scale in a ninth trial. Nine studies compared iron to placebo and one study compared iron to a dopamine agonist (pramipexole). The possibility for bias among the trials was variable. Three studies had a single element with high risk of bias, which was lack of blinding in two and incomplete outcome data in one. All studies had at least one feature resulting in unclear risk of bias.\nCombining data from the seven trials using the IRLS to compare iron and placebo, use of iron resulted in greater improvement in IRLS scores (MD -3.78, 95% CI -6.25 to -1.31; I2= 66%, 7 studies, 345 participants) measured 2 to 12 weeks after treatment. Including an eighth study, which measured restlessness using a different scale, use of iron remained beneficial compared to placebo (SMD -0.74, 95% CI -1.26 to -0.23; I2 = 80%, 8 studies, 370 participants). The GRADE assessment of certainty for this outcome was moderate.\nThe single study comparing iron to a dopamine agonist (pramipexole) found a similar reduction in RLS severity in the two groups (MD -0.40, 95% CI -5.93 to 5.13, 30 participants).\nAssessment of secondary outcomes was limited by small numbers of trials assessing each outcome. Iron did not improve quality of life as a dichotomous measure (RR 2.01, 95% CI 0.54 to 7.45; I2=54%, 2 studies, 39 participants), but did improve quality of life measured on continuous scales (SMD 0.51, 95% CI 0.15 to 0.87; I2= 0%, 3 studies, 128 participants), compared to placebo. Subjective sleep quality was no different between iron and placebo groups (SMD 0.19, 95% CI -0.18 to 0.56; I2 = 9%, 3 studies, 128 participants), nor was objective sleep quality, as measured by change in sleep efficiency in a single study (-35.5 +/- 92.0 versus -41.4 +/- 98.2, 18 participants). Periodic limb movements of sleep were not significantly reduced with iron compared to placebo ( SMD -0.19, 95% CI -0.70 to 0.32; I2 = 0%, 2 studies, 60 participants). Iron did not improve sleepiness compared to placebo, as measured on the Epworth Sleepiness Scale (data not provided, 1 study, 60 participants) but did improve the daytime tiredness item of the RLS-6 compared to placebo (least squares mean difference -1.5, 95% CI -2.5 to -0.6; 1 study, 110 participants). The GRADE rating for secondary outcomes ranged from low to very low.\nPrespecified subgroup analyses showed more improvement with iron in those trials studying participants on dialysis. The use of low serum ferritin levels as an inclusion criteria and the use or oral versus intravenous iron did not show significant subgroup differences.\nIron did not result in significantly more adverse events than placebo (RR 1.48, 95% CI 0.97 to 2.25; I2=45%, 6 studies, 298 participants). A single study reported that people treated with iron therapy experienced fewer adverse events than the active comparator pramipexole."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Iron therapy probably improves restlessness and RLS severity in comparison to placebo. Iron therapy may not increase the risk of side effects in comparison to placebo. We are uncertain whether iron therapy improves quality of life in comparison to placebo. Iron therapy may make little or no difference to pramipexole in restlessness and RLS severity, as well as in the risk of adverse events. The effect on secondary outcomes such as quality of life, daytime functioning, and sleep quality, the optimal timing and formulation of administration, and patient characteristics predicting response require additional study."
+    }
+  ],
+  "pls_title": "Iron for the treatment of restless legs syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Restless legs syndrome is a common medical condition that causes uncomfortable urges to move the legs. These urges happen in the evening and at night and can keep people from sleeping well. Low blood levels of iron are often seen in people who have restless legs syndrome. Low blood iron levels may be part of the cause of restless legs syndrome. Iron can be taken as a pill or given as an injection into the bloodstream. We performed this review to see if iron treatment reduces the symptoms of restless legs syndrome."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 10 studies of iron. These 10 studies included 428 people with restless legs syndrome. Not all participants had low blood levels of iron. All participants were adults. Most of the studies used injections of iron, while three studies used iron in pill form. Iron treatment was compared to a non-active treatment (i.e. a placebo) in nine studies. In one study, iron was compared to another restless legs syndrome treatment called a dopamine agonist. The main measure of interest in our review was the severity of restlessness. This was usually measured using a 10-question survey regarding severity and effects of urges to move the legs, called the International Restless Legs Syndrome Severity Rating Scale (IRLS). This was measured 2-4 weeks after injections of iron and 12-14 weeks after iron in pill form.\nFour trials were funded by the drug manufacturer. Two trials were funded by the USA National Institutes of Health. Two trials were funded by the workplaces of the study investigators. Two studies did not report who funded the study. The four studies funded by drug manufacturers were the largest. The studies funded by drug companies contributed over half of the total number of participants."
+    },
+    {
+      "heading": "Key results and quality of evidence",
+      "text": "Overall, the studies showed that iron is better than a placebo for reducing the severity of restless legs syndrome symptoms, although the benefit was low to moderate. This is mostly based on studies using injections of iron, rather than iron pills. Iron was helpful even if blood iron levels were normal at the start of the study. The quality of the evidence was moderate, because not all completed studies have been published, not all important outcomes have been measured, and not enough people have been studied. Side effects were not more common with iron than with placebo. Based on one study, side effects were less common with iron than with another commonly used restless legs syndrome treatment, although the certainty in this result is very low. More studies are needed to allow people with RLS and doctors to make decisions about who should take iron for restless legs syndrome treatment, using what type of iron, and for how long. The evidence is current to September 2017."
+    }
+  ]
+}

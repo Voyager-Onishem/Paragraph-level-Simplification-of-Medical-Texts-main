@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD015016.pub3",
+  "name": "Systemic opioid regimens for postoperative pain in neonates",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Postoperative pain clinical management in neonates has always been a challenging medical issue. Worldwide, several systemic opioid regimens are available for pediatricians, neonatologists, and general practitioners to control pain in neonates undergoing surgical procedures. However, the most effective and safe regimen is still unknown in the current body of literature."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effects of different regimens of systemic opioid analgesics in neonates submitted to surgery on all-cause mortality, pain, and significant neurodevelopmental disability. Potentially assessed regimens might include: different doses of the same opioid, different routes of administration of the same opioid, continuous infusion versus bolus administration, or 'as needed' administration versus 'as scheduled' administration."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Searches were conducted in June 2022 using the following databases: Cochrane Central Register of Controlled Trials [CENTRAL], PubMed, and CINAHL. Trial registration records were identified via CENTRAL and an independent search of the ISRCTN registry."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs), quasi-randomized, cluster-randomized, and cross-over controlled trials evaluating systemic opioid regimens' effects on postoperative pain in neonates (pre-term or full-term). We considered suitable for inclusion: I) studies evaluating different doses of the same opioid; 2) studies evaluating different routes of administration of the same opioid; 3) studies evaluating the effectiveness of continuous infusion versus bolus infusion; and 4) studies establishing an assessment of an 'as needed' administration versus 'as scheduled' administration."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "According to Cochrane methods, two investigators independently screened retrieved records, extracted data, and appraised the risk of bias. We stratified meta-analysis by the type of intervention: studies evaluating the use of opioids for postoperative pain in neonates through continuous infusion versus bolus infusion and studies assessing the 'as needed' administration versus 'as scheduled' administration. We used the fixed-effect model with risk ratio (RR) for dichotomous data and mean difference (MD), standardized mean difference (SMD), median, and interquartile range (IQR) for continuous data. Finally, we used the GRADEpro approach for primary outcomes to evaluate the quality of the evidence across included studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this review, we included seven randomized controlled clinical trials (504 infants) from 1996 to 2020. We identified no studies comparing different doses of the same opioid, or different routes. The administration of continuous opioid infusion versus bolus administration of opioids was evaluated in six studies, while one study compared 'as needed' versus 'as scheduled' administration of morphine given by parents or nurses. Overall, the effectiveness of continuous infusion of opioids over bolus infusion as measured by the visual analog scale (MD 0.00, 95% confidence interval (CI) -0.23 to 0.23; 133 participants, 2 studies; I² = 0); or using the COMFORT scale (MD -0.07, 95% CI -0.89 to 0.75; 133 participants, 2 studies; I² = 0), remains unclear due to study designs' limitations, such as the unclear risk of attrition, reporting bias, and imprecision among reported results (very low certainty of the evidence).  None of the included studies reported data on other clinically important outcomes such as all-cause mortality rate during hospitalization, major neurodevelopmental disability, the incidence of severe retinopathy of prematurity or intraventricular hemorrhage, and cognitive- and educational-related outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Limited evidence is available on continuous infusion compared to intermittent boluses of systemic opioids. We are uncertain whether continuous opioid infusion reduces pain compared with intermittent opioid boluses; none of the studies reported the other primary outcomes of this review, i.e. all-cause mortality during initial hospitalization, significant neurodevelopmental disability, or cognitive and educational outcomes among children older than five years old. Only one small study reported on morphine infusion with parent- or nurse-controlled analgesia."
+    }
+  ],
+  "pls_title": "How effective and safe are systemic opioids for postoperative pain control and management in neonates?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review Question",
+      "text": "How effective and safe are systemic opioids for reducing newborn babies' pain after surgery?"
+    },
+    {
+      "heading": "Background",
+      "text": "Neonates (babies in the first four weeks after birth) may undergo surgery (operations) or surgical procedures. Like adults, babies experience pain, and this pain must be managed (reduced) after surgery. Opioids are pain-relieving medications. Examples of opioids are codeine and morphine. Opioids work by interacting with opioid receptors in the body and reducing feelings of pain.\nOpioids affect the whole body system and this is why this review refers to them as systemic opioids. Opioids can be given to babies in a few ways, by different routes. One route is by using a needle injected into a vein; this is called parenteral drug administration. Another way (or route) is to place a medication in the baby's mouth, under the tongue or with a tube. These types of drug delivery are called enteral administration. Opioids, like most drugs, can be given at different strengths (dosages). Opioids can be given continuously (without stopping), or on and off over a period of time (intermittently).\nAll of these things together, how the opioid is given to the baby, how often the opioid is given, and the strength of the opioid, create what is called a drug regimen.\nThis review aims to evaluate how different opioid regimens affect babies."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review included seven studies involving 504 babies. We identified no studies comparing different doses of the same opioid. We identified no studies comparing different routes to delivery of opioids. Six studies compared continuous opioid administration versus intermittent opioid administration. One study assessed the use of continuous morphine infusion compared with a parent- or nurse-controlled administration.\nBased on the studies we found that we were unable to determine whether continuous or intermittent opioid regimens are better for controlling babies' pain. Since we did not find studies comparing different dosages of opioids, we do not know which dosage is better for reducing babies' pain. Since we did not find studies comparing different routes of opioid administration, we do not know if parenteral is better than enteral for reducing babies' pain. Considering the body of literature evaluated, the effectiveness of continuous systemic opioid infusion compared with intermittent systemic opioid administration is still undetermined. We are uncertain about the effectiveness of continuous systemic opioid administration and intermittent opioid administration in reducing the pain. \nWe searched for studies that were available up to 10 June 2022."
+    }
+  ]
+}

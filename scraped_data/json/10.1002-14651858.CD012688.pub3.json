@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012688.pub3",
+  "name": "Indoor residual spraying for preventing malaria in communities using insecticide‐treated nets ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Insecticide-treated nets (ITNs) and indoor residual spraying (IRS) are used to prevent malaria transmission. Both interventions use insecticides to kill mosquitoes that bite and rest indoors. Adding IRS to ITNs may improve malaria control simply because two interventions can be better than one. Furthermore, IRS may improve malaria control where ITNs are failing due to insecticide resistance. Pyrethroid insecticides are the predominant class of insecticide used for ITNs, as they are more safe than other insecticide classes when in prolonged contact with human skin. While many mosquito populations have developed some resistance to pyrethroid insecticides, a wider range of insecticides can be used for IRS. This review is an update of the previous Cochrane 2019 edition."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To summarize the effect on malaria of additionally implementing IRS, using non-pyrethroid-like or pyrethroid-like insecticides, in communities currently using ITNs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register; CENTRAL; MEDLINE; and five other databases for records from 1 January 2000 to 8 November 2021, on the basis that ITN programmes did not begin to be implemented as policy before the year 2000."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cluster-randomized controlled trials (cRCTs), interrupted time series (ITS), or controlled before-after studies (CBAs) comparing IRS plus ITNs with ITNs alone. We included studies with at least 50% ITN ownership (defined as the proportion of households owning one or more ITN) in both study arms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for eligibility, analyzed risk of bias, and extracted data. We used risk ratio (RR) and 95% confidence intervals (CI). We stratified by type of insecticide, 'pyrethroid-like' and 'non-pyrethroid-like'; the latter could improve malaria control better than adding IRS insecticides that have the same way of working as the insecticide on ITNs ('pyrethroid-like'). We used subgroup analysis of ITN usage in the studies to explore heterogeneity. We assessed the certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eight cRCTs (10 comparisons), one CBA, and one ITS study, all conducted since 2008 in sub-Saharan Africa, met our inclusion criteria. The primary vectors in all sites were mosquitoes belonging to the Anopheles gambiae s.l. complex species; five studies in Benin, Mozambique, Ghana, Sudan, and Tanzania also reported the vector Anopheles funestus. Five cRCTs and both quasi-experimental design studies used insecticides with targets different to pyrethroids (two used bendiocarb, three used pirimiphos-methyl, and one used propoxur. Each of these studies were conducted in areas where the vectors were described as resistant or highly resistant to pyrethroids. Two cRCTs used dichloro-diphenyl-trichlorethane (DDT), an insecticide with the same target as pyrethroids. The remaining cRCT used both types of insecticide (pyrethroid deltamethrin in the first year, switching to bendiocarb for the second year).\nIndoor residual spraying using 'non-pyrethroid-like' insecticides\nSix studies were included (four cRCTs, one CBA, and one ITS). Our main analysis for prevalence excluded a study at high risk of bias due to repeated sampling of the same population. This risk did not apply to other outcomes. Overall, the addition of IRS reduced malaria parasite prevalence (RR 0.61, 95% CI 0.42 to 0.88; 4 cRCTs, 16,394 participants; high-certainty evidence). IRS may also reduce malaria incidence on average (rate ratio 0.86, 95% CI 0.61 to 1.23; 4 cRCTs, 323,631 child-years; low-certainty evidence) but the effect was absent in two studies. Subgroup analyses did not explain the qualitative heterogeneity between studies. One cRCT reported no effect on malaria incidence or parasite prevalence in the first year, when a pyrethroid-like insecticide was used for IRS, but showed an effect on both outcomes in the second year, when a non-pyrethroid-like IRS was used.\nThe addition of IRS may also reduce anaemia prevalence (RR 0.71, 95% CI 0.38 to 1.31; 3 cRCTs, 4288 participants; low-certainty evidence). Four cRCTs reported the impact of IRS on entomological inoculation rate (EIR), with variable results; overall, we do not know if IRS had any effect on the EIR in communities using ITNs (very low-certainty evidence). Studies also reported the adult mosquito density and the sporozoite rate, but we could not summarize or pool these entomological outcomes due to differences in the reported data. Three studies measured the prevalence of pyrethroid resistance before and after IRS being introduced: there was no difference detected, but these data are limited.\nIndoor residual spraying using 'pyrethroid-like' insecticides\nAdding IRS using a pyrethroid-like insecticide did not appear to markedly alter malaria incidence (rate ratio 1.07, 95% CI 0.80 to 1.43; 2 cRCTs, 15,717 child-years; moderate-certainty evidence), parasite prevalence (RR 1.11, 95% CI 0.86 to 1.44; 3 cRCTs, 10,820 participants; moderate-certainty evidence), or anaemia prevalence (RR 1.12, 95% CI 0.89 to 1.40; 1 cRCT, 4186 participants; low-certainty evidence). Data on EIR were limited so no conclusion was made (very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "in communities using ITNs, the addition of IRS with 'non-pyrethroid-like' insecticides was associated with reduced malaria prevalence. Malaria incidence may also be reduced on average, but there was unexplained qualitative heterogeneity, and the effect may therefore not be observed in all settings.\nWhen using 'pyrethroid-like' insecticides, there was no detectable additional benefit of IRS in communities using ITNs."
+    }
+  ],
+  "pls_title": "Adding indoor residual spraying in communities using insecticide-treated nets for the prevention of malaria",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was the aim of this review?",
+      "text": "Indoor residual spraying (IRS) is the regular application of chemical insecticides to household walls. The insecticide lasts for several months, killing mosquitoes that land on them. Insecticide-treated nets (ITNs) are bed nets treated with insecticides, preventing mosquitoes from biting people and reducing the mosquito population. Both interventions help to control malaria by reducing the number of people being bitten by mosquitoes infected with malaria. Implementing IRS in communities that are using ITNs may be better for malaria control than using ITNs alone simply because two interventions may be better than one; but also because it may improve malaria control where mosquitoes have become resistant to the pyrethroid insecticides used in ITNs. Pyrethroids were the only class of insecticides approved for use in ITNs until 2018, but growing resistance of mosquitoes to pyrethroids impairs their effectiveness. The addition of IRS could counteract this reduction in ITN effectiveness and may help to slow the emergence of pyrethroid resistance. We could expect that IRS insecticides that have a different way of working to pyrethroids ('non-pyrethroid-like') could restore effectiveness better than those that have the same way of working ('pyrethroid-like'). The aim of this review was to summarize the impact of pyrethroid-like or non-pyrethroid-like IRS on malaria, when implemented in communities that are using ITNs."
+    },
+    {
+      "heading": "Key messages",
+      "text": "The addition of IRS using a non-pyrethroid-like insecticide was associated with reduced malaria prevalence. Malaria incidence may also be reduced on average, but this effect was absent in two studies, and consequently there remains some uncertainty over whether the intervention will be effective in all settings.\nWhen a pyrethroid-like insecticide was used for IRS, data were limited but there was no additional effect demonstrated."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "We searched for studies that evaluated the impact on malaria transmission when IRS, using a World Health Organization (WHO)-recommended dosage, was implemented in communities that were using either ready-treated ITN products or standard nets treated with insecticide at a WHO-recommended dose. We considered effects on both human health outcomes and on mosquito populations."
+    },
+    {
+      "heading": "What were the main results of the review?",
+      "text": "In total, we identified 10 studies matching our inclusion criteria, from which we made 12 comparisons. Seven studies (providing eight comparisons) used a non-pyrethroid-like IRS throughout the study. Each of these were conducted in areas where the vectors were described as resistant or highly resistant to pyrethroids. Two studies (providing two comparisons) used a pyrethroid-like IRS throughout. One further study used a pyrethroid-like IRS in the first study year and switched to a non-pyrethroid-like IRS in the subsequent years, therefore providing two different comparisons. All studies were conducted in sub-Saharan Africa.\nAdding non-pyrethroid-like IRS in communities using ITNs appeared to improve malaria outcomes in most settings. Overall, the results from the eight included studies found lower malaria parasite prevalence, while there may be a reduction in malaria incidence and anaemia prevalence. We do not know if there is an impact on the number of infected bites received per person per year.\nWhen adding pyrethroid-like IRS in communities using ITNs, the data from three studies indicate there is probably no effect on malaria incidence or parasite prevalence, and there may be little or no effect on the prevalence of anaemia. Data on the number of infected bites received per person per year were too limited to draw a conclusion."
+    },
+    {
+      "heading": "How up to date is the review?",
+      "text": "We searched for relevant studies up to 8 November 2021."
+    }
+  ]
+}

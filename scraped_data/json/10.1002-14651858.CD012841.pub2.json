@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012841.pub2",
+  "name": "Protease activity as a prognostic factor for wound healing in venous leg ulcers",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous leg ulcers (VLUs) are a common type of complex wound that have a negative impact on people's lives and incur high costs for health services and society. It has been suggested that prolonged high levels of protease activity in the later stages of the healing of chronic wounds may be associated with delayed healing. Protease modulating treatments have been developed which seek to modulate protease activity and thereby promote healing in chronic wounds."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether protease activity is an independent prognostic factor for the healing of venous leg ulcers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In February 2018, we searched the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, Ovid Embase and CINAHL."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included prospective and retrospective longitudinal studies with any follow-up period that recruited people with VLUs and investigated whether protease activity in wound fluid was associated with future healing of VLUs. We included randomised controlled trials (RCTs) analysed as cohort studies, provided interventions were taken into account in the analysis, and case-control studies if there were no available cohort studies. We also included prediction model studies provided they reported separately associations of individual prognostic factors (protease activity) with healing. Studies of any type of protease or combination of proteases were eligible, including proteases from bacteria, and the prognostic factor could be examined as a continuous or categorical variable; any cut-off point was permitted. The primary outcomes were time to healing (survival analysis) and the proportion of people with ulcers completely healed; the secondary outcome was change in ulcer size/rate of wound closure. We extracted unadjusted (simple) and adjusted (multivariable) associations between the prognostic factor and healing."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for inclusion at each stage, and undertook data extraction, assessment of risk of bias and GRADE assessment. We collected association statistics where available. No study reported adjusted analyses: instead we collected unadjusted results or calculated association measures from raw data. We calculated risk ratios when both outcome and prognostic factor were dichotomous variables. When the prognostic factor was reported as continuous data and healing outcomes were dichotomous, we either performed regression analysis or analysed the impact of healing on protease levels, analysing as the standardised mean difference. When both prognostic factor and outcome were continuous data, we reported correlation coefficients or calculated them from individual participant data.\nWe displayed all results on forest plots to give an overall visual representation. We planned to conduct meta-analyses where this was appropriate, otherwise we summarised narratively."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 studies comprising 21 cohorts involving 646 participants. Only 11 studies (13 cohorts, 522 participants) had data available for analysis. Of these, five were prospective cohort studies, four were RCTs and two had a type of case-control design. Follow-up time ranged from four to 36 weeks. Studies covered 10 different matrix metalloproteases (MMPs) and two serine proteases (human neutrophil elastase and urokinase-type plasminogen activators). Two studies recorded complete healing as an outcome; other studies recorded partial healing measures. There was clinical and methodological heterogeneity across studies; for example, in the definition of healing, the type of protease and its measurement, the distribution of active and bound protease species, the types of treatment and the reporting of results. Therefore, meta-analysis was not performed. No study had conducted multivariable analyses and all included evidence was of very low certainty because of the lack of adjustment for confounders, the high risk of bias for all studies except one, imprecision around the measures of association and inconsistency in the direction of association. Collectively the research indicated complete uncertainty as to the association between protease activity and VLU healing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review identified very low validity evidence regarding any association between protease activity and VLU healing and there is complete uncertainty regarding the relationship. The review offers information for both future research and systematic review methodology."
+    }
+  ],
+  "pls_title": "Protease activity and its association with future healing of venous leg ulcers",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if there is a link between different levels of protease in venous leg ulcers (open skin wounds on the lower leg caused by problems with the way blood flows through the veins) now and the healing of wounds at some time in the future. Protease is an enzyme, a chemical naturally produced by the body that breaks down proteins and which may affect wound healing. We wanted to know whether having higher protease levels meant that wounds were less likely to heal or to heal more slowly. If so, this could help find the most useful treatments for each person with a leg ulcer. Review authors from Cochrane collected and analysed all relevant studies to answer this question and found 19 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "At the moment, there is complete uncertainty about any association between protease activity and venous leg ulcer healing, but this review did give pointers on what may be important for future research on natural chemicals present in wounds and their effect on healing."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Venous leg ulcers can last weeks, months or years. Leg ulcers can be painful, may become infected, and may affect mobility and quality of life. The usual treatment for venous leg ulcers is compression therapy (e.g. compression (elastic) bandages), but even this does not work for everyone (about a third of people still have wounds that have not healed after six months). We wanted to find out why these wounds often do not heal, and whether there are factors in the wound (called biomarkers) that can indicate which wounds are unlikely to heal. It has been suggested that wounds are slow to heal when there are high levels of protease. In this review, we investigated whether there was any evidence that higher protease levels at the start of a study were associated with slower healing leg ulcers or less healing at a future time point (such as six months).\nIn February 2018, we searched for relevant studies that had a reliable design and that investigated links between protease levels and future healing of venous leg ulcers. We found 19 studies involving 646 people. Not all studies reported the age and sex of participants. In those that did, the average age of the participants varied from 51 to 75 years. Eleven studies gave results we could use, involving 13 groups of people. Most people had wounds that had been there for at least three months."
+    },
+    {
+      "heading": "What were the main results of the review?",
+      "text": "There were many differences among the included studies: for example, how they defined healing, the type of proteases and how they measured them, the types of treatment and how they reported results. This lack of consistency meant we could not combine and compare the results, so we summarised the findings in a general way.\nA bigger problem was that none of the studies had analysed the data appropriately as they did not take into account the impact of age or infection or treatments, and so we could not be sure that it was the protease levels that were important for healing, rather than age or other factors. Most studies were small and could have been better conducted, so it was difficult to be sure how meaningful the results were. Overall, the certainty of the evidence was very low. Further studies are needed to explore the importance of biomarkers for wound healing."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "We searched for studies that had been published up to February 2018."
+    }
+  ]
+}

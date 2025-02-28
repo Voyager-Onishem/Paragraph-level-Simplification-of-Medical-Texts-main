@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006743.pub2",
+  "name": "Effect of early treatment with anti‐hypertensive drugs on short and long‐term mortality in patients with an acute cardiovascular event ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute cardiovascular events represent a therapeutic challenge. Blood pressure lowering drugs are commonly used and recommended in the early phase of these settings. This review analyses randomized controlled trial (RCT) evidence for this approach."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of immediate and short-term administration of anti-hypertensive drugs on all-cause mortality, total non-fatal serious adverse events (SAE) and blood pressure, in patients with an acute cardiovascular event, regardless of blood pressure at the time of enrollment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "MEDLINE, EMBASE, and Cochrane clinical trial register from Jan 1966 to February 2009 were searched. Reference lists of articles were also browsed. In case of missing information from retrieved articles, authors were contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs) comparing anti-hypertensive drug with placebo or no treatment administered to patients within 24 hours of the onset of an acute cardiovascular event."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently extracted data and assessed risk of bias. Fixed effects model with 95% confidence intervals (CI) were used. Sensitivity analyses were also conducted."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixty-five RCTs (N=166,206) were included, evaluating four classes of anti-hypertensive drugs: ACE inhibitors (12 trials), beta-blockers (20), calcium channel blockers (18) and nitrates (18). Acute stroke was studied in 6 trials (all involving CCBs). Acute myocardial infarction was studied in 59 trials. In the latter setting immediate nitrate treatment (within 24 hours) reduced all-cause mortality during the first 2 days (RR 0.81, 95%CI [0.74,0.89], p<0.0001). No further benefit was observed with nitrate therapy beyond this point. ACE inhibitors did not reduce mortality at 2 days (RR 0.91,95%CI [0.82, 1.00]), but did after 10 days (RR 0.93, 95%CI [0.87,0.98] p=0.01). No other blood pressure lowering drug administered as an immediate treatment or short-term treatment produced a statistical significant mortality reduction at 2, 10 or ≥30 days. There was not enough data studying acute stroke, and there were no RCTs evaluating other acute cardiovascular events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Nitrates reduce mortality (4-8 deaths prevented per 1000) at 2 days when administered within 24 hours of symptom onset of an acute myocardial infarction. No mortality benefit was seen when treatment continued beyond 48 hours. Mortality benefit of immediate treatment with ACE inhibitors post MI at 2 days did not reach statistical significance but the effect was significant at 10 days (3-5 deaths prevented per 1000). There is good evidence for lack of a mortality benefit with immediate or short-term treatment with beta-blockers and calcium channel blockers for acute myocardial infarction."
+    }
+  ],
+  "pls_title": "Effects of blood pressure lowering drugs given in the first 24 hours of heart attack or stroke",
+  "pls_type": "long",
+  "pls": "Reducing blood pressure with drugs has been a strategy used in patients suffering from an acute event in the heart or in the brain, such as heart attack or stroke. There is controversy whether these drugs should be used in the immediate period of these events, and what would be the best type of drug that renders the most benefit. This review looked at all studies where patients were randomized to one of these drugs or placebo, in this period. One class of blood pressure lowering drug, the so-called nitrates, demonstrated reduction in mortality in patients with heart attack. For 1000 patients treated 4 to 8 deaths were prevented during the first 2 days of this acute event. The ACE-inhibitors class also decrease mortality when continued for 10 days (3 to 5 deaths prevented per 1000). No other class of drug showed a reduction in mortality."
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002795.pub3",
+  "name": "Pharmacotherapy for post traumatic stress disorder (PTSD)",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Posttraumatic stress disorder (PTSD) is a prevalent and disabling disorder. Evidence that PTSD is characterised by specific psychobiological dysfunctions has contributed to a growing interest in the use of medication in its treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of medication for reducing PTSD symptoms in adults with PTSD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, November 2020); MEDLINE (1946-), Embase (1974-), PsycINFO (1967-) and PTSDPubs (all available years) either directly or via the Cochrane Common Mental Disorders Controlled Trials Register (CCMDCTR). We also searched international trial registers. The date of the latest search was 13 November 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) of pharmacotherapy for adults with PTSD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors (TW, JI, and NP) independently assessed RCTs for inclusion in the review, collated trial data, and assessed trial quality. We contacted investigators to obtain missing data. We stratified summary statistics by medication class, and by medication agent for all medications. We calculated dichotomous and continuous measures using a random-effects model, and assessed heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We include 66 RCTs in the review (range: 13 days to 28 weeks; 7442 participants; age range 18 to 85 years) and 54 in the meta-analysis.\nFor the primary outcome of treatment response, we found evidence of beneficial effect for selective serotonin reuptake inhibitors (SSRIs) compared with placebo (risk ratio (RR) 0.66, 95% confidence interval (CI) 0.59 to 0.74; 8 studies, 1078 participants), which improved PTSD symptoms in 58% of SSRI participants compared with 35% of placebo participants, based on moderate-certainty evidence.\nFor this outcome we also found evidence of beneficial effect for the noradrenergic and specific serotonergic antidepressant (NaSSA) mirtazapine: (RR 0.45, 95% CI 0.22 to 0.94; 1 study, 26 participants) in 65% of people on mirtazapine compared with 22% of placebo participants, and for the tricyclic antidepressant (TCA) amitriptyline (RR 0.60, 95% CI 0.38 to 0.96; 1 study, 40 participants) in 50% of amitriptyline participants compared with 17% of placebo participants, which improved PTSD symptoms. These outcomes are based on low-certainty evidence. There was however no evidence of beneficial effect for the number of participants who improved with the antipsychotics (RR 0.51, 95% CI 0.16 to 1.67; 2 studies, 43 participants) compared to placebo, based on very low-certainty evidence.\nFor the outcome of treatment withdrawal, we found evidence of a harm for the individual SSRI agents compared with placebo (RR 1.41, 95% CI 1.07 to 1.87; 14 studies, 2399 participants). Withdrawals were also higher for the separate SSRI paroxetine group compared to the placebo group (RR 1.55, 95% CI 1.05 to 2.29; 5 studies, 1101 participants). Nonetheless, the absolute proportion of individuals dropping out from treatment due to adverse events in the SSRI groups was low (9%), based on moderate-certainty evidence. For the rest of the medications compared to placebo, we did not find evidence of harm for individuals dropping out from treatment due to adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings of this review support the conclusion that SSRIs improve PTSD symptoms; they are first-line agents for the pharmacotherapy of PTSD, based on moderate-certainty evidence. The NaSSA mirtazapine and the TCA amitriptyline may also improve PTSD symptoms, but this is based on low-certainty evidence. In addition, we found no evidence of benefit for the number of participants who improved following treatment with the antipsychotic group compared to placebo, based on very low-certainty evidence. There remain important gaps in the evidence base, and a continued need for more effective agents in the management of PTSD."
+    }
+  ],
+  "pls_title": "Medication for posttraumatic stress disorder",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Posttraumatic stress disorder (PTSD) occurs after exposure to significant trauma and results in enormous personal and societal costs. Although it has traditionally been treated with psychotherapy, medication treatments have proven effective in PTSD treatment."
+    },
+    {
+      "heading": "Who will be interested in this review?",
+      "text": "- People with PTSD.\n- Families and friends of people who suffer from PTSD.\n- General practitioners, psychiatrists, psychologists, and pharmacists."
+    },
+    {
+      "heading": "What question does this review aim to answer?",
+      "text": "- Is pharmacotherapy effective for reducing PTSD symptoms in adults with PTSD?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "We included studies comparing medication with placebo or a control, or both, for the treatment of PTSD in adults.\nWe included 66 trials in the review, with a total of 7442 participants."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "There was evidence of a beneficial effect that selective serotonin reuptake inhibitors (SSRIs) improve PTSD symptoms compared to placebo, based on moderate-certainty evidence. There was also evidence of a benefit for the noradrenergic and specific serotonergic antidepressant (NaSSA) mirtazapine and the tricyclic antidepressant (TCA) amitriptyline, in improving PTSD symptoms, based on low-certainty evidence. We also found no evidence of benefit for the number of participants who improved following treatment with the antipsychotic group compared to placebo, based on very low-certainty evidence. For the remaining medication classes, we did not observe evidence of a benefit for improving PTSD symptoms.\nThere was evidence of a harm that more people taking individual SSRI agents dropped out due to side effects than did those taking placebo, but absolute withdrawal rates were low for the SSRI groups."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "Most evidence for pharmacotherapy efficacy is related to SSRIs for acute treatment. There is an ongoing need to develop new pharmacotherapeutic treatments of PTSD."
+    }
+  ]
+}

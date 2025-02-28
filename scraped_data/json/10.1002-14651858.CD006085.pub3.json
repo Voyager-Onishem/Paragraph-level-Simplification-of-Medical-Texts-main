@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006085.pub3",
+  "name": "Antiamoebic drugs for treating amoebic colitis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Infection with the protozoan Entamoeba histolytica is common in low- and middle-income countries, and up to 100,000 people with severe disease die every year. Adequate therapy for amoebic colitis is necessary to reduce illness, prevent development of complicated disease and extraintestinal spread, and decrease transmission."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate antiamoebic drugs for treating amoebic colitis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the available literature up to 22 March 2018. We searched the Cochrane Infectious Diseases Group Specialised Register, CENTRAL, MEDLINE, Embase, LILACS, mRCT, and conference proceedings. We contacted individual researchers, organizations, and pharmaceutical companies, and we checked reference lists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials of antiamoebic drugs given alone or in combination, compared with placebo or another antiamoebic drug, for treating adults and children with a diagnosis of amoebic colitis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the eligibility and methodological quality of trials and extracted and analysed the data. We calculated clinical and parasitological failure rates and rates of relapse and adverse events as risk ratios (RRs) with 95% confidence intervals (CIs), using a random-effects model. We determined statistical heterogeneity and explored possible sources of heterogeneity using subgroup analyses. We carried out sensitivity analysis by using trial quality to assess the robustness of reported results."
+    },
+    {
+      "heading": "Main results",
+      "text": "In total, 41 trials (4999 participants) met the inclusion criteria of this review. In this update, we added four trials to the 37 trials included in the first published review version. Thirty trials were published over 20 years ago. Only one trial used adequate methods of randomization and allocation concealment, was blinded, and analysed all randomized participants. Only one trial used an E histolytica stool antigen test, and two trials used amoebic culture.\nTinidazole may be more effective than metronidazole for reducing clinical failure (RR 0.28, 95% CI 0.15 to 0.51; 477 participants, eight trials; low-certainty evidence) and is probably associated with fewer adverse events (RR 0.65, 95% CI 0.46 to 0.92; 477 participants, 8 trials; moderate-certainty evidence). Compared with metronidazole, combination therapy may result in fewer parasitological failures (RR 0.36, 95% CI 0.15 to 0.86; 720 participants, 3 trials; low-certainty evidence), but we are uncertain which combination is more effective than another. Evidence is insufficient to allow conclusions regarding the efficacy of other antiamoebic drugs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared with metronidazole, tinidazole may be more effective in reducing clinical failure and may be associated with fewer adverse events. Combination drug therapy may be more effective for reducing parasitological failure compared with metronidazole alone. However, these results are based mostly on small trials conducted over 20 years ago with a variety of poorly defined outcomes. Tests that detect E histolytica more accurately are needed, particularly in countries where concomitant infection with other bacteria and parasites is common."
+    }
+  ],
+  "pls_title": "Antiamoebic drugs for treating amoebic colitis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "This Cochrane Review aims to determine the effectiveness and safety of drugs used to treat people with amoebic colitis, which is an infection of the large intestines caused by the parasite, Entamoeba histolytica. Cochrane researchers searched for all relevant studies to answer this question and included 41 relevant studies in this review."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Tinidazole may be more effective than metronidazole for reducing clinical symptoms and may be associated with fewer adverse events. Combination therapy resulted in fewer parasitological failures than occurred with metronidazole alone. Evidence is insufficient to allow conclusions regarding the efficacy of other antiamoebic drugs. Better quality randomized trials using accurate diagnostic methods and standardized outcomes are needed to evaluate the efficacy of drugs for treating individuals with amoebic colitis."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Entamoeba histolytica is distributed throughout the world and is commonly acquired by ingestion of contaminated food or water. An estimated 40 to 50 million people infected with E histolytica develop amoebic colitis or extraintestinal abscesses, resulting in up to 100,000 deaths per year.\nMetronidazole is currently the standard therapy for treating adults and children with invasive amoebiasis, but it may not be sufficient to eliminate amoebic cysts from the intestine. Some unpleasant adverse effects have been associated with metronidazole, and the possibility of parasite resistance to metronidazole has led to the development of alternative drugs. Combinations of metronidazole with other drugs that eradicate surviving cysts in the intestines have been recommended, so evidence to support this approach needs to be assessed.\nThis review compares different drugs used against amoebic colitis, alone or in combination, and also assesses single-dose regimens versus longer regimens."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "This review included 41 studies, most of which were conducted in countries considered to be highly endemic for amoebiasis. Most trials were old: 30 were conducted before 1998. Trials varied in the inclusion criteria used to enrol participants and in the definition and timing of measured outcomes. Stool microscopy with direct wet saline smear was the method used most often to detect the presence of E histolytica in stools. Study participants ranged in age from seven months to 80 years. Included trials reported a variety of comparisons and involved 25 individual drugs, two herbal products, and 15 different combinations.\nThe review shows that in individuals with amoebic colitis, tinidazole may be better for reducing clinical symptoms (low-certainty evidence) and probably results in fewer adverse events when compared with metronidazole (moderate-certainty evidence). However, we do not know whether it is more effective for eradicating amoebae from the stools. Combination drug therapy may be more effective than metronidazole alone for eradicating amoebae (low-certainty evidence), but we are uncertain which drug combination is most effective, and if combination treatment will lead to more rapid resolution of clinical symptoms or in more adverse events (very low-certainty evidence). Evidence is insufficient to allow conclusions regarding efficacy of the other antiamoebic drugs."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to 22 March 2018."
+    }
+  ]
+}

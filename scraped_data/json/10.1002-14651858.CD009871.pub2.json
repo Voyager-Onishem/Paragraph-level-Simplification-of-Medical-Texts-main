@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD009871.pub2",
+  "name": "Non‐pharmacological interventions for depression in adults and children with traumatic brain injury ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Following traumatic brain injury (TBI) there is an increased prevalence of depression compared to the general population. It is unknown whether non-pharmacological interventions for depression are effective for people with TBI."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate the effectiveness of non-pharmacological interventions for depression in adults and children with TBI at reducing the diagnosis and severity of symptoms of depression."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We ran the most recent search on 11 February 2015. We searched the Cochrane Injuries Group Specialised Register, The Cochrane Library, MEDLINE (OvidSP), Embase (OvidSP), three other databases and clinical trials registers. Relevant conference proceedings and journals were handsearched, as were the reference lists of identified studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of non-pharmacological interventions for depression in adults and children who had a TBI."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected trials from the search results, then assessed risk of bias and extracted data from the included trials. The authors contacted trial investigators to obtain missing information. We rated the overall quality of the evidence of the primary outcomes using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six studies met the inclusion criteria, with a total of 334 adult participants. We identified no studies that included children as participants. All studies were affected by high risk of bias due to a lack of blinding of participants and personnel; five studies were affected by high risk of bias for lack of blinding of outcome assessors. There was high or unclear risk of biases affecting some studies across all the Cochrane risk of bias measures.\nThree studies compared a psychological intervention (either cognitive behaviour therapy or mindfulness-based cognitive therapy) with a control intervention. Data regarding depression symptom outcome measures were combined in a meta-analysis, but did not find an effect in favour of treatment (SMD -0.14; 95% CI -0.47 to 0.19; Z = 0.83; P = 0.41). The other comparisons comprised of single studies of depression symptoms and compared; cognitive behaviour therapy versus supportive psychotherapy (SMD -0.09; 95% CI -0.65 to 0.48; Z = 0.30; P = 0.77); repetitive transcranial magnetic stimulation plus tricyclic antidepressant (rTMS + TCA) versus tricyclic antidepressant alone (SMD -0.84; 95% CI -1.36 to -0.32; Z = 3;19, P = 0.001); and a supervised exercise program versus exercise as usual (SMD -0.43; 95% CI -0.88 to 0.03; Z = 1.84; P = 0.07). There was very-low quality evidence, small effect sizes and wide variability of results, suggesting that no comparisons showed a reliable effect for any intervention.\nOnly one study mentioned minor, transient adverse events from repetitive transcranial magnetic stimulation."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The review did not find compelling evidence in favour of any intervention. Future studies should focus on participants with a diagnosed TBI and include only participants who have a diagnosis of depression, or who record scores above a clinical cutoff on a depression measure. There is a need for additional RCTs that include a comparison between an intervention and a control that replicates the effect of the attention given to participants during an active treatment."
+    }
+  ],
+  "pls_title": "Non-drug treatments for depression in children and adults who have had a traumatic brain injury",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of non-drug treatments for depression after traumatic brain injury (TBI), to determine whether these treatments are better than no intervention, or better than drug-based treatments, at reducing the symptoms or diagnosis of depression. We searched for evidence about the relative effectiveness of different types of treatments, and whether the treatments had any harmful or negative effects."
+    },
+    {
+      "heading": "Background",
+      "text": "Depression is more common in people who have had a TBI. Depression increases the risk of suicide and is a factor that limits recovery from TBI. There are many non-drug treatments for depression. This review aimed to determine the effects of non-drug interventions for people with TBI."
+    },
+    {
+      "heading": "Search date",
+      "text": "The review authors searched for randomised studies that had been published up to February 2015."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found six studies, with a total of 334 adult participants. We found no studies that included people younger than 18 years of age. Four studies investigated psychological interventions. One study investigated an exercise intervention, and another investigated repetitive transcranial magnetic stimulation (rTMS)."
+    },
+    {
+      "heading": "Key results",
+      "text": "Three studies compared a psychological therapy (cognitive behaviour therapy or mindfulness-based cognitive therapy) with a no-treatment control intervention. When the data for these studies were combined, there was no reliable effect in support of psychological therapy. One study compared cognitive behavioural therapy with another psychological intervention (supportive psychotherapy), and did not find an effect in favour of either intervention. One study compared a supervised exercise programme with exercise as usual, but did not find a effect in favour of either intervention. One study compared rTMS plus an antidepressant medication with the antidepressant medication alone. Because the quality of the evidence was very low, it was not possible to draw the conclusion that the addition of rTMS improved outcomes. Only one study, of rTMS, reported any harmful effects and these were relatively minor and resolved quickly."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was rated very low. All studies were at high risk of bias in some ways, and therefore it was not possible to draw conclusions in support of any intervention. There was a high degree of variability in the main results, which meant we could have little confidence in the findings. Some studies had major methodological flaws."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "It is not possible to recommend any particular treatment based on the current evidence. The review authors have made some recommendations to improve the quality of the evidence in future studies."
+    }
+  ]
+}

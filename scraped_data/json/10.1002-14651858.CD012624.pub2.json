@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012624.pub2",
+  "name": "Pre‐emptive and preventive opioids for postoperative pain in adults undergoing all types of surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Postoperative pain is a common consequence of surgery and can have deleterious effects. It has been suggested that the administration of opioid analgesia before a painful stimulus may improve pain control. This can be done in two ways. We defined 'preventive opioids' as opioids administered before incision and continued postoperatively, and 'pre-emptive opioids' as opioids given before incision but not continued postoperatively. Both pre-emptive and preventive analgesia involve the initiation of an analgesic agent prior to surgical incision with the aim of reducing intraoperative nociception and therefore postoperative pain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy of preventive and pre-emptive opioids for reducing postoperative pain in adults undergoing all types of surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases: CENTRAL, MEDLINE, Embase, AMED, and CINAHL (up to 18 March 2018). In addition, we searched for unpublished studies in three clinical trial databases, conference proceedings, grey literature databases, and reference lists of retrieved articles. We did not apply any restrictions on language or date of publication."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included parallel-group randomized controlled trials (RCTs) only. We included participants aged over 15 years old undergoing any type of surgery. We defined postincision opioids as the same intervention administered after incision whether single dose (as comparator with pre-emptive analgesia) or continued postoperatively (as comparator with preventive analgesia) (control group). We considered studies that did and did not use a double-dummy placebo (e.g. intervention group received active drug before incision and placebo after incision; control group received placebo before incision and active drug after incision)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures expected by Cochrane. Our primary outcomes were: early acute postoperative pain (measured within six hours and reported on a 0-to-10 scale) and respiratory depression. Our secondary outcomes included: late acute postoperative pain (24 to 48 hours and reported on a 0-to-10 scale), 24-hour morphine consumption, and adverse events (intraoperative bradycardia and hypotension). We used GRADE to assess the quality of the evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 20 RCTs, including one unpublished study with 1343 participants. Two studies were awaiting classification as the full text for these studies was not available. One study evaluated pre-emptive opioids, and 19 studies evaluated preventive opioids. We considered only one study to be at low risk of bias for most domains. The surgeries and opioids used varied, although roughly half of the included studies were conducted in abdominal hysterectomy, and around a quarter used morphine as the intervention. All studies were conducted in secondary care.\nPre-emptive opioids compared to postincision opioids\nFor pre-emptive opioids in dental surgery, there may be a reduction in early acute postoperative pain (mean difference (MD) -1.20, 95% confidence interval (CI) -1.75 to -0.65; 40 participants; 1 study; low-quality evidence). This study did not report on adverse events (respiratory depression, bradycardia, or hypotension). There may be a reduction in late acute postoperative pain (MD -2.10, 95% CI -2.57 to -1.63; 40 participants; 1 study; low-quality evidence). This study did not report 24-hour morphine consumption.\nPreventive opioids compared to postincision opioids\nFor preventive opioids, there was probably no reduction in early acute postoperative pain (MD 0.11, 95% CI -0.32 to 0.53; 706 participants; 10 studies; I2 = 61%; moderate-quality evidence). There were no events of respiratory depression in four studies (433 participants). There was no important reduction in late acute postoperative pain (MD -0.06, 95% CI -0.13 to 0.01; 668 participants; 9 studies; I2 = 0%; moderate-quality evidence). There may be a small reduction in 24-hour morphine consumption (MD -4.91 mg, 95% CI -9.39 mg to -0.44 mg; 526 participants; 11 studies; I2 = 82%; very low-quality evidence). There may be similar rates of bradycardia (risk ratio (RR) 0.33, 95% CI 0.01 to 7.88; 112 participants; 2 studies; I2 = 0%; low-quality evidence) and hypotension (RR 1.08, 95% CI 0.25 to 4.73; 88 participants; 2 studies; I2 = 0%; low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to the low quality of the evidence, we are uncertain whether pre-emptive opioids reduce postoperative pain. Based on the trials conducted thus far, there was no clear evidence that preventive opioids result in reductions in pain scores. It was unclear if there was a reduction in morphine consumption due to very low-quality of evidence. Too few studies reported adverse events to be able to draw any definitive conclusions. Once assessed, the two studies awaiting classification may alter the conclusions of the review."
+    }
+  ],
+  "pls_title": "Pre-emptive and preventive opioids for postoperative pain in adults undergoing all types of surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "To assess the ability of a single dose of opioid given before making the first cut during surgery (pre-emptive opioids) and preventive opioids that are given before the first cut and continued after surgery for reducing pain due to surgery in adults."
+    },
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence for opioid painkillers (strong painkillers) when given before surgery, compared to the same painkiller given only after the surgeon has cut the skin."
+    },
+    {
+      "heading": "Background",
+      "text": "Most people experience pain after surgery that requires strong opioid painkillers. These medications are associated with a number of side effects including depressed breathing, a slow heart rate, and low blood pressure, as well as vomiting, drowsiness, itching, and constipation. Reducing the amount of opioid needed can limit these side effects and improve the patient experience. Compared to starting painkillers later, beginning painkillers before making the first cut for surgery may reduce pain sensitivity, and so lessen the postoperative pain experienced. We wanted to find out whether giving opioid painkillers before surgery was more effective than giving the same painkiller after surgery."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the medical literature for randomized controlled trials (a type of study in which participants are assigned to a treatment group using a random method) in March 2018. Participants were randomly allocated to one of two groups. One group was treated with opioids before the surgeon cut the skin, whilst the other group was given the same medication after the surgeon cut the skin. We identified 20 trials involving a total of 1343 participants aged over 15 years who were undergoing a variety of surgeries. In all but one trial, participants received general anaesthetic. Nearly all participants were low-risk patients. Only one of the trials used a pre-emptive dose of opioid."
+    },
+    {
+      "heading": "Key results",
+      "text": "In one small trial (40 participants) involving people undergoing dental surgery, use of pre-emptive opioids resulted in a small reduction in pain experienced in the first six hours after surgery and at 24 to 48 hours based on low-quality evidence. This study did not report on adverse events or 24-hour morphine consumption.\nFor preventive opioids started before the first cut was made and continued over the first day after surgery, pain in the first six hours after surgery was similar to when the first opioid dose was given after the first cut to the skin (10 studies; 706 participants). Postoperative pain 24 to 48 hours after surgery was similar between groups (9 studies; 668 participants). The evidence for both these findings was of moderate quality. The following findings were supported by low- or very low-quality evidence. A reduction in 24-hour morphine consumption was too small to be clinically relevant (11 studies; 526 participants). Not all studies reported on adverse events, but the numbers of participants with respiratory depression (4 studies; 433 participants), low heart rate (2 studies; 112 participants), or low blood pressure (2 studies; 88 participants) were similar between groups."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence ranged from very low to moderate. The main issues concerning the included trials were high risk of bias due to limitations in how the findings were presented, the design and conduct of the studies, and wide variations in the findings, which led to uncertainty in the results. Consequently, we found no convincing evidence that starting opioids before the beginning of surgery reduces levels of pain after surgery or the need for continuing opioids."
+    }
+  ]
+}

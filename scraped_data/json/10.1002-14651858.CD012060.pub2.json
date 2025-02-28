@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012060.pub2",
+  "name": "Education and training for preventing sharps injuries and splash exposures in healthcare workers ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In healthcare settings, health care workers (HCWs) are at risk of acquiring infectious diseases through sharps injuries and splash exposures to blood or bodily fluids. Education and training interventions are widely used to protect workers' health and safety and to prevent sharps injuries. In certain countries, they are part of obligatory professional development for HCWs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of education and training interventions compared to no intervention or alternative interventions for preventing sharps injuries and splash exposures in HCWs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, NHSEED, Science Citation Index Expanded, CINAHL and OSH-update (from all time until February 2016). In addition, we searched the databases of Global Health, AustHealth and Web of Science (from all time until February 2016). The original search strategy was re-run in November 2019, and again in February 2020. In April 2020, the search strategy was updated and run in CINAHL, MEDLINE, Scopus and Web of Science (from 2016 to current)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered randomized controlled trials (RCTs), cluster-randomized trials (cluster-RCTs), controlled clinical trials (CCTs), interrupted time series (ITS) study designs, and controlled before-and-after studies (CBA), that evaluated the effect of education and training interventions on the incidence of sharps injuries and splash exposures compared to no-intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors (SC, HL) independently selected studies, and extracted data for the included studies. Studies were analyzed, risk of bias assessed (HL, JL) , and pooled using random-effect meta-analysis, where applicable, according to their design types. As primary outcome we looked for sharps injuries and splash exposures and calculated them as incidence of injuries per 1000 health care workers per year. For the quality of evidence we applied GRADE for the main outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven studies met our inclusion criteria: one cluster-RCT, three CCTs, and three ITS studies. The baseline rates of sharps injuries varied from 43 to 203 injuries per 1000 HCWs per year in studies with hospital registry systems. In questionnaire-based studies, the rates of sharps injuries were higher, from 1800 to 7000 injuries per 1000 HCWs per year.  The majority of studies utilised a combination of education and training interventions, including interactive demonstrations, educational presentations, web-based information systems, and marketing tools which we found similar enough to be combined.\nIn the only cluster-RCT (n=796) from a high-income country, the single session educational workshop decreased sharps injuries at 12 months follow-up, but this was not statistically significant either measured as registry-based reporting of injuries (RR 0.46, 95% CI 0.16 to 1.30, low-quality evidence) or as self-reported injuries (RR 0.41, 95% CI 0.14 to 1.21, very low-quality evidence)\nIn three CCTs educational interventions decreased sharps injuries at two months follow-up (RR 0.68, 95% CI 0.48 to 0.95, 330 participants, very low-quality evidence).\nIn the meta-analysis of two ITS studies with a similar injury rate, (N=2104), the injury rate decreased immediately post-intervention by 9.3 injuries per 1000 HCWs per year (95% CI -14.9 to -3.8). There was a small non-significant decrease in trend over time post-intervention of 2.3 injuries per 1000 HCWs per year (95% CI -12.4 to 7.8, low-quality evidence).\nOne ITS study (n=255) had a seven-fold higher injury rate compared to the other two ITS studies and only three data points before and after the intervention. The study reported a change in injury rate of 77 injuries per 1000 HCWs (95% CI -117.2 to -37.1, very low-quality evidence) immediately after the intervention, and a decrease in trend post-intervention of 32.5 injuries per 1000 HCWs per year (95% CI -49.6 to -15.4, very low quality evidence).\nNone of the studies allowed analyses of splash exposures separately from sharps injuries. None of the studies reported rates of blood-borne infections in patients or staff. There was very low-quality evidence of short-term positive changes in process outcomes such as knowledge in sharps injuries and behaviors related to injury prevention."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found low- to very low-quality evidence that education and training interventions may cause small decreases in the incidence of sharps injuries two to twelve months after the intervention. There was very low-quality evidence that educational interventions may improve knowledge and behaviors related to sharps injuries in the short term but we are uncertain of this effect. Future studies should focus on developing valid measures of sharps injuries for reliable monitoring. Developing educational interventions in high-risk settings is another priority."
+    }
+  ],
+  "pls_title": "Education and training for preventing sharps injuries and splash exposures in healthcare workers",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "Healthcare workers (HCWs) are at risk of experiencing a sharps injury or being splashed with blood or other bodily fluids whilst delivering care to their patients, which puts them at risk of developing infectious diseases. This review is part of a series investigating interventions for the prevention of such injuries, more specifically, the effectiveness of education and training interventions in reducing the occurrence of these injuries. We comprehensively searched multiple databases to find randomized and non-randomized studies that utilized educational intervention for preventing sharps and splash exposure."
+    },
+    {
+      "heading": "Key messages",
+      "text": "We found low to very low quality evidence that education and training may prevent sharps injuries in HCWs up to twelve months follow-up. Future research using high-quality randomized study designs is required to further investigate the effects of education and training on the incidence of sharps injuries and splash exposures in HCWs."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "A total of seven studies were included in this review; one cluster-RCT, three controlled clinical trials and three interrupted time series. All included studies except two utilized a combination of educational presentations, interactive demonstrations, and marketing tools. The risk of bias was high in all of the seven included studies. Only one more recently published study applied the preferred study design of a cluster-randomized trial."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "Education and training interventions for HCWs may lead to small reductions in the rate of sharps injuries. Education may create short-term improvements in knowledge and behaviors related to sharps injuries."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "Searches were conducted up to April 2020."
+    }
+  ]
+}

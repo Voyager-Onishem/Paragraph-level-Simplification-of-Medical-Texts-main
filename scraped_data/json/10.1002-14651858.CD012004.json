@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012004",
+  "name": "Motor control exercise for chronic non‐specific low‐back pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-specific low back pain (LBP) is a common condition. It is reported to be a major health and socioeconomic problem associated with work absenteeism, disability and high costs for patients and society. Exercise is a modestly effective treatment for chronic LBP. However, current evidence suggests that no single form of exercise is superior to another. Among the most commonly used exercise interventions is motor control exercise (MCE). MCE intervention focuses on the activation of the deep trunk muscles and targets the restoration of control and co-ordination of these muscles, progressing to more complex and functional tasks integrating the activation of deep and global trunk muscles. While there are previous systematic reviews of the effectiveness of MCE, recently published trials justify an updated systematic review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of MCE in patients with chronic non-specific LBP."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted electronic searches in CENTRAL, MEDLINE, EMBASE, five other databases and two trials registers from their inception up to April 2015. We also performed citation tracking and searched the reference lists of reviews and eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that examined the effectiveness of MCE in patients with chronic non-specific LBP. We included trials comparing MCE with no treatment, another treatment or that added MCE as a supplement to other interventions. Primary outcomes were pain intensity and disability. We considered function, quality of life, return to work or recurrence as secondary outcomes. All outcomes must have been measured with a valid and reliable instrument."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors screened the search results, assessed risk of bias and extracted the data. A third independent review author resolved any disagreement. We assessed risk of bias using the Cochrane Back and Neck (CBN) Review Group expanded 12-item criteria. We extracted mean scores, standard deviations and sample sizes from the included trials, and if this information was not provided we calculated or estimated them using methods recommended in the Cochrane Handbook. We also contacted the authors of the trials for any missing or unclear information. We considered the following time points: short-term (less than three months after randomisation); intermediate (at least three months but less than 12 months after randomisation); and long-term (12 months or more after randomisation) follow-up. We assessed heterogeneity by visual inspection of the forest plots, and by calculating the Chi2 test and the I2 statistic. We combined results in a meta-analysis expressed as mean difference (MD) and 95% confidence interval (CI). We assessed the overall quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 trials (n = 2431) in this review. The study sample sizes ranged from 20 to 323 participants. We considered a total of 76.6% of the included trials to have a low risk of bias, representing 86% of all participants. There is low to high quality evidence that MCE is not clinically more effective than other exercises for all follow-up periods and outcomes tested. When compared with minimal intervention, there is low to moderate quality evidence that MCE is effective for improving pain at short, intermediate and long-term follow-up with medium effect sizes (long-term, MD –12.97; 95% CI –18.51 to –7.42). There was also a clinically important difference for the outcomes function and global impression of recovery compared with minimal intervention. There is moderate to high quality evidence that there is no clinically important difference between MCE and manual therapy for all follow-up periods and outcomes tested. Finally, there is very low to low quality evidence that MCE is clinically more effective than exercise and electrophysical agents (EPA) for pain, disability, global impression of recovery and quality of life with medium to large effect sizes (pain at short term, MD –30.18; 95% CI –35.32 to –25.05). Minor or no adverse events were reported in the included trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is very low to moderate quality evidence that MCE has a clinically important effect compared with a minimal intervention for chronic low back pain. There is very low to low quality evidence that MCE has a clinically important effect compared with exercise plus EPA. There is moderate to high quality evidence that MCE provides similar outcomes to manual therapies and low to moderate quality evidence that it provides similar outcomes to other forms of exercises. Given the evidence that MCE is not superior to other forms of exercise, the choice of exercise for chronic LBP should probably depend on patient or therapist preferences, therapist training, costs and safety."
+    }
+  ],
+  "pls_title": "Motor control exercise for chronic non-specific low-back pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To evaluate the effectiveness of motor control exercise (MCE) in patients with chronic non-specific low back pain (LBP)."
+    },
+    {
+      "heading": "Background",
+      "text": "Motor control exercise is a popular form of exercise that aims to restore co-ordinated and efficient use of the muscles that control and support the spine. Patients are initially guided by a therapist to practise normal use of the muscles during simple tasks. As the patient's skill increases the exercises are progressed to more complex and functional tasks involving the muscles of the trunk and limbs."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to April 2015."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In total, 2431 participants were enrolled in 29 trials. The study sample sizes ranged from 20 to 323 participants, and most of them were middle-aged people recruited from primary or tertiary care. The duration of the treatment programmes ranged from 20 days to 12 weeks, and the number of treatment sessions ranged from one to five sessions per week. Sixteen trials compared MCE with other types of exercises, seven trials compared MCE with minimal intervention, five trials compared MCE with manual therapy, three trials compared MCE with a combination of exercise and electrophysical agents, and one trial compared MCE with telerehabilitation based on home exercises."
+    },
+    {
+      "heading": "Key results and quality of evidence",
+      "text": "MCE probably provides better improvements in pain, function and global impression of recovery than minimal intervention at all follow-up periods. MCE may provide slightly better improvements than exercise and electrophysical agents for pain, disability, global impression of recovery and the physical component of quality of life in the short and intermediate term. There is probably little or no difference between MCE and manual therapy for all outcomes and follow-up periods. Little or no difference is observed between MCE and other forms of exercise. Given the minimal evidence that MCE is superior to other forms of exercise, the choice of exercise for chronic LBP should probably depend on patient or therapist preferences, therapist training, costs and safety."
+    }
+  ]
+}

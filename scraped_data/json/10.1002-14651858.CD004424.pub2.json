@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004424.pub2",
+  "name": "Antiepileptic drugs for preventing seizures in people with brain tumors",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Seizures can present at any time before or after diagnosis of a brain tumor. The risk of seizures varies by tumor type and its location in the brain. For a long time we believed that preventing seizures with antiepileptic drugs (seizure prophylaxis) was effective and necessary, but the supporting evidence was little and mixed. Such evidence was the basis for previous reviews to conclude that seizure prophylaxis was ineffective in people with brain tumors."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To estimate the effectiveness of seizure prophylaxis in people with brain tumors, and to estimate the adverse event rates in the identified clinical trials."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A search strategy that included free-text and MeSH terms in LILACS, EMBASE, PubMed, CENTRAL, and The Cochrane Library (1966 to 2007)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Controlled clinical trials with random allocation, blinded or unblinded, and placebo or observation in the control groups."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We screened the articles, extracted the data, and rated the validity of each trial to assess the risk of bias. Our primary outcome was the occurrence of a first seizure. The secondary outcome was adverse events. We pooled the aggregate data for each outcome into a random-effects model meta-analysis using the relative risk (RR). For adverse events, we also included the number needed to harm (NNH) using the absolute risk increase to compute the NNH."
+    },
+    {
+      "heading": "Main results",
+      "text": "There was no difference between the treatment interventions and the control groups in preventing a first seizure in participants with brain tumors. The risk of an adverse event was higher for those on antiepileptic drugs than for participants not on antiepileptic drugs (NNH 3; RR 6.10, 95% CI 1.10 to 34.63; P = 0.046)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence is neutral, neither for nor against seizure prophylaxis, in people with brain tumors. These conclusions apply only for the antiepileptic drugs phenytoin, phenobarbital, and divalproex sodium. The decision to start an antiepileptic drug for seizure prophylaxis is ultimately guided by assessment of individual risk factors and careful discussion with patients."
+    }
+  ],
+  "pls_title": "Antiepileptic drugs for preventing seizures in people with brain tumors",
+  "pls_type": "long",
+  "pls": "Up to 60% of people with brain tumors may present with seizures, or may have a seizure for the first time after diagnosis or neurosurgery. The risk of a seizure varies with the tumor type and its location in the brain. Seizures are an added burden with a negative impact on quality of life, affecting activities of daily living, independence, work, and driving. Many doctors believe that antiepileptic drugs are effective and necessary to prevent seizures (seizure prophylaxis), but this practice has been put into question. Antiepileptic drugs can have adverse effects and they interact with steroids and chemotherapy.\nThe five randomised controlled trials identified by the review authors from the medical literature looked at the antiepileptic drugs phenytoin, phenobarbital, and divalproex sodium. There was no difference between treatment with these antiepileptic drugs and placebo, or observing the patient, in preventing a first seizure in 404 people with brain tumors. The risk of an adverse event was higher for those on antiepileptic drugs (number needed to be treated to cause a harm in one person (NNH) 3). The types of adverse effects when reported in these trials were nausea, skin rash, sore gums, myelosuppression, vertigo, blurred vision, tremor, and gait unsteadiness. \nThe length of follow up was short in one study. No studies were identified for any of the newer antiepileptic drugs."
+}

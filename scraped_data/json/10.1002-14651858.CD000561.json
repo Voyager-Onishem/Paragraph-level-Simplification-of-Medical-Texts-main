@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000561",
+  "name": "Antidepressants versus placebo for the depressed elderly",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Depression warranting intervention is found in ten percent of people over the age of 60. Older depressed people are more likely to die than non-depressed. Relatively few receive therapeutic interventions, and those that do, tend to receive low dose antidepressant therapy. Depression in older people is thought to differ in terms of aetiology, presentation, treatment and outcome than in younger people. Concomitant physical illness and increasing social, physical and neurophysiological diversity are associated with the ageing process. Consequently drug treatment of older patients is often carried out in institutions and on patients suffering from multiple physical problems."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of antidepressant medication compared with placebo in the treatment of depression in older patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The search strategy incorporated: electronic literature searches of databases held by the Cochrane Collaboration Depression, Anxiety and Neurosis Review Group (CCDAN) (see Collaborative Review Group Search Strategy). Reference lists of related reviews and references of located studies. Contact was made with authors working in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised, placebo controlled trials using antidepressants in the treatment of the presenting episode of depression in patients described as elderly, geriatric senile or older adult."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two types of data were extracted (if available) from each study. The first type of data was dichotomous data, this consisted of recovered/not recovered. The second, continuous data,included: Hamilton Depression Rating Scale (HAM-D), Montgomery-Asberg Rating Scale (MADRS) and other depression rating scale scores. An analysis using Peto Odds ratios for the dichotomous data and weighted mean difference for continuous data was performed using RevMan 3.1. The presence of heterogeneity of treatment effect was assessed."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventeen trials contributed data to the analyses comparing the efficacy of antidepressant treatment and placebo. Analyses of efficacy were based on 245 patients treated with Tricyclic antidepressants (223 with placebo), 365 patients treated with SSRIs (372 with placebo) and 58 patients treated with MAOIs (63 with placebo). The results using a fixed effect model, for the three groups respectively were, TCAs; OR: 0.32 (95% CI: 0.21,0.47), SSRIs; OR; 0.51 (95% CI: 0.36,0.72), MAOIs: OR 0.17 (95% CI: 0.07,0.39)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "TCAs, SSRIs and MAOIs are effective in the treatment of older community patients and inpatients likely to have severe physical illness. At least six weeks of antidepressant treatment is recommended to achieve optimal therapeutic effect. There is little evidence concerning the efficacy of low dose TCA treatment. Further trials are required before low dose TCA treatment is routinely recommended."
+    }
+  ],
+  "pls_title": "Antidepressants compared with placebos for depressed older people",
+  "pls_type": "long",
+  "pls": "Seventeen RCTs were identified by the systematic literature search that met our inclusion criteria and provide suitable data for analysis. We analysed these 17 placebo trials examining the efficacy of antidepressant treatment in older people. Just under 2000 patients were entered into the meta analysis. TCAs, SSRIs and MAOIs proved effective in both institutionalised and community patients. Low dose TCA treatment may be effective but further studies are needed."
+}

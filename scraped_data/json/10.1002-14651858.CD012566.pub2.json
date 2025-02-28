@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012566.pub2",
+  "name": "Rinse‐free hand wash for reducing absenteeism among preschool and school children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Illness-related absenteeism is an important problem among preschool and school children for low-, middle- and high- income countries. Appropriate hand hygiene is one commonly investigated and implemented strategy to reduce the spread of illness and subsequently the number of days spent absent. Most hand hygiene strategies involve washing hands with soap and water, however this is associated with a number of factors that act as a barrier to its use, such as requiring running water, and the need to dry hands after cleaning. An alternative method involves washing hands using rinse-free hand wash. This technique has a number of benefits over traditional hand hygiene strategies and may prove to be beneficial in reducing illness-related absenteeism in preschool and school children."
+    },
+    {
+      "heading": "Objectives",
+      "text": "1. To assess the effectiveness of rinse-free hand washing for reducing absenteeism due to illness in preschool and school children compared to no hand washing, conventional hand washing with soap and water or other hand hygiene strategies.\n2. To determine which rinse-free hand washing products are the most effective (if head-to-head comparisons exist), and what effect additional strategies in combination with rinse-free hand washing have on the outcomes of interest."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In February 2020 we searched CENTRAL, MEDLINE, Embase, CINAHL, 12 other databases and three clinical trial registries. We also reviewed the reference lists of included studies and made direct contact with lead authors of studies to collect additional information as required. No date or language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs), irrespective of publication status, comparing rinse-free hand wash in any form (hand rub, hand sanitizer, gel, foam etc.) with conventional hand washing using soap and water, other hand hygiene programs (such as education alone), or no intervention. The population of interest was children aged between two and 18 years attending preschool (childcare, day care, kindergarten, etc.) or school (primary, secondary, elementary, etc.). Primary outcomes included child or student absenteeism for any reason, absenteeism due to any illness and adverse skin reactions."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Following standard Cochrane methods, two review authors (out of ZM, CT, CL, CS, TB), independently selected studies for inclusion, assessed risk of bias and extracted relevant data. Absences were extracted as the number of student days absent out of total days. This was sometimes reported with the raw numbers and other times as an incidence rate ratio (IRR), which we also extracted. For adverse event data, we calculated effect sizes as risk ratios (RRs) and present these with 95% confidence intervals (CIs). We used standard methodological procedures expected by Cochrane for data analysis and followed the GRADE approach to establish certainty in the findings."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes 19 studies with 30,747 participants. Most studies were conducted in the USA (eight studies), two were conducted in Spain, and one each in China, Colombia, Finland, France, Kenya, Bangladesh, New Zealand, Sweden, and Thailand. Six studies were conducted in preschools or day-care centres (children aged from birth to < five years), with the remaining 13 conducted in elementary or primary schools (children aged five to 14 years).\nThe included studies were judged to be at high risk of bias in several domains, most-notably across the domains of performance and detection bias due to the difficulty to blind those delivering the intervention or those assessing the outcome. Additionally, every outcome of interest was graded as low or very low certainty of evidence, primarily due to high risk of bias, as well as imprecision of the effect estimates and inconsistency between pooled data. For the outcome of absenteeism for any reason, the pooled estimate for rinse-free hand washing was an IRR of 0.91 (95% CI 0.82 to 1.01; 2 studies; very low-certainty evidence), which indicates there may be little to no difference between groups. For absenteeism for any illness, the pooled IRR was 0.82 (95% CI 0.69 to 0.97; 6 studies; very low-certainty evidence), which indicates that rinse-free hand washing may reduce absenteeism (13 days absent per 1000) compared to those in the 'no rinse-free' group (16 days absent per 1000). For the outcome of absenteeism for acute respiratory illness, the pooled IRR was 0.79 (95% CI 0.68 to 0.92; 6 studies; very low-certainty evidence), which indicates that rinse-free hand washing may reduce absenteeism (33 days absent per 1000) compared to those in the 'no rinse-free' group (42 days absent per 1000). When evaluating absenteeism for acute gastrointestinal illness, the pooled estimate found an IRR of 0.79 (95% CI 0.73 to 0.85; 4 studies; low-certainty evidence), which indicates rinse-free hand washing may reduce absenteeism (six days absent per 1000) compared to those in the 'no rinse-free' group (eight days absent per 1000). There may be little to no difference between rinse-free hand washing and 'no rinse-free' group regarding adverse skin reactions with a RR of 1.03 (95% CI 0.8 to 1.32; 3 studies, 4365 participants; very low-certainty evidence). Broadly, compliance with the intervention appeared to range from moderate to high compliance (9 studies, 10,749 participants; very-low certainty evidence); narrativley, no authors reported substantial issues with compliance. Overall, most studies that included data on perception reported that teachers and students perceived rinse-free hand wash positively and were willing to continue its use (3 studies, 1229 participants; very-low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings of this review may have identified a small yet potentially beneficial effect of rinse-free hand washing regimes on illness-related absenteeism. However, the certainty of the evidence that contributed to this conclusion was low or very low according to the GRADE approach and is therefore uncertain. Further research is required at all levels of schooling to evaluate rinse-free hand washing regimens in order to provide more conclusive, higher-certainty evidence regarding its impact. When considering the use of a rinse-free hand washing program in a local setting, there needs to be consideration of the current rates of illness-related absenteeism and whether the small beneficial effects seen here will translate into a meaningful reduction across their settings."
+    }
+  ],
+  "pls_title": "Rinse-free hand wash for reducing absenteeism among preschool and school children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Absenteeism from schooling is costly to parents, schools and governments and sustained absence is detrimental to student learning. Illness-related absenteeism is a significant contributor to absenteeism from school, but can also result in parents missing work due to catching the illness themselves or having to stay home to care for their children. There are several strategies currently used to reduce illness-related absenteeism, a common method is the implementation of appropriate hand hygiene practices. However, hand hygiene using soap and water is not always practical, and alternatives may prove to be more effective in reducing the overall rate of illness-related absenteeism. One such alternative is the use of rinse-free hand wash."
+    },
+    {
+      "heading": "Review question",
+      "text": "This review was designed to investigate if the use of rinse-free hand wash can reduce the number of days spent absent from school in preschool and school children compared to no rinse-free hand wash usage."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The searches returned 19 relevant studies with a total of 30,747 participants. Eight studies were conducted in the USA, two were conducted in Spain, and one each in China, Colombia, Finland, France, Kenya, Bangladesh, New Zealand, Sweden, and Thailand. Six studies were conducted in preschools or day-care centres (children aged from birth to < five years), with the remaining 13 conducted in elementary or primary schools (children aged five to14 years). These studies were quite varied in the composition and application of the rinse-free hand washing program. Only two studies included information on the primary outcome (absenteeism due to any reason), whilst for absenteeism for any illness there were six studies that provided information. The evidence presented is up to date to February 2020."
+    },
+    {
+      "heading": "Key results",
+      "text": "The application of, and adherence to a rinse-free hand wash, hand hygiene program may be associated with small, but potentially beneficial effects in reducing the number of days students were absent from school due to illness compared to no rinse-free hand wash, hygiene program. However rinse-free hand washing may be no different to controls at reducing absenteeism for any reason. There may also be no difference in the number of skin irritations between students who received the rinse-free hand wash compared to those who used soap and water. Most students and teachers responded favorably to using rinse-free hand wash and complied relatively well with its use."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The certainty of the evidence included in this review was low or very low, mainly due to the included studies using poor methods, providing imprecise data, and being very inconsistent from one another. This means that we have low and very-low certainty, or confidence, in these results."
+    }
+  ]
+}

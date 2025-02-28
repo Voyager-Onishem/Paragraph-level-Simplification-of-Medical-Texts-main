@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD010611",
+  "name": "Valproate (valproic acid or sodium valproate or a combination of the two) for the prophylaxis of episodic migraine in adults ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Some antiepileptic drugs but not others are useful in clinical practice for the prophylaxis of migraine. This might be explained by the variety of actions of these drugs in the central nervous system. The present review is part of an update of a Cochrane review first published in 2004, and previously updated (conclusions not changed) in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To describe and assess the evidence from controlled trials on the efficacy and tolerability of valproate (valproic acid or sodium valproate or a combination of the two) for preventing migraine attacks in adult patients with episodic migraine."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library 2012, Issue 12), PubMed/MEDLINE (1966 to 15 January 2013), MEDLINE In-Process (current week, 15 January 2013), and EMBASE (1974 to 15 January 2013) and handsearched Headache and Cephalalgia through January 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies were required to be prospective, controlled trials of valproate taken regularly to prevent the occurrence of migraine attacks, to improve migraine-related quality of life, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies and extracted data. For headache frequency data, we calculated mean differences (MDs) between valproate and comparator (placebo, active control, or valproate in a different dose) for individual studies and pooled these across studies. For dichotomous data on responders (patients with ≥ 50% reduction in headache frequency), we calculated odds ratios (ORs) and, in select cases, risk ratios (RRs); we also calculated numbers needed to treat (NNTs). We calculated MDs for Migraine Disability Assessment (MIDAS) scores. We also summarised data on adverse events from placebo-controlled trials and calculated risk differences (RDs) and numbers needed to harm (NNHs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ten papers describing 10 unique trials met the inclusion criteria. Analysis of data from two trials (63 participants) showed that sodium valproate reduced headache frequency by approximately four headaches per 28 days as compared to placebo (MD -4.31; 95% confidence interval (CI) -8.32 to -0.30). Data from four trials (542 participants) showed that divalproex sodium (a stable combination of sodium valproate and valproic acid in a 1:1 molar ratio) more than doubled the proportion of responders relative to placebo (RR 2.18; 95% CI 1.28 to 3.72; NNT 4; 95% CI 2 to 11). One study of sodium valproate (34 participants) versus placebo supported the latter findings (RR for responders 2.83; 95% CI 1.27 to 6.31; NNT 3; 95% CI 2 to 9). There was no significant difference in the proportion of responders between sodium valproate versus flunarizine (one trial, 41 participants) or between divalproex sodium versus propranolol (one trial, 32 participants). Pooled analysis of post-treatment mean headache frequencies in two trials (88 participants) demonstrates a slight but significant advantage for topiramate 50 mg over valproate 400 mg (MD -0.90; 95% CI -1.58 to -0.22). For placebo-controlled trials of sodium valproate and divalproex sodium, NNHs for clinically important adverse events ranged from 7 to 14."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Valproate is effective in reducing headache frequency and is reasonably well tolerated in adult patients with episodic migraine."
+    }
+  ],
+  "pls_title": "Valproate for preventing migraine attacks in adults",
+  "pls_type": "long",
+  "pls": "Various medicines, collectively termed 'antiepileptics', are used to treat epilepsy. For several years, some of these drugs have also been used for preventing migraine attacks. For the present review, researchers in The Cochrane Collaboration reviewed the evidence about the effects of valproate (valproic acid or sodium valproate or a combination of the two) in adult patients (≥ 16 years of age) with 'episodic' migraine (headache on < 15 days per month). They examined research published up to 15 January 2013 and found 10 relevant studies. Compared with placebo, valproate reduced the frequency of migraine headaches by approximately four per month (two studies, 63 participants). Patients were also more than twice as likely to reduce the number of their migraine headaches by 50% or more with valproate than with placebo (five studies, 576 participants). Side effects associated with valproate were common but generally mild; valproate can, however, cause birth defects and so should be used with caution in women of childbearing age. Further research is needed comparing valproate with other active drugs used for preventing migraine attacks."
+}

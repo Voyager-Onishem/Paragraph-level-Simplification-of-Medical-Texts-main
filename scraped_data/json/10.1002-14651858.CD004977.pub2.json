@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004977.pub2",
+  "name": "Pneumococcal conjugate vaccines for preventing vaccine‐type invasive pneumococcal disease and X‐ray defined pneumonia in children less than two years of age ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pneumonia, caused by Streptococcus pneumoniae, is a major cause of morbidity and mortality among children in low-income countries. The effectiveness of pneumococcal conjugate vaccines (PCVs) against invasive pneumococcal disease (IPD), pneumonia, and mortality needs to be evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To update the 2004 review on the efficacy of PCVs in preventing vaccine-serotypes IPD (VT-IPD) , X-ray defined pneumonia among HIV-1 negative children, and other new outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, issue 1), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register; MEDLINE (1990 to Week 4 February 2009); and EMBASE (1974 to March 2009)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing PCV with placebo, or another vaccine, in children under two with IPD and clinical / radiographic pneumonia as outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently identified studies, extracted data, and evaluated their corresponding risks of bias. Differences were resolved by discussion. Meta-analysis used the inverse variance method."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 11 publications from six RCTs conducted in Africa, US, Philippines and Finland where 57,015 children received PCV; while 56,029 received placebo or another vaccine. Seven publications provided high quality evidence on PCV efficacy against IPD and four provided moderate quality evidence against pneumonia. None of the five trials with all-cause mortality data were powered to investigate this outcome. Only two trials have data on all-cause admissions.\nThe main analysis for this review involved HIV-1 negative children and used the pooled results of random-effects model, intent-to-treat analysis (ITT).\nPooled vaccine efficacy (VE) for VT-IPD was 80% (95% confidence interval (CI) 58% to 90%, P < 0.0001); all serotypes-IPD, 58% (95% CI 29% to 75%, P = 0.001); World Health Organization X-ray defined pneumonia was 27% (95% CI 15% to 36%, P < 0.0001); clinical pneumonia, 6% (95% CI 2% to 9%, P = 0.0006); and all-cause mortality, 11% (95% CI -1% to 21%, P = 0.08). Analysis involving HIV-1 positive children had similar findings."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "PCV is effective in preventing IPD, X-ray defined pneumonia, and clinical pneumonia among HIV-1 negative and HIV-1 positive children under two years. The impact was greater for VT-IPD than for all serotypes-IPD, and for X-ray defined pneumonia than for clinical pneumonia. An 11% reduction with a 95% CI of -1% to 21% and a P = 0.08 is compatible with reduction in all-cause mortality."
+    }
+  ],
+  "pls_title": "Vaccines against overwhelming blood infection due to pneumococcus bacteria and lung infection (pneumonia) among children less than two years of age",
+  "pls_type": "long",
+  "pls": "Pneumococcus is one of the major causes of overwhelming blood infection and lung infection (pneumonia) among young children. Pneumococci resistant to antibiotics are now being found in great numbers worldwide which may reduce the effectiveness of recommended antibiotic treatment. Preventive measures like vaccination are needed. This review found two trials from the US, two from Africa, one from the Philippines, and another from Finland that involved 113,044 children less than two years of age. In these studies, PCV was able to prevent overwhelming pneumococcal blood infection and pneumonia."
+}

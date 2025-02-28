@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009645.pub4",
+  "name": "Transcranial direct current stimulation (tDCS) for improving activities of daily living, and physical and cognitive functioning, in people after stroke ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stroke is one of the leading causes of disability worldwide. Functional impairment, resulting in poor performance in activities of daily living (ADL) among stroke survivors is common. Current rehabilitation approaches have limited effectiveness in improving ADL performance, function, muscle strength, and cognitive abilities (including spatial neglect) after stroke, with improving cognition being the number one research priority in this field. A possible adjunct to stroke rehabilitation might be non-invasive brain stimulation by transcranial direct current stimulation (tDCS) to modulate cortical excitability, and hence to improve these outcomes in people after stroke."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of tDCS on ADL, arm and leg function, muscle strength and cognitive abilities (including spatial neglect), dropouts and adverse events in people after stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register, CENTRAL, MEDLINE, Embase and seven other databases in January 2019. In an effort to identify further published, unpublished, and ongoing trials, we also searched trials registers and reference lists, handsearched conference proceedings, and contacted authors and equipment manufacturers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "This is the update of an existing review. In the previous version of this review, we focused on the effects of tDCS on ADL and function. In this update, we broadened our inclusion criteria to compare any kind of active tDCS for improving ADL, function, muscle strength and cognitive abilities (including spatial neglect) versus any kind of placebo or control intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and risk of bias, extracted data, and applied GRADE criteria. If necessary, we contacted study authors to ask for additional information. We collected information on dropouts and adverse events from the trial reports."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 67 studies involving a total of 1729 patients after stroke. We also identified 116 ongoing studies. The risk of bias did not differ substantially for different comparisons and outcomes. The majority of participants had ischaemic stroke, with mean age between 43 and 75 years, in the acute, postacute, and chronic phase after stroke, and level of impairment ranged from severe to less severe. Included studies differed in terms of type, location and duration of stimulation, amount of current delivered, electrode size and positioning, as well as type and location of stroke.\nWe found 23 studies with 781 participants examining the effects of tDCS versus sham tDCS (or any other passive intervention) on our primary outcome measure, ADL after stroke. Nineteen studies with 686 participants reported absolute values and showed evidence of effect regarding ADL performance at the end of the intervention period (standardised mean difference (SMD) 0.28, 95% confidence interval (CI) 0.13 to 0.44; random-effects model; moderate-quality evidence). Four studies with 95 participants reported change scores, and showed an effect (SMD 0.48, 95% CI 0.02 to 0.95; moderate-quality evidence). Six studies with 269 participants assessed the effects of tDCS on ADL at the end of follow-up and provided absolute values, and found improved ADL (SMD 0.31, 95% CI 0.01 to 0.62; moderate-quality evidence). One study with 16 participants provided change scores and found no effect (SMD -0.64, 95% CI -1.66 to 0.37; low-quality evidence). However, the results did not persist in a sensitivity analysis that included only trials with proper allocation concealment.\nThirty-four trials with a total of 985 participants measured upper extremity function at the end of the intervention period. Twenty-four studies with 792 participants that presented absolute values found no effect in favour of tDCS (SMD 0.17, 95% CI -0.05 to 0.38; moderate-quality evidence). Ten studies with 193 participants that presented change values also found no effect (SMD 0.33, 95% CI -0.12 to 0.79; low-quality evidence). Regarding the effects of tDCS on upper extremity function at the end of follow-up, we identified five studies with a total of 211 participants (absolute values) without an effect (SMD -0.00, 95% CI -0.39 to 0.39; moderate-quality evidence). Three studies with 72 participants presenting change scores found an effect (SMD 1.07; 95% CI 0.04 to 2.11; low-quality evidence). Twelve studies with 258 participants reported outcome data for lower extremity function and 18 studies with 553 participants reported outcome data on muscle strength at the end of the intervention period, but there was no effect (high-quality evidence). Three studies with 156 participants reported outcome data on muscle strength at follow-up, but there was no evidence of an effect (moderate-quality evidence). Two studies with 56 participants found no evidence of effect of tDCS on cognitive abilities (low-quality evidence), but one study with 30 participants found evidence of effect of tDCS for improving spatial neglect (very low-quality evidence). In 47 studies with 1330 participants, the proportions of dropouts and adverse events were comparable between groups (risk ratio (RR) 1.25, 95% CI 0.74 to 2.13; random-effects model; moderate-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is evidence of very low to moderate quality on the effectiveness of tDCS versus control (sham intervention or any other intervention) for improving ADL outcomes after stroke. However, the results did not persist in a sensitivity analyses including only trials with proper allocation concealment. Evidence of low to high quality suggests that there is no effect of tDCS on arm function and leg function, muscle strength, and cognitive abilities in people after stroke. Evidence of very low quality suggests that there is an effect on hemispatial neglect. There was moderate-quality evidence that adverse events and numbers of people discontinuing the treatment are not increased. Future studies should particularly engage with patients who may benefit the most from tDCS after stroke, but also should investigate the effects in routine application. Therefore, further large-scale randomised controlled trials with a parallel-group design and sample size estimation for tDCS are needed."
+    }
+  ],
+  "pls_title": "Direct electrical current to the brain to improve rehabilitation outcomes",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of direct electrical current to the brain (transcranial direct current stimulation, tDCS) to reduce impairment in activities of daily living (ADL), arm and leg function, muscle strength and cognitive abilities (including spatial neglect), dropouts and adverse events in people after stroke."
+    },
+    {
+      "heading": "Background",
+      "text": "Stroke is one of the leading causes of disability worldwide. Most strokes take place when a blood clot blocks a blood vessel leading to the brain. Without a proper blood supply, the brain quickly suffers damage, which can be permanent. This damage often causes impairment of ADL, motor and cognitive function among stroke survivors. According to people with stroke, carers and health professionals, improving cognitive abilities after stroke is the number one research priority in this field of medicine. Therefore, neurological rehabilitation, including effective training strategies, is needed to facilitate recovery and to reduce the burden of stroke. Therapies tailored to patients' and carers' needs are especially important. Current rehabilitation strategies have limited effectiveness in improving these impairments. One possibility for enhancing the effects of rehabilitation might be the addition of brain stimulation without breaking the skin, by means of tDCS. This technique can alter how the brain works and may be used to reduce impairment of ADL and function. However, the effectiveness of this intervention for improving rehabilitation outcomes is still unknown."
+    },
+    {
+      "heading": "Search date",
+      "text": "The review is current to January 2019."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 67 studies involving a total of 1729 adult participants with acute, postacute or chronic ischaemic or haemorrhagic stroke. The mean age in the experimental groups ranged from 43 years up to 70 years, and from 45 years up to 75 years in the control groups. The level of participants' impairment ranged from severe to moderate. The majority of studies were conducted in an inpatient setting. Several different stimulation types with different stimulation durations and dosages were administered and compared with sham tDCS or an active control intervention. Sham tDCS means that the stimulation is switched off covertly in the first minute of the intervention."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review found that tDCS might enhance ADL, but does not improve arm and leg function, muscle strength and cognitive abilities. Proportions of adverse events and people discontinuing the treatment were comparable between groups. Included studies differed in terms of type, location and duration of stimulation, the amount of current delivered, electrode size and positioning,as well as type and location of stroke. Future research is needed in this area to foster the evidence base of these findings, especially regarding arm and leg function, muscle strength and cognitive abilities (including spatial neglect)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of evidence for tDCS for improving ADL ranged from very low to high. It was low to moderate for upper extremity function, and moderate for adverse events and people discontinuing the treatment."
+    }
+  ]
+}

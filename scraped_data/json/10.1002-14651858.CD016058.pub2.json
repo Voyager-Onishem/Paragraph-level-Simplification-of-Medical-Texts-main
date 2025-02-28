@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/14651858.CD016058.pub2",
+  "name": "Interventions for quitting vaping",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Rationale",
+      "text": "There is limited guidance on the best ways to stop using nicotine-containing vapes (otherwise known as e-cigarettes) and ensure long-term abstinence, whilst minimising the risk of tobacco smoking and other unintended consequences. Treatments could include pharmacological interventions, behavioural interventions, or both."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To conduct a living systematic review assessing the benefits and harms of interventions to help people stop vaping compared to each other or to placebo or no intervention.\nTo also assess how these interventions affect the use of combustible tobacco, and whether the effects vary based on participant characteristics."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases from 1 January 2004 to 24 April 2024: CENTRAL; MEDLINE; Embase; PsycINFO; ClinicalTrials.gov (through CENTRAL); World Health Organization International Clinical Trials Registry Platform (through CENTRAL). We also searched the references of eligible studies and abstracts from the Society for Research on Nicotine and Tobacco 2024 conference, and contacted study authors."
+    },
+    {
+      "heading": "Eligibility criteria",
+      "text": "Randomised controlled trials (RCTs) recruiting people of any age using nicotine-containing vapes, regardless of tobacco smoking status. Studies had to test an intervention designed to support people to quit vaping, and plan to measure at least one of our outcomes."
+    },
+    {
+      "heading": "Outcomes",
+      "text": "Critical outcomes: vaping cessation; change in combustible tobacco use at six months or longer; number of participants reporting serious adverse events (SAEs) at one week or longer."
+    },
+    {
+      "heading": "Risk of bias",
+      "text": "We used the Cochrane RoB 1 tool to assess bias in the included studies."
+    },
+    {
+      "heading": "Synthesis methods",
+      "text": "We followed standard Cochrane methods for screening and data extraction. We grouped studies by comparisons and outcomes reported, and calculated individual study and pooled effects, as appropriate. We used random-effects Mantel-Haenszel methods to calculate risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes. We used random-effects inverse variance methods to calculate mean differences and 95% CI for continuous outcomes. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Included studies",
+      "text": "Nine RCTs, representing 5209 participants motivated to stop using nicotine-containing vapes at baseline, are included. In six studies, participants were abstinent from smoking tobacco cigarettes at baseline, although most studies included some participants who had previously smoked. Eight studies included participants aged 18 or older, three included only young adults (18 to 24 years), and one included 13- to 17-year-olds only. We judged three studies at low risk, three at high risk, and three at unclear risk of bias."
+    },
+    {
+      "heading": "Synthesis of results",
+      "text": "Pharmacological interventions for quitting nicotine vaping\nStudies assessed combination nicotine replacement therapy (NRT), cytisine, and varenicline as pharmacological interventions for quitting vaping in comparison to placebo or no/minimal support (control). The point estimate for combination NRT indicated possible benefit, but the CI incorporated the possibility of no benefit and a potential benefit of control (very low-certainty evidence due to imprecision and risk of bias; RR 2.57, 95% CI 0.29 to 22.93; 1 study, 16 participants). The one study investigating cytisine did not report vaping cessation rates at six months or longer. Varenicline increased vaping cessation rates at six months, but the evidence was low certainty due to imprecision (RR 2.00, 95% CI 1.09 to 3.68; 1 study, 140 participants).\nZero participants reported SAEs in the studies of combination NRT versus no/minimal support (1 study, 508 participants; low-certainty evidence due to imprecision) and cytisine versus placebo (1 study, 159 participants; low-certainty evidence due to imprecision). Three studies investigating varenicline measured the number of participants reporting SAEs. However, only one study reported an SAE (in the intervention arm); therefore, the effect estimate was calculated based on that single study (RR 2.60, 95% CI 0.11 to 62.16; 95 participants; low-certainty evidence due to imprecision).\nBehavioural interventions for quitting nicotine vaping\nStudies assessed reducing nicotine concentration and vaping behaviour (1 study) and text message-based interventions (3 studies) as behavioural interventions for stopping vaping in comparison to no/minimal support (control). In one study, the point estimate suggested nicotine/vaping reduction increased vaping cessation compared to minimal support at six-month follow-up, but the CI incorporated the possibility of no intervention effect and higher cessation rates in the control arm (RR 3.38, 95% CI 0.43 to 26.30; 17 participants; very low-certainty due to imprecision and risk of bias). There was low-certainty evidence (downgraded two levels due to indirectness) that text message-based interventions may have increased vaping cessation rates compared to control in 13- to 24-year-olds (RR 1.32, 95% CI 1.19 to 1.47; I2 = 0%; 2 studies, 4091 participants).\nThe one study investigating nicotine/vaping behaviour reduction did not report on SAEs. One of the studies investigating text message-based interventions did report on SAEs; however, zero events were reported in both study arms (508 participants; low-certainty evidence due to imprecision).\nNo studies reported change in combustible tobacco smoking at six-month follow-up or longer."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is low-certainty evidence that text message-based interventions designed to help people stop nicotine vaping may help more youth and young adults to successfully stop than no/minimal support, and low-certainty evidence that varenicline may also help people quit vaping. Data exploring the effectiveness of combination NRT, cytisine, and nicotine/vaping behaviour reduction are inconclusive due to risk of bias and imprecision.\nMost studies that measured SAEs reported none; however, more data are needed to draw clear conclusions. Of note, data from studies investigating these interventions for quitting smoking have not demonstrated serious concerns about SAEs. No studies assessed the change in combustible tobacco smoking, including relapse to or uptake of tobacco smoking, at six-month follow-up or longer. It is important that future studies measure this so the complete risk profile of relevant interventions can be considered.\nWe identified 20 ongoing RCTs. Their incorporation into the evidence base and the continued identification of new studies is imperative to inform clinical and policy guidance on the best ways to stop vaping. Therefore, we will continue to update this review as a living systematic review by running searches monthly and updating the review when relevant new evidence that will strengthen or change our conclusions emerges."
+    },
+    {
+      "heading": "Funding",
+      "text": "Cancer Research UK (PRCPJT-Nov22/100012).\nNational Institute of Health Research (NIHR206123)"
+    },
+    {
+      "heading": "Registration",
+      "text": "Protocol available via DOI: 10.1002/14651858.CD016058."
+    }
+  ],
+  "pls_title": "What are the best ways to help people to stop vaping nicotine and do they have any unwanted effects?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Text message-based interventions compared to no or minimal support may help young people stop vaping, and varenicline compared to no or minimal support may help people stop vaping; however, more evidence is needed.    We need more information on whether other interventions can help people to stop vaping.   We need more information on potential harms of interventions and whether they affect the number of people smoking tobacco.\nText message-based interventions compared to no or minimal support may help young people stop vaping, and varenicline compared to no or minimal support may help people stop vaping; however, more evidence is needed.\nWe need more information on whether other interventions can help people to stop vaping.\nWe need more information on potential harms of interventions and whether they affect the number of people smoking tobacco."
+    },
+    {
+      "heading": "What are nicotine-containing vapes?",
+      "text": "Vapes (also known as electronic cigarettes or e-cigarettes) are handheld devices that heat liquid that usually contains nicotine and flavourings. Liquids are stored in a disposable or refillable cartridge, reservoir, or 'pod'. Vapes allow users to inhale nicotine in a vapour rather than smoke. Because they do not burn tobacco, vapes expose users to fewer of the substances that cause diseases in people who smoke tobacco cigarettes. However, vaping is likely to cause more harm than not vaping. Some people vape nicotine to help them quit smoking; however, some people who vape nicotine have never smoked. People may want to stop using vapes containing nicotine, but find it difficult due to the addictive properties of nicotine."
+    },
+    {
+      "heading": "What interventions might help people to stop vaping?",
+      "text": "Medicines including nicotine replacement therapy (gums, patches, etc.), varenicline, bupropion, and cytisine could be used to stop vaping. These are already used to help people stop smoking. Behavioural interventions could include counselling, text message, or online support, vaping reduction programmes and print-based information. In this review we looked at both medicines and behavioural interventions."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "There is limited advice available on the best ways to stop nicotine vaping. Therefore, we brought together up-to-date information to see what tools have been tested for this purpose and whether they can help people to stop vaping. We also looked at any harms these interventions may cause, including whether they could cause more people to smoke tobacco."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies looking at any intervention designed to support people who use nicotine-containing vapes to stop vaping.\nWe included randomised controlled trials, in which the treatments people received were decided at random. This type of study usually gives the most reliable evidence about treatment effects.\nWe were interested in finding out:\nhow many people stopped using nicotine vapes at least six months after study start;   any change in tobacco smoking at least six months after study start;   how many people experienced unwanted effects of treatment, at least one week after treatment started.\nhow many people stopped using nicotine vapes at least six months after study start;\nany change in tobacco smoking at least six months after study start;\nhow many people experienced unwanted effects of treatment, at least one week after treatment started."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found nine studies, including 5209 participants who used nicotine-containing vapes. Eight studies took place in the USA and one in Italy. Treatments used to help people stop vaping were:\ntwo types of nicotine replacement therapy used together, such as patches and gum (otherwise known as combination nicotine replacement therapy);    cytisine (a medicine to help people stop smoking);   varenicline (a medicine to help people stop smoking);   a plan to help people reduce the nicotine in their vapes and the amount they were vaping over time;    a text message-based intervention.\ntwo types of nicotine replacement therapy used together, such as patches and gum (otherwise known as combination nicotine replacement therapy);\ncytisine (a medicine to help people stop smoking);\nvarenicline (a medicine to help people stop smoking);\na plan to help people reduce the nicotine in their vapes and the amount they were vaping over time;\na text message-based intervention."
+    },
+    {
+      "heading": "What are the results of our review?",
+      "text": "Text message-based interventions might help more young people (13 to 24 years) stop vaping compared to no support or minimal support. Varenicline may also help people quit vaping. There was not enough information to say whether any of the other interventions were better at helping people to stop vaping than no or minimal support.\nThere was not enough information about the potential harms of the treatments, as very few studies reported any serious unwanted effects. No studies looked at whether the interventions studied affected the number of people smoking tobacco after six months."
+    },
+    {
+      "heading": "How reliable are these results?",
+      "text": "Our results are based on small numbers of studies and participants for most outcomes, making it difficult to draw conclusions.\nWe found some evidence that youth and young adults may be more likely to stop vaping nicotine using a text message-based intervention than using no or minimal support. However, both studies looking at this tested the same text message intervention. We do not know whether we would find the same results for other text message-based interventions or in older adults. We also found some evidence that varenicline may help more people to stop vaping nicotine than no or minimal support. However, more evidence is needed, which could change our conclusions.\nThe studies looking at whether people experienced serious unwanted effects either reported none or very few, making it difficult to draw clear conclusions about whether more serious unwanted effects occur when using particular interventions. More studies and participants will help us feel more confident about this.\nIn some cases, only one study tested an intervention and measured an outcome. Where there were issues with the quality of the study, this made it difficult to draw conclusions about which interventions work best and their safety.\nMore relevant studies are underway and will help us learn more about what interventions could be used to help people to stop vaping nicotine."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "We included evidence published up to 24 April 2024. We will run monthly searches and update this review when new information will strengthen or change our conclusions."
+    }
+  ]
+}

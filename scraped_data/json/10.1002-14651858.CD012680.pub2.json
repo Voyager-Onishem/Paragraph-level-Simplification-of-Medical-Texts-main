@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012680.pub2",
+  "name": "Adjuvant therapy with antidepressants for the management of inflammatory bowel disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Symptoms of anxiety and depression are common in inflammatory bowel disease (IBD). Antidepressants are taken by approximately 30% of people with IBD. However, there are no current guidelines on treating co-morbid anxiety and depression in people with IBD with antidepressants, nor are there clear data on the role of antidepressants in managing physical symptoms of IBD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objectives were to assess the efficacy and safety of antidepressants for treating anxiety and depression in IBD, and to assess the effects of antidepressants on quality of life (QoL) and managing disease activity in IBD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE; Embase, CINAHL, PsycINFO, CENTRAL, and the Cochrane IBD Group Specialized Register from inception to 23 August 2018. Reference lists, trials registers, conference proceedings and grey literature were also searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) and observational studies comparing any type of antidepressant to placebo, no treatment or an active therapy for IBD were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened search results, extracted data and assessed bias using the Cochrane risk of bias tool. We used the Newcastle-Ottawa Scale to assess quality of observational studies. GRADE was used to evaluate the certainty of the evidence supporting the outcomes. Primary outcomes included anxiety and depression. Anxiety was assessed using the Hospital Anxiety and Depression Scale (HADS) or the Hamilton Anxiety Rating Scale (HARS). Depression was assessed using HADS or the Beck Depression Inventory. Secondary outcomes included adverse events (AEs), serious AEs, withdrawal due to AEs, quality of life (QoL), clinical remission, relapse, pain, hospital admissions, surgery, and need for steroid treatment. QoL was assessed using the WHO-QOL-BREF questionnaire. We calculated the risk ratio (RR) and corresponding 95% confidence intervals (CI) for dichotomous outcomes. For continuous outcomes, we calculated the mean difference (MD) with 95% CI. A fixed-effect model was used for analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four studies (188 participants). Two studies were double-blind RCTs, one was a non-randomised controlled trial, and one was an observational retrospective case-matched study. The age of participants ranged from 27 to 37.8 years. In three studies participants had quiescent IBD and in one study participants had active or quiescent IBD. Participants in one study had co-morbid anxiety or depression. One study used duloxetine (60 mg daily), one study used fluoxetine (20 mg daily), one study used tianeptine (36 mg daily), and one study used various antidepressants in clinical ranges. Three studies had placebo controls and one study had a no treatment control group. One RCT was rated as low risk of bias and the other was rated as high risk of bias (incomplete outcome data). The non-randomised controlled trial was rated as high risk of bias (random sequence generation, allocation concealment, blinding). The observational study was rated as high methodological quality, but is still considered to be at high risk of bias given its observational design.\nThe effect of antidepressants on anxiety and depression is uncertain. At 12 weeks, the mean anxiety score in antidepressant participants was 6.11 + 3 compared to 8.5 + 3.45 in placebo participants (MD -2.39, 95% -4.30 to -0.48, 44 participants, low certainty evidence). At 12 months, the mean anxiety score in antidepressant participants was 3.8 + 2.5 compared to 4.2 + 4.9 in placebo participants (MD -0.40, 95% -3.47 to 2.67, 26 participants; low certainty evidence). At 12 weeks, the mean depression score in antidepressant participants was 7.47 + 2.42 compared to 10.5 + 3.57 in placebo participants (MD -3.03, 95% CI -4.83 to -1.23, 44 participants; low certainty evidence). At 12 months, the mean depression score in antidepressant participants was 2.9 + 2.8 compared to 3.1 + 3.4 in placebo participants (MD -0.20, 95% -2.62 to 2.22, 26 participants; low certainty evidence).\nThe effect of antidepressants on AEs is uncertain. Fifty-seven per cent (8/14) of antidepressant participants group reported AEs versus 25% (3/12) of placebo participants (RR 2.29, 95% CI 0.78 to 6.73, low certainty evidence). Commonly reported AEs include nausea, headache, dizziness, drowsiness, sexual problems, insomnia, fatigue, low mood/anxiety, dry mouth, muscle spasms and hot flushes. None of the included studies reported any serious AEs. None of the included studies reported on pain.\nOne study (44 participants) reported on QoL at 12 weeks and another study (26 participants) reported on QoL at 12 months. Physical, Psychological, Social and Environmental QoL were improved at 12 weeks compared to placebo (all low certainty evidence). There were no group differences in QoL at 12 months (all low certainty evidence). The effect of antidepressants on maintenance of clinical remission and endoscopic relapse is uncertain. At 12 months, 64% (9/14) of participants in the antidepressant group maintained clinical remission compared to 67% (8/12) of placebo participants (RR 0.96, 95% CI 0.55 to 1.69; low certainty evidence). At 12 months, none (0/30) of participants in the antidepressant group had endoscopic relapse compared to 10% (3/30) of placebo participants (RR 0.14, 95% CI 0.01 to 2.65; very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results for the outcomes assessed in this review are uncertain and no firm conclusions regarding the efficacy and safety of antidepressants in IBD can be drawn. Future studies should employ RCT designs, with a longer follow-up and develop solutions to address attrition. Inclusion of objective markers of disease activity is strongly recommended as is testing antidepressants from different classes, as at present it is unclear if any antidepressant (or class thereof) has differential efficacy."
+    }
+  ],
+  "pls_title": "Antidepressants for inflammatory bowel disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is inflammatory bowel disease?",
+      "text": "Inflammatory bowel disease (IBD) is a chronic, inflammatory disease affecting the gastrointestinal tract (colon or small intestine or both). IBD predominantly comprises Crohn's disease and ulcerative colitis. Symptoms of IBD include diarrhoea, urgency of defecation (including faecal incontinence), abdominal pain, rectal bleeding, fatigue and weight loss. When people experience symptoms of IBD they are considered to have active disease. When symptoms of IBD stop the disease is in remission. IBD is associated with a psycho-social burden, with rates of depression in people with IBD twice as high as in the general population. Anxiety and depression which accompany IBD may be associated with poor quality of life, worsening IBD activity, higher hospitalisation rates and lower adherence to treatment. Up to 30% of people living with IBD take antidepressants which are prescribed for either mental health or bowel symptoms or both."
+    },
+    {
+      "heading": "What are antidepressants?",
+      "text": "Antidepressants are drugs used to treat depression and other mental disorders such as anxiety. No antidepressants are currently approved by regulatory agencies for specifically treating anxiety and depression, to manage physical symptoms or to reduce bowel inflammation in people with IBD. However, some antidepressants have indications for treatment of pain in chronic conditions and have been commonly used to manage functional bowel symptoms in conditions such as irritable bowel syndrome."
+    },
+    {
+      "heading": "What did the researchers investigate?",
+      "text": "Previously conducted studies of antidepressant therapy in IBD were reviewed. The data from some of these studies were combined using a method called a meta-analysis. During the analysis, people who took antidepressants were compared with those who did not take antidepressants with regard to rates of anxiety and depression and also other measures such as quality of life, side effects and IBD disease activity."
+    },
+    {
+      "heading": "What did the researchers find?",
+      "text": "The researchers searched the medical literature up to 23 August 2018. Four published studies, including a total of 188 people, examined antidepressant therapy in people with IBD. The age of participants ranged from 27 to 37.8 years. In three studies participants had IBD in remission and in one study participants had either active IBD or IBD in remission. Participants in one study had co-existing anxiety or depression. One study used duloxetine (60 mg daily), one study used fluoxetine (20 mg daily), one study used tianeptine (36 mg daily), and one study used various antidepressants. Three studies had a placebo (e.g. sugar pill) control group and one study had a no treatment control group.\nThe analysis showed that the symptoms of anxiety and depression were improved in those who took antidepressants compared to placebo. Participants who received antidepressants experienced more side effects than those who received placebo. Side effects reported by those taking antidepressants included: nausea, headache, dizziness, drowsiness, sexual problems, insomnia, fatigue, low mood/anxiety, dry mouth, poor sleep, restless legs and hot flushes. Some aspects of quality of life were improved as was IBD activity in the antidepressant group. The overall quality of the studies included in this review was poor because the studies included small numbers of participants, and involved IBD populations which differed from each other on key characteristics. In addition, different types of antidepressants were assessed so the evidence for any one antidepressant was uncertain. Therefore, future studies are needed to confirm these observations."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "The results for the outcomes assessed in this review are uncertain and no firm conclusions regarding the benefits and harms of antidepressants in IBD can be drawn. More studies are needed to allow for firm conclusions regarding the benefits and harms of the use of antidepressants in people with IBD."
+    }
+  ]
+}

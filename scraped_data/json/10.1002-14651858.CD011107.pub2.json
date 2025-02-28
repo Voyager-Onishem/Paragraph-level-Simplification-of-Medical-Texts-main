@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011107.pub2",
+  "name": "Alpha‐2 adrenergic agonists for the prevention of shivering following general anaesthesia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Shivering after general anaesthesia is common. It is unpleasant but can also have adverse physiological effects. Alpha-2 (α-2) adrenergic agonist receptors, which can lead to reduced sympathetic activity and central regulation of vasoconstrictor tone, are a group of drugs that have been used to try to prevent postoperative shivering."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the following: the effects of α-2 agonists on the prevention of shivering and subsequent complications after general anaesthesia in people undergoing surgery; the effects of α-2 agonists on the risk of inadvertent perioperative hypothermia; and whether any adverse effects are associated with these interventions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and EMBASE on 13 June 2014. Our search terms were relevant to the review question and limited to studies that assessed shivering or hypothermia. We also carried out searches of clinical trials registers, and forward and backward citation tracking."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered all randomized controlled trials, quasi-randomized studies, and cluster-randomized studies with adult participants undergoing surgery with general anaesthesia in which an α-2 agonist was compared with another α-2 agonist or a placebo for the prevention of shivering."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial quality and extracted data, consulting a third review author in the case of disagreements. We used standard Cochrane methodological procedures, including an assessment of risk of bias and use of GRADEpro software to interpret findings."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 20 studies with 1401 surgical participants comparing an α-2 agonist against a control. Thirteen studies compared clonidine with a control, whilst seven compared dexmedetomidine with a control. The doses, methods, and time of administration varied between studies: three studies gave the drug orally or as an intravenous bolus preoperatively and nine intraoperatively; one study gave the drug as an infusion starting preoperatively and seven started at varying points from anaesthetic induction to the end of surgery. Whilst all the studies were described as randomized, many provided insufficient detail on methods used. We had anticipated that attempts would be made to reduce performance bias by blinding of personnel and participants, however this was detailed in only six of the papers. Similarly, in some studies detail was lacking on methods to reduce the risk of detection bias. We therefore downgraded the quality of evidence in our 'Summary of findings' table by one level for risk of bias using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach.\nAll 20 included studies presented outcome data for postoperative shivering, and in meta-analysis α-2 agonists were shown to significantly reduce the risk of shivering (Mantel-Haenszel risk ratio 0.28, 95% confidence interval 0.18 to 0.43, P value < 0.0001). We found significant evidence of heterogeneity (I2 = 80%) for this result that was not explained by sensitivity or subgroup analysis; we therefore downgraded the inconsistency of the evidence by one level. Although we did not feel that there were concerns with imprecision or indirectness of the data, we downgraded the quality of the evidence for the risk of publication bias following visual analysis of a funnel plot. Using GRADEpro, we rated the overall quality of the data for shivering as very low. Only one study reported the incidence of core hypothermia, whilst 12 studies measured core temperature. However, as the results for core temperature were reported in different styles, pooling the results was inappropriate. We found no studies with participant-reported outcomes such as experience of shivering or participant satisfaction. We found limited data for the outcomes of length of stay in the postanaesthetic care unit (three studies, 200 participants) and the following adverse effects: sedation (nine studies, 875 participants), bradycardia (eight studies, 716 participants), and hypotension (seven studies, 688 participants). Unpooled analysis suggested that sedation and bradycardia were significantly more common with dexmedetomidine than placebo, with all seven dexmedetomidine studies and none of the clonidine studies reporting statistically significantly higher levels of sedation as an adverse effect."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is evidence that clonidine and dexmedetomidine can reduce postoperative shivering, but patients given dexmedetomidine may be more sedated. However, our assessment of the quality of this evidence is very low."
+    }
+  ],
+  "pls_title": "Alpha-2 adrenergic agonists to prevent shivering after general anaesthesia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Shivering after general anaesthesia is common. As well as being unpleasant for the patient, it can increase pain and affect oxygen levels. Alpha-2 (α-2) adrenergic agonists are a group of drugs that have been tested for the purpose of preventing or treating shivering. We aimed with this review to consider whether α-2 agonists can be administered to reduce shivering after surgery without causing serious side effects."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current up to 13 June 2014. We found 20 relevant randomized controlled trials with 1401 participants undergoing surgical procedures with general anaesthesia. These studies compared an α-2 agonist (either clonidine or dexmedetomidine) with a control. The doses, methods, and time that the drugs were given varied between studies."
+    },
+    {
+      "heading": "Key results",
+      "text": "All studies reported results for shivering. Our analysis showed that α-2 agonists significantly reduce the risk of postoperative shivering when administered before or during surgery. However, our analysis also showed that there were significant differences between studies that we could not explain. Some study authors had also presented results for core temperature, length of stay in the recovery room, and clinical side effects of the drugs. Seven studies reported that participants given dexmedetomidine were more likely to have a higher level of sedation after surgery, and five studies reported that participants given dexmedetomidine were more likely to have bradycardia (slower heart rate). We did not combine these results in an analysis. None of the studies presented patient-reported outcomes."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We felt that the quality of the evidence was low and that some authors did not make enough of an effort to reduce the risk of bias in the methods, which could affect their results. For example, not all authors masked the anaesthetist or surgeon to which drug was given to each participant. This, along with some unexplained differences between studies and some concern about whether we could have missed some relevant results that had not been published, led us to assess the quality of the evidence for shivering as very low. We used GRADEpro software to assess evidence quality."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Alpha-2 agonists may reduce the number of people who shiver after surgical procedures, but they are likely to make people sleepier as a side effect. However, the evidence is from studies of very low quality."
+    }
+  ]
+}

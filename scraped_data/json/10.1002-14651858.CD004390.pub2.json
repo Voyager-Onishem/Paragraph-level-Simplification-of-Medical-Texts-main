@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004390.pub2",
+  "name": "Oral versus intravenous rehydration for treating dehydration due to gastroenteritis in children ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Dehydration associated with gastroenteritis is a serious complication. Oral rehydration is an effective and inexpensive treatment, but some physicians prefer intravenous methods."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare oral with intravenous therapy for treating dehydration due to acute gastroenteritis in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register (March 2006), CENTRAL (The Cochrane Library 2006, Issue 1), MEDLINE (1966 to March 2006), EMBASE (1974 to March 2006), LILACS (1982 to March 2006), and reference lists. We also contacted researchers, pharmaceutical companies, and relevant organizations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and quasi-randomized controlled trials comparing intravenous rehydration therapy (IVT) with oral rehydration therapy (ORT) in children up to 18 years of age with acute gastroenteritis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data and assessed quality using the Jadad score. We expressed dichotomous data as a risk difference (RD) and number needed to treat (NNT), and continuous data as a mean difference (MD). We used meta-regression for subgroup analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventeen trials (1811 participants), of poor to moderate quality, were included. There were more treatment failures with ORT (RD 4%, 95% confidence interval (CI) 1 to 7, random-effects model; 1811 participants, 18 trials; NNT = 25). Six deaths occurred in the IVT group and two in the ORT groups (4 trials). There were no significant differences in weight gain (369 participants, 6 trials), hyponatremia (248 participants, 2 trials) or hypernatremia (1062 participants, 10 trials), duration of diarrhea (960 participants, 8 trials), or total fluid intake at six hours (985 participants, 8 trials) and 24 hours (835 participants, 7 trials). Shorter hospital stays were reported for the ORT group (WMD -1.20 days, 95% CI -2.38 to -0.02 days; 526 participants, 6 trials). Phlebitis occurred more often in the IVT group (NNT 50, 95% CI 25 to 100) and paralytic ileus more often in the ORT group (NNT 33, 95% CI 20 to 100, fixed-effect model), but there was no significant difference between ORT using the low osmolarity solutions recommended by the World Health Organization and IVT (729 participants, 6 trials)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although no clinically important differences between ORT and IVT, the ORT group did have a higher risk of paralytic ileus, and the IVT group was exposed to risks of intravenous therapy. For every 25 children (95% CI 14 to 100) treated with ORT one would fail and require IVT."
+    }
+  ],
+  "pls_title": "Children with dehydration due to gastroenteritis need to be rehydrated, and this review did not show any important differences between giving fluids orally or intravenously",
+  "pls_type": "long",
+  "pls": "Dehydration is when body water content is reduced causing dry skin, headaches, sunken eyes, dizziness, confusion, and sometimes death. Children with dehydration due to gastroenteritis need rehydrating either by liquids given by mouth or a tube through the nose, or intravenously. The review of 17 trials (some funded by drug companies) found that the trials were not of high quality; however the evidence suggested that there are no clinically important differences between giving fluids orally or intravenously. For every 25 children treated with fluids given orally, one child would fail and require intravenous rehydration. Further, the results for low osmolarity solutions, the currently recommended treatment by the World Health Organization, showed a lower failure rate for oral rehydration that was not significantly different from that of intravenous rehydration. Oral rehydration should be the first line of treatment in children with mild to moderate dehydration with intravenous therapy being used if the oral route fails. The evidence showed that there may be a higher risk of paralytic ileus with oral rehydration while intravenous therapy carries the risk of phlebitis (ie inflammation of the veins)."
+}

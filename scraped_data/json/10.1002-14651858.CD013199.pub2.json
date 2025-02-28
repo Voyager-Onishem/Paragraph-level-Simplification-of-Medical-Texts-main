@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD013199.pub2",
+  "name": "Halo sign on temporal artery ultrasound versus temporal artery biopsy for giant cell arteritis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Giant cell arteritis (GCA) is a systemic, inflammatory vasculitis primarily affecting people over the age of 50 years. GCA is treated as a medical emergency due to the potential for sudden, irreversible visual loss. Temporal artery biopsy (TAB) is one of the five criteria of the American College of Rheumatology (ACR) 1990 classification, which is used to aid the diagnosis of GCA. TAB is an invasive test, and it can be slow to obtain a result due to delays in performing the procedure and the time taken for histopathologic assessment. Temporal artery ultrasonography (US) has been demonstrated to show findings in people with GCA such as the halo sign (a hypoechoic circumferential wall thickening due to oedema), stenosis or occlusion that can help to confirm a diagnosis more swiftly and less invasively, but requiring more subjective interpretation. This review will help to determine the role of these investigations in clinical practice."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the sensitivity and specificity of the halo sign on temporal artery US, using the ACR 1990 classification as a reference standard, to investigate whether US could be used as triage for TAB.\nTo compare the accuracy of US with TAB in the subset of paired studies that have obtained both tests on the same patients, to investigate whether it could replace TAB as one of the criteria in the ACR 1990 classification."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard Cochrane search methods for diagnostic accuracy. The date of the search was 13 September 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all participants with clinically suspected GCA who were investigated for the presence of the halo sign on temporal artery US, using the ACR 1990 criteria as a reference standard. We included studies with participants with a prior diagnosis of polymyalgia rheumatica. We excluded studies if participants had had two or more weeks of steroid treatment prior to the investigations.\nWe also included any comparative test accuracy studies of the halo sign on temporal artery US versus TAB, with use of the 1990 ACR diagnostic criteria as a reference standard. Although we have chosen to use this classification for the purpose of the meta-analysis, we accept that it incorporates unavoidable incorporation bias, as TAB is itself one of the five criteria. This increases the specificity of TAB, making it difficult to compare with US.\nWe excluded case-control studies, as they overestimate accuracy, as well as case series in which all participants had a prior diagnosis of GCA, as they can only address sensitivity and not specificity."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the studies for inclusion in the review. They extracted data using a standardised data collection form and employed the QUADAS-2 tool to assess methodological quality. As not enough studies reported data at our prespecified halo threshold of 0.3 mm, we fitted hierarchical summary receiver operating characteristic (ROC) models to estimate US sensitivity and also to compare US with TAB. We graded the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Temporal artery ultrasound was investigated in 15 studies (617 participants with GCA out of 1479, 41.7%), with sample sizes ranging from 20 to 381 participants (median 69). There was wide variation in sensitivity with a median value of 0.78 (interquartile range (IQR) 0.45 to 0.83; range 0.03 to 1.00), while specificity was fair to good in most studies with a median value of 0.91 (IQR 0.78 to 1.00; range 0.40 to 1.00) and four studies with a specificity of 1.00. The hierarchical summary receiver operating characteristic (HSROC) estimate of sensitivity (95% confidence interval (CI)) at the high specificity of 0.95 was 0.51 (0.21 to 0.81), and 0.84 (0.58 to 0.95) at 0.80 specificity. We considered the evidence on sensitivity and specificity as of very low certainty due to risk of bias (−1), imprecision (−1), and inconsistency (−1).\nOnly four studies reported data at a halo cut-off > 0.3 mm, finding the following sensitivities and specificities (95% CI): 0.80 (0.56 to 0.94) and 0.94 (0.81 to 0.99) in 55 participants; 0.10 (0.00 to 0.45) and 1.00 (0.84 to 1.00) in 31 participants; 0.73 (0.54 to 0.88) and 1.00 (0.93 to 1.00) in 82 participants; 0.83 (0.63 to 0.95) and 0.72 (0.64 to 0.79) in 182 participants.\nData on a direct comparison of temporal artery US with biopsy were obtained from 11 studies (808 participants; 460 with GCA, 56.9%). The sensitivity of US ranged between 0.03 and 1.00 with a median of 0.75, while that of TAB ranged between 0.33 and 0.92 with a median of 0.73. The specificity was 1.00 in four studies for US and in seven for TAB. At high specificity (0.95), the sensitivity of US and TAB were 0.50 (95% CI 0.24 to 0.76) versus 0.80 (95% CI 0.57 to 0.93), respectively, and at low specificity (0.80) they were 0.73 (95% CI 0.49 to 0.88) versus 0.92 (95% CI 0.69 to 0.98). We considered the comparative evidence on the sensitivity of US versus TAB to be of very low certainty because specificity was overestimated for TAB since it is one of the criteria used in the reference standard (−1), together with downgrade due to risk of bias (−1), imprecision (−1), and inconsistency (−1) for both sensitivity and specificity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited published evidence on the accuracy of temporal artery US for detecting GCA. Ultrasound seems to be moderately sensitive when the specificity is good, but data were heterogeneous across studies and either did not use the same halo thickness threshold or did not report it. We can draw no conclusions from accuracy studies on whether US can replace TAB for diagnosing GCA given the very low certainty of the evidence. Future research could consider using the 2016 revision of the ACR criteria as a reference standard, which will limit incorporation bias of TAB into the reference standard."
+    }
+  ],
+  "pls_title": "How useful is ultrasound for diagnosing giant cell arteritis?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Whether ultrasound (US) can replace biopsy for the diagnosis of giant cell arteritis (GCA) is uncertain.\n• We suggest that future studies use a different set of criteria to determine whether patients have GCA to allow US and biopsy to be compared more reliably."
+    },
+    {
+      "heading": "What is giant cell arteritis?",
+      "text": "Giant cell arteritis (GCA) is an inflammatory disease that affects blood vessels. It causes swelling and blockage of the arteries, particularly around the eye and at the side of the head, which can lead to sudden and permanent loss of vision."
+    },
+    {
+      "heading": "Why is it important to diagnose giant cell arteritis accurately?",
+      "text": "It is important to diagnose GCA accurately and quickly. Vision loss caused by the disease cannot be reversed, and it can affect both eyes within a few days. This may be prevented by starting one of a group of medications called steroids, which are used to reduce inflammation. It is important to have an accurate diagnosis, as a long course of treatment is required, and steroids can have a number of unpleasant side effects."
+    },
+    {
+      "heading": "What tests can be used to diagnose giant cell arteritis?",
+      "text": "The American College of Rheumatology (ACR) has written a list of five clinical and laboratory criteria that can be used to diagnose GCA. One of these is the results of a biopsy of an artery on the temple (side of the head). With biopsy, a small sample of the artery is taken and examined under a microscope for signs of inflammation. A biopsy is a small operation, which can take time to be arranged, performed, and interpreted, and it can be quite a while before the results are known."
+    },
+    {
+      "heading": "Why is the new test potentially better than the reference standard?",
+      "text": "Ultrasound (US) is a painless and relatively quick procedure that can be used to look at the arteries in both temples and assist with the diagnosis."
+    },
+    {
+      "heading": "Who will benefit, why and how?",
+      "text": "If US is accurate, people who have symptoms and blood results suggestive of GCA will find out if they have the condition more quickly, without needing to undergo an operation."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out how accurate temporal artery US is at detecting features of GCA and whether it can potentially replace the biopsy altogether as one of the ACR's five criteria used for diagnosing GCA."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for published studies that measured the accuracy of US for diagnosing GCA and studies that also compared the accuracy of US and biopsy."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We looked in depth at 16 studies with a total of 1479 participants, about 40% of whom were diagnosed as having GCA. In a group of 100 people with symptoms suggestive of GCA, we would expect 40 to actually have the condition.\nIf we set a threshold for US where 3 of the 60 people without the disease get a false-positive result, US will correctly identify 20 people that do have GCA, but give a false-negative result to the other 20. If a threshold is set where 12 of the 60 people without the disease get a false-positive result, US will correctly identify 34 people with GCA, but miss the remaining 6.\nThere were 11 studies with 808 participants in whom both US and TAB were performed and compared. In a group of 100 people where 40 have GCA and 60 do not, if a threshold is set where 3 out of the 60 people without the condition are wrongly given a positive diagnosis of GCA, US will identify 20 out of the 40 people with GCA, whereas TAB will identify 32. If a threshold is set whereby 12 of the 60 people are wrongly diagnosed as having GCA, US will identify 29 out of the 40 people with true GCA, and TAB will identify 7."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "These results are not reliable since most studies had flaws in the way they were designed, and their accuracy for detecting people with GCA was variable and uncertain. Additionally, as biopsy is currently part of the criteria used to diagnose GCA, it was always likely to compare favourably to US in the included studies."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to September 2022."
+    }
+  ]
+}

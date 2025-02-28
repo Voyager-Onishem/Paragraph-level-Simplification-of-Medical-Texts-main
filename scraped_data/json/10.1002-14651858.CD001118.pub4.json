@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD001118.pub4",
+  "name": "Print‐based self‐help interventions for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Many smokers give up smoking on their own, but materials that provide a structured programme for smokers to follow may increase the number who quit successfully."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aims of this review were to determine the effectiveness of different forms of print-based self-help materials that provide a structured programme for smokers to follow, compared with no treatment and with other minimal contact strategies, and to determine the comparative effectiveness of different components and characteristics of print-based self-help, such as computer-generated feedback, additional materials, tailoring of materials to individuals, and targeting of materials at specific groups."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group Trials Register, ClinicalTrials.gov, and the International Clinical Trials Registry Platform (ICTRP). The date of the most recent search was March 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials of smoking cessation with follow-up of at least six months, where at least one arm tested print-based materials providing self-help compared with minimal print-based self-help (such as a short leaflet) or a lower-intensity control. We defined 'self-help' as structured programming for smokers trying to quit without intensive contact with a therapist."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data in accordance with standard methodological procedures set out by Cochrane. The main outcome measure was abstinence from smoking after at least six months' follow-up in people smoking at baseline. We used the most rigorous definition of abstinence in each study and biochemically validated rates when available. Where appropriate, we performed meta-analysis using a random-effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 75 studies that met our inclusion criteria. Many study reports did not include sufficient detail to allow judgement of risk of bias for some domains. We judged 30 studies (40%) to be at high risk of bias for one or more domains.\nThirty-five studies evaluated the effects of standard, non-tailored self-help materials. Eleven studies compared self-help materials alone with no intervention and found a small effect in favour of the intervention (n = 13,241; risk ratio (RR) 1.19, 95% confidence interval (CI) 1.03 to 1.37; I² = 0%). We judged the evidence to be of moderate certainty in accordance with GRADE, downgraded for indirect relevance to populations in low- and middle-income countries because evidence for this comparison came from studies conducted solely in high-income countries and there is reason to believe the intervention might work differently in low- and middle-income countries. This analysis excluded two studies by the same author team with strongly positive outcomes that were clear outliers and introduced significant heterogeneity. Six further studies of structured self-help compared with brief leaflets did not show evidence of an effect of self-help materials on smoking cessation (n = 7023; RR 0.87, 95% CI 0.71 to 1.07; I² = 21%). We found evidence of benefit from standard self-help materials when there was brief contact that did not include smoking cessation advice (4 studies; n = 2822; RR 1.39, 95% CI 1.03 to 1.88; I² = 0%), but not when self-help was provided as an adjunct to face-to-face smoking cessation advice for all participants (11 studies; n = 5365; RR 0.99, 95% CI 0.76 to 1.28; I² = 32%).\nThirty-two studies tested materials tailored for the characteristics of individual smokers, with controls receiving no materials, or stage-matched or non-tailored materials. Most of these studies used more than one mailing. Pooling studies that compared tailored self-help with no self-help, either on its own or compared with advice, or as an adjunct to advice, showed a benefit of providing tailored self-help interventions (12 studies; n = 19,190; RR 1.34, 95% CI 1.20 to 1.49; I² = 0%) with little evidence of difference between subgroups (10 studies compared tailored with no materials, n = 14,359; RR 1.34, 95% CI 1.19 to 1.51; I² = 0%; two studies compared tailored materials with brief advice, n = 2992; RR 1.13, 95% CI 0.86 to 1.49; I² = 0%; and two studies evaluated tailored materials as an adjunct to brief advice, n = 1839; RR 1.72, 95% CI 1.17 to 2.53; I² = 10%). When studies compared tailored self-help with non-tailored self-help, results favoured tailored interventions when the tailored interventions involved more mailings than the non-tailored interventions (9 studies; n = 14,166; RR 1.42, 95% CI 1.20 to 1.68; I² = 0%), but not when the two conditions were contact-matched (10 studies; n = 11,024; RR 1.07, 95% CI 0.89 to 1.30; I² = 50%). We judged the evidence to be of moderate certainty in accordance with GRADE, downgraded for risk of bias.\nFive studies evaluated self-help materials as an adjunct to nicotine replacement therapy; pooling three of these provided no evidence of additional benefit (n = 1769; RR 1.05, 95% CI 0.86 to 1.30; I² = 0%). Four studies evaluating additional written materials favoured the intervention, but the lower confidence interval crossed the line of no effect (RR 1.20, 95% CI 0.91 to 1.58; I² = 73%). A small number of other studies did not detect benefit from using targeted materials, or find differences between different self-help programmes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate-certainty evidence shows that when no other support is available, written self-help materials help more people to stop smoking than no intervention. When people receive advice from a health professional or are using nicotine replacement therapy, there is no evidence that self-help materials add to their effect. However, small benefits cannot be excluded. Moderate-certainty evidence shows that self-help materials that use data from participants to tailor the nature of the advice or support given are more effective than no intervention. However, when tailored self-help materials, which typically involve repeated assessment and mailing, were compared with untailored materials delivered similarly, there was no evidence of benefit.\nAvailable evidence tested self-help interventions in high-income countries, where more intensive support is often available. Further research is needed to investigate effects of these interventions in low- and middle-income countries, where more intensive support may not be available."
+    }
+  ],
+  "pls_title": "Do printed self-help materials help people to quit smoking?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "We reviewed the evidence showing how effective printed self-help materials are in helping people to quit smoking. We looked for studies of any type of printed self-help that gave structured support and advice about quitting. This could include any booklets, leaflets, or information sheets that set out some kind of structured programme that someone could follow to help them quit smoking. We also included self-help in audio or video format, but we did not include internet programmes or other formats. We were interested in the number of people who were not smoking for at least six months from the time they were given the self-help materials. Studies had to include people who smoked, but those people did not need to be currently trying to quit smoking."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched electronic databases for studies that investigated printed self-help. We ran our most recent search in March 2018, and so far we have found 75 studies. Most studies took place in North America or Europe and were carried out with adults, although they did not require that people wanted to quit smoking to join. Studies delivered self-help materials in person or by post, some all at once, and some spread out over the length of the study. In most studies, self-help was the only support people were given, but some studies tested self-help given with other kinds of support to test whether there was any extra benefit from written self-help. Some studies gathered information about individual smokers, so they could tailor self-help to better help them."
+    },
+    {
+      "heading": "Key results",
+      "text": "Eleven studies including over 13,000 people provided evidence of a small benefit of printed self-help materials when provided on their own. Our confidence in this evidence was only moderate, because these studies took place in high-income countries, which makes them less relevant to people from lower-income countries, who might benefit differently. When people used self-help as well as receiving face-to-face advice on how to stop smoking (11 studies), there was no extra benefit compared with the effect of that advice without printed self-help.\nThirty-two studies provided written self-help that was individually tailored, comparing it with either non-tailored self-help or nothing. Evidence based on ten studies including nearly 15,000 people showed that tailored self-help was more helpful than nothing. Our confidence in this evidence is moderate, because some of these studies might have had problems in the ways they were carried out that could have affected the results."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "When no other support is available, written self-help materials help more people to stop smoking compared with getting no help at all. People were more likely to make successful quit attempts when they were also given face-to-face support or nicotine replacement therapy, but printed self-help did not make these people more likely to quit.\nSelf-help materials that were tailored to help individual people are more effective than no help at all. However, tailoring these materials often involves more contact with the research team, and when we compared tailored self-help with regular self-help that involved the same amount of contact, we did not find a difference in quit rates.\nThe studies we found looked at self-help given to people in high-income countries, where more intensive support is often available. More research is needed to find out how well self-help works for people in low- and middle-income countries, where more intensive support is less available."
+    }
+  ]
+}

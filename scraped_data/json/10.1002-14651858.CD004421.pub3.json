@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004421.pub3",
+  "name": "Taxanes for adjuvant treatment of early breast cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Adjuvant chemotherapy improves survival in premenopausal and postmenopausal women with early breast cancer. Taxanes are highly active chemotherapy agents used in metastatic breast cancer. Review authors examined their role in early breast cancer. This review is an update of a Cochrane Review first published in 2007."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of taxane-containing adjuvant chemotherapy regimens for treatment of women with operable early breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this review update, we searched the Specialised Register of the Cochrane Breast Cancer Group, MEDLINE, Embase, CENTRAL (2018, Issue 6), the WHO International Clinical Trials Registry Platform (ICTRP), and ClinicalTrials.gov on 16 July 2018, using key words such as 'early breast cancer' and 'taxanes'. We screened reference lists of other related literature reviews and articles, contacted trial authors, and applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials comparing taxane-containing regimens versus non-taxane-containing regimens in women with operable breast cancer were included. Studies of women receiving neoadjuvant chemotherapy were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed risk of bias and quality of the evidence using the GRADE approach. Hazard ratios (HRs) were derived for time-to-event outcomes, and meta-analysis was performed using a fixed-effect model. The primary outcome measure was overall survival (OS); disease-free survival (DFS) was a secondary outcome measure. Toxicity was represented as odds ratios (ORs), and quality of life (QoL) data were extracted when present."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review included 29 studies (27 full-text publications and 2 abstracts or online theses). The updated analysis included 41,911 randomised women; the original review included 21,191 women. Taxane-containing regimens improved OS (HR 0.87, 95% confidence interval (CI) 0.83 to 0.92; high-certainty evidence; 27 studies; 39,180 women; 6501 deaths) and DFS (HR, 0.88, 95% CI 0.85 to 0.92; high-certainty evidence; 29 studies; 41,909 women; 10,271 reported events) compared to chemotherapy without a taxane. There was moderate to substantial heterogeneity across studies for OS and DFS (respectively).\nWhen a taxane-containing regimen was compared with the same regimen without a taxane, the beneficial effects of taxanes persisted for OS (HR 0.84, 95% CI 0.77 to 0.92; P < 0.001; 7 studies; 10,842 women) and for DFS (HR 0.84, 95% CI 0.78 to 0.90; P < 0.001; 7 studies; 10,842 women). When a taxane-containing regimen was compared with the same regimen with another drug or drugs that were substituted for the taxane, a beneficial effect was observed for OS and DFS with the taxane-containing regimen (OS: HR 0.80, 95% CI 0.74 to 0.86; P < 0.001; 13 studies; 16,196 women; DFS: HR 0.83, 95% CI 0.78 to 0.88; P < 0.001; 14 studies; 16,823 women). Preliminary subgroup analysis by lymph node status showed a survival benefit with taxane-containing regimens in studies of women with lymph node-positive disease only (HR 0.83, 95% CI 0.78 to 0.88; P < 0.001; 17 studies; 22,055 women) but less benefit in studies of women both with and without lymph node metastases or with no lymph node metastases. Taxane-containing regimens also improved DFS in women with lymph node-positive disease (HR 0.84, 95% CI 0.80 to 0.88; P < 0.001; 17 studies; 22,055 women), although the benefit was marginal in studies of women both with and without lymph node-positive disease (HR 0.95, 95% CI 0.88 to 1.02; 9 studies; 12,998 women) and was not apparent in studies of women with lymph node-negative disease (HR 0.99, 95% CI 0.86 to 1.14; 3 studies; 6856 women).\nTaxanes probably result in a small increase in risk of febrile neutropenia (odds ratio (OR) 1.55, 95% CI 0.96 to 2.49; moderate-certainty evidence; 24 studies; 33,763 women) and likely lead to a large increase in grade 3/4 neuropathy (OR 6.89, 95% CI 3.23 to 14.71; P < 0.001; moderate-certainty evidence; 22 studies; 31,033 women). Taxanes probably cause little or no difference in cardiotoxicity compared to regimens without a taxane (OR 0.87, 95% CI 0.56 to 1.33; moderate-certainty evidence; 23 studies; 32,894 women). Seven studies reported low-quality evidence for QoL; overall, taxanes may make little or no difference in QoL compared to chemotherapy without a taxane during the follow-up period; however, the duration of follow-up differed across studies. Only one study, which was conducted in Europe, provided cost-effectiveness data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review of studies supports the use of taxane-containing adjuvant chemotherapy regimens, with improvement in overall survival and disease-free survival for women with operable early breast cancer. This benefit persisted when analyses strictly compared a taxane-containing regimen versus the same regimen without a taxane or the same regimen with another drug that was substituted for the taxane. Preliminary evidence suggests that taxanes are more effective for women with lymph node-positive disease than for those with lymph node-negative disease. Considerable heterogeneity across studies probably reflects the varying efficacy of the chemotherapy backbones of the comparator regimens used in these studies. This review update reports results that are remarkably consistent with those of the original review, and it is highly unlikely that this review will be updated, as new trials are assessing treatments based on more detailed breast cancer biology."
+    }
+  ],
+  "pls_title": "Taxane-containing chemotherapy for women after surgery for early breast cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out if adding taxane drugs to standard chemotherapy improves survival and is safe for women with early breast cancer. Cochrane Review authors collected and analysed all relevant studies to answer these questions and found 29 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Adding a taxane drug to standard chemotherapy improved survival (women lived longer) and reduced the chance of cancer returning in women with operable early breast cancer, but the use of taxanes probably led to increased risk of some side effects such as febrile neutropenia (low white cell count with fever) and neuropathy (damage to the nerves)."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Early breast cancer is cancer that has not spread beyond the breast or nearby lymph nodes. It may be curable with surgery alone, but there is a risk that after surgery the breast cancer may return. Chemotherapy and radiotherapy are needed after surgery to achieve a cure.\nA combination of chemotherapy drugs, rather than one drug by itself, is usually used to treat early breast cancer.\nOne class of chemotherapy drugs commonly used is taxanes. Taxanes act by stalling the cellular processes that are needed for cells to divide. This action causes cancer cells to stop dividing and slows the growth of cancer or kills the cells. Two main taxane drugs are available - paclitaxel and docetaxel.\nThe practice of adding taxanes to standard chemotherapy has increased over the last 10 years as data from clinical trials have become available. There is a need to review these data to find out the benefits of these drugs, any side effects of the drugs, and how treatment is affecting a woman's overall well-being (quality of life)."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "Review authors found 29 relevant studies involving 41,911 women. These studies compared chemotherapy that contained a taxane against chemotherapy that did not contain a taxane. Around half of the studies used paclitaxel, and the other half used docetaxel. The decision whether to use paclitaxel or docetaxel generally was based on the availability of these drugs in the hospital. Researchers gave these drugs by injection into a vein.\nThe women's health was monitored for at least 12 months from the start of the study. Some studies monitored women for 10 years.\nReview authors found that adding a taxane drug to chemotherapy:\n• improves survival and reduces the risk of cancer coming back compared to chemotherapy with no taxane;\n• probably leads to an increased chance of some side effects compared to chemotherapy with no taxane. Side effects that are more likely to occur due to taxanes are febrile neutropenia (low white cell count with fever) and neuropathy (damage to the nerves);\n• probably makes little or no difference in heart function compared to chemotherapy with no taxane; and\n• may make little or no difference in quality of life for women compared to chemotherapy with no taxane. Seven of 29 studies provided information on the quality of life of women.\nVery little information is available on the costs of adding a taxane to chemotherapy; only one study, which was conducted in Europe, reported cost-effectiveness data."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to July 2018."
+    }
+  ]
+}

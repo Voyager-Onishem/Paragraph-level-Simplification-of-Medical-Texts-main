@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009280.pub3",
+  "name": "Iron chelators for acute stroke",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stroke is the second leading cause of death and a major cause of morbidity worldwide. Retrospective clinical and animal studies have demonstrated neuroprotective effects of iron chelators in people with haemorrhagic or ischaemic stroke. This is the first update of the original Cochrane Review published in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of iron-chelating drugs in people with acute stroke."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (2 September 2019), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2019, Issue 9; 2 September 2019), MEDLINE Ovid (2 September 2019), Embase Ovid (2 September 2019), and Science Citation Index (2 September 2019). We also searched ongoing trials registers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of iron chelators versus no iron chelators or placebo for the treatment of acute stroke, including subarachnoid haemorrhage."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the search results. We obtained the full texts of potentially relevant studies and evaluated them for eligibility. We assessed risk of bias using the Cochrane 'Risk of bias' tool, and the certainty of evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two RCTs (333 participants) were eligible for inclusion; both compared the iron-chelating agent deferoxamine against placebo. Both studies evaluated participants with spontaneous intracerebral haemorrhage. We assessed one study to have a low risk of bias; the other study had potential sources of bias.\nThe limited and heterogeneous data did not allow for meta-analysis of the outcome parameters. The evidence suggests that administration of deferoxamine may result in little to no difference in deaths (8% in placebo vs 8% in deferoxamine at 180 days; 1 RCT, 291 participants; low-certainty evidence). These RCTs suggest that there may be little to no difference in good functional outcome (modified Rankin Scale score 0 to 2) between groups at 30, 90 and 180 days (placebo vs deferoxamine: 67% vs 57% at 30 days and 36% vs 45% at 180 days; 2 RCTs, 333 participants; low-certainty evidence). One RCT suggests that administration of deferoxamine may not increase the number of serious adverse events or deaths (placebo vs deferoxamine: 33% vs 27% at 180 days; risk ratio 0.81, 95 % confidence interval 0.57 to 1.16; 1 RCT, 291 participants; low-certainty evidence). No data were available on any deaths within the treatment period. Deferoxamine may result in little to no difference in the evolution of National Institute of Health Stroke Scale scores from baseline to 90 days (placebo vs deferoxamine: 13 to 4 vs 13 to 3; P = 0.37; 2 RCTs, 333 participants; low-certainty evidence). Deferoxamine may slightly reduce relative oedema surrounding intracerebral haemorrhage at 15 days (placebo vs deferoxamine: 1.91 vs 10.26; P = 0.042; 2 RCTs, 333 participants; low-certainty evidence). Neither study reported quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We identified two eligible RCTs for assessment. We could not demonstrate any benefit for the use of iron chelators in spontaneous intracerebral haemorrhage. The added value of iron-chelating therapy in people with ischaemic stroke or subarachnoid haemorrhage remains unknown."
+    }
+  ],
+  "pls_title": "Drugs for reducing iron in people with acute stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Brain damage after stroke is complex, and consists of both direct and delayed damage. A disturbance in local iron levels may be linked to delayed brain damage. Therefore, limiting iron toxicity is a potential target in the treatment of people with stroke. Iron-chelating drugs are able to bind excess iron in blood and in local tissue, and may reduce iron accumulation and iron-related brain injury. In animal studies, iron-chelating drugs have been shown to protect brain cells after occurrence of stroke."
+    },
+    {
+      "heading": "Search date",
+      "text": "The updated search was performed on 2 September 2019."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified two trials, with 333 participants in total, which investigated the effectiveness on good clinical outcome of iron chelation therapy with deferoxamine for acute stroke. Both trials studied the effect in people who had bleeding in the brain, a subset of acute stroke."
+    },
+    {
+      "heading": "Key results",
+      "text": "With the limitation that studies could not be pooled, the data did not show any difference in good neurological outcome between groups. Both studies reported that administration of deferoxamine was safe. Oedema formation around the haematoma was slightly reduced in the deferoxamine group in one study, but not in the other."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The certainty of the evidence for the use of deferoxamine for the improvement of neurological outcome in spontaneous intracerebral haemorrhage is low. This is based on two small studies with short follow-up, and with differences in outcome measurement. Limited evidence was available regarding side effects. The added value of iron-chelating therapy in people with ischaemic stroke or subarachnoid haemorrhage remains unknown."
+    }
+  ]
+}

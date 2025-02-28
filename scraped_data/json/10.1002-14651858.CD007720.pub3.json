@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD007720.pub3",
+  "name": "Corticosteroids for pneumonia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pneumonia is a common and potentially serious illness. Corticosteroids have been suggested for the treatment of different types of infection, however their role in the treatment of pneumonia remains unclear. This is an update of a review published in 2011."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of corticosteroids in the treatment of pneumonia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Acute Respiratory Infections Group's Specialised Register, CENTRAL, MEDLINE, Embase, and LILACS on 3 March 2017, together with relevant conference proceedings and references of identified trials. We also searched three trials registers for ongoing and unpublished trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that assessed systemic corticosteroid therapy, given as adjunct to antibiotic treatment, versus placebo or no corticosteroids for adults and children with pneumonia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. Two review authors independently assessed risk of bias and extracted data. We contacted study authors for additional information. We estimated risk ratios (RR) with 95% confidence intervals (CI) and pooled data using the Mantel–Haenszel fixed-effect model when possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 RCTs comprising a total of 2264 participants; 13 RCTs included 1954 adult participants, and four RCTs included 310 children. This update included 12 new studies, excluded one previously included study, and excluded five new trials. One trial awaits classification.\nAll trials limited inclusion to inpatients with community-acquired pneumonia (CAP), with or without healthcare-associated pneumonia (HCAP). We assessed the risk of selection bias and attrition bias as low or unclear overall. We assessed performance bias risk as low for nine trials, unclear for one trial, and high for seven trials. We assessed reporting bias risk as low for three trials and high for the remaining 14 trials.\nCorticosteroids significantly reduced mortality in adults with severe pneumonia (RR 0.58, 95% CI 0.40 to 0.84; moderate-quality evidence), but not in adults with non-severe pneumonia (RR 0.95, 95% CI 0.45 to 2.00). Early clinical failure rates (defined as death from any cause, radiographic progression, or clinical instability at day 5 to 8) were significantly reduced with corticosteroids in people with severe and non-severe pneumonia (RR 0.32, 95% CI 0.15 to 0.7; and RR 0.68, 95% CI 0.56 to 0.83, respectively; high-quality evidence). Corstocosteroids reduced time to clinical cure, length of hospital and intensive care unit stays, development of respiratory failure or shock not present at pneumonia onset, and rates of pneumonia complications.\nAmong children with bacterial pneumonia, corticosteroids reduced early clinical failure rates (defined as for adults, RR 0.41, 95% CI 0.24 to 0.70; high-quality evidence) based on two small, clinically heterogeneous trials, and reduced time to clinical cure.\nHyperglycaemia was significantly more common in adults treated with corticosteroids (RR 1.72, 95% CI 1.38 to 2.14). There were no significant differences between corticosteroid-treated people and controls for other adverse events or secondary infections (RR 1.19, 95% CI 0.73 to 1.93)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Corticosteroid therapy reduced mortality and morbidity in adults with severe CAP; the number needed to treat for an additional beneficial outcome was 18 patients (95% CI 12 to 49) to prevent one death. Corticosteroid therapy reduced morbidity, but not mortality, for adults and children with non-severe CAP. Corticosteroid therapy was associated with more adverse events, especially hyperglycaemia, but the harms did not seem to outweigh the benefits."
+    }
+  ],
+  "pls_title": "Is treatment with corticosteroids beneficial and safe for people with pneumonia?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We looked at the effects of treating people with pneumonia using corticosteroids (also called steroids or glucocorticoids) on numbers of deaths, response to treatment, treatment complications, and side effects. We compared treatment with corticosteroids in addition to antibiotics with placebo or no treatment."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute pneumonia is a lung infection treated with antibiotics that target the bacteria that caused the infection. Pneumonia is quite common, and despite adequate antibiotic treatment, complications and sometimes death can occur.\nCorticosteroids are hormones produced naturally in the adrenal gland. Corticosteroids have been found to be beneficial in the treatment of some infections. However, their beneficial effects are often offset by serious side effects, mainly when used at high doses and over the long term. This is an update of a review published in 2011."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 3 March 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 17 studies evaluating systemic corticosteroid therapy (given intravenously or by tablets) for people with pneumonia (2264 participants; 1954 adults and 310 children). We included 12 new studies in this update and excluded one previously included study. All included studies evaluated people who had acquired pneumonia in the community (community-acquired pneumonia (CAP)) being treated in the hospital; no studies assessed people who had developed pneumonia while in hospital or who were on breathing machines (mechanically ventilated)."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Eight trials did not report funding sources; seven were funded by academic sponsors; one was funded by a pharmaceutical company; and one reported receiving no funding."
+    },
+    {
+      "heading": "Key results",
+      "text": "Corticosteroids reduced deaths in adults with severe CAP, but not in people with non-severe CAP. Eighteen adults with severe CAP need to be treated with corticosteroids to prevent one death.\nPeople with CAP treated with corticosteroids had lower clinical failure rates (death, worsening of imaging studies, or no clinical improvement), shorter time to cure, a shorter hospital stay, and fewer complications. We found good-quality evidence that corticosteroids reduced clinical failure rates in children with pneumonia, but the data were based on a small number of children with different types of pneumonia.\nPeople treated with corticosteroids had higher blood glucose levels (hyperglycaemia) than those not treated with corticosteroids. Corticosteroid treatment was not associated with increased rates of other serious adverse events.\nCorticosteroids were beneficial for adults with severe CAP. People with non-severe CAP may also benefit from corticosteroid therapy, but with no survival advantage."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We downgraded the quality of the evidence due to issues with study design, unclear results, or results that were not similar across studies. For the outcomes of death and clinical failure in adults, we graded the quality of the evidence as moderate. For the outcomes of clinical failure in people with severe CAP, non-severe CAP, and in children, we graded the quality of the evidence as high."
+    }
+  ]
+}

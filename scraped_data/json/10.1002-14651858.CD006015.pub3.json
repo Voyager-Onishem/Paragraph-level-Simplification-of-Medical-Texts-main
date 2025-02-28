@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006015.pub3",
+  "name": "Finasteride for benign prostatic hyperplasia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Benign prostatic hyperplasia (BPH), a non-malignant enlargement of the prostate in aging men, can cause bothersome urinary symptoms (intermittency, weak stream, straining, urgency, frequency, incomplete emptying). Finasteride, a five-alpha reductase inhibitor (5ARI), blocks the conversion of testosterone to dihydrotestosterone, reduces prostate size, and is commonly used to treat symptoms associated with BPH."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the clinical effectiveness and harms of finasteride versus placebo and active controls in the treatment of lower urinary tract symptoms (LUTS)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched The Cochrane Library (which includes CDSR (Cochrane Database of Systematic Reviews), DARE (Database of Abstracts of Reviews of Effects), HTA (Heath Technology Assessments), and CENTRAL (Cochrane Central Register of Controlled Trials, and which includes EMBASE and MEDLINE), LILACS (Latin American and Caribbean Center on Health Sciences Information) and Google Scholar for randomized, controlled trials (RCTs). We also handsearched systematic reviews, references, and clinical-practice guidelines."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials in the English language with placebo and/or active arms with a duration of at least 6 months."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "JT extracted the data, which included patient characteristics, outcomes, and harms. Our primary outcome was change in a validated, urinary symptom-scale score, such as the AUA/IPSS. A clinically meaningful change was defined as 4 points. We also categorized outcomes by trial lengths of ≤ 1 year (short term) and > 1 year (long term)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Finasteride consistently improved urinary symptom scores more than placebo in trials of > 1 year duration, and significantly lowered the risk of BPH progression (acute urinary retention, risk of surgical intervention, ≥ 4 point increase in the AUASI/IPSS). In comparison to alpha-blocker monotherapy, finasteride was less effective than either doxazosin or terazosin, but equally effective compared to tamsulosin. Both doxazosin and terazosin were significantly more likely than finasteride to improve peak urine flow and nocturia, versus finasteride. Versus tamsulosin, peak urine flow and QoL improved equally well versus finasteride. However, finasteride was associated with a lower risk of surgical intervention compared to doxazosin, but not to terazosin, while finasteride and doxazosin were no different for risk of acute urinary retention. Two small trials reported no difference in urinary symptom scores between finasteride and tamsulosin. Finasteride + doxazosin and doxazosin monotherapy improved urinary symptoms equally well (≥ 4 point improvement).\nFor finasteride, there was an increased risk of ejaculation disorder, impotence, and lowered libido, versus placebo. Versus doxazosin, finasteride had a lower risk of asthenia, dizziness, and postural hypotension, and versus terazosin, finasteride had a significant, lower risk of asthenia, dizziness, and postural hypotension."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Finasteride improves long-term urinary symptoms versus placebo, but is less effective than doxazosin. Long-term combination therapy with alpha blockers (doxazosin, terazosin) improves symptoms significantly better than finasteride monotherapy. Finasteride + doxazosin improves symptoms equally - and clinically - to doxazosin alone. In comparison to doxazosin, finasteride + doxazosin appears to improve urinary symptoms only in men with medium (25 to < 40 mL) or large prostates (≥ 40 mL), but not in men with small prostates (25 mL).\nComparing short to long-term therapy, finasteride does not improve symptoms significantly better than placebo at the short term, but in the long term it does, although the magnitude of differences was very small (from < 1.0 point to 2.2 points). Doxazosin improves symptoms better than finasteride both short and long term, with the magnitude of differences ∼2.0 points and 1.0 point, respectively. Finasteride + doxazosin improves scores versus finasteride alone at both short and long term, with mean differences ∼2.0 points for both time points. Finasteride + doxazosin versus doxazosin improves scores equally for short and long term.\nDrug-related adverse effects for finasteride are rare; nevertheless, men taking finasteride are at increased risk for impotence, erectile dysfunction, decreased libido, and ejaculation disorder, versus placebo. Versus doxazosin, which has higher rates of dizziness, postural hypotension, and asthenia, men taking finasteride are at increased risk for impotence, erectile dysfunction, decreased libido, and ejaculation disorder. Finasteride significantly reduces asthenia, postural hypotension, and dizziness versus terazosin. Finasteride significantly lowers the risk of asthenia, dizziness, ejaculation disorder, and postural hypotension, versus finasteride + terazosin."
+    }
+  ],
+  "pls_title": "Finasteride provides relief of symptoms related to benign prostatic hyperplasia.",
+  "pls_type": "long",
+  "pls": "Finasteride, when compared to placebo and active comparators, improves long-term urinary tract symptoms associated with benign prostatic hyperplasia."
+}

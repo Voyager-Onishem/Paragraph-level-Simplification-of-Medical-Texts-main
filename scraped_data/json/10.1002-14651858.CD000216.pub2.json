@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000216.pub2",
+  "name": "Repeated lumbar or ventricular punctures in newborns with intraventricular haemorrhage",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Although in recent years the percentage of preterm infants who suffer intraventricular haemorrhage (IVH) has reduced, posthaemorrhagic hydrocephalus (PHH) remains a serious problem with a high rate of cerebral palsy and no evidence-based treatment. Survivors often have to undergo ventriculoperitoneal shunt (VPS) surgery, which makes the child permanently dependent on a valve and catheter system. This carries a significant risk of infection and the need for surgical revision of the shunt. Repeated removal of cerebrospinal fluid (CSF) by either lumbar puncture, ventricular puncture, or from a ventricular reservoir in preterm babies with IVH has been suggested as a treatment to reduce the risk of PHH development."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effect of repeated cerebrospinal fluid (CSF) removal (by lumbar/ventricular puncture or removal from a ventricular reservoir) compared to conservative management, where removal is limited to when there are signs of raised intracranial pressure (ICP), on reduction in the risk of permanent shunt dependence, neurodevelopmental disability, and death in neonates with or at risk of developing posthaemorrhagic hydrocephalus (PHH)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 3), MEDLINE via PubMed (1966 to 24 March 2016), Embase (1980 to 24 March 2016), and CINAHL (1982 to 24 March 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi-RCTs."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs and quasi-RCTs that compared serial removal of CSF (via lumbar puncture, ventricular puncture, or from a ventricular reservoir) with conservative management (removing CSF only when there were symptoms of raised ICP). Trials also had to report on at least one of the specified outcomes of death, disability, or shunt insertion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted details of the participant selection, participant allocation and the interventions. We assessed the following outcomes: VPS, death, death or shunt, disability, multiple disability, death or disability, and CSF infection. We assessed the quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four trials (five articles) met the inclusion criteria of this review; three were RCTs and one was a quasi-RCT; and included a total of 280 participants treated in neonatal intensive care units in the UK. The trials were published between 1980 and 1990. The studies were sufficiently similar regarding the research question they asked and the interventions that we could combine the trials to assess the effect of the intervention.\nMeta-analysis showed that the intervention produced no significant difference when compared to conservative management for the outcomes of: placement of hydrocephalus shunt (typical risk ratio (RR) 0.96, 95% confidence interval (CI) 0.73 to 1.26; 3 trials, 233 infants; I² statistic = 0%; moderate quality evidence), death (RR 0.88, 95% CI 0.53 to 1.44; 4 trials, 280 infants; I² statistic = 0%; low quality evidence), major disability in survivors (RR 0.98, 95% CI 0.81 to 1.18; 2 trials, 141 infants; I² statistic = 11%; high quality evidence), multiple disability in survivors (RR 0.9, 95% CI 0.66 to 1.24; 2 trials, 141 infants; I² statistic = 0%; high quality evidence), death or disability (RR 0.99, 95% CI 0.86 to 1.14; 2 trials, 180 infants; I² statistic = 0%; high quality evidence), death or shunt (RR 0.91, 95% CI 0.75 to 1.11; 3 trials, 233 infants; I² statistic = 0%; moderate quality evidence), and infection of CSF presurgery (RR 1.73, 95% CI 0.53 to 5.67; 2 trials, 195 infants; low quality evidence).\nWe assessed the quality of the evidence as high for the outcomes of major disability, multiple disability, and disability or death. We rated the evidence for the outcomes of shunt insertion, and death or shunt insertion as of moderate quality as one included trial used an alternation method of randomisation. For the outcomes of death and infection of CSF presurgery, the quality of the evidence was low as one trial used an alternation method, the number of participants was too low to assess the objectives with sufficient precision, and there was inconsistency regarding the findings in the included trials regarding the outcome of infection of CSF presurgery."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was no evidence that repeated removal of CSF via lumbar puncture, ventricular puncture or from a ventricular reservoir produces any benefit over conservative management in neonates with or at risk for developing PHH in terms of reduction of disability, death, or need for placement of a permanent shunt."
+    }
+  ],
+  "pls_title": "Repeated lumbar or ventricular taps in newborns with intraventricular haemorrhage",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Cochrane researchers reviewed the evidence about the effect of removal of cerebrospinal fluid (CSF) via lumbar or ventricular puncture and draining CSF via a needle inserted into the base of the spine or into a fluid-filled cavity in the brain on improving rates of disability, death, and the need for a permanent surgical procedure in preterm infants who have had bleeding inside the cavities of the brain (intraventricular haemorrhage (IVH))."
+    },
+    {
+      "heading": "Background",
+      "text": "Babies that are born preterm are at risk of developing IVH. IVH can cause an excess of CSF to build up on the brain. The risk of this happening might be reduced by the removal of blood in the CSF via lumbar or ventricular taps. This might reduce the need for a permanent surgical procedure called a ventriculoperitoneal shunt (VPS). VPS is problematic as it can easily become infected and often has to be replaced or repaired, which requires an operation."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for trials up to 24 March 2016 that compared removing CSF via lumbar or ventricular taps in all babies at risk of developing a build-up of fluid on the brain against a conservative approach where this was only done if there was evidence that the build-up of fluid was causing an excess of pressure in the brain. We included four trials that included a total of 280 preterm infants treated in neonatal intensive care units in the UK. The trials were published between 1980 and 1990."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found no evidence that removal of CSF by lumbar or ventricular taps reduces the need for a permanent shunt to be inserted. There was also no evidence that it reduced the risk of major disability, multiple disability, or death. There was insufficient evidence to determine if this approach can lead to an increased risk of developing an infection in the CSF."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We assessed the outcomes of major disability, multiple disability, and disability or death as high quality evidence.\nWe recorded the quality of the evidence for the outcomes of shunt insertion, and death or shunt insertion as low quality evidence, as there was an issue with the random allocation method in one included trial that reported on this outcome.\nFor the outcomes of death and infection of CSF presurgery, the quality of the evidence was moderate due to the previously mentioned problem with allocation. In addition these studies did not have enough patients to sufficiently answer the question. In the case of the outcome infection of CSF presurgery, the results were inconsistent between the included trials."
+    }
+  ]
+}

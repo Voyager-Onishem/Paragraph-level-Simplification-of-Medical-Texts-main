@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD015374",
+  "name": "Chemotherapy for second‐stage human African trypanosomiasis: drugs in use",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Human African trypanosomiasis, or sleeping sickness, is a severe disease affecting people in the poorest parts of Africa. It is usually fatal without treatment. Conventional treatments require days of intravenous infusion, but a recently developed drug, fexinidazole, can be given orally. Another oral drug candidate, acoziborole, is undergoing clinical development and will be considered in subsequent editions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of currently used drugs for treating second-stage Trypanosoma brucei gambiense trypanosomiasis (gambiense human African trypanosomiasis, g-HAT)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 14 May 2021, we searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE, Embase, Latin American and Caribbean Health Science Information database, BIOSIS, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform. We also searched reference lists of included studies, contacted researchers working in the field, and contacted relevant organizations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Eligible studies were randomized controlled trials that included adults and children with second-stage g-HAT, treated with anti-trypanosomal drugs currently in use."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data and assessed risk of bias; a third review author acted as an arbitrator if needed. The included trial only reported dichotomous outcomes, which we presented as risk ratio (RR) or risk difference (RD) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one trial comparing fexinidazole to nifurtimox combined with eflornithine (NECT). This trial was conducted between October 2012 and November 2016 in the Democratic Republic of the Congo and the Central African Republic, and included 394 participants. The study reported on efficacy and safety, with up to 24 months' follow-up.  We judged the study to be at low risk of bias in all domains except blinding;  as the route of administration and dosing regimens differed between treatment groups,  participants and personnel were not blinded, resulting in a high risk of performance bias.\nMortality with fexinidazole may be higher at 24 months compared to NECT. There were 9/264 deaths in the fexinidazole group and 2/130 deaths in the NECT group (RR 2.22, 95% CI 0.49 to 10.11; 394 participants; low-certainty evidence). None of the deaths were related to treatment.\nFexinidazole likely results in an increase in the number of people relapsing during follow-up, with 14 participants in the fexinidazole group (14/264) and none in the NECT group (0/130) relapsing at 24 months (RD 0.05, 95% CI 0.02 to 0.08; 394 participants; moderate-certainty evidence).\nWe are uncertain whether there is any difference between the drugs regarding the incidence of serious adverse events at 24 months. (31/264 with fexinidazole and 13/130 with NECT group at 24 months). Adverse events were common with both drugs (247/264 with fexinidazole versus 121/130 with NECT), with no difference between groups (RR 1.01, 95% CI 0.95 to 1.06; 394 participants; moderate-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Oral treatment with fexinidazole is much easier to administer than conventional treatment, but deaths and relapse appear to be more common. However, the advantages or an oral option are considerable, in terms of convenience, avoiding hospitalisation and multiple intravenous infusions, thus increasing adherence."
+    }
+  ],
+  "pls_title": "Medicines for second-stage human African trypanosomiasis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "Gambiense human African trypanosomiasis (g-HAT), or sleeping sickness, is a severe disease transmitted through the bite of infected tsetse flies found in rural parts of sub-Saharan Africa. Sleeping sickness has two clinical stages. This review only examines treating the second-stage, where people develop symptoms caused by invasion of the central nervous system (CNS), resulting in changes in the nervous system. Death is inevitable without treatment. Drugs for treatment are few, often require intravenous infusion every day over several weeks, and have serious side effects. In this review we aimed to compare the effects of current drugs for gambiense sleeping sickness and we examined nifurtimox-eflornithine combination (NECT) with a new drug, fexinidazole, that can be taken orally."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Whilst fexinidazole cures some people, deaths from any cause and treatment failure rates are higher than with conventional treatment. Adverse events were common in both groups. Fexinidazole is more practical to give, and means less time in hospital for intravenous treatment infusion."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "We looked at the evidence about the benefits and harms of current drugs used in people with second stage g-HAT. We searched for randomized trials, which provide robust evidence about the various treatments. We aimed to determine whether any drug provides a definite advantage over the other, measured in terms of clinical outcomes and in relation to the severity of adverse effects."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We only identified one suitable trial, which included 394 people and was conducted in the Democratic Republic of the Congo and the Central African Republic. The trial showed that deaths from any cause at 24 months may be higher with fexinidazole compared with NECT. Nine of the 264 people who took fexinidazole died, compared with two of the 130 people who took NECT. Fexinidazole probably increases the number of people who relapse during two years. Fourteen people in the fexinidazole group relapsed, and none in the NECT group. Adverse events were very common in both groups over the two years, and there is not likely to be much difference between the two drugs (247/264 in the fexinidazole group and 121/130 in the NECT group). We do not know about the effect of fexinidazole on serious adverse events, as the evidence is very uncertain. There were 31/264 serious adverse events in the fexinidazole group and 13/130 in the NECT group at 24 months."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence is current to 14 May 2021."
+    }
+  ]
+}

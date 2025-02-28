@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013339.pub2",
+  "name": "Algorithm‐based pain management for people with dementia in nursing homes",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with dementia in nursing homes often experience pain, but often do not receive adequate pain therapy. The experience of pain has a significant impact on quality of life in people with dementia, and is associated with negative health outcomes. Untreated pain is also considered to be one of the causes of challenging behaviour, such as agitation or aggression, in this population. One approach to reducing pain in people with dementia in nursing homes is an algorithm-based pain management strategy, i.e. the use of a structured protocol that involves pain assessment and a series of predefined treatment steps consisting of various non-pharmacological and pharmacological pain management interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of algorithm-based pain management interventions to reduce pain and challenging behaviour in people with dementia living in nursing homes.\nTo describe the components of the interventions and the content of the algorithms."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register, MEDLINE, Embase, PsycINFO, CINAHL (Cumulative Index to Nursing and Allied Health Literature), Web of Science Core Collection (ISI Web of Science), LILACS (Latin American and Caribbean Health Science Information database), ClinicalTrials.gov and the World Health Organization's meta-register the International Clinical Trials Registry Portal on 30 June 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials investigating the effects of algorithm-based pain management interventions for people with dementia living in nursing homes. All interventions had to include an initial pain assessment, a treatment algorithm (a treatment plan consisting of at least two different non-pharmacological or pharmacological treatment steps to reduce pain), and criteria to assess the success of each treatment step. The control groups could receive usual care or an active control intervention. Primary outcomes for this review were pain-related outcomes, e.g. the number of participants with pain (self- or proxy-rated), challenging behaviour (we used a broad definition that could also include agitation or behavioural and psychological symptoms assessed with any validated instrument), and serious adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected the articles for inclusion, extracted data and assessed the risk of bias of all included studies. We reported results narratively as there were too few studies for a meta-analysis. We used GRADE methods to rate the certainty of the results."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three cluster-randomised controlled trials with a total of 808 participants (mean age 82 to 89 years). In two studies, participants had severe cognitive impairment and in one study mild to moderate impairment. The algorithms used in the studies varied in the number of treatment steps. The comparator was pain education for nursing staff in two studies and usual care in one study.\nWe judged the risk of detection bias to be high in one study. The risk of selection bias and performance bias was unclear in all studies.\nSelf-rated pain (i.e. pain rated by participants themselves) was reported in two studies. In one study, all residents in the nursing homes were included, but fewer than half of the participants experienced pain at baseline, and the mean values of self-rated and proxy-rated pain at baseline and follow-up in both study groups were below the threshold of pain that may require treatment. We considered the evidence from this study to be very low-certainty and therefore are uncertain whether the algorithm-based pain management intervention had an effect on self-rated pain intensity compared with pain education (MD -0.27, 95% CI -0.49 to -0.05, 170 participants; Verbal Descriptor Scale, range 0 to 3). In the other study, all participants had mild to moderate pain at baseline. Here, we found low-certainty evidence that an algorithm-based pain management intervention may have little to no effect on self-rated pain intensity compared with pain education (MD 0.4, 95% CI -0.58 to 1.38, 246 participants; Iowa Pain Thermometer, range 0 to 12).\nPain was rated by proxy in all three studies. Again, we considered the evidence from the study in which mean pain scores indicated no pain, or almost no pain, at baseline to be very low-certainty and were uncertain whether the algorithm-based pain management intervention had an effect on proxy-rated pain intensity compared with pain education. For participants with mild to moderate pain at baseline, we found low-certainty evidence that an algorithm-based pain management intervention may reduce proxy-rated pain intensity in comparison with usual care (MD -1.49, 95% CI -2.11 to -0.87, 1 study, 128 participants; Pain Assessment in Advanced Dementia Scale-Chinese version, range 0 to 10), but may not be more effective than pain education (MD -0.2, 95% CI -0.79 to 0.39, 1 study, 383 participants; Iowa Pain Thermometer, range 0 to 12).\nFor challenging behaviour, we found very low-certainty evidence from one study in which mean pain scores indicated no pain, or almost no pain, at baseline. We were uncertain whether the algorithm-based pain management intervention had any more effect than education for nursing staff on challenging behaviour of participants (MD -0.21, 95% CI -1.88 to 1.46, 1 study, 170 participants; Cohen-Mansfield Agitation Inventory-Chinese version, range 7 to 203).\nNone of the studies systematically assessed adverse effects or serious adverse effects and no study reported information about the occurrence of any adverse effect. None of the studies assessed any of the other outcomes of this review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no clear evidence for a benefit of an algorithm-based pain management intervention in comparison with pain education for reducing pain intensity or challenging behaviour in people with dementia in nursing homes. We found that the intervention may reduce proxy-rated pain compared with usual care. However, the certainty of evidence is low because of the small number of studies, small sample sizes, methodological limitations, and the clinical heterogeneity of the study populations (e.g. pain level and cognitive status). The results should be interpreted with caution. Future studies should also focus on the implementation of algorithms and their impact in clinical practice."
+    }
+  ],
+  "pls_title": "Step-by-step (algorithm-based) pain management for people with dementia living in nursing homes",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "We were interested in how nurses can best manage pain in people with dementia living in nursing homes. Pain management involves measuring pain and providing pain treatment if necessary. We aimed to find out whether step-by-step guidance (an algorithm) for nurses on how to manage pain can reduce pain or behaviours that may indicate someone is in distress (such as hitting, shouting or wandering)."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "People with dementia in nursing homes often experience pain. However, they cannot always tell their caregivers if they are in pain, so it can be difficult to recognise, and we know that nursing home residents with dementia receive less pain medication than those without dementia. Untreated pain can have a negative impact on well-being and health, and can also be one reason for challenging behaviour, such as aggression. The use of detailed step-by-step guidance for nursing staff, in this review called an algorithm, is designed to improve pain management. Algorithms start with a structured pain assessment and then set out different treatment steps, which can be non-medication or medication treatments for reducing pain. If pain is detected, the treatment described in the first step is applied. If this treatment does not reduce pain, the treatment from the next step is applied, and so on."
+    },
+    {
+      "heading": "Studies included in the review",
+      "text": "In June 2021 we searched for trials that investigated pain management based on the use of an algorithm. We found three studies including 808 participants. Two of these studies compared algorithm-based pain management with education for the nursing staff on pain and dementia, and one study compared algorithm-based pain management with usual care.\nThe level of pain and the severity of the participants' dementia differed in the three studies. One study included all the residents in the nursing homes, most of whom had no pain, or almost no pain, at the start of the study (fewer than half of the included people experienced pain), and two studies included only people with mild to moderate pain. In one study the participants' dementia was of mild or moderate severity and in two studies the participants had severe dementia.\nIn two studies, those people with dementia who were able to do so reported on their own pain and the nursing staff also judged whether the participants showed signs of pain. In the third study, pain was rated by members of the research team, but not by the participants themselves. The nurses and the researchers used observations of things like facial expressions, gestures and breathing to judge whether someone was in pain."
+    },
+    {
+      "heading": "What are the key findings?",
+      "text": "When we looked at the study in which people started out on average with no pain, or almost no pain, we could not be certain whether algorithm-based pain management had an effect on the intensity of pain they experienced during the study. This was true whether the study participants reported on their own pain or whether nurses judged pain intensity. We also could not tell from this study whether algorithm-based pain management reduced challenging behaviour.\nFor people who started out with mild to moderate pain, we found that, compared to education for nursing staff, algorithm-based pain management may have little or no effect on pain intensity reported by the people themselves (based on the results from one study). When the pain was rated by somebody else (a 'proxy', who was a nurse or research assistant), we found that algorithm-based pain management may be better than usual care, although it may not be more effective than pain education. However, it is difficult to be sure about the accuracy of pain ratings made by other people.\nOur confidence in the results was limited because of the small number of included studies, the variation in the intensity of pain and in the severity of the participants' dementia at the start of the trials, and the quality of the studies.\nNo study looked for harmful effects, and no study described that any harmful effects occurred."
+    },
+    {
+      "heading": "What is the conclusion?",
+      "text": "We found no good evidence that introducing an algorithm to guide pain management for people with dementia in nursing homes is any better than education for nursing staff for reducing pain or challenging behaviours, but it may be better than usual care at reducing pain (rated by observers). The amount of evidence was small, and we could not be certain of the results. More research in this area would be valuable."
+    }
+  ]
+}

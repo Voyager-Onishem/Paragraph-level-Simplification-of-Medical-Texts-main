@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011943.pub2",
+  "name": "Mirtazapine adjunct for people with schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Many individuals who have a diagnosis of schizophrenia experience a range of distressing and debilitating symptoms. These can include positive symptoms (such as delusions, hallucinations, disorganised speech), cognitive symptoms (such as trouble focusing or paying attention or using information to make decisions), and negative symptoms (such as diminished emotional expression, avolition, alogia, and anhedonia). Antipsychotic drugs are often only partially effective, particularly in treating negative symptoms, indicating the need for additional treatment. Mirtazapine is an antidepressant drug that when taken in addition to an antipsychotic may offer some benefit for negative symptoms."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically assess the effects of mirtazapine as adjunct treatment for people with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched the Cochrane Schizophrenia Group’s Study-Based Register of Trials (including registries of clinical trials) up to May 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised-controlled trials (RCTs) with useable data focusing on mirtazapine adjunct for people with schizophrenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention-to-treat (ITT) basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a fixed-effect model for analyses. For included studies we assessed risk of bias and created 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine RCTs with a total of 310 participants. All studies compared mirtazapine adjunct with placebo adjunct and were of short-term duration. We considered five studies to have a high risk of bias for either incomplete outcome data, selective reporting, or other bias.\nOur main outcomes of interest were clinically important change in mental state (negative and positive symptoms), leaving the study early for any reason, clinically important change in global state, clinically important change in quality of life, number of days in hospital and incidence of serious adverse events.\nOne trial defined a reduction in the Scale for the Assessment of Negative Symptoms (SANS) overall score from baseline of at least 20% as no important response for negative symptoms. There was no evidence of a clear difference between the two treatments with similar numbers of participants from each group showing no important response to treatment (RR 0.81, 95% CI 0.57 to 1.14, 1 RCT, n = 20, very low-quality evidence).\nClinically important change in positive symptoms was not reported, however, clinically important change in overall mental state was reported by two trials and data for this outcome showed a favourable effect for mirtazapine (RR 0.69, 95% CI 0.51 to 0.92; I2 = 75%, 2 RCTs, n = 77, very low-quality evidence). There was no evidence of a clear difference for numbers of participants leaving the study early (RR 1.03, 95% CI 0.64 to 1.66, 9 RCTs, n = 310, moderate-quality evidence), and no evidence of a clear difference in global state Clinical Global Impressions Scale (CGI) severity scores (MD -0.10, 95% CI -0.68 to 0.48, 1 RCT, n = 39, very low-quality evidence). A favourable effect for mirtazapine adjunct was found for the outcome clinically important change in akathisia (RR 0.33, 95% CI 0.20 to 0.52, 2 RCTs, n = 86, low-quality evidence; I2 = 61%I). No data were reported for quality life or number of days in hospital.\nIn addition to the main outcomes of interest, there was evidence relating to adverse events that the mirtazapine adjunct groups were associated with an increased risk of weight gain (RR 3.19, 95% CI 1.17 to 8.65, 4 RCTs, n = 127) and sedation/drowsiness (RR 1.64, 95% CI 1.01 to 2.68, 7 RCTs, n = 223)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available evidence is primarily of very low quality and indicates that mirtazapine adjunct is not clearly associated with an effect for negative symptoms, but there is some indication of a positive effect on overall mental state and akathisia. No effect was found for global state or leaving the study early and data were not available for quality of life or service use. Due to limitations of the quality and applicability of the evidence it is not possible to make any firm conclusions, the role of mirtazapine adjunct in routine clinical practice remains unclear. This underscores the need for new high-quality evidence to further evaluate mirtazapine adjunct for schizophrenia."
+    }
+  ],
+  "pls_title": "Mirtazapine as an add-on treatment for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is adding mirtazapine, an antidepressant medication, to standard care an effective and safe treatment for people with schizophrenia?"
+    },
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is a severe mental illness. Those affected typically exhibit abnormal social behaviour and an inability to judge what is real. There are three main types of symptoms. Positive symptoms are where patients hear voices or see things that are not there and can also have fixed false beliefs (delusions). Examples of negative symptoms are lack of motivation and withdrawal from social activities. Cognitive symptoms include a reduced ability to concentrate or difficulty in using information to make decisions. Schizophrena can be extremely debilitating, greatly affecting a person's social functioning and their ability to live independently.\nAntipsychotic medications are the main treatment for schizophrenia and are effective in treating the positive symptoms of schizophrenia but often do not fully treat the negative symptoms. Additional treatments (adjuncts) are often used alongside antipsychotics to help treat the negative symptoms. Antidepressant medications, such as mirtazapine, can be used as adjunct treatment. Mirtazapine may have the potential to improve the negative symptoms of schizophrenia, but also has the potential to cause unpleasant side effects. Evidence summarising mirtazapine's benefits and harms for people with schizophrenia is needed."
+    },
+    {
+      "heading": "Searching",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched their specialised register for clinical trials that randomly allocated people with schizophrenia to receive either mirtazapine or another treatment in addition their standard care. The latest search was in May 2018 and we found a total of 35 references to potential trials. We carefully inspected the full-text articles of these references for inclusion or exclusion from this review."
+    },
+    {
+      "heading": "Results",
+      "text": "Nine randomised controlled trials met the review requirements and provided useable data. The participants in the studies received either mirtazapine plus their standard care or their standard care plus a placebo.\nResults showed adding mirtazapine to standard treatment may slightly improve overall mental state but does not appear to specifically have a clinically important effect on negative symptoms. Adding mirtazapine to standard care may slightly improve the symptoms akathisia, a side effect of antipsychotics where a person is very restless and unable to keep still. No effect was found for global state or leaving the study early and data were not available for quality of life or hospital admission. In addition, some results showed mirtazapine was associated with a higher risk of weight gain and sedation. However, these results are based on evidence that is mainly very -ow quality."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Mirtazapine may have some positive effects for people with schizophrenia. However, these results are mainly based on very low-quality evidence and we are uncertain about these effects. Firm conclusions regarding the effectiveness and safety of mirtazapine as an add on treatment for people with schizophrenia can not be made without more high-quality research."
+    }
+  ]
+}

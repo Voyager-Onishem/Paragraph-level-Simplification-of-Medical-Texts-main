@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003187.pub2",
+  "name": "Chemotherapy, radiotherapy and combined modality for Hodgkin's disease, with emphasis on second cancer risk ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Second malignancies (SM) are a major late effect of treatment for Hodgkin's disease (HD). Reliable comparisons of SM risk between alternative treatment strategies are lacking."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Radiotherapy (RT), chemotherapy (CT) and combined chemo-radiotherapy (CRT) for newly-diagnosed Hodgkin's disease are compared with respect to SM risk, overall (OS) and progression-free (PFS) survival. Further, involved-field (IF-)RT is compared to extended-field (EF-)RT."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Controlled Trials Register, PubMed, EMBASE, CancerLit, LILACS, relevant conference proceedings, trials lists and publications."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs accruing 30+ patients and completing accrual before/during 2000, comparing at least two treatment modalities for newly-diagnosed HD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Individual patient data were collected and assessed for data quality. Trialists submitted additional information concerning methods and data quality. Peto Odds Ratios (OR) with 95% confidence intervals (CI) were calculated for OS, PFS and SM-free survival. Secondary acute leukaemia (AL), non-Hodgkin's lymphoma (NHL) and solid tumours (ST) were also analysed separately."
+    },
+    {
+      "heading": "Main results",
+      "text": "37 trials (9312 patients) were analysed: 15 (3343) for RT vs. CRT, 16 (2861) for CT vs. CRT, 3 (415) for RT vs. CT and 10 (3221) for IF-RT vs. EF-RT. \nCRT was superior to RT in terms of OS (OR=0.76, 95% CI 0.66 to 0.89, P = 0.0004), PFS (OR=0.49, 95% CI 0.43 to 0.56, P < 0.0001) and SM (OR = 0.78, 95% CI 0.62 to 0.98, P = 0.03). The superiority of CRT also applied to early and advanced stages (mainly IIIA) separately. Excess SM with RT is due mainly to ST and is apparently caused by greater need for salvage therapy after RT. \nCRT was superior to CT in terms of PFS (OR = 77, 95 % CI 0.68 to 0.77, P < 0.0001). OS was better with CRT for early stages only (OR=0.62, 95% CI 0.44 to 0.88, P = 0.006). SM risk was higher with CRT (OR = 1.38, 95% CI 1.00 to 1.89, P = 0.05), although not significant for early stages alone. This effect, also seen in AL and ST separately, was due directly to first-line treatment. \nData were insufficient to compare RT to CT. \nEF-RT was superior to IF-RT (each additional to CT in most trials) in terms of PFS (OR=81, 95% CI 0.68 to 0.95, P = 0.009) but not OS. No significant difference in SM was observed."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "CRT seems to be optimal for most early stage (I-II) HD patients. For advanced stages (III to IV), CRT better prevents progression/relapse but CT alone seems to cause less SM. \nRT alone gives a higher overall SM risk than CRT due to increased need for salvage therapy. Reduced SM risk after IF-RT instead of EF-RT could not be demonstrated. Due to the large number of studies excluded because no IPD were received, to the inclusion of many outdated treatments and to the limited amount of long-term data, one must be cautious in applying these results to current therapies."
+    }
+  ],
+  "pls_title": "Second malignancy risk in Hodgkin's disease patients depends upon the choice of chemotherapy and/or radiotherapy as first-line treatment.",
+  "pls_type": "long",
+  "pls": "Hodgkin's disease (HD) patients are usually treated initially with radiotherapy alone (RT; early stages only), chemotherapy alone (CT) or combined chemo-radiotherapy (CRT). A meta-analysis of data from 37 randomised trials including over 9000 patients was conducted. For early-stage patients, CRT resulted in longer survival and longer HD-free survival than either RT or CT alone. Second malignancy (SM) risk was lower with CRT than with RT (no difference in between CRT and CT was demonstrated). For advanced stages, no difference in survival between CRT and CT was established. With CRT, HD-free survival was longer but SM risk was higher."
+}

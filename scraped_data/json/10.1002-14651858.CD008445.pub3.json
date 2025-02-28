@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008445.pub3",
+  "name": "Intraoperative mild hypothermia for postoperative neurological deficits in people with intracranial aneurysm ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Rupture of an intracranial aneurysm causes aneurysmal subarachnoid haemorrhage, which is one of the most devastating clinical conditions. It can be classified into five Grades using the Hunt-Hess or World Federation of Neurological Surgeons (WFNS) scale. Grades 4 and 5 predict poor prognosis and are known as 'poor grade', while grade 1, 2, and 3 are known as 'good grade'. Disturbances of intracranial homeostasis and brain metabolism are known to play certain roles in the sequelae. Hypothermia has a long history of being used to reduce metabolic rate, thereby protecting organs where metabolism is disturbed, and may potentially cause harm."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of intraoperative mild hypothermia on postoperative death and neurological deficits in people with ruptured or unruptured intracranial aneurysms."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated the search in the Cochrane Stroke Group Trials Register (August 2015), the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 8), WHO International Clinical Trials Registry Platform (ICTRP; December 2015), MEDLINE (1950 to September 2015), EMBASE (1980 to September 2015), Science Citation Index (1900 to September 2015), and 11 Chinese databases (September 2015). We also searched ongoing trials registers (September 2015) and scanned reference lists of retrieved records."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomised controlled trials that compared intraoperative mild hypothermia (32°C to 35°C) with control (no hypothermia) in people with ruptured or unruptured intracranial aneurysms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials and assessed the risk of bias for each included study. We presented data as risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three studies, enrolling 1158 participants. Each study reported an increased rate of recovery with intraoperative mild hypothermia, but the effect sizes were not sufficient for certainty. A total of 1086 of the 1158 participants (93.8%) had good grade aneurysmal subarachnoid haemorrhage. Seventy-six of 577 participants (13.1%) who received hypothermia and 93 of 581 participants (16.0%) who did not receive hypothermia were dead or dependent (RR 0.82; 95% CI 0.62 to 1.09; RD -0.03; 95% CI -0.07 to 0.01, moderate-quality evidence) after three months.\nReported unfavourable outcomes did not differ between participants with or without hypothermia. The quality of evidence for these outcomes remains unclear because the outcomes were reported in a variety of ways. No decompressive craniectomy or corticectomy was reported. Thirty-six of 577 (6.2%) participants with hypothermia and 40 of 581 (6.9%) participants without hypothermia had infarction. Thirty-four of 577 (6%) participants with hypothermia and 32 of the 581 (5.5%) participants without hypothermia had clinical vasospasm (temporary deficits).\nDuration of hospital stay was not reported. Only one study with 112 participants reported discharge destinations: 43 of 55 (78.2%) participants with hypothermia and 39 of 57 (68.4%) participants in the control group were discharged home. The remaining participants were discharged to other facilities.\nThirty-nine of 577 (6.8%) participants with hypothermia and 39 of 581 (6.7%) participants without hypothermia had infections. Six of 577 (1%) participants with hypothermia and 6 of 581 (1%) participants without hypothermia had cardiac arrhythmia."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "It remains possible that intraoperative mild hypothermia could prevent death or dependency in activities of daily living in people with good grade aneurysmal subarachnoid haemorrhage. However, the confidence intervals around this estimate include the possibility of both benefit and harm. There was insufficient information to draw any conclusions about the effects of intraoperative mild hypothermia in people with poor grade aneurysmal subarachnoid haemorrhage or without subarachnoid haemorrhage. We did not identify any reliable evidence to support the routine use of intraoperative mild hypothermia. A high-quality randomised clinical trial of intraoperative mild hypothermia for postoperative neurological deficits in people with poor grade aneurysmal subarachnoid haemorrhage might be feasible."
+    }
+  ],
+  "pls_title": "Cooling the brain during surgery to prevent death or severe disability in people with brain aneurysms",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the effect of cooling the brain during surgery for brain aneurysms. We found three studies of acceptable quality and analysed the results to see if cooling the brain during open-skull surgery for brain aneurysms prevents death or severe disability."
+    },
+    {
+      "heading": "Background",
+      "text": "Intracranial aneurysms are bulges on the cerebral arterial wall. Rupture of an intracranial aneurysm is often life-threatening. People with intracranial aneurysms are classified as good grade or poor grade, based on their clinical manifestations. Surgery is a common option to treat this problem, but it can cause further damage to the brain. Theoretically, cooling the brain reduces its metabolic activity, thus protecting it during an operation. Research on animals supports this theory in general."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The updated evidence is current to August 2015. We found only three appropriate studies with a total of 1158 participants to include. Data primarily came from one high-quality study with 1000 participants."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our analysis showed that in good grade patients, it remains possible that cooling the brain during surgery might prevent death or dependency in everyday activities. Very limited information was available for those without bleeding or those with poor grade bleeding. Unfavourable outcomes did not differ between participants with or without hypothermia. The quality of evidence for these outcomes remains unclear because they were reported in a variety of ways."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We do not have enough data to be certain about the effect of cooling on death or dependency. The evidence for other outcomes was more uncertain, since we could not combine the data due to variation in the definition and reporting of outcome data. Data in our analyses were primarily from one high quality trial on good grade participants."
+    }
+  ]
+}

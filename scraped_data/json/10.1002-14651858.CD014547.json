@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD014547",
+  "name": "Electrical conductance for the detection of dental caries",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Caries is one of the most prevalent, preventable conditions worldwide. A wide variety of management options are available at different thresholds of disease, ranging from non-operative preventive strategies such as improved oral hygiene, reduced sugar diet, and application of topical fluoride, to minimally invasive treatments for early lesions which are limited to enamel, through to selective removal and restoration for extensive lesions. The cornerstone of caries detection is a visual and tactile dental examination, however, an increasing array of methods of caries lesion detection have been proposed that could potentially support traditional methods of detection and diagnosis. Earlier identification of disease could afford patients the opportunity of less invasive treatment with less destruction of tooth tissue, reduce the need for treatment with aerosol-generating procedures, and potentially result in a reduced cost of care to the patient and to healthcare services."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Our primary objective was to determine the diagnostic accuracy of different electrical conductance devices for the detection and diagnosis of non-cavitated coronal dental caries in different populations (children, adolescents, and adults) and when tested against different reference standards."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health's Information Specialist undertook a search of the following databases: MEDLINE Ovid (1946 to 26 April 2019); Embase Ovid (1980 to 26 April 2019); US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov, to 26 April 2019); and the World Health Organization International Clinical Trials Registry Platform (to 26 April 2019). We studied reference lists as well as published systematic review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy studies that compared electrical conductance devices with a reference standard of histology or an enhanced visual examination. This included prospective studies that evaluated the diagnostic accuracy of single index tests and studies that directly compared two or more index tests. We included studies using previously extracted teeth or those that recruited participants with teeth believed to be sound or with early lesions limited to enamel.\nStudies that explicitly recruited participants with more advanced lesions that were obviously into dentine or frankly cavitated were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data independently using a piloted study data extraction form based on the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS-2). Sensitivity and specificity with 95% confidence intervals (CIs) were reported for each study. This information was displayed as coupled forest plots, and plotted as summary receiver operating characteristic (SROC) plots, displaying the sensitivity-specificity points for each study. Due to variability in thresholds we estimated diagnostic accuracy using hierarchical summary receiver operating characteristic (HSROC) methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven studies reporting a total of 719 tooth sites or surfaces, with an overall prevalence of the target condition of 73% (528 tooth sites or surfaces). The included studies evaluated two index tests: the electronic caries monitor (ECM) (four studies, 475 tooth surfaces) and CarieScan Pro (three studies, 244 tooth surfaces). Six studies used histology as the reference standard, one used an enhanced visual examination. No study was considered to be at low risk of bias across all four domains or low concern for applicability or both. All studies were at high (five studies) or unclear (two studies) risk of bias for the patient selection domain. We judged two studies to be at unclear risk of bias for the index test domain, and one study to be at high risk of bias for the reference standard and flow and timing domains. We judged three studies to be at low concern for applicability for patient selection, and all seven studies to be of low concern for reference standard and flow and timing domains.\nStudies were synthesised using a hierarchical method for meta-analysis. There was variability in the results of the individual studies, with sensitivities which ranged from 0.55 to 0.98 and specificities from 0 to 1.00. These extreme values of specificity may be explained by a low number of healthy tooth surfaces in the included samples. The diagnostic odds ratio (DOR) was 15.65 (95% CI 1.43 to 171.15), and indicative of the variability in the included studies. Through meta-regression we observed no meaningful difference in accuracy according to device type or dentition. Due to the small number of studies we were unable to formally investigate other potential sources of heterogeneity.\nWe judged the certainty of the evidence as very low, and downgraded for risk of bias due to limitations in the design and conduct of the included studies, imprecision arising from the relatively small number of surfaces studied, and inconsistency due to the variability of results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The design and conduct of studies to determine the diagnostic accuracy of methods to detect and diagnose caries in situ is particularly challenging. The evidence base to support the detection and diagnosis of caries with electrical conductance devices is sparse. Newer electrical conductance devices show promise and further research at the enamel caries threshold using a robust study design to minimise bias is warranted. In terms of applicability, any future studies should be carried out in a clinical setting to provide a realistic assessment within the oral cavity where plaque, staining, and restorations can be problematic."
+    }
+  ],
+  "pls_title": "Electrical conductance for the detection of early tooth decay",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is it important to improve dental caries (tooth decay) detection?",
+      "text": "Dentists often aim to identify tooth decay that has already advanced to a level which needs a filling. If dentists were able to find tooth decay when it has only affected the outer layer of the tooth (enamel) then it is possible to stop the decay from spreading any further and prevent the need for fillings. It is also important to avoid a false-positive result, when treatment may be provided when caries is absent."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out how accurate electrical conductance devices (non-invasive devices that send an electrical current to the surface of the tooth) are for detecting and diagnosing early tooth decay as part of the dental 'check-up' for children and adults who visit their general dentist. Researchers in Cochrane included seven studies published between 1997 and 2018 to answer this question."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "There are two electrical conductance devices that were included in this review: electronic caries monitor (ECM) (four studies) and CarieScan Pro (three studies). Both place a probe on the tooth which measures the electrical conductance of that point on the tooth. We studied decay on the occlusal surfaces (biting surfaces of the back teeth), the proximal surfaces (tooth surfaces that are next to each other), and the smooth surfaces next to the tongue, cheeks, and lips."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "Researchers in Cochrane included seven studies with a total of 719 tooth sites or surfaces to answer this question. Due to the small number of tooth sites or surfaces studies, the results are very imprecise. We did not find any meaningful difference in accuracy according to type of device or the teeth of children/adolescents and adults."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "We only included studies that assessed healthy teeth or those that were thought to have early tooth decay. This is because teeth with deep tooth decay would be easier to identify. However, there were some problems with how the studies were carried out. This may result in the electrical conductance devices appearing to be more accurate than they really are, increasing the number of correct test results from the electrical conductance devices. We judged the certainty of the evidence as very low due to how the studies selected their participants, the relatively small number of surfaces studied, and the variability of results."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "Studies included in the review were carried out in Brazil, UK, Denmark, and Turkey. Three studies performed the tests on extracted teeth and four studies were completed in a dental hospital."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "The lack of eligible studies and the variation in the results of the studies means that at present, we are very uncertain of how electrical conductance devices are in detecting and diagnosing early tooth decay."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for and used studies published up to 26 April 2019."
+    }
+  ]
+}

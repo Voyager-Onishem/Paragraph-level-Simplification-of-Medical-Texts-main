@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD011597.pub3",
+  "name": "Vitamin D as an adjunct to antibiotics for the treatment of acute childhood pneumonia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Children with acute pneumonia may be vitamin D deficient. Clinical trials have found that prophylactic vitamin D supplementation decreases children's risk of developing pneumonia. Data on the therapeutic effects of vitamin D in acute childhood pneumonia are limited. This is an update of a Cochrane Review first published in 2018."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the efficacy and safety of vitamin D supplementation as an adjunct to antibiotics for the treatment of acute childhood pneumonia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and two trial registries on 28 December 2021. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared vitamin D supplementation with placebo in children (aged one month to five years) hospitalised with acute community-acquired pneumonia, as defined by the World Health Organization (WHO) acute respiratory infection guidelines. For this update, we reappraised eligible trials according to research integrity criteria, excluding RCTs published from April 2018 that were not prospectively registered in a trials registry according to WHO or Clinical Trials Registry – India (CTRI) guidelines (it was not mandatory to register clinical trials in India before April 2018)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and extracted data. For dichotomous data, we extracted the number of participants experiencing the outcome and the total number of participants in each treatment group. For continuous data, we used the arithmetic mean and standard deviation (SD) for each treatment group together with number of participants in each group. We used standard methodological procedures expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "In this update, we included three new trials involving 468 children, bringing the total number of trials to seven, with 1601 children (631 with pneumonia and 970 with severe or very severe pneumonia). We categorised three previously included studies and three new studies as 'awaiting classification' based on the research integrity screen.\nFive trials used a single bolus dose of vitamin D (300,000 IU in one trial and 100,000 IU in four trials) at the onset of illness or within 24 hours of hospital admission; one used a daily dose of oral vitamin D (1000 IU for children aged up to one year and 2000 IU for children aged over one year) for five days; and one used variable doses (on day 1, 20,000 IU in children younger than six months, 50,000 IU in children aged six to 12 months, and 100,000 IU in children aged 13 to 59 months; followed by 10,000 IU/day for four days or until discharge). Three trials performed microbiological diagnosis of pneumonia, radiological diagnosis of pneumonia, or both.\nVitamin D probably has little or no effect on the time to resolution of acute illness (mean difference (MD) −1.28 hours, 95% confidence interval (CI) −5.47 to 2.91; 5 trials, 1188 children; moderate-certainty evidence). We do not know if vitamin D has an effect on the duration of hospitalisation (MD 4.96 hours, 95% CI −8.28 to 18.21; 5 trials, 1023 children; very low-certainty evidence). We do not know if vitamin D has an effect on mortality rate (risk ratio (RR) 0.69, 95% CI 0.44 to 1.07; 3 trials, 584 children; low-certainty evidence). The trials reported no major adverse events.\nAccording to GRADE criteria, the evidence was of very low-to-moderate certainty for all outcomes, owing to serious trial limitations, inconsistency, indirectness, and imprecision.\nThree trials received funding: one from the New Zealand Aid Corporation, one from an institutional grant, and one from multigovernment organisations (Bangladesh, Sweden, and UK). The remaining four trials were unfunded."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available evidence, we are uncertain whether vitamin D supplementation has important effects on outcomes of acute pneumonia when used as an adjunct to antibiotics. The trials reported no major adverse events. Uncertainty in the evidence is due to imprecision, risk of bias, inconsistency, and indirectness."
+    }
+  ],
+  "pls_title": "Is vitamin D an effective and safe addition to antibiotics for treating children with acute pneumonia?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is pneumonia, and how can it be treated?",
+      "text": "Pneumonia is inflammation (swelling) of the lungs caused by an infection. Treatment for pneumonia includes antibiotics, providing oxygen through a mask, and other supportive therapies. Vitamin D boosts immune defences and reduces excessive inflammation: these effects may help children recover from an episode of pneumonia."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if vitamin D, taken together with antibiotics, can help children to recover from an episode of pneumonia."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for trials that looked at vitamin D compared with placebo (dummy treatment) in children aged between one month and five years who had pneumonia. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included seven trials involving 1601 children from low- and middle-income countries. In five trials, children received a single large dose of vitamin D when they joined the trial or within 24 hours of admission to hospital. In two trials, children received vitamin D for five days. One trial excluded children with normal vitamin D levels. Two trials reported the cause of children's pneumonia."
+    },
+    {
+      "heading": "Key results",
+      "text": "Vitamin D probably has little or no effect on the time it takes children to get better from pneumonia. We do not know if vitamin D has an effect on the time children spend in hospital or the number of children who die. The studies reported no major harmful events."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We have only moderate confidence in the evidence on the time it took children to recover from pneumonia, because all children in this comparison were from low-income regions, so the results may not apply to higher-income populations. We have little confidence in the evidence on death rate, because of the same applicability problem outlined above, and because the result was compatible with both appreciable benefit and harm. We have very little confidence in the evidence on time spent in hospital, because of the same applicability problem outlined above, because the children and health providers in one study knew what the allocated treatment was, and because the results were very inconsistent across the studies included in the comparison."
+    },
+    {
+      "heading": "How up to date is the evidence?",
+      "text": "The evidence is current to 28 December 2021."
+    }
+  ]
+}

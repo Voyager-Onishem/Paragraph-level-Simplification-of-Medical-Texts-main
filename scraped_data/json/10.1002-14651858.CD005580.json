@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005580",
+  "name": "Antipsychotic medication for elderly people with schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A large and growing number of older people across the world suffer from schizophrenia. Recommendations for their treatment are largely based on data extrapolated from studies of the use of antipsychotic medications in younger populations. In addition most manufacturers of such medications recommend prescription of reduced doses to the elderly. The evidence base for these assumptions is unclear and raises obvious questions regarding the appropriateness of such prescribing practice."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To find and assimilate good evidence of the effects of antipsychotic medication for treatment of schizophrenia in people over 65 years of age."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Register (May 2003). We inspected references of all included studies for further trials and contacted relevant pharmaceutical companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All clinical randomised trials evaluating antipsychotic drugs for schizophrenia and schizophrenia-like psychoses in older people."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For homogenous dichotomous data, the random effects, relative risk (RR), and 95% confidence interval (CI) and, where appropriate, the numbers needed to treat (NNT) were calculated on an intention-to-treat basis. For continuous data, we calculated weighted mean differences (WMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Two hundred and fifty two elderly people with schizophrenia participated in three relevant randomised controlled studies. We were unable to extract usable data on quality of life, satisfaction, service use, or economic outcomes. One small study (n=18) compared thioridazine with remoxipride (RR leaving the study early 1.0 CI 0.07 to 13.6). A second study (n=175) compared risperidone with olanzapine. Global state 'not improved/worse' was not significantly different between treatments (n= 171, RR 1.26 CI 0.8 to 1.9); mental state PANSS total endpoint scores were also equivocal (n=171, RR 0.98 CI 0.76 to 1.26) as were all cognitive function tests. The third study (subset n=59) compared olanzapine with haloperidol and mental state change scores (BPRS WMD -3.60 CI -10.8 to 3.6; PANSS WMD -6.00 CI -18.3 to 6.3) were equivocal."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antipsychotics may be widely used in the treatment of elderly people with schizophrenia, however, based on this systematic review, there are little robust data available to guide the clinician with respect to the most appropriate drug to prescribe. Clearly reported large short, medium and long-term randomised controlled trials with participants, interventions and primary outcomes that are familiar to those wishing to help elderly people with schizophrenia are long overdue."
+    }
+  ],
+  "pls_title": "Antipsychotic medication for elderly people with schizophrenia",
+  "pls_type": "long",
+  "pls": "Since the early 1950's the mainstay of treatment for schizophrenia has been drugs such as haloperidol and chlorpromazine. Although effective in controlling voices and fixed, false beliefs, these drugs are reported as having potentially disabling adverse effects such as tremor, stiffness and slowing of movement. The newer generation of drugs are reputed to be freer from these problems. This is particularly important for older people, who are more likely to experience adverse effects. Most manufacturers recommend prescription of reduced doses in the elderly.\nThis review examines trials of these drugs for the treatment of elderly people with schizophrenia. We found three small, short trials. These did not have much information that was usable and we really could not draw any firm conclusions, except that such studies are possible and more are needed as a matter of urgency."
+}

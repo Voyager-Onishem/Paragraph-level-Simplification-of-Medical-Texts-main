@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015385.pub2",
+  "name": "Thermal stability and storage of human insulin",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Health authorities stress the temperature sensitivity of human insulin, advising protection from heat and freezing, with manufacturers suggesting low-temperature storage for intact vials, and once opened, storage at room temperature for four to six weeks, though usage time and maximum temperature recommendations vary. For human insulin, the recommendations of current shelf life in use may range from 10 to 45 days, and the maximum temperature in use varies between 25 °C and 37 °C. Optimal cold-chain management of human insulin from manufacturing until the point of delivery to people with diabetes should always be maintained, and people with diabetes and access to reliable refrigeration should follow manufacturers' recommendations. However, a growing segment of the diabetes-affected global population resides in challenging environments, confronting prolonged exposure to extreme heat due to the climate crisis, all while grappling with limited access to refrigeration."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To analyse the effects of storing human insulin above or below the manufacturers' recommended insulin temperature storage range or advised usage time, or both, after dispensing human insulin to people with diabetes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used standard, extensive Cochrane search methods. The latest search date was 12 July 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included clinical and laboratory studies investigating the storage of human insulin above or below manufacturers' recommended temperature storage range, advised usage time, or both."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. We used GRADE to assess the certainty of evidence for the clinical study. Most information emerged from in vitro studies, mainly from pharmaceutical companies. There is no validated risk of bias and certainty of evidence rating for in vitro studies. We thus presented a narrative summary of the results."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 17 eligible studies (22 articles) and additional information from pharmaceutical companies.\nPilot clinical study\nOne pilot clinical study investigated temperature conditions for insulin stored for six weeks in an unglazed clay pot with temperatures ranging between 25 °C and 27 °C. The mean fall in plasma glucose in eight healthy volunteers after clay pot-stored insulin injection was comparable to refrigerator-stored insulin injection (very low-certainty evidence).\nIn-vitro studies\nNine, three and four laboratory studies investigated storage conditions for insulin vials, insulin cartridges/pens and prefilled plastic syringes, respectively. The included studies reported numerous methods, laboratory measurements and storage conditions.\nThree studies on prefilled syringes investigating insulin potency at 4 °C up to 23 °C for up to 28 days showed no clinically relevant loss of insulin activity.\nNine studies examined unopened vials and cartridges. In studies with no clinically relevant loss of insulin activity for human short-acting insulin (SAI), intermediate-acting insulin (IAI) and mixed insulin (MI) temperatures ranged between 28.9 °C and 37 °C for up to four months. Two studies reported up to 18% loss of insulin activity after one week to 28 days at 37 °C. Four studies examined opened vials and cartridges at up to 37 °C for up to 12 weeks, indicating no clinically relevant reduction in insulin activity. Two studies analysed storage conditions for oscillating temperatures ranging between 25 °C and 37 °C for up to 12 weeks and observed no loss of insulin activity for SAI, IAI and MI. Four studies, two on vials (including one on opened vials), and two on prefilled syringes, investigated sterility and reported no microbial contamination.\nData from pharmaceutical companies\nFour manufacturers (BIOTON, Eli Lilly and Company, Novo Nordisk and Sanofi) provided previously unreleased human insulin thermostability data mostly referring to unopened containers (vials, cartridges). We could not include the data from Sanofi because the company announced the permanent discontinuation of the production of human insulins Insuman Rapid, Basal and Comb 25.\nBIOTON provided data on SAI after one, three and six months at 25 °C: all investigated parameters were within reference values, and, compared to baseline, loss of insulin activity was 1.1%, 1.0% and 1.7%, respectively.\nEli Lilly and Company provided summary data: at below 25 °C or 30 °C SAI/IAI/MI could be stored for up to 25 days or 12 days, respectively. Thereafter, patient in-use was possible for up to 28 days.\nNovo Nordisk provided extensive data: compared to baseline, after three and six months at 25 °C, loss of SAI activity was 1.8% and 3.2% to 3.5%, respectively. Loss of IAI activity was 1.2% to 1.9% after three months and 2.0% to 2.3% after six months. Compared to baseline, after one, two and three months at 37 °C, loss of SAI activity was 2.2% to 2.8%, 5.7% and 8.3% to 8.6%, respectively. Loss IAI activity was 1.4% to 1.8%, 3.0% to 3.8% and 4.7% to 5.3%, respectively. There was no relevant increase in insulin degradation products observed. Up to six months at 25 °C and up to two months at 37 °C high molecular weight proteins were within specifications. Appearance, visible particles or macroscopy, particulate matter, zinc, pH, metacresol and phenol complied with specifications.\nThere were no data for cold environmental conditions and insulin pumps."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Under difficult living conditions, pharmaceutical companies' data indicate that it is possible to store unopened SAI and IAI vials and cartridges at up to 25 °C for a maximum of six months and at up to 37 °C for a maximum of two months without a clinically relevant loss of insulin potency. Also, oscillating temperatures between 25 °C and 37 °C for up to three months result in no loss of insulin activity for SAI, IAI and MI. In addition, ambient temperature can be lowered by use of simple cooling devices such as clay pots for insulin storage. Clinical studies on opened and unopened insulin containers should be performed to measure insulin potency and stability after varying storage conditions. Furthermore, more data are needed on MI, insulin pumps, sterility and cold climate conditions."
+    }
+  ],
+  "pls_title": "Temperature and storage conditions for human insulin",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is insulin?",
+      "text": "Insulin is a hormone made by the pancreas that helps your body turn food into energy and controls your blood sugar levels. People with diabetes cannot make enough insulin or use it effectively, so some have to inject it themselves."
+    },
+    {
+      "heading": "How should insulin be stored?",
+      "text": "Health authorities and pharmaceutical manufacturers recommend keeping insulin away from sunlight, not freezing it and storing it in a refrigerator. Unopened human insulin vials or flasks and cartridges for insulin pens should be stored at temperatures between 2 °C and 8 °C, which requires reliable refrigeration. Once opened, vials or cartridges can be stored at 'room temperature' and used for approximately four to six weeks. However, recommendations differ regarding usage time and maximum temperature once open (in-use insulin). Also, advice varies for the type of insulin, brand, insulin concentrations and container (vial, cartridge/pen, insulin pump). Regulatory bodies guide how to handle insulin transport and storage temperature ('cold chain') from manufacturer to delivery to people with diabetes. If reliable refrigeration is available, people with diabetes should store insulin according to official recommendations. However, there is no clear consensus on how human insulin should be stored at home if reliable refrigeration cannot be guaranteed."
+    },
+    {
+      "heading": "What are the problems with insulin storage?",
+      "text": "Many people with diabetes live in settings with little access to healthcare facilities and refrigeration. Challenging locations affected by natural disasters, periods of extreme heat due to the climate crisis or war-like conditions additionally complicate appropriate insulin storage."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to analyse the effects of storing human insulin above or below the manufacturers' recommended insulin temperature or advised usage time, or both."
+    },
+    {
+      "heading": "What did we look for?",
+      "text": "We searched medical databases and contacted study authors and pharmaceutical manufacturers about studies on people with diabetes. We also looked for laboratory studies investigating the effects of storing human insulin above or below the manufacturers' recommended insulin temperature storage range or advised usage time, or both."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found one clinical study. Nine, three and four laboratory studies investigated storage conditions for insulin vials, insulin cartridges and prefilled plastic insulin syringes, respectively."
+    },
+    {
+      "heading": "Key results",
+      "text": "In the clinical study, authors investigated insulin stored for six weeks in an unglazed clay pot or in a refrigerator. Outside temperatures were between 34 °C and 43 °C, and clay pot temperatures were between 25 °C and 27 °C. The study authors only reported on the glucose level in the blood of eight healthy volunteers after injecting clay-pot-stored insulin or refrigerator-stored insulin. Insulin in the clay pot had similar glucose-lowering activity to insulin in a refrigerator.\nLaboratory studies on prefilled syringes stored at 4 °C to 23 °C for up to 28 days showed no clinically relevant loss of insulin activity.\nNine laboratory studies examined unopened vials and cartridges. In studies with no clinically relevant loss of insulin activity, temperatures ranged between 28.9 °C and 37 °C for up to four months. Two studies reported a more pronounced loss of insulin activity after one week to 28 days at 37 °C. Four studies examined opened vials and cartridges at up to 37 °C for up to 12 weeks, and showed no clinically relevant reduction in insulin activity.\nTwo laboratory studies analysed storage conditions for shifting temperatures between 25 °C and 37 °C up to 12 weeks, resembling daytime and night-time fluctuations in tropical countries. There was no loss of insulin activity for short-acting, intermediate-acting and mixed insulin (a combination of short-acting and intermediate-acting human insulin).\nFour laboratory studies, two on vials, one of them on opened vials, and two on prefilled syringes, investigated sterility and reported no bacterial contamination.\nFour manufacturers provided previously unpublished temperature and storage conditions data. If unopened human insulin vials or cartridges were stored at up to 25 °C for a maximum of six months or at up to 37 °C for a maximum of two months, only small amounts of insulin activity were lost. We could not include the provided data from the manufacturer Sanofi because the company announced the permanent discontinuation of the production of human insulins called Insuman Rapid, Basal and Comb 25.\nIf no reliable refrigeration is possible, room temperature can be lowered using simple cooling devices such as clay pots for insulin storage.\nThere were no data for cold environmental conditions or insulin pumps."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Data on the quality of human insulin in unopened vials and cartridges appeared reliable. However, most data came from laboratory studies, and we were unable to assess the certainty of evidence because there are currently no validated methods for doing so. More studies should investigate the possible bacterial contamination risk of in-use insulin vials and cartridges. Also, clinical studies in particular are needed to inform on temperature and storing conditions for insulin outside the official recommendations."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "This evidence is up to date as of 12 July 2023."
+    }
+  ]
+}

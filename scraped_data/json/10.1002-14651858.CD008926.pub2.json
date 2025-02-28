@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008926.pub2",
+  "name": "Toremifene versus tamoxifen for advanced breast cancer",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Toremifene (TOR) and tamoxifen (TAM) can both be used as treatments for advanced breast cancer."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy and safety of TOR with TAM in patients with advanced breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Breast Cancer Group's Specialised Register was searched (1 July 2011) using the codes for \"toremifene\", \"fareston\", \"tamoxifen, \"nolvadex, and \"breast cancer\". We also searched MEDLINE (via PubMed) (from inception to 1 July 2011), EMBASE (via Ovid) (from inception to 1 July 2011), The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 7, 2011), and the WHO International Clinical Trials Registry Platform search portal (1 July 2011). In addition, we screened the reference lists of relevant trials or reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) that compared the efficacy and safety, or both of TOR with TAM in women with advanced breast cancer. Trials that provided sufficient data on one of the following items: objective response rate (ORR), time to progression (TTP), overall survival (OS), and adverse events, were considered eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Studies were assessed for eligibility and quality. Two review authors independently extracted the following details: first author, publication year, country, years of follow-up, treatment arms, intention-to-treat (ITT) population size, menopausal status of patients, hormone receptor status, response criteria, efficacy and safety outcomes of TOR and TAM arms. Hazard ratios (HR) were derived for time-to-event outcomes, where possible, and response and adverse events were analysed as dichotomous variables. We used a fixed-effect model for meta-analysis unless there was significant between-study heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 2061 patients from seven RCTs were included for final analysis, with 1226 patients in the TOR group and 835 patients in the TAM group. The ORR for the TOR group was 25.8% (316/1226) whereas, the ORR for the TAM group was 26.9% (225/835). The pooled risk ratio (RR) suggested that the ORRs were not statistically different between the two groups (RR 1.02, 95% confidence interval (CI) 0.88 to 1.18, P = 0.83). The median TTP was 6.1 months for the TOR group and 5.8 months for the TAM group. The median OS was 27.8 months for the TOR group and 27.6 months for the TAM group. There were no significant differences in TTP and OS between the two therapeutic groups (for TTP: HR 1.08, 95% CI 0.94 to 1.24; for OS: HR 1.02, 95% CI 0.86 to 1.20). The frequencies of most adverse events were also similar in the two groups, while headache seemed to occur less in the TOR group than in the TAM group (RR 0.14, 95% CI 0.03 to 0.74, P = 0.02). There was no significant heterogeneity between studies in most of the above meta-analyses. Sensitivity analysis did not alter the results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "TOR and TAM are equally effective and the safety profile of the former is at least not worse than the latter in the first-line treatment of patients with advanced breast cancer. Thus, TOR may serve as a reasonable alternative to TAM when anti-oestrogens are applicable but TAM is not the preferred choice for some reason."
+    }
+  ],
+  "pls_title": "Toremifene versus tamoxifen for advanced breast cancer",
+  "pls_type": "long",
+  "pls": "Breast cancer is the most common cancer in women. When it has spread beyond the breast, it is called advanced breast cancer. Treatments for advanced breast cancer include chemotherapy, endocrine therapy and possibly surgery and radiation therapy. Of endocrine therapy, tamoxifen (TAM) is the oldest and most-prescribed selective oestrogen-receptor modulator. However, several significant adverse effects have been described after long-term TAM treatment. Toremifene (TOR), which can also be used to treat advanced breast cancer, has a mechanism similar to that of TAM. The objective of this review was to compare TOR with TAM in terms of overall survival, response to treatment, time to progression, and adverse effects.\nSeven eligible studies were identified, all of which provided information on response to treatment (in 2061 patients), five on progression-free survival (in 1436 patients) and four on overall survival (in 1374 patients). The trials were generally old (conducted between late 1980s and early 1990s) and were of modest quality.\nBased on the data from these trials, 25.8% of the patients in the TOR group responded to the treatment, compared with 26.9% in the TAM group. The cancers of 50% of the patients in the TOR group had progressed after 6.1 months, compared with 5.8 months in the TAM group. Half of the patients in the TOR group survived longer than 27.8 months, compared with 27.6 months in the TAM group. The risk for progression and death in the TOR group was not significantly different from that in the TAM group. The frequencies of most adverse events were also similar in the two groups, except that the number of headaches occurring in the TOR group was only about one-seventh of that in the TAM group. However, considering the results of other large trials, we cannot exclude the possibility that this is purely a play of chance. Due to the lack of data, no conclusions can be made as to the long-term adverse effects achieved with either treatment.\nThe evidence from this review suggests that TOR and TAM are equally effective and the safety profile of the former is at least not worse than the latter in the first-line treatment of patients with advanced breast cancer. Thus, TOR may serve as a reasonable alternative to TAM when anti-oestrogens are applicable but TAM is not the preferred choice for some reason."
+}

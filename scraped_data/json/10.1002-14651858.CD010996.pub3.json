@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD010996.pub3",
+  "name": "Normal saline (0.9% sodium chloride) versus heparin intermittent flushing for the prevention of occlusion in long‐term central venous catheters in infants and children ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Guidelines and clinical practice for the prevention of complications associated with central venous catheters (CVC) around the world vary greatly. Most institutions recommend the use of heparin to prevent occlusion; there is debate, however, regarding the need for heparin and evidence to suggest normal saline (0.9% sodium chloride) may be as effective. The use of heparin is not without risk, may be unnecessary and is also associated with increased cost. This is an update of the review published in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effects (benefits and harms) of intermittent flushing of normal saline versus heparin to prevent occlusion in long-term central venous catheters in infants and children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases; World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials register to 9 April 2019. We also undertook reference checking, citation searching and contact with study authors to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared the efficacy of intermittent flushing with normal saline versus heparin to prevent occlusion of long-term CVCs in infants and children aged up to 18 years of age. We excluded temporary CVCs and peripherally inserted central catheters (PICC)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial inclusion criteria, trial quality and extracted data. We assessed study quality with the Cochrane 'Risk of bias' tool. For dichotomous outcomes, we calculated the rate ratio (RR) and corresponding 95% confidence interval (CI). We pooled data using a random-effects model; and we used GRADE to assess the overall certainty of the evidence supporting the outcomes assessed in this review."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified one new study for this update, bringing the total number of included studies to four (255 participants). The four trials directly compared the use of normal saline and heparin; the studies all used different protocols for the intervention and control arms, however, and all used different concentrations of heparin. Different frequencies of flushes were also reported between studies. In addition, not all studies reported on all outcomes. The certainty of the evidence ranged from moderate to very low because there was no blinding; heterogeneity and inconsistency between studies was high; and the CIs were wide. CVC occlusion was assessed in all four trials. We were able to pool the results of two trials for the outcomes of CVC occlusion and CVC-associated blood stream infection. The estimated RR for CVC occlusion per 1000 catheter days between the normal saline and heparin groups was 0.75 (95% CI 0.10 to 5.51; 2 studies, 229 participants; very low certainty evidence). The estimated RR for CVC-associated blood stream infection was 1.48 (95% CI 0.24 to 9.37; 2 studies, 231 participants; low-certainty evidence). The duration of catheter placement was reported to be similar for the two study arms in one study (203 participants; moderate-certainty evidence), and not reported in the remaining studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The review found that there was not enough evidence to determine the effects of intermittent flushing with normal saline versus heparin to prevent occlusion in long-term central venous catheters in infants and children. It remains unclear whether heparin is necessary to prevent occlusion, CVC-associated blood stream infection or effects duration of catheter placement. Lack of agreement between institutions around the world regarding the appropriate care and maintenance of these devices remains."
+    }
+  ],
+  "pls_title": "Replacing heparin flushing with saline flushing to prevent complications in long-term central venous catheters in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "A central venous catheter (CVC) is a long, thin, flexible tube which is inserted into a large central vein. This enables access to the blood stream for people with serious medical conditions to receive medications and fluids, as well as the collection of blood specimens. Long-term CVCs are used to access the blood system in children with complex medical conditions like cancer. To stop the catheter from becoming blocked it is usual to use heparin, a drug that prevents clots forming, to flush the catheter. However, some studies have shown that heparin is not necessary, and that normal saline (a sterile salt water solution) can be safely used instead. Heparin may be associated with complications, such as bleeding and infection, along with higher costs for healthcare providers. While the complications such as infections and occlusions are uncommon, practices vary around the world and there are many inconsistencies regarding the best flush solution to use to prevent complications in long-term catheters."
+    },
+    {
+      "heading": "Study characteristics and key results",
+      "text": "This review included randomised controlled trials (clinical studies where people were randomly assigned into one of two or more treatment groups) that compared the use of saline and heparin to prevent blockage, and other complications related to long-term catheters. The evidence is current to 9 April 2019. Two review authors independently reviewed the studies. We included four studies with a total of 255 participants in the review. The four trials were all undertaken in large teaching (tertiary) hospitals, and directly compared the use of saline and heparin. The studies were, however, very different in the way they compared saline and heparin, with different concentrations of heparin and different frequencies of flushes reported. We were able to combine the results of two studies: the analysis showed imprecise results for the blocking of catheters and blood stream infections for normal saline versus heparin. One study reported the duration of catheter placement to be similar between the two study arms."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The overall certainty of the evidence ranged from moderate to very low. There was high risk of bias for blinding, there were differences between the studies methods and interventions, inconsistent results between the studies, and not all studies reported all outcomes of interest. We found there was not enough evidence to determine which solution, saline or heparin, is more effective for reducing complications. Further research is required and is likely to have an important impact in this area. This review is an update of a review first published in 2015."
+    }
+  ]
+}

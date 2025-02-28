@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012462.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Surgical site infection rates in the month following surgery vary from 1% to 5%. Due to the large number of surgical procedures conducted annually, the costs of these surgical site infections (SSIs) can be considerable in financial and social terms. Nasal decontamination using antibiotics or antiseptics is performed to reduce the risk of SSIs by preventing organisms from the nasal cavity being transferred to the skin where a surgical incision will be made. Staphylococcus aureus (S aureus) colonises the nasal cavity and skin of carriers and can cause infection in open or unhealed surgical wounds. S aureus is the leading nosocomial (hospital-acquired) pathogen in hospitals worldwide. The potential effectiveness of nasal decontamination of S aureus is thought to be dependent on both the antibiotic/antiseptic used and the dose of application; however, it is unclear whether nasal decontamination actually reduces postoperative wound infection in S aureus carriers."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of nasal decontamination on preventing surgical site infections (SSIs) in people who are S aureus carriers undergoing surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In September 2016 we searched the Cochrane Wounds Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library), Ovid MEDLINE, Ovid MEDLINE (In-Process & Other Non-Indexed Citations), Ovid Embase, and EBSCO CINAHL Plus. We also searched three clinical trial registries and the references of included studies and relevant systematic reviews. There were no restrictions based on language, date of publication or study setting."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) which enrolled S aureus carriers with any type of surgery and assessed the use of nasal decontamination with antiseptic/antibiotic properties were included in the review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently performed study selection, data extraction, risk of bias assessment and GRADE assessment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We located two studies (291 participants) for inclusion in this review. The trials were clinically heterogeneous with differences in duration of follow-up, and nasal decontamination regimens. One study compared mupirocin (2% contained in a base of polyethylene glycol 400 and polyethylene glycol 3350) with a placebo in elective cardiac surgery patients; and one study compared Anerdian (iodine 0.45% to 0.57% (W/V), chlorhexidine acetate 0.09% to 0.11% (W/V)) with no treatment also in cardiac surgery patients. The trials reported limited outcome data on SSI, adverse events and secondary outcomes (e.g. S aureus SSI, mortality).\nMupirocin compared with placebo\nThis study found no clear difference in SSI risk following use of mupirocin compared with placebo (1 trial, 257 participants); risk ratio (RR) 1.60, 95% confidence interval (CI) 0.79 to 3.25 based on 18/130 events in the mupirocin group and 11/127 in the control group; low-certainty evidence (downgraded twice due to imprecision).\nAnerdian compared with no treatment\nIt is uncertain whether there is a difference in SSI risk following treatment with Anerdian compared with no treatment (1 trial, 34 participants); RR 0.89, 95% CI 0.06 to 13.08 based on 1/18 events in the Anerdian group and 1/16 in the control group; very low certainty evidence (downgraded twice due to imprecision and once due to risk of bias)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is currently limited rigorous RCT evidence available regarding the clinical effectiveness of nasal decontamination in the prevention of SSI. This limitation is specific to the focused question our review addresses, looking at nasal decontamination as a single intervention in participants undergoing surgery who are known S aureus carriers. We were only able to identify two studies that met the inclusion criteria for this review and one of these was very small and poorly reported. The potential benefits and harms of using decontamination for the prevention of SSI in this group of people remain uncertain."
+    }
+  ],
+  "pls_title": "Nasal decontamination (cleaning the nose with anti-bacterial products) for the prevention of surgical site infection in people carrying S aureus",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about whether nasal decontamination (cleaning the nose with anti-bacterial products) is effective and safe for preventing surgical site infection (SSI) in people carrying Staphylococcus aureus (S aureus) bacteria."
+    },
+    {
+      "heading": "Background",
+      "text": "If bacteria get into a wound site during surgery, this can result in a wound infection commonly called an SSI. SSIs are one of the most common forms of healthcare-associated infections, with around 1 in 20 surgical patients developing an SSI in hospital. This proportion rises when people go home. SSIs can result in delayed wound healing, increased hospital stays, increased use of antibiotics, unnecessary pain and, in extreme cases, death, so their prevention is a key aim for health services. People who are carrying bacteria such as S aureus are especially vulnerable to wound infections. These bacteria can be carried in the nose, and then transferred to a surgical wound. People who are having surgery can have a nasal swab to test for bacteria, and their noses can be cleaned with anti-bacterial products (antibiotics and antiseptics) before the operation. This can help reduce the growth of bacteria. We wanted to find out if this nasal decontamination is effective in reducing SSIs, and whether people had any adverse reactions to this treatment, such as skin irritation."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In September 2016 we searched for randomised controlled trials (RCTs) involving nasal decontamination for preventing SSI. We included two studies with 291 participants, all adults undergoing cardiac surgery. The anti-bacterial products used for cleaning the nose were mupirocin (antibiotic cream) and Anerdian (disinfectant solution)."
+    },
+    {
+      "heading": "Key results",
+      "text": "It is unclear whether nasal decontamination makes a difference to the rate of SSI in people carrying S aureus bacteria. S aureus SSI was reported in only one trial and the results do not allow us to be certain about differences in infection rates. Some participants in the Anerdian study reported side effects such as itching around the nose, but these were not serious. Mortality was low where reported (one death was directly related to S aureus infection)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The two studies we found did not have many participants and the results were inconclusive. The Anerdian study report did not provide information about how the trial was conducted and this makes it difficult to be sure if it was at risk of bias. The mupirocin study was of better quality and at low risk of bias; but the small number of participants and limited effects affect the quality of the results. Evidence of the potential benefits and harms of using nasal decontamination for the prevention of SSI is currently of low to very low certainty. Larger, better-reported RCTs are needed to assess the clinical effectiveness of this treatment.\nThis plain language summary is up to date as of September 2016."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD010642.pub2",
+  "name": "Endoscopic scoring indices for evaluation of disease activity in Crohn’s disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Endoscopic assessment of mucosal disease activity is widely used to determine eligibility and response to therapy in clinical trials of treatment for Crohn’s disease. However, the operating properties of the currently available endoscopic indices remain unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "A systematic review was undertaken to evaluate the development and operating characteristics of the Crohn’s Disease Endoscopic Index of Severity (CDEIS) and Simple Endoscopic Scale for Crohn’s Disease (SES-CD)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Electronic searches of the MEDLINE (1966 to December 2015), EMBASE (1980 to December 2015), and Cochrane CENTRAL Register of Controlled Trials (Issue 12, 2015) databases were supplemented by manual reviews of reference listings and conference proceedings (Digestive Disease Week, United European Gastroenterology Week, European Crohn’s and Colitis Organization)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Any study design (e.g. randomized controlled trials, cohort studies, case series) that evaluated either or both the CDEIS or SES-CD in patients with Crohn’s disease was considered for inclusion. Eligible participants were adult patients (> 16 years), diagnosed with Crohn’s disease using conventional clinical, radiographic, and endoscopic criteria."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors (RK, JKM) independently reviewed the titles and abstracts of the studies identified from the literature search. The full texts of potentially relevant citations were reviewed for inclusion and the study investigators were contacted to clarify any unclear data. Any disagreements were resolved by discussion and consensus with a third author. A standardized form was used to assess eligibility of trials for inclusion in the study and for data extraction.\nTwo authors independently extracted and recorded data (RK, SAN). The number of patients enrolled; number of patients per treatment arm; patient characteristics including age and gender distribution; endoscopic index; and outcomes such as intra-rater reliability, inter-rater reliability responsiveness, validity, feasibility, construct validity, and criterion validity were recorded for each trial."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-three reports of 30 studies fulfilled the inclusion criteria.\nFor the SES-CD, inter-rater reliability was assessed in four studies. In the development study for the SES-CD (Daperno 2004), the overall ICC (0.9815, 95% CI 0.9705 to 0.9884) and the kappa for the regions is high; however the paired raters were in the same room which introduces the potential for bias.\nFor the CDEIS, inter-rater reliability was assessed in six studies. Daperno 2014 reported that the ICC for the CDEIS was 0.985 (95% CI 0.939-1.000) for average measures of video score and was 0.835 (95% CI 0.540-0.995) for single measures of video score.\nWith respect to validity, correlation between the CDEIS and clinical measures, including C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), was also reported. The estimates of correlation with CRP were r = 0.521 (Sipponen 2010b), r = 0.553 (Sipponen 2008a) and r = 0.608 (Sipponen 2008c). For the SES-CD, the corresponding values for correlation with CRP ranged from r = 0.46 (Jones 2008) to r = 0.68 (Green 2011).\nResponsiveness data for the CDEIS were available in nine studies. Seven studies demonstrated statistically significant decreases in the CDEIS score after administration of a treatment of known efficacy. Minimal responsiveness data were available for the SES-CD. Sipponen 2010a and Sipponen 2010b demonstrated statistically significant changes in the SES-CD score after subjects were administered a treatment of known efficacy.\nNo studies were identified that explicitly evaluated the feasibility for either the SES-CD or the CDEIS. The SES-CD requires fewer calculations and may therefore be easier to use than the CDEIS."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although they are used in clinical trials, the CDEIS and SES-CD remain incompletely validated. Future research is required to determine the operating properties and to define the optimal index."
+    }
+  ],
+  "pls_title": "Endoscopic scoring indices for evaluation of disease activity in Crohn's disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is Crohn's disease?",
+      "text": "Crohn's disease is a long-term (chronic) inflammatory bowel disease characterized by pain (abdominal cramping), tiredness, diarrhea and weight loss. When people with Crohn's disease are experiencing symptoms the disease is said to be \"active\" and when symptoms stop this is called \"remission\"."
+    },
+    {
+      "heading": "What is an endoscopic scoring index?",
+      "text": "An endoscopic scoring index measures disease activity based on what a doctor sees during endoscopy. An endoscopy is a non-surgical procedure used to view the digestive tract using a camera. The doctor who performs the endoscopy can rate disease activity using the index, or this can be done by another off-site doctor if a video of the procedure was recorded.\nThe most commonly used endoscopic scoring indices are the Crohn's Disease Endoscopic Index of Severity (CDEIS) and the Simple Endoscopic Score for Crohn's Disease (SES-CD)."
+    },
+    {
+      "heading": "What did the researchers investigate?",
+      "text": "It is important that endoscopic scoring indices are valid, meaning that they accurately measure what they are supposed to measure. The researchers investigated whether studies have assessed the validity of the CDEIS and/or the SES-CD."
+    },
+    {
+      "heading": "What did the researchers find?",
+      "text": "The researchers found that neither the CDEIS nor the SES-CD has been fully validated."
+    }
+  ]
+}

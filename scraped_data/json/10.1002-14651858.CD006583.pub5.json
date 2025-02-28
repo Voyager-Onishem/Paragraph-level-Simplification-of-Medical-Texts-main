@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006583.pub5",
+  "name": "Laparoscopic entry techniques",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Laparoscopy is a common procedure in many surgical specialties. Complications arising from laparoscopy are often related to initial entry into the abdomen. Life-threatening complications include injury to viscera (e.g. bowel, bladder) or to vasculature (e.g. major abdominal and anterior abdominal wall vessels). No clear consensus has been reached as to the optimal method of laparoscopic entry into the peritoneal cavity."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and risks of different laparoscopic entry techniques in gynaecological and non-gynaecological surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, and trials registers in January 2018. We also checked the references of articles retrieved."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared one laparoscopic entry technique versus another. Primary outcomes were major complications including mortality, vascular injury of major vessels and abdominal wall vessels, visceral injury of bladder or bowel, gas embolism, solid organ injury, and failed entry (inability to access the peritoneal cavity). Secondary outcomes were extraperitoneal insufflation, trocar site bleeding, trocar site infection, incisional hernia, omentum injury, and uterine bleeding."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed risk of bias, and extracted data. We expressed findings as Peto odds ratios (Peto ORs) with 95% confidence intervals (CIs). We assessed statistical heterogeneity using the I² statistic. We assessed the overall quality of evidence for the main comparisons using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review included 57 RCTs including four multi-arm trials, with a total of 9865 participants, and evaluated 25 different laparoscopic entry techniques. Most studies selected low-risk patients, and many studies excluded patients with high body mass index (BMI) and previous abdominal surgery. Researchers did not find evidence of differences in major vascular or visceral complications, as would be anticipated given that event rates were very low and sample sizes were far too small to identify plausible differences in rare but serious adverse events.\nOpen-entry versus closed-entry\nTen RCTs investigating Veress needle entry reported vascular injury as an outcome. There was a total of 1086 participants and 10 events of vascular injury were reported. Four RCTs looking at open entry technique reported vascular injury as an outcome. There was a total of 376 participants and 0 events of vascular injury were reported. This was not a direct comparison. In the direct comparison of Veress needle and Open-entry technique, there was insufficient evidence to determine whether there was a difference in rates of vascular injury (Peto OR 0.14, 95% CI 0.00 to 6.82; 4 RCTs; n = 915; I² = N/A, very low-quality evidence). Evidence was insufficient to show whether there were differences between groups for visceral injury (Peto OR 0.61, 95% CI 0.06 to 6.08; 4 RCTs; n = 915: I² = 0%; very low-quality evidence), or failed entry (Peto OR 0.45, 95% CI 0.14 to 1.42; 3 RCTs; n = 865; I² = 63%; very low-quality evidence). Two studies reported mortality with no events in either group. No studies reported gas embolism or solid organ injury.\nDirect trocar versus Veress needle entry\nTrial results show a reduction in failed entry into the abdomen with the use of a direct trocar in comparison with Veress needle entry (OR 0.24, 95% CI 0.17 to 0.34; 8 RCTs; N = 3185; I² = 45%; moderate-quality evidence). Evidence was insufficient to show whether there were differences between groups in rates of vascular injury (Peto OR 0.59, 95% CI 0.18 to 1.96; 6 RCTs; n = 1603; I² = 75%; very low-quality evidence), visceral injury (Peto OR 2.02, 95% CI 0.21 to 19.42; 5 RCTs; n = 1519; I² = 25%; very low-quality evidence), or solid organ injury (Peto OR 0.58, 95% Cl 0.06 to 5.65; 3 RCTs; n = 1079; I² = 61%; very low-quality evidence). Four studies reported mortality with no events in either group. Two studies reported gas embolism, with no events in either group.\nDirect vision entry versus Veress needle entry\nEvidence was insufficient to show whether there were differences between groups in rates of vascular injury (Peto OR 0.39, 95% CI 0.05 to 2.85; 1 RCT; n = 186; very low-quality evidence) or visceral injury (Peto OR 0.15, 95% CI 0.01 to 2.34; 2 RCTs; n = 380; I² = N/A; very low-quality evidence). Trials did not report our other primary outcomes.\nDirect vision entry versus open entry\nEvidence was insufficient to show whether there were differences between groups in rates of visceral injury (Peto OR 0.13, 95% CI 0.00 to 6.50; 2 RCTs; n = 392; I² = N/A; very low-quality evidence), solid organ injury (Peto OR 6.16, 95% CI 0.12 to 316.67; 1 RCT; n = 60; very low-quality evidence), or failed entry (Peto OR 0.40, 95% CI 0.04 to 4.09; 1 RCT; n = 60; very low-quality evidence). Two studies reported vascular injury with no events in either arm. Trials did not report our other primary outcomes.\nRadially expanding (STEP) trocars versus non-expanding trocars\nEvidence was insufficient to show whether there were differences between groups in rates of vascular injury (Peto OR 0.24, 95% Cl 0.05 to 1.21; 2 RCTs; n = 331; I² = 0%; very low-quality evidence), visceral injury (Peto OR 0.13, 95% CI 0.00 to 6.37; 2 RCTs; n = 331; very low-quality evidence), or solid organ injury (Peto OR 1.05, 95% CI 0.07 to 16.91; 1 RCT; n = 244; very low-quality evidence). Trials did not report our other primary outcomes.\nOther studies compared a wide variety of other laparoscopic entry techniques, but all evidence was of very low quality and evidence was insufficient to support the use of one technique over another."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, evidence was insufficient to support the use of one laparoscopic entry technique over another. Researchers noted an advantage of direct trocar entry over Veress needle entry for failed entry. Most evidence was of very low quality; the main limitations were imprecision (due to small sample sizes and very low event rates) and risk of bias associated with poor reporting of study methods."
+    }
+  ],
+  "pls_title": "Laparoscopic entry techniques",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Cochrane review authors evaluated the benefits and risks of different laparoscopic entry techniques in gynaecological and non-gynaecological surgery."
+    },
+    {
+      "heading": "Background",
+      "text": "Laparoscopy is a procedure that uses a laparoscope - a thin tube with a light and a camera on the end, similar to a telescope - that is inserted under general anaesthesia through a small cut or incision (0.5 cm to 1 cm) into, or near, the navel. The camera can project images onto external screens, which allow surgeons to directly visualise the pelvic and abdominal organs. This permits performance of keyhole surgery, which uses much smaller surgical tools without the need for large incisions. When laparoscopy is performed, gas is gently pumped into the abdomen to increase the workspace for the camera and tools. The method by which incisions are made to introduce the laparoscope may influence the likelihood of complications.\nAlthough laparoscopy is usually safe, a small minority of patients experience life-threatening complications, including injury to surrounding blood vessels or the bowel. These complications often occur at the first step of the procedure, when the abdominal wall is pierced with specialised instruments to insert the gas. Different doctors use different specialised instruments and techniques."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Systematic review authors included 57 randomised controlled trials with a total of 9865 individuals undergoing laparoscopy. The RCTs compared 25 different laparoscopic entry techniques. Patients included in the review were men, women, and children who required laparoscopic surgery for a range of gynaecological and non-gynaecological conditions. Most of these studies included low-risk patients, and many studies excluded patients with high body mass index (BMI) and previous abdominal surgery. Fifty-three of 57 studies did not mention sources of funding. Two studies received funding from industry through a grant or through free use of medical equipment during trials. Two studies received government funding. The evidence is current to January 2018."
+    },
+    {
+      "heading": "Key results",
+      "text": "Evidence is insufficient to show whether there were differences between groups in the rate of failed entry, vascular injury, or visceral injury, or in other major complications with the use of an open-entry technique in comparison to a closed-entry technique.\nComparison of closed techniques revealed a reduction in the risk of failed entry with use of a direct trocar entry technique in comparison to a Veress needle entry technique (8 RCTs; 3185 participants; moderate-quality evidence). Here the evidence suggests that for every 1000 patients operated on, 65 patients in the Veress needle group will experience failed entry compared to between 11 and 22 patients in the direct trocar group (i.e. between 43 and 54 fewer incidents of failed entry occurred per 1000 patients operated on with a direct trocar vs a Veress needle). Evidence was insufficient to show whether there were differences between groups in vascular injury, visceral injury, solid organ injury, or other major complications.\nEvidence was insufficient to show whether there were differences between direct vision entry and Veress needle entry in rates of vascular injury or visceral injury. Equally, evidence was insufficient to show whether there were differences between direct vision entry and open entry in rates of visceral injury, solid organ injury, or failed entry.\nEvidence was insufficient to show whether there were differences in rates of vascular injury, visceral injury, or solid organ injury between use of radially expanding trocars and use of non-expanding trocars.\nOther studies compared a wide variety of other laparoscopic entry techniques, but all evidence was of very low quality and evidence was insufficient to support the use of one technique over another.\nOverall, evidence is insufficient to support the use of one laparoscopic entry technique over another. Researchers noted an advantage of direct trocar entry over Veress needle entry for failed entry. No study in any comparison reported any deaths.\nMore research is required to examine the safety of entry techniques and to discover whether the risk of major complications differs between techniques."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Most evidence is of very low quality; the main limitations were imprecision (due to small sample sizes and very low event rates) and risk of bias associated with poor reporting of study methods."
+    }
+  ]
+}

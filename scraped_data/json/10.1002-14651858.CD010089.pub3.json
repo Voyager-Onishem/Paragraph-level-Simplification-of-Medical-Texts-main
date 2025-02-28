@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010089.pub3",
+  "name": "Influenza vaccines for preventing acute otitis media in infants and children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute otitis media (AOM) is one of the most common infectious diseases in children. It has been reported that 64% of infants have an episode of AOM by the age of six months and 86% by one year. Although most cases of AOM are due to bacterial infection, it is commonly triggered by a viral infection. In most children AOM is self limiting, but it does carry a risk of complications. Since antibiotic treatment increases the risk of antibiotic resistance, influenza vaccines might be an effective way of reducing this risk by preventing the development of AOM."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of influenza vaccine in reducing the occurrence of acute otitis media in infants and children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, LILACS, Web of Science, the WHO International Clinical Trials Registry Platform, and ClinicalTrials.gov (15 February 2017). We also searched the reference lists of included studies to identify any additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing influenza vaccine with placebo or no treatment in infants and children aged younger than six years. We included children of either sex and of any ethnicity, with or without a history of recurrent AOM."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened studies, assessed trial quality, and extracted data. We performed statistical analyses using the random-effects and fixed-effect models and expressed the results as risk ratio (RR), risk difference (RD), and number needed to treat for an additional beneficial outcome (NNTB) for dichotomous outcomes, with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 trials (6 trials in high-income countries and 5 multicentre trials in high-, middle-, and low-income countries) involving 17,123 children aged 6 months to 6 years. Eight trials recruited participants from a healthcare setting. Ten trials (and all four trials that contributed to the primary outcome) declared funding from vaccine manufacturers. Four trials reported adequate allocation concealment, and 10 trials reported adequate blinding of participants and personnel. Attrition was low for eight trials included in the analysis.\nThe primary outcome showed a small reduction in at least one episode of AOM over at least six months of follow-up (4 trials, 3134 children; RR 0.84, 95% CI 0.69 to 1.02; RD -0.04, 95% CI -0.08 to -0.00; NNTB 25, 95% CI 12.5 to 100; low-quality evidence).\nThe subgroup analyses (i.e. number of courses and types of vaccine administered) showed no differences.\nThere was a reduction in the use of antibiotics in vaccinated children (2 trials, 1223 children; RR 0.70, 95% CI 0.59 to 0.83; RD -0.11, 95% CI -0.16 to -0.06; moderate-quality evidence).\nWe were unable to demonstrate whether there was any difference in the utilisation of health care. The use of influenza vaccine resulted in a significant increase in fever (7 trials, 10,615 children; RR 1.15, 95% CI 1.06 to 1.24; RD 0.02, 95% CI 0.00 to 0.04; low-quality evidence), rhinorrhoea (6 trials, 10,563 children; RR 1.17, 95% CI 1.07 to 1.29; RD 0.09, 95% CI 0.01 to 0.16; low-quality evidence), but no difference in pharyngitis. No major adverse events were reported.\nDiffering from the protocol, the original publication of the review included a subgroup analysis of AOM episodes by season, and the secondary outcome ‘types of influenza vaccine’ was changed to a subgroup analysis. For this update, we removed the subgroup analyses for trial setting, season, and utilisation of health care due to the small number of trials involved. We removed Belshe 2000 from primary and secondary outcomes (courses of vaccine and types of vaccine) because it reported episodes of AOM per person. We did not perform a subgroup analysis by type of adverse event. We have reported each type of adverse event as a separate analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Influenza vaccine results in a small reduction in AOM. The observed reduction in the use of antibiotics needs to be considered in light of current recommended practices aimed at avoiding antibiotic overuse. Safety data from these trials were limited. The benefits may not justify the use of influenza vaccine without taking into account the vaccine efficacy in reducing influenza and safety data. We judged the quality of the evidence to be low to moderate. Additional research is needed."
+    }
+  ],
+  "pls_title": "Influenza vaccine for preventing acute otitis media (middle ear infection)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the effect of influenza vaccine on preventing acute otitis media (AOM) in infants and children."
+    },
+    {
+      "heading": "Background",
+      "text": "Acute otitis media is one of the most common infectious diseases in infants and preschool children. Symptoms include ear pain and fever, but it may also cause hearing loss due to eardrum perforation or fluid accumulation in the middle ear. Acute otitis media is usually bacterial in origin and is often treated with antibiotics, which may carry the risk of antibiotic resistance. Even so, AOM is often preceded by viral infection, such as influenza. Preventing viral infections might prevent AOM. We therefore investigated whether influenza vaccines might reduce the occurrence of AOM in infants and children."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 15 February 2017. We selected randomised controlled trials comparing influenza vaccine with placebo or no treatment in infants and children aged six months to six years, with or without a history of previous episodes of AOM. We included 11 trials involving 17,123 children. Ten out of 11 trials were funded by vaccine manufacturers."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found a 4% reduction in AOM and about an 11% reduction in the number of antibiotic prescriptions. There was no difference in the number of courses or types of vaccine administered between those who were vaccinated and those who were unvaccinated. Influenza vaccine side effects included an increase in fever, runny nose, and drowsiness. It remains uncertain whether the influenza vaccine reduced visits or admissions to healthcare facilities. Data were insufficient to show that this benefit might be balanced against more serious or rarer side effects from the vaccine.\nAlthough we observed a reduction in antibiotic usage, this impact is uncertain because the current practice is to avoid overuse of antibiotics. Coupled with other vaccine safety concerns, the use of influenza vaccine to reduce AOM is not yet justified, and additional research is needed."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The overall quality of the evidence was low to moderate."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD004508.pub5",
+  "name": "Early versus delayed oral feeding after major gynaecologic surgery",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated and expanded version of the original Cochrane review, first published in 2014. Postoperative oral intake is traditionally withheld after major abdominal gynaecologic surgery until the return of bowel function. The concern is that early oral intake will result in vomiting and severe paralytic ileus, with subsequent aspiration pneumonia, wound dehiscence, and anastomotic leakage. However, clinical studies suggest that there may be benefits from early postoperative oral intake. Currently, gynaecologic surgery can be performed through various routes: open abdominal, vaginal, laparoscopic, robotic, or a combination. In this version, we included women undergoing major gynaecologic surgery through all of these routes, either alone or in combination."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of early versus delayed (traditional) initiation of oral intake of food and fluids after major gynaecologic surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 13 June 2023, we searched the Cochrane Gynaecology and Fertility Group's Specialised Register, CENTRAL, MEDLINE, Embase, the citation lists of relevant publications, and two trial registries. We also contacted experts in the field for any additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared the effect of early versus delayed initiation of oral intake of food and fluids after major gynaecologic surgery, performed by abdominal, vaginal, laparoscopic, and robotic approaches. Early feeding was defined as oral intake of fluids or food within 24 hours post-surgery, regardless of the return of bowel function. Delayed feeding was defined as oral intake after 24 hours post-surgery, and only after signs of postoperative ileus resolution. Primary outcomes were: postoperative ileus, nausea, vomiting, cramping, abdominal pain, bloating, abdominal distension, need for postoperative nasogastric tube, time to the presence of bowel sounds, time to the first passage of flatus, time to the first passage of stool, time to the start of a regular diet, and length of postoperative hospital stay. Secondary outcomes were: infectious complications, wound complications, deep venous thrombosis, urinary tract infection, pneumonia, satisfaction, and quality of life."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed the risk of bias, and extracted the data. We calculated the risk ratio (RR) with a 95% confidence interval (CI) for dichotomous data. We examined continuous data using the mean difference (MD) and a 95% CI. We tested for heterogeneity between the results of different studies using a forest plot of the meta-analysis, the statistical tests of homogeneity of 2 x 2 tables, and the I² value. We assessed the certainty of the evidence using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven randomised controlled trials (RCTs), randomising 902 women.\nWe are uncertain whether early feeding compared to delayed feeding has an effect on postoperative ileus (RR 0.49, 95% CI 0.21 to 1.16; I² = 0%; 4 studies, 418 women; low-certainty evidence). We are uncertain whether early feeding affects nausea or vomiting, or both (RR 0.94, 95% CI 0.66 to 1.33; I² = 67%; random-effects model; 6 studies, 742 women; very low-certainty evidence); nausea (RR 1.24, 95% CI 0.51 to 3.03; I² = 74%; 3 studies, 453 women; low-certainty evidence); vomiting (RR 0.83, 95% CI 0.52 to 1.32; I² = 0%; 4 studies, 559 women; low-certainty evidence), abdominal distension (RR 0.99, 95% CI 0.75 to 1.31; I² = 0%; 4 studies, 559 women; low-certainty evidence); need for postoperative nasogastric tube placement (RR 0.46, 95% CI 0.14 to 1.55; 3 studies, 453 women; low-certainty evidence); or time to the presence of bowel sounds (MD -0.20 days, 95% CI -0.46 to 0.06; I² = 71%; random-effects model; 3 studies, 477 women; low-certainty evidence).\nThere is probably no difference between the two feeding protocols for the onset of flatus (MD -0.11 days, 95% CI -0.23 to 0.02; I² = 9%; 5 studies, 702 women; moderate-certainty evidence).\nEarly feeding probably results in a slight reduction in the time to the first passage of stool (MD -0.18 days, 95% CI -0.33 to -0.04; I² = 0%; 4 studies, 507 women; moderate-certainty evidence), and may lead to a slightly sooner resumption of a solid diet (MD -1.10 days, 95% CI -1.79 to -0.41; I² = 97%; random-effects model; 3 studies, 420 women; low-certainty evidence). Hospital stay may be slightly shorter in the early feeding group (MD -0.66 days, 95% CI -1.17 to -0.15; I² = 77%; random-effects model; 5 studies, 603 women; low-certainty evidence).\nThe effect of the two feeding protocols on febrile morbidity is uncertain (RR 0.96, 95% CI 0.75 to 1.22; I² = 47%; 3 studies, 453 women; low-certainty evidence). However, infectious complications are probably less common in women with early feeding (RR 0.20, 95% CI 0.05 to 0.73; I² = 0%; 2 studies, 183 women; moderate-certainty evidence). There may be no difference between the two feeding protocols for wound complications (RR 0.82, 95% CI 0.50 to 1.35; I² = 0%; 4 studies, 474 women; low-certainty evidence), or pneumonia (RR 0.35, 95% CI 0.07 to 1.73; I² = 0%; 3 studies, 434 women; low-certainty evidence).\nTwo studies measured participant satisfaction and quality of life. One study found satisfaction was probably higher in the early feeding group, while the other study found no difference. Neither study found a significant difference between the groups for quality of life (P > 0.05)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Despite some uncertainty, there is no evidence to indicate harmful effects of early feeding following major gynaecologic surgery, measured as postoperative ileus, nausea, vomiting, or abdominal distension. The potential benefits of early feeding include a slightly faster initiation of bowel movements, a slightly sooner resumption of a solid diet, a slightly shorter hospital stay, a lower rate of infectious complications, and a higher level of satisfaction."
+    }
+  ],
+  "pls_title": "Is it better to eat food early or wait for at least 24 hours after major gynaecologic surgery?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- The evidence suggests that early eating and drinking after gynaecologic surgery is probably safe.\n- Early eating and drinking may facilitate the return of bowel function, reduce the length of hospital stay, and promote women's satisfaction."
+    },
+    {
+      "heading": "Should physicians delay food and drink for women after gynaecologic surgery?",
+      "text": "Physicians often delay giving food and drink to women after abdominal surgery, and sometimes after laparoscopic or vaginal gynaecologic surgery, until bowel function returns (typically 24 hours after surgery). By delaying oral intake, the surgeons hope to reduce the risk of complications, such as vomiting, disruptions of the digestive system, and leakage or reopening of the wound. However, it has been suggested that some women recover more quickly if food is introduced earlier."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if eating food early was associated with nausea, vomiting, bloating, abdominal distension, the need for a nasogastric tube after surgery, infectious complications, wound complications, urinary tract infection, pneumonia, and deep venous thrombosis (blood clots).\nWe also wanted to find out if early feeding was better than delayed feeding for improving the recovery of bowel function, as represented by the time to first: bowel sound, gas, stool, the start of a regular diet, and the length of hospital stay. In addition, women's satisfaction and quality of life were compared between the two feeding schedules."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at early feeding compared with delayed feeding after major gynaecologic surgery, which may be done using an abdominal, vaginal, or laparoscopic approach. We defined early feeding as having fluids or food within 24 hours of surgery. We defined delayed feeding as having fluids or food 24 hours or more after surgery, and only if there were bowel sounds, the passage of gas or stool, and a feeling of hunger. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors, such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found seven studies that involved 902 women who underwent major gynaecologic surgery.\n- Early feeding may offer some benefits to women. It probably leads to a slightly faster resumption of bowel movements and may result in women starting a solid diet sooner. It might also contribute to a slightly shorter hospital stay.\n- Despite these potential advantages associated with early feeding, there was no difference between the women who received early or late feeding on the time to the first passage of gas.\n- The effects of early feeding compared to delayed feeding are uncertain for these post-surgical outcomes: the occurrence of nausea and vomiting, and abdominal distension."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "This review has some limitations that make the findings less certain. We had some uncertainty about most of the evidence. The main problem was that the studies were not 'blinded'. This means that the women and researchers knew who was getting early or delayed feeding. This knowledge could influence how the women reported their symptoms or satisfaction, potentially skewing the results. In addition, the studies were not consistent with each other, which makes it harder to draw firm conclusions. And finally, some studies had very few participants or recorded very few events, which makes their results less reliable."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "We updated the previous Cochrane review of randomised controlled trials of early and delayed feeding after abdominal gynaecologic surgery. In this update, we also considered women who underwent surgery through vaginal, laparoscopic, and robotic approaches. The evidence is up-to-date to June 2023."
+    }
+  ]
+}

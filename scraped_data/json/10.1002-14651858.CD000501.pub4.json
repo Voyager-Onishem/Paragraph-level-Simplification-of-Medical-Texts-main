@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD000501.pub4",
+  "name": "Vitamin A supplementation to prevent mortality and short‐ and long‐term morbidity in very low birth weight infants ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Vitamin A is necessary for normal lung growth and the integrity of respiratory tract epithelial cells. Preterm infants have low vitamin A status at birth and this has been associated with an increased risk of developing chronic lung disease."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate supplementation with vitamin A on the incidence of death or neonatal chronic lung disease and long-term neurodevelopmental disability in very low birth weight (VLBW) infants compared with a control (placebo or no supplementation), and to consider the effect of the supplementation route, dose, and timing."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the original review and subsequent updates, we searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE, Science Citation Index, and the Oxford Database of Perinatal Trials. The reference lists of relevant trials, paediatric and nutrition journals, and conference abstracts and proceedings were handsearched up to 2010.\nFor the 2016 update, we used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 4), MEDLINE via PubMed (1 May 2016), EMBASE (1 May 2016), and CINAHL (1 May 2016). We also searched clinical trials' databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing vitamin A supplementation with a control (placebo or no supplementation) or other dosage regimens in VLBW infants (birth weight ≤ 1500 grams or less than 32 weeks' gestation)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened the search results, extracted data, and assessed the trials for risk of bias. Results were reported as risk ratios (RR), risk differences (RD), and number needed to treat to benefit (NNTB), all with 95% confidence intervals (CI). Trialists were contacted for additional data."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eleven trials met the inclusion criteria. Ten trials (1460 infants) compared vitamin A supplementation with a control and one (120 infants) compared different regimens of vitamin A supplementation. Compared to the control group, vitamin A appeared to have a small benefit in reducing the risk of death or oxygen requirement at one month of age (typical RR 0.93, 95% CI 0.88 to 0.99; typical RD −0.05, 95% CI −0.10 to −0.01; NNTB 20, 95% CI 10 to 100; 6 studies, 1165 infants) and the risk of chronic lung disease (oxygen requirement) at 36 weeks' postmenstrual age (typical RR 0.87, 95% CI 0.77 to 0.99; typical RD −0.07, 95% CI −0.13 to −0.01; NNTB 11, 95% CI 6 to 100; 5 studies, 986 infants) (moderate-quality evidence). There was a marginal reduction of the combined outcome of death or chronic lung disease (typical RR 0.92, 95% CI 0.84 to 1.01; typical RD −0.05, 95% CI −0.11 to 0.01; 4 studies, 1089 infants). Neurodevelopmental assessment of 88% of the surviving infants in the largest trial showed no difference between the groups at 18 to 22 months of age, corrected for prematurity (low-quality evidence). There is no evidence to support different vitamin A dosing regimens. No adverse effects of vitamin A supplementation were reported, but it was noted that intramuscular injections of vitamin A were painful."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Whether clinicians decide to utilise repeat intramuscular doses of vitamin A to prevent chronic lung disease may depend upon the local incidence of this outcome and the value attached to achieving a modest reduction in the outcome balanced against the lack of other proven benefits and the acceptability of the treatment. Information on long-term neurodevelopmental status suggests no evidence of either benefit or harm from the intervention."
+    }
+  ],
+  "pls_title": "Vitamin A supplementation to prevent deaths and short- and long-term illness in very low birth weight infants",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does supplementation with vitamin A prevent death, chronic lung injury and long-term neurodevelopmental disability in very low birth weight infants compared with a control (placebo or no supplementation)?"
+    },
+    {
+      "heading": "Background",
+      "text": "Vitamin A is a group of fat-soluble compounds used by the body for regulation and promotion of growth and differentiation of many cells, including cells in the retina of the eye and the cells that line the air passages in the lungs. Preterm infants have low vitamin A levels at birth. This may contribute to an increased risk of developing chronic lung disease and hence a requirement for oxygen. It is possible that an additional vitamin A supplement may reduce complications of prematurity, including abnormal development of the retina (retinopathy), bleeding in the brain (intraventricular haemorrhage), and damage to the gut from inflammation (necrotising enterocolitis) as well as reducing respiratory infections. Too much vitamin A is potentially harmful as it can raise intracranial pressure and cause skin and mucous membrane changes (injury or lesions), and vomiting."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Eleven trials were included in this review, ten comparing vitamin A with a control (placebo or no supplementation) and one comparing different vitamin A regimens. The search for eligible trials was updated in May 2016."
+    },
+    {
+      "heading": "Results",
+      "text": "Compared to the control group, supplementing very low birth weight infants with vitamin A appears to have a small benefit in reducing the risk of death or oxygen requirement at one month of age and the risk of chronic lung disease (oxygen requirement) at 36 weeks' postmenstrual age (moderate-quality evidence). There was a marginal reduction of the combined outcome of death or chronic lung disease (moderate-quality evidence). Although there is a statistical reduction in chronic lung disease, these findings are consistent with either a meaningful impact on chronic lung disease or a negligible impact. The one trial that investigated neurodevelopmental status at 18 to 22 months of age correcting for prematurity found no evidence of benefit or harm associated with vitamin A supplementation compared to control (low-quality evidence). No adverse effects of vitamin A supplementation were reported, but it was noted that intramuscular injections of vitamin A were painful."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Whether clinicians decide to utilise repeat intramuscular doses of vitamin A to prevent chronic lung disease may depend upon the local incidence of this outcome and the value attached to achieving a modest reduction in the outcome balanced against the lack of other proven benefits and the acceptability of the treatment. Information on long-term neurodevelopmental status suggests no evidence of either benefit or harm from the intervention."
+    }
+  ]
+}

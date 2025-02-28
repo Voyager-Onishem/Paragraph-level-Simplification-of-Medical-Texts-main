@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD009634.pub2",
+  "name": "Intranasal or transdermal nicotine for the treatment of postoperative pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute pain frequently occurs after surgical procedures. Nicotine has been explored as an adjunctive medication for management of postoperative pain."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of transdermal or intranasal nicotine administration on postoperative pain, opioid analgesic use, and opioid-related adverse events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (1966 to 20 March 2014), the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 3), EMBASE (1980 to 20 March 2014), and also databases of ongoing trials (www.controlled-trials.com/ and http://clinicaltrials.gov/). We re-ran the search on 28 April 2015. We will assess the one study of interest when we update the review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized, placebo-controlled clinical trials that evaluated the effects of perioperative (pre-, intra-, or postoperative) administration of nicotine on postoperative pain, opioid use, and opioid-related adverse events. We excluded all other studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently screened all titles and abstracts for eligibility and documented reasons for exclusion. In case of disagreement, a third author decided on the inclusion or exclusion of a trial report. When additional information was needed in order to decide if a trial should be included, one of the authors contacted the corresponding author of the trial in question."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine trials (666 participants) evaluated nicotine for postoperative pain. Nicotine may reduce postoperative pain scores at 24 hours by a small amount compared with placebo (eight trials, mean difference -0.88 on a 0 to 10 scale, 95% confidence interval (CI) -1.58 to -0.18; low quality evidence). The effect on pain at one hour and 12 hours postoperatively was less certain (very low quality evidence). Statistical heterogeneity was substantial and not adequately explained by stratification of trials according to type of surgical procedure, smoking status, mode of nicotine administration, timing of administration, or assessed risk of bias. Excluding one trial at high risk of bias resulted in similar findings. The effect of nicotine on postoperative opioid use was uncertain due to small number of participants in the studies. Nicotine probably increases the risk of postoperative nausea (seven trials, RR 1.24, 95% CI 1.03 to 1.50; moderate quality evidence). Three trials assessed sedation but the effect is very uncertain due to the very low quality of evidence. We found no evidence that nicotine increased the risk of vomiting (seven studies, risk difference (RD) 0.03, 95% CI -0.04 to 0.09; low quality evidence). The results from one single small trial were insufficient to establish whether nicotine led to an earlier hospital discharge (very low quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on evidence of generally low quality, nicotine may reduce postoperative pain at 24 hours compared with placebo, but the effects were relatively small (less than 1 point on a 10 point pain scale) and there was substantial heterogeneity in the results of our analyses. Nicotine does not appear to reduce postoperative use of opioids or opioid-related adverse events but probably increases the risk of nausea. More research is needed to determine the effectiveness of nicotine for postoperative pain and to understand the optimal timing, dose, and method of delivery of nicotine."
+    }
+  ],
+  "pls_title": "Nicotine for postoperative pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This Cochrane review examines whether nicotine given prior to, during, or immediately after surgery results in less pain, use of opioids, and side effects from opioids."
+    },
+    {
+      "heading": "Background study characteristics",
+      "text": "Major surgery is usually associated with significant pain. The mainstay of treatment for pain following major surgery is opioid medications (strong pain killers such as morphine). However, opioids are not always entirely effective and are associated with side effects including sleepiness (sedation), shallow breathing (respiratory depression), feeling sick (nausea), and being sick (vomiting). Co-administered medications, like paracetamol, may help improve postoperative pain control and reduce the need for opioids.\nWe included nine clinical trials with a total of 666 participants. We searched several databases to March 2014, to find placebo-controlled, randomized trials (clinical studies where people are randomly put into one of two or more treatment groups, one of which includes a pretend (placebo) group) of nicotine for postoperative pain. We also contacted study authors for additional data. Not all studies reported all of the symptoms (outcomes) listed above, so what we can say about some outcomes is limited. We re-ran the search on 28 April 2015. We will assess the one study of interest when we update this review."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our results indicated that there is low quality evidence that nicotine use results in slightly lower postoperative pain scores 24 hours after surgery. At one hour and 12 hours postoperatively the effect was less certain. Nicotine appeared not to reduce use of opioids at 60 minutes or 24 hours, neither was there evidence that it reduced sedation or vomiting. Nicotine was associated with higher risk of nausea than placebo, and this may limit its use. There was not enough data to evaluate the effects of nicotine use on other side effects associated with opioids, including respiratory depression, or the effects of nicotine use on length of hospital stay following surgery."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We downgraded the quality of the evidence to low or very low quality largely because of problems with the way that the studies were designed, which could have exaggerated the results, because there was insufficient data in many of the analyses to be certain about the size of the average effect and because the results of some of the studies varied substantially."
+    }
+  ]
+}

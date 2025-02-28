@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012225",
+  "name": "Electrotherapy modalities for rotator cuff disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Management of rotator cuff disease may include use of electrotherapy modalities (also known as electrophysical agents), which aim to reduce pain and improve function via an increase in energy (electrical, sound, light, or thermal) into the body. Examples include therapeutic ultrasound, low-level laser therapy (LLLT), transcutaneous electrical nerve stimulation (TENS), and pulsed electromagnetic field therapy (PEMF). These modalities are usually delivered as components of a physical therapy intervention. This review is one of a series of reviews that form an update of the Cochrane review, 'Physiotherapy interventions for shoulder pain'."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To synthesise available evidence regarding the benefits and harms of electrotherapy modalities for the treatment of people with rotator cuff disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 3), Ovid MEDLINE (January 1966 to March 2015), Ovid EMBASE (January 1980 to March 2015), CINAHL Plus (EBSCOhost, January 1937 to March 2015), ClinicalTrials.gov and the WHO ICTRP clinical trials registries up to March 2015, unrestricted by language, and reviewed the reference lists of review articles and retrieved trials, to identify potentially relevant trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and quasi-randomised trials, including adults with rotator cuff disease (e.g. subacromial impingement syndrome, rotator cuff tendinitis, calcific tendinitis), and comparing any electrotherapy modality with placebo, no intervention, a different electrotherapy modality or any other intervention (e.g. glucocorticoid injection). Trials investigating whether electrotherapy modalities were more effective than placebo or no treatment, or were an effective addition to another physical therapy intervention (e.g. manual therapy or exercise) were the main comparisons of interest. Main outcomes of interest were overall pain, function, pain on motion, patient-reported global assessment of treatment success, quality of life and the number of participants experiencing adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected trials for inclusion, extracted the data, performed a risk of bias assessment and assessed the quality of the body of evidence for the main outcomes using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 47 trials (2388 participants). Most trials (n = 43) included participants with rotator cuff disease without calcification (four trials included people with calcific tendinitis). Sixteen (34%) trials investigated the effect of an electrotherapy modality delivered in isolation. Only 23% were rated at low risk of allocation bias, and 49% were rated at low risk of both performance and detection bias (for self-reported outcomes). The trials were heterogeneous in terms of population, intervention and comparator, so none of the data could be combined in a meta-analysis.\nIn one trial (61 participants; low quality evidence), pulsed therapeutic ultrasound (three to five times a week for six weeks) was compared with placebo (inactive ultrasound therapy) for calcific tendinitis. At six weeks, the mean reduction in overall pain with placebo was -6.3 points on a 52-point scale, and -14.9 points with ultrasound (MD -8.60 points, 95% CI -13.48 to -3.72 points; absolute risk difference 17%, 7% to 26% more). Mean improvement in function with placebo was 3.7 points on a 100-point scale, and 17.8 points with ultrasound (mean difference (MD) 14.10 points, 95% confidence interval (CI) 5.39 to 22.81 points; absolute risk difference 14%, 5% to 23% more). Ninety-one per cent (29/32) of participants reported treatment success with ultrasound compared with 52% (15/29) of participants receiving placebo (risk ratio (RR) 1.75, 95% CI 1.21 to 2.53; absolute risk difference 39%, 18% to 60% more). Mean improvement in quality of life with placebo was 0.40 points on a 10-point scale, and 2.60 points with ultrasound (MD 2.20 points, 95% CI 0.91 points to 3.49 points; absolute risk difference 22%, 9% to 35% more). Between-group differences were not important at nine months. No participant reported adverse events.\nTherapeutic ultrasound produced no clinically important additional benefits when combined with other physical therapy interventions (eight clinically heterogeneous trials, low quality evidence). We are uncertain whether there are differences in patient-important outcomes between ultrasound and other active interventions (manual therapy, acupuncture, glucocorticoid injection, glucocorticoid injection plus oral tolmetin sodium, or exercise) because the quality of evidence is very low. Two placebo-controlled trials reported results favouring LLLT up to three weeks (low quality evidence), however combining LLLT with other physical therapy interventions produced few additional benefits (10 clinically heterogeneous trials, low quality evidence). We are uncertain whether transcutaneous electrical nerve stimulation (TENS) is more or less effective than glucocorticoid injection with respect to pain, function, global treatment success and active range of motion because of the very low quality evidence from a single trial. In other single, small trials, no clinically important benefits of pulsed electromagnetic field therapy (PEMF), microcurrent electrical stimulation (MENS), acetic acid iontophoresis and microwave diathermy were observed (low or very low quality evidence).\nNo adverse events of therapeutic ultrasound, LLLT, TENS or microwave diathermy were reported by any participants. Adverse events were not measured in any trials investigating the effects of PEMF, MENS or acetic acid iontophoresis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on low quality evidence, therapeutic ultrasound may have short-term benefits over placebo in people with calcific tendinitis, and LLLT may have short-term benefits over placebo in people with rotator cuff disease. Further high quality placebo-controlled trials are needed to confirm these results. In contrast, based on low quality evidence, PEMF may not provide clinically relevant benefits over placebo, and therapeutic ultrasound, LLLT and PEMF may not provide additional benefits when combined with other physical therapy interventions. We are uncertain whether TENS is superior to placebo, and whether any electrotherapy modality provides benefits over other active interventions (e.g. glucocorticoid injection) because of the very low quality of the evidence. Practitioners should communicate the uncertainty of these effects and consider other approaches or combinations of treatment. Further trials of electrotherapy modalities for rotator cuff disease should be based upon a strong rationale and consideration of whether or not they would alter the conclusions of this review."
+    }
+  ],
+  "pls_title": "Electrotherapy modalities for rotator cuff disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Rotator cuff disease is the most common cause of shoulder pain. People with rotator cuff disease often describe their pain as being worse at night and exacerbated by movement in specific directions, including overhead activity. It is often associated with loss of function and some people describe weakness.\nElectrotherapy modalities (also known as electrophysical agents) are types of physical therapy that aim to reduce pain and improve function via an increase in energy (electrical, sound, light, or thermal) into the body. Examples include therapeutic ultrasound, low-level laser therapy (LLLT), transcutaneous electrical nerve stimulation (TENS), and pulsed electromagnetic field therapy (PEMF). Electrotherapy modalities are delivered by various clinicians, including physiotherapists, chiropractors and osteopaths. In practice, people with rotator cuff disease seldom receive a single electrotherapy modality in isolation from other components of physical therapy treatment (for example manual therapy or exercise, or both)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This summary of an updated Cochrane review presents what we know from research about the benefits and harms of electrotherapy modalities in people with rotator cuff disease. After searching for all relevant studies published up to March 2015, we included 47 trials (2388 participants). Among the included participants, 67% were women, the average age was 53 years, and the average duration of the condition was eight months. Electrotherapy was delivered for three weeks on average."
+    },
+    {
+      "heading": "Key results",
+      "text": ""
+    },
+    {
+      "heading": "Pulsed therapeutic ultrasound versus placebo (inactive ultrasound) for six weeks in people with calcific tendinitis (based on one trial)",
+      "text": "Overall pain (lower scores mean greater pain reduction)\nPeople who had ultrasound had greater pain reduction than people who had placebo. Reduction in pain was 8.60 points more (ranging from 3.72 to 13.48 points more) at six weeks (17% absolute improvement). On a scale of 0 to 52 points, people who had ultrasound rated their reduction in pain score as -14.9 points, and people who had placebo rated their reduction in pain score as -6.3 points.\nFunction (higher scores mean more improvement in function)\nPeople who had ultrasound improved more than people who had placebo. Improvement in function was 14.10 points more (ranging from 5.39 to 22.81 points more) at six weeks (14% absolute improvement). On a scale of 0 to 100 points, people who had ultrasound rated their change in function as 17.8 points, and people who had placebo rated their change in function as 3.7 points.\nTreatment success\nThirty-nine more people out of 100 rated their treatment as successful with ultrasound compared with placebo; 39% absolute improvement (ranging from 18% to 60% more improvement). Ninety-one out of 100 people reported treatment success with ultrasound and 52 out of 100 people reported treatment success with placebo.\nSide effects\nNo participant receiving ultrasound or placebo reported side effects."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Low-quality evidence suggests that therapeutic ultrasound may improve overall pain, function, global treatment success and quality of life more than placebo at short-term (six weeks) in people with calcific tendinitis, that LLLT may improve overall pain and function more than placebo at short-term (up to three weeks), that therapeutic ultrasound and LLLT may produce no clinically important additional benefits in pain and function when combined with other physical therapy interventions alone, and that PEMF may produce no clinically important benefits in pain and function when compared with placebo. Further high quality research is likely to change our confidence in the effect estimates.\nWe are uncertain whether TENS improves pain and function more than placebo, whether therapeutic ultrasound improves pain and function more than other active interventions (manual therapy, acupuncture, glucocorticoid injection, glucocorticoid injection plus oral tolmetin sodium, or exercise), or whether LLLT improves pain and function more than oral nonsteroidal anti-inflammatory drugs (NSAID) and glucocorticoid injection, because of the very low quality of the evidence."
+    }
+  ]
+}

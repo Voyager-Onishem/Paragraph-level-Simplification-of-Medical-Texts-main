@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005454.pub2",
+  "name": "Antidepressants for neuropathic pain",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane review published in Issue 3, 2005 of The Cochrane Library. For many years antidepressant drugs have been used to manage neuropathic pain, and are often the first choice treatment. It is not clear, however, which antidepressant is more effective, what role the newer antidepressants can play in treating neuropathic pain, and what adverse effects are experienced by patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the analgesic effectiveness and safety of antidepressant drugs in neuropathic pain."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Randomised controlled trials (RCTs) of antidepressants in neuropathic pain were identified in MEDLINE (1966 to Oct 2005); EMBASE (1980 to Oct 2005); the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, Issue 3, 2005; and the Cochrane Pain, Palliative and Supportive Care Trials Register (May 2002). Additional reports were identified from the reference list of the retrieved papers, and by contacting investigators."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs reporting the analgesic effects of antidepressant drugs in adult patients, with subjective assessment of pain of neuropathic origin. Studies that included patients with chronic headache and migraine were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors agreed the included studies, extracted data, and assessed methodological quality independently. In this update a total of sixty one trials of 20 antidepressants were considered eligible (3293 participants) for inclusion (including 11 additional studies (778 participants)) Relative Risk (RR) and Number-Needed-to-Treat (NNTs) were calculated from dichotomous data for effectiveness and adverse effects."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixty one RCTs were included in total. Tricyclic antidepressants (TCAs) are effective and have an NNT of 3.6 (95% CI 3 to 4.5) RR 2.1 (95% CI 1.8 to 2.5) for the achievement of at least moderate pain relief. There is limited evidence for the effectiveness of the newer SSRIs but no studies of SNRIs were found. Venlafaxine (three studies) has an NNT of 3.1 (95% CI 2.2 to 5.1) RR 2.2 (95% CI 1.5 to 3.1). There were insufficient data to assess effectiveness for other antidepressants such as St Johns Wort and L-tryptophan. For diabetic neuropathy the NNT for effectiveness was 1.3 (95% CI 1.2 to 1.5) RR 12.4 (95% CI 5.2 to 29.2) (five studies); for postherpetic neuralgia 2.7 (95% CI 2 to 4.1), RR 2.2 (95% CI 1.6 to 3.1) (four studies). There was evidence that TCAs are not effective in HIV-related neuropathies. The number needed to harm (NNH) for major adverse effects defined as an event leading to withdrawal from a study was 28 (95% CI 17.6 to 68.9) for amitriptyline and 16.2 (95% CI 8 to 436) for venlafaxine. The NNH for minor adverse effects was 6 (95% CI 4.2 to 10.7) for amitriptyline and 9.6 (95% CI 3.5 to 13) for venlafaxine."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This update has provided additional confirmation on the effectiveness of antidepressants for neuropathic pain and has provided new information on another antidepressant - venlafaxine. There is still limited evidence for the role of SSRIs. Whether antidepressants prevent the development of neuropathic pain (pre-emptive use) is still unclear. Both TCAs and venlafaxine have NNTs of approximately three. This means that for approximately every three patients with neuropathic pain who are treated with either of these antidepressants, one will get at least moderate pain relief. There is evidence to suggest that other antidepressants may be effective but numbers of participants are insufficient to calculate robust NNTs. SSRIs are generally better tolerated by patients and more high quality studies are required."
+    }
+  ],
+  "pls_title": "Antidepressants for treating neuropathic pain",
+  "pls_type": "long",
+  "pls": "A number of medicines used to treat depression (antidepressants) are effective in treating pain associated with nerve damage (neuropathic pain). At least one third of patients with neuropathic pain who took traditional antidepressants (such as amitriptyline) obtained moderate pain relief or better. There is also evidence that Venlafaxine, a newer antidepressant, has similar effectiveness to traditional antidepressants. However, approximately one fifth of those who take these medicines for pain discontinue the therapy due to adverse effects. There is very limited evidence that some other newer antidepressants, known as SSRIs, may be effective but more studies are needed to confirm this. Neuropathic pain can be treated with antidepressants and the effect is independent of any effect on depression."
+}

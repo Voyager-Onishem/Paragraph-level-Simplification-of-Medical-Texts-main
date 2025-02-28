@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005217.pub2",
+  "name": "Perioperative antibiotics to prevent infection after first‐trimester abortion",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "There are two main strategies for the prevention of post-abortal upper genital tract infection: antibiotics given around the time of surgery for all women; and 'screen-and-treat', in which all women presenting for abortion are screened for genital infections and those with positive results are treated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine:\n1. the effectiveness of antibiotic prophylaxis in preventing post-abortal upper genital tract infection; \n2. the most effective antibiotic regimen; \n3. the most effective strategy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE, POPLINE and LILACS. The search was last updated in May 2011."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) in any language including women undergoing induced first trimester surgical or medical abortion, comparing: 1) any antibiotic regimen to placebo, nothing, or another antibiotic; 2) screen-and-treat versus antibiotics. The primary outcome was the proportion of women diagnosed with post-abortal upper genital tract infection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently selected references and extracted data. We calculated risk ratios (RR) with 95% confidence intervals (CI). We used meta-analysis where appropriate and examined between trial heterogeneity using the I2 statistic. In the presence of between trial heterogeneity we also estimated the 95% prediction interval (PI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 703 unique items was identified. We included 19 RCTs. There was evidence of small study biases (Egger test, P = 0.002). In 15 placebo-controlled RCTs there was an effect of antibiotic prophylaxis (pooled RR 0.59, 95% CI 0.46 to 0.75, 95% PI 0.30 to 1.14, I2 = 39%). There were insufficient data (three trials) to determine whether one regimen was superior to another. In one trial, the incidence of post-abortal upper genital tract infection was higher in women allocated to the screen-and-treat strategy (RR 1.53, 95% CI 0.99 to 2.36)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotic prophylaxis at the time of first trimester surgical abortion is effective in preventing post-abortal upper genital tract infection. Evidence of between trial heterogeneity suggests that the effect might not apply to all settings, population groups or interventions.\nThis review did not determine the most effective antibiotic prophylaxis regimen. Antibiotic choice should take into account the local epidemiology of genital tract infections, including sexually transmitted infections.\nFurther RCTs comparing different antibiotics or combinations of antibiotics with each other would be useful. Such trials could be done in low and middle income countries and where the prevalence of genital tract infections in women presenting for abortion is high."
+    }
+  ],
+  "pls_title": "Antibiotic prophylaxis for first trimester induced abortion",
+  "pls_type": "long",
+  "pls": "Infection of the upper genital tract, including the uterus and fallopian tubes, can cause complications after induced abortion. Antibiotics given around the time of the abortion (prophylaxis) could prevent this complication. We found 19 randomised controlled trials that looked at the effect of antibiotic prophylaxis on post-abortal upper genital tract infection amongst women requesting induced abortion in the first trimester of pregnancy. We looked at the effect of any antibiotic prophylaxis regimen on the outcome. Overall, the risk of post-abortal upper genital tract infection in women receiving antibiotics was 59% that of women who received placebo. There were, however, differences between the trial results over and above what would be expected by chance alone. It should be noted that, if the infection is caused by a sexually transmitted organism, antibiotic prophylaxis will not protect the woman from becoming re-infected if her sexual partner has not been treated. None of the trials was done in lower or middle income countries, which is where the risk of post-abortal complications is highest. Further trials are needed to determine whether combinations of antibiotics can prevent more infections than single antibiotics, or whether antibiotic prophylaxis should be restricted to women with positive results of screening tests before the abortion."
+}

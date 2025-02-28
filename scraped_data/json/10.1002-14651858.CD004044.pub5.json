@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004044.pub5",
+  "name": "Pharmacological treatment for psychotic depression",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Evidence is limited regarding the most effective pharmacological treatment for psychotic depression: monotherapy with an antidepressant, monotherapy with an antipsychotic, another treatment (e.g. mifepristone), or combination of an antidepressant plus an antipsychotic. This is an update of a review first published in 2005 and last updated in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "1. To compare the clinical efficacy of pharmacological treatments for patients with an acute psychotic depression: antidepressant monotherapy, antipsychotic monotherapy, mifepristone monotherapy, and the combination of an antidepressant plus an antipsychotic versus placebo and/or each other.\n2. To assess whether differences in response to treatment in the current episode are related to non-response to prior treatment."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A search of the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library; the Cochrane Common Mental Disorders Controlled Trials Register (CCMDCTR); Ovid MEDLINE (1950-); Embase (1974-); and PsycINFO (1960-) was conducted on 21 February 2020. Reference lists of all included studies and related reviews were screened and key study authors contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) that included participants with acute major depression with psychotic features, as well as RCTs consisting of participants with acute major depression with or without psychotic features, that reported separately on the subgroup of participants with psychotic features."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and assessed risk of bias in the included studies, according to criteria from the Cochrane Handbook for Systematic Reviews of Interventions. Data were entered into RevMan 5.1. We used intention-to-treat data. Primary outcomes were clinical response for efficacy and overall dropout rate for harm/tolerance. Secondary outcome were remission of depression, change from baseline severity score, quality of life, and dropout rate due to adverse effects.\nFor dichotomous efficacy outcomes (i.e. response and overall dropout), risk ratios (RRs) with 95% confidence intervals (CIs) were calculated.\nRegarding the primary outcome of harm, only overall dropout rates were available for all studies. If the study did not report any of the response criteria as defined above, remission as defined here could be used as an alternative. For continuously distributed outcomes, it was not possible to extract data from the RCTs."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified 3947 abstracts, but only 12 RCTs with a total of 929 participants could be included in the review. Because of clinical heterogeneity, few meta-analyses were possible. The main outcome was reduction in severity (response) of depression, not of psychosis.\nFor depression response, we found no evidence of a difference between antidepressant and placebo (RR 8.40, 95% CI 0.50 to 142.27; participants = 27, studies = 1; very low-certainty evidence) or between antipsychotic and placebo (RR 1.13, 95% CI 0.74 to 1.73; participants = 201, studies = 2; very low-certainty evidence). Furthermore, we found no evidence of a difference in overall dropouts with antidepressant (RR 1.24, 95% CI 0.34 to 4.51; participants = 27, studies = 1; very low-certainty evidence) or antipsychotic monotherapy (RR 0.79, 95% CI 0.57 to 1.08; participants = 201, studies = 2; very low-certainty evidence).\nNo evidence suggests a difference in depression response (RR 2.09, 95% CI 0.64 to 6.82; participants = 36, studies = 1; very low-certainty evidence) or overall dropouts (RR 1.79, 95% CI 0.18 to 18.02; participants = 36, studies = 1; very low-certainty evidence) between antidepressant and antipsychotic.\nFor depression response, low- to very low-certainty evidence suggests that the combination of an antidepressant plus an antipsychotic may be more effective than antipsychotic monotherapy (RR 1.83, 95% CI 1.40 to 2.38; participants = 447, studies = 4), more effective than antidepressant monotherapy (RR 1.42, 95% CI 1.11 to 1.80; participants = 245, studies = 5), and more effective than placebo (RR 1.86, 95% CI 1.23 to 2.82; participants = 148, studies = 2). Very low-certainty evidence suggests no difference in overall dropouts between the combination of an antidepressant plus an antipsychotic versus antipsychotic monotherapy (RR 0.79, 95% CI 0.63 to 1.01; participants = 447, studies = 4), antidepressant monotherapy (RR 0.91, 95% CI 0.55 to 1.50; participants = 245, studies = 5), or placebo alone (RR 0.75, 95% CI 0.48 to 1.18; participants = 148, studies = 2).\nNo study measured change in depression severity from baseline, quality of life, or dropouts due to adverse events. We found no RCTs with mifepristone that fulfilled our inclusion criteria.\nRisk of bias is considerable: we noted differences between studies with regards to diagnosis, uncertainties around randomisation and allocation concealment, treatment interventions (pharmacological differences between various antidepressants and antipsychotics), and outcome criteria."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Psychotic depression is heavily under-studied, limiting confidence in the conclusions drawn. Some evidence indicates that combination therapy with an antidepressant plus an antipsychotic is more effective than either treatment alone or placebo. Evidence is limited for treatment with an antidepressant alone or with an antipsychotic alone. Evidence for efficacy of mifepristone is lacking."
+    }
+  ],
+  "pls_title": "Pharmacological treatment for psychotic depression",
+  "pls_type": "long",
+  "pls": "Psychotic depression is a severe depression with psychotic features (i.e. delusions and/or hallucinations). Uncertainty surrounds the most effective drug treatment for psychotic depression: an antidepressant alone, an antipsychotic alone, or the combination of an antidepressant plus an antipsychotic.\nThe aim of this review is to compare the efficacy of the various forms of drug treatment that have been used to treat psychotic depression. We did this by analysing all randomised controlled trials (RCTs). Twelve RCTs met our inclusion criteria. These trials involved a total of 929 people.\nFrom these trials, we found evidence that the combination of an antidepressant plus an antipsychotic provides more effective treatment for psychotic depression than either treatment alone. However, our confidence in this conclusion is limited because the information came from only a small number of RCTs, which included small numbers of people. In addition, the types of people involved varied between RCTs, and these trials differed in design, which means that we cannot confidently generalise their findings."
+}

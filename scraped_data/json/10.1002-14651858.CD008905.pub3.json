@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008905.pub3",
+  "name": "Prosthetic mesh placement for the prevention of parastomal herniation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Parastomal herniation is a common problem following formation of a stoma after both elective and emergency abdominal surgery. Symptomatic hernias give rise to a significant amount of patient morbidity, and in some cases mortality, and therefore may necessitate surgical treatment to repair the hernial defect and/or re-site the stoma. In an effort to reduce this complication, recent research has focused on the application of a synthetic or biological mesh, inserted during stoma formation to help strengthen the abdominal wall."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective was to evaluate whether mesh reinforcement during stoma formation reduces the incidence of parastomal herniation. Secondary objectives included the safety or potential harms or both of mesh placement in terms of stoma-related infections, mesh-related infections, patient-reported symptoms/postoperative quality of life, and re-hospitalisation/ambulatory visits."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library 2018, Issue 1), Ovid MEDLINE (1970 to 11 January 2018), Ovid Embase (1974 to 11 January 2018), and Science Citation Index Expanded (1970 to 11 January 2018). To identify ongoing studies, we also searched the metaRegister of Controlled Trials (mRCT) on 11 January 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion all randomised controlled trials (RCTs) of prosthetic mesh (including biological/composite mesh) placement versus a control group (no mesh) for the prevention of parastomal hernia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed the studies identified by the literature search for potential eligibility. We obtained the full articles for all studies that potentially met the inclusion criteria and included all those that met the criteria. Any differences in opinion between review authors were resolved by consensus. We pooled study data into a meta-analysis. We assessed heterogeneity by calculation of I2 and expressed results for each variable as a risk ratio (RR) with corresponding 95% confidence intervals (CI). We expressed continous outcomes as mean difference (MD) with corresponding 95% CIs."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 RCTs involving a total of 844 participants. The primary outcome was overall incidence of parastomal herniation. Secondary outcomes were rate of reoperation at 12 months, operative time, postoperative length of hospital stay, stoma-related infections, mesh-related infections, quality of life, and rehospitalisation rate. We judged the risk of bias across all domains to be low in six trials. We judged four trials to have an overall high risk of bias.\nThe overall incidence of parastomal hernia was less in participants receiving a prophylactic mesh compared to those who had a standard ostomy formation (RR 0.53, 95% CI 0.43 to 0.66; 10 studies, 771 participants; I2 = 69%; low-quality evidence). In absolute numbers, the incidence of parastomal hernia was 22 per 100 participants (18 to 27) receiving prophylactic mesh compared to 41 per 100 participants having a standard ostomy formation.\nThere were no differences in the need for reoperation (RR 0.90, 95% CI 0.50 to 1.64; 9 studies, 757 participants; I2 = 0%; low-quality evidence); operative time (MD -6.50 (min), 95% CI -18.24 to 5.24; 6 studies, 671 participants; low-quality evidence); postoperative length of hospital stay (MD -0.95 (days), 95% CI -2.03 to 0.70; 4 studies, 500 participants; moderate-quality evidence); or stoma-related infections (RR 0.89, 95% CI 0.32 to 2.50; 6 studies, 472 participants; I2 = 0%; low-quality evidence) between the two groups.\nWe were unable to analyse mesh-related infections, quality of life, and rehospitalisation rate due to sparse data or because the outcome was not reported in the included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This Cochrane Review included 10 RCTs with a total of 844 participants. The review demonstrated a reduction in the incidence of parastomal hernia in people who had a prophylactic synthetic mesh placed at the time of the index operation compared to a standard ostomy formation. However, our confidence in this estimate is low due to the presence of a large degree of clinical heterogeneity, as well as high variability in follow-up duration and technique of parastomal herniation detection. We found the rate of stoma-related infection to be similar in both the intervention and control groups."
+    }
+  ],
+  "pls_title": "Does prophylactic mesh placement around a stoma prevent the development of future hernia and general patient discomfort?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review looked at whether placing a mesh (foreign material) around a stoma (a surgically created opening in the bowel and abdominal wall to allow the diversion of faeces) at the time of stoma formation affected whether study participants developed a hernia (a protrusion of the abdominal contents through a weakness within the abdominal wall) around the stoma. We also aimed to judge whether there were any risks or complications associated with mesh placement compared to no mesh."
+    },
+    {
+      "heading": "Background",
+      "text": "Hernia formation around a stoma affects up to 50% of people undergoing formation of a stoma. The hernia might enlarge over time, which can cause considerable patient discomfort which in turn may lead patients to restrict their work and other physical activities. Reoperation and cosmetic concerns may also arise."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Following our data search in January 2018, we included 10 trials with a total of 844 participants, which we assessed using the standard Cochrane Review protocol. The trials compared the incidence of hernia development around a stoma between a group having a mesh placement at the time of stoma formation and a control group having a conventional stoma formation without mesh placement."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that mesh placement around the stoma at the time of stoma formation reduces the incidence of future hernia formation. The participants having a mesh fitted had a similar level of complications as those not having a mesh."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We found low-quality evidence favouring the insertion of a mesh into people having a stoma."
+    }
+  ]
+}

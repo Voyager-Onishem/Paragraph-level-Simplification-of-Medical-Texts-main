@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD011551.pub2",
+  "name": "Magnetic resonance perfusion for differentiating low‐grade from high‐grade gliomas at first presentation ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Gliomas are the most common primary brain tumour. They are graded using the WHO classification system, with Grade II-IV astrocytomas, oligodendrogliomas and oligoastrocytomas. Low-grade gliomas (LGGs) are WHO Grade II infiltrative brain tumours that typically appear solid and non-enhancing on magnetic resonance imaging (MRI) scans. People with LGG often have little or no neurologic deficit, so may opt for a watch-and-wait-approach over surgical resection, radiotherapy or both, as surgery can result in early neurologic disability. Occasionally, high-grade gliomas (HGGs, WHO Grade III and IV) may have the same MRI appearance as LGGs. Taking a watch-and-wait approach could be detrimental for the patient if the tumour progresses quickly. Advanced imaging techniques are increasingly used in clinical practice to predict the grade of the tumour and to aid clinical decision of when to intervene surgically. One such advanced imaging technique is magnetic resonance (MR) perfusion, which detects abnormal haemodynamic changes related to increased angiogenesis and vascular permeability, or \"leakiness\" that occur with aggressive tumour histology. These are reflected by changes in cerebral blood volume (CBV) expressed as rCBV (ratio of tumoural CBV to normal appearing white matter CBV) and permeability, measured by Ktrans."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic test accuracy of MR perfusion for identifying patients with primary solid and non-enhancing LGGs (WHO Grade II) at first presentation in children and adults. In performing the quantitative analysis for this review, patients with LGGs were considered disease positive while patients with HGGs were considered disease negative.\nTo determine what clinical features and methodological features affect the accuracy of MR perfusion."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Our search strategy used two concepts: (1) glioma and the various histologies of interest, and (2) MR perfusion. We used structured search strategies appropriate for each database searched, which included: MEDLINE (Ovid SP), Embase (Ovid SP), and Web of Science Core Collection (Science Citation Index Expanded and Conference Proceedings Citation Index). The most recent search for this review was run on 9 November 2016.\nWe also identified 'grey literature' from online records of conference proceedings from the American College of Radiology, European Society of Radiology, American Society of Neuroradiology and European Society of Neuroradiology in the last 20 years."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "The titles and abstracts from the search results were screened to obtain full-text articles for inclusion or exclusion. We contacted authors to clarify or obtain missing/unpublished data.\nWe included cross-sectional studies that performed dynamic susceptibility (DSC) or dynamic contrast-enhanced (DCE) MR perfusion or both of untreated LGGs and HGGs, and where rCBV and/or Ktrans values were reported. We selected participants with solid and non-enhancing gliomas who underwent MR perfusion within two months prior to histological confirmation. We excluded studies on participants who received radiation or chemotherapy before MR perfusion, or those without histologic confirmation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted information on study characteristics and data, and assessed the methodological quality using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool. We present a summary of the study characteristics and QUADAS-2 results, and rate studies as good quality when they have low risk of bias in the domains of reference standard of tissue diagnosis and flow and timing between MR perfusion and tissue diagnosis.\nIn the quantitative analysis, LGGs were considered disease positive, while HGGs were disease negative. The sensitivity refers to the proportion of LGGs detected by MR perfusion, and specificity as the proportion of detected HGGs. We constructed two-by-two tables with true positives and false negatives as the number of correctly and incorrectly diagnosed LGG, respectively, while true negatives and false positives are the number of correctly and incorrectly diagnosed HGG, respectively.\nMeta-analysis was performed on studies with two-by-two tables, with further sensitivity analysis using good quality studies. Limited data precluded regression analysis to explore heterogeneity but subgroup analysis was performed on tumour histology groups."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven studies with small sample sizes (4 to 48) met our inclusion criteria. These were mostly conducted in university hospitals and mostly recruited adult patients. All studies performed DSC MR perfusion and described heterogeneous acquisition and post-processing methods. Only one study performed DCE MR perfusion, precluding quantitative analysis.\nUsing patient-level data allowed selection of individual participants relevant to the review, with generally low risks of bias for the participant selection, reference standard and flow and timing domains. Most studies did not use a pre-specified threshold, which was considered a significant source of bias, however this did not affect quantitative analysis as we adopted a common rCBV threshold of 1.75 for the review. Concerns regarding applicability were low.\nFrom published and unpublished data, 115 participants were selected and included in the meta-analysis. Average rCBV (range) of 83 LGGs and 32 HGGs were 1.29 (0.01 to 5.10) and 1.89 (0.30 to 6.51), respectively. Using the widely accepted rCBV threshold of <1.75 to differentiate LGG from HGG, the summary sensitivity/specificity estimates were 0.83 (95% CI 0.66 to 0.93)/0.48 (95% CI 0.09 to 0.90). Sensitivity analysis using five good quality studies yielded sensitivity/specificity of 0.80 (95% CI 0.61 to 0.91)/0.67 (95% CI 0.07 to 0.98). Subgroup analysis for tumour histology showed sensitivity/specificity of 0.92 (95% CI 0.55 to 0.99)/0.42 (95% CI 0.02 to 0.95) in astrocytomas (6 studies, 55 participants) and 0.77 (95% CI 0.46 to 0.93)/0.53 (95% CI 0.14 to 0.88) in oligodendrogliomas+oligoastrocytomas (6 studies, 56 participants). Data were too sparse to investigate any differences across subgroups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The limited available evidence precludes reliable estimation of the performance of DSC MR perfusion-derived rCBV for the identification of grade in untreated solid and non-enhancing LGG from that of HGG. Pooled data yielded a wide range of estimates for both sensitivity (range 66% to 93% for detection of LGGs) and specificity (range 9% to 90% for detection of HGGs). Other clinical and methodological features affecting accuracy of the technique could not be determined from the limited data. A larger sample size of both LGG and HGG, preferably using a standardised scanning approach and with an updated reference standard incorporating molecular profiles, is required for a definite conclusion."
+    }
+  ],
+  "pls_title": "How accurate is MR perfusion, an advanced MRI method, for differentiating low-grade gliomas from high-grade gliomas in children and adults?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is differentiation of low-grade and high-grade gliomas important?",
+      "text": "Low-grade gliomas (LGGs) are slow growing brain tumours that have a typical appearance on standard MRI. Patients with LGGs who have few or no symptoms may prefer to delay treatment until such time they experience progression of their symptoms or appearance of the tumour on MRI; this is called the watch-and-wait approach. However occasionally, high-grade gliomas (HGGs), which are aggressive and require early treatment, can mimic the appearance of LGGs. It is only by examining tissues obtained by surgery - either through sampling (biopsy) or removal of tumour (resection) - can LGG and HGG be definitively differentiated. But a patient with few or no symptoms may want to avoid risking early neurologic disability resulting from surgery. Thus an accurate noninvasive method to differentiate gliomas can aid patients' decision making whether to opt for a watch-and-wait approach or undergo early treatment."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The review aims to determine how accurate MR perfusion is for differentiating LGGs and HGGs, and what factors affect its accuracy. Researchers in Cochrane included seven studies to answer this question."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "An advanced MRI technique called MR perfusion was studied. This method detects abnormal blood vessels which are increased from low- to high-grade gliomas. Unlike surgery, MR perfusion is noninvasive and allows clinicians to determine if a watch-and-wait approach can be adopted by patients, i.e. delay treatment including the initial tissue examination which requires surgery."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The analysis included results from 115 patients. The results indicate that in theory, if MR perfusion were to be used in 100 patients with brain tumours that look like LGG on standard MRI scan, of whom 72 actually have LGG, then:\n- an estimated 74 will have an MR perfusion result indicating that they have LGGs, and of these 15 will have HGGs;\n- an estimated 26 will have an MR perfusion result indicating that they have HGGs, and of these 13 will have LGGs."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "In the included studies, the diagnosis of LGG or HGG was made by assessing all patients with tissue examination, and a majority underwent resection. This is considered a reliable method for deciding whether patients actually had LGGs or HGGs.\nThe small number of patients that were included in this review is a major limitation to the analysis. Estimates from individual studies and pooled data were variable and/or had a wide range. The numbers reported in the main results above are an average across studies in the review, but it is unknown if MR perfusion will always produce these results. Further, the included studies differed in how MR perfusion was performed, and pooling of data for the analysis may be inappropriate."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "The included studies were carried out in Europe (Italy, Sweden, Spain, France), Asia (Japan) and South America (Brazil) and MR perfusion was mostly performed in university hospitals. Most studies recruited adults so the results may not be representative of children."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "Our results based on 115 patients showed that MR perfusion may detect 66% to 93% of LGGs, which means that 7% to 34% of people with LGGs may be misclassified as having HGGs and thus may undergo early invasive treatment with an accompanying risk of adverse events. Meanwhile, around half of people with HGGs may be misclassified as having LGGs, and thus may suffer from delayed treatment. Due to uncertainty in the estimates this may range from 9% to 90% of patients. Given the wide range of estimates, currently, it cannot be determined how accurate MR perfusion is for differentiating LGGs and HGGs. Future studies to inform evidence would need to include larger numbers of patients with LGG and HGG."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "We searched for and used studies published from 1990 to November 2016."
+    }
+  ]
+}

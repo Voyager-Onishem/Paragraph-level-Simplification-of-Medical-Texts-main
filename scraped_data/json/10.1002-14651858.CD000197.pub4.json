@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD000197.pub4",
+  "name": "Organised inpatient (stroke unit) care for stroke: network meta‐analysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Organised inpatient (stroke unit) care is provided by multi-disciplinary teams that manage stroke patients. This can been provided in a ward dedicated to stroke patients (stroke ward), with a peripatetic stroke team (mobile stroke team), or within a generic disability service (mixed rehabilitation ward). Team members aim to provide co-ordinated multi-disciplinary care using standard approaches to manage common post-stroke problems."
+    },
+    {
+      "heading": "Objectives",
+      "text": "• To assess the effects of organised inpatient (stroke unit) care compared with an alternative service.\n• To use a network meta-analysis (NMA) approach to assess different types of organised inpatient (stroke unit) care for people admitted to hospital after a stroke (the standard comparator was care in a general ward).\nOriginally, we conducted this systematic review to clarify:\n• The characteristic features of organised inpatient (stroke unit) care?\n• Whether organised inpatient (stroke unit) care provide better patient outcomes than alternative forms of care?\n• If benefits are apparent across a range of patient groups and across different approaches to delivering organised stroke unit care?\nWithin the current version, we wished to establish whether previous conclusions were altered by the inclusion of new outcome data from recent trials and further analysis via NMA."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (2 April 2019); the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 4), in the Cochrane Library (searched 2 April 2019); MEDLINE Ovid (1946 to 1 April 2019); Embase Ovid (1974 to 1 April 2019); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 April 2019). In an effort to identify further published, unpublished, and ongoing trials, we searched seven trial registries (2 April 2019). We also performed citation tracking of included studies, checked reference lists of relevant articles, and contacted trialists."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled clinical trials comparing organised inpatient stroke unit care with an alternative service (typically contemporary conventional care), including comparing different types of organised inpatient (stroke unit) care for people with stroke who are admitted to hospital."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors assessed eligibility and trial quality. We checked descriptive details and trial data with co-ordinators of the original trials, assessed risk of bias, and applied GRADE. The primary outcome was poor outcome (death or dependency (Rankin score 3 to 5) or requiring institutional care) at the end of scheduled follow-up. Secondary outcomes included death, institutional care, dependency, subjective health status, satisfaction, and length of stay. We used direct (pairwise) comparisons to compare organised inpatient (stroke unit) care with an alternative service. We used an NMA to confirm the relative effects of different approaches."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 trials (5902 participants) that compared organised inpatient (stroke unit) care with an alternative service: 20 trials (4127 participants) compared organised (stroke unit) care with a general ward, six trials (982 participants) compared different forms of organised (stroke unit) care, and three trials (793 participants) incorporated more than one comparison.\nCompared with the alternative service, organised inpatient (stroke unit) care was associated with improved outcomes at the end of scheduled follow-up (median one year): poor outcome (odds ratio (OR) 0.77, 95% confidence interval (CI) 0.69 to 0.87; moderate-quality evidence), death (OR 0.76, 95% CI 0.66 to 0.88; moderate-quality evidence), death or institutional care (OR 0.76, 95% CI 0.67 to 0.85; moderate-quality evidence), and death or dependency (OR 0.75, 95% CI 0.66 to 0.85; moderate-quality evidence). Evidence was of very low quality for subjective health status and was not available for patient satisfaction. Analysis of length of stay was complicated by variations in definition and measurement plus substantial statistical heterogeneity (I² = 85%). There was no indication that organised stroke unit care resulted in a longer hospital stay. Sensitivity analyses indicated that observed benefits remained when the analysis was restricted to securely randomised trials that used unequivocally blinded outcome assessment with a fixed period of follow-up. Outcomes appeared to be independent of patient age, sex, initial stroke severity, stroke type, and duration of follow-up. When calculated as the absolute risk difference for every 100 participants receiving stroke unit care, this equates to two extra survivors, six more living at home, and six more living independently.\nThe analysis of different types of organised (stroke unit) care used both direct pairwise comparisons and NMA.\nDirect comparison of stroke ward versus general ward: 15 trials (3523 participants) compared care in a stroke ward with care in general wards. Stroke ward care showed a reduction in the odds of a poor outcome at the end of follow-up (OR 0.78, 95% CI 0.68 to 0.91; moderate-quality evidence).\nDirect comparison of mobile stroke team versus general ward: two trials (438 participants) compared care from a mobile stroke team with care in general wards. Stroke team care may result in little difference in the odds of a poor outcome at the end of follow-up (OR 0.80, 95% CI 0.52 to 1.22; low-quality evidence).\nDirect comparison of mixed rehabilitation ward versus general ward: six trials (630 participants) compared care in a mixed rehabilitation ward with care in general wards. Mixed rehabilitation ward care showed a reduction in the odds of a poor outcome at the end of follow-up (OR 0.65, 95% CI 0.47 to 0.90; moderate-quality evidence).\nIn a NMA using care in a general ward as the comparator, the odds of a poor outcome were as follows: stroke ward - OR 0.74, 95% CI 0.62 to 0.89, moderate-quality evidence; mobile stroke team - OR 0.88, 95% CI 0.58 to 1.34, low-quality evidence; mixed rehabilitation ward - OR 0.70, 95% CI 0.52 to 0.95, low-quality evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found moderate-quality evidence that stroke patients who receive organised inpatient (stroke unit) care are more likely to be alive, independent, and living at home one year after the stroke. The apparent benefits were independent of patient age, sex, initial stroke severity, or stroke type, and were most obvious in units based in a discrete stroke ward. We observed no systematic increase in the length of inpatient stay, but these findings had considerable uncertainty."
+    }
+  ],
+  "pls_title": "Organised inpatient (stroke unit) care",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Does organised inpatient (stroke unit) care improve the recovery of people with stroke in hospital compared with conventional care in general wards?"
+    },
+    {
+      "heading": "Background",
+      "text": "Organised inpatient (stroke unit) care is a form of care provided in hospital by nurses, doctors, and therapists who specialise in looking after people with stroke. They aim to work as a co-ordinated team to provide the most appropriate care tailored to the needs of individual people with stroke."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We identified 29 trials involving 5902 participants (search completed 2 April 2019). Participants who were recruited had had a recent stroke and required admission to hospital. Organised inpatient (stroke unit) care was provided in a variety of ways including stroke ward (care provided in a discrete stroke ward), mixed rehabilitation ward (setting seeking to improve care for people with stroke within a mixed rehabilitation ward), and mobile stroke team (peripatetic team looking after people with stroke across a range of wards)."
+    },
+    {
+      "heading": "Key results",
+      "text": "At an average of 12 months after their stroke, people who received organised inpatient (stroke unit) care were more likely to be alive (an extra two people surviving for every 100 receiving stroke unit care; moderate-quality evidence) and living at home (an extra six patients for every 100 receiving stroke unit care; moderate-quality evidence). They also were more likely to be independent in daily activities (an extra six patients for every 100 receiving stroke unit care; moderate-quality evidence). The apparent benefits were seen in men and women, older and younger patients, and people with different types of stroke and different stroke severity. Benefits were most obvious when the stroke unit was based in a discrete stroke ward."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We downgraded the quality of evidence to 'moderate' for the main outcomes because it was impossible to hide the treating service from participants or healthcare workers. These conclusions were not dependent on trials judged to be of lower quality because of poor design or missing data. More information was missing for some of the other outcome measures and analyses, which we have downgraded to low-quality evidence."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "People with stroke who receive organised inpatient (stroke unit) care are more likely to be alive, living at home, and independent in looking after themselves one year after their stroke. Apparent benefits were seen across a broad range of people with stroke. Various types of stroke units have been developed. The best results appear to come from stroke units based in a dedicated stroke ward."
+    }
+  ]
+}

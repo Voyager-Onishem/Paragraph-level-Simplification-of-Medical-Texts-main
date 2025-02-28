@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011292.pub2",
+  "name": "Physical activity for women with breast cancer after adjuvant therapy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Women with a diagnosis of breast cancer may experience short- and long-term disease and treatment-related adverse physiological and psychosocial outcomes. These outcomes can negatively impact prognosis, health-related quality of life (HRQoL), and psychosocial and physical function. Physical activity may help to improve prognosis and may alleviate the adverse effects of adjuvant therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess effects of physical activity interventions after adjuvant therapy for women with breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Breast Cancer Group (CBCG) Specialised Registry, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Physiotherapy Evidence Database (PEDro), SPORTDiscus, PsycINFO, ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform, on 18 September 2015. We also searched OpenGrey and Healthcare Management Information Consortium databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomised and quasi-randomised trials comparing physical activity interventions versus control (e.g. usual or standard care, no physical activity, no exercise, attention control, placebo) after adjuvant therapy (i.e. after completion of chemotherapy and/or radiation therapy, but not hormone therapy) in women with breast cancer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected studies, assessed risk of bias, and extracted data. We contacted trial authors to ask for additional information when needed. We calculated an overall effect size with 95% confidence intervals (CIs) for each outcome and used GRADE to assess the quality of evidence for the most important outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 63 trials that randomised 5761 women to a physical activity intervention (n = 3239) or to a control (n = 2524). The duration of interventions ranged from 4 to 24 months, with most lasting 8 or 12 weeks (37 studies). Twenty-eight studies included aerobic exercise only, 21 involved aerobic exercise and resistance training, and seven used resistance training only. Thirty studies described the comparison group as usual or standard care, no intervention, or control. One-fifth of studies reported at least 20% intervention attrition and the average physical activity adherence was approximately 77%.\nNo data were available on effects of physical activity on breast cancer-related and all-cause mortality, or on breast cancer recurrence. Analysis of immediately postintervention follow-up values and change from baseline to end of intervention scores revealed that physical activity interventions resulted in significant small-to-moderate improvements in HRQoL (standardised mean difference (SMD) 0.39, 95% CI 0.21 to 0.57, 22 studies, 1996 women; SMD 0.78, 95% CI 0.39 to 1.17, 14 studies, 1459 women, respectively; low-quality evidence), emotional function (SMD 0.21, 95% CI 0.10 to 0.32, 26 studies, 2102 women, moderate-quality evidence; SMD 0.31, 95% CI 0.09 to 0.53, 15 studies, 1579 women, respectively; low-quality evidence), perceived physical function (SMD 0.33, 95% CI 0.18 to 0.49, 25 studies, 2129 women; SMD 0.60, 95% CI 0.23 to 0.97, 13 studies, 1433 women, respectively; moderate-quality evidence), anxiety (SMD -0.57, 95% CI -0.95 to -0.19, 7 studies, 326 women; SMD -0.37, 95% CI -0.63 to -0.12, 4 studies, 235 women, respectively; low-quality evidence), and cardiorespiratory fitness (SMD 0.44, 95% CI 0.30 to 0.58, 23 studies, 1265 women, moderate-quality evidence; SMD 0.83, 95% CI 0.40 to 1.27, 9 studies, 863 women, respectively; very low-quality evidence).\nInvestigators reported few minor adverse events.\nSmall improvements in physical activity interventions were sustained for three months or longer postintervention in fatigue (SMD -0.43, 95% CI -0.60 to -0.26; SMD -0.47, 95% CI -0.84 to -0.11, respectively), cardiorespiratory fitness (SMD 0.36, 95% CI 0.03 to 0.69; SMD 0.42, 95% CI 0.05 to 0.79, respectively), and self-reported physical activity (SMD 0.44, 95% CI 0.17 to 0.72; SMD 0.51, 95% CI 0.08 to 0.93, respectively) for both follow-up values and change from baseline scores.\nHowever, evidence of heterogeneity across trials was due to variation in intervention components (i.e. mode, frequency, intensity, duration of intervention and sessions) and measures used to assess outcomes. All trials reviewed were at high risk of performance bias, and most were also at high risk of detection, attrition, and selection bias. In light of the aforementioned issues, we determined that the evidence was of very low, low, or moderate quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "No conclusions regarding breast cancer-related and all-cause mortality or breast cancer recurrence were possible. However, physical activity interventions may have small-to-moderate beneficial effects on HRQoL, and on emotional or perceived physical and social function, anxiety, cardiorespiratory fitness, and self-reported and objectively measured physical activity. The positive results reported in the current review must be interpreted cautiously owing to very low-to-moderate quality of evidence, heterogeneity of interventions and outcome measures, imprecision of some estimates, and risk of bias in many trials. Future studies with low risk of bias are required to determine the optimal combination of physical activity modes, frequencies, intensities, and durations needed to improve specific outcomes among women who have undergone adjuvant therapy."
+    }
+  ],
+  "pls_title": "Physical activity for women with breast cancer who have completed active cancer treatment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What effects do physical activity (PA) interventions have on women with breast cancer who have completed cancer treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "After receiving breast cancer treatment, women may experience adverse mental and physical events caused by the cancer and by its treatment. These adverse events can result in a shorter life after treatment and can have a negative impact on quality of life (QoL) and on physical and mental health. Some studies suggest that being regularly physically active after treatment might lower the chance that breast cancer may come back, or that women may die of breast cancer. Regular PA may lead to a wide range of other beneficial effects, including improved QoL, mental health, and physical function. We wanted to determine whether PA has an effect on risk of recurrence and dying from breast cancer, QoL, and other aspects of well-being in women who had breast cancer after treatment."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included only studies consisting of women with breast cancer who had completed active cancer treatment. These studies compared outcomes of women involved in PA interventions versus outcomes of those who were offered usual care or no PA. Participants must have been assigned to a group in random or somewhat random fashion. The evidence is current to September 2015."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review includes 63 trials involving 5761 participants. Most trials (28) consisted of aerobic exercise (e.g. walking, cycling, dance), whereas seven trials included a resistance training-only group, and 21 trials included a combined aerobic exercise and resistance training group. One in five participants placed in a PA intervention group dropped out before the end of the study, and on average one-quarter of target PA sessions were missed by participants. We found no studies that looked at effects of PA after cancer treatment on risk of recurrence or dying from breast cancer or any other cause. We found that participants performing PA had more favourable values by the end of the intervention and experienced greater positive changes over the intervention period in terms of QoL, views on their emotional health and physical ability, social function, feelings of worry, stamina, PA levels, body fat, and strength of muscles, compared with usual care participants. Researchers found no effects on perceived health, ability to sleep, feelings of pain, sexual function, body mass index, waist-to-hip girth ratio, and bone health of the upper and lower spine or hip. At least three months after completion of the intervention, actual values and changes from the start of the intervention in feelings of tiredness, stamina, and self-reported PA levels remained more favourable in participants given PA intervention than in those given usual care. Both aerobic exercise only and combined aerobic and resistance training interventions improved QoL and stamina. Aerobic exercise improved views on perceived emotional health and physical ability, as well as social function and self-reported PA levels, whereas resistance training resulted in greater improvement in muscle strength. Combined aerobic and resistance training interventions led to reduced feelings of tiredness. Trialists reported few minor adverse events among those given PA interventions."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of evidence related to various aspects of health as very low, low, or moderate. We noted wide variation among the interventions that we looked at in terms of types of PA, frequency of sessions per week, levels of effort among participants, and session and intervention duration. Also, researchers measured aspects of health in many different ways. Other problems with eligible studies included lack of information on how study authors placed participants in groups at random, whether researchers who were carrying out the tests knew which group the person being tested belonged to, and how researchers dealt with data missing from their studies. In many aspects, we could not rule out the chance that positive effects observed were small enough that they were not important. It is also possible that smaller studies that have not found favourable effects of PA in women with breast cancer after treatment have not been published, because study authors often find it difficult to publish studies that have not found beneficial effects."
+    }
+  ]
+}

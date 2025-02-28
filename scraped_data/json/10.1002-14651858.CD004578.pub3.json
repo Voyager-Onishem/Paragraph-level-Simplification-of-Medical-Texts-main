@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004578.pub3",
+  "name": "Aripiprazole for schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Treatment of people with schizophrenia using older typical antipsychotic drugs such as haloperidol can be problematic. Many fail to respond to these older antipsychotics and more people experience disabling adverse effects. Aripiprazole is said to be one of a new generation of atypical antipsychotics with good antipsychotic properties and minimal adverse effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of aripiprazole for people with schizophrenia and schizophrenia-like psychoses."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Register (September 2005) which is based on regular searches of BIOSIS, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO. We inspected references of all identified studies for further trials. We contacted relevant pharmaceutical companies, the FDA and authors of trials for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All clinical randomised trials comparing aripiprazole with placebo, typical or atypical antipsychotic drugs for schizophrenia and schizophrenia-like psychoses."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For homogenous dichotomous data we calculated random effects, relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat (NNT) on an intention-to-treat basis. For continuous data, we calculated weighted mean differences (WMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Despite the fact that 7110 people participated in fifteen randomised aripiprazole studies, we were unable to extract any usable data on death, service outcomes, general functioning, behaviour, engagement with services, satisfaction with treatment; economic outcomes or cognitive functioning. Study attrition was very large and data reporting poor. Compared with placebo, aripiprazole significantly decreased relapse in both the short and medium term (n=300, 1 RCT, RR 0.66 CI 0.5 to 0.8, NNT 5 CI 4 to 8). It also produced better compliance with study protocol (n=2271, 8 RCTs, RR 0.72 CI 0.5 to 0.97, NNT 26 CI 16 to 239). Aripiprazole may decrease prolactin levels below that expected from placebo (n=305, 1 RCT, RR 0.32 CI 0.1 to 0.8, NNT 14 CI 11 to 50). Compared with typical antipsychotics there were no significant benefits for aripiprazole with regards to global state, mental state, quality of life or leaving the study early. Both groups reported similar rates of adverse effects, with the exception of akathisia (n= 955 RR 0.31 CI 0.2 to 0.6, NNT 20 CI 17 to 32) and the need for antiparkinson medication (n=1854, 4 RCTs, RR 0.45 CI 0.3 to 0.6, NNT 4 CI 3 to 5) which were lower in those receiving aripiprazole. When compared with olanzapine and risperidone, aripiprazole was no better or worse on outcomes of global state and leaving the study early. The rates of adverse effects were also similar, with the exception of less elevation of prolactin (n=301, 1 RCT, RR 0.04 CI 0.02 to 0.1, NNT 2 CI 1 to 2.5) and less prolongation of the average QTc (30 mg/day) (n=200, 1 RCT, WMD -10.0, CI -16.99 to -3.0) compared with risperidone. When compared with standard care (mixed group receiving typical and atypical antipsychotics) one aripiprazole study did have significantly less people not responding to treatment (n=1599, RR 0.70 CI 0.7 to 0.8, NNT 5 CI 4 to 6 ), not satisfied with care (n=1599, RR 0.62 CI 0.6 to 0.7, NNT 4 CI 4 to 5) and less people leaving the study early (n=1599, 1 RCT, RR 0.81 CI 0.7 to 0.9, NNT 13 CI 8 to 39). Results from the five new papers identified from the updated review search, did not significantly alter the main results or conclusions of the original review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Aripiprazole may be effective for the treatment of schizophrenia, but it does not differ greatly from typical and atypical antipsychotics with respect to treatment response, efficacy or tolerability. In comparison with typical antipsychotics, aripiprazole may have a lower risk of akathisia, and in comparison to atypical antipsychotics, less risk of raised prolactin and prolongation of the QTc interval. Clearly reported pragmatic short, medium and long term randomised controlled trials should be undertaken to determine its position in everyday clinical practice."
+    }
+  ],
+  "pls_title": "Aripiprazole for schizophrenia",
+  "pls_type": "long",
+  "pls": "Schizophrenia is a serious, chronic and relapsing mental illness with a worldwide lifetime prevalence of about one percent. \n\nFirst generation 'typical' antipsychotics such as chlorpromazine and haloperidol have been the mainstay of treatment up until the introduction of the second generation 'atypical' antipsychotics such as risperidone and olanzapine. Typical and atypical antipsychotics do provide a treatment response for most people with schizophrenia, whether that is a reduction in psychotic episodes or a lessening in the severity of their illness. However, a proportion of people still do not respond adequately to antipsychotic medication. Additionally, atypical and especially typical antipsychotics are associated with serious adverse effects which can often compromise compliance with medication and therefore increase the incidences of relapse."
+}

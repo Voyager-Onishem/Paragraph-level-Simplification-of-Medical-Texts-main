@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000427",
+  "name": "Preoxygenation for tracheal suctioning in intubated, ventilated newborn infants",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Endotracheal suctioning for mechanically ventilated infants is routine practice in neonatal intensive care. However, this practice is associated with serious complications including lobar collapse, pneumothorax, bradycardia and hypoxaemia. Increasing the inspired oxygen immediately prior to suction (preoxygenation) has been proposed as an intervention that may minimise the risk of these complications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effects of preoxygenation with no preoxygenation for endotracheal suctioning on ventilated newborn infants. To conduct subgroup analyses by i) by gestational age and by underlying disease (infants with or without chronic lung disease) and; ii) by different techniques of endotracheal suctioning."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Updated searches of MEDLINE (search via PubMed), CINAHL, EMBASE and The Cochrane Library from 2007 to January 31, 2009. \nSearch terms: oxygen*, suction*, preoxygenation, pre-oxygenation. Limits: human, newborn infant and clinical trial. No language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Random or quasi-random controlled trials of mechanically ventilated neonates in which endotracheal suctioning with preoxygenation was compared to suctioning without preoxygenation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Standard methods of the Cochrane Collaboration and the Neonatal Review Group were used, including independent assessment of trial quality and extraction of data by the authors. Data were analysed using relative risk (RR) and risk difference (RD) for dichotomous outcomes and mean difference (MD) for data measured on a continuous scale with the use of 95% confidence intervals."
+    },
+    {
+      "heading": "Main results",
+      "text": "One cross-over trial involving outcomes for 16 preterm neonates was included in this review (Walsh 1987). Preoxygenation prior to an endotracheal suctioning procedure involving two suctions resulted in a statistically significant reduction in infants with hypoxaemia (Tc PO2 <40 mmHg) at the end of the first suction (RR 0.18, 95% CI 0.05, 0.69), at the end of the second suction (RR 0.23, 95% CI 0.08, 0.66) and also at 120 seconds after the second suction (RR 0.10, 95% CI 0.01, 0.69). Mean Tc PO2 was statistically significantly higher in the preoxygenation group at the end of the first suction (MD 25.00 mmHg, 95%CI 14.20, 35.80), second suction (MD 24.80, 95% CI 14.80, 34.80) and also at 120 seconds after the second suction (MD 29.10, 95% CI 14.96, 43.24). The time taken to return to baseline oxygenation status was shorter than the group not receiving preoxygenation (MD -2.12 minutes, 95% CI -3.82, -0.42)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review does not provide sufficient evidence on which to base practice. Although preoxygenation was shown to decrease hypoxemia at the time of suctioning, this result comes from only one small poor quality trial in which other clinically important outcomes were not assessed. Further studies are needed."
+    }
+  ],
+  "pls_title": "Preoxygenation for tracheal suctioning in intubated, ventilated newborn infants",
+  "pls_type": "long",
+  "pls": "There is not enough evidence to demonstrate the effects of giving oxygen before tracheal suctioning for preterm babies receiving mechanical ventilation. A baby born too early (before 34 weeks gestation) often has immature lungs. This is a major cause of breathing failure and death. Mechanical ventilation (machine assisted breathing) keeps the baby breathing and reduces the risk of lung injury and disease. Endotracheal suctioning (removing unwanted fluid through the windpipe) is a routine part of mechanical ventilation, but can have serious complications such as pneumothorax (air in the lung cavity) and bradycardia (slow heart rate). Giving oxygen just before suctioning (preoxygenation) may minimise the risk of these complications. The review of trials did not find enough evidence on the effects of preoxygenation. More research is needed."
+}

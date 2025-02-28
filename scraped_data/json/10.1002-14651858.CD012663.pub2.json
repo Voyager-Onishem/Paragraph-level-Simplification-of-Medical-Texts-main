@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012663.pub2",
+  "name": "Prostate MRI, with or without MRI‐targeted biopsy, and systematic biopsy for detecting prostate cancer ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Multiparametric magnetic resonance imaging (MRI), with or without MRI-targeted biopsy, is an alternative test to systematic transrectal ultrasonography-guided biopsy in men suspected of having prostate cancer. At present, evidence on which test to use is insufficient to inform detailed evidence-based decision-making."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of the index tests MRI only, MRI-targeted biopsy, the MRI pathway (MRI with or without MRI-targeted biopsy) and systematic biopsy as compared to template-guided biopsy as the reference standard in detecting clinically significant prostate cancer as the target condition, defined as International Society of Urological Pathology (ISUP) grade 2 or higher. Secondary target conditions were the detection of grade 1 and grade 3 or higher-grade prostate cancer, and a potential change in the number of biopsy procedures."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed a comprehensive systematic literature search up to 31 July 2018. We searched CENTRAL, MEDLINE, Embase, eight other databases and one trials register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion any cross-sectional study if it investigated one or more index tests verified by the reference standard, or if it investigated the agreement between the MRI pathway and systematic biopsy, both performed in the same men. We included only studies on men who were biopsy naïve or who previously had a negative biopsy (or a mix of both). Studies involving MRI had to report on both MRI-positive and MRI-negative men. All studies had to report on the primary target condition."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two reviewers independently extracted data and assessed the risk of bias using the QUADAS-2 tool. To estimate test accuracy, we calculated sensitivity and specificity using the bivariate model. To estimate agreement between the MRI pathway and systematic biopsy, we synthesised detection ratios by performing random-effects meta-analyses. To estimate the proportions of participants with prostate cancer detected by only one of the index tests, we used random-effects multinomial or binary logistic regression models. For the main comparisions, we assessed the certainty of evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The test accuracy analyses included 18 studies overall.\nMRI compared to template-guided biopsy: Based on a pooled sensitivity of 0.91 (95% confidence interval (CI): 0.83 to 0.95; 12 studies; low certainty of evidence) and a pooled specificity of 0.37 (95% CI: 0.29 to 0.46; 12 studies; low certainty of evidence) using a baseline prevalence of 30%, MRI may result in 273 (95% CI: 249 to 285) true positives, 441 false positives (95% CI: 378 to 497), 259 true negatives (95% CI: 203 to 322) and 27 (95% CI: 15 to 51) false negatives per 1000 men. We downgraded the certainty of evidence for study limitations and inconsistency.\nMRI-targeted biopsy compared to template-guided biopsy: Based on a pooled sensitivity of 0.80 (95% CI: 0.69 to 0.87; 8 studies; low certainty of evidence) and a pooled specificity of 0.94 (95% CI: 0.90 to 0.97; 8 studies; low certainty of evidence) using a baseline prevalence of 30%, MRI-targeted biopsy may result in 240 (95% CI: 207 to 261) true positives, 42 (95% CI: 21 to 70) false positives, 658 (95% CI: 630 to 679) true negatives and 60 (95% CI: 39 to 93) false negatives per 1000 men. We downgraded the certainty of evidence for study limitations and inconsistency.\nThe MRI pathway compared to template-guided biopsy: Based on a pooled sensitivity of 0.72 (95% CI: 0.60 to 0.82; 8 studies; low certainty of evidence) and a pooled specificity of 0.96 (95% CI: 0.94 to 0.98; 8 studies; low certainty of evidence) using a baseline prevalence of 30%, the MRI pathway may result in 216 (95% CI: 180 to 246) true positives, 28 (95% CI: 14 to 42) false positives, 672 (95% CI: 658 to 686) true negatives and 84 (95% CI: 54 to 120) false negatives per 1000 men. We downgraded the certainty of evidence for study limitations, inconsistency and imprecision.\nSystemic biopsy compared to template-guided biopsy: Based on a pooled sensitivity of 0.63 (95% CI: 0.19 to 0.93; 4 studies; low certainty of evidence) and a pooled specificity of 1.00 (95% CI: 0.91 to 1.00; 4 studies; low certainty of evidence) using a baseline prevalence of 30%, systematic biopsy may result in 189 (95% CI: 57 to 279) true positives, 0 (95% CI: 0 to 63) false positives, 700 (95% CI: 637 to 700) true negatives and 111 (95% CI: 21 to 243) false negatives per 1000 men. We downgraded the certainty of evidence for study limitations and inconsistency.\nAgreement analyses: In a mixed population of both biopsy-naïve and prior-negative biopsy men comparing the MRI pathway to systematic biopsy, we found a pooled detection ratio of 1.12 (95% CI: 1.02 to 1.23; 25 studies). We found pooled detection ratios of 1.44 (95% CI 1.19 to 1.75; 10 studies) in prior-negative biopsy men and 1.05 (95% CI: 0.95 to 1.16; 20 studies) in biopsy-naïve men."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Among the diagnostic strategies considered, the MRI pathway has the most favourable diagnostic accuracy in clinically significant prostate cancer detection. Compared to systematic biopsy, it increases the number of significant cancer detected while reducing the number of insignificant cancer diagnosed. The certainty in our findings was reduced by study limitations, specifically issues surrounding selection bias, as well as inconsistency. Based on these findings, further improvement of prostate cancer diagnostic pathways should be pursued."
+    }
+  ],
+  "pls_title": "Is prostate MRI, with or without MRI-targeted biopsy, better than systematic biopsy for detecting prostate cancer in men?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Many prostate cancers are slow growing and may not have any harmful effects during a man's lifetime. Meanwhile, clinically significant cancers can cause problems such as blockage of the urinary tract, painful bone lesions and death. The prostate-specific antigen (PSA) test followed by tissue samples of the prostate with ultrasound guidance is often used to detect these cancers early. More recently, magnetic resonance imaging (MRI) has also been used to help make the diagnosis."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this review was to compare MRI alone, MRI together with a biopsy, and a pathway that uses MRI to help decide whether to do a biopsy or not (hereinafter named ‘the MRI pathway’) with the standard ultrasound guided biopsy (hereinafter called ‘systematic biopsy’) in reference to template-guided biopsy."
+    },
+    {
+      "heading": "What are the main results?",
+      "text": "We examined evidence up to July 2018. The review included 43 studies, mainly from Western countries, of men aged 61 to 73 years.\nIn a population of 1000 men at risk for prostate cancer, where 300 men actually have clinically significant prostate cancer, MRI will correctly identify 273 men as having clinically significant prostate cancer but miss the remaining 27 men; for the 700 men that do not have clinically significant prostate cancer, MRI will correctly identify 259 as not having prostate cancer but will misclassify 441 men as having clinically significant prostate cancer.\nIn the same population, MRI-targeted biopsy will correctly identify 240 of 300 men as having clinically significant prostate cancer but miss the remaining 60 men; for the 700 men that do not have clinically significant prostate cancer, MRI will correctly identify 658 as not having prostate cancer but misclassify 42 men as having clinically significant prostate cancer.\nThe MRI pathway will correctly identify 216 of 300 men as having clinically significant prostate cancer but miss the remaining 84 men; for the 700 men that do not have clinically significant prostate cancer, MRI pathway will correctly identify 672 as not having prostate cancer but will misclassify 28 men as having clinically significant prostate cancer.\nSystematic biopsies will correctly identify 189 of 300 men as having clinically significant prostate cancer but miss the remaining 111 men; for the 700 men that do not have clinically significant prostate cancer, systematic biopsies may correctly identify all 700 as not having prostate cancer and will not misclassify any men as having clinically significant prostate cancer.\nWhen comparing the MRI pathway to systematic biopsy in a mixed group of men who may or may not have had a prior biopsy, we found that MRI pathway is 12% more likely to make the correct diagnosis. In men without a prior biopsy, the MRI pathway is 5% more likely to make the correct diagnosis, whereas in men who have had a negative biospy, it is 44% more likely to make the correct diagnosis."
+    },
+    {
+      "heading": "How reliable is the evidence?",
+      "text": "We rated the quality of evidence for the main findings of this review as low. Additional high-quality research is likely to change these findings."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "The findings of this Cochrane review suggest that the MRI pathway is better than systematic biopsies in making a correct diagnosis of clinically significant prostate cancer. However, the MRI pathway still misses some men with clinically significant prostate cancer. Therefore, further research in this area is important."
+    }
+  ]
+}

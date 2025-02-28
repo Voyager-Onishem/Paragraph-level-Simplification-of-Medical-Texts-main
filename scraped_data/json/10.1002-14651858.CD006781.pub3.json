@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006781.pub3",
+  "name": "Aminophylline for bradyasystolic cardiac arrest in adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "In cardiac ischaemia, the accumulation of adenosine may lead to or exacerbate bradyasystole and diminish the effectiveness of catecholamines administered during resuscitation. Aminophylline is a competitive adenosine antagonist. Case studies suggest that aminophylline may be effective for atropine-resistant bradyasystolic arrest."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effects of aminophylline in the treatment of patients in bradyasystolic cardiac arrest, primarily survival to hospital discharge. We also considered survival to admission, return of spontaneous circulation, neurological outcomes and adverse events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this updated review, we searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, CINAHL, LILACS, ClinicalTrials.gov and WHO International Clinical Trials Registry Platform in November 2014. We checked the reference lists of retrieved articles, reviewed conference proceedings, contacted experts and searched further using Google."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials comparing intravenous aminophylline with administered placebo in adults with non-traumatic, normothermic bradyasystolic cardiac arrest who were treated with standard advanced cardiac life support (ACLS)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently reviewed the studies and extracted the included data. We contacted study authors when needed. Pooled risk ratio (RR) was estimated for each study outcome. Subgroup analysis was predefined according to the timing of aminophylline administration."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five trials in this analysis, all of which were performed in the prehospital setting. The risk of bias was low in four of these studies (n = 1186). The trials accumulated 1254 participants. Aminophylline was found to have no effect on survival to hospital discharge (risk ratio (RR) 0.58, 95% confidence interval (CI) 0.12 to 2.74) or on secondary survival outcome (survival to hospital admission: RR 0.92, 95% CI 0.61 to 1.39; return of spontaneous circulation: RR 1.15, 95% CI 0.89 to 1.49). Survival was rare (6/1254), making data about neurological outcomes and adverse events quite limited. The planned subgroup analysis for early administration of aminophylline included 37 participants. No one in the subgroup survived to hospital discharge."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The prehospital administration of aminophylline in bradyasystolic arrest is not associated with improved return of circulation, survival to admission or survival to hospital discharge. The benefits of aminophylline administered early in resuscitative efforts are not known."
+    }
+  ],
+  "pls_title": "Aminophylline for cardiac arrest",
+  "pls_type": "long",
+  "pls": "Aminophylline is a drug that might help resuscitate patients in cardiac arrest when electrical activity is very slow or absent. Aminophylline may restore blood flow to the heart, improve electrical activity and make other drugs used in resuscitation more effective. We found five studies that included 1254 patients who had this type of cardiac arrest in the prehospital setting. Four of the five studies (1186 patients) were well-designed studies with low risk of bias. Although no adverse events were reported, aminophylline showed no advantage when it was added to the standard resuscitation practice of paramedics when compared with placebo in these patients. It is not known whether giving aminophylline sooner would be helpful."
+}

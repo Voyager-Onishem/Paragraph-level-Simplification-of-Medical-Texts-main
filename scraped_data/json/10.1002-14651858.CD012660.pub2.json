@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD012660.pub2",
+  "name": "Transcutaneous bilirubinometry versus total serum bilirubin measurement for newborns",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Jaundice is a very common condition in newborns, affecting up to 60% of term newborns and 80% of preterm newborns in the first week of life. Jaundice is caused by increased bilirubin in the blood from the breakdown of red blood cells. The gold standard for measuring bilirubin levels is obtaining a blood sample and processing it in a laboratory. However, noninvasive transcutaneous bilirubin (TcB) measurement devices are widely available and used in many settings to estimate total serum bilirubin (TSB) levels."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of transcutaneous bilirubin measurement for detecting hyperbilirubinaemia in newborns."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, CINAHL and trial registries up to 18 August 2022. We also checked the reference lists of all included studies and relevant systematic reviews for other potentially eligible studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included cross-sectional and prospective cohort studies that evaluated the accuracy of any TcB device compared to TSB measurement in term or preterm newborn infants (0 to 28 days postnatal age). All included studies provided sufficient data and information to create a 2 × 2 table for the calculation of measures of diagnostic accuracy, including sensitivities and specificities. We excluded studies that only reported correlation coefficients."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the eligibility criteria to all citations from the search and extracted data from the included studies using a standard data extraction form. We summarised the available results narratively and, where possible, we combined study data in a meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 studies, involving 5058 participants. All studies had low risk of bias as measured by the QUADAS 2 tool. The studies were conducted in different countries and settings, included newborns of different gestational and postnatal ages, compared various TcB devices (including the JM 101, JM 102, JM 103, BiliChek, Bilitest and JH20-1C) and used different cutoff values for a positive result. In most studies, the TcB measurement was taken from the forehead, sternum, or both. The sensitivity of various TcB cutoff values to detect significant hyperbilirubinaemia ranged from 74% to 100%, and specificity ranged from 18% to 89%."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The high sensitivity of TcB to detect hyperbilirubinaemia suggests that TcB devices are reliable screening tests for ruling out hyperbilirubinaemia in newborn infants. Positive test results would require confirmation through serum bilirubin measurement."
+    }
+  ],
+  "pls_title": "Is measuring bilirubin levels through the skin a reliable alternative to measuring bilirubin levels in the blood of newborns?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "The studies included in this review suggest that measuring bilirubin levels through the skin without a needle can identify high bilirubin levels in newborns."
+    },
+    {
+      "heading": "Why is it important to diagnose high bilirubin levels in newborns?",
+      "text": "Bilirubin is a substance produced through the breakdown of red blood cells. Jaundice is a very common problem in the newborn period and results from high levels of bilirubin in the blood (hyperbilirubinaemia). It is important to detect hyperbilirubinaemia early to prevent unwanted consequences such as brain damage."
+    },
+    {
+      "heading": "What is transcutaneous bilirubin measurement?",
+      "text": "The usual procedure for measuring bilirubin in newborns is to collect a sample of blood (by making a small cut in the heel or inserting a needle into a vein, which can be painful for the infant) and test it in the laboratory (total serum bilirubin measurement). However, there are devices that measure bilirubin by sending a flash of light through the skin (transcutaneous bilirubin measurement). This method is painless and gives an almost immediate result."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out whether transcutaneous bilirubin measurement devices could accurately diagnose hyperbilirubinaemia."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that had investigated the accuracy of transcutaneous bilirubin measurement compared with total serum bilirubin measurement. We had intended to combine the results across studies using statistical methods but were unable to; instead, we presented the results narratively."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 23 studies (5058 participants) that were conducted in different countries and settings, used different transcutaneous bilirubin measuring devices, and defined hyperbilirubinaemia with different bilirubin values. Some of the infants were premature and others were born at term (from 37 weeks' pregnancy); their ages ranged from birth to one month of life. Overall, the findings of the studies suggest that transcutaneous bilirubin measurement is a good screening tool for detecting hyperbilirubinaemia in newborns. The included studies found different degrees or levels of accuracy for the use of transcutaneous bilirubin measurement. However, due to the differences between studies, we could not provide an overall combined summary of the accuracy of the different tests. The differences in these studies included factors like the threshold values for hyperbilirubinaemia, the types of transcutaneous bilirubin measuring devices, and age and ethnicity/skin colour of the included infants."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The included studies were of high methodological quality. However, we reported the results narratively and did not formally evaluate the quality of evidence using GRADE."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to August 2022."
+    }
+  ]
+}

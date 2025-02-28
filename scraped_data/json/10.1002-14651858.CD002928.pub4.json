@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD002928.pub4",
+  "name": "Enhancing partner support to improve smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "While many cessation programmes are available to assist smokers in quitting, research suggests that support from individual partners, family members, or 'buddies' may encourage abstinence."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine if an intervention to enhance one-to-one partner support for smokers attempting to quit improves smoking cessation outcomes, compared with cessation interventions lacking a partner-support component."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We limited the search to the Cochrane Tobacco Addiction Group Specialised Register, which was updated in April 2018. This includes the results of searches of the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (via OVID); Embase (via OVID); and PsycINFO (via OVID). The search terms used were smoking (prevention, control, therapy), smoking cessation and support (family, marriage, spouse, partner, sexual partner, buddy, friend, cohabitant and co-worker). We also reviewed the bibliographies of all included articles for additional trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials recruiting people who smoked. Trials were eligible if they had at least one treatment arm that included a smoking cessation intervention with a partner-support component, compared to a control condition providing behavioural support of similar intensity, without a partner-support component. Trials were also required to report smoking cessation at six months follow-up or more."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently identified the included studies from the search results, and extracted data using a structured form. A third review author helped resolve discrepancies, in line with standard methodological procedures expected by Cochrane. Smoking abstinence, biochemically verified where possible, was the primary outcome measure and was extracted at two post-treatment intervals where possible: at six to nine months and at 12 months or longer. We used a random-effects model to pool risk ratios from each study and estimate a summary effect."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our update search identified 465 citations, which we assessed for eligibility. Three new studies met the criteria for inclusion, giving a total of 14 included studies (n = 3370). The definition of partner varied among the studies. We compared partner support versus control interventions at six- to nine-month follow-up and at 12 or more months follow-up. We also examined outcomes among three subgroups: interventions targeting relatives, friends or coworkers; interventions targeting spouses or cohabiting partners; and interventions targeting fellow cessation programme participants. All studies gave self-reported smoking cessation rates, with limited biochemical verification of abstinence. The pooled risk ratio (RR) for abstinence was 0.97 (95% confidence interval (CI) 0.83 to 1.14; 12 studies; 2818 participants) at six to nine months, and 1.04 (95% CI 0.88 to 1.22; 7 studies; 2573 participants) at 12 months or more post-treatment. Of the 11 studies that measured partner support at follow-up, only two reported a significant increase in partner support in the intervention groups. One of these studies reported a significant increase in partner support in the intervention group, but smokers' reports of partner support received did not differ significantly. We judged one of the included studies to be at high risk of selection bias, but a sensitivity analysis suggests that this did not have an impact on the results. There were also potential issues with detection bias due to a lack of validation of abstinence in five of the 14 studies; however, this is not apparent in the statistically homogeneous results across studies. Using the GRADE system we rated the overall quality of the evidence for the two primary outcomes as low. We downgraded due to the risk of bias, as we judged studies with a high weighting in analyses to be at a high risk of detection bias. In addition, a study in both analyses was insufficiently randomised. We also downgraded the quality of the evidence for indirectness, as very few studies provided any evidence that the interventions tested actually increased the amount of partner support received by participants in the relevant intervention group."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Interventions that aim to enhance partner support appear to have no impact on increasing long-term abstinence from smoking. However, most interventions that assessed partner support showed no evidence that the interventions actually achieved their aim and increased support from partners for smoking cessation. Future research should therefore focus on developing behavioural interventions that actually increase partner support, and test this in small-scale studies, before large trials assessing the impact on smoking cessation can be justified."
+    }
+  ],
+  "pls_title": "Do interventions to enhance one-to-one support provided by partners, family members, or 'buddies' help smokers quit?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Smokers are more likely to quit when others in their social circle quit. They are also more likely to be successful when they receive active support to quit. Life partners, family members, friends, and others are all viable sources of support. This review investigated whether interventions designed to train or guide individuals to provide support to smokers trying to quit helped more smokers to quit than stop-smoking programmes without a partner-support element."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This is an update of previous reviews. We searched for studies published up to April 2018, and found three new studies that we could include, giving a total of 14 studies with 3370 participants. Studies had to be randomised controlled trials that recruited smokers trying to quit, and measured whether participants had quit smoking at least six months after the beginning of the study. The study had to include at least one group who were part of a stop-smoking programme to increase partner support, and at least one group who received a comparable stop-smoking programme without partner support. Most of the studies were conducted in the USA. At recruitment the average amount participants smoked was between 13 to 29 cigarettes a day across studies. The smoking status of partners providing support varied, but most were non-smokers. Intervention techniques ranged from low to high intensity; in some cases help was by a self-help booklet and in other cases by face-to-face counselling. In some studies researchers did not make direct contact with 'partners' and the smokers themselves were encouraged to find a 'buddy', but in other studies both the smoker and their 'buddy' received face-to-face support."
+    },
+    {
+      "heading": "Key results",
+      "text": "We combined 12 studies (2818 participants) to measure successful quitting at six to nine months follow-up, and seven studies (2573 participants) to measure quitting at 12-month follow-up. Partner support did not increase the chances of stopping smoking at either time point. We also split the studies in each analysis based on the type of partner giving support (relatives/friends/co-workers versus spouses/cohabiting partners versus fellow cessation-programme participants). There was no difference in quit rates between study groups, regardless of the type of partner providing the support. Only one study reported that partner support improved more in the group given the partner-support intervention than in the group where no partner-support intervention was provided. Another study reported that partner support improved more in a more intensive partner-support intervention than a less intensive partner-support intervention."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the overall quality of the evidence as low. This is because there were problems with the design of some of the studies. A number of important studies only used participant self-report to measure if people had quit smoking, and there is a chance that these reports may have been inaccurate. Also, very few studies found that the intervention actually increased the level of partner support that participants received. This review therefore cannot tell us whether receiving more support from a partner can help a person to give up smoking."
+    }
+  ]
+}

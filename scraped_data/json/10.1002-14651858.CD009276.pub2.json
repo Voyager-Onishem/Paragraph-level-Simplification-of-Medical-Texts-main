@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009276.pub2",
+  "name": "Guaiac‐based faecal occult blood tests versus faecal immunochemical tests for colorectal cancer screening in average‐risk individuals ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Worldwide, many countries have adopted colorectal cancer (CRC) screening programmes, often based on faecal occult blood tests (FOBTs). CRC screening aims to detect advanced neoplasia (AN), which is defined as CRC or advanced adenomas. FOBTs fall into two categories based on detection technique and the detected blood component: qualitative guaiac-based FOBTs (gFOBTs) and faecal immunochemical tests (FITs), which can be qualitative and quantitative. Screening with gFOBTs reduces CRC-related mortality."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the diagnostic test accuracy of gFOBT and FIT screening for detecting advanced colorectal neoplasia in average-risk individuals."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, BIOSIS Citation Index, Science Citation Index Expanded, and Google Scholar. We searched the reference lists and PubMed-related articles of included studies to identify additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included prospective and retrospective studies that provided the number of true positives, false positives, false negatives, and true negatives for gFOBTs, FITs, or both, with colonoscopy as reference standard. We excluded case-control studies. We included studies in which all participants underwent both index test and reference standard (\"reference standard: all\"), and studies in which only participants with a positive index test underwent the reference standard while participants with a negative test were followed for at least one year for development of interval carcinomas (\"reference standard: positive\"). The target population consisted of asymptomatic, average-risk individuals undergoing CRC screening. The target conditions were CRC and advanced neoplasia (advanced adenomas and CRC combined)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened and selected studies for inclusion. In case of disagreement, a third review author made the final decision. We used the Rutter and Gatsonis hierarchical summary receiver operating characteristic model to explore differences between tests and identify potential sources of heterogeneity, and the bivariate hierarchical model to estimate sensitivity and specificity at common thresholds: 10 µg haemoglobin (Hb)/g faeces and 20 µg Hb/g faeces. We performed indirect comparisons of the accuracy of the two tests and direct comparisons when both index tests were evaluated in the same population."
+    },
+    {
+      "heading": "Main results",
+      "text": "We ran the initial search on 25 June 2019, which yielded 63 studies for inclusion. We ran a top-up search on 14 September 2021, which yielded one potentially eligible study, currently awaiting classification.\nWe included a total of 33 \"reference standard: all\" published articles involving 104,640 participants. Six studies evaluated only gFOBTs, 23 studies evaluated only FITs, and four studies included both gFOBTs and FITs. The cut-off for positivity of FITs varied between 2.4 μg and 50 µg Hb/g faeces. For each Quality Assessment of Diagnostic Accuracy Studies (QUADAS)-2 domain, we assessed risk of bias as high in less than 20% of studies. The summary curve showed that FITs had a higher discriminative ability than gFOBTs for AN (P < 0.001) and CRC (P = 0.004). For the detection of AN, the summary sensitivity of gFOBTs was 15% (95% confidence interval (CI) 12% to 20%), which was significantly lower than FITs at both 10 μg and 20 μg Hb/g cut-offs with summary sensitivities of 33% (95% CI 27% to 40%; P < 0.001) and 26% (95% CI 21% to 31%, P = 0.002), respectively. Results were simulated in a hypothetical cohort of 10,000 screening participants with 1% CRC prevalence and 10% AN prevalence. Out of 1000 participants with AN, gFOBTs missed 850, while FITs missed 670 (10 μg Hb/g cut-off) and 740 (20 μg Hb/g cut-off). No significant differences in summary specificity for AN detection were found between gFOBTs (94%; 95% CI 92% to 96%), and FITs at 10 μg Hb/g cut-off (93%; 95% CI 90% to 95%) and at 20 μg Hb/g cut-off (97%; 95% CI 95% to 98%). So, among 9000 participants without AN, 540 were offered (unnecessary) colonoscopy with gFOBTs compared to 630 (10 μg Hb/g) and 270 (20 μg Hb/g) with FITs. Similarly, for the detection of CRC, the summary sensitivity of gFOBTs, 39% (95% CI 25% to 55%), was significantly lower than FITs at 10 μg and 20 μg Hb/g cut-offs: 76% (95% CI 57% to 88%: P = 0.001) and 65% (95% CI 46% to 80%; P = 0.035), respectively. So, out of 100 participants with CRC, gFOBTs missed 61, and FITs missed 24 (10 μg Hb/g) and 35 (20 μg Hb/g). No significant differences in summary specificity for CRC were found between gFOBTs (94%; 95% CI 91% to 96%), and FITs at the 10 μg Hb/g cut-off (94%; 95% CI 87% to 97%) and 20 μg Hb/g cut-off (96%; 95% CI 91% to 98%). So, out of 9900 participants without CRC, 594 were offered (unnecessary) colonoscopy with gFOBTs versus 594 (10 μg Hb/g) and 396 (20 μg Hb/g) with FITs.\nIn five studies that compared FITs and gFOBTs in the same population, FITs showed a higher discriminative ability for AN than gFOBTs (P = 0.003).\nWe included a total of 30 \"reference standard: positive\" studies involving 3,664,934 participants. Of these, eight were gFOBT-only studies, 18 were FIT-only studies, and four studies combined both gFOBTs and FITs. The cut-off for positivity of FITs varied between 5 µg to 250 µg Hb/g faeces. For each QUADAS-2 domain, we assessed risk of bias as high in less than 20% of studies. The summary curve showed that FITs had a higher discriminative ability for detecting CRC than gFOBTs (P < 0.001). The summary sensitivity for CRC of gFOBTs, 59% (95% CI 55% to 64%), was significantly lower than FITs at the 10 μg Hb/g cut-off, 89% (95% CI 80% to 95%; P < 0.001) and the 20 μg Hb/g cut-off, 89% (95% CI 85% to 92%; P < 0.001). So, in the hypothetical cohort with 100 participants with CRC, gFOBTs missed 41, while FITs missed 11 (10 μg Hb/g) and 11 (20 μg Hb/g). The summary specificity of gFOBTs was 98% (95% CI 98% to 99%), which was higher than FITs at both 10 μg and 20 μg Hb/g cut-offs: 94% (95% CI 92% to 95%; P < 0.001) and 95% (95% CI 94% to 96%; P < 0.001), respectively. So, out of 9900 participants without CRC, 198 were offered (unnecessary) colonoscopy with gFOBTs compared to 594 (10 μg Hb/g) and 495 (20 μg Hb/g) with FITs. At a specificity of 90% and 95%, FITs had a higher sensitivity than gFOBTs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "FITs are superior to gFOBTs in detecting AN and CRC in average-risk individuals. Specificity of both tests was similar in \"reference standard: all\" studies, whereas specificity was significantly higher for gFOBTs than FITs in \"reference standard: positive\" studies. However, at pre-specified specificities, the sensitivity of FITs was significantly higher than gFOBTs."
+    }
+  ],
+  "pls_title": "Which faecal blood test is more accurate in detecting bowel cancer and large polyps in population screening?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "One of the most common types of cancer diagnosed is large bowel or colorectal cancer (CRC). Early detection, before symptoms appear, makes it easier to treat bowel cancer and increases the chance of survival. Taking part in a bowel cancer screening program can lead to early detection and removal of large or advanced polyps (advanced adenomas), which are considered to be a precursor to bowel cancer. Simple faecal tests are used to detect the presence of blood in stool, which could be an early sign of bowel cancer or polyps. Two types of faecal blood tests used in population screening are: guaiac-based faecal occult blood tests (gFOBTs) and faecal immunochemical tests (FITs). Large, older studies have shown that screening with gFOBTs can reduce mortality. In a systematic review of the literature, we compared the accuracy of these two tests in order to assess which test gives the best results in population screening for bowel cancer, and, secondarily, for advanced neoplasia (which comprises bowel cancer and advanced polyps together)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We carried out a detailed search of online databases for studies that evaluated or compared (one of) these two tests in CRC screening. The review included only studies in average-risk individuals over 40 years of age without symptoms. The reference standard to compare the test results with was a total endoscopic examination of the large bowel with a camera on a flexible tube passed through the anus (colonoscopy). We reviewed two types of studies: those in which all participants underwent both the stool test and colonoscopy; and those in which only participants with an unfavourable result on the stool test underwent colonoscopy (in these studies, participants who did not have a colonoscopy after the stool test were followed for at least one year to see if they would be diagnosed with colorectal cancer). The evidence is current until 25 June 2019. We ran a top-up search on 14 September 2021, which yielded only one potentially eligible study, currently awaiting classification."
+    },
+    {
+      "heading": "Test characteristics",
+      "text": "The gFOBT 'screenees' – i.e. those who participate in screening – are instructed to collect two faecal samples from three consecutive bowel movements and to smear this on six stool panels. If there is blood in the stool, the panel changes colour. The number of coloured panels for referral to colonoscopy varies between screening programs. In most programs, a single coloured panel is sufficient for referral; however, in others, the number of panels is set at five out of six.\nThe FIT screenees are instructed to collect one faecal sample from one bowel movement, and to collect this with a brush or spatula into a tube. This tube is then send to a laboratory where the concentration of blood in the stool can be measured. Depending on the height of this concentration, above or below the so-called cut-off or threshold, the screenee is referred for colonoscopy. This cut-off differs per screening program."
+    },
+    {
+      "heading": "Key results",
+      "text": "We analysed 63 studies including almost 4 million individuals. The results of this review indicate that if, in theory, 10,000 people take part in screening with a faecal blood test and 100 people in this group have CRC:\n- out of the 100 people with CRC, 24 will be missed in those being screened with FITs.\n- out of the 100 people with CRC, 61 will be missed in those being screened with gFOBTs.\nWe also looked at participants with large polyps, CRC, or both. If, in theory, 10,000 people take part in screening with a faecal blood test and 1000 people in this group have large polyps, CRC, or both:\n- out of the 1000 people with large polyps, CRC, or both, 850 will be missed in those being screened with gFOBTs.\n- out of the 1000 people with large polyps, CRC, or both, 670 will be missed in those being screened with FITs.\nIn this theoretical group of 10,000 screenees:\n- 594 people being screened with FITs will be offered an 'unnecessary' colonoscopy – unnecessary because they do not have CRC; and\n- 594 people being screened with gFOBTs will be offered an 'unnecessary' colonoscopy.\nFrom the results described above, we can see that FITs miss less CRC than gFOBTs, while an equal number of screenees from each type of blood test undergo an unnecessary colonoscopy."
+    },
+    {
+      "heading": "How reliable are the results of the studies in this review?",
+      "text": "The results of the studies are reliable, as the included studies mostly met the quality criteria we specified before commencing the review."
+    },
+    {
+      "heading": "Future research",
+      "text": "More research is needed to investigate whether, in the long term, FIT screening can reduce the number of bowel cancer cases and deaths, and to compare these findings with those from gFOBT screening."
+    }
+  ]
+}

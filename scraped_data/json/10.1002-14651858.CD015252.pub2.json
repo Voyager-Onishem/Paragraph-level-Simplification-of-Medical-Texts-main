@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015252.pub2",
+  "name": "Adenoidectomy for otitis media with effusion (OME) in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Otitis media with effusion (OME) is an accumulation of fluid in the middle ear cavity, common amongst young children. The fluid may cause hearing loss. When persistent, it may lead to developmental delay, social difficulty and poor quality of life. Management of OME includes watchful waiting, autoinflation, medical and surgical treatment. Adenoidectomy has often been used as a potential treatment for this condition."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of adenoidectomy, either alone or in combination with ventilation tubes (grommets), for OME in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 20 January 2023."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials and quasi-randomised trials in children aged 6 months to 12 years with unilateral or bilateral OME. We included studies that compared adenoidectomy (alone, or in combination with ventilation tubes) with either no treatment or non-surgical treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods. Primary outcomes (determined following a multi-stakeholder prioritisation exercise): 1) hearing, 2) otitis media-specific quality of life, 3) haemorrhage. Secondary outcomes: 1) persistence of OME, 2) adverse effects, 3) receptive language skills, 4) speech development, 5) cognitive development, 6) psychosocial skills, 7) listening skills, 8) generic health-related quality of life, 9) parental stress, 10) vestibular function, 11) episodes of acute otitis media. We used GRADE to assess the certainty of evidence for each outcome.\nAlthough we included all measures of hearing assessment, the proportion of children who returned to normal hearing was our preferred method to assess hearing, due to challenges in interpreting the results of mean hearing thresholds."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 studies (1785 children). Many of the studies used concomitant interventions for all participants, including insertion of ventilation tubes or myringotomy. All included studies had at least some concerns regarding the risk of bias.\nWe report results for our main outcome measures at the longest available follow-up. We did not identify any data on disease-specific quality of life for any of the comparisons. Further details of additional outcomes and time points are reported in the review.\n1) Adenoidectomy (with or without myringotomy) versus no treatment/watchful waiting (three studies)\nAfter 12 months there was little difference in the proportion of children whose hearing had returned to normal, but the evidence was very uncertain (adenoidectomy 68%, no treatment 70%; risk ratio (RR) 0.97, 95% confidence interval (CI) 0.65 to 1.46; number needed to treat to benefit (NNTB) 50; 1 study, 42 participants). There is a risk of haemorrhage from adenoidectomy, but the absolute risk appears small (1/251 receiving adenoidectomy compared to 0/229, Peto odds ratio (OR) 6.77, 95% CI 0.13 to 342.54; 1 study, 480 participants; moderate certainty evidence). The risk of persistent OME may be slightly lower after two years in those receiving adenoidectomy (65% versus 73%), but again the difference was small (RR 0.90, 95% CI 0.81 to 1.00; NNTB 13; 3 studies, 354 participants; very low-certainty evidence).\n2) Adenoidectomy (with or without myringotomy) versus non-surgical treatment\nNo studies were identified for this comparison.\n3) Adenoidectomy and bilateral ventilation tubes versus bilateral ventilation tubes (four studies)\nThere was a slight increase in the proportion of ears with a return to normal hearing after six to nine months (57% adenoidectomy versus 42% without, RR 1.36, 95% CI 0.98 to 1.89; NNTB 7; 1 study, 127 participants (213 ears); very low-certainty evidence). Adenoidectomy may give an increased risk of haemorrhage, but the absolute risk appears small, and the evidence was uncertain (2/416 with adenoidectomy compared to 0/375 in the control group, Peto OR 6.68, 95% CI 0.42 to 107.18; 2 studies, 791 participants). The risk of persistent OME was similar for both groups (82% adenoidectomy and ventilation tubes compared to 85% ventilation tubes alone, RR 0.96, 95% CI 0.86 to 1.07; very low-certainty evidence).\n4) Adenoidectomy and unilateral ventilation tube versus unilateral ventilation tube (two studies)\nSlightly more children returned to normal hearing after adenoidectomy, but the confidence intervals were wide (57% versus 46%, RR 1.24, 95% CI 0.79 to 1.96; NNTB 9; 1 study, 72 participants; very low-certainty evidence). Fewer children may have persistent OME after 12 months, but again the confidence intervals were wide (27.2% compared to 40.5%, RR 0.67, 95% CI 0.35 to 1.29; NNTB 8; 1 study, 74 participants). We did not identify any data on haemorrhage.\n5) Adenoidectomy and ventilation tubes versus no treatment/watchful waiting (two studies)\nWe did not identify data on the proportion of children who returned to normal hearing. However, after two years, the mean difference in hearing threshold for those allocated to adenoidectomy was -3.40 dB (95% CI -5.54 to -1.26; 1 study, 211 participants; very low-certainty evidence). There may be a small reduction in the proportion of children with persistent OME after two years, but the evidence was very uncertain (82% compared to 90%, RR 0.91, 95% CI 0.82 to 1.01; NNTB 13; 1 study, 232 participants). We noted that many children in the watchful waiting group had also received surgery by this time point.\n6) Adenoidectomy and ventilation tubes versus non-surgical treatment\nNo studies were identified for this comparison."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "When assessed with the GRADE approach, the evidence for adenoidectomy in children with OME is very uncertain. Adenoidectomy may reduce the persistence of OME, although evidence about the effect of this on hearing is unclear. For patients and carers, a return to normal hearing is likely to be important, but few studies measured this outcome. We did not identify any evidence on disease-specific quality of life. There were few data on adverse effects, in particular postoperative bleeding. The risk of haemorrhage appears to be small, but should be considered when choosing a treatment strategy for children with OME. Future studies should aim to determine which children are most likely to benefit from treatment, rather than offering interventions to all children."
+    }
+  ],
+  "pls_title": "Adenoidectomy for otitis media with effusion (OME or 'glue ear') in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "We are uncertain whether surgery to remove the adenoids (adenoidectomy) improves hearing for children with glue ear, because the evidence is not robust.\nAdenoidectomy may slightly reduce the number of children who have glue ear after one to two years of follow-up, but we do not know the effect of this on hearing or quality of life.\nWe know that there may be harms from surgery, such as a risk of bleeding. However, there was not enough information in the studies to know how often this may occur."
+    },
+    {
+      "heading": "What is OME?",
+      "text": "Glue ear (or 'otitis media with effusion', OME) is a relatively common condition affecting young children. Fluid collects in the middle ear, which may cause hearing impairment. As a result of their poor hearing, children may be behind in their speech and may have difficulties at school."
+    },
+    {
+      "heading": "How is OME treated?",
+      "text": "Most of the time OME does not need any treatment, and the symptoms will get better with time. In children with persistent OME, different treatments have been used, including medications or surgery (insertion of grommets, with or without adenoidectomy). The adenoids are lumps of tissue at the back of the nose (above the roof of the mouth), which help the body to fight infection."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to identify whether adenoidectomy was better than no treatment, or other types of treatment (such as medicines), for children with OME.\nWe also wanted to see if there were any unwanted effects associated with having an adenoidectomy."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that compared adenoidectomy with either no treatment, or a different treatment, in children with OME. We compared and summarised the study results, and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 10 studies that involved 1785 children. We did not identify any studies that compared adenoidectomy to medical treatment - only studies that compared adenoidectomy to no adenoidectomy. All the evidence we found was thought to be uncertain, because of issues with how the studies were conducted, and the relatively small number of people included.\nFor children and carers, a return to normal hearing is likely to be important, but few studies measured this outcome so we are uncertain about the effect adenoidectomy has on hearing.\nAdenoidectomy may reduce the number of children with persistent OME after one to two years of follow-up, but the difference may be small.\nWe did not find any evidence about quality of life, so we do not know if adenoidectomy has any impact on this.\nFew studies reported any information about possible harms of treatment. We know that bleeding is a risk with any surgery. As part of this review we found that two children out of 416 who received adenoidectomy suffered from significant bleeding, compared to no children (out of 375) who did not have an adenoidectomy."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "As the evidence was uncertain, we cannot be sure if adenoidectomy gives any benefit for children with OME. We also found very little information about harms of adenoidectomy, although we know that there are likely to be some risks associated with undergoing surgery."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is up-to-date to January 2023."
+    }
+  ]
+}

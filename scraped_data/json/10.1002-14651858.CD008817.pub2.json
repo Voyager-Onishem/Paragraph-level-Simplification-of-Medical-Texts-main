@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008817.pub2",
+  "name": "Tacrolimus versus cyclosporin as primary immunosuppression for lung transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Lung transplantation is a well-accepted treatment for people with most end-stage lung diseases. Although both tacrolimus and cyclosporin are used as primary immunosuppressive agents in lung transplant recipients, it is unclear which of these drugs is better in reducing rejection and death without causing adverse effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of tacrolimus versus cyclosporin for primary immunosuppression in lung transplant recipients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Renal Group's Specialised Register to 10 April 2013 through contact with the Trials Search Co-ordinator using search terms relevant to this review. We also searched Science Citation Index Expanded and the Transplant Library to 20 April 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCT) that compared any dose and duration of administration of tacrolimus versus cyclosporin as primary immunosuppressive treatment in lung transplant recipients. Our selection criteria required that all included patients received the same additional immunosuppressive therapy within each study."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three authors extracted data. For dichotomous data we used risk ratio (RR) and used mean difference (MD) for continuous data, each with 95% confidence intervals (CI). Methodological components of the included studies were used to assess risk of systematic errors (bias). Trial sequential analysis was used to assess risk of random errors (play of chance)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included three studies that enrolled a total of 413 adult patients that compared tacrolimus with microemulsion or oral solution cyclosporin. All studies were found to be at high risk of bias. Tacrolimus seemed to be significantly superior to cyclosporin regarding the incidence of bronchiolitis obliterans syndrome (RR 0.46, 95% CI 0.29 to 0.74), lymphocytic bronchitis score (MD -0.60, 95% CI -1.04 to -0.16), treatment withdrawal (RR 0.27, 95% CI 0.16 to 0.46), and arterial hypertension (RR 0.67, 95% CI 0.50 to 0.89). However, the finding for arterial hypertension was not confirmed when analysed using a random-effects model (RR 0.54, 95% CI 0.17 to 1.73). Furthermore, trial sequential analysis found that none of the meta-analyses reached the required information sizes and cumulative Z-curves did not cross trial sequential monitoring boundaries. Diabetes mellitus occurred more frequently among people in the tacrolimus group compared with the cyclosporin group when the fixed-effect model was applied (RR 4.24, 95% CI 1.58 to 11.40), but no difference was found when the random-effects model was used for analysis (RR 4.43, 95% CI 0.75 to 26.05). Again, trial sequential analysis found that the required information threshold was not reached and cumulative Z-curve did not cross the trial sequential monitoring boundary. No significant difference between treatment groups was observed regarding mortality (RR 1.06, 95% CI 0.75 to 1.49), incidence of acute rejection (RR 0.89, 95% CI 0.77 to 1.03), numbers of infections/100 patient-days (MD -0.15, 95% CI -0.30 to 0.00), cancer (RR 0.21, 95% CI 0.04 to 1.16), kidney dysfunction (RR 1.41, 95% CI 0.93 to 2.14), kidney failure (RR 1.57, 95% CI 0.28 to 8.94), neurotoxicity (RR 7.06, 95% CI 0.37 to 135.19), and hyperlipidaemia (RR 0.60, 95% CI 0.30 to 1.20). Trial sequential analysis showed the required information thresholds were not reached for any of these outcome measures."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Tacrolimus may be superior to cyclosporin regarding bronchiolitis obliterans syndrome, lymphocytic bronchitis, treatment withdrawal, and arterial hypertension, but may be inferior regarding development of diabetes. No difference in mortality and acute rejection was observed between patients treated with tacrolimus and cyclosporin. There were few studies comparing tacrolimus and cyclosporin after lung transplantation, and the numbers of patients and events in the included studies were limited. Furthermore, the included studies were deemed to be at high risk of bias. Hence, more RCTs are needed to assess the results of the present review. Such studies ought to be conducted with low risks of systematic errors (bias) and of random errors (play of chance)."
+    }
+  ],
+  "pls_title": "Which drug to prevent lung transplant rejection provides best results with fewest adverse effects?",
+  "pls_type": "long",
+  "pls": "Almost everyone who receives a lung transplant is treated with the drugs tacrolimus or cyclosporin to prevent transplanted organ rejection. Both drugs have serious and common adverse effects. We aimed to compare the use of tacrolimus with cyclosporin to prevent organ rejection after lung transplantation to assess which drug worked best and had fewest adverse effects.\nWe identified three randomised controlled trials that compared tacrolimus with cyclosporin in patients who had received lung transplants. We found no difference in survival or rejection of the donated lungs with the drugs in lung transplant recipients. Tacrolimus seemed better in preventing serious inflammatory lung and airways diseases (bronchiolitis obliterans syndrome and lymphocytic bronchitis), and high blood pressure. Diabetes may occur more often in patients treated with tacrolimus compared with cyclosporin-treated patients. More patients who received tacrolimus continued treatment compared with those treated with cyclosporin.\nHowever, these observations should be viewed cautiously because all three trials were flawed in design, the ways they were conducted, and in random errors. There were very few trials found that compared tacrolimus and cyclosporin after lung transplantation, and the numbers of patients and events were low.\nBetter-designed and conducted studies are needed to inform clinical decisions for people who receive lung transplants."
+}

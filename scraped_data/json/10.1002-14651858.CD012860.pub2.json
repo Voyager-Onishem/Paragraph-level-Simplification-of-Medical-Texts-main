@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012860.pub2",
+  "name": "Closed‐system drug‐transfer devices plus safe handling of hazardous drugs versus safe handling alone for reducing exposure to infusional hazardous drugs in healthcare staff ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Occupational exposure to hazardous drugs can decrease fertility and result in miscarriages, stillbirths, and cancers in healthcare staff. Several recommended practices aim to reduce this exposure, including protective clothing, gloves, and biological safety cabinets ('safe handling'). There is significant uncertainty as to whether using closed-system drug-transfer devices (CSTD) in addition to safe handling decreases the contamination and risk of staff exposure to infusional hazardous drugs compared to safe handling alone."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of closed-system drug-transfer of infusional hazardous drugs plus safe handling versus safe handling alone for reducing staff exposure to infusional hazardous drugs and risk of staff contamination, and to determine if the better reuse of multi-dose vials leads to cost savings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, OSH-UPDATE, CINAHL, Science Citation Index Expanded, economic evaluation databases, the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov to October 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included comparative studies of any study design (irrespective of language, blinding, or publication status) that compared CSTD plus safe handling versus safe handling alone for infusional hazardous drugs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently identified trials and extracted data. We calculated the risk ratio (RR) and mean difference (MD) with 95% confidence intervals (CI) using both fixed-effect and random-effects models. We assessed risk of bias according to the r isk o f b ias i n n on-randomised s tudies of interventions (ROBINS-I) tool, used an intracluster correlation coefficient of 0.10, and we assessed the quality of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 24 observational cluster studies (359 hospitals) in this review. We did not find any randomised controlled trials or formal economic evaluations. In 22 studies, the people who used the intervention (CSTD plus safe handling) and control (safe handling alone) were pharmacists or pharmacy technicians; in the other two studies, the people who used the intervention and control were nurses, pharmacists, or pharmacy technicians. Therefore, the evidence is mainly applicable to pharmacists or pharmacy technicians. The CSTD used in the studies were PhaSeal (13 studies), Tevadaptor (2 studies), SpikeSwan (1 study), PhaSeal and Tevadaptor (1 study), varied (5 studies), and not stated (2 studies). Therefore, the evidence is mainly applicable for PhaSeal. The studies' descriptions of the control groups were varied. Twenty-two studies provide data on one or more outcomes for this systematic review. All the studies are at serious risk of bias. The quality of evidence is very low for all the outcomes.\nVery low certainty evidence from small studies is insufficient to determine whether there is any important difference between CSTD and control groups in the proportion of people with positive urine tests for exposure between the CSTD and control groups for any of the drugs: cyclophosphamide alone (RR 0.83, 95% CI 0.46 to 1.52; I² = 12%; 2 studies; 2 hospitals; 20 participants; CSTD: 76.1% versus control: 91.7%); cyclophosphamide or ifosfamide (RR 0.09, 95% CI 0.00 to 2.79; 1 study; 1 hospital; 14 participants; CSTD: 6.4% versus control: 71.4%); and cyclophosphamide, ifosfamide, or gemcitabine (RR not estimable; 1 study; 1 hospital; 36 participants; 0% in both groups).\nVery low certainty evidence from small studies is insufficient to determine whether there is any important difference between CSTD and control groups in the proportion of surfaces contaminated or the quantity of contamination. Overall, out of 24 comparisons in pharmacy areas or patient-care areas, there was a reduction in the proportion of surfaces contaminated in only one comparison and out of 15 comparisons in pharmacy areas or patient-care areas, there was a reduction in the quantity of contamination in only two comparisons.\nNone of the studies report on atmospheric contamination, blood tests, or other measures of exposure to infusional hazardous drugs such as urine mutagenicity, chromosomal aberrations, sister chromatid exchanges, or micronuclei induction.\nNone of the studies report short-term health outcomes such as reduction in skin rashes, medium-term reproductive health outcomes such as fertility and parity, or long-term health outcomes related to the development of any type of cancer or adverse events.\nFive studies (six hospitals) report the potential cost savings through the use of CSTD. The studies used different methods of calculating the costs, and the results were not reported in a format that could be pooled via meta-analysis. There is significant variability between the studies in terms of whether CSTD resulted in cost savings (the point estimates of the average potential cost savings ranged from (2017) USD −642,656 to (2017) USD 221,818).\nThe healthcare professionals in the studies that provide data were mostly pharmacists or pharmacy technicians. Therefore, the evidence is mainly applicable to pharmacists and pharmacy technicians. Most of the studies that provide information for this review evaluated the use of PhaSeal; therefore the findings are mostly applicable to PhaSeal."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently, no firm conclusions can be drawn on the effect of CSTD combined with safe handling versus safe handling alone due to very low certainty evidence available for the main outcomes.\nMulticentre randomised controlled trials may be feasible depending upon the proportion of people with exposure. The next best study design is interrupted time-series. Future studies should evaluate exposure to a relevant selection of hazardous drugs used in the hospital, and they should measure direct short-term health outcomes."
+    }
+  ],
+  "pls_title": "Closed-system drug-transfer devices for reducing exposure to infusional hazardous medicines in healthcare staff",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "Some medicines – whether given as tablets or as a drip through the veins – are hazardous to the healthcare staff who handle them. Patients receive infusional hazardous medicines through the veins as treatment for serious diseases like cancer. When healthcare staff are exposed to these medicines, they can decrease their fertility and result in miscarriages, stillbirths, and cancers. Several recommended practices can reduce healthcare staff exposure to these hazardous medicines. These include protective clothing, gloves, and special cabinets where staff can prepare the hazardous medicines prior to giving them to patients. Together, these practices constitute 'safe handling'. A closed-system drug-transfer device (CSTD) is a device system that mechanically prevents the escape of hazardous drug outside the system. In addition, the systems also attempt to prevent microbiological contamination of the drug, potentially enabling reuse of multi-dose vials (drug containers which have been designed in such a way that the medicines in the container can be used multiple times and for multiple patients) and decreasing the costs."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "There is significant uncertainty as to whether using CSTD in addition to safe handling decreases the exposure and risk of staff contamination to hazardous medicines compared to safe handling alone and whether CSTD can lead to cost-savings by allowing better reuse of multi-dose vials. We sought to resolve this issue by searching for existing studies on the topic."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Short or long-term health outcomes were not reported in any studies. We found very low quality evidence (the best evidence available currently) that there is no considerable difference in exposure between CSTD plus safe handling versus safe handling alone. We also found very low quality evidence (the best evidence available currently) that there is no considerable effect of CSTD on the percentage of surfaces contaminated and the amount of contamination in in pharmacy and patient-care areas for most drugs even though there was a small effect on contamination for one drug out of 24 studied and on amount of drug contamination for two drugs out of 15 studied . Therefore, no firm conclusions can be drawn on the effect of CSTD plus safe handling versus safe handling alone due to very low quality evidence available. Since most of the studies were conducted in pharmacy technicians and pharmacists and the CSTD used was PhaSeal, the evidence is applicable mainly to pharmacy technicians and pharmacists, and to PhaSeal."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "We included all types of studies that compared CSTD plus safe handling ('CSTD group') and safe handling alone ('control group')."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We included 24 studies (359 hospitals) in this review, none of which used the gold standard study design (randomised controlled trial) or explored a treatment's value for money. In 22 studies, the people who used the CSTD and safe handling were pharmacists or pharmacy technicians. Nineteen studies provide information that could be included for this study.\nNo firm conclusion can be drawn on the effects of using CSTD on indirect measures of exposure such as the presence of the hazardous drug in the urine of the healthcare professionals or on the contamination of surfaces or the floor.\nThere is significant variability between the studies in terms of whether the use of CSTD resulted in cost savings, with some studies reporting increased costs and others reporting decreased costs after introducing CSTD. None of the studies report on short or long-term health outcomes such as reduction in skin rashes, infertility, miscarriage, development of any type of cancer, or adverse events.\nWe judged the certainty of evidence for all outcomes to be very low because all the studies had one or more significant limitations in their design. Therefore, the reported effects of interventions are uncertain."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies up until 26 October 2017."
+    }
+  ]
+}

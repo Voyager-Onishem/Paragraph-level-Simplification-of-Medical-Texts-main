@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005578.pub2",
+  "name": "Pharmacotherapy for sleep bruxism",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sleep bruxism is an oral activity characterized by involuntary teeth grinding or clenching during sleep. Several forms of treatment have been proposed for this disorder, including behavioural, dental and pharmacological strategies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of pharmacological therapy for the treatment of sleep bruxism compared with other drugs, no treatment or placebo."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 8, 2014), MEDLINE (1966 to August 2014), EMBASE (1980 to August 2013) and LILACS (1982 to August 2014). We identified additional reports from the reference lists of retrieved reports and from reviews on treatment of sleep bruxism. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomized controlled trials (RCTs) or quasi-RCTs that compared drugs with other drugs, no treatment or placebo in people with sleep bruxism."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors carried out data extraction and quality assessment of the included trials independently and in duplicate. We discussed discrepancies until we reached consensus. We consulted a third review author in cases of persistent disagreement. We contacted authors of primary studies when necessary."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 18 potentially relevant RCTs, but only seven met the inclusion criteria. All studies had a small number of participants, ranging from seven to 16 people per study and had a cross-over design. Three studies were of low risk of bias, while four were of uncertain risk. Amitriptyline (three studies), bromocriptine (one study), clonidine (one study), propranolol (one study), levodopa (Prolopa®) (one study) and tryptophan (one study) were compared with placebo. Studies evaluating bromocriptine, clonidine, propranolol and levodopa reported our primary outcome of indices of bruxism motor activity.\nResults were imprecise and consistent with benefit, no difference or harm. These were the specific findings for each of the drugs according to specific outcomes: 1. Amitriptyline versus placebo for masseteric electromyography (EMG) activity per minute: standardized mean difference (SMD) -0.28 (95% confidence interval (CI) -0.91 to 0.34; P value = 0.37), 2. bromocriptine versus placebo for bruxism episodes per hour: mean difference (MD) 0.60 (95% CI -2.93 to 4.13), bruxism bursts per hour: MD -2.00 (95% CI -53.47 to 49.47), bruxism bursts per episode: MD 0.50 (95% CI -1.85 to 2.85) or number of episodes with grinding noise: MD 2.40 (95% CI -24.00 to 28.80), 3. clonidine versus placebo for number of bruxism episodes per hour: MD -2.41 (95% CI -4.84 to 0.02), 4. propranolol versus placebo for the number of bruxism episodes per hour: MD 1.16 (95% CI -1.89 to 4.21), 5. L-tryptophan versus placebo for masseteric EMG activity per second: SMD 0.08 (95% CI -0.90 to 1.06) and 6. levodopa versus placebo for bruxism episodes per hour of sleep: MD -1.47 (95% CI -3.64 to 0.70), for bruxism bursts per episode: MD 0.06 (95% CI -2.47 to 2.59).\nWe combined several secondary outcomes (sleep duration, masseteric EMG activity per minute and pain intensity) in a meta-analysis for comparison of amitriptyline with placebo. The results for most comparisons were uncertain because of statistical imprecision. One study reported that clonidine reduced rapid eye movement (REM) sleep stage and increased the second stage of sleep. However, results for other sleep-related outcomes with clonidine were uncertain. Adverse effects were frequent in people who took amitriptyline (5/10 had drowsiness, difficulty awakening in the morning, insomnia or xerostomia compared with 0/10 in the placebo group), as well as in people who received propranolol (7/16 had moderate-to-severe xerostomia compare with 2/16 in the placebo group). Clonidine was associated with prolonged morning hypotension in three of 16 participants. The use of preventive medication avoided any adverse effects in people treated with levodopa and bromocriptine."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was insufficient evidence on the effectiveness of pharmacotherapy for the treatment of sleep bruxism. This systematic review points to the need for more, well-designed, RCTs with larger sample sizes and adequate methods of allocation, outcome assessment and duration of follow-up. Ideally, parallel RCTs should be used in future studies to avoid the bias associated with cross-over studies. There is a need to standardize the outcomes of RCTs on treatments for sleep bruxism."
+    }
+  ],
+  "pls_title": "Pharmacotherapy for tooth grinding or clenching during the sleep (sleep bruxism)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "There are several signs and symptoms of sleep bruxism, such as abnormal tooth wear, fractured teeth, jaw muscle discomfort, joint pain or tenderness, and headaches. Treatments include odontological devices such as occlusal splints, psychotherapy and medications (pharmacotherapy). Pharmacological treatments include drugs such as benzodiazepines, anticonvulsants, beta-blockers, dopamine agents, antidepressants, muscle relaxants and others. However, little is known about the effectiveness, safety and long-term follow-up of medications for sleep bruxism."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases for clinical trials comparing any drug with placebo (a dummy treatment), other drugs or no treatment in people of any age with sleep bruxism. The evidence is current to August 2014."
+    },
+    {
+      "heading": "Key results",
+      "text": "A total of 18 studies were identified and seven were included in the review. Each individual study involved a very small number of participants (7-16) and four of them were of moderate methodological quality. Amitriptyline (three studies), bromocriptine (one study), clonidine (one study), propranolol (one study), levodopa (Prolopa®) (one study) and tryptophan (one study) were compared with placebo. Amitriptyline and L-tryptophan did not reduce activity of the jaw muscles, measured using electromyography. Bromocriptine,clonidine, propanolol and levodopa did not significantly reduce the number of bruxism episodes per hour when compared to placebo."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "This systematic review concluded that there is not enough evidence in the literature to show that drugs can reduce sleep bruxism."
+    }
+  ]
+}

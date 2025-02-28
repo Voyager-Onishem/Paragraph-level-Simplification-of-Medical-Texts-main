@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD011432.pub2",
+  "name": "Interventions to increase tuberculosis case detection at primary healthcare or community‐level services ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pulmonary tuberculosis is usually diagnosed when symptomatic individuals seek care at healthcare facilities, and healthcare workers have a minimal role in promoting the health-seeking behaviour. However, some policy specialists believe the healthcare system could be more active in tuberculosis diagnosis to increase tuberculosis case detection."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of different strategies to increase tuberculosis case detection through improving access (geographical, financial, educational) to tuberculosis diagnosis at primary healthcare or community-level services."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases for relevant studies up to 19 December 2016: the Cochrane Infectious Disease Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library, Issue 12, 2016; MEDLINE; Embase; Science Citation Index Expanded, Social Sciences Citation Index; BIOSIS Previews; and Scopus. We also searched the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP), ClinicalTrials.gov, and the metaRegister of Controlled Trials (mRCT) for ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and non-randomized controlled studies comparing any intervention that aims to improve access to a tuberculosis diagnosis, with no intervention or an alternative intervention."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for eligibility and risk of bias, and extracted data. We compared interventions using risk ratios (RR) and 95% confidence intervals (CI). We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine cluster-randomized trials, one individual randomized trial, and seven non-randomized controlled studies. Nine studies were conducted in sub-Saharan Africa (Ethiopia, Nigeria, South Africa, Zambia, and Zimbabwe), six in Asia (Bangladesh, Cambodia, India, Nepal, and Pakistan), and two in South America (Brazil and Colombia); which are all high tuberculosis prevalence areas.\nTuberculosis outreach screening, using house-to-house visits, sometimes combined with printed information about going to clinic, may increase tuberculosis case detection (RR 1.24, 95% CI 0.86 to 1.79; 4 trials, 6,458,591 participants in 297 clusters, low-certainty evidence ); and probably increases case detection in areas with tuberculosis prevalence of 5% or more (RR 1.52, 95% CI 1.10 to 2.09; 3 trials, 155,918 participants, moderate-certainty evidence ; prespecified stratified analysis). These interventions may lower the early default (prior to starting treatment) or default during treatment (RR 0.67, 95% CI 0.47 to 0.96; 3 trials, 849 participants, low-certainty evidence ). However, this intervention may have may have little or no effect on treatment success (RR 1.07, 95% CI 1.00 to 1.15; 3 trials, 849 participants, low-certainty evidence ), and we do not know if there is an effect on treatment failure or mortality. One study investigated long-term prevalence in the community, but with no clear effect due to imprecision and differences in care between the two groups (RR 1.14, 95% CI 0.65 to 2.00; 1 trial, 556,836 participants, very low-certainty evidence ).\nFour studies examined health promotion activities to encourage people to attend for screening, including mass media strategies and more locally organized activities. There was some increase, but this could have been related to temporal trends, with no corresponding increase in case notifications, and no evidence of an effect on long-term tuberculosis prevalence. Two studies examined the effects of two to six nurse practitioner educational sessions in tuberculosis diagnosis, with no clear effect on tuberculosis cases detected. One trial compared mobile clinics every five days with house-to-house screening every six months, and showed an increase in tuberculosis cases.\nThere was also insufficient evidence to determine if sustained improvements in case detection impact on long-term tuberculosis prevalence; this was evaluated in one study, which indicated little or no effect after four years of either contact tracing, extensive health promotion activities, or both (RR 1.31, 95% CI 0.75 to 2.30; 1 study, 405,788 participants in 12 clusters, very low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available evidence demonstrates that when used in appropriate settings, active case-finding approaches may result in increase in tuberculosis case detection in the short term. The effect of active case finding on treatment outcome needs to be further evaluated in sufficiently powered studies."
+    }
+  ],
+  "pls_title": "Interventions to increase the number of tuberculosis cases being diagnosed",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This review summarized trials evaluating the effects of interventions aiming to increase the diagnosis of tuberculosis and reduce the number of undiagnosed tuberculosis cases in communities. After searching for relevant trials up to 19 December 2016, we included 17 studies conducted in sub-Saharan Africa (nine studies), Asia (six studies), and South America (two studies)."
+    },
+    {
+      "heading": "Why does tuberculosis go undiagnosed and how might programmes improve this?",
+      "text": "Tuberculosis is a chronic infectious disease that affects over 10 million people worldwide, with an estimated four million tuberculosis patients remaining undiagnosed each year. Interventions such as outreach tuberculosis screening with or without health promotion that actively screen for tuberculosis among individuals presenting with symptoms of tuberculosis, may increase detection of microbiologically confirmed tuberculosis cases. These interventions may improve treatment outcomes by increasing the number of tuberculosis patients who are cured and complete treatment. However, we do not know if these interventions reduce either tuberculosis treatment failure, or tuberculosis-associated death or long-term tuberculosis burden in moderate- and high-tuberculosis settings."
+    },
+    {
+      "heading": "What the research says",
+      "text": "House-to-house screening for active tuberculosis, and organizing tuberculosis diagnostic clinics nearer to where people live and work, may increase tuberculosis case detection in settings where the prevalence of undiagnosed disease is high (low-certainty evidence ). These people may have higher levels of treatment success and lower levels of default from treatment (low-certainty evidence).\nThere was insufficient evidence to determine if health promotion activities alone increase tuberculosis case detection (very low-certainty evidence).\nThere was also insufficient evidence to determine if sustained improvements in case detection impact on long-term tuberculosis prevalence, as the only study to evaluate this found no effect after four years (very low-certainty evidence)."
+    }
+  ]
+}

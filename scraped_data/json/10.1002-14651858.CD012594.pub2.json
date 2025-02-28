@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012594.pub2",
+  "name": "Improving adverse drug event reporting by healthcare professionals",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Adverse drug events, encompassing both adverse drug reactions and medication errors, pose a significant threat to health, leading to illness and, in severe cases, death. Timely and voluntary reporting of adverse drug events by healthcare professionals plays a crucial role in mitigating the morbidity and mortality linked to unexpected reactions and improper medication usage."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of different interventions aimed at healthcare professionals to improve the reporting of adverse drug events."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, Embase, MEDLINE and several other electronic databases and trials registers, including ClinicalTrials.gov and WHO ICTRP, from inception until 14 October 2022. We also screened reference lists in the included studies and relevant systematic reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials, non-randomised controlled studies, controlled before-after studies, interrupted time series studies (ITS) and repeated measures studies, assessing the effect of any intervention aimed at healthcare professionals and designed to increase adverse drug event reporting. Eligible comparators were healthcare professionals' usual reporting practice or a different intervention or interventions designed to improve adverse drug event reporting rate. We excluded studies of interventions targeted at adverse event reporting following immunisation. Our primary outcome measures were the total number of adverse drug event reports (including both adverse drug reaction reports and medication error reports) and the number of false adverse drug event reports (encompassing both adverse drug reaction reports and medication error reports) submitted by healthcare professionals. Secondary outcomes were the number of serious, high-causality, unexpected or previously unknown, and new drug-related adverse drug event reports submitted by healthcare professionals. We used GRADE to assess the certainty of evidence."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard methods recommended by Cochrane and the Cochrane Effective Practice and Organisation of Care (EPOC) Group. We extracted and reanalysed ITS study data and imputed treatment effect estimates (including standard errors or confidence intervals) for the randomised studies."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 15 studies (eight RCTs, six ITS, and one non-randomised cross-over study) with approximately 62,389 participants. All studies were conducted in high-income countries in large tertiary care hospitals. There was a high risk of performance bias in the controlled studies due to the nature of the interventions. None of the ITS studies had a control arm, so we could not be sure of the detected effects being independent of other changes. None of the studies reported on the number of false adverse drug event reports submitted.\nThere is low-certainty evidence suggesting that an education session, together with reminder card and adverse drug reaction (ADR) report form, may substantially improve the rate of ADR reporting by healthcare professionals when compared to usual practice (i.e. spontaneous reporting with or without some training provided by regional pharmacosurveillance units). These educational interventions increased the number of ADR reports in total (RR 3.00, 95% CI 1.53 to 5.90; 5 studies, 21,655 participants), serious ADR reports (RR 3.30, 95% CI 1.51 to 7.21; 5 studies, 21,655 participants), high-causality ADR reports (RR 2.48, 95% CI 1.11 to 5.57; 5 studies, 21,655 participants), unexpected ADR reports (RR 4.72, 95% CI 1.75 to 12.76; 4 studies, 15,085 participants) and new drug-related ADR reports (RR 8.68, 95% CI 3.40 to 22.13; 2 studies, 7884 participants).\nAdditionally, low-certainty evidence suggests that, compared to usual practice (i.e. spontaneous reporting), making it easier to report ADRs by using a standardised discharge form with added ADR items may slightly improve the total number of ADR reports submitted (RR 2.06, 95% CI 1.11 to 3.83; 1 study, 5967 participants). The discharge form tested was based on the ‘Diagnosis Related Groups’ (DRG) system for recording patient diagnoses, and the medical and surgical procedures received during their hospital stay.\nDue to very low-certainty evidence, we do not know if the following interventions have any effect on the total number of adverse drug event reports (including both ADR and ME reports) submitted by healthcare professionals:\n- sending informational letters or emails to GPs and nurses;\n- multifaceted interventions, including financial and non-financial incentives, fines, education and reminder cards;\n- implementing government regulations together with financial incentives;\n- including ADR report forms in quarterly bulletins and prescription pads;\n- providing a hyperlink to the reporting form in hospitals' electronic patient records;\n- improving the reporting method by re-engineering a web-based electronic error reporting system;\n- the presence of a clinical pharmacist in a hospital setting actively identifying adverse drug events and advocating for the identification and reporting of adverse drug events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared to usual practice (i.e. spontaneous reporting with or without some training from regional pharmacosurveillance units), low-certainty evidence suggests that the number of ADR reports submitted may substantially increase following an education session, paired with reminder card and ADR report form, and may slightly increase with the use of a standardised discharge form method that makes it easier for healthcare professionals to report ADRs.\nThe evidence for other interventions identified in this review, such as informational letters or emails and financial incentives, is uncertain.\nFuture studies need to assess the benefits (increase in the number of adverse drug event reports) and harms (increase in the number of false adverse drug event reports) of any intervention designed to improve healthcare professionals' reporting of adverse drug events. Interventions to increase the number of submitted adverse drug event reports that are suitable for use in low- and middle-income countries should be developed and rigorously evaluated."
+    }
+  ],
+  "pls_title": "Improving healthcare professionals' reporting of adverse drug reactions and medication errors",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- Healthcare professionals have a responsibility to report unexpected and harmful responses to medicines. These responses are known as 'adverse drug events', a term that includes both adverse drug reactions (ADRs) and medication errors (MEs).\n- An education session (outreach, in-person workshops or via telephone), along with providing a reminder card and ADR report form, may substantially increase the number of ADR reports submitted.\n- Using a standardised discharge form with additional ADR items that is designed to make it easier to report ADRs may slightly increase the number of ADR reports submitted.\n- Future studies need to assess the benefit (increase in the number of adverse drug event reports submitted) and harm (increase in the number of false adverse drug event reports submitted) of any intervention designed to improve healthcase professionals' reporting of adverse drug events.\n- Interventions suitable for use in low- and middle-income countries need to be developed and rigorously evaluated."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "This Cochrane review investigated whether interventions for healthcare professionals are effective for improving at their reporting of adverse drug events. Adverse drug events include any adverse drug reaction (ADR) and any medication error (ME)."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked at evidence from a range of different types of studies to find out if interventions aimed at healthcare professionals could increase the number of adverse drug event reports they make. We compared the total number of adverse drug event reports (which included both ADR and ME reports) submitted by healthcare professionals. We were also interested in the number of false adverse drug event reports they made. As well as the total number of reports, we looked separately at the number of reports submitted for adverse drug events that were categorised as serious, high-causality (i.e. very likely to be caused by the drug), unexpected (i.e. previously unknown) or related to recent drugs (i.e. only used in the last five years)."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "This review included 15 studies (62,389 participants) that compared the effect of various interventions aimed at healthcare professionals to increase the number of adverse drug event reports they make. All the studies were carried out in high-income countries. None of the studies looked at whether these interventions led to more false adverse drug event reports.\nCompared to usual practice (spontaneous reporting and some training from regional units that monitor the safety of medicines), an education session about why and how to report adverse events, plus reminder of the session content and provision of an ADR report form, may increase the number of ADR reports made by healthcare professionals.\nCompared to usual practice (spontaneous reporting), using a standardised discharge form with additional ADR items about when the ADR occurred and how it developed may also slightly improve the number of ADR reports made. The standardised form tested was based on the ‘Diagnosis Related Groups’ system for recording patient diagnoses and the medical and surgical procedures patients receive during their hospital stay.\nWe are very uncertain about the effectiveness of other interventions that were tested in the studies, including:\n- sending informational letters or emails to GPs and nurses;\n- interventions with multiple aspects, including financial and non-financial incentives, fines, education and reminder cards;\n- implementing government regulations together with financial incentives;\n- including ADR report forms in quarterly bulletins and prescription pads;\n- providing a hyperlink to the reporting form in hospitals' electronic patient records;\n- improving the reporting method by re-engineering the web-based electronic error reporting system;\n- the presence of a clinical pharmacist in hospital who actively identifies adverse drug events and encourages the identification and reporting of adverse drug events."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence in this review is based on searches up to October 2022."
+    }
+  ]
+}

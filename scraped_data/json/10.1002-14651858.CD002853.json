@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002853",
+  "name": "Propentofylline for dementia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Propentofylline is a novel therapeutic agent for dementia that readily crosses the blood-brain barrier and acts by blocking the uptake of adenosine and inhibiting the enzyme phosphodiesterase. In vitro and in vivo its mechanism of action appears to be twofold; it inhibits the production of free radicals and reduces the activation of microglial cells. It therefore interacts with the inflammatory processes that are thought to contribute to dementia, and given its mechanism of action is a possible disease modifying agent rather than a purely symptomatic treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the clinical efficacy and safety of propentofylline for people with dementia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 10 January 2008 using the terms: propentofylline OR hextol OR karsivan. The CDCIG Specialized Register contains records from all major health care databases (CENTRAL, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many trials databases and grey literature sources.\nAventis, the manufacturing pharmaceutical company, was asked for data from unpublished studies but declined to enter into correspondence."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Unconfounded double-blind randomized controlled trials of propentofylline compared with a placebo or another treatment group."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "There were detailed reports of only four of the nine included studies. The efficacy of propentofylline was reviewed for undifferentiated dementia as there were not enough data to attempt a subgroup analysis for the types of dementia."
+    },
+    {
+      "heading": "Main results",
+      "text": "The following statistically significant treatment effects in favour of propentofylline are reported. \nCognition at 3, 6 and 12 months including MMSE at 12 months. [MD 1.2, 95%CI 0.12 to 2.28, P=0.03] \nSeverity of dementia at 3, 6 and 12 months including CGI at 12 months [MD -0.21, 95%CI -0.39 to -0.03, P=0.03]. \nActivities of Daily Living (NAB) at 6 and 12 months [MD -1.20, 95%CI -2.22 to -0.18, P=0.02]. \nGlobal Assessment (CGI) at 3 months [MD -0.48, 95% CI -0.75 to -0.21, P=0.0006], but not at later times. \nTolerability \nThere were minimal data on adverse effects and drop-outs. There were a statistically significant treatment effects in favour of placebo at 12 months, for the number of dropouts [OR=1.43, 95%CI 1.04 to 1.90, P=0.03]."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited evidence that propentofylline might benefit cognition, global function and activities of daily living of people with Alzheimer's disease and/or vascular dementia. The meta-analyses reported here are far from satisfactory as a summary of the efficacy of propentofylline, considering the unpublished information on another 1200 patients in randomized trials that exists. Unfortunately Aventis has been unwilling to correspond with the authors, significantly limiting the scope of this review."
+    }
+  ],
+  "pls_title": "Limited evidence that propentofylline benefits cognition, global function and activities of daily living in people with Alzheimer's disease and/or vascular dementia",
+  "pls_type": "long",
+  "pls": "Propentofylline is a novel putatively neuroprotective agent that acts by inhibiting the uptake of adenosine and blocking the enzyme phosphodiesterase. Although a number of randomized controlled trials have been undertaken, data were available from only a very limited number of these studies. These limited data suggest that propentofylline may have a beneficial effect on measures of cognitive and global function of people with Alzheimer's or vascular dementia. The unavailability of data, due to failure of Aventis, the manufacturing pharmaceutical company, to release information about unpublished studies prevented a comprehensive systematic review and meta-analysis."
+}

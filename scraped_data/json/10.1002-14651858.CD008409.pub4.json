@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD008409.pub4",
+  "name": "Progesterone for acute traumatic brain injury",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Traumatic brain injury (TBI) is a leading cause of death and disability, and the identification of effective, inexpensive and widely practicable treatments for brain injury is of great public health importance worldwide. Progesterone is a naturally produced hormone that has well-defined pharmacokinetics, is widely available, inexpensive, and has steroidal, neuroactive and neurosteroidal actions in the central nervous system. It is, therefore, a potential candidate for treating TBI patients. However, uncertainty exists regarding the efficacy of this treatment. This is an update of our previous review of the same title, published in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of progesterone on neurologic outcome, mortality and disability in patients with acute TBI. To assess the safety of progesterone in patients with acute TBI."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We updated our searches of the following databases: the Cochrane Injuries Group's Specialised Register (30 September 2016), the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 9, 2016), MEDLINE (Ovid; 1950 to 30 September 2016), Embase (Ovid; 1980 to 30 September 2016), Web of Science Core Collection: Conference Proceedings Citation Index-Science (CPCI-S; 1990 to 30 September 2016); and trials registries: Clinicaltrials.gov (30 September 2016) and the World Health Organization (WHO) International Clinical Trials Registry Platform (30 September 2016)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) of progesterone versus no progesterone (or placebo) for the treatment of people with acute TBI."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened search results independently to identify potentially relevant studies for inclusion. Independently, two review authors selected trials that met the inclusion criteria from the results of the screened searches, with no disagreement."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included five RCTs in the review, with a total of 2392 participants. We assessed one trial to be at low risk of bias; two at unclear risk of bias (in one multicentred trial the possibility of centre effects was unclear, whilst the other trial was stopped early), and two at high risk of bias, due to issues with blinding and selective reporting of outcome data.\nAll included studies reported the effects of progesterone on mortality and disability. Low quality evidence revealed no evidence of a difference in overall mortality between the progesterone group and placebo group (RR 0.91, 95% CI 0.65 to 1.28, I² = 62%; 5 studies, 2392 participants, 2376 pooled for analysis). Using the GRADE criteria, we assessed the quality of the evidence as low, due to the substantial inconsistency across studies.\nThere was also no evidence of a difference in disability (unfavourable outcomes as assessed by the Glasgow Outcome Score) between the progesterone group and placebo group (RR 0.98, 95% CI 0.89 to 1.06, I² = 37%; 4 studies; 2336 participants, 2260 pooled for analysis). We assessed the quality of this evidence to be moderate, due to inconsistency across studies.\nData were not available for meta-analysis for the outcomes of mean intracranial pressure, blood pressure, body temperature or adverse events. However, data from three studies showed no difference in mean intracranial pressure between the groups. Data from another study showed no evidence of a difference in blood pressure or body temperature between the progesterone and placebo groups, although there was evidence that intravenous progesterone infusion increased the frequency of phlebitis (882 participants). There was no evidence of a difference in the rate of other adverse events between progesterone treatment and placebo in the other three studies that reported on adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This updated review did not find evidence that progesterone could reduce mortality or disability in patients with TBI. However, concerns regarding inconsistency (heterogeneity among participants and the intervention used) across included studies reduce our confidence in these results.\nThere is no evidence from the available data that progesterone therapy results in more adverse events than placebo, aside from evidence from a single study of an increase in phlebitis (in the case of intravascular progesterone).\nThere were not enough data on the effects of progesterone therapy for our other outcomes of interest (intracranial pressure, blood pressure, body temperature) for us to be able to draw firm conclusions.\nFuture trials would benefit from a more precise classification of TBI and attempts to optimise progesterone dosage and scheduling."
+    }
+  ],
+  "pls_title": "Progesterone for traumatic brain injury",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "To find out whether using the hormone progesterone to treat people who have had an injury to the head that caused brain damage (traumatic brain injury (TBI)) is helpful and safe, if given within 24 hours of the injury."
+    },
+    {
+      "heading": "Background",
+      "text": "TBI is one of the main causes of death and disability in people with injuries. Damage to the brain can start at the time of the injury, but can continue for days after the injury too. Progesterone is a hormone that some doctors think could be used as a potential medicine for reducing brain damage if given shortly after TBI. However, as there is uncertainty about the effectiveness of this hormone, it is important that we assess the evidence."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the medical literature widely for randomised controlled trials that investigated the effects of progesterone in people with TBI up to 30 September 2016. Randomised controlled trials provide the most robust medical evidence. ."
+    },
+    {
+      "heading": "Key results",
+      "text": "We included five studies with a total of 2392 participants, and identified three ongoing studies. The studies all compared a group of participants who received progesterone within 24 hours of TBI against a group who received a pretend - or dummy - medicine (known as a placebo) that looked the same as the progesterone.\nThe results of our review did not find evidence that, when compared to placebo, progesterone could reduce death and disability in people with TBI. There were too few data available on the other outcomes that we were interested in (pressure inside the skull (intracranial pressure), blood pressure, body temperature and adverse events (harms)), for us to be able to analyse these in detail. However, although the information available shows no evidence of a difference in effect between the progesterone and control groups for intracranial pressure, blood pressure or body temperature, one study showed an increased level of an adverse event called phlebitis (inflammation in the vein) in the progesterone group, possibly because the progestreone was given into the vein through an intravascular infusion ('drip')."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We judged the quality of the evidence to be low for the data on risk of death, and moderate for the data on risk of disability. These judgements resulted from differences across studies, including different doses of progesterone and different time points for assessment of participants in the included studies. This means that we have limited confidence in the conclusions of this review."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD008121.pub2",
+  "name": "Second‐generation antipsychotics for major depressive disorder and dysthymia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Major depressive disorder (MDD) is a common condition with a lifetime prevalence of 15% to 18%, which leads to considerable suffering and disability. Some antipsychotics have been reported to induce remission in major depression, when added to an antidepressant."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of second-generation antipsychotic (SGA) drugs (alone or augmentation) compared with placebo or antidepressants for people with MDD or dysthymia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Depression, Anxiety and Neurosis Group's controlled trial registers (CCDANCTR-Studies and CCDANCTR-References) were searched up to 21 July 2010. The author team ran complementary searches on clinicaltrials.gov and contacted key authors and drug companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised, double-blind trials comparing oral SGA treatment (alone or augmentation) with other forms of pharmaceutical treatment or placebo in people with MDD or dysthymia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For dichotomous data we calculated the odds ratio (OR) and 95% confidence interval (CI) on an intention-to-treat basis, and for continuous data the mean difference (MD), based on a random-effects model. We presented each comparison separately; we did not perform a pooled data analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 28 trials with 8487 participants on five SGAs: amisulpride, aripiprazole, olanzapine, quetiapine and risperidone.\nThree studies (1092 participants) provided data on aripiprazole augmentation in MDD. All efficacy data (response n = 1092, three RCTs, OR 0.48; 95% CI 0.37 to 0.63), (MADRS n = 1077, three RCTs, MD -3.04; 95% CI -4.09 to -2) indicated a benefit for aripiprazole but  more side effects (weight gain, EPS) .\nSeven trials (1754 participants) reported data on olanzapine. Compared to placebo fewer people discontinued treatment due to inefficacy; compared to antidepressants there were no efficacy differences, olanzapine augmentation showed symptom reduction (MADRS n = 808, five RCTs, MD -2.84; 95% CI -5.48 to -0.20), but also more weight or prolactin increase.\nQuetiapine data are based on seven trials (3414 participants). Compared to placebo, quetiapine monotherapy (response n = 1342, three RCTs, OR 0.52; 95% CI 0.41 to 0.66) and quetiapine augmentation (response n = 937, two RCTs, OR 0.68; 95% CI 0.52 to 0.90) showed symptom reduction, but quetiapine induced more sedation.\nFour trials (637 participants) presented data on risperidone augmentation, response data were better for risperidone (n = 371, two RCTs, OR 0.57; 95% CI 0.36 to 0.89) but augmentation showed more prolactin increase and weight gain.\nFive studies (1313 participants) presented data on amisulpride treatment for dysthymia. There were some beneficial effects compared to placebo or antidepressants but tolerability was worse."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Quetiapine was more effective than placebo treatment. Aripiprazole and quetiapine and partly also olanzapine and risperidone augmentation showed beneficial effects compared to placebo. Some evidence indicated beneficial effects of low-dose amisulpride for dysthymic people. Most SGAs showed worse tolerability."
+    }
+  ],
+  "pls_title": "Second-generation antipsychotic drugs for major depressive disorder",
+  "pls_type": "long",
+  "pls": "This review found 28 studies on five second-generation antipsychotic drugs (amisulpride, aripiprazole, olanzapine, quetiapine and risperidone) comparing the effects of the drugs alone or adding them or placebo to antidepressants for major depressive disorder and dysthymia. There is evidence that amisulpride might lead to symptom reduction in dysthymia, while no important differences were seen for major depression. There is limited evidence that aripiprazole leads to symptom reduction when added to antidepressants. Olanzapine had no beneficial effects for treatment of depression when compared to antidepressants or compared to placebo but there was limited evidence for the benefits of olanzapine as additional treatment. Data on quetiapine indicated beneficial effects for quetiapine alone or as additional treatment when compared to placebo; data on quetiapine versus duloxetine did not show beneficial effects in terms of symptom reduction for either group, but quetiapine treatment was less well tolerated. The data, however, are very limited. Slight benefits of risperidone as additional treatment, in terms of symptom reduction, are also based on a rather small number of randomised participants. Generally, treatment with second-generation antipsychotic drugs was associated with worse tolerability, mainly due to sedation, weight gain or laboratory values such as prolactin increase."
+}

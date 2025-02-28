@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD012080.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Helicobacter pylori (H pylori ) infection has been implicated in a number of malignancies and non-malignant conditions including peptic ulcers, non-ulcer dyspepsia, recurrent peptic ulcer bleeding, unexplained iron deficiency anaemia, idiopathic thrombocytopaenia purpura, and colorectal adenomas. The confirmatory diagnosis of H pylori is by endoscopic biopsy, followed by histopathological examination using haemotoxylin and eosin (H & E) stain or special stains such as Giemsa stain and Warthin-Starry stain. Special stains are more accurate than H & E stain. There is significant uncertainty about the diagnostic accuracy of non-invasive tests for diagnosis of H pylori."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the diagnostic accuracy of urea breath test, serology, and stool antigen test, used alone or in combination, for diagnosis of H pylori infection in symptomatic and asymptomatic people, so that eradication therapy for H pylori can be started."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE, Embase, the Science Citation Index and the National Institute for Health Research Health Technology Assessment Database on 4 March 2016. We screened references in the included studies to identify additional studies. We also conducted citation searches of relevant studies, most recently on 4 December 2016. We did not restrict studies by language or publication status, or whether data were collected prospectively or retrospectively."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy studies that evaluated at least one of the index tests (urea breath test using isotopes such as 13C or 14C, serology and stool antigen test) against the reference standard (histopathological examination using H & E stain, special stains or immunohistochemical stain) in people suspected of having H pylori infection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the references to identify relevant studies and independently extracted data. We assessed the methodological quality of studies using the QUADAS-2 tool. We performed meta-analysis by using the hierarchical summary receiver operating characteristic (HSROC) model to estimate and compare SROC curves. Where appropriate, we used bivariate or univariate logistic regression models to estimate summary sensitivities and specificities."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 101 studies involving 11,003 participants, of which 5839 participants (53.1%) had H pylori infection. The prevalence of H pylori infection in the studies ranged from 15.2% to 94.7%, with a median prevalence of 53.7% (interquartile range 42.0% to 66.5%). Most of the studies (57%) included participants with dyspepsia and 53 studies excluded participants who recently had proton pump inhibitors or antibiotics.There was at least an unclear risk of bias or unclear applicability concern for each study.\nOf the 101 studies, 15 compared the accuracy of two index tests and two studies compared the accuracy of three index tests. Thirty-four studies (4242 participants) evaluated serology; 29 studies (2988 participants) evaluated stool antigen test; 34 studies (3139 participants) evaluated urea breath test-13C; 21 studies (1810 participants) evaluated urea breath test-14C; and two studies (127 participants) evaluated urea breath test but did not report the isotope used. The thresholds used to define test positivity and the staining techniques used for histopathological examination (reference standard) varied between studies. Due to sparse data for each threshold reported, it was not possible to identify the best threshold for each test.\nUsing data from 99 studies in an indirect test comparison, there was statistical evidence of a difference in diagnostic accuracy between urea breath test-13C, urea breath test-14C, serology and stool antigen test (P = 0.024). The diagnostic odds ratios for urea breath test-13C, urea breath test-14C, serology, and stool antigen test were 153 (95% confidence interval (CI) 73.7 to 316), 105 (95% CI 74.0 to 150), 47.4 (95% CI 25.5 to 88.1) and 45.1 (95% CI 24.2 to 84.1). The sensitivity (95% CI) estimated at a fixed specificity of 0.90 (median from studies across the four tests), was 0.94 (95% CI 0.89 to 0.97) for urea breath test-13C, 0.92 (95% CI 0.89 to 0.94) for urea breath test-14C, 0.84 (95% CI 0.74 to 0.91) for serology, and 0.83 (95% CI 0.73 to 0.90) for stool antigen test. This implies that on average, given a specificity of 0.90 and prevalence of 53.7% (median specificity and prevalence in the studies), out of 1000 people tested for H pylori infection, there will be 46 false positives (people without H pylori infection who will be diagnosed as having H pylori infection). In this hypothetical cohort, urea breath test-13C, urea breath test-14C, serology, and stool antigen test will give 30 (95% CI 15 to 58), 42 (95% CI 30 to 58), 86 (95% CI 50 to 140), and 89 (95% CI 52 to 146) false negatives respectively (people with H pylori infection for whom the diagnosis of H pylori will be missed).\nDirect comparisons were based on few head-to-head studies. The ratios of diagnostic odds ratios (DORs) were 0.68 (95% CI 0.12 to 3.70; P = 0.56) for urea breath test-13C versus serology (seven studies), and 0.88 (95% CI 0.14 to 5.56; P = 0.84) for urea breath test-13C versus stool antigen test (seven studies). The 95% CIs of these estimates overlap with those of the ratios of DORs from the indirect comparison. Data were limited or unavailable for meta-analysis of other direct comparisons."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In people without a history of gastrectomy and those who have not recently had antibiotics or proton ,pump inhibitors, urea breath tests had high diagnostic accuracy while serology and stool antigen tests were less accurate for diagnosis of Helicobacter pylori infection.This is based on an indirect test comparison (with potential for bias due to confounding), as evidence from direct comparisons was limited or unavailable. The thresholds used for these tests were highly variable and we were unable to identify specific thresholds that might be useful in clinical practice.\nWe need further comparative studies of high methodological quality to obtain more reliable evidence of relative accuracy between the tests. Such studies should be conducted prospectively in a representative spectrum of participants and clearly reported to ensure low risk of bias. Most importantly, studies should prespecify and clearly report thresholds used, and should avoid inappropriate exclusions."
+    }
+  ],
+  "pls_title": "Accuracy of different non-invasive methods for identifying Helicobacter pylori",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is it important to know whether someone has Helicobacter pylori?",
+      "text": "Helicobacter pylori?\nHelicobacter pylori (H pylori) is a type of bacteria which may be present in the stomach of some people. H pylori is believed to cause a number of cancers, including stomach cancer, pancreatic cancer, and throat cancer. H pylori is also linked with other diseases including stomach ulcers, heart burn, and a bloated feeling. If H pylori is found in an individual, appropriate treatment can be started."
+    },
+    {
+      "heading": "What is the aim of this review?",
+      "text": "To compare the accuracy of three different types of test for H pylori. These are: urea breath tests, blood tests (the specific blood test is called serology), and stool tests (in faeces)."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "There are two types of urea breath test which use two different forms of carbon known as 13C and 14C, as well as multiple versions of serology and stool tests."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "We found 101 studies which included 11,003 people who were tested for H pylori . Of these 11,003 participants, 5839 (53.1%) had H pylori infection. All the studies used one of the three tests listed above and compared these test results with the diagnosis given by endoscopic biopsy. Endoscopic biopsy involves obtaining tissue from the stomach using a thin flexible tube introduced through the mouth and testing for the presence of H pylori under the microscope. It is currently the most accurate available test, however it causes physical discomfort to the patient, with associated risks for harm. This is in contrast to the alternative non-invasive tests in this review which are significantly less uncomfortable and have minimal or no risk of harm, making them desirable alternatives if they can be shown to be as accurate at diagnosing H pylori as endoscopic biopsy. Most of the studies included participants with heart burn or similar problems in the stomach and excluded participants who had previously undergone partial removal of the stomach and those having treatment for H pylori.\nThirty-four studies (4242 participants) used serology; 29 studies (2988 participants) used stool antigen test; 34 studies (3139 participants) used urea breath test-13C; 21 studies (1810 participants) used urea breath test-14C; and two studies (127 participants) used urea breath test but did not report the type of carbon used. Studies varied in the limit they used before saying a test was positive for H pylori infection and the type of stains used to examine the biopsy material. When we looked at all the data we found that urea breath tests were more accurate than blood and stool tests. The results mean that, on average, if 1000 people are tested, there will be 46 people without H pylori who will be misdiagnosed as having H pylori . Also, there will be 30, 42, 86, and 89 people with H pylori infection for whom the diagnosis of H pylori infection will be missed by urea breath test-13C, urea breath test-14C, serology, and stool antigen test, respectively. When we looked at the seven studies which compared urea breath test-13C and serology, or urea breath test-13C and stool antigen tests in the same participants, the results were uncertain and we cannot tell which test is more accurate."
+    },
+    {
+      "heading": "How reliable are the results of the studies?",
+      "text": "Except for one study, all the studies were of poor methodological quality, which makes their results unreliable."
+    },
+    {
+      "heading": "Who do the results of this review apply to?",
+      "text": "These results apply to children and adults with suspected H pylori infection, but only in those who have not previously undergone stomach operations and those who have not recently had antibiotics or treatment for H pylori infection."
+    },
+    {
+      "heading": "What are the implications of this review?",
+      "text": "Urea breath tests, blood tests, and stool tests may be suitable for identifying whether someone has H pylori infection. However, the level of the result of urea breath test, blood test, or stool test which should be used to make a diagnosis of H pylori infection remains unclear."
+    },
+    {
+      "heading": "How up-to-date is the review?",
+      "text": "We performed a thorough literature search for studies reporting the accuracy of these different tests until 4 March 2016."
+    }
+  ]
+}

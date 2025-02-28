@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005370.pub3",
+  "name": "Antithrombin III for critically ill patients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Critical illness is associated with uncontrolled inflammation and vascular damage which can result in multiple organ failure and death. Antithrombin III (AT III) is an anticoagulant with anti-inflammatory properties but the efficacy and any harmful effects of AT III supplementation in critically ill patients are unknown. This review was published in 2008 and updated in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine:\n1. The effect of AT III on mortality in critically ill participants.\n2. The benefits and harms of AT III.\nWe investigated complications specific and not specific to the trial intervention, bleeding events, the effect on sepsis and disseminated intravascular coagulation (DIC) and the length of stay in the intensive care unit (ICU) and in hospital in general."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases from inception to 27 August 2015: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid SP), EMBASE (Ovid SP,), CAB, BIOSIS and CINAHL. We contacted the main authors of trials to ask for any missed, unreported or ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) irrespective of publication status, date of publication, blinding status, outcomes published, or language. We contacted the investigators and the trial authors in order to retrieve missing data. In this updated review we include trials only published as abstracts."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Our primary outcome measure was mortality. Two authors each independently abstracted data and resolved any disagreements by discussion. We presented pooled estimates of the intervention effects on dichotomous outcomes as risk ratios (RR) with 95% confidence intervals (CI). We performed subgroup analyses to assess risk of bias, the effect of AT III in different populations (sepsis, trauma, obstetrics, and paediatrics), and the effect of AT III in patients with or without the use of concomitant heparin. We assessed the adequacy of the available number of participants and performed trial sequential analysis (TSA) to establish the implications for further research."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 30 RCTs with a total of 3933 participants (3882 in the primary outcome analyses).\nCombining all trials, regardless of bias, showed no statistically significant effect of AT III on mortality with a RR of 0.95 (95% CI 0.88 to 1.03), I² statistic = 0%, fixed-effect model, 29 trials, 3882 participants, moderate quality of evidence). For trials with low risk of bias the RR was 0.96 (95% Cl 0.88 to 1.04, I² statistic = 0%, fixed-effect model, 9 trials, 2915 participants) and for high risk of bias RR 0.94 (95% Cl 0.77 to 1.14, I² statistic = 0%, fixed-effect model, 20 trials, 967 participants).\nFor participants with severe sepsis and DIC the RR for mortality was non-significant, 0.95 (95% Cl 0.88 to 1.03, I² statistic = 0%, fixed-effect model, 12 trials, 2858 participants, moderate quality of evidence).\nWe conducted 14 subgroup and sensitivity analyses with respect to the different domains of risk of bias, but detected no statistically significant benefit in any subgroup analyses.\nOur secondary objective was to assess the benefits and harms of AT III. For complications specific to the trial intervention the RR was 1.26 (95% Cl 0.83 to 1.92, I² statistic = 0%, random-effect model, 3 trials, 2454 participants, very low quality of evidence ). For complications not specific to the trial intervention, the RR was 0.71 (95% Cl 0.08 to 6.11, I² statistic = 28%, random-effects model, 2 trials, 65 participants, very low quality of evidence ). For complications other than bleeding, the RR was 0.72 ( 95% Cl 0.42 to 1.25, I² statistic = 0%, fixed-effect model, 3 trials, 187 participants, very low quality of evidence ). Eleven trials investigated bleeding events and we found a statistically significant increase, RR 1.58 (95% CI 1.35 to 1.84, I² statistic = 0%, fixed-effect model, 11 trials, 3019 participants, moderate quality of evidence ) in the AT III group. The amount of red blood cells administered had a mean difference (MD) of 138.49 (95% Cl -391.35 to 668.34, I² statistic = 84%, random-effect model, 4 trials, 137 participants, very low quality of evidence ). The effect of AT III in patients with multiple organ failure (MOF) was a MD of -1.24 (95% Cl -2.18 to -0.29, I² statistic = 48%, random-effects model, 3 trials, 156 participants, very low quality of evidence ) and for patients with an Acute Physiology and Chronic Health Evaluation score (APACHE) at II and III the MD was -2.18 (95% Cl -4.36 to -0.00, I² statistic = 0%, fixed-effect model, 3 trials, 102 participants, very low quality of evidence ). The incidence of respiratory failure had a RR of 0.93 (95% Cl 0.76 to 1.14, I² statistic = 32%, random-effects model, 6 trials, 2591 participants, moderate quality of evidence ). AT III had no statistically significant impact on the duration of mechanical ventilation (MD 2.20 days, 95% Cl -1.21 to 5.60, I² statistic = 0%, fixed-effect model, 3 trials, 190 participants, very low quality of evidence ); on the length of stay in the ICU (MD 0.24, 95% Cl -1.34 to 1.83, I² statistic = 0%, fixed-effect model, 7 trials, 376 participants, very low quality of evidence ) or on the length of stay in hospital in general (MD 1.10, 95% Cl -7.16 to 9.36), I² statistic = 74%, 4 trials, 202 participants, very low quality of evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to support AT III substitution in any category of critically ill participants including the subset of patients with sepsis and DIC. We did not find a statistically significant effect of AT III on mortality, but AT III increased the risk of bleeding events. Subgroup analyses performed according to duration of intervention, length of follow-up, different patient groups, and use of adjuvant heparin did not show differences in the estimates of intervention effects. The majority of included trials were at high risk of bias (GRADE; very low quality of evidence for most of the analyses). Hence a large RCT of AT III is needed, without adjuvant heparin among critically ill patients such as those with severe sepsis and DIC, with prespecified inclusion criteria and good bias protection."
+    }
+  ],
+  "pls_title": "Antithrombin III for critically ill patients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Antithrombin is a small particle produced by the liver. It deactivates several substances which affect the ability of the blood to form clots. Its activity is increased many-fold by the drug heparin, which enhances the binding of antithrombin to clotting factors so that the blood does not form clots. Antithrombin also reduces inflammation in the human body. Inflammation is the body's attempt at self protection to remove harmful stimuli and begin healing processes. Inflammation is thus not always a bad process.\nThis updated review assessed the effects of antithrombin in people recovering from critical illness. Our primary goal was to investigate whether the number of people who died changed by giving antithrombin. We also investigated whether there were more complications among people treated with this drug, the extent of bleeding and the amount of blood given to the critical ill people. Finally we examined the impact of antithrombin on the duration of respiratory therapy, length of stay in the intensive care units and in the hospital in general."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 30 trials with 3933 participants (3882 in our data calculation) in this updated review. We found the overall quality of trials to be poor, with little information on how the experiments were carried out. The results were limited and the included trials were mostly small. In most trials, there was a high risk of misleading information. Thus, the results must be interpreted with caution. The evidence is up to date to 27 August 2015."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Three of the 30 included trials reported receiving money from drug companies."
+    },
+    {
+      "heading": "Key results",
+      "text": "In our review we could not identify a clear advantage of antithrombin for the objectives we examined, overall or among various types of patients or subgroups. In our investigation of bleeding events, however, we found an increased risk of bleeding for patients treated with antithrombin."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, there was a low quality of information from the studies regarding all of the results. We conclude that there is a need for a large-scale clinical trial with low risk of misleading information to investigate the advantages and harms of this drug among critically ill patients."
+    }
+  ]
+}

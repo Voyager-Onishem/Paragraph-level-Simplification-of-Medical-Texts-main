@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002947.pub2",
+  "name": "Oral herbal therapies for treating osteoarthritis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Medicinal plant products are used orally for treating osteoarthritis. Although their mechanisms of action have not yet been elucidated in full detail, interactions with common inflammatory mediators provide a rationale for using them to treat osteoarthritic complaints."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To update a previous Cochrane review to assess the benefits and harms of oral medicinal plant products in treating osteoarthritis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched electronic databases (CENTRAL, MEDLINE, EMBASE, AMED, CINAHL, ISI Web of Science, World Health Organization Clinical Trials Registry Platform) to 29 August 2013, unrestricted by language, and the reference lists from retrieved trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of orally consumed herbal interventions compared with placebo or active controls in people with osteoarthritis were included. Herbal interventions included any plant preparation but excluded homeopathy or aromatherapy products, or any preparation of synthetic origin."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors used standard methods for trial selection and data extraction, and assessed the quality of the body of evidence using the GRADE approach for major outcomes (pain, function, radiographic joint changes, quality of life, withdrawals due to adverse events, total adverse events, and serious adverse events)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-nine randomised controlled studies (33 interventions, 5980 participants) were included. Seventeen studies of confirmatory design (sample and effect sizes pre-specified) were mostly at moderate risk of bias. The remaining 32 studies of exploratory design were at higher risk of bias. Due to differing interventions, meta-analyses were restricted to Boswellia serrata (monoherbal) and avocado-soyabean unsaponifiables (ASU) (two herb combination) products.\nFive studies of three different extracts from Boswellia serrata were included. Moderate-quality evidence from two studies (85 participants) indicated that 90 days treatment with 100 mg of enriched Boswellia serrata extract improved symptoms compared to placebo. Mean pain was 40 points on a 0 to 100 point VAS scale (0 is no pain) with placebo, enriched Boswellia serrata reduced pain by a mean of 17 points (95% confidence interval (CI) 8 to 26); number needed to treat for an additional beneficial outcome (NNTB) 2; the 95% CIs did not exclude a clinically significant reduction of 15 points in pain. Physical function was 33 points on the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) 0 to 100 point subscale (0 is no loss of function) with placebo, enriched Boswellia serrata improved function by 8 points (95% CI 2 to 14); NNTB 4. Assuming a minimal clinically important difference of 10 points, we cannot exclude a clinically important benefit in some people. Moderate-quality evidence (one study, 96 participants) indicated that adverse events were probably reduced with enriched Boswellia serrata (18/48 events versus 30/48 events with placebo; relative risk (RR) 0.60, 95% CI 0.39 to 0.92). Possible benefits of other Boswellia serrata extracts over placebo were confirmed in moderate-quality evidence from two studies (97 participants) of Boswellia serrata (enriched) 100 mg plus non-volatile oil, and low-quality evidence from small single studies of a 999 mg daily dose of Boswellia serrata extract and 250 mg daily dose of enrichedBoswellia serrata . It was uncertain if a 99 mg daily dose of Boswellia serrata offered benefits over valdecoxib due to the very low-quality evidence from a small single study. It was uncertain if there was an increased risk of adverse events or withdrawals with Boswellia serrata extract due to variable reporting of results across studies. The studies reported no serious adverse events. Quality of life and radiographic joint changes were not measured.\nSix studies examined the ASU product Piasclidine®. Moderate-quality evidence from four studies (651 participants) indicated that ASU 300 mg produced a small and clinically questionable improvement in symptoms, and probably no increased adverse events compared to placebo after three to 12 months treatment. Mean pain with placebo was 40.5 points on a VAS 0 to 100 scale (0 is no pain), ASU 300 mg reduced pain by a mean of 8.5 points (95% CI 1 to 16 points); NNTB 8. ASU 300 mg improved function (standardised mean difference (SMD) -0.42, 95% CI -0.73 to -0.11). Function was estimated as 47 mm (0 to 100 mm scale, where 0 is no loss of function) with placebo, ASU 300 mg improved function by a mean of 7 mm (95% CI 2 to 12 mm); NNTB 5 (3 to 19). There were no differences in adverse events (5 studies, 1050 participants) between ASU (53%) and placebo (51%) (RR 1.04, 95% CI 0.97 to 1.12); withdrawals due to adverse events (1 study, 398 participants) between ASU (17%) and placebo (15%) (RR 1.14, 95% CI 0.73 to 1.80); or serious adverse events (1 study, 398 participants) between ASU (40%) and placebo (33%) (RR 1.22, 95% CI 0.94 to 1.59). Radiographic joint changes, measured as change in joint space width (JSW) in two studies (453 participants) did not differ between ASU 300 mg treatment (-0.53 mm) and placebo (-0.65 mm); mean difference of -0.12 (95% CI -0.43 to 0.19). Moderate-quality evidence from a single study (156 participants) confirmed possible benefits of ASU 600 mg over placebo, with no increased adverse events. Low-quality evidence (1 study, 357 participants) indicated there may be no differences in symptoms or adverse events between ASU 300 mg and chondroitin sulphate. Quality of life was not measured.\nAll other herbal interventions were investigated in single studies, limiting conclusions. No serious side effects related to any plant product were reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence for the proprietary ASU product Piasclidine® in the treatment of osteoarthritis symptoms seems moderate for short term use, but studies over a longer term and against an apparently active control are less convincing. Several other medicinal plant products, including extracts of Boswellia serrata, have moderate-quality evidence for trends of benefits that warrant further investigation in light of the fact that the risk of adverse events appear low.\nThere is no evidence that Piasclidine® significantly improves joint structure, and limited evidence that it prevents joint space narrowing. Structural changes were not tested for with any other herbal intervention.\nFurther investigations are required to determine optimum daily doses producing clinical benefits without adverse events."
+    }
+  ],
+  "pls_title": "Oral herbal therapies for treating osteoarthritis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background: what is osteoarthritis and what is herbal therapy?",
+      "text": "Osteoarthritis (OA) is a disease of the joints (commonly knees, hips, hands). When joints lose cartilage, bone grows to try to repair the damage. Instead of making things better, however, the bone grows abnormally and makes things worse. For example, the bone can become misshapen and make the joint painful and limit movement. OA can affect your physical function, particularly your ability to use your joints.\nHerbal medicines are defined as being finished, labelled medicinal products that contain as active ingredients aerial or underground parts of plants or other plant material, or combinations thereof, whether in the crude state or as plant preparations (for example extracts, oils, tinctures)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This summary of an update of a Cochrane review presents what we know from research about the effects of herbal therapies consumed orally by people with osteoarthritis. After searching for all relevant studies to August 2013, we included 45 new studies since the last review, giving a total of 49 studies (on 33 herbal interventions) that included 5980 participants, most with mild to moderate symptomatic osteoarthritis of the knee or hip. Thirty-three different medicinal plant products were compared with placebo or active intervention controls and many comparisons had single studies only; thus, we have restricted reporting of results here to multiple studies of Boswellia serrata (monoherbal) and avocado-soyabean unsaponifiables (ASU) (two herb combination) products."
+    },
+    {
+      "heading": "Key results",
+      "text": ""
+    },
+    {
+      "heading": "Boswellia serrata",
+      "text": "Pain on a scale of 0 to 100 points (lower scores mean reduced pain):\n- people who used 100 mg of enriched Boswellia serrata extract rated their pain 17 points lower (range 8 to 26 points lower) (17% absolute improvement) at 90 days compared with placebo;\n- people who used enriched Boswellia serrata extract 100 mg rated their pain as 23 points;\n- people who used a placebo preparation rated their pain as 40 points.\nPhysical function on a scale of 0 to 100 points (lower scores means better physical function):\n- people who used 100 mg of enriched Boswellia serrata extract rated their physical function 8 points better (2 to 14 points better) on a 100 point scale (8% absolute improvement) at 90 days compared with placebo;\n- people who used 100 mg of enriched Boswellia serrata extract rated their physical function as 25 points;\n- people who used placebo rated their physical function as 33 points."
+    },
+    {
+      "heading": "Avocado-soyabean unsaponifiables (ASU) product Piascledine®",
+      "text": "Pain on a scale of 0 to 100 points (lower scores mean less pain):\n- people who used ASU 300 mg rated their pain 8 points lower (1 to 16 points lower) on a 100 point scale (8% absolute improvement) at 3 to 12 months compared with placebo;\n- people who used ASU 300 mg rated their pain as 33 points;\n- people who used placebo rated their pain as 41 points.\nPhysical function on a scale of 0 to 100 mm scale (lower scores means better physical function):\n- people who used ASU 300 mg rated their physical function 7 mm better (2 to 12 mm better) on a 100 mm scale (7% absolute improvement) at 3 to 12 months compared with placebo;\n- people who used ASU 300 mg rated their physical function as 40 mm;\n- people who used placebo rated their physical function as 47 mm."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There is moderate-quality evidence that in people with osteoarthritis Boswellia serrata slightly improved pain and function. Further research may change the estimates.\nThere is moderate-quality evidence that avocado-soybean unsaponifiables (ASU) probably improved pain and function slightly, but may not preserve joint space. Further research may change the estimates.\nWe are uncertain whether other oral herbal products improve osteoarthritis pain or function, or slow progression of joint structure damage because the available evidence is limited to single studies or studies that cannot be pooled, and some of these studies are of low to very low quality. Quality of life was not measured.\nHerbal therapies may cause side effects, however we are uncertain if there is an increased risk of these."
+    }
+  ]
+}

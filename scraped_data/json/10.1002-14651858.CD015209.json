@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD015209",
+  "name": "Janus kinase inhibitors for the treatment of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "With potential antiviral and anti-inflammatory properties, Janus kinase (JAK) inhibitors represent a potential treatment for symptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. They may modulate the exuberant immune response to SARS-CoV-2 infection. Furthermore, a direct antiviral effect has been described. An understanding of the current evidence regarding the efficacy and safety of JAK inhibitors as a treatment for coronavirus disease 2019 (COVID-19) is required."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of systemic JAK inhibitors plus standard of care compared to standard of care alone (plus/minus placebo) on clinical outcomes in individuals (outpatient or in-hospital) with any severity of COVID-19, and to maintain the currency of the evidence using a living systematic review approach."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (comprising MEDLINE, Embase, ClinicalTrials.gov, World Health Organization (WHO) International Clinical Trials Registry Platform, medRxiv, and Cochrane Central Register of Controlled Trials), Web of Science, WHO COVID-19 Global literature on coronavirus disease, and the US Department of Veterans Affairs Evidence Synthesis Program (VA ESP) Covid-19 Evidence Reviews to identify studies up to February 2022. We monitor newly published randomised controlled trials (RCTs) weekly using the Cochrane COVID-19 Study Register, and have incorporated all new trials from this source until the first week of April 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs that compared systemic JAK inhibitors plus standard of care to standard of care alone (plus/minus placebo) for the treatment of individuals with COVID-19. We used the WHO definitions of illness severity for COVID-19."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed risk of bias of primary outcomes using Cochrane's Risk of Bias 2 (RoB 2) tool. We used GRADE to rate the certainty of evidence for the following primary outcomes: all-cause mortality (up to day 28), all-cause mortality (up to day 60), improvement in clinical status: alive and without need for in-hospital medical care (up to day 28), worsening of clinical status: new need for invasive mechanical ventilation or death (up to day 28), adverse events (any grade), serious adverse events, secondary infections."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included six RCTs with 11,145 participants investigating systemic JAK inhibitors plus standard of care compared to standard of care alone (plus/minus placebo). Standard of care followed local protocols and included the application of glucocorticoids (five studies reported their use in a range of 70% to 95% of their participants; one study restricted glucocorticoid use to non-COVID-19 specific indications), antibiotic agents, anticoagulants, and antiviral agents, as well as non-pharmaceutical procedures. At study entry, about 65% of participants required low-flow oxygen, about 23% required high-flow oxygen or non-invasive ventilation, about 8% did not need any respiratory support, and only about 4% were intubated. We also identified 13 ongoing studies, and 9 studies that are completed or terminated and where classification is pending.\nIndividuals with moderate to severe disease\nFour studies investigated the single agent baricitinib (10,815 participants), one tofacitinib (289 participants), and one ruxolitinib (41 participants).\nSystemic JAK inhibitors probably decrease all-cause mortality at up to day 28 (95 of 1000 participants in the intervention group versus 131 of 1000 participants in the control group; risk ratio (RR) 0.72, 95% confidence interval (CI) 0.57 to 0.91; 6 studies, 11,145 participants; moderate-certainty evidence), and decrease all-cause mortality at up to day 60 (125 of 1000 participants in the intervention group versus 181 of 1000 participants in the control group; RR 0.69, 95% CI 0.56 to 0.86; 2 studies, 1626 participants; high-certainty evidence).\nSystemic JAK inhibitors probably make little or no difference in improvement in clinical status (discharged alive or hospitalised, but no longer requiring ongoing medical care) (801 of 1000 participants in the intervention group versus 778 of 1000 participants in the control group; RR 1.03, 95% CI 1.00 to 1.06; 4 studies, 10,802 participants; moderate-certainty evidence). They probably decrease the risk of worsening of clinical status (new need for invasive mechanical ventilation or death at day 28) (154 of 1000 participants in the intervention group versus 172 of 1000 participants in the control group; RR 0.90, 95% CI 0.82 to 0.98; 2 studies, 9417 participants; moderate-certainty evidence).\nSystemic JAK inhibitors probably make little or no difference in the rate of adverse events (any grade) (427 of 1000 participants in the intervention group versus 441 of 1000 participants in the control group; RR 0.97, 95% CI 0.88 to 1.08; 3 studies, 1885 participants; moderate-certainty evidence), and probably decrease the occurrence of serious adverse events (160 of 1000 participants in the intervention group versus 202 of 1000 participants in the control group; RR 0.79, 95% CI 0.68 to 0.92; 4 studies, 2901 participants; moderate-certainty evidence). JAK inhibitors may make little or no difference to the rate of secondary infection (111 of 1000 participants in the intervention group versus 113 of 1000 participants in the control group; RR 0.98, 95% CI 0.89 to 1.09; 4 studies, 10,041 participants; low-certainty evidence). Subgroup analysis by severity of COVID-19 disease or type of JAK inhibitor did not identify specific subgroups which benefit more or less from systemic JAK inhibitors.\nIndividuals with asymptomatic or mild disease\nWe did not identify any trial for this population."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In hospitalised individuals with moderate to severe COVID-19, moderate-certainty evidence shows that systemic JAK inhibitors probably decrease all-cause mortality. Baricitinib was the most often evaluated JAK inhibitor. Moderate-certainty evidence suggests that they probably make little or no difference in improvement in clinical status. Moderate-certainty evidence indicates that systemic JAK inhibitors probably decrease the risk of worsening of clinical status and make little or no difference in the rate of adverse events of any grade, whilst they probably decrease the occurrence of serious adverse events. Based on low-certainty evidence, JAK inhibitors may make little or no difference in the rate of secondary infection. Subgroup analysis by severity of COVID-19 or type of agent failed to identify specific subgroups which benefit more or less from systemic JAK inhibitors.\nCurrently, there is no evidence on the efficacy and safety of systemic JAK inhibitors for individuals with asymptomatic or mild disease (non-hospitalised individuals)."
+    }
+  ],
+  "pls_title": "Are systemic Janus kinase inhibitors an effective treatment for people with COVID-19?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "We found moderate- to high-certainty evidence from 6 studies to conclude that systemic Janus kinase (JAK) inhibitors are an effective treatment for coronavirus disease 2019 (COVID-19) in hospitalised people, because they resulted in fewer deaths and a lower rate of clinical deterioration. Evaluation of systemic JAK inhibitors is ongoing in 13 studies whilst the results of 9 further studies are awaiting publication. We will update this review and may adapt our conclusions when their results become available."
+    },
+    {
+      "heading": "What are JAK inhibitors?",
+      "text": "JAK inhibitors are medicines that block the activity of certain parts of the immune system that are sometimes problematic. They are taken orally (systemic) and usually are taken by people who suffer from autoimmune diseases, where the immune system attacks the body itself. JAK inhibitors might also be administered by inhalation but since this was not our focus, we refer to 'systemic JAK inhibitors' throughout the review."
+    },
+    {
+      "heading": "How might JAK inhibitors treat COVID-19?",
+      "text": "In COVID-19, the immune system sometimes overreacts, which can lead to a severe course of disease. JAK inhibitors can block parts of the immune system and counteract any clinical deteriorations."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether systemic JAK inhibitors, in addition to usual care, are effective for people with COVID-19 when compared to usual care with or without a placebo (a treatment that looks and tastes the same as the study drug but with no active ingredient), and whether they cause unwanted effects. We were particularly interested in:\n• number of deaths from any cause up to 60 days after treatment, or longer if reported;\n• whether people got better or worse after treatment, based on their need for breathing support;\n• unwanted effects of the treatment and infections acquired in hospital."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that reported on people with COVID-19 who received systemic JAK inhibitors together with usual care, or usual care alone (plus/minus placebo). We compared and summarised the results of the studies and rated our confidence in the evidence, based on common criteria about the reliability of the evidence."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 6 suitable studies involving 11,145 people with COVID-19. All studies compared systemic JAK inhibitors (baricitinib in 4 studies, tofacitinib in 1 study and ruxolitinib in 1 study) to usual care (in addition to placebo), and were performed in hospitalised people. We did not find studies performed in outpatients. Most participants needed oxygen supplementation through low-flow devices (7220 participants) and few (463 participants) were mechanically ventilated at the study entry. We also identified 13 ongoing studies and 9 studies that are completed/terminated but unpublished yet."
+    },
+    {
+      "heading": "Main results",
+      "text": "Systemic JAK inhibitors plus usual care compared to usual care alone probably lead to fewer deaths from all causes at up to day 28 and lead to fewer deaths from all causes up to day 60 in the studies. It was not possible to identify subgroups of participants (according to severity of illness) who might benefit most from treatment with JAK inhibitors. Systemic JAK inhibitors probably make little or no difference in improvement in clinical status. They probably decrease the risk of worsening of clinical status. Systemic JAK inhibitors probably make little or no difference in the rate of unwanted effects, and probably decrease slightly the occurrence of serious unwanted effects. Systemic JAK inhibitors may result in little or no difference in the rate of infections acquired in hospital."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "As current studies on systemic JAK inhibitors in outpatients are lacking, evidence is limited in this group of people with COVID-19. Studies used different ways to assess and report unwanted effects, especially in regard to infections acquired in hospital.\nIn accordance with the living approach of this review, we will continually update our search and include eligible trials to fill this evidence gap."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to February 2022. We monitor newly published studies weekly using the Cochrane COVID-19 Study Register, and have incorporated all new trials identified from this source until the first week of April 2022."
+    }
+  ]
+}

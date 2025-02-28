@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD009535.pub3",
+  "name": "Home versus in‐centre haemodialysis for people with kidney failure",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Home haemodialysis (HHD) may be associated with important clinical, social or economic benefits. However, few randomised controlled trials (RCTs) have evaluated HHD versus in-centre HD (ICHD). The relative benefits and harms of these two HD modalities are uncertain. This is an update of a review first published in 2014. This update includes non-randomised studies of interventions (NRSIs)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits and harms of HHD versus ICHD in adults with kidney failure."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We contacted the Information Specialist and searched the Cochrane Kidney and Transplant Register of Studies up to 9 October 2022 using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal, and ClinicalTrials.gov. We searched MEDLINE (OVID) and EMBASE (OVID) for NRSIs."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs and NRSIs evaluating HHD (including community houses and self-care) compared to ICHD in adults with kidney failure were eligible. The outcomes of interest were cardiovascular death, all-cause death, non-fatal myocardial infarction, non-fatal stroke, all-cause hospitalisation, vascular access interventions, central venous catheter insertion/exchange, vascular access infection, parathyroidectomy, wait-listing for a kidney transplant, receipt of a kidney transplant, quality of life (QoL), symptoms related to dialysis therapy, fatigue, recovery time, cost-effectiveness, blood pressure, and left ventricular mass."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed if the studies were eligible and then extracted data. The risk of bias was assessed, and relevant outcomes were extracted. Summary estimates of effect were obtained using a random-effects model, and results were expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes and mean difference (MD) or standardised mean difference (SMD) and 95% CI for continuous outcomes. Confidence in the evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach.\nMeta-analysis was performed on outcomes where there was sufficient data."
+    },
+    {
+      "heading": "Main results",
+      "text": "From the 1305 records identified, a single cross-over RCT and 39 NRSIs proved eligible for inclusion. These studies were of varying design (prospective cohort, retrospective cohort, cross-sectional) and involved a widely variable number of participants (small single-centre studies to international registry analyses). Studies also varied in the treatment prescription and delivery (e.g. treatment duration, frequency, dialysis machine parameters) and participant characteristics (e.g. time on dialysis). Studies often did not describe these parameters in detail. Although the risk of bias, as assessed by the Newcastle-Ottawa Scale, was generally low for most studies, within the constraints of observational study design, studies were at risk of selection bias and residual confounding.\nMany study outcomes were reported in ways that did not allow direct comparison or meta-analysis. It is uncertain whether HHD, compared to ICHD, may be associated with a decrease in cardiovascular death (RR 0.92, 95% CI 0.80 to 1.07; 2 NRSIs, 30,900 participants; very low certainty evidence) or all-cause death (RR 0.80, 95% CI 0.67 to 0.95; 9 NRSIs, 58,984 patients; very low certainty evidence). It is also uncertain whether HHD may be associated with a decrease in hospitalisation rate (MD -0.50 admissions per patient-year, 95% CI -0.98 to -0.02; 2 NRSIs, 834 participants; very low certainty evidence), compared with ICHD.\nCompared with ICHD, it is uncertain whether HHD may be associated with receipt of kidney transplantation (RR 1.28, 95% CI 1.01 to 1.63; 6 NRSIs, 10,910 participants; very low certainty evidence) and a shorter recovery time post-dialysis (MD -2.0 hours, 95% CI -2.73 to -1.28; 2 NRSIs, 348 participants; very low certainty evidence). It remains uncertain if HHD may be associated with decreased systolic blood pressure (SBP) (MD -11.71 mm Hg, 95% CI -21.11 to -2.46; 4 NRSIs, 491 participants; very low certainty evidence) and decreased left ventricular mass index (LVMI) (MD -17.74 g/m2, 95% CI -29.60 to -5.89; 2 NRSIs, 130 participants; low certainty evidence). There was insufficient data to evaluate the relative association of HHD and ICHD with fatigue or vascular access outcomes.\nPatient-reported outcome measures were reported using 18 different measures across 11 studies (QoL: 6 measures; mental health: 3 measures; symptoms: 1 measure; impact and view of health: 6 measures; functional ability: 2 measures). Few studies reported the same measures, which limited the ability to perform meta-analysis or compare outcomes.\nIt is uncertain whether HHD is more cost-effective than ICHD, both in the first (SMD -1.25, 95% CI -2.13 to -0.37; 4 NRSIs, 13,809 participants; very low certainty evidence) and second year of dialysis (SMD -1.47, 95% CI -2.72 to -0.21; 4 NRSIs, 13,809 participants; very low certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on low to very low certainty evidence, HHD, compared with ICHD, has uncertain associations or may be associated with decreased cardiovascular and all-cause death, hospitalisation rate, slower post-dialysis recovery time, and decreased SBP and LVMI. HHD has uncertain cost-effectiveness compared with ICHD in the first and second years of treatment.\nThe majority of studies included in this review were observational and subject to potential selection bias and confounding, especially as patients treated with HHD tended to be younger with fewer comorbidities. Variation from study to study in the choice of outcomes and the way in which they were reported limited the ability to perform meta-analyses. Future research should align outcome measures and metrics with other research in the field in order to allow comparison between studies, establish outcome effects with greater certainty, and avoid research waste."
+    }
+  ],
+  "pls_title": "Is home haemodialysis better than in-centre haemodialysis for people with kidney failure?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- Home haemodialysis may be preferred by some patients. However, the research gives us very uncertain answers.\n- We are unsure whether the better patient outcomes with home haemodialysis are because of the dialysis treatment itself or because patients receiving home haemodialysis are younger and less sick."
+    },
+    {
+      "heading": "Why perform haemodialysis at home rather than in a dialysis centre?",
+      "text": "Kidney failure is a common and increasingly prevalent public health problem, which results in increases in illness, death and healthcare costs. People with kidney failure require kidney replacement therapy (dialysis and kidney transplantation) to remove the accumulation of waste products in the blood, which in turn may assist with reducing symptoms such as fatigue, nausea and itching and may improve a person's overall quality of life. Unfortunately, some patients lack access to hospital dialysis care."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "People who are treated with haemodialysis at home may experience increased well-being and might live longer. However, home haemodialysis may also increase the burden of healthcare for patients and families and increase technical problems for patients."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomised and non-randomised studies comparing home haemodialysis with hemodialysis treatment performed in a hospital or clinical setting. We compared and summarised the trials' results and rated our confidence in the information based on factors such as trial methods and size."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found only one randomised study (where patients are randomly allocated to one treatment or the other) that compared home haemodialysis with in-centre haemodialysis in nine patients. All other studies (39) were observational (where the treatment was not randomly assigned).\nHome haemodialysis may be associated with outcomes including increased length of life, fewer hospital stays, higher chance of receiving a kidney transplant, shorter recovery time from dialysis itself and increased control of blood pressure. Patients receiving home haemodialysis tended to have more dialysis (more hours or more often). Some of the differences in outcomes for patients may have been due to factors that were not related to dialysis treatment since patients receiving home haemodialysis were younger and had fewer other illnesses."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The small number and size of the studies were limitations in this review. Not all the studies provided data about the outcomes we were interested in, and we are unsure about the results."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is up to date as of October 2022."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007539.pub2",
+  "name": "Pharmacological interventions for the prevention of allergic and febrile non‐haemolytic transfusion reactions ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Allergic and febrile non-haemolytic transfusion reactions (NHTRs) are the two most common forms of transfusion reaction. Pretransfusion medication with anti-inflammatory drugs is used in NHTR prevention, however its efficacy and safety remains unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effects and safety of pharmacological interventions for preventing NHTR in patients with and without a history of transfusion reactions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The search strategy included The Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 4, 2008), Cochrane Injuries Group's Specialised Register (December 17, 2008), MEDLINE (1950 to November (week 3) 2008), EMBASE (1988 to November (week 3) 2008), LILACS (1982 to January 12, 2009), CINAHL (1982 to December 2008), ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED): 1970 to December 2008). There was no language restriction."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) assessing the effectiveness of interventions for the prevention of NHTR."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Authors independently selected studies, assessed the risks of bias and extracted data. Relative risks (RR) were estimated in RCTs with parallel design (PD). Odds ratio (OR) was estimated for one RCT with crossover design (CD). No meta-analysis was attempted due to differences in the pharmacotherapy of pre-transfusion medication and methodology between the studies; a per-protocol analysis was used."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review includes three RCTs (two PD and one CD). The PD-RCTs employed disparate units of randomisation (UofR); patient or transfusion, while the CD-RCT applied the patient as the UofR. The PD-RCTs administered leukodepleted blood products. Both PD-RCTs compared acetaminophen plus diphenhydramine (ApD) at different regimens with placebo, while the CD-RCT contrasted hydrocortisone pharmacotherapy with diphenhydramine. Both PD-RCTs found no statistically significant difference in allergic reactions (RR 0.13, 95% confidence interval (CI) 0.01 to 2.39, RR 1.46, 95% CI 0.78 to 2.73) and febrile reactions (RR 0.52, 95% CI 0.22 to 1.26). The CD-RCT found a statistically significant difference in the odds of febrile reactions (OR 2.38, 95% CI 1.07 to 5.27). The trials did not report anaphylactic reactions, deaths related to transfusion reactions or other adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "None of the three studies found that medication prior to transfusion reduces NHTR. This applied regardless of the patient's history of NHTR and the use of leukodepleted blood products in the transfusion. However, this conclusion is based on three trials of moderate to low quality. A better-powered RCT is necessary to evaluate the role of pretransfusion medication in the prevention of NHTR. Inclusion criteria should be restricted to patients at high risk of developing NHTR, with no restriction by age, history of transfusion reactions and type of blood products (leukodepleted or not)."
+    }
+  ],
+  "pls_title": "Pre-transfusion drugs for preventing side effects from blood transfusions",
+  "pls_type": "long",
+  "pls": "Febrile non-haemolytic transfusion reactions (FNHTRs) and allergic reactions are the most common adverse reactions to blood transfusion. These reactions are often related to other dangerous side effects from transfusion such as sepsis due to contaminated blood products and intravascular red cell haemolysis.\nIn an effort to prevent these reactions, patients are given drugs prior to transfusion. Three kinds of drugs are commonly used for this pre-transfusion medication, either alone or in combination. However, this practice is not standardised and there is controversy about its effectiveness.\nThis review found that current evidence from three trials in which 462 patients were analysed indicates pre-transfusion medication in any regimen does not reduce the risk of allergic and febrile non-haemolytic transfusion reactions."
+}

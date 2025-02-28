@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD007498.pub3",
+  "name": "Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory infections (ARIs) comprise of a large and heterogeneous group of infections including bacterial, viral, and other aetiologies. In recent years, procalcitonin (PCT), a blood marker for bacterial infections, has emerged as a promising tool to improve decisions about antibiotic therapy (PCT-guided antibiotic therapy). Several randomised controlled trials (RCTs) have demonstrated the feasibility of using procalcitonin for starting and stopping antibiotics in different patient populations with ARIs and different settings ranging from primary care settings to emergency departments, hospital wards, and intensive care units. However, the effect of using procalcitonin on clinical outcomes is unclear. This is an update of a Cochrane review and individual participant data meta-analysis first published in 2012 designed to look at the safety of PCT-guided antibiotic stewardship."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of this systematic review based on individual participant data was to assess the safety and efficacy of using procalcitonin for starting or stopping antibiotics over a large range of patients with varying severity of ARIs and from different clinical settings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE, and Embase, in February 2017, to identify suitable trials. We also searched ClinicalTrials.gov to identify ongoing trials in April 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs of adult participants with ARIs who received an antibiotic treatment either based on a procalcitonin algorithm (PCT-guided antibiotic stewardship algorithm) or usual care. We excluded trials if they focused exclusively on children or used procalcitonin for a purpose other than to guide initiation and duration of antibiotic treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two teams of review authors independently evaluated the methodology and extracted data from primary studies. The primary endpoints were all-cause mortality and treatment failure at 30 days, for which definitions were harmonised among trials. Secondary endpoints were antibiotic use, antibiotic-related side effects, and length of hospital stay. We calculated odds ratios (ORs) and 95% confidence intervals (CIs) using multivariable hierarchical logistic regression adjusted for age, gender, and clinical diagnosis using a fixed-effect model. The different trials were added as random-effects into the model. We conducted sensitivity analyses stratified by clinical setting and type of ARI. We also performed an aggregate data meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 32 eligible RCTs including 18 new trials for this 2017 update, we obtained individual participant data from 26 trials including 6708 participants, which we included in the main individual participant data meta-analysis. We did not obtain individual participant data for four trials, and two trials did not include people with confirmed ARIs. According to GRADE, the quality of the evidence was high for the outcomes mortality and antibiotic exposure, and quality was moderate for the outcomes treatment failure and antibiotic-related side effects.\nPrimary endpoints: there were 286 deaths in 3336 procalcitonin-guided participants (8.6%) compared to 336 in 3372 controls (10.0%), resulting in a significantly lower mortality associated with procalcitonin-guided therapy (adjusted OR 0.83, 95% CI 0.70 to 0.99, P = 0.037). We could not estimate mortality in primary care trials because only one death was reported in a control group participant. Treatment failure was not significantly lower in procalcitonin-guided participants (23.0% versus 24.9% in the control group, adjusted OR 0.90, 95% CI 0.80 to 1.01, P = 0.068). Results were similar among subgroups by clinical setting and type of respiratory infection, with no evidence for effect modification (P for interaction > 0.05). Secondary endpoints: procalcitonin guidance was associated with a 2.4-day reduction in antibiotic exposure (5.7 versus 8.1 days, 95% CI -2.71 to -2.15, P < 0.001) and lower risk of antibiotic-related side effects (16.3% versus 22.1%, adjusted OR 0.68, 95% CI 0.57 to 0.82, P < 0.001). Length of hospital stay and intensive care unit stay were similar in both groups. A sensitivity aggregate-data analysis based on all 32 eligible trials showed similar results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This updated meta-analysis of individual participant data from 12 countries shows that the use of procalcitonin to guide initiation and duration of antibiotic treatment results in lower risks of mortality, lower antibiotic consumption, and lower risk for antibiotic-related side effects. Results were similar for different clinical settings and types of ARIs, thus supporting the use of procalcitonin in the context of antibiotic stewardship in people with ARIs. Future high-quality research is needed to confirm the results in immunosuppressed patients and patients with non-respiratory infections."
+    }
+  ],
+  "pls_title": "Testing blood procalcitonin levels to decide when to start and stop antibiotics in adults with acute respiratory tract infections",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of using procalcitonin to start or discontinue antibiotics in people with acute respiratory infections compared to routine care on mortality and treatment failure?"
+    },
+    {
+      "heading": "Background",
+      "text": "In people with acute respiratory infections, unnecessary antibiotic use significantly contributes to increasing bacterial resistance, medical costs, and the risk of drug-related adverse events. The blood marker procalcitonin increases in bacterial infections and decreases when patients recover from the infection. Procalcitonin can be measured in the blood of patients by different commercially available assays with a turnaround time of around one to two hours and support clinical decision making about initiation and discontinuation of antibiotic therapy."
+    },
+    {
+      "heading": "Search date",
+      "text": "We conducted electronic searches on 10 February 2017. We conducted searches for ongoing trials on 12 April 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "All included trials randomised participants with acute respiratory infections to receive antibiotics based on procalcitonin levels ('procalcitonin-guided' group) or a control group. The trials were performed in primary care, the emergency department and medical wards, and the intensive care unit. Included participants had acute upper or lower respiratory infections, including pneumonia, bronchitis, exacerbation of chronic obstructive pulmonary disease, and others."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "All studies were investigator-initiated trials. Half of the trials were funded by national agencies or did not report funding, and half of the trials received funding from the biomarker industry (e.g. Thermo Fisher Scientific)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We studied 6708 participants from 26 trials in 12 countries. Mortality at 30 days was significantly lower in procalcitonin-guided participants compared to control participants (286 deaths in 3336 procalcitonin-guided participants (8.6%) versus 336 deaths in 3372 controls (10.0%)). There was no significant difference with regard to treatment failures. Results were similar for different clinical settings (primary care, emergency department, intensive care unit) and types of respiratory infection. Regarding antibiotic exposure, participants in the procalcitonin-guided group had a 2.4-day reduction in antibiotic exposure and a reduction in antibiotic-related side effects (16.3% versus 22.1%)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence was high for mortality and antibiotic exposure. Most of the trials did not use blinding, however we did not expect that mortality would be biased by this limitation. The quality of the evidence was moderate for treatment failure and antibiotic-related side effects because the definitions for these endpoints among trials were not identical."
+    }
+  ]
+}

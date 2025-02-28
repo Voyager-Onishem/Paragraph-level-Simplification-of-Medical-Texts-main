@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD004104.pub4",
+  "name": "Non‐invasive ventilation for the management of acute hypercapnic respiratory failure due to exacerbation of chronic obstructive pulmonary disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-invasive ventilation (NIV) with bi-level positive airway pressure (BiPAP) is commonly used to treat patients admitted to hospital with acute hypercapnic respiratory failure (AHRF) secondary to an acute exacerbation of chronic obstructive pulmonary disease (AECOPD)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy of NIV applied in conjunction with usual care versus usual care involving no mechanical ventilation alone in adults with AHRF due to AECOPD. The aim of this review is to update the evidence base with the goals of supporting clinical practice and providing recommendations for future evaluation and research."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Group Specialised Register of trials (CAGR), which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Allied and Complementary Medicine Database (AMED), and PsycINFO, and through handsearching of respiratory journals and meeting abstracts. This update to the original review incorporates the results of database searches up to January 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials that compared usual care plus NIV (BiPAP) versus usual care alone in an acute hospital setting for patients with AECOPD due to AHRF were eligible for inclusion. AHRF was defined by a mean admission pH < 7.35 and mean partial pressure of carbon dioxide (PaCO2) > 45 mmHg (6 kPa). Primary review outcomes were mortality during hospital admission and need for endotracheal intubation. Secondary outcomes included hospital length of stay, treatment intolerance, complications, changes in symptoms, and changes in arterial blood gases."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently applied the selection criteria to determine study eligibility, performed data extraction, and determined risk of bias in accordance with Cochrane guidelines. Review authors undertook meta-analysis for data that were both clinically and statistically homogenous, and analysed data as both one overall pooled sample and according to two predefined subgroups related to exacerbation severity (admission pH between 7.35 and 7.30 vs below 7.30) and NIV treatment setting (intensive care unit-based vs ward-based). We reported results for mortality, need for endotracheal intubation, and hospital length of stay in a 'Summary of findings' table and rated their quality in accordance with GRADE criteria."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in the review 17 randomised controlled trials involving 1264 participants. Available data indicate that mean age at recruitment was 66.8 years (range 57.7 to 70.5 years) and that most participants (65%) were male. Most studies (12/17) were at risk of performance bias, and for most (14/17), the risk of detection bias was uncertain. These risks may have affected subjective patient-reported outcome measures (e.g. dyspnoea) and secondary review outcomes, respectively.\nUse of NIV decreased the risk of mortality by 46% (risk ratio (RR) 0.54, 95% confidence interval (CI) 0.38 to 0.76; N = 12 studies; number needed to treat for an additional beneficial outcome (NNTB) 12, 95% CI 9 to 23) and decreased the risk of needing endotracheal intubation by 65% (RR 0.36, 95% CI 0.28 to 0.46; N = 17 studies; NNTB 5, 95% CI 5 to 6). We graded both outcomes as 'moderate' quality owing to uncertainty regarding risk of bias for several studies. Inspection of the funnel plot related to need for endotracheal intubation raised the possibility of some publication bias pertaining to this outcome. NIV use was also associated with reduced length of hospital stay (mean difference (MD) -3.39 days, 95% CI -5.93 to -0.85; N = 10 studies), reduced incidence of complications (unrelated to NIV) (RR 0.26, 95% CI 0.13 to 0.53; N = 2 studies), and improvement in pH (MD 0.05, 95% CI 0.02 to 0.07; N = 8 studies) and in partial pressure of oxygen (PaO2) (MD 7.47 mmHg, 95% CI 0.78 to 14.16 mmHg; N = 8 studies) at one hour. A trend towards improvement in PaCO2 was observed, but this finding was not statistically significant (MD -4.62 mmHg, 95% CI -11.05 to 1.80 mmHg; N = 8 studies). Post hoc analysis revealed that this lack of benefit was due to the fact that data from two studies at high risk of bias showed baseline imbalance for this outcome (worse in the NIV group than in the usual care group). Sensitivity analysis revealed that exclusion of these two studies resulted in a statistically significant positive effect of NIV on PaCO2. Treatment intolerance was significantly greater in the NIV group than in the usual care group (risk difference (RD) 0.11, 95% CI 0.04 to 0.17; N = 6 studies). Results of analysis showed a non-significant trend towards reduction in dyspnoea with NIV compared with usual care (standardised mean difference (SMD) -0.16, 95% CI -0.34 to 0.02; N = 4 studies). Subgroup analyses revealed no significant between-group differences."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Data from good quality randomised controlled trials show that NIV is beneficial as a first-line intervention in conjunction with usual care for reducing the likelihood of mortality and endotracheal intubation in patients admitted with acute hypercapnic respiratory failure secondary to an acute exacerbation of chronic obstructive pulmonary disease (COPD). The magnitude of benefit for these outcomes appears similar for patients with acidosis of a mild (pH 7.30 to 7.35) versus a more severe nature (pH < 7.30), and when NIV is applied within the intensive care unit (ICU) or ward setting."
+    }
+  ],
+  "pls_title": "Non-invasive ventilation for people with respiratory failure due to exacerbation of chronic obstructive pulmonary disease (COPD)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "When people have a severe attack of COPD, their breathing becomes very difficult. This can turn into breathing failure (acute hypercapnic respiratory failure (AHRF)) that often requires urgent hospital-based medical care. One of the treatments that may be given is breathing support (intubation and mechanical ventilation). This involves delivery of air and/or oxygen via a ventilator connected to a tube inserted down the throat and into the lungs. This is undoubtedly a lifesaving procedure for patients with severe life-threatening exacerbations of COPD, but it is associated with several possible unwanted side effects.\nNon-invasive ventilation (NIV) involves delivery of breathing support via a ventilator connected to a nose mask or a face mask. NIV is used more frequently nowadays to help such patients in many hospitals. This review aimed to determine the effectiveness of adding NIV to usual care for this patient group."
+    },
+    {
+      "heading": "How did we answer the question?",
+      "text": "We reviewed all available evidence up to January 2017 regarding effects of NIV combined with usual care compared with usual care alone (involving no ventilation). Because up to 20% of people with COPD who have respiratory failure can die from it, we looked at the number of deaths as the primary outcome. We also looked at need for intubation and time spent in hospital."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included information from 17 clinical trials involving a total of 1264 patients. Compared with usual care in this patient group, we found that NIV was more beneficial for reducing deaths and the number of patients who needed to be intubated. On average, risk of dying was reduced by 46% and risk of needing intubation was reduced by 65%. Reviewers rated the quality of evidence for both of these findings as 'moderate' (according to GRADE criteria). People who had NIV spent an average of three and a half days less in hospital than those who did not."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "This review provides convincing evidence to support the use of NIV as an effective treatment strategy for patients admitted to hospital for acute exacerbations of COPD and respiratory failure."
+    }
+  ]
+}

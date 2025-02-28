@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006153.pub2",
+  "name": "Treatment for familial amyotrophic lateral sclerosis/motor neuron disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), is a rare neurodegenerative disease. Approximately 5% to 7% of ALS/MND patients report a family history of a similarly affected relative. Superoxide dismutase-1 gene mutations are the cause in about 20% of familial cases. In those with non-familial (sporadic) ALS/MND the cause is unknown. Also unknown is whether people with familial and sporadic ALS/MND respond differently to treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To systematically review the literature and to answer the specific question: 'Is there a differential response to treatment between people with sporadic and familial forms of ALS?'"
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Neuromuscular Disease Group Specialized Register, the Cochrane Central register of Controlled Trials (CENTRAL), MEDLINE and EMBASE for randomized controlled trials (RCTs). Two review authors read the titles and abstracts of all articles and reviewed the full text of all possibly relevant articles. We scanned references of all included trials to identify additional relevant articles. For all trials eligible for inclusion we contacted the authors to request the necessary raw data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies had to meet two criteria: (a) randomized controlled study design, and (b) inclusion of participants with both familial and sporadic ALS/MND."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We attempted to contact authors of all trials that met inclusion criteria. We obtained data regarding ALS/MND type (sporadic versus familial), treatment assignment (active versus placebo), survival and ALS Functional Rating Scale (ALSFRS) scores for included RCTs."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five RCTs involving 895 sporadic and 52 familial ALS/MND participants were included. There was no statistical evidence for a differential response to treatment in participants with familial ALS/MND compared to those with sporadic ALS/MND. The pooled estimate of the hazard ratio for the interaction term (treatment x familial ALS) suggested a more beneficial response with respect to survival among participants with familial ALS/MND, but the result was not statistically significant. Pooled estimates of the rate of decline on the ALSFRS suggested a slightly better overall response to treatment among those with familial ALS/MND, but the result was not statistically significant."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the available data, there is little evidence for a differential response to treatment among people with familial and sporadic ALS/MND. Future randomized controlled trials should document whether people with familial ALS/MND are included and the presence or absence of a mutation in an ALS susceptibility gene amongst those with familial ALS/MND."
+    }
+  ],
+  "pls_title": "Treatment for familial amyotrophic lateral sclerosis",
+  "pls_type": "long",
+  "pls": "Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND) and Lou Gehrig's disease, is a rare disease in which degeneration of motor nerves leads to progressive weakness and wasting of muscles. For the most part, the cause of ALS is unknown. In a small proportion of cases there is a family history of ALS/MND and in an even smaller proportion, the disease is known to result from a change in one of several genes including SOD1, TDP-43 and FUS. An understanding of the genetic basis for one familial form of ALS/MND has permitted the construction of an animal model of ALS/MND (the SOD1 mouse) that has been used extensively to study potential therapeutic agents for the human disease. None of the drugs found to be effective in the mouse have translated into therapeutic benefits for humans with ALS/MND. There are several possible explanations for this finding, one of which is that people with familial and sporadic ALS may respond differently to the same treatment and that the SOD1 mouse may be a better model of familial ALS (or at least familial ALS due to mutations in the SOD1 gene) than it is of sporadic ALS. In an effort to begin to address this question, this review was undertaken in order to ask whether or not people with the familial form of the disease respond differently to treatment compared to people with the sporadic (or non-familial) form of ALS/MND.\nWe identified all randomized controlled trials in ALS/MND and wrote to the authors to request the data needed to complete this review. Although many more studies were eligible for inclusion, only five authors were willing and able to share the data from their individual randomized controlled trials. Based on the analyses of these data, we find no evidence to support a statistically significant difference in the response to treatment between people with the familial and sporadic forms of ALS/MND."
+}

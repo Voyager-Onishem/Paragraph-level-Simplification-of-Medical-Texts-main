@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008712.pub3",
+  "name": "Cognitive behavioural therapy plus standard care versus standard care plus other psychosocial treatments for people with schizophrenia ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cognitive behavioural therapy (CBT) is a psychosocial treatment that aims to help individuals re-evaluate their appraisals of their experiences that can affect their level of distress and problematic behaviour. CBT is now recommended by the National Institute for Health and Care Excellence (NICE) as an add-on treatment for people with a diagnosis of schizophrenia. Other psychosocial therapies that are often less expensive are also available as an add-on treatment for people with schizophrenia. This review is also part of a family of Cochrane Reviews on CBT for people with schizophrenia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of CBT compared with other psychosocial therapies as add-on treatments for people with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Study Based Register of Trials (latest 6 March, 2017). This register is compiled by systematic searches of major resources (including AMED, BIOSIS CINAHL, Embase, MEDLINE, PsycINFO, PubMed, and registries of clinical trials) and their monthly updates, handsearches, grey literature, and conference proceedings, with no language, date, document type, or publication status limitations for inclusion of records into the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials (RCTs) involving people with schizophrenia who were randomly allocated to receive, in addition to their standard care, either CBT or any other psychosocial therapy. Outcomes of interest included relapse, global state, mental state, adverse events, social functioning, quality of life and satisfaction with treatment. We included trials meeting our inclusion criteria and reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We reliably screened references and selected trials. Review authors, working independently, assessed trials for methodological quality and extracted data from included studies. We analysed dichotomous data on an intention-to-treat basis and continuous data with 60% completion rate. Where possible, for binary data we calculated risk ratio (RR), for continuous data we calculated mean difference (MD), all with 95% confidence intervals (CIs). We used a fixed-effect model for analyses unless there was unexplained high heterogeneity. We assessed risk of bias for the included studies and used the GRADE approach to produce a 'Summary of findings' table for our main outcomes of interest."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review now includes 36 trials with 3542 participants, comparing CBT with a range of other psychosocial therapies that we classified as either active (A) (n = 14) or non active (NA) (n = 14). Trials were often small and at high or unclear risk of bias. When CBT was compared with other psychosocial therapies, no difference in long-term relapse was observed (RR 1.05, 95% CI 0.85 to 1.29; participants = 375; studies = 5, low-quality evidence ). Clinically important change in global state data were not available but data for rehospitalisation were reported. Results showed no clear difference in long term rehospitalisation (RR 0.96, 95% CI 0.82 to 1.14; participants = 943; studies = 8, low-quality evidence ) nor in long term mental state (RR 0.82, 95% CI 0.67 to 1.01; participants = 249; studies = 4, low-quality evidence ). No long-term differences were observed for death (RR 1.57, 95% CI 0.62 to 3.98; participants = 627; studies = 6, low-quality evidence ). Only average endpoint scale scores were available for social functioning and quality of life. Social functioning scores were similar between groups (long term Social Functioning Scale (SFS): MD 8.80, 95% CI -4.07 to 21.67; participants = 65; studies = 1, very low-quality evidence ), and quality of life scores were also similar (medium term Modular System for Quality of Life (MSQOL): MD -4.50, 95% CI -15.66 to 6.66; participants = 64; studies = 1, very low-quality evidence ). There was a modest but clear difference favouring CBT for satisfaction with treatment - measured as leaving the study early (RR 0.86, 95% CI 0.75 to 0.99; participants = 2392; studies = 26, low quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence based on data from randomised controlled trials indicates there is no clear and convincing advantage for cognitive behavioural therapy over other - and sometimes much less sophisticated and expensive - psychosocial therapies for people with schizophrenia. It should be noted that although much research has been carried out in this area, the quality of evidence available is mainly low or of very low quality. Good quality research is needed before firm conclusions can be made."
+    }
+  ],
+  "pls_title": "Is Cognitive behavioural therapy as effective as other psychosocial treatments for people with schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "People with serious mental illnesses such as schizophrenia can experience severe disturbances in their thought processes, which may lead to delusions (beliefs that are not based on reality) and hallucinations (seeing and hearing things that are not really there). The standard care for people with schizophrenia is antipsychotic medication, but these medications are not always successful on their own and additional treatments such as psychosocial therapies (including cognitive behavioural therapy (CBT)) are recommended for people with schizophrenia. CBT aims to help people re-evaluate their views of their symptoms. This process is thought to help reduce distress and change behaviours. It is often used to help people with illnesses such as anxiety and depression. However, CBT is expensive and the evidence for its effectiveness is not clear, particularly for people with schizophrenia."
+    },
+    {
+      "heading": "Searches",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched their specialised register for trials that allocated people with schizophrenia to receive either CBT or another type of psychosocial treatment, up to March 2017. These searches found 4117 records. The review authors inspected and screened these records."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-six randomised controlled trials, randomising in total 3542 people with schizophrenia could be included. The quality of evidence from these trials is very low to low. For important outcomes such as relapse, rehospitalisation, mental state, death, social functioning, quality of life no real differences were found between CBT compared with other psychosocial treatments. The number of participants leaving the study early was used as an indirect measure for satisfaction with treatment. Slightly more people allocated to other psychosocial treatments groups left early compared to CBT groups. Results were not robust enough to make firm conclusions."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "No firm conclusions can be made regarding the effectiveness of CBT compared to other psychosocial treatments for people with schizophrenia until results from further good-quality trials are available."
+    }
+  ]
+}

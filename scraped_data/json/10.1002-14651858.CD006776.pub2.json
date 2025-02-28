@@ -1,0 +1,47 @@
+{
+  "doi": "10.1002/14651858.CD006776.pub2",
+  "name": "Using alternative statistical formats for presenting risks and risk reductions",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The success of evidence-based practice depends on the clear and effective communication of statistical information."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effects of using alternative statistical presentations of the same risks and risk reductions on understanding, perception, persuasiveness and behaviour of health professionals, policy makers, and consumers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched Ovid MEDLINE (1966 to October 2007), EMBASE (1980 to October 2007), PsycLIT (1887 to October 2007), and the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2007, Issue 3). We reviewed the reference lists of relevant articles, and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized and non-randomized controlled parallel and cross-over studies. We focused on four comparisons: a comparison of statistical presentations of a risk (eg frequencies versus percentages) and three comparisons of statistical presentation of risk reduction: relative risk reduction (RRR) versus absolute risk reduction (ARR), RRR versus number needed to treat (NNT), and ARR versus NNT."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently selected studies for inclusion, extracted data, and assessed risk of bias. We contacted investigators to obtain missing information. We graded the quality of evidence for each outcome using the GRADE approach. We standardized the outcome effects using adjusted standardized mean difference (SMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 35 studies reporting 83 comparisons. None of the studies involved policy makers. Studies of alternative formats for presenting risks focused on either diagnostic or screening tests. Participants (health professionals and consumers) understood natural frequencies better than percentages (SMD 0.69 (95% confidence interval (CI) 0.45 to 0.93)). In studies of alternative formats for presenting risk reductions of interventions, and compared with ARR, RRR had little or no difference in understanding (SMD 0.02 (95% CI -0.39 to 0.43)) but was perceived to be larger (SMD 0.41 (95% CI 0.03 to 0.79)) and more persuasive (SMD 0.66 (95% CI 0.51 to 0.81)). Compared with NNT, RRR was better understood (SMD 0.73 (95% CI 0.43 to 1.04)), was perceived to be larger (SMD 1.15 (95% CI 0.80 to 1.50)) and was more persuasive (SMD 0.65 (95% CI 0.51 to 0.80)). Compared with NNT, ARR was better understood (SMD 0.42 (95% CI 0.12 to 0.71)), was perceived to be larger (SMD 0.79 (95% CI 0.43 to 1.15)).There was little or no difference for persuasiveness (SMD 0.05 (95% CI -0.04 to 0.15)). The sensitivity analyses including only high quality comparisons showed consistent results for persuasiveness for all three comparisons. Overall there were no differences between health professionals and consumers. The overall quality of evidence was rated down to moderate because of the use of surrogate outcomes and/or heterogeneity. None of the comparisons assessed behaviour."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Natural frequencies are probably better understood than percentages in the context of diagnostic or screening tests. For communicating risk reductions, relative risk reduction (RRR), compared with absolute risk reduction (ARR) and number needed to treat (NNT), may be perceived to be larger and is more likely to be persuasive. However, it is uncertain whether presenting RRR is likely to help people make decisions most consistent with their own values and, in fact, it could lead to misinterpretation. More research is needed to further explore this question."
+    }
+  ],
+  "pls_title": "Using different statistical formats for presenting health information",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Examples illustrating the statistical terms used in this summary",
+      "text": "You read that a study found that an osteoporosis drug cuts the risk of having a hip fracture in the next three years by 50%.  Specifically, 10% of the untreated people had a hip fracture at three years, compared with 5% of the people who took the osteoporosis drug every day for three years.  Thus 5% (10% minus 5%) less people would suffer a hip fracture if they take the drug for 3 years. In other words, 20 patients need to take the osteoporosis drug over 3 years for an additional patient to avoid a hip fracture. \"Cuts the risk of fracture by 50%\" represents a relative risk reduction. \"Five per cent less would suffer a fracture\" represents an absolute risk reduction. \"Twenty patients need to take the osteoporosis drug over 3 years for an additional patient to avoid a hip fracture\" represents a number needed to treat.\nYou read that another study found that the risk of suffering a hip fracture over a three year period among people not taking any osteoporotic drug is 10%; another way of expressing this risk would be: 100 of 1000 people not taking any osteoporotic drug will suffer a hip fracture over a three year period. \"10%\" represents a percentage while \"100 of 1000\" represents a frequency."
+    },
+    {
+      "heading": "Summary",
+      "text": "Health professionals and consumers may change their choices when the same risks and risk reductions are presented using alternative statistical formats. Based on the results of 35 studies reporting 83 comparisons, we found the risk of a health outcome is better understood when it is presented as a natural frequency rather than a percentage for diagnostic and screening tests. For interventions, and on average, people perceive risk reductions to be larger and are more persuaded to adopt a health intervention when its effect is presented in relative terms (eg using relative risk reduction which represents a proportional reduction) rather than in absolute terms (eg using absolute risk reduction which represents a simple difference). We found no differences between health professionals and consumers. The implications for clinical and public health practice are limited by the lack of research on how these alternative presentations affect actual behaviour. However, there are strong logical arguments for not reporting relative values alone, as they do not allow a fair comparison of benefits and harms as absolute values do.\nPlease refer to the Cochrane Collaboration Glossary for further explanations of the statistical terms used in this review."
+    }
+  ]
+}

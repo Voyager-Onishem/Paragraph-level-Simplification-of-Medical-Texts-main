@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005966",
+  "name": "Vaccines for preventing malaria (SPf66)",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A malaria vaccine is badly needed. SPf66 was one of the earliest vaccines developed. It is a synthetic peptide vaccine containing antigens from the blood stages of malaria linked together with an antigen from the sporozoite stage, and is targeted mainly against the blood (asexual) stages."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of SPf66 malaria vaccines against Plasmodium falciparum , P. vivax , P. malariae, and P. ovale in preventing infection, disease, and death."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Infectious Diseases Group Specialized Register (March 2008), CENTRAL (The Cochrane Library 2008, Issue 1), MEDLINE (1966 to March 2008), EMBASE (1980 to March 2008), LILACS (1982 to March 2008), Science Citation Index (1981 to March 2008), and reference lists of articles. We also contacted organizations and researchers in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized and quasi-randomized controlled trials comparing SPf66 vaccine with placebo or routine antimalarial control measures in people of any age receiving an artificial challenge or natural exposure to malaria infection (any species)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two people independently assessed trial quality and extracted data, including adverse events. Results were expressed as risk ratios (RR) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Ten efficacy trials of SPf66 involving 9698 participants were included. Results with SPf66 in reducing new episodes of P. falciparum malaria were heterogeneous: it was not effective in four African trials (RR 0.98, 95% CI 0.90 to 1.07; 2371 participants) or in one Asian trial (RR 1.06, 95% CI 0.90 to 1.25; 1221 participants). In four trials in South America the number of first attacks with P. falciparum was reduced by 28% (RR 0.72, 95% CI 0.63 to 0.82; 3807 participants). It did not reduce episodes of P. vivax malaria or admission to hospital with severe malaria. Trials have not indicated any serious adverse events with SPf66 vaccine."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no evidence for protection by SPf66 vaccines against P. falciparum in Africa. There is a modest reduction in attacks of P. falciparum malaria following vaccination with SPf66 in South America. There is no justification for further trials of SPf66 in its current formulation. Further research with SPf66 vaccines in South America or with new formulations of SPf66 may be justified."
+    }
+  ],
+  "pls_title": "The SPf66 vaccine has little or no effect on preventing malaria",
+  "pls_type": "long",
+  "pls": "The SPf66 vaccine was one of the first malaria vaccines to be tested extensively in endemic areas. SPf66 is a synthetic peptide vaccine containing antigens from the blood stages of malaria linked together with an antigen from the sporozoite stage. SPf66 has had 10 trials in Africa, Asia, and South America. Results were initially promising, but further trials showed only a small effect in some trials, and no effect in Africa. There is no evidence that SPf66 is effective enough to be introduced on a routine basis for prevention of malaria."
+}

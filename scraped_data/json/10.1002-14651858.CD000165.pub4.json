@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000165.pub4",
+  "name": "Physician advice for smoking cessation",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Healthcare professionals frequently advise people to improve their health by stopping smoking. Such advice may be brief, or part of more intensive interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aims of this review were to assess the effectiveness of advice from physicians in promoting smoking cessation; to compare minimal interventions by physicians with more intensive interventions; to assess the effectiveness of various aids to advice in promoting smoking cessation, and to determine the effect of anti-smoking advice on disease-specific and all-cause mortality."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group trials register in January 2013 for trials of interventions involving physicians. We also searched Latin American databases through BVS (Virtual Library in Health) in February 2013."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised trials of smoking cessation advice from a medical practitioner in which abstinence was assessed at least six months after advice was first provided."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data in duplicate on the setting in which advice was given, type of advice given (minimal or intensive), and whether aids to advice were used, the outcome measures, method of randomisation and completeness of follow-up.\nThe main outcome measure was abstinence from smoking after at least six months follow-up. We also considered the effect of advice on mortality where long-term follow-up data were available. We used the most rigorous definition of abstinence in each trial, and biochemically validated rates where available. People lost to follow-up were counted as smokers. Effects were expressed as relative risks. Where possible, we performed meta-analysis using a Mantel-Haenszel fixed-effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 42 trials, conducted between 1972 and 2012, including over 31,000 smokers. In some trials, participants were at risk of specified diseases (chest disease, diabetes, ischaemic heart disease), but most were from unselected populations. The most common setting for delivery of advice was primary care. Other settings included hospital wards and outpatient clinics, and industrial clinics.\nPooled data from 17 trials of brief advice versus no advice (or usual care) detected a significant increase in the rate of quitting (relative risk (RR) 1.66, 95% confidence interval (CI) 1.42 to 1.94). Amongst 11 trials where the intervention was judged to be more intensive the estimated effect was higher (RR 1.84, 95% CI 1.60 to 2.13) but there was no statistical difference between the intensive and minimal subgroups. Direct comparison of intensive versus minimal advice showed a small advantage of intensive advice (RR 1.37, 95% CI 1.20 to 1.56). Direct comparison also suggested a small benefit of follow-up visits. Only one study determined the effect of smoking advice on mortality. This study found no statistically significant differences in death rates at 20 years follow-up."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Simple advice has a small effect on cessation rates. Assuming an unassisted quit rate of 2 to 3%, a brief advice intervention can increase quitting by a further 1 to 3%. Additional components appear to have only a small effect, though there is a small additional benefit of more intensive interventions compared to very brief interventions."
+    }
+  ],
+  "pls_title": "Does advice from doctors encourage people who smoke to quit",
+  "pls_type": "long",
+  "pls": "Advice from doctors helps people who smoke to quit. Even when doctors provide brief simple advice about quitting smoking this increases the likelihood that someone who smokes will successfully quit and remain a nonsmoker 12 months later. More intensive advice may result in slightly higher rates of quitting. Providing follow-up support after offering the advice may increase the quit rates slightly."
+}

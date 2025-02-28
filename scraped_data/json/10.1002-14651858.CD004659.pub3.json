@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004659.pub3",
+  "name": "Antiplatelet agents for preventing pre‐eclampsia and its complications",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Pre-eclampsia is associated with deficient intravascular production of prostacyclin, a vasodilator, and excessive production of thromboxane, a vasoconstrictor and stimulant of platelet aggregation. These observations led to the hypotheses that antiplatelet agents, low-dose aspirin in particular, might prevent or delay development of pre-eclampsia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of antiplatelet agents, such as aspirin and dipyridamole, when given to women at risk of developing pre-eclampsia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (30 March 2018), and reference lists of retrieved studies. We updated the search in September 2019 and added the results to the awaiting classification section of the review."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised trials comparing antiplatelet agents with either placebo or no antiplatelet agent were included. Studies only published in abstract format were eligible for inclusion if sufficient information was available. We would have included cluster-randomised trials in the analyses along with individually-randomised trials, if any had been identified in our search strategy. Quasi-random studies were excluded. Participants were pregnant women at risk of developing pre-eclampsia. Interventions were administration of an antiplatelet agent (such as low-dose aspirin or dipyridamole), comparisons were either placebo or no antiplatelet."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors assessed trials for inclusion and extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention-to-treat basis. For this update we incorporated individual participant data (IPD) from trials with this available, alongside aggregate data (AD) from trials where it was not, in order to enable reliable subgroup analyses and inclusion of two key new outcomes. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventy-seven trials (40,249 women, and their babies) were included, although three trials (relating to 233 women) did not contribute data to the meta-analysis. Nine of the trials contributing data were large (> 1000 women recruited), accounting for 80% of women recruited. Although the trials took place in a wide range of countries, all of the nine large trials involved only women in high-income and/or upper middle-income countries. IPD were available for 36 trials (34,514 women), including all but one of the large trials. Low-dose aspirin alone was the intervention in all the large trials, and most trials overall. Dose in the large trials was 50 mg (1 trial, 1106 women), 60 mg (5 trials, 22,322 women), 75mg (1 trial, 3697 women) 100 mg (1 trial, 3294 women) and 150 mg (1 trial, 1776 women). Most studies were either low risk of bias or unclear risk of bias; and the large trials were all low risk of bas.\nAntiplatelet agents versus placebo/no treatment\nThe use of antiplatelet agents reduced the risk of proteinuric pre-eclampsia by 18% (36,716 women, 60 trials, RR 0.82, 95% CI 0.77 to 0.88; high-quality evidence), number needed to treat for one women to benefit (NNTB) 61 (95% CI 45 to 92). There was a small (9%) reduction in the RR for preterm birth <37 weeks (35,212 women, 47 trials; RR 0.91, 95% CI 0.87 to 0.95, high-quality evidence), NNTB 61 (95% CI 42 to 114), and a 14% reduction infetal deaths, neonatal deaths or death before hospital discharge (35,391 babies, 52 trials; RR 0.85, 95% CI 0.76 to 0.95; high-quality evidence), NNTB 197 (95% CI 115 to 681). Antiplatelet agents slightly reduced the risk of small-for-gestational age babies (35,761 babies, 50 trials; RR 0.84, 95% CI 0.76 to 0.92; high-quality evidence), NNTB 146 (95% CI 90 to 386), and pregnancies with serious adverse outcome (a composite outcome including maternal death, baby death, pre-eclampsia, small-for-gestational age, and preterm birth) (RR 0.90, 95% CI 0.85 to 0.96; 17,382 women; 13 trials, high-quality evidence), NNTB 54 (95% CI 34 to 132). Antiplatelet agents probably slightly increase postpartum haemorrhage > 500 mL (23,769 women, 19 trials; RR 1.06, 95% CI 1.00 to 1.12; moderate-quality evidence due to clinical heterogeneity), and they probably marginally increase the risk of placental abruption, although for this outcome the evidence was downgraded due to a wide confidence interval including the possibility of no effect (30,775 women; 29 trials; RR 1.21, 95% CI 0.95 to 1.54; moderate-quality evidence).\nData from two large trials which assessed children at aged 18 months (including results from over 5000 children), did not identify clear differences in development between the two groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Administering low-dose aspirin to pregnant women led to small-to-moderate benefits, including reductions in pre-eclampsia (16 fewer per 1000 women treated), preterm birth (16 fewer per 1000 treated), the baby being born small-for-gestational age (seven fewer per 1000 treated) and fetal or neonatal death (five fewer per 1000 treated). Overall, administering antiplatelet agents to 1000 women led to 20 fewer pregnancies with serious adverse outcomes. The quality of evidence for all these outcomes was high. Aspirin probably slightly increased the risk of postpartum haemorrhage of more than 500 mL, however, the quality of evidence for this outcome was downgraded to moderate, due to concerns of clinical heterogeneity in measurements of blood loss. Antiplatelet agents probably marginally increase placental abruption, but the quality of the evidence was downgraded to moderate due to low event numbers and thus wide 95% CI.\nOverall, antiplatelet agents improved outcomes, and at these doses appear to be safe. Identifying women who are most likely to respond to low-dose aspirin would improve targeting of treatment. As almost all the women in this review were recruited to the trials after 12 weeks' gestation, it is unclear whether starting treatment before 12 weeks’ would have additional benefits without any increase in adverse effects. While there was some indication that higher doses of aspirin would be more effective, further studies would be warranted to examine this."
+    }
+  ],
+  "pls_title": "Antiplatelet agents for preventing pre-eclampsia and its complications",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "We set out to assess the ability of antiplatelet agents, such as aspirin and dipyridamole, to prevent women from developing pre-eclampsia during pregnancy and to improve health outcomes for them and their babies. We also wanted to find out whether these medicines had any undesirable effects for the mother or baby."
+    },
+    {
+      "heading": "What is the question?",
+      "text": "Do low doses of aspirin help to prevent pre-eclampsia, and reduce the number of preterm births before 37 weeks, small-for-gestational-age babies, infant deaths and other unwanted effects?"
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Pre-eclampsia is a condition experienced by some women during pregnancy and is evident as high blood pressure and protein in the urine. This condition can lead to serious complications for the mother and her baby (in fact, it is one of the leading causes of illness and death in pregnancy). The mother’s placenta may not be functioning properly, which limits the blood supply to the unborn baby so that it is at risk of poor growth and being born early as a result of preterm labour, or needing to be delivered early. Pre-eclampsia affects the platelets in the women’s blood so that they are more ready to clump and cause the blood to clot. Antiplatelet drugs like aspirin prevent blood clotting and have a role in preventing pre-eclampsia and its complications."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for randomised controlled trials in March 2018. Our review includes 77 trials, involving 40,249 women and their babies, although it wasn't possible to include results form three of these trials (233 women) . We included information about the results for women and babies in two different formats: 36 trials (34,514 women) reported 'individual participant data' (IPD), where we received information about each of the individuals involved; all the other trials reported 'aggregate data' (AD), where each study reports the average information about the individuals involved in the study. By using IPD, we could conduct very thorough and accurate analyses; and by combining both the AD and the IPD, we could include all the available information on this question.\nNine of the trials included more than 1000 women, and all of these large trials were at low risk of bias. Low-dose aspirin alone was the intervention in all the large trials, and most trials overall. Almost all the women were recruited to the trials after 12 weeks' gestation. Most women were at risk of developing pre-eclampsia, and the trials included women with normal blood pressure, existing long-term high blood pressure or pregnancy-induced high blood pressure. High-quality evidence showed that the use of antiplatelet agents reduced the risk of pre-eclampsia by 18%, or less than one sixth (36,716 women, 60 trials). This meant that 61 women had to be treated with an antiplatelet drug for one woman to benefit by avoiding pre-eclampsia. The risk of preterm birth was reduced by 9% (35,212 women, 47 trials) and the number of infant deaths before or around the time of birth was reduced by 15% (35,391 women, 52 trials). Antiplatelet agents reduced the risk of small-for-gestational-age babies (35,761 mothers, 50 trials) and pregnancies with serious adverse outcomes (17,382 mothers; 13 trials). Moderate-quality evidence showed that only slightly more women lost more than 500 mL of blood immediately after birth, termed postpartum haemorrhage (23,769 mothers, 19 trials), indicating that aspirin is safe. Doses of aspirin less than 75 mg appear to be safe. Higher doses might be better, but we do not know whether they increase adverse effects."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Low doses of aspirin slightly reduce the risk of pre-eclampsia and its complications. As most women in this review were in trials evaluating low-dose aspirin, the reassurance about the safety of aspirin may not apply to higher doses or other antiplatelet agents. Further research should aim to identify women who are most likely to respond to low-dose aspirin treatment. While it is possible that higher doses of aspirin may be more effective, further studies are needed to determine whether higher doses are both more effective and safe for women and babies."
+    }
+  ]
+}

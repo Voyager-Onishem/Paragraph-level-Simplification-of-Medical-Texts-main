@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001768.pub3",
+  "name": "Follow‐up strategies for women treated for early breast cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Follow-up examinations are commonly performed after primary treatment for women with breast cancer. They are used to detect recurrences at an early (asymptomatic) stage. This is an update of a Cochrane review first published in 2000."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of different policies of follow-up for distant metastases on mortality, morbidity and quality of life in women treated for stage I, II or III breast cancer."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this 2014 review update, we searched the Cochrane Breast Cancer Group's Specialised Register (4 July 2014), MEDLINE (4 July 2014), Embase (4 July 2014), CENTRAL (2014, Issue 3), the World Health Organization (WHO) International Clinical Trials Registry Platform (4 July 2014) and ClinicalTrials.gov (4 July 2014). References from retrieved articles were also checked."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) assessing the effectiveness of different policies of follow-up after primary treatment were reviewed for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for eligibility for inclusion in the review and risk of bias. Data were pooled in an individual patient data meta-analysis for the two RCTs testing the effectiveness of different follow-up schemes. Subgroup analyses were conducted by age, tumour size and lymph node status."
+    },
+    {
+      "heading": "Main results",
+      "text": "Since 2000, one new trial has been published; the updated review now includes five RCTs involving 4023 women with breast cancer (clinical stage I, II or III).\nTwo trials involving 2563 women compared follow-up based on clinical visits and mammography with a more intensive scheme including radiological and laboratory tests. After pooling the data, no significant differences in overall survival (hazard ratio (HR) 0.98, 95% confidence interval (CI) 0.84 to 1.15, two studies, 2563 participants, high-quality evidence ), or disease-free survival (HR 0.84, 95% CI 0.71 to 1.00, two studies, 2563 participants, low-quality evidence ) emerged. No differences in overall survival and disease-free survival emerged in subgroup analyses according to patient age, tumour size and lymph node status before primary treatment. In 1999, 10-year follow-up data became available for one trial of these trials, and no significant differences in overall survival were found. No difference was noted in quality of life measures (one study, 639 participants, high-quality evidence).\nThe new included trial, together with a previously included trial involving 1264 women compared follow-up performed by a hospital-based specialist versus follow-up performed by general practitioners. No significant differences were noted in overall survival (HR 1.07, 95% CI 0.64 to 1.78, one study, 968 participants, moderate-quality evidence ), time to detection of recurrence (HR 1.06, 95% CI 0.76 to 1.47, two studies, 1264 participants, moderate-quality evidence ), and quality of life (one study, 356 participants, high-quality evidence). Patient satisfaction was greater among patients treated by general practitioners. One RCT involving 196 women compared regularly scheduled follow-up visits versus less frequent visits restricted to the time of mammography. No significant differences emerged in interim use of telephone and frequency of general practitioners's consultations."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This updated review of RCTs conducted almost 20 years ago suggests that follow-up programs based on regular physical examinations and yearly mammography alone are as effective as more intensive approaches based on regular performance of laboratory and instrumental tests in terms of timeliness of recurrence detection, overall survival and quality of life.\nIn two RCTs, follow-up care performed by trained and not trained general practitioners working in an organised practice setting had comparable effectiveness to that delivered by hospital-based specialists in terms of overall survival, recurrence detection, and quality of life."
+    }
+  ],
+  "pls_title": "Different follow-up strategies for women after breast cancer treatment",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Whether an intensive follow-up decreases the number of recurrences or deaths and affects health-related quality of life (HRQoL) compared with a less intensive follow-up and whether a follow-up offered by specialists is different from that performed by family physicians."
+    },
+    {
+      "heading": "Background",
+      "text": "Follow-up after breast cancer is performed in order to check whether breast cancer has returned to the breast or other part of the body and to monitor side effects related to treatment. Follow-up may be performed by specialists or family physicians, regularly or on demand, and may be based on routine clinical visits (physical examinations and yearly mammography), or on a more intensive surveillance (laboratory tests and imaging examinations). The first update of this Cochrane review published in 2004 has shown that having more tests does not improve the length or quality of life in breast cancer survivors and a comparable effectiveness of follow up by specialist to that by primary physician. Moreover, additional screening tests could increase anxiety related to false positive results, unnecessary radiation exposure and health-related costs."
+    },
+    {
+      "heading": "Study Characteristics",
+      "text": "A literature search up to July 2014 found five trials (involving 4023 women with a median follow-up variable from 16 to 120 months). Since the previous version of this Cochrane review in 2004, one new study has been published."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review of trials found that follow-up programs based on a regular physical examination and a yearly mammogram appear to be as effective as the more intensive approaches and to have similar impact on HRQoL. No significant differences were found between follow-up performed by specialists or family physicians, regularly or on demand. These results should be interpreted with caution bearing in mind that these studies were conducted almost two decades ago; additional trials incorporating new biological knowledge and improved imaging technologies are needed."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Allocation concealment was adequate in all but one trial; two trials were judged to be at low risk of selection bias;the blinding of the outcome assessor was not described in two trials. For one trial it was not possible to judge risk of bias because it reported no methodological information."
+    }
+  ]
+}

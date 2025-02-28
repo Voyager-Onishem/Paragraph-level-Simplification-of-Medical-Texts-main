@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006172.pub4",
+  "name": "Home uterine monitoring for detecting preterm labour",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "To reduce the morbidity and mortality associated with preterm birth, home uterine activity monitoring aims for early detection of increased contraction frequency, and early intervention with tocolytic drugs to inhibit labour and prolong pregnancy. However, the effectiveness of such monitoring is disputed."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether home uterine activity monitoring is effective in improving the outcomes for women and their infants considered to be at high risk of preterm birth, when compared with care that does not include home uterine activity monitoring."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (30 June 2016), CENTRAL (Cochrane Library 2016, Issue 5), MEDLINE (1966 to 28 June 2016), Embase (1974 to 28 June 2016), CINAHL (1982 to 28 June 2016), and scanned reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised control trials of home uterine activity monitoring, with or without patient education programmes, for women at risk of preterm birth, compared with care that does not include home uterine activity monitoring."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risks of bias, extracted data and checked them for accuracy. We did not attempt to contact authors to resolve queries. We assessed the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "There were 15 included studies (6008 enrolled participants); 13 studies contributed data. Women using home uterine monitoring were less likely to experience preterm birth at less than 34 weeks (risk ratio (RR) 0.78, 95% confidence interval (CI) 0.62 to 0.99; three studies, 1596 women; fixed-effect analysis) (GRADE high). This difference was not evident when we carried out a sensitivity analysis, restricting the analysis to studies at low risk of bias based on study quality (RR 0.75, 95% CI 0.57 to 1.00; one study, 1292 women). There was no difference in the rate of perinatal mortality (RR 1.22, 95% CI 0.86 to 1.72; two studies, 2589 babies) (GRADE low).\nThere was no difference in the number of preterm births at less than 37 weeks (average RR 0.85, CI 0.72 to 1.01; eight studies, 4834 women; random-effects, Tau2 = 0.03, I2 = 68%) (GRADE very low). Infants born to women using home uterine monitoring were less likely to be admitted to neonatal intensive care unit (average RR 0.77, 95% CI 0.62 to 0.96; five studies, 2367 babies; random-effects, Tau2 = 0.02, I2 = 32%) (GRADE moderate). This difference was not maintained when we restricted the analysis to studies at low risk of bias (RR 0.86, 95% CI 0.74 to 1.01; one study, 1292 babies). Women using home uterine monitoring made more unscheduled antenatal visits (mean difference (MD) 0.48, 95% CI 0.31 to 0.64; two studies, 1994 women) (GRADE moderate). Women using home uterine monitoring were also more likely to have prophylactic tocolytic drug therapy (average RR 1.21, 95% CI 1.01 to 1.45; seven studies, 4316 women; random-effects, Tau2 = 0.03, I2 = 62%), but this difference was no longer evident when we restricted the analysis to studies at low risk of bias (average RR 1.22, 95% CI 0.90 to 1.65; three studies, 3749 women; random-effects, Tau2 = 0.05, I2 = 76%) (GRADE low). The number of antenatal hospital admissions did not differ between home groups (RR 0.91, 95% CI 0.74 to 1.11; three studies, 1494 women (GRADE low)). We found no data on maternal anxiety or acceptability."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Home uterine monitoring may result in fewer admissions to a neonatal intensive care unit but in more unscheduled antenatal visits and tocolytic treatment; the level of evidence is generally low to moderate. Important group differences were not evident when we undertook sensitivity analysis using only trials at low risk of bias. There is no impact on maternal and perinatal outcomes such as perinatal mortality or incidence of preterm birth."
+    }
+  ],
+  "pls_title": "Monitoring pregnant women at home for detecting preterm labour",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Babies who are born too early are more likely to become ill or die. If preterm labour is detected, treatment can start to slow down or stop labour. This also gives time for treatment to improve the baby’s breathing at birth. Increased contractions can be a sign of labour starting early."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Many women do not recognise these contractions in time for treatment. Pregnant women at risk of giving birth early could use a monitoring device at home. This would send data to the hospital, and help doctors and midwives to detect and treat preterm labour."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for evidence on 28 June 2016 and found 15 randomised studies, involving 6008 women. Thirteen of these studies provided data we could use. The quality of results ranged from very low to high (GRADE). Most studies had design limitations, which in some were serious. Most studies compared women taught how to check for signs of premature labour with women who were also given a home uterine activity monitor. In some studies both groups used a monitor but one group had a ‘sham’ monitor that did not actually send the data to the women’s healthcare providers.Using a monitor at home made very little difference to many of the outcomes for mother or baby, although not all studies measured all outcomes. Women using monitors were no less likely to experience preterm birth at less than 37 or 32 weeks of pregnancy (GRADE very low). Women using monitors were less likely to experience preterm birth at less than 34 weeks, but when we analysed only high-quality studies, no clear difference remained (GRADE high). Babies born to women using the monitor were less likely to be admitted to neonatal intensive care (GRADE moderate) but there were no fewer deaths (GRADE low). Women using the monitor were more likely to make an unscheduled antenatal visit (GRADE moderate), but the number of antenatal hospital admissions did not differ (GRADE low). Women using monitors appeared to be more likely to receive tocolysis (treatment to stop labour) (GRADE low), but when we looked only at high-quality studies there was no clear difference. We found no data to assess women's views, although one large trial reported low compliance with monitor use. In some studies, women with monitors had more contact with midwives or maternity nurses, but it is unclear what effect this had."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Home uterine monitoring may result in fewer admissions to a neonatal intensive care unit, but more unscheduled antenatal visits and treatment for preterm labour. The level of evidence is generally low to moderate."
+    }
+  ]
+}

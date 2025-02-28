@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000301",
+  "name": "Corticosteroids for maintenance of remission in Crohn's disease",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The efficacy of corticosteroids in the setting of maintenance therapy for Crohn's disease has never been clearly demonstrated. It would be important to determine, based upon the currently available data from controlled trials, if the use of chronic corticosteroid therapy is of benefit in patients with quiescent Crohn's disease or if there is an identifiable subgroup of Crohn's disease patients, such as those in whom therapy cannot be successfully tapered, who might benefit from such treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of conventional systemic corticosteroid therapy in maintaining clinical remission in Crohn's disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "A computer-assisted search of the on-line bibliographic database MEDLINE of studies published in English, French, Spanish, Italian and German between 1966 and July, 2008. Manual searches of the reference lists from the potentially relevant studies were performed in order to identify additional studies that may have been missed using the computer-assisted search strategy. Proceedings from major gastrointestinal meetings were also manually searched from 1985 to 2003 in order to identify unpublished studies. The Cochrane Central Register of Controlled Trials and the Inflammatory Bowel Disease Review Group Specialized Trials Register were also searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized double-blind placebo-controlled trials involving patients of any age with Crohn's disease in clinical remission as defined by a CDAI < 150 or by the presence of no symptoms or only mild symptoms at the time of entry into the trial. The experimental treatment consisted of oral conventional corticosteroid therapy (excluding budesonide, fluticasone, etc). Clinical disease relapse was used as the outcome measure of interest."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Eligible studies were selected by 4 reviewers and data were extracted onto standardized data extraction forms. Disagreements in eligibility or data extraction were resolved by consensus. Data were converted into individual 2x2 tables for each study. The presence of significant heterogeneity among studies was tested using the chi-square test. The 2x2 tables were synthesized into a summary test statistic using the pooled odds ratio and 95% confidence intervals as described by Cochran and Mantel and Haenszel (the 'odds ratio' in MetaView). A fixed effects model was used for the pooling of data."
+    },
+    {
+      "heading": "Main results",
+      "text": "Four studies were initially judged as being eligible for inclusion. After obtaining additional information on one of the studies it was excluded because it was not double-blind. The total number of subjects included in the analysis at the time points of 6, 12 and 24 months were 142, 131 and 95 for the corticosteroid group and 161, 138 and 87 for the control group. The odds ratios for relapse on active treatment and the corresponding 95% confidence intervals were 0.71 (0.39, 1.31), 0.82 (0.47, 1.43) and 0.72 (0.38, 1.35) at 6, 12 and 24 months respectively."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of conventional systemic corticosteroids in patients with clinically quiescent Crohn's disease does not appear to reduce the risk of relapse over a 24 month period of follow-up. An updated literature search performed in July 2008 did not identify any new trials."
+    }
+  ],
+  "pls_title": "Corticosteroids for maintenance of remission in Crohn's disease",
+  "pls_type": "long",
+  "pls": "The use of corticosteroids among patients with non-active Crohn's disease does not appear to be effective in reducing the risk of disease recurrence over a 24 month period. Side effects associated with the long term use of corticosteroids include osteoporosis and cataracts. There may be subgroups of patients who would benefit from low dose corticosteroids but the long-term effectiveness of this type of treatment has not been studied."
+}

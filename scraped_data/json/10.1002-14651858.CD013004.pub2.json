@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013004.pub2",
+  "name": "Ivabradine as adjuvant treatment for chronic heart failure",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic heart failure is one of the most common medical conditions, affecting more than 23 million people worldwide. Despite established guideline-based, multidrug pharmacotherapy, chronic heart failure is still the cause of frequent hospitalisation, and about 50% die within five years of diagnosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of ivabradine in individuals with chronic heart failure."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and CPCI-S Web of Science in March 2020. We also searched ClinicalTrials.gov and the WHO ICTRP. We checked reference lists of included studies. We did not apply any time or language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials in which adult participants diagnosed with chronic heart failure were randomly assigned to receive either ivabradine or placebo/usual care/no treatment. We distinguished between type of heart failure (heart failure with a reduced ejection fraction or heart failure with a preserved ejection fraction) as well as between duration of ivabradine treatment (short term (< 6 months) or long term (≥ 6 months))."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion, extracted data, and checked data for accuracy. We calculated risk ratios (RR) using a random-effects model. We completed a comprehensive ’Risk of bias’ assessment for all studies. We contacted authors for missing data. Our primary endpoints were: mortality from cardiovascular causes; quality of life; time to first hospitalisation for heart failure during follow-up; and number of days spent in hospital due to heart failure during follow-up. Our secondary endpoints were: rate of serious adverse events; exercise capacity; and economic costs (narrative report). We assessed the certainty of the evidence applying the GRADE methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 studies (76 reports) involving a total of 19,628 participants (mean age 60.76 years, 69% male). However, few studies contributed data to meta-analyses due to inconsistency in trial design (type of heart failure) and outcome reporting and measurement. In general, risk of bias varied from low to high across the included studies, with insufficient detail provided to inform judgement in several cases.\nWe were able to perform two meta-analyses focusing on participants with heart failure with a reduced ejection fraction (HFrEF) and long-term ivabradine treatment. There was evidence of no difference between ivabradine and placebo/usual care/no treatment for mortality from cardiovascular causes (RR 0.99, 95% confidence interval (CI) 0.88 to 1.11; 3 studies; 17,676 participants; I2 = 33%; moderate-certainty evidence). Furthermore, we found evidence of no difference in rate of serious adverse events amongst HFrEF participants randomised to receive long-term ivabradine compared with those randomised to placebo, usual care, or no treatment (RR 0.96, 95% CI 0.92 to 1.00; 2 studies; 17,399 participants; I2 = 12%; moderate-certainty evidence). We were not able to perform meta-analysis for all other outcomes, and have low confidence in the findings based on the individual studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found evidence of no difference in cardiovascular mortality and serious adverse events between long-term treatment with ivabradine and placebo/usual care/no treatment in participants with heart failure with HFrEF. Nevertheless, due to indirectness (male predominance), the certainty of the available evidence is rated as moderate."
+    }
+  ],
+  "pls_title": "Ivabradine as adjuvant treatment for chronic heart failure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "We investigated the effects of ivabradine (either as short-term treatment (< 6 months) or long-term treatment (≥ 6 months) in people with heart failure and preserved (HFpEF, left ventricular ejection fraction is 50% or higher) or reduced ejection fraction (HFrEF, left ventricular ejection fraction is less than 40%)."
+    },
+    {
+      "heading": "Key messages",
+      "text": "We found that long-term ivabradine has no effect on death from cardiovascular causes in people with HFrEF. We also found that there is no difference between long-term ivabradine and placebo (dummy treatment), usual care, or no treatment in the rate of serious adverse events in people with HFrEF."
+    },
+    {
+      "heading": "What was studied in this review?",
+      "text": "Heart failure is a common condition that occurs when the heart muscle is too weak to pump blood sufficiently to the body, which leads to symptoms like shortness of breath, tiredness, swelling of the legs, and a limited ability to exercise. About half of people who suffer from heart failure die within five years of diagnosis. Several medications are known to be effective in treating heart failure; however, we wanted to know if ivabradine could improve survival. Seven studies focused on short-term treatment (< 6 months) with ivabradine, and eleven studies focused on a long-term treatment (≥ 6 months) with ivabradine. One study provided no information on duration of ivabradine administration."
+    },
+    {
+      "heading": "What are the main results of this review?",
+      "text": "We found 19 randomised controlled trials (a type of study in which participants are assigned to one of two or more treatment groups using a random method) with a total of 19,628 participants investigating ivabradine. Eleven studies focused on HFrEF, three studies on HFpEF, and one study on heart failure with mid-range ejection fraction (HFmrEF); no details were provided on heart failure in the remaining studies."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "We searched for studies that had been published up to March 2020."
+    }
+  ]
+}

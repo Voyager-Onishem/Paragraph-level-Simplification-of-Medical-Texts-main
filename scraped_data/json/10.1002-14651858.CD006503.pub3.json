@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006503.pub3",
+  "name": "Antiplatelet drugs for polycythaemia vera and essential thrombocythaemia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Polycythaemia vera and essential thrombocythaemia are chronic Philadelphia-negative myeloproliferative neoplasms that increase the risk of arterial and venous thrombosis, as well as bleeding. In addition to the different therapeutic strategies available, an antiplatelet drug is often used to reduce thrombotic risk."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the benefit and harm of antiplatelet drugs for long-term primary and secondary prophylaxis of arterial and venous thrombotic events in patients with polycythaemia vera or essential thrombocythaemia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), The Cochrane Library (Issue 1 2012), MEDLINE (1966 to 2012), and EMBASE (1980 to 2012), as well as online registers of ongoing trials and conference proceedings. The date of the last search was October 2012."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) comparing long-term (>6 months) use of an antiplatelet drug versus placebo or no treatment in participants with polycythaemia vera or essential thrombocythaemia, as diagnosed by established international criteria, with data for at least one of the selected outcomes."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Using a pre-defined extraction form, two review authors independently screened results, extracted data, and assessed quality. We planned to analyse the following outcomes: mortality from arterial and venous thrombotic events (primary efficacy outcome), mortality from bleeding episodes (primary safety outcome), fatal and non-fatal arterial thrombotic events, fatal and non-fatal venous thrombotic events, micro-circulation events, transient neurological and ocular manifestations, major and minor bleeding episodes, and all-cause mortality and any adverse events. We based quantitative analysis of outcome data on an intention-to-treat principle. We used the pooled odds ratio (OR) with 95% confidence interval (CI) with a fixed-effect model (Mantel-Haenszel) to estimate the overall treatment effect."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified no new studies from the updated searches. We included in this review two RCTs for a total of 630 participants. Both RCTs included participants with an established diagnosis of polycythaemia vera and with no clear indication or contraindication to aspirin therapy. We judged both studies to be of moderate quality. Published data from both studies were insufficient for a time-to-event data analysis and for some of the primary and secondary outcomes that we planned. The use of low-dose aspirin, compared with placebo, was associated with a lower risk of fatal thrombotic events (although this benefit was not statistically significant (OR 0.20, 95% CI 0.03 to 1.14; P = 0.07). No data on mortality from bleeding episodes were available. A non-significant benefit of aspirin was shown for all-cause mortality (OR 0.46, 95% CI 0.21 to 1.01; P = 0.05). No increase in the risk of major bleeding was reported in participants taking aspirin compared with those given placebo (OR 0.99, 95% CI 0.23 to 4.36; P = 0.99), and a non-significant increase with aspirin treatment was shown for minor bleeding (OR 1.85, 95% CI 0.90 to 3.79; P = 0.09). No published studies have reported findings in participants with essential thrombocythaemia or in the study of other antiplatelet drugs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For patients with polycythaemia vera who have no clear indication or contraindication to aspirin therapy, available evidence suggests that the use of low-dose aspirin, when compared with no treatment, is associated with a statistically non-significant reduction in the risk of fatal thrombotic events and all-cause mortality, without an increased risk of major bleeding."
+    }
+  ],
+  "pls_title": "Antiplatelet drugs for preventing arterial and venous thrombotic events in patients with polycythaemia vera or essential thrombocythaemia",
+  "pls_type": "long",
+  "pls": "Low-dose aspirin as an antiplatelet therapy is the drug of choice for preventing cardiovascular events, but the potential risk of bleeding has limited its use in myeloproliferative neoplasms in the past. Evidence from this review of 630 people in two trials suggests that, in patients with polycythaemia vera and with no clear indication or contraindication to aspirin therapy, low-dose aspirin may reduce the risk of thrombotic and all-cause mortality. No data were provided on mortality from bleeding episodes. No studies in participants with essential thrombocythaemia and with antiplatelet therapy other than aspirin have been published."
+}

@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD015226.pub2",
+  "name": "Pharmacological and electronic cigarette interventions for smoking cessation in adults: component network meta‐analyses ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Tobacco smoking is the leading preventable cause of death and disease worldwide. Stopping smoking can reduce this harm and many people would like to stop. There are a number of medicines licenced to help people quit globally, and e-cigarettes are used for this purpose in many countries. Typically treatments work by reducing cravings to smoke, thus aiding initial abstinence and preventing relapse. More information on comparative effects of these treatments is needed to inform treatment decisions and policies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate the comparative benefits, harms and tolerability of different smoking cessation pharmacotherapies and e-cigarettes, when used to help people stop smoking tobacco."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified studies from recent updates of Cochrane Reviews investigating our interventions of interest. We updated the searches for each review using the Cochrane Tobacco Addiction Group (TAG) specialised register to 29 April 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs), cluster-RCTs and factorial RCTs, which measured smoking cessation at six months or longer, recruited adults who smoked combustible cigarettes at enrolment (excluding pregnant people) and randomised them to approved pharmacotherapies and technologies used for smoking cessation worldwide (varenicline, cytisine, nortriptyline, bupropion, nicotine replacement therapy (NRT) and e-cigarettes) versus no pharmacological intervention, placebo (control) or another approved pharmacotherapy. Studies providing co-interventions (e.g. behavioural support) were eligible if the co-intervention was provided equally to study arms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methods for screening, data extraction and risk of bias (RoB) assessment (using the RoB 1 tool). Primary outcome measures were smoking cessation at six months or longer, and the number of people reporting serious adverse events (SAEs). We also measured withdrawals due to treatment. We used Bayesian component network meta-analyses (cNMA) to examine intervention type, delivery mode, dose, duration, timing in relation to quit day and tapering of nicotine dose, using odds ratios (OR) and 95% credibility intervals (CrIs). We calculated an effect estimate for combination NRT using an additive model. We evaluated the influence of population and study characteristics, provision of behavioural support and control arm rates using meta-regression. We evaluated certainty using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "Of our 332 eligible RCTs, 319 (835 study arms, 157,179 participants) provided sufficient data to be included in our cNMA. Of these, we judged 51 to be at low risk of bias overall, 104 at high risk and 164 at unclear risk, and 118 reported pharmaceutical or e-cigarette/tobacco industry funding. Removing studies at high risk of bias did not change our interpretation of the results.\nBenefits\nWe found high-certainty evidence that nicotine e-cigarettes (OR 2.37, 95% CrI 1.73 to 3.24; 16 RCTs, 3828 participants), varenicline (OR 2.33, 95% CrI 2.02 to 2.68; 67 RCTs, 16,430 participants) and cytisine (OR 2.21, 95% CrI 1.66 to 2.97; 7 RCTs, 3848 participants) were associated with higher quit rates than control. In absolute terms, this might lead to an additional eight (95% CrI 4 to 13), eight (95% CrI 6 to 10) and seven additional quitters per 100 (95% CrI 4 to 12), respectively. These interventions appeared to be more effective than the other interventions apart from combination NRT (patch and a fast-acting form of NRT), which had a lower point estimate (calculated additive effect) but overlapping 95% CrIs (OR 1.93, 95% CrI 1.61 to 2.34). There was also high-certainty evidence that nicotine patch alone (OR 1.37, 95% CrI 1.20 to 1.56; 105 RCTs, 37,319 participants), fast-acting NRT alone (OR 1.41, 95% CrI 1.29 to 1.55; 120 RCTs, 31,756 participants) and bupropion (OR 1.43, 95% CrI 1.26 to 1.62; 71 RCTs, 14,759 participants) were more effective than control, resulting in two (95% CrI 1 to 3), three (95% CrI 2 to 3) and three (95% CrI 2 to 4) additional quitters per 100 respectively.\nNortriptyline is probably associated with higher quit rates than control (OR 1.35, 95% CrI 1.02 to 1.81; 10 RCTs, 1290 participants; moderate-certainty evidence), resulting in two (CrI 0 to 5) additional quitters per 100. Non-nicotine/placebo e-cigarettes (OR 1.16, 95% CrI 0.74 to 1.80; 8 RCTs, 1094 participants; low-certainty evidence), equating to one additional quitter (95% CrI -2 to 5), had point estimates favouring the intervention over control, but CrIs encompassed the potential for no difference and harm. There was low-certainty evidence that tapering the dose of NRT prior to stopping treatment may improve effectiveness; however, 95% CrIs also incorporated the null (OR 1.14, 95% CrI 1.00 to 1.29; 111 RCTs, 33,156 participants). This might lead to an additional one quitter per 100 (95% CrI 0 to 2).\nHarms\nThere were insufficient data to include nortriptyline and non-nicotine EC in the final SAE model. Overall rates of SAEs for the remaining treatments were low (average 3%). Low-certainty evidence did not show a clear difference in the number of people reporting SAEs for nicotine e-cigarettes, varenicline, cytisine or NRT when compared to no pharmacotherapy/e-cigarettes or placebo. Bupropion may slightly increase rates of SAEs, although the CrI also incorporated no difference (moderate certainty). In absolute terms bupropion may cause one more person in 100 to experience an SAE (95% CrI 0 to 2)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The most effective interventions were nicotine e-cigarettes, varenicline and cytisine (all high certainty), as well as combination NRT (additive effect, certainty not rated). There was also high-certainty evidence for the effectiveness of nicotine patch, fast-acting NRT and bupropion. Less certain evidence of benefit was present for nortriptyline (moderate certainty), non-nicotine e-cigarettes and tapering of nicotine dose (both low certainty).\nThere was moderate-certainty evidence that bupropion may slightly increase the frequency of SAEs, although there was also the possibility of no increased risk. There was no clear evidence that any other tested interventions increased SAEs. Overall, SAE data were sparse with very low numbers of SAEs, and so further evidence may change our interpretation and certainty.\nFuture studies should report SAEs to strengthen certainty in this outcome. More head-to-head comparisons of the most effective interventions are needed, as are tests of combinations of these. Future work should unify data from behavioural and pharmacological interventions to inform approaches to combined support for smoking cessation."
+    }
+  ],
+  "pls_title": "How effective are medications and e-cigarettes for quitting smoking, and what works best?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Some medicines and e-cigarettes (handheld devices that work by heating liquid that usually contains nicotine and flavourings) can help people to quit smoking for six months or longer.\nE-cigarettes, and the medicines cytisine (otherwise known as Tabex) and varenicline (otherwise known as Chantix and Champix), appear to help the most people to quit smoking, followed by using two types of nicotine replacement therapy at once (nicotine patch and another type, such as gum or lozenge).\nWe need more evidence on possible long-term harms of e-cigarettes and medicines to help people quit smoking, but there were very low numbers of serious harms found."
+    },
+    {
+      "heading": "Stopping smoking",
+      "text": "Tobacco smoking is bad for people's health and stopping can lead to significant improvements. Most people would like to quit smoking and there are medicines and e-cigarettes available to help people to do that. These medicines are called nicotine replacement therapy, cytisine, varenicline, bupropion (sometimes known as Zyban or Wellbutrin) and nortriptyline (sometimes known as Norpress). Nortriptyline is only available for quitting smoking in New Zealand, and cytisine is not available in many countries. At time of writing, there are shortages of varenicline due to a manufacturing issue. These medicines and e-cigarettes can be provided alongside behavioural support, such as counselling. Stop smoking medications and e-cigarettes are designed to reduce people's craving to smoke. By finding out more information on how these treatments compare to each other, we hope this review will be used to decide the best treatments to help people stop smoking."
+    },
+    {
+      "heading": "Why we did this Cochrane Review",
+      "text": "We wanted to find out:\n- which treatments (medicines and e-cigarettes) help people to stop smoking;\n- how these treatments compare to each other;\n- whether there are ways of providing these treatments that mean they are more likely to help people stop smoking (e.g. different doses or treatment lengths);\n- whether these treatments are likely to cause serious harms; and\n- whether certain treatments are better tolerated, as indicated by fewer people leaving a study due to treatment."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at these treatments to help adults quit smoking. We looked for randomised controlled trials, where the treatments people received were decided at random. This type of study usually gives the most reliable evidence about the effects of treatments. We compared all treatments with each other using a method called network meta-analysis."
+    },
+    {
+      "heading": "Search date",
+      "text": "29 April 2022"
+    },
+    {
+      "heading": "What we found",
+      "text": "We found 332 studies that met our criteria and 319 of these provided information that we could use in our analyses. These included 157,179 adults who smoked tobacco cigarettes. Most of the studies took place in the USA or Europe. The studies compared the effects of the stop smoking treatments listed above with:\n- no medicine/e-cigarettes for stopping smoking;\n- e-cigarettes that did not contain nicotine;\n- placebo (a dummy medication); and\n- other types of stop smoking medicine or e-cigarettes."
+    },
+    {
+      "heading": "What are the main results of our review?",
+      "text": "E-cigarettes, varenicline and cytisine were most likely to help people quit smoking. For every 100 people, 10 to 19 are likely to quit using an e-cigarette; 12 to 16 using varenicline; and 10 to 18 using cytisine. This is compared to the 6 in 100 people likely to quit when using no medicine/e-cigarette or placebo. People using two forms of nicotine replacement therapy at the same time, for example, a combination of nicotine patch and nicotine gum, seemed to have similar rates of quitting to people using e-cigarettes, varenicline and cytisine. Nicotine patches alone, another form of nicotine replacement therapy alone (such as gum, lozenge) and bupropion appeared to help fewer people quit but still work better than no medicine/e-cigarette or placebo (8, 9 and 9 people per 100, respectively). Nortriptyline appeared to result in the lowest number of people quitting smoking; for every 100 people using nortriptyline 6 to 11 are likely to quit.\nWe are moderately confident that bupropion could rarely cause some serious health effects. The information we have for other treatments does not provide clear evidence of serious harms. For all treatments, findings suggest very few people experience serious harms when using them."
+    },
+    {
+      "heading": "How confident are we in our results?",
+      "text": "We are confident that e-cigarettes, cytisine, varenicline, nicotine replacement therapy and bupropion help people stop smoking. We do not expect more evidence will change these results. However, more evidence on how these treatments compare to one another, particularly in relation to harms, would be useful. Due to the nature of our analyses we were not able to judge our confidence in the evidence for combination nicotine replacement therapy (two types used together). We are moderately confident that nortriptyline also helps people to stop smoking, but are less confident in our results for non-nicotine e-cigarettes and for potential harms of most of the treatments. We still need more evidence on potential harms and hope more studies will report on these in future; however, nicotine replacement therapy has been used since the 1980s with no evidence of serious harms."
+    }
+  ]
+}

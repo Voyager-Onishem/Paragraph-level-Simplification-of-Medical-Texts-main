@@ -1,0 +1,87 @@
+{
+  "doi": "10.1002/14651858.CD015033.pub2",
+  "name": "Vitamin E for people with non‐alcoholic fatty liver disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Rationale",
+      "text": "Non-alcoholic fatty liver disease (NAFLD), recently renamed metabolic dysfunction-associated steatotic liver disease (MASLD), is the most common liver disease worldwide, affecting an estimated 3 in 10 people. The available treatment is far from optimal. Diet and lifestyle changes to promote weight loss and weight loss maintenance are the basic management of NAFLD, but these are difficult to achieve and maintain. Vitamin E has shown beneficial effects on oxidative stress, which plays a major role in the pathogenesis of NAFLD. However, there is uncertainty about the effects of vitamin E for people with NAFLD."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the beneficial and harmful effects of vitamin E alone, or vitamin E in combination with other vitamins or minerals, versus placebo or no intervention in people with NAFLD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used recommended Cochrane search methods. The latest search was performed on 2 February 2024."
+    },
+    {
+      "heading": "Eligibility criteria",
+      "text": "We included randomised clinical trials that compared vitamin E alone, or in combination with other vitamins or minerals, at any dose, duration, and route of administration, versus placebo or no intervention, in people with NAFLD of any age, sex, or ethnic origin. We included participants with imaging techniques or histology-proven NAFLD and minimal alcohol intake, and participants with steatohepatitis who had liver biopsies."
+    },
+    {
+      "heading": "Outcomes",
+      "text": "Our critical outcomes were all-cause mortality, liver-related mortality, and serious adverse events. Our important outcomes were liver-related morbidity, health-related quality of life, non-serious adverse events, biochemical response, and imaging assessment of the degree of fatty liver."
+    },
+    {
+      "heading": "Risk of bias",
+      "text": "We used Cochrane's RoB 2 tool to assess risk of bias for each of the predefined outcomes."
+    },
+    {
+      "heading": "Synthesis methods",
+      "text": "We used standard Cochrane methods. We used GRADE to assess the certainty of evidence."
+    },
+    {
+      "heading": "Included studies",
+      "text": "We included 16 randomised clinical trials involving 1066 paediatric and adult participants with NAFLD. Experimental groups received vitamin E alone (14 trials) or vitamin E in combination with vitamin C (2 trials). Control groups received placebo in 13 trials and no intervention in three trials. Daily dosages of oral vitamin E ranged from 298 international units (IU) to 1000 IU. Co-interventions were lifestyle and low-calorie diet interventions in 13 trials, ursodeoxycholic acid in one trial, unchanged diet and physical activity in one trial, and baseline treatments for type 2 diabetes in one trial. Nine trials had more than two intervention groups, but we used only the groups in which vitamin E alone or vitamin E in combination with vitamin C were compared with placebo or no intervention. In total, 7.9% (84/1066) of participants dropped out. Follow-up ranged from 2 months to 24 months."
+    },
+    {
+      "heading": "Synthesis of results",
+      "text": "Vitamin E versus placebo or no intervention\nThe effects of vitamin E versus placebo or no intervention on all-cause mortality (risk ratio (RR) 3.45, 95% confidence interval (CI) 0.57 to 20.86; 3 trials, 351 participants; very low certainty evidence) and serious adverse events (RR 1.91, 95% CI 0.30 to 12.01; 2 trials, 283 participants; very low certainty evidence) are very uncertain. There were no data on liver-related mortality or liver-related morbidity. The effects of vitamin E versus placebo or no intervention on physical health-related quality of life (mean difference (MD) 0.74, 95% CI −0.52 to 2.01; 2 trials, 251 participants; higher scores indicate better quality of life; very low certainty evidence); psychosocial health-related quality of life (MD −0.57, 95% CI −4.11 to 2.97; 2 trials, 251 participants; higher scores indicate better quality of life; very low certainty evidence); and non-serious adverse events (RR 0.86, 95% CI 0.64 to 1.17; 2 trials, 283 participants; very low certainty evidence) are also very uncertain. There were no data on proportion of participants without a decrease in liver enzymes. Vitamin E likely slightly reduces serum alanine transaminase (ALT) (MD −9.29, 95% CI −13.69 to −4.89; 11 trials, 708 participants; moderate certainty evidence) and aspartate aminotransferase (AST) (MD −4.90, 95% CI −7.24 to −2.57; 11 trials, 695 participants; moderate certainty evidence) levels compared with placebo or no intervention. Vitamin E may slightly reduce serum alkaline phosphatase (ALP) levels (MD −5.21, 95% CI −9.88 to −0.54; 5 trials, 416 participants; very low certainty evidence), but the evidence is very uncertain.\nVitamin E plus vitamin C versus placebo\nThere were no data on all-cause mortality, liver-related mortality, serious adverse events, liver-related morbidity, health-related quality of life, and non-serious adverse events. The effects of vitamin E plus vitamin C on reducing serum ALT (MD −0.50, 95% CI −4.58 to 3.58; 2 trials, 133 participants; very low certainty evidence), AST (MD 0.09, 95% CI −3.39 to 3.57; 1 trial, 88 participants; very low certainty evidence), and gamma-glutamyl transferase (GGT) levels (MD 1.58, 95% CI −3.22 to 6.38; 1 trial, 88 participants; very low certainty evidence) are very uncertain.\nWe identified three ongoing trials, and six trials are awaiting classification."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Given the very low certainty evidence, we do not know if long-term treatment (18 months to 24 months) with vitamin E administered alone affects all-cause mortality, serious adverse events, quality of life, or non-serious adverse events in people with NAFLD when compared with placebo or no intervention. We found no data on liver-related mortality, liver-related morbidity, or proportion of participants without a decrease in liver enzymes. Vitamin E likely reduces ALT and AST slightly when compared with placebo, but whether this has any impact on the clinical course in people with NAFLD is unknown.\nThe trials on vitamin E plus vitamin C did not report on all-cause mortality, liver-related mortality, serious adverse events, liver-related morbidity, health-related quality of life, or non-serious adverse events. Given the very low certainty evidence, we do not know the effects of vitamin E plus vitamin C on liver enzymes in people with NAFLD when compared with placebo."
+    },
+    {
+      "heading": "Funding",
+      "text": "Three trials disclosed no external funding. Five trials were industry funded. Five trials were funded by organisations with no vested interests. Three trials did not provide any information on clinical trial support or sponsorship."
+    },
+    {
+      "heading": "Registration",
+      "text": "Protocol: doi.org/10.1002/14651858.CD015033"
+    }
+  ],
+  "pls_title": "What are the benefits and risks of vitamin E for non-alcoholic fatty liver disease?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "It is unclear whether long-term treatment (18 months to 24 months) with vitamin E alone or in combination with vitamin C affects death due to any cause, serious unwanted effects, health-related quality of life, or non-serious unwanted effects when compared with placebo (dummy pill) or no treatment.    Vitamin E alone probably reduces alanine transaminase and aspartate aminotransferase (liver enzyme) levels slightly.    Further research is needed to increase our confidence in the evidence.\nIt is unclear whether long-term treatment (18 months to 24 months) with vitamin E alone or in combination with vitamin C affects death due to any cause, serious unwanted effects, health-related quality of life, or non-serious unwanted effects when compared with placebo (dummy pill) or no treatment.\nVitamin E alone probably reduces alanine transaminase and aspartate aminotransferase (liver enzyme) levels slightly.\nFurther research is needed to increase our confidence in the evidence."
+    },
+    {
+      "heading": "What is non-alcoholic fatty liver disease?",
+      "text": "Non-alcoholic fatty liver disease, recently renamed 'metabolic dysfunction-associated steatotic liver disease', is a common condition that affects people who may drink little to no alcohol. It is caused by too much fat in the liver (steatosis). People with non-alcoholic fatty liver disease can experience weakness, pain, or discomfort in the upper right side of the tummy. The disease affects not only the liver, but it is also associated with a high risk of high blood sugar, heart disease, and kidney disease."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if vitamin E alone, or in combination with other vitamins or minerals, was better than placebo (dummy pill) or no treatment in improving outcomes such as death due to any cause, serious unwanted effects, quality of life, liver-related death, liver-related illness, and non-serious unwanted effects. We also wanted to know if this treatment improves liver enzymes and steatosis, which indicate good liver function."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that looked at vitamin E alone or in combination with other vitamins or minerals compared to placebo or no treatment in adults and children with non-alcoholic fatty liver disease. We compared and summarised the results of the trials and rated our confidence in the evidence based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 16 studies including 1066 adults and children with non-alcoholic fatty liver disease. The studies were performed in countries around the world and lasted between two months and two years.\nEvidence for the effect of vitamin E administered alone on death from any cause, serious unwanted effects, quality of life, and non-serious unwanted events is very uncertain. Vitamin E alone likely slightly reduces serum alanine transaminase and aspartate aminotransferase levels (enzymes found in the liver) when compared with placebo or no intervention. Vitamin E may slightly reduce serum alkaline phosphatase (another liver enzyme) levels, but the evidence is very uncertain.\nEvidence for the effect of vitamin E in combination with vitamin C on liver enzyme levels is very uncertain. No trial looking at vitamin E in combination with vitamin C reported on death due to any cause, serious unwanted effects, quality of life, or non-serious unwanted effects.\nThe outcomes liver-related death, liver-related illness, and numbers of people without a decrease in serum liver enzymes were not reported in any included study."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence ranged from very low to moderate. In general, we have little confidence in the evidence because few studies provided information on outcomes we were interested in; results varied across studies; and many of the studies were small. Further research is likely to change our results."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to 2 February 2024."
+    }
+  ]
+}

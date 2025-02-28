@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011984",
+  "name": "Urine tests for Down's syndrome screening",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Down's syndrome occurs when a person has three copies of chromosome 21, or the specific area of chromosome 21 implicated in causing Down's syndrome, rather than two. It is the commonest congenital cause of mental disability and also leads to numerous metabolic and structural problems. It can be life-threatening, or lead to considerable ill health, although some individuals have only mild problems and can lead relatively normal lives. Having a baby with Down's syndrome is likely to have a significant impact on family life. The risk of a Down's syndrome affected pregnancy increases with advancing maternal age.\nNoninvasive screening based on biochemical analysis of maternal serum or urine, or fetal ultrasound measurements, allows estimates of the risk of a pregnancy being affected and provides information to guide decisions about definitive testing. Before agreeing to screening tests, parents need to be fully informed about the risks, benefits and possible consequences of such a test. This includes subsequent choices for further tests they may face, and the implications of both false positive and false negative screening tests (i.e. invasive diagnostic testing, and the possibility that a miscarried fetus may be chromosomally normal). The decisions that may be faced by expectant parents inevitably engender a high level of anxiety at all stages of the screening process, and the outcomes of screening can be associated with considerable physical and psychological morbidity. No screening test can predict the severity of problems a person with Down's syndrome will have."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To estimate and compare the accuracy of first and second trimester urine markers for the detection of Down's syndrome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We carried out a sensitive and comprehensive literature search of MEDLINE (1980 to 25 August 2011), EMBASE (1980 to 25 August 2011), BIOSIS via EDINA (1985 to 25 August 2011), CINAHL via OVID (1982 to 25 August 2011), The Database of Abstracts of Reviews of Effectiveness (The Cochrane Library 2011, Issue 7), MEDION (25 August 2011), The Database of Systematic Reviews and Meta-Analyses in Laboratory Medicine (25 August 2011), The National Research Register (archived 2007), Health Services Research Projects in Progress database (25 August 2011). We studied reference lists and published review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Studies evaluating tests of maternal urine in women up to 24 weeks of gestation for Down's syndrome, compared with a reference standard, either chromosomal verification or macroscopic postnatal inspection."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data as test positive or test negative results for Down's and non-Down's pregnancies allowing estimation of detection rates (sensitivity) and false positive rates (1-specificity). We performed quality assessment according to QUADAS (Quality Assessment of Diagnostic Accuracy Studies) criteria. We used hierarchical summary ROC (receiver operating characteristic) meta-analytical methods to analyse test performance and compare test accuracy. We performed analysis of studies allowing direct comparison between tests. We investigated the impact of maternal age on test performance in subgroup analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 19 studies involving 18,013 pregnancies (including 527 with Down's syndrome). Studies were generally of high quality, although differential verification was common with invasive testing of only high-risk pregnancies. Twenty-four test combinations were evaluated formed from combinations of the following seven different markers with and without maternal age: AFP (alpha-fetoprotein), ITA (invasive trophoblast antigen), ß-core fragment, free ßhCG (beta human chorionic gonadotrophin), total hCG, oestriol, gonadotropin peptide and various marker ratios. The strategies evaluated included three double tests and seven single tests in combination with maternal age, and one triple test, two double tests and 11 single tests without maternal age. Twelve of the 19 studies only evaluated the performance of a single test strategy while the remaining seven evaluated at least two test strategies. Two marker combinations were evaluated in more than four studies; second trimester ß-core fragment (six studies), and second trimester ß-core fragment with maternal age (five studies).\nIn direct test comparisons, for a 5% false positive rate (FPR), the diagnostic accuracy of the double marker second trimester ß-core fragment and oestriol with maternal age test combination was significantly better (ratio of diagnostic odds ratio (RDOR): 2.2 (95% confidence interval (CI) 1.1 to 4.5), P = 0.02) (summary sensitivity of 73% (CI 57 to 85) at a cut-point of 5% FPR) than that of the single marker test strategy of second trimester ß-core fragment and maternal age (summary sensitivity of 56% (CI 45 to 66) at a cut-point of 5% FPR), but was not significantly better (RDOR: 1.5 (0.8 to 2.8), P = 0.21) than that of the second trimester ß-core fragment to oestriol ratio and maternal age test strategy (summary sensitivity of 71% (CI 51 to 86) at a cut-point of 5% FPR)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Tests involving second trimester ß-core fragment and oestriol with maternal age are significantly more sensitive than the single marker second trimester ß-core fragment and maternal age, however, there were few studies. There is a paucity of evidence available to support the use of urine testing for Down's syndrome screening in clinical practice where alternatives are available."
+    }
+  ],
+  "pls_title": "Screening tests for Down’s syndrome in first 24 weeks of pregnancy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Down's syndrome (also known as Down's or Trisomy 21) is an incurable genetic disorder that causes significant physical and mental health problems, and disabilities. However, there is wide variation in how Down's affects people. Some individuals are severely affected whilst others have mild problems and are able to lead relatively normal lives. There is no way of predicting how badly a baby might be affected.\nExpectant parents are given the choice to be tested for Down’s during pregnancy to assist them in making decisions. If a mother is carrying a baby with Down’s, then there is the decision about whether to terminate or continue with the pregnancy. The information offers parents the opportunity to plan for life with a Down’s child.\nThe most accurate tests for Down’s involve testing fluid from around the baby (amniocentesis) or tissue from the placenta (chorionic villus sampling (CVS)) for the abnormal chromosomes associated with Down’s. Both these tests involve inserting needles through the mother's abdomen and are known to increase the risk of miscarriage. Thus, the tests are not suitable for offering to all pregnant women. Rather, tests that measure markers in the mother’s blood, urine or on ultrasound scans of the baby are used for screening. These screening tests are not perfect, they can miss cases of Down’s and also give a ‘high risk’ test results to a number of women whose babies are not affected by Down’s. Thus, pregnancies identified as ‘high risk’ using these screening tests require further testing using amniocentesis or CVS to confirm a diagnosis of Down’s."
+    },
+    {
+      "heading": "What we did",
+      "text": "The aim of this review was to find out which of the urine screening tests done during the first 24 weeks of pregnancy are the most accurate at predicting the risk of a pregnancy being affected by Down's. We looked at seven different urine markers that can be used alone, in ratios or in combination, taken before 24 weeks' gestation, thus creating 24 screening tests for Down’s. We found 19 studies, involving 18,013 pregnancies of which 527 had pregnancies affected by Down's."
+    },
+    {
+      "heading": "What we found",
+      "text": "For the first 24 weeks of pregnancy, the evidence does not support the use of urine tests for Down's syndrome screening. The amount of evidence is limited. These tests are not offered in routine clinical practice."
+    },
+    {
+      "heading": "Other important information to consider",
+      "text": "The urine tests themselves have no adverse effects for the woman. However, some women who have a ‘high risk’ screening test result, and are given amniocentesis or CVS have a risk of miscarrying a baby unaffected by Down’s. Parents will need to weigh up this risk when deciding whether or not to have an amniocentesis or CVS following a ‘high risk’ screening test result."
+    }
+  ]
+}

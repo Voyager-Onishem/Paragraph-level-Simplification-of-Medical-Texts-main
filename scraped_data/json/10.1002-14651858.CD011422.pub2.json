@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011422.pub2",
+  "name": "Robot‐assisted surgery in gynaecology",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated merged review of two originally separate Cochrane reviews: one on robot-assisted surgery (RAS) for benign gynaecological disease, the other on RAS for gynaecological cancer. RAS is a relatively new innovation in laparoscopic surgery that enables the surgeon to conduct the operation from a computer console, situated away from the surgical table. RAS is already widely used in the United States for hysterectomy and has been shown to be feasible for other gynaecological procedures. However, the clinical effectiveness and safety of RAS compared with conventional laparoscopic surgery (CLS) have not been clearly established and require independent review."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of RAS in the treatment of women with benign and malignant gynaecological disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and EMBASE via Ovid, on 8 January 2018. We searched www.ClinicalTrials.gov. on 16 January 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing RAS versus CLS or open surgery in women requiring surgery for gynaecological disease."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed studies for inclusion and risk of bias, and extracted study data and entered them into an Excel spreadsheet. We examined different procedures in separate comparisons and for hysterectomy subgrouped data according to type of disease (non-malignant versus malignant). When more than one study contributed data, we pooled data using random-effects methods in RevMan 5.3."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 12 RCTs involving 1016 women. Studies were at moderate to high overall risk of bias, and we downgraded evidence mainly due to concerns about risk of bias in the studies contributing data and imprecision of effect estimates. Procedures performed were hysterectomy (eight studies) and sacrocolpopexy (three studies). In addition, one trial examined surgical treatment for endometriosis, which included resection or hysterectomy. Among studies of women undergoing hysterectomy procedures, two studies involved malignant disease (endometrial cancer); the rest involved non-malignant disease.\n• RAS versus CLS (hysterectomy)\nLow-certainty evidence suggests there might be little or no difference in any complication rates between RAS and CLS (risk ratio (RR) 0.92, 95% confidence interval (CI) 0.54 to 1.59; participants = 585; studies = 6; I² = 51%), intraoperative complication rates (RR 1.05, 95% CI 0.31 to 3.56; participants = 487; studies = 5; I² = 28%), postoperative complications (RR 0.82, 95% CI 0.42 to 1.59; participants = 533; studies = 5; I2 = 51%), and blood transfusions (RR 2.49, 95% CI 0.75 to 8.23; participants = 346; studies = 4; I2 = 0%)). There was no statistical difference between malignant and non-malignant disease subgroups with regard to complication rates. Survival outcomes for women with malignant disease were not reported.\nMean total operating time was longer on average in the RAS arm than in the CLS arm (mean difference (MD) 41.18 minutes, 95% CI -6.17 to 88.53; participants = 148; studies = 2; I² = 80%; very low-certainty evidence), and the mean length of hospital stay was slightly shorter with RAS than with CLS (MD -0.30 days, 95% CI -0.53 to -0.07; participants = 192; studies = 2; I² = 0%; very low-certainty evidence).\n• RAS versus CLS (sacrocolpopexy)\nVery low-certainty evidence suggests little or no difference in rates of any complications between women undergoing sacrocolpopexy by RAS or CLS (RR 0.95, 95% CI 0.21 to 4.24; participants = 186; studies = 3; I² = 78%), nor in intraoperative complications (RR 0.82, 95% CI 0.09 to 7.59; participants = 108; studies = 2; I² = 47%). Low-certainty evidence on postoperative complications suggests these might be higher with RAS (RR 3.54, 95% CI 1.31 to 9.56; studies = 1; participants = 68). Researchers did not report blood transfusions and deaths up to 30 days.\nLow-certainty evidence suggests that RAS might be associated with increased operating time (MD 40.53 min, 95% CI 12.06 to 68.99; participants = 186; studies = 3; I² = 73%). Very low-certainty evidence suggests little or no difference between the two techniques in terms of duration of stay (MD 0.26 days, 95% CI -0.15 to 0.67; participants = 108; studies = 2; I² = 0%).\n• RAS versus open abdominal surgery (hysterectomy)\nTwo studies of 20 and 96 participants with non-malignant disease and malignant disease, respectively, compared RAS with open surgery. For most outcomes only one study contributed data, with most evidence assessed as very low-certainty. Low-certainty evidence from the study among women with endometrial cancer suggests that lymph node yields may be lower with RAS (MD -8.00, 95% CI -14.97 to -1.03), operating time may be longer (233 minutes (range 166 to 320 minutes) compared with 187 minutes (range 109 to 300), hospital stays may be shorter (mean of 2 days [1 to 5] versus 5 days [4 to 9]; P<0.001), and overall costs may be less (MD -1568.00 US dollars, 95% CI -3100.75 to -35.25) than open surgery. Survival outcomes were not reported.\n• RAS versus CLS for endometriosis\nA single study with data for 73 women was included in this comparison; women with endometriosis underwent procedures ranging from relatively minor endometrial resection through hysterectomy; many of the women included in this study had undergone previous surgery for their condition. For most outcomes, event rates were low, and the sample size was insufficient to detect potential differences between groups."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Evidence on the effectiveness and safety of RAS compared with CLS for non-malignant disease (hysterectomy and sacrocolpopexy) is of low certainty but suggests that surgical complication rates might be comparable. Evidence on the effectiveness and safety of RAS compared with CLS or open surgery for malignant disease is more uncertain, particularly because survival data are lacking. RAS is an operator-dependent expensive technology; therefore evaluating the safety of this technology independently will present challenges."
+    }
+  ],
+  "pls_title": "Use of computer or robotic technology to assist surgeons in performing gynaecological surgery",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This updated review was originally covered by two separate Cochrane reviews on robot-assisted surgery for benign and malignant gynaecological disease."
+    },
+    {
+      "heading": "The question",
+      "text": "Laparoscopic (keyhole) surgery is widely used in gynaecology. Robot-assisted surgery (RAS) is a relatively new type of laparoscopic surgery that allows the surgeon to conduct the operation from a computer console situated away from the patient via remote-controlled mechanical arms attached to the surgical table. RAS is already in use in several countries for gynaecological surgery, particularly for hysterectomy (removal of the uterus/womb), and it has been reported to be useful for myomectomy (removal of uterine fibroids), tubal re-anastomosis (joining two ends of one fallopian tube to restore fertility), sacrocolpopexy (designed to repair vaginal vault prolapse, when the uppermost part of the vagina slips downwards), and other procedures for benign (non-cancerous) disease. It has also been used for treatment of women with gynaecological cancers, especially endometrial (lining of the womb) and cervical cancers. However, the benefits and risks of RAS versus standard surgical approaches have not been clearly established."
+    },
+    {
+      "heading": "How we conducted the review",
+      "text": "We identified studies by searching databases and writing to researchers of registered trials. Two review authors independently assessed studies and collected the data from each study. We included only randomised controlled trials. We pooled data from similar individual studies in the analyses, and we examined different types of operations separately (hysterectomy, sacrocolpopexy, or surgery for endometriosis)."
+    },
+    {
+      "heading": "Findings",
+      "text": "We included 12 studies involving 1016 women requiring surgery for gynaecological disease. Studies were at moderate to high overall risk of bias. Operations performed were hysterectomy (eight studies) and sacrocolpopexy (three studies). In addition, one trial examined surgical treatment for endometriosis, which included resection or hysterectomy. We are uncertain as to whether RAS or conventional laparoscopic surgery (CLS) has lower overall complication rates because the evidence gathered was of low certainty. The time taken to carry out the operation varied considerably among studies reporting this outcome, so results are difficult to interpret, and although the evidence suggested slightly shorter hospital stays with RAS (one-third of a day), we considered the evidence to be very uncertain and studies to be at high risk of bias.\nFor sacrocolpopexy procedures, overall evidence shows no clear differences in rates of any complications with RAS compared with CLS, but the evidence was of low certainty. Only one study reported postoperative complications, which were higher in the RAS group (low-certainty evidence). RAS was associated with an average increase in operating time of 40.53 minutes in the RAS group (low-certainty evidence), but these results probably are not reliable, as there was a lot of variation between studies. We found very low-certainty evidence suggesting there was little or no difference between RAS and CLS in terms of duration of hospital stay for this procedure.\nTwo small studies looked at hysterectomy using RAS versus open abdominal surgery; however, most findings were assessed as being too uncertain to draw any conclusions. Similarly, a study with data for 73 women looked at RAS versus CLS for surgery for endometriosis; women with endometriosis underwent procedures ranging from relatively minor endometrial resection through hysterectomy; many of the women included in this study had undergone previous surgery for their condition, and the sample size was insufficient to show potential differences between surgical techniques."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Complication rates (during and after surgery) for RAS might be similar to those for CLS; however, the evidence is generally of low quality/certainty. Evidence on its use for gynaecological cancer surgery is more uncertain because we found no comparative evidence on cancer recurrence or survival after cancer surgery. As RAS depends on the skill and experience of the surgeon and is an expensive technology, evaluating its effectiveness and safety independently will present challenges."
+    }
+  ]
+}

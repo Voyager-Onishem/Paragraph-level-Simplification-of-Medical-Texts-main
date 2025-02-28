@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010983.pub2",
+  "name": "Comparison of different platelet count thresholds to guide administration of prophylactic platelet transfusion for preventing bleeding in people with haematological disorders after myelosuppressive chemotherapy or stem cell transplantation ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Platelet transfusions are used in modern clinical practice to prevent and treat bleeding in people who are thrombocytopenic due to bone marrow failure. Although considerable advances have been made in platelet transfusion therapy in the last 40 years, some areas continue to provoke debate, especially concerning the use of prophylactic platelet transfusions for the prevention of thrombocytopenic bleeding.\nThis is an update of a Cochrane review first published in 2004, and previously updated in 2012 that addressed four separate questions: prophylactic versus therapeutic-only platelet transfusion policy; prophylactic platelet transfusion threshold; prophylactic platelet transfusion dose; and platelet transfusions compared to alternative treatments. This review has now been split into four smaller reviews looking at these questions individually; this review compares prophylactic platelet transfusion thresholds."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether different platelet transfusion thresholds for administration of prophylactic platelet transfusions (platelet transfusions given to prevent bleeding) affect the efficacy and safety of prophylactic platelet transfusions in preventing bleeding in people with haematological disorders undergoing myelosuppressive chemotherapy or haematopoietic stem cell transplantation (HSCT)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Library 2015, Issue 6, 23 July 2015), MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1937), the Transfusion Evidence Library (from 1950), and ongoing trial databases to 23 July 2015."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs involving transfusions of platelet concentrates, prepared either from individual units of whole blood or by apheresis, and given to prevent bleeding in people with haematological disorders (receiving myelosuppressive chemotherapy or undergoing HSCT) that compared different thresholds for administration of prophylactic platelet transfusions (low trigger (5 x 109/L); standard trigger (10 x 109/L); higher trigger (20 x 109/L, 30 x 109/L, 50 x 109/L); or alternative platelet trigger (for example platelet mass))."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard methodological procedures expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "Three trials met our predefined inclusion criteria and were included for analysis in the review (499 participants). All three trials compared a standard trigger (10 x 109/L) versus a higher trigger (20 x 109/L or 30 x 109/L). None of the trials compared a low trigger versus a standard trigger or an alternative platelet trigger. The trials were conducted between 1991 and 2001 and enrolled participants from fairly comparable patient populations.\nThe original review contained four trials (658 participants); in the previous update of this review we excluded one trial (159 participants) because fewer than 80% of participants had a haematological disorder. We identified no new trials in this update of the review.\nOverall, the methodological quality of the studies was low across different outcomes according to GRADE methodology. None of the included studies were at low risk of bias in every domain, and all the included studies had some threats to validity.\nThree studies reported the number of participants with at least one clinically significant bleeding episode within 30 days from the start of the study. There was no evidence of a difference in the number of participants with a clinically significant bleeding episode between the standard and higher trigger groups (three studies; 499 participants; risk ratio (RR) 1.35, 95% confidence interval (CI) 0.95 to 1.90; low-quality evidence).\nOne study reported the number of days with a clinically significant bleeding event (adjusted for repeated measures). There was no evidence of a difference in the number of days of bleeding per participant between the standard and higher trigger groups (one study; 255 participants; relative proportion of days with World Health Organization Grade 2 or worse bleeding (RR 1.71, 95% CI 0.84 to 3.48, P = 0.162; authors' own results; low-quality evidence).\nTwo studies reported the number of participants with severe or life-threatening bleeding. There was no evidence of any difference in the number of participants with severe or life-threatening bleeding between a standard trigger level and a higher trigger level (two studies; 421 participants; RR 0.99, 95% CI 0.52 to 1.88; low-quality evidence).\nOnly one study reported the time to first bleeding episode. There was no evidence of any difference in the time to the first bleeding episode between a standard trigger level and a higher trigger level (one study; 255 participants; hazard ratio 1.11, 95% CI 0.64 to 1.91; low-quality evidence).\nOnly one study reported on all-cause mortality within 30 days from the start of the study. There was no evidence of any difference in all-cause mortality between standard and higher trigger groups (one study; 255 participants; RR 1.78, 95% CI 0.83 to 3.81; low-quality evidence).\nThree studies reported on the number of platelet transfusions per participant. Two studies reported on the mean number of platelet transfusions per participant. There was a significant reduction in the number of platelet transfusions per participant in the standard trigger group (two studies, mean difference -2.09, 95% CI -3.20 to -0.99; low-quality evidence).\nOne study reported on the number of transfusion reactions. There was no evidence to demonstrate any difference in transfusion reactions between the standard and higher trigger groups (one study; 79 participants; RR 0.07, 95% CI 0.00 to 1.09).\nNone of the studies reported on quality of life."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In people with haematological disorders who are thrombocytopenic due to myelosuppressive chemotherapy or HSCT, we found low-quality evidence that a standard trigger level (10 x 109/L) is associated with no increase in the risk of bleeding when compared to a higher trigger level (20 x 109/L or 30 x 109/L). There was low-quality evidence that a standard trigger level is associated with a decreased number of transfusion episodes when compared to a higher trigger level (20 x 109/L or 30 x 109/L).\nFindings from this review were based on three studies and 499 participants. Without further evidence, it is reasonable to continue with the current practice of administering prophylactic platelet transfusions using the standard trigger level (10 x 109/L) in the absence of other risk factors for bleeding."
+    }
+  ],
+  "pls_title": "Platelet transfusions are used to prevent bleeding in people with low platelet counts due to treatment-induced bone marrow failure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We evaluated the evidence about whether platelet transfusions given to prevent bleeding in people with lower platelet counts (for example 5 x 109/L or below) were as effective and safe as the current standard (10 x 109/L or below), or whether higher platelet count levels (20 x 109/L or below, 30 x 109/L or below, or 50 x 109/L or below) were safer than the current standard (10 x 109/L or below). Our target population was people with blood cancers (for example leukaemia, lymphoma, myeloma) who were receiving intensive (myelosuppressive) chemotherapy treatments or stem cell transplantation."
+    },
+    {
+      "heading": "Background",
+      "text": "People with blood cancers may have low platelet counts due to their underlying cancer. Blood cancers may be treated with chemotherapy and stem cell transplantation, and these treatments can cause low platelet counts. Platelet transfusions may be given to prevent bleeding when the platelet count falls below a prespecified threshold platelet count (for example 10 x 109/L), or may be given to treat bleeding (such as a prolonged nosebleed or multiple bruises). Giving platelet transfusions at a lower prespecified threshold platelet count may increase the chance that bleeding will occur, which may be harmful, whereas giving platelet transfusions at a higher prespecified threshold platelet count may mean that people receive unnecessary platelet transfusions. Platelet transfusions can have adverse effects and have cost and resource implications for health services, so unnecessary transfusions should be avoided."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to July 2015. We found no new studies in this update of the review. This review identified three randomised controlled trials that compared giving platelet transfusions to prevent bleeding when the platelet count is 10 x 109/L (the current standard) or below versus giving platelet transfusions to prevent bleeding at higher platelet count levels (20 x 109/L or below or 30 x 109/L or below). None of the studies compared a lower trigger or alternative trigger to the current standard. These trials were conducted between 1991 and 2001 and included 499 participants. Two trials included adults with leukaemia who were receiving chemotherapy. One trial included children and adults receiving a stem cell transplant.\nTwo of the three studies reported sources of funding. Neither of the studies that reported funding sources were industry sponsored."
+    },
+    {
+      "heading": "Key results",
+      "text": "Giving platelet transfusions to people with low platelet counts due to blood cancers or their treatment to prevent bleeding when the platelet count was 10 x 109/L or below did not increase the risk of bleeding compared to giving a platelet transfusion at higher platelet counts (20 x 109/L or below or 30 x 109/L or below).\nGiving platelet transfusions to prevent bleeding only when the platelet count was 10 x 109/L or below resulted in a reduction in the number of platelets given. We found no evidence to demonstrate that giving a platelet transfusion when the platelet count was 10 x 109/L or below decreased the number of transfusion reactions compared to giving platelet transfusions at higher platelet counts (20 x 109/L or below or 30 x 109/L or below).\nNone of the three studies reported any quality of life outcomes.\nFindings from this review were based on three studies and 499 participants. Without further evidence, it is reasonable to continue using platelet transfusions to prevent bleeding based on the current standard transfusion threshold (10 x 109/L)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence for most of the findings was of low quality. This was because participants and their doctors knew which study arm the participant had been allocated to, and also the estimate of the treatment effect was imprecise."
+    }
+  ]
+}

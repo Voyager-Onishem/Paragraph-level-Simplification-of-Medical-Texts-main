@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010681.pub2",
+  "name": "Adjuvant chemotherapy for advanced endometrial cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Approximately 13% of women diagnosed with endometrial cancer present with advanced stage disease (International Federation of Gynecology and Obstetrics (FIGO) stage III/IV). The standard treatment of advanced endometrial cancer consists of cytoreductive surgery followed by radiation therapy, or chemotherapy, or both. There is currently little agreement about which adjuvant treatment is the safest and most effective."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness and safety of adjuvant chemotherapy compared with radiotherapy or chemoradiation, and to determine which chemotherapy agents are most effective in women presenting with advanced endometrial cancer (FIGO stage III/IV)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Gynaecological Cancer Collaborative Review Group's Trial Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 10 2013), MEDLINE and EMBASE up to November 2013. Also we searched electronic clinical trial registries for ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of adjuvant chemotherapy compared with radiotherapy or chemoradiation in women with FIGO stage III and IV endometrial cancer."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors selected trials, extracted data, and assessed trials for risk of bias. Where necessary, we contacted trial investigators for relevant, unpublished data. We pooled data using the random-effects model in Review Manager (RevMan) software."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four multicentre RCTs involving 1269 women with primary FIGO stage III/IV endometrial cancer. We considered the trials to be at low to moderate risk of bias. All participants received primary cytoreductive surgery. Two trials, evaluating 620 women (83% stage III, 17% stage IV), compared adjuvant chemotherapy with adjuvant radiotherapy; one trial evaluating 552 women (88% stage III, 12% stage IV) compared two chemotherapy regimens (cisplatin/doxorubicin/paclitaxel (CDP) versus cisplatin/doxorubicin (CD) treatment) in women who had all undergone adjuvant radiotherapy; and one trial contributed no data.\nOverall survival (OS) and progression-free survival (PFS) was longer with adjuvant chemotherapy compared with adjuvant radiotherapy (OS: hazard ratio (HR) 0.75, 95% confidence interval (CI) 0.57 to 0.99, I² = 22%; and PFS: HR 0.74, 95% CI 0.59 to 0.92, I² = 0%). Sensitivity analysis using adjusted and unadjusted OS data, gave similar results. In subgroup analyses, the effects on survival in favour of chemotherapy were not different for stage III and IV, or stage IIIA and IIIC (tests for subgroup differences were not significant and I² = 0%). This evidence was of moderate quality. Data from one trial showed that women receiving adjuvant chemotherapy were more likely to experience haematological and neurological adverse events and alopecia, and more likely to discontinue treatment (33/194 versus 6/202; RR 5.73, 95% CI 2.45 to 13.36), than those receiving adjuvant radiotherapy. There was no statistically significant difference in treatment-related deaths between the chemotherapy and radiotherapy treatment arms (8/309 versus 5/311; Risk Ratio (RR) 1.67, 95% CI 0.55 to 5.00).\nThere was no clear difference in PFS between intervention groups in the one trial that compared CDP versus CD (552 women; HR 0.90, 95% CI 0.69 to 1.17). We considered this evidence to be of moderate quality. Mature OS data from this trial were not yet available. Severe haematological and neurological adverse events occurred more frequently with CDP than CD.\nWe found no trials to include of adjuvant chemotherapy versus chemoradiation in advanced endometrial cancer; however we identified one ongoing trial of this comparison."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is moderate quality evidence that chemotherapy increases survival time after primary surgery by approximately 25% relative to radiotherapy in stage III and IV endometrial cancer. There is limited evidence that it is associated with more adverse effects. There is some uncertainty as to whether triplet regimens offer similar survival benefits over doublet regimens in the long-term. Further research is needed to determine which chemotherapy regimen(s) are the most effective and least toxic, and whether the addition of radiotherapy further improves outcomes. A large trial evaluating the benefits and risks of adjuvant chemoradiation versus chemotherapy in advanced endometrial cancer is ongoing."
+    }
+  ],
+  "pls_title": "Chemotherapy after surgery for stage III and IV endometrial cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "The issue",
+      "text": "Advanced endometrial cancer (FIGO stage III and IV) is cancer of the womb which has spread beyond the womb to the ovaries, vagina, other adjacent tissues, draining lymph nodes, or other organs. Women are usually treated by surgery to remove as much of the tumour as possible. They are then offered adjuvant (meaning 'added') radiotherapy (high energy x-rays and other rays that destroy cancer cells), or chemotherapy (anti-cancer drugs), or both. There is uncertainty as to which treatment (radio- or chemotherapy or both) after surgery has the greatest effect on survival, and which anti-cancer drugs work best."
+    },
+    {
+      "heading": "The aim of the review",
+      "text": "We aimed to determine whether chemotherapy after surgery is effective compared to radiotherapy, in women with advanced cancer of the womb."
+    },
+    {
+      "heading": "How was the review conducted?",
+      "text": "We searched the literature from 1966 to November 2013 for relevant randomised controlled trials (RCTs). We included four RCTs which were at low to moderate risk of bias and involved 1269 women. We wrote to the investigators of three trials for unpublished data. Three of the four trials compared similar interventions (chemotherapy versus radiotherapy after surgery). We pooled survival data (including the unpublished data) from two trials and await unpublished data for the third trial. The fourth trial compared two types of chemotherapy treatments after all women had received surgery and radiotherapy."
+    },
+    {
+      "heading": "What are the main findings?",
+      "text": "Women who received chemotherapy after surgery (starting within eight weeks of surgery) survived approximately 25% longer than those receiving radiotherapy after surgery. Assuming that 60% of women with stage III endometrial cancer usually survive at least five years after surgery and radiotherapy, this would increase to 75% if they receive surgery and chemotherapy instead, depending on other risk factors, such as age. The risk of death which might have been caused by treatment was low with both chemotherapy and radiotherapy but we could not be sure if one was more harmful than the other. Chemotherapy may be associated with more side-effects (low blood counts, nerve damage and hair loss) compared with radiotherapy.\nIn the trial that compared two different chemotherapy treatments, there was no clear evidence that using three anti-cancer drugs was better than using two. However, the final overall survival results of this trial have not yet been reported. Severe side-effects were much more common in women treated with three anti-cancer drugs than two drugs."
+    },
+    {
+      "heading": "What are the conclusions?",
+      "text": "Chemotherapy appears to be more effective than radiotherapy after surgery for women with stage III and IV endometrial cancer but may cause more side-effects. More research is needed to determine whether the addition of radiotherapy to chemotherapy improves outcomes and which anti-cancer drugs are best."
+    }
+  ]
+}

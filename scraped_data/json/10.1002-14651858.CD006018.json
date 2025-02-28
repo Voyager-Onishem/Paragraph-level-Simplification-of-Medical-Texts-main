@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006018",
+  "name": "Adjuvant chemotherapy for invasive bladder cancer (individual patient data)",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Controversy exists as to whether adjuvant chemotherapy improves survival in patients with invasive bladder cancer, despite a number of randomised controlled trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effect of adjuvant chemotherapy in invasive bladder cancer. We conducted a systematic review and meta-analysis of updated individual patient data from all available randomised controlled trials comparing local treatment plus adjuvant chemotherapy versus the same local treatment alone."
+    },
+    {
+      "heading": "Search methods",
+      "text": "MEDLINE and CancerLit searches were supplemented with information from registers and hand searching meeting proceedings and also by discussion with relevant trialists and organisations. They have been regularly updated until September 2004."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Trials that aimed to randomise patients with biopsy proven invasive (i.e. clinical stage T2 to T4a) transitional cell carcinoma of the bladder to receive local definitive treatment with or without adjuvant chemotherapy were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We collected, validated and re-analysed updated data on all randomised patients from all available randomised trials, including 491 patients from 6 RCTs. For all outcomes, we obtained overall pooled hazard ratios using the fixed effects model. To explore the potential impact of trial design, we pre-planned analyses that grouped trials by important aspects of their design that might influence the treatment effect. To investigate any differences in effect by pre-defined patient sub-groups, we used a stratified logrank analysis on the primary endpoint of survival."
+    },
+    {
+      "heading": "Main results",
+      "text": "Analyses were based on 491 patients from six trials, representing 90% of all patients randomised in cisplatin-based combination chemotherapy trials and 66% of patients from all eligible trials. The power of this meta-analysis is clearly limited. The overall hazard ratio for survival of 0.75 (95% CI 0.60 to 0.96, P = 0.019) suggests a 25% relative reduction in the risk of death for chemotherapy compared to that on control. Cox regression suggests that small imbalances in patient characteristics do not bias the results in favour of chemotherapy. However, the impact of trials that stopped early, of patients not receiving allocated treatments or not receiving salvage chemotherapy is less clear."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This IPD meta-analysis provides the best evidence currently available on the role of adjuvant chemotherapy for invasive bladder cancer. However, at present there is insufficient evidence on which to reliably base treatment decisions. These results highlight the urgent need for further research into the use of adjuvant chemotherapy. The results of appropriately sized randomised trials, such as the ongoing EORTC-30994 trial are needed before any definitive conclusions can be drawn."
+    }
+  ],
+  "pls_title": "Adding chemotherapy after surgery or radiotherapy in patients with invasive bladder cancer",
+  "pls_type": "long",
+  "pls": "Standard treatments for invasive bladder cancer are either surgery (to remove the bladder and surrounding tissues) or radiotherapy (to kill the cancer cells). This review suggested that 54 out of every 100 patients who had chemotherapy after surgery were alive after three years, compared to 45 out of every 100 patients who received only surgery. Although these results are encouraging, there are not enough trials or patients for these results to be completely reliable. More randomised trials are needed. This review should encourage greater participation in ongoing randomised trials."
+}

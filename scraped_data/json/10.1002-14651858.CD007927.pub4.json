@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007927.pub4",
+  "name": "Epidermal growth factor receptor blockers for the treatment of ovarian cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of a previously published version of the review (Issue 10, 2011).\nEpithelial ovarian cancer (EOC) is the seventh most common cause of cancer death among women worldwide. Treatment consists of a combination of surgical debulking and platinum-based chemotherapy. Between 55% and 75% of women who respond to first-line therapy experience relapse within two years. Second-line chemotherapy is palliative and aims to reduce symptoms and prolong survival. Improved understanding about the molecular basis of EOC has led to the development of novel agents, such as epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors and anti-EGFR antibodies."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effectiveness and harmful effects of interventions that target the epidermal growth factor receptor in the treatment of epithelial ovarian cancer (EOC)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Gynaecological Cancer Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL; 2010, Issue 4), MEDLINE, and Embase up to October 2010. We also searched registers of clinical trials, abstracts of scientific meetings, and reference lists of included studies, and we contacted experts in the field. This update includes further searches up to September 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing anti-EGFR agents with or without conventional chemotherapy versus conventional chemotherapy alone or no treatment in women with histologically proven EOC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently abstracted data, assessed risk of bias, and performed GRADE assessment."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 6105 references obtained through the literature search and an additional 15 references derived from grey literature searches, we identified seven RCTs that met our inclusion criteria and included 1725 participants. Trial results show that after first-line chemotherapy is provided, maintenance treatment with erlotinib (EGFR tyrosine kinase inhibitor (TKI)) probably makes little or no difference in overall survival (hazard ratio (HR) 0.99, 95% confidence interval (CI) 0.81 to 1.20; one study; 835 participants; low-certainty evidence) and may make little or no difference in progression-free survival (HR 1.05, 95% CI 0.90 to 1.23; one study; 835 participants; very low-certainty evidence). Less than 50% of participants provided quality of life data, and study authors reported these results incompletely. The certainty of evidence is very low, but treatment may reduce quality of life compared to observation.\nTreatment with an EGFR TKI (vandetanib) for women with relapsed EOC may make little or no difference in overall survival (HR 1.25, 95% CI 0.80 to 1.95; one study; 129 participants; low-certainty evidence) and may make little or no difference in progression-free survival (HR 0.99, 95% CI 0.69 to 1.42; one study; 129 participants; very low-certainty evidence). In treating patients with relapse, giving EGFR TKI may slightly increase some toxicities, such as severe rash (risk ratio (RR) 13.63, 95% CI 0.78 to 236.87; one study; 125 participants; very low-certainty evidence). Quality of life data were not available for meta-analysis.\nAnti-EGFR antibody treatment in relapsed EOC may or may not make a difference to overall survival (HR 0.93, 95% CI 0.74 to 1.18; four studies; 658 participants; moderate-certainty evidence) and may or may not have any effect on progression-free survival (HR 0.90, 95% CI 0.70 to 1.16; four studies; 658 participants; low-certainty evidence). Anti-EGFR antibody treatment may or may not increase side effects, including severe nausea and/or vomiting (RR 1.27, 95% CI 0.56 to 2.89; three studies; 503 participants; low-certainty evidence), severe fatigue (RR 1.06, 95% CI 0.66 to 1.73; I² = 0%; four studies; 652 participants; low-certainty evidence), and hypokalaemia (RR 2.01, 95% CI 0.80 to 5.06; I² = 0%; three studies; 522 participants; low-certainty evidence). Severe diarrhoea rates were heterogeneous across studies (RR 2.87, 95% CI 0.59 to 13.89; four studies; 652 participants; low-certainty evidence), and subgroup analysis revealed that severe diarrhoea was more likely with pertuzumab (RR 6.37, 95% CI 1.89 to 21.45; I² = 0%; three studies; 432 participants; low-certainty evidence) than with seribantumab treatment (RR 0.38, 95% CI 0.07 to 2.23; I² = 0%; one study; 220 participants; very low-certainty evidence). Quality of life data were incompletely reported, and we were unable to combine them in a meta-analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Current evidence suggests that an anti-EGFR single-agent biological treatment (EGFR TKI or anti-EGFR antibody) makes little or no difference to survival, either as maintenance treatment after first-line chemotherapy or in association with chemotherapy in recurrent cancer. Anti-EGFR therapy may increase some side effects and may or may not reduce quality of life."
+    }
+  ],
+  "pls_title": "Do epidermal growth factor receptor (EGFR) inhibitors, alone or with chemotherapy, improve outcomes for women with epithelial ovarian cancer (EOC)?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this review was to find out if medicines that inhibit epidermal growth factor receptors improve the outcomes of women with EOC and to identify the harms of treatment. We sought to collect and analyse results of all relevant studies to answer this question and found seven studies."
+    },
+    {
+      "heading": "What are the key messages of the review?",
+      "text": "Limited evidence suggests that there is little or no benefit from taking anti-EGFR agents either alongside chemotherapy at relapse, or as maintenance treatment after first-line chemotherapy for EOC, and that some side effects may be increased."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "Approximately a quarter of gynaecological cancers are of ovarian origin, although they account for half of all deaths related to gynaecological cancers. The annual incidence worldwide is about 6.6 cases per 100,000 women, with an annual mortality rate of four deaths per 100,000 women, as three-quarters of these cases are diagnosed at an advanced stage. Treatment usually consists of a combination of surgery to remove as much of the visible cancer as possible (debulking surgery) and platinum-based chemotherapy. Most cases of EOC (70% to 80%) respond to chemotherapy. Unfortunately, most women with advanced disease experience relapse and ultimately die because of resistance to chemotherapy.\nEGFR is involved in controlling cell growth. High EGFR activity is linked to development of EOC and to poor outcomes. Preventing EGFR activity is an attractive target for novel therapeutic agents. Anti-EGFR agents have been developed and have been tried in combination with chemotherapy or as maintenance treatment after chemotherapy."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "This review found evidence from seven studies on the effects of an anti-EGFR antibody or an EGFR tyrosine kinase inhibitor (TKI) (erlotinib and vandetanib) in women treated for EOC. This was given either as maintenance treatment, following completion of first-line chemotherapy, or for EOC that had grown after initial treatment (recurrent or refractory disease) .\nWe found low-certainty evidence to suggest that following first-line chemotherapy, maintenance treatment with erlotinib probably makes little or no difference in overall survival, and very low-certainty evidence that it makes little or no difference in progression-free survival (time before cancer starts to grow again). Treatment may reduce quality of life compared to no treatment (observation), but minimal data were available, and we have very low-certainty about these findings. Data on adverse events were not available for inclusion in the meta-analysis.\nWe found low-certainty evidence to suggest that treatment with vandetanib for women with relapsed EOC probably makes little or no difference in overall survival, and very low-certainty evidence that it makes little or no difference in progression-free survival. Vandetanib treatment probably increases the risk of a severe rash, but data on other side effects were of very low-certainty due to small numbers and very wide confidence intervals.\nWe found moderate-certainty evidence to show that treatment with an anti-EGFR antibody probably makes little or no difference in overall survival, and low-certainty evidence suggesting that it may make little or no difference in progression-free survival in cases of relapsed disease. Treatment with the anti-EGFR antibody pertuzumab probably increases the risk of diarrhoea (low-certainty), but evidence for its effect on other side effects is of very low-certainty due to low numbers of events."
+    }
+  ]
+}

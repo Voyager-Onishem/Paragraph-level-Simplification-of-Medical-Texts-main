@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD008666.pub3",
+  "name": "Vitamin A supplementation during pregnancy for maternal and newborn outcomes",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The World Health Organization recommends routine vitamin A supplementation during pregnancy or lactation in areas with endemic vitamin A deficiency (where night blindness occurs), based on the expectation that supplementation will improve maternal and newborn outcomes including mortality, morbidity and prevention of anaemia or infection."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effects of supplementation of vitamin A, or one of its derivatives, during pregnancy, alone or in combination with other vitamins and micronutrients, on maternal and newborn clinical outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 March 2015) and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised or quasi-randomised trials, including cluster-randomised trials, evaluating the effect of vitamin A supplementation in pregnant women."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy."
+    },
+    {
+      "heading": "Main results",
+      "text": "We reviewed 106 reports of 35 trials, published between 1931 and 2015. We included 19 trials including over 310,000 women, excluded 15 trials and one is ongoing. Overall, seven trials were judged to be of low risk of bias, three were high risk of bias and for nine it was unclear.\n1) Vitamin A alone versus placebo or no treatment\nOverall, when trial results are pooled, vitamin A supplementation does not affect the risk of maternal mortality (risk ratio (RR) 0.88, 95% confidence interval (CI) 0.65 to 1.20; four trials Ghana, Nepal, Bangladesh, UK, high quality evidence ), perinatal mortality (RR 1.01, 95% CI 0.95 to 1.07; one study, high quality evidence ), neonatal mortality, stillbirth, neonatal anaemia, preterm birth (RR 0.98, 95% CI 0.94 to 1.01, five studies, high quality evidence), or the risk of having a low birthweight baby.\nVitamin A supplementation reduces the risk of maternal night blindness (RR 0.79, 95% CI 0.64 to 0.98; two trials). There is evidence that vitamin A supplements may reduce maternal clinical infection (RR 0.45, 95% CI 0.20 to 0.99, five trials; South Africa, Nepal, Indonesia, Tanzania, UK, low quality evidence ) and maternal anaemia (RR 0.64, 95% CI 0.43 to 0.94; three studies, moderate quality evidence).\n2) Vitamin A alone versus micronutrient supplements without vitamin A\nVitamin A alone compared to micronutrient supplements without vitamin A does not decrease maternal clinical infection (RR 0.99, 95% CI 0.83 to 1.18, two trials, 591 women). No other primary or secondary outcomes were reported\n3) Vitamin A with other micronutrients versus micronutrient supplements without vitamin A\nVitamin A supplementation (with other micronutrients) does not decrease perinatal mortality (RR 0.51, 95% CI 0.10 to 2.69; one study, low quality evidence ), maternal anaemia (RR 0.86, 95% CI 0.68 to 1.09; three studies, low quality evidence ), maternal clinical infection (RR 0.95, 95% CI 0.80 to 1.13; I² = 45%, two studies, low quality evidence ) or preterm birth (RR 0.39, 95% CI 0.08 to 1.93; one study, low quality evidence).\nIn HIV-positive women vitamin A supplementation given with other micronutrients was associated with fewer low birthweight babies (< 2.5 kg) in the supplemented group in one study (RR 0.67, 95% CI 0.47 to 0.96; one study, 594 women)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The pooled results of three large trials in Nepal, Ghana and Bangladesh (with over 153,500 women) do not currently suggest a role for antenatal vitamin A supplementation to reduce maternal or perinatal mortality. However, the populations studied were probably different with regard to baseline vitamin A status and there were problems with follow-up of women. There is good evidence that antenatal vitamin A supplementation reduces maternal night blindness, maternal anaemia for women who live in areas where vitamin A deficiency is common or who are HIV-positive. In addition the available evidence suggests a reduction in maternal infection, but these data are not of a high quality."
+    }
+  ],
+  "pls_title": "Vitamin A supplementation during pregnancy for maternal and newborn health outcomes",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Vitamin A is a fat-soluble vitamin found in liver, kidney, eggs, and dairy produce. Low dietary fat intake or intestinal infections may interfere with the absorption of vitamin A. Natural retinoids are required for a wide range of biological processes including vision, immune function, bone metabolism and blood production. In pregnancy, extra vitamin A may be required. Currently, the World Health Organization (WHO) and other international agencies recommend routine vitamin A supplementation during pregnancy or at any time during lactation in areas with endemic vitamin A deficiency (where night blindness occurs)."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "It has been suggested that a low intake of vitamin A may be associated with complications in pregnancy such as death of the mother or baby, increased infections for the mother or baby, low iron level for the mother or baby or having a baby with any of the following complications: early delivery, low birthweight or a congential abnormality."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "This review included 19 studies involving over 310,000 women. Seven trials were conducted in Africa, six in Indonesia, two in Bangladesh, and one each in Nepal, China, India, UK and USA. Most of the trials were conducted in populations considered to be vitamin A deficient (except USA and UK). The overall risk of bias was low to unclear in most of the trials, and the body of evidence was moderate to high quality. The findings indicate that routine supplementation with vitamin A (either alone or in combination with other supplements) during pregnancy did not reduce mother or newborn baby deaths. There is good evidence that antenatal vitamin A supplementation does reduce maternal anaemia in women who live in areas where vitamin A deficiency is common or who are HIV-positive. The trials published so far did not report any side effects or adverse events. The available evidence suggests a reduction in maternal infection but these data are not of a high quality and further trials would be needed to confirm or refute this."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Taking vitamin A supplements during pregnancy does not help to prevent maternal deaths (related to pregnancy) or perinatal or newborn baby deaths. Taking vitamin A supplements during pregnancy does not help to prevent other problems that can occur such as stillbirth, preterm birth, low birthweight of babies or newborn babies with anaemia. However, the risk of maternal anaemia, maternal infection and maternal night blindness is reduced."
+    }
+  ]
+}

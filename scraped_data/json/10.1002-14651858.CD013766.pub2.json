@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013766.pub2",
+  "name": "Psychological interventions for improving adherence to inhaled therapies in people with cystic fibrosis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Adherence to treatment, including inhaled therapies, is low in people with cystic fibrosis (CF). Although psychological interventions for improving adherence to inhaled therapies in people with CF have been developed, no previous published systematic review has evaluated the evidence for efficacy of these interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The primary objective of the review was to assess the efficacy of psychological interventions for improving adherence to inhaled therapies in people with cystic fibrosis (CF). The secondary objective was to establish the most effective components, or behaviour change techniques (BCTs), used in these interventions."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Cystic Fibrosis Trials Register, which is compiled from electronic database searches and handsearching of journals and conference abstract books.\nWe also searched databases (PubMed; PsycINFO; EBSCO; Scopus; OpenGrey), trials registries (World Health Organization International Clinical Trials Registry Platform; US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov), and the reference lists of relevant articles and reviews, with no restrictions on language, year or publication status.\nDate of search: 7 August 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing different types of psychological interventions for improving adherence to inhaled therapies in people with CF of any age, or comparing psychological interventions with usual care. We included quasi-RCTs if we could reasonably assume that the baseline characteristics were similar in both groups."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial eligibility and completed data extraction, risk of bias assessments, and BCT coding (using the BCT Taxonomy v1) for all included trials. We resolved any discrepancies by discussion, or by consultation with a third review author as necessary. We assessed the certainty of the evidence using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 trials (1642 participants) in the review (children and adolescents in four trials; adults in five trials; and children and adults in one trial). Nine trials compared a psychological intervention with usual care; we could combine data from some of these in a number of quantitative analyses. One trial compared a psychological intervention with an active comparator (education plus problem-solving (EPS)). We identified five ongoing trials.\nPsychological interventions were generally multi-component and complex, containing an average of 9.6 BCTs (range 1 to 28). The two most commonly used BCTs included 'problem-solving' and 'instruction on how to perform the behaviour'. Interventions varied in their type, content and mode of delivery. They included a problem-solving intervention; a paper-based self-management workbook; a telehealth intervention; a group training programme; a digital intervention comprising medication reminders and lung function self-monitoring; a life-coaching intervention; a motivational interviewing (MI) intervention; a brief MI intervention (behaviour change counselling); and a digital intervention combined with behaviour change sessions. Intervention duration ranged from 10 weeks to 12 months. Assessment time points ranged from six to eight weeks up to 23 months.\nPsychological interventions compared with usual care\nWe report data here for the 'over six months and up to 12 months' time point. We found that psychological interventions probably improve adherence to inhaled therapies (primary outcome) in people with CF compared with usual care (mean difference (MD) 9.5, 95% confidence interval (CI) 8.60 to 10.40; 1 study, 588 participants; moderate-certainty evidence). There was no evidence of a difference between groups in our second primary outcome, treatment-related adverse events: anxiety (MD 0.30, 95% CI -0.40 to 1.00; 1 study, 535 participants), or depression (MD -0.10, 95% CI -0.80 to 0.60; 1 study, 534 participants), although this was low-certainty evidence. For our secondary outcomes, there was no evidence of a difference between groups in terms of lung function (forced expiratory volume in one second (FEV1) % predicted MD 1.40, 95% CI -0.20 to 3.00; 1 study, 556 participants; moderate-certainty evidence); number of pulmonary exacerbations (adjusted rate ratio 0.96, 95% CI 0.83 to 1.11; 1 study, 607 participants; moderate-certainty evidence); or respiratory symptoms (MD 0.70, 95% CI -2.40 to 3.80; 1 study, 534 participants; low-certainty evidence). However, psychological interventions may improve treatment burden (MD 3.90, 95% CI 1.20 to 6.60; 1 study, 539 participants; low-certainty evidence). The overall certainty of the evidence ranged from low to moderate across these outcomes. Reasons for downgrading included indirectness (current evidence included adults only whereas our review question was broader and focused on people of any age) and lack of blinding of outcome assessors.\nPsychological interventions compared with an active comparator\nFor this comparison the overall certainty of evidence was very low, based on one trial (n = 128) comparing an MI intervention to EPS for 12 months. We are uncertain whether an MI intervention, compared with EPS, improves adherence to inhaled therapies, lung function, or quality of life in people with CF, or whether there is an effect on pulmonary exacerbations. The included trial for this comparison did not report on treatment-related adverse events (anxiety and depression). We downgraded all reported outcomes due to small participant numbers, indirectness (trials included only adults), and unclear risk of bias (e.g. selection and attrition bias)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Due to the limited quantity of trials included in this review, as well as the clinical and methodological heterogeneity, it was not possible to identify an overall intervention effect using meta-analysis. Some moderate-certainty evidence suggests that psychological interventions (compared with usual care) probably improve adherence to inhaled therapies in people with CF, without increasing treatment-related adverse events, anxiety and depression (low-certainty evidence). In future review updates (with ongoing trial results included), we hope to be able to establish the most effective BCTs (or 'active ingredients') of interventions for improving adherence to inhaled therapies in people with CF.\nWherever possible, investigators should make use of the most objective measures of adherence available (e.g. data-logging nebulisers) to accurately determine intervention effects. Outcome reporting needs to be improved to enable combining or separation of measures as appropriate. Likewise, trial reporting needs to include details of intervention content (e.g. BCTs used); duration; intensity; and fidelity. Large trials with a longer follow-up period (e.g. 12 months) are needed in children with CF. Additionally, more research is needed to determine how to support adherence in 'under-served' CF populations."
+    }
+  ],
+  "pls_title": "Psychological interventions to help people with cystic fibrosis take their inhaled treatments",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Psychological interventions are designed to help people modify their thoughts, feelings and behaviours.\nWe think that psychological interventions are probably better than usual care at helping people with CF to take their inhaled treatments, and may cause little or no harm (e.g. anxiety or depression) when measured six to 12 months after treatment.\nWe are uncertain whether motivational interviewing (MI) was better or worse than education plus problem-solving (EPS) at helping people with CF to take their inhaled treatments."
+    },
+    {
+      "heading": "Background",
+      "text": "CF is a chronic, genetic condition, usually diagnosed at birth through newborn screening. People with CF experience recurrent chest infections due to the build-up of thick, sticky mucus (or sputum) in their lungs and digestive systems. Inhaled treatments are usually prescribed to either thin sputum (making it easier to clear or cough up), or to treat and control bacteria in the lungs (to reduce infections).\nPeople living with any long-term health condition often struggle to take the number of treatments they are prescribed, and this is no different in CF."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "Can psychological interventions help people with CF to take their inhaled treatments, and are there any harmful or unwanted effects of these interventions (e.g. anxiety or depression)?\nWhich techniques (e.g. goal-setting, problem-solving) work best at helping people with CF to take their inhaled treatments?"
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies comparing different types of psychological interventions, or comparing the interventions with usual care, for helping people with CF of any age to take their inhaled treatments.\nWe compared and summarised the results of the trials and rated our confidence in the evidence, based on factors such as the trial methods."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 10 trials with 1642 people with CF (approximately 54.3% female). Four trials included children and adolescents; five trials included adults; and one trial included both. Nine trials compared a psychological intervention with usual care, and one study compared two psychological interventions (MI versus EPS). People (or in one trial, CF centres) were randomly selected for one group or the other. People were followed up for between six to eight weeks and 23 months.\nPsychological interventions were wide-ranging. They included an intervention that combined digital technology (website or app) with support from trained healthcare professionals. Interventions used a range of techniques, with problem-solving and providing instructions on how to take treatments being the most commonly used."
+    },
+    {
+      "heading": "Main results",
+      "text": "Psychological interventions are probably better than usual care at helping people with CF to take their inhaled treatments, and may cause little or no harm (e.g. anxiety or depression) when measured six to 12 months after treatment. Psychological interventions may also improve perceived treatment burden (as measured using a quality of life (QoL) questionnaire). There was no evidence of a difference between groups in terms of lung function (a measure of how well someone's lungs are working), the number of chest infections, or perceived chest symptoms (again measured using a QoL questionnaire).\nWe are uncertain whether MI was better or worse than EPS at helping people with CF to take their inhaled treatments, improving lung function or QoL, or reducing chest infections in people with CF. The included trial did not look at whether MI or EPS caused harm (e.g. anxiety or depression)."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence for psychological interventions being better or worse than usual care ranges from low to moderate. The biggest included trial of psychological interventions (which had results from between six and 12 months after treatment started) focused on adults with CF (aged 16 years and over), whereas the question we wanted to answer was broader (i.e. we cannot be sure if the results would be the same in children). Large trials with a longer follow-up period (e.g. 12 months) are needed in children with CF. It is possible that because people completing the outcome assessments knew which group they were in, this might affect the results for QoL, anxiety and depression.\nWe are not confident in the evidence comparing MI with EPS. The only trial examining this included a small number of adults, so we cannot be sure if the results would be the same in children or in a larger group of people. We are unsure whether participants were put into the different treatment groups truly at random, so differences between the groups might be due to differences between people rather than the treatments. We are also unsure about people leaving the trial early and how this might affect the results. We also think that because the people completing the outcome assessments knew which group they were in, this might affect the QoL results.\nCurrent evidence on which techniques (e.g. goal-setting, problem-solving) work best at helping people with CF to take their inhaled treatments is limited. Future trials should provide more details on the techniques used in interventions."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to 7 August 2022."
+    }
+  ]
+}

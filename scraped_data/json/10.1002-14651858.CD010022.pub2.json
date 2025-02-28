@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010022.pub2",
+  "name": "Alcohol intake reduction for controlling hypertension",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "High blood pressure constitutes one of the leading causes of mortality and morbidity all over the world. At the same time, heavy drinking increases the risk for developing cardiovascular diseases, including cardiomyopathy, hypertension, atrial arrhythmias, or stroke. Several studies have already assessed specifically the relationship between alcohol intake and hypertension. However, the potential effect on blood pressure of alcohol intake reduction interventions is largely unknown."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of any intervention to reduce alcohol intake in terms of blood pressure decrease in hypertensive people with alcohol consumption compared to a control intervention or no intervention at all. To determine additional effects related to mortality, major cardiovascular events, serious adverse events, or quality of life."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to June 2020: the Cochrane Hypertension Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 5, 2020), MEDLINE Ovid (from 1946), MEDLINE Ovid Epub Ahead of Print, and MEDLINE Ovid In-Process, Embase Ovid (from 1974), ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. Trial authors were contacted when needed and no language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials with minimum 12 weeks duration and including 50 or more subjects per group with quantitative measurement of alcohol consumption and/or biological measurement of the outcomes of interest.\nParticipants were adults (16 years of age or older) with systolic blood pressure (SBP) greater than 140 mmHg and diastolic blood pressure (DBP) greater than 90 mmHg, and SBP ≥ 130 or DBP ≥ 80 mmHg in participants with diabetes. We included any intervention implemented to reduce their alcohol intake."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed search results and extracted data using standard methodological procedures adopted by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "A total of 1210 studies were screened. We included one randomised controlled trial involving a total of 269 participants with a two-year follow-up. Individual patient data for all participants were provided and used in this review.\nNo differences were found between the cognitive-behavioural intervention group and the control group for overall mortality (RR 0.72, 95% CI 0.16 to 3.17; low-certainty evidence), cardiovascular mortality (not estimable) and cardiovascular events (RR 0.80, 95% CI 0.36 to 1.79; very low-certainty evidence). There was no statistical difference in systolic blood pressure (SBP) reduction (Mean Difference (MD) -0.92 mmHg, 95% confidence interval (CI) -5.66 to 3.82 mmHg; very low-certainty evidence) or diastolic blood pressure (DBP) decrease (MD 0.98 mmHg, 95% CI -1.69 to 3.65 mmHg; low-certainty evidence) between the cognitive-behavioural intervention group and the control group. We also did not find any differences in the proportion of subjects with SBP < 140 mmHg and DBP < 90 mmHg (Risk Ratio (RR) 1.21, 95% CI 0.88 to 1.65; very low-certainty evidence).\nConcerning secondary outcomes, the alcohol intake was significantly reduced in the cognitive-behavioural intervention compared with the control group (MD 191.33 g, 95% CI 85.36 to 297.30 g). We found no differences between the active and control intervention in the proportion of subjects with lower-risk alcohol intake versus higher-risk and extreme drinkers at the end of the study (RR 1.04, 95% CI 0.68 to 1.60). There were no estimable results for the quality of life outcome."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "An intervention for decreasing alcohol intake consumption did not result in differences in systolic and diastolic blood pressure when compared with a control intervention, although there was a reduction in alcohol intake favouring the active intervention. No differences were found either for overall mortality, cardiovascular mortality or cardiovascular events. No data on serious adverse events or quality of life were available to assess. Adequate randomised controlled trials are needed to provide additional evidence on this specific question."
+    }
+  ],
+  "pls_title": "Alcohol intake reduction for controlling hypertension",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We evaluated whether an intervention to reduce alcohol intake has a greater impact than other kinds of interventions (or no intervention at all) in reducing blood pressure in people with high blood pressure and alcohol consumption."
+    },
+    {
+      "heading": "Background",
+      "text": "High blood pressure is associated with an increase in the risk of heart attack, stroke and mortality. Heavy drinking increases cardiovascular risk and has been associated with heart and vascular problems. Some studies have confirmed a relationship between alcohol intake and hypertension.\nSome studies have already assessed how alcohol intake can affect blood pressure. However, it is still unclear whether interventions to reduce alcohol intake can also modify blood pressure."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched for evidence up to June 2020."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included one trial with 269 participants who were followed up for 24 months. We assessed data to identify differences in blood pressure, number of deaths and serious diseases between a group of people receiving psychological assistance to reduce alcohol intake and people not receiving this assistance."
+    },
+    {
+      "heading": "Key results",
+      "text": "Based on this limited information, although those participants who received psychological assistance were able to reduce their alcohol intake more than those without such assistance, we found no differences in the number of deaths, total heart problems and total vascular problems between people receiving psychological assistance to decrease alcohol intake and those not receiving such help. We also found no differences in blood pressure reduction. Data on quality of life or serious adverse effects were not available."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "We found only one relevant study to answer our question. The certainty of evidence from this single included study was evaluated as being low to very low. More long-term trials need to be conducted to assess the effect of reduction in alcohol intake on blood pressure."
+    }
+  ]
+}

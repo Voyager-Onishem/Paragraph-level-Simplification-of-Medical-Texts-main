@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011357.pub2",
+  "name": "Antibiotics for asymptomatic bacteriuria in kidney transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asymptomatic bacteriuria, defined as bacteriuria without signs or symptoms of urinary tract infection (UTI), occurs in 17% to 51% of kidney transplant recipients and is thought to increase the risk for a subsequent UTI. No consensus exists on the role of antibiotics for asymptomatic bacteriuria in kidney transplantation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of treating asymptomatic bacteriuria in kidney transplant recipients with antimicrobial agents to prevent symptomatic UTI, all-cause mortality and the indirect effects of UTI (acute rejection, graft loss, worsening of graft function)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 1 September 2017 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) and quasi-RCTs in any language assessing treatment of asymptomatic bacteriuria in kidney transplant recipients at any time-point after transplantation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently determined study eligibility, assessed quality and extracted data. Primary outcomes were incidence of symptomatic UTI and incidence of antimicrobial resistance. Other outcomes included incidences of all-cause mortality, graft loss, graft rejection, graft function, hospitalisation for UTI, adverse reactions to antimicrobial agents and relapse or persistence of asymptomatic bacteriuria. We expressed dichotomous outcomes as absolute risk difference (RD) or risk ratio (RR) with 95% confidence intervals (CI) and continuous data as mean differences (MD) with 95% CI. Data were pooled using the random effects model."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included two studies (212 participants) comparing antibiotics versus no treatment, and identified three on-going studies. Overall, incidence of symptomatic UTI varied between 19% and 31% in the groups not treated for asymptomatic bacteriuria. Antibiotic treatment had uncertain effects on preventing symptomatic UTI (2 studies, 200 participants: RR 0.86, 95% CI 0.51 to 1.45). Risk for selecting multidrug-resistant organisms was uncertain with antibiotic treatment (1 study, 112 participants: RR 1.21, 95% CI 0.60 to 2.41). Persistence of asymptomatic bacteriuria was high regardless of treatment. Antibiotics also have uncertain effects on other important patient and graft outcomes, for instance on all-cause mortality (1 study, 112 participants: RR 2.23, 95% CI 0.21 to 23.86), graft loss (1 study, 112 participants: RR 1.11, 95% CI 0.07 to 17.36), acute rejection (1 study, 112 participants: RR 0.93, 95% CI 0.44 to 1.97), hospitalisation for UTI (1 study, 112 participants: RR 0.74, 95% CI 0.13 to 4.27), graft function (2 studies, 200 participants, MD in serum creatinine concentration -0.06 mg/dL, 95% CI -0.19 to 0.08) and adverse reactions (1 study, 112 participants: no severe adverse event attributable to the antibiotic treatment). Evidence quality was low for all outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently, there is insufficient evidence to support routinely treating kidney transplant recipients with antibiotics in case of asymptomatic bacteriuria after transplantation, but data are scarce. Further studies assessing routine antibiotic treatment would inform practice and we await the results of three ongoing randomised studies, which may help resolve existing uncertainties."
+    }
+  ],
+  "pls_title": "Antibiotics for bacterial infection in the urine in kidney transplant recipients when there are no symptoms",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Bacteria in the urine in kidney transplant recipients when there are no symptoms of urine infection is called asymptomatic bacteriuria. Up to one in two people with a kidney transplant will develop a bacterial infection of the urine (bacteriuria) at some point after transplantation. Bacteriuria with symptoms like fever, chills, painful urination, abdominal pain and blood in urine is a urinary tract infection (UTI). Bacteriuria often occurs without symptoms and it is frequently treated with antibiotics with the idea this might help avoid subsequent UTI. Avoiding UTI might improve patient and transplant survival. However, it is unclear how many people with asymptomatic bacteriuria go on to develop UTI symptoms; whether treatment with antibiotics truly avoids UTI; or whether treatment when asymptomatic improves survival of both patient and kidney. Also, there can be downsides to taking antibiotics. Taking regular antibiotics might mean that bacteria resistant to antibiotics are encouraged, and taking antibiotics might cause diarrhoea and other adverse events. There are also antibiotic costs to consider. This review looked at whether treating with antibiotics is beneficial of harmful."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the literature up to September 2017 and identified two studies (212 participants) that were evaluated in this review. These studies compared antibiotics versus no treatment."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "The bacterial infection of the urine often persisted, whether antibiotics were given or not. It was uncertain whether antibiotics prevented symptomatic urinary infection or increased the risk of selecting bacteria resistant to antibiotics, because there were too few data and several limitations in the included studies. Also, it was unclear whether the use of antibiotics in case of urinary infection without symptoms reduced the risks of graft rejection, need for hospitalisation due to symptoms of urinary infection, or mortality, or whether antibiotics improved the function of the kidney transplant. One study with 112 participants suggested there were no severe harmful reactions caused by the antibiotic treatment, and non-severe adverse events appeared to be rare."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "It is uncertain whether antibiotics are beneficial in kidney transplant recipients with bacteria in their urine but no symptoms. In one study, participants were assigned to antibiotics or no therapy by a method that was not random (i.e. according to patients' transplant code). In both studies, participants knew which treatment they were receiving (i.e. antibiotics or no therapy), which may have influenced the results. Last, we had not enough data to estimate with precision some effects of antibiotics. More research is needed."
+    }
+  ]
+}

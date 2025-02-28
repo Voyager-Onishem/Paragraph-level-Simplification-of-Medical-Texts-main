@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006918.pub3",
+  "name": "Risperidone versus placebo for schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Risperidone is the first new-generation antipsychotic drug made available in the market in its generic form."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the clinical effects, safety and cost-effectiveness of risperidone compared with placebo for treating schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 19th October 2015, we searched the Cochrane Schizophrenia Group Trials Register, which is based on regular searches of CINAHL, BIOSIS, AMED, EMBASE, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. We checked the references of all included studies and contacted industry and authors of included studies for relevant studies and data."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials (RCTs) comparing oral risperidone with placebo treatments for people with schizophrenia and/or schizophrenia-like psychoses."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened studies, assessed the risk of bias of included studies and extracted data. For dichotomous data, we calculated the risk ratio (RR), and the 95% confidence interval (CI) on an intention-to-treat basis. For continuous data, we calculated mean differences (MD) and the 95% CI. We created a 'Summary of findings table' using GRADE (Grading of Recommendations Assessment, Development and Evaluation)."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review includes 15 studies (N = 2428). Risk of selection bias is unclear in most of the studies, especially concerning allocation concealment. Other areas of risk such as missing data and selective reporting also caused some concern, although not affected on the direction of effect of our primary outcome, as demonstrated by sensitivity analysis. Many of the included trials have industry sponsorship of involvement. Nonetheless, generally people in the risperidone group are more likely to achieve a significant clinical improvement in mental state (6 RCTs, N = 864, RR 0.64, CI 0.52 to 0.78, very low-quality evidence ). The effect withstood, even when three studies with >50% attrition rate were removed from the analysis (3 RCTs, N = 589, RR 0.77, CI 0.67 to 0.88). Participants receiving placebo were less likely to have a clinically significant improvement on Clinical Global Impression scale (CGI) than those receiving risperidone (4 RCTs, N = 594, RR 0.69, CI 0.57 to 0.83, very low-quality evidence ). Overall, the risperidone group was 31% less likely to leave early compared to placebo group (12 RCTs, N = 2261, RR 0.69, 95% CI 0.62 to 0.78, low-quality evidence ), but Incidence of significant extrapyramidal side effect was more likely to occur in the risperidone group (7 RCTs, N = 1511, RR 1.56, 95% CI 1.13 to 2.15, very low-quality evidence).\nWhen risperidone and placebo were augmented with clozapine, there is no significant differences between groups for clinical response as defined by a less than 20% reduction in PANSS/BPRS scores (2 RCTs, N = 98, RR 1.15, 95% CI 0.93 to 1.42, low-quality evidence) and attrition (leaving the study early for any reason) (3 RCTs, N = 167, RR 1.13, 95% CI 0.53 to 2.42, low quality evidence) . One study measured clinically significant responses using the CGI, no effect was evident (1 RCT, N = 68, RR 1.12 95% CI 0.87 to 1.44, low quality evidence). No data were available for extrapyramidal adverse effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on low quality evidence, risperidone appears to be benefitial in improving mental state compared with placebo, but it also causes more adverse events. Eight out of the 15 included trials were funded by pharmaceutical companies. The currently available evidence isvery low to low quality."
+    }
+  ],
+  "pls_title": "Risperidone versus placebo for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is risperidone (tablet form) more effective than placebo in treating the symptoms of schizophrenia or schizophrenia-like illnesses?"
+    },
+    {
+      "heading": "Background",
+      "text": "People with schizophrenia often hear voices and see things (hallucinations) and have strange beliefs (delusions). These are called ‘positive symptoms’. Mental illness also causes tiredness, apathy, emotional numbness, and withdrawal. These are called ‘negative symptoms’. The main treatment for the symptoms of schizophrenia are antipsychotic drugs. Antipsychotic drugs can be classified into typical (older) and atypical (newer) drugs. Typical antipsychotics such as chlorpromazine and haloperidol have been the mainstay of treatment for decades, and have been effective in reducing the positive symptoms of schizophrenia. Negative symptoms, however, have been fairly resistant to treatment. In addition, drug treatments are associated with unpleasant side effects that cause people to stop taking medication, which may lead to relapse. It is thought that newer atypical antipsychotics, such as risperidone, are more effective than the older antipsychotics as they reduce the positive symptoms but cause fewer side effects."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Searches for high-quality randomised trials were carried out in 2008, 2013 and 2015. The review now includes 15 studies with 2428 participants. The studies randomised participants (in- and outpatients) with schizophrenia or schizophrenia-like illnesses into treatment groups that received oral risperidone or placebo."
+    },
+    {
+      "heading": "Key results",
+      "text": "Results from limited data suggest that risperidone is more effective than placebo for reducing the overall symptoms of schizophrenia, and participants receiving risperidone were more likely to comply with treatment. However, like the older typical antipsychotics, risperidone was also associated with serious side effects, such as parkinsonism."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence available was very low quality. Information and data were limited, poorly reported, and probably biased in favour of risperidone . Nearly half of the included trials were funded by drug companies. Firm conclusions are difficult to make based on the results of this review. Better conduct and reporting of trials could increase confidence in the results.\nBen Gray, Senior Peer Researcher, McPin Foundation. http://mcpin.org/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010632.pub2",
+  "name": null,
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "¹⁸F-FDFG uptake by brain tissue as measured by positron emission tomography (PET) is a well-established method for assessment of brain function in people with dementia. Certain findings on brain PET scans can potentially predict the decline of mild cognitive Impairment (MCI) to Alzheimer’s disease dementia or other dementias."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of the ¹⁸F-FDG PET index test for detecting people with MCI at baseline who would clinically convert to Alzheimer’s disease dementia or other forms of dementia at follow-up."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Register of Diagnostic Test Accuracy Studies, MEDLINE, EMBASE, Science Citation Index, PsycINFO, BIOSIS previews, LILACS, MEDION, (Meta-analyses van Diagnostisch Onderzoek), DARE (Database of Abstracts of Reviews of Effects), HTA (Health Technology Assessment Database), ARIF (Aggressive Research Intelligence Facility) and C-EBLM (International Federation of Clinical Chemistry and Laboratory Medicine Committee for Evidence-based Laboratory Medicine) databases to January 2013. We checked the reference lists of any relevant studies and systematic reviews for additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that evaluated the diagnostic accuracy of ¹⁸F-FDG PET to determine the conversion from MCI to Alzheimer’s disease dementia or to other forms of dementia, i.e. any or all of vascular dementia, dementia with Lewy bodies, and fronto-temporal dementia. These studies necessarily employ delayed verification of conversion to dementia and are sometimes labelled as ‘delayed verification cross-sectional studies’."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two blinded review authors independently extracted data, resolving disagreement by discussion, with the option to involve a third review author as arbiter if necessary. We extracted and summarised graphically the data for two-by-two tables. We conducted exploratory analyses by plotting estimates of sensitivity and specificity from each study on forest plots and in receiver operating characteristic (ROC) space. When studies had mixed thresholds, we derived estimates of sensitivity and likelihood ratios at fixed values (lower quartile, median and upper quartile) of specificity from the hierarchical summary ROC (HSROC) models."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 studies (421 participants) in the analysis. The sensitivities for conversion from MCI to Alzheimer's disease dementia were between 25% and 100% while the specificities were between 15% and 100%. From the summary ROC curve we fitted we estimated that the sensitivity was 76% (95% confidence interval (CI): 53.8 to 89.7) at the included study median specificity of 82%. This equates to a positive likelihood ratio of 4.03 (95% CI: 2.97 to 5.47), and a negative likelihood ratio of 0.34 (95% CI: 0.15 to 0.75). Three studies recruited participants from the same Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort but only the largest ADNI study (Herholz 2011) is included in the meta-analysis. In order to demonstrate whether the choice of ADNI study or discriminating brain region (Chételat 2003) or reader assessment (Pardo 2010) make a difference to the pooled estimate, we performed five additional analyses. At the median specificity of 82%, the estimated sensitivity was between 74% and 76%. There was no impact on our findings. In addition to evaluating Alzheimer's disease dementia, five studies evaluated the accuracy of ¹⁸F-FDG PET for all types of dementia. The sensitivities were between 46% and 95% while the specificities were between 29% and 100%; however, we did not conduct a meta-analysis because of too few studies, and those studies which we had found recruited small numbers of participants. Our findings are based on studies with poor reporting, and the majority of included studies had an unclear risk of bias, mainly for the reference standard and participant selection domains. According to the assessment of Index test domain, more than 50% of studies were of poor methodological quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "It is difficult to determine to what extent the findings from the meta-analysis can be applied to clinical practice. Given the considerable variability of specificity values and lack of defined thresholds for determination of test positivity in the included studies, the current evidence does not support the routine use of ¹⁸F-FDG PET scans in clinical practice in people with MCI. The ¹⁸F-FDG PET scan is a high-cost investigation, and it is therefore important to clearly demonstrate its accuracy and to standardise the process of ¹⁸F-FDG PET diagnostic modality prior to its being widely used. Future studies with more uniform approaches to thresholds, analysis and study conduct may provide a more homogeneous estimate than the one available from the included studies we have identified."
+    }
+  ],
+  "pls_title": "¹⁸F-FDG PET scan for early prediction of developing Alzheimer’s disease or other dementia in people with mild cognitive impairment (MCI)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "The numbers of people with dementia and other cognitive problems are increasing globally. A diagnosis of dementia at early stage is recommended but there is no agreement on the best approach. A range of tests have been developed which healthcare professionals can use to assess people with poor memory or cognitive impairment. In this review we have focused on the ¹⁸F-FDG PET test."
+    },
+    {
+      "heading": "Aim",
+      "text": "We aimed to see how accurately the ¹⁸F-FDG PET scan identified those people with MCI who would clinically convert to Alzheimer’s disease dementia or other types of dementia over a period of time."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to January 2013. We included 16 studies covering 697 participants with MCI. The studies have been published over a 14-year period (1999 to 2013). Study sizes were small and ranged from 19 to 94 participants. Five papers have a mean age of less than 70 years. The age range in the youngest sample was 55 to 73 years and in the oldest sample was 71 to 86 years. Participants were mainly recruited from university departments, clinics or research centres. The percentage of participants with positive ¹⁸F-FDG PET scans at baseline ranged in the included studies from 10.5% to 74% and the percentage of those participants who converted to Alzheimer’s disease dementia over a period of time ranged from 22% to 50%. Included studies reported a range of different cut-off values used for identifying their participants with positive ¹⁸F-FDG PET scans."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Our findings are based on studies with poor reporting. The majority of included studies had an unclear risk of bias, mainly because they did not describe in sufficient details how participants were selected and how the clinical diagnosis of Alzheimer’s disease dementia was justified. According to the assessment of the ¹⁸F-FDG PET test domain, more than 50% of studies were of poor methodological quality.\nThe main limitations of the review are poor reporting in the included studies, a lack of a widely-accepted cut-off value of the ¹⁸F-FDG PET scan in people with MCI, and the marked variation in test accuracy between the included studies."
+    },
+    {
+      "heading": "Key findings",
+      "text": "In this review, we have found that the ¹⁸F-FDG PET scan, as a single test, lacks the accuracy to identify those people with MCI who would develop Alzheimer’s disease dementia or other forms of dementia over a period of time. Assuming a typical conversion rate of MCI to Alzheimer’s disease dementia of 38%, the findings indicate that for every 1000 ¹⁸F-FDG PET scans, 174 cases with a negative scan will progress to Alzheimer's disease dementia and 285 with a positive scan will not. Therefore, a positive ¹⁸F-FDG PET scan in people with MCI is of no clinical value in early prediction of developing Alzheimer's disease dementia."
+    }
+  ]
+}

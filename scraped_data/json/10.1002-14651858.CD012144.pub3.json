@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012144.pub3",
+  "name": "Antithrombotic treatment after stroke due to intracerebral haemorrhage",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of the Cochrane Review last published in 2017. Survivors of stroke due to intracerebral haemorrhage (ICH) are at risk of major adverse cardiovascular events (MACE). Antithrombotic (antiplatelet or anticoagulant) treatments may lower the risk of ischaemic MACE after ICH, but they may increase the risk of bleeding."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the overall effectiveness and safety of antithrombotic drugs on MACE and its components for people with ICH."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (5 October 2021). We also searched the Cochrane Central Register of Controlled Trials (CENTRAL: the Cochrane Library 2021, Issue 10), MEDLINE Ovid (from 1948 to October 2021) and Embase Ovid (from 1980 to October 2021). The online registries of clinical trials searched were the US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov (clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (5 October 2021). We screened the reference lists of included randomised controlled trials (RCTs) for additional, potentially relevant RCTs."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected RCTs in which participants with ICH of any age were allocated to a class of antithrombotic treatment as intervention or comparator."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "In accordance with standard methodological procedures recommended by Cochrane, two review authors assessed each selected RCT for its risk of bias and extracted data independently. The primary outcome was a composite of MACE, and secondary outcomes included death, individual components of the MACE composite, ICH growth, functional status and cognitive status. We estimated effects using the frequency of outcomes that occurred during the entire duration of follow-up and calculated a risk ratio (RR) for each RCT. We grouped RCTs separately for analysis according to 1) the class(es) of antithrombotic treatment used for the intervention and comparator, and 2) the duration of antithrombotic treatment use (short term versus long term). We pooled the intention-to-treat populations of RCTs using a fixed-effect model for meta-analysis, but used a random-effects model if RCTs differed substantially in their design or there was considerable heterogeneity (I2 ≥ 75%) in their results. We applied GRADE to assess the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified seven new completed RCTs for this update, resulting in the inclusion of a total of nine RCTs based in secondary care, comprising 1491 participants (average age ranged from 61 to 79 years and the proportion of men ranged from 44% to 67%). The proportion of included RCTs at low risk of bias, by category was: random sequence generation (67%), allocation concealment (67%), performance (22%), detection (78%), attrition (89%), and reporting (78%).\nFor starting versus avoiding short-term prophylactic dose anticoagulation after ICH, no RCT reported MACE. The evidence is very uncertain about the effect of starting short-term prophylactic dose anticoagulation on death (RR 1.00, 95% CI 0.59 to 1.70, P = 1.00; 3 RCTs; very low-certainty evidence), venous thromboembolism (RR 0.84, 95% CI 0.51 to 1.37, P = 0.49; 4 RCTs; very low-certainty evidence), ICH (RR 0.24, 95% CI 0.04 to 1.38, P = 0.11; 2 RCTs; very low-certainty evidence), and independent functional status (RR 2.03, 95% CI 0.78 to 5.25, P = 0.15; 1 RCT; very low-certainty evidence) over 90 days.\nFor starting versus avoiding long-term therapeutic dose oral anticoagulation for atrial fibrillation after ICH, starting long-term therapeutic dose oral anticoagulation probably reduces MACE (RR 0.61, 95% CI 0.40 to 0.94, P = 0.02; 3 RCTs; moderate-certainty evidence) and probably reduces all major occlusive vascular events (RR 0.27, 95% CI 0.14 to 0.53, P = 0.0002; 3 RCTs; moderate-certainty evidence), but probably results in little to no difference in death (RR 1.05, 95% CI 0.62 to 1.78, P = 0.86; 3 RCTs; moderate-certainty evidence), probably increases intracranial haemorrhage (RR 2.43, 95% CI 0.88 to 6.73, P = 0.09; 3 RCTs; moderate-certainty evidence), and may result in little to no difference in independent functional status (RR 0.98, 95% CI 0.78 to 1.24, P = 0.87; 2 RCTs; low-certainty evidence) over one to three years.\nFor starting versus avoiding long-term antiplatelet therapy after ICH, the evidence is uncertain about the effects of starting long-term antiplatelet therapy on MACE (RR 0.89, 95% CI 0.64 to 1.22, P = 0.46; 1 RCT; moderate-certainty evidence), death (RR 1.08, 95% CI 0.76 to 1.53, P = 0.66; 1 RCT; moderate-certainty evidence), all major occlusive vascular events (RR 1.03, 95% CI 0.68 to 1.55, P = 0.90; 1 RCT; moderate-certainty evidence), ICH (RR 0.52, 95% CI 0.27 to 1.03, P = 0.06; 1 RCT; moderate-certainty evidence) and independent functional status (RR 0.95, 95% CI 0.77 to 1.18, P = 0.67; 1 RCT; moderate-certainty evidence) over a median follow-up of two years.\nFor adults within 180 days of non-cardioembolic ischaemic stroke or transient ischaemic attack and a clinical history of prior ICH, there was no evidence of an effect of long-term cilostazol compared to aspirin on MACE (RR 1.33, 95% CI 0.74 to 2.40, P = 0.34; subgroup of 1 RCT; low-certainty evidence), death (RR 1.65, 95% CI 0.55 to 4.91, P = 0.37; subgroup of 1 RCT; low-certainty evidence), or ICH (RR 1.29, 95% CI 0.35 to 4.69, P = 0.70; subgroup of 1 RCT; low-certainty evidence) over a median follow-up of 1.8 years; all major occlusive vascular events and functional status were not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We did not identify beneficial or hazardous effects of short-term prophylactic dose parenteral anticoagulation and long-term oral antiplatelet therapy after ICH on important outcomes. Although there was a significant reduction in MACE and all major occlusive vascular events after long-term treatment with therapeutic dose oral anticoagulation for atrial fibrillation after ICH, the pooled estimates were imprecise, the certainty of evidence was only moderate, and effects on other important outcomes were uncertain. Large RCTs with a low risk of bias are required to resolve the ongoing dilemmas about antithrombotic treatment after ICH."
+    }
+  ],
+  "pls_title": "Drugs to prevent clots after bleeding in the brain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the benefits and risks of drugs used to prevent clots (known as 'antithrombotic drugs') in the short term and long term after a stroke due to bleeding in the brain (known as 'brain haemorrhage')?"
+    },
+    {
+      "heading": "Background",
+      "text": "People with stroke due to brain haemorrhage are more likely to develop clots in their blood vessels than people without brain haemorrhage. Immobility early after the stroke can cause clots in the veins of the legs and pelvis. Patients' underlying medical conditions in both the short and long term after the stroke can also cause clots in the arteries of the lungs, brain, heart, legs or other organs. These clots can cause serious illness or death. Antithrombotic drugs can prevent clots. However, these drugs can also lead to bleeding problems, which can cause serious illness or death. Whether antithrombotic drugs benefit or harm patients after brain haemorrhage is unknown. This is an update of a Cochrane Review, which was last published in 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We updated our extensive searches for randomised controlled trials, which are the fairest tests of treatment, in October 2021. We found nine trials, which included 1491 people with a brain haemorrhage in the past. Four trials studied short-term use of injected blood thinning drugs (known as 'anticoagulants') in immobile brain haemorrhage survivors. Three trials studied long-term use of oral anticoagulants in brain haemorrhage survivors with an irregular heart beat (known as 'atrial fibrillation'). One trial studied long-term use of oral blood thinning drugs (known as 'antiplatelet drugs') after brain haemorrhage, and another trial compared two different types of antiplatelet drug."
+    },
+    {
+      "heading": "Key results",
+      "text": "We did not identify significant benefits or risks of short-term injected anticoagulants or long-term oral antiplatelet drugs. Although long-term oral anticoagulants reduced the risk of any major bleeding or clotting event in brain haemorrhage survivors with atrial fibrillation, the findings were not precise, and we were only moderately certain about the evidence. We did not identify significant differences in benefits or risks when comparing two long-term antiplatelet drugs (cilostazol versus aspirin) for people who had both a stroke or mini-stroke due to clotting and a brain haemorrhage in the past."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Although antithrombotic drugs appear to be promising after brain haemorrhage, we cannot be certain on the basis of the trials that have been done so far. Larger trials are needed to be sure about the effects of these drugs after brain haemorrhage. Eight ongoing trials will help resolve these uncertainties if they recruit large numbers of participants."
+    }
+  ]
+}

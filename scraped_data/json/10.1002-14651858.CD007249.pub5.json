@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD007249.pub5",
+  "name": "Theory‐based interventions for contraception",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The explicit use of theory in research helps expand the knowledge base. Theories and models have been used extensively in HIV-prevention research and in interventions for preventing sexually transmitted infections (STIs). The health behavior field uses many theories or models of change. However, many educational interventions addressing contraception have no explicit theoretical base."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review randomized controlled trials (RCTs) that tested a theoretical approach to inform contraceptive choice and encourage or improve contraceptive use."
+    },
+    {
+      "heading": "Search methods",
+      "text": "To 1 November 2016, we searched for trials that tested a theory-based intervention for improving contraceptive use in PubMed, CENTRAL, POPLINE, Web of Science, ClinicalTrials.gov, and ICTRP. For the initial review, we wrote to investigators to find other trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Included trials tested a theory-based intervention for improving contraceptive use. Interventions addressed the use of one or more methods for contraception. The reports provided evidence that the intervention was based on a specific theory or model. The primary outcomes were pregnancy and contraceptive choice or use."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed titles and abstracts identified during the searches. One author extracted and entered the data into Review Manager; a second author verified accuracy. We examined studies for methodological quality.\nFor unadjusted dichotomous outcomes, we calculated the Mantel-Haenszel odds ratio (OR) with 95% confidence interval (CI). Cluster randomized trials used various methods of accounting for the clustering, such as multilevel modeling. Most reports did not provide information to calculate the effective sample size. Therefore, we presented the results as reported by the investigators. We did not conduct meta-analysis due to varied interventions and outcome measures."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 new trials for a total of 25. Five were conducted outside the USA. Fifteen randomly assigned individuals and 10 randomized clusters. This section focuses on nine trials with high or moderate quality evidence and an intervention effect. Five based on social cognitive theory addressed preventing adolescent pregnancy and were one to two years long. The comparison was usual care or education. Adolescent mothers with a home-based curriculum had fewer second births in two years (OR 0.41, 95% CI 0.17 to 1.00). Twelve months after a school-based curriculum, the intervention group was more likely to report using an effective contraceptive method (adjusted OR 1.76 ± standard error (SE) 0.29) and using condoms during last intercourse (adjusted OR 1.68 ± SE 0.25). In alternative schools, after five months the intervention group reported more condom use during last intercourse (reported adjusted OR 2.12, 95% CI 1.24 to 3.56). After a school-based risk-reduction program, at three months the intervention group was less likely to report no condom use at last intercourse (adjusted OR 0.67, 95% CI 0.47 to 0.96). The risk avoidance group (abstinence-focused) was less likely to do so at 15 months (OR 0.61, 95% CI 0.45 to 0.85). At 24 months after a case management and peer-leadership program, the intervention group reported more consistent use of hormonal contraceptives (adjusted relative risk (RR) 1.30, 95% CI 1.06 to 1.58), condoms (RR 1.57, 95% CI 1.28 to 1.94), and dual methods (RR 1.36, 95% CI 1.01 to 1.85).\nFour of the nine trials used motivational interviewing (MI). In three studies, the comparison group received handouts. The MI group more often reported effective contraception use at nine months (OR 2.04, 95% CI 1.47 to 2.83). In two studies, the MI group was less likely to report using ineffective contraception at three months (OR 0.31, 95% CI 0.12 to 0.77) and four months (OR 0.56, 95% CI 0.31 to 0.98), respectively. In the fourth trial, the MI group was more likely than a group with non-standard counseling to initiate long-acting reversible contraception (LARC) by one month (OR 3.99, 95% CI 1.36 to 11.68) and to report using LARC at three months (OR 3.38, 95% CI 1.06 to 10.71)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The overall quality of evidence was moderate. Trials based on social cognitive theory focused on adolescents and provided multiple sessions. Those using motivational interviewing had a wider age range but specific populations. Sites with low resources need effective interventions adapted for their settings and their typical clients. Reports could be clearer about how the theory was used to design and implement the intervention."
+    }
+  ],
+  "pls_title": "Improving birth control use with programs based on theory",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Theories and models help explain how behavior change occurs. HIV-prevention research has used theories and models. Programs to prevent sexually transmitted infections (STIs) are often based on behavioral science. The health field has used many theories and models of change. However, programs that address birth control often have no stated theory base."
+    },
+    {
+      "heading": "Methods",
+      "text": "We did computer searches for randomized trials until 1 November 2016. Programs included must have tested a theory-based program for improving birth control use. We excluded trials focused on high-risk groups and efforts to prevent infections. Programs addressed the use of one or more birth control methods. The reports showed that the theory or model was part of the program design. The main outcomes were pregnancy and birth control use."
+    },
+    {
+      "heading": "Results",
+      "text": "We added 10 new trials for a total of 25. Five came from countries other than the USA. This section focuses on nine trials with good quality results and programs that worked. Five had programs based on social cognitive theory (SCT) and four used motivational interviewing (MI). The SCT studies addressed teen pregnancy and lasted one to two years. They included home-based sessions for adolescent mothers, school-based programs to prevent pregnancy and HIV, and community-based case management. Compared to usual services for adolescent mothers, a program group had fewer second births. The other four trials showed more use of effective birth control or use of condoms at last sex among adolescents in school or in the community, The MI studies focused on individuals from a wide age range. Compared to a group with handouts only in three studies, the MI group had more use of effective birth control or less use of ineffective birth control. In another study, the MI group had more women who started using long-acting birth control than those with usual counseling."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The overall quality of results for our review was moderate. Trials based on SCT focused on teens and provided many sessions. Those using MI had a wider age range but special populations. Sites with low resources need programs than can work in their settings and with their usual clients. Reports could be clearer about how the theory was used to design and conduct the program."
+    }
+  ]
+}

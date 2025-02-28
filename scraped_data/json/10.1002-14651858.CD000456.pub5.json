@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000456.pub5",
+  "name": "Synchronized mechanical ventilation for respiratory support in newborn infants",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "During synchronised mechanical ventilation, positive airway pressure and spontaneous inspiration coincide. If synchronous ventilation is provoked, adequate gas exchange should be achieved at lower peak airway pressures, potentially reducing baro/volutrauma, air leak and bronchopulmonary dysplasia. Synchronous ventilation can potentially be achieved by manipulation of rate and inspiratory time during conventional ventilation and employment of patient-triggered ventilation."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy of:\n(i) synchronised mechanical ventilation, delivered as high-frequency positive pressure ventilation (HFPPV) or patient-triggered ventilation (assist control ventilation (ACV) and synchronous intermittent mandatory ventilation (SIMV)), with conventional ventilation or high-frequency oscillation (HFO);\n(ii) different types of triggered ventilation (ACV, SIMV, pressure-regulated volume control ventilation (PRVCV), SIMV with pressure support (PS) and pressure support ventilation (PSV))."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 5), MEDLINE via PubMed (1966 to June 5 2016), EMBASE (1980 to June 5 2016), and CINAHL (1982 to June 5 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised or quasi-randomised clinical trials comparing synchronised ventilation delivered as HFPPV to CMV, or ACV/SIMV to CMV or HFO in neonates. Randomised trials comparing different triggered ventilation modes (ACV, SIMV, SIMV plus PS, PRVCV and PSV) in neonates."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were collected regarding clinical outcomes including mortality, air leaks (pneumothorax or pulmonary interstitial emphysema (PIE)), severe intraventricular haemorrhage (grades 3 and 4), bronchopulmonary dysplasia (BPD) (oxygen dependency beyond 28 days), moderate/severe BPD (oxygen/respiratory support dependency beyond 36 weeks' postmenstrual age (PMA) and duration of weaning/ventilation.\nEight comparisons were made: (i) HFPPV versus CMV; (ii) ACV/SIMV versus CMV; (iii) SIMV or SIMV + PS versus HFO; iv) ACV versus SIMV; (v) SIMV plus PS versus SIMV; vi) SIMV versus PRVCV; vii) SIMV vs PSV; viii) ACV versus PSV. Data analysis was conducted using relative risk for categorical outcomes, mean difference for outcomes measured on a continuous scale."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-two studies are included in this review. The meta-analysis demonstrates that HFPPV compared to CMV was associated with a reduction in the risk of air leak (typical relative risk (RR) for pneumothorax was 0.69, 95% confidence interval (CI) 0.51 to 0.93). ACV/SIMV compared to CMV was associated with a shorter duration of ventilation (mean difference (MD) −38.3 hours, 95% CI −53.90 to −22.69). SIMV or SIMV + PS was associated with a greater risk of moderate/severe BPD compared to HFO (RR 1.33, 95% CI 1.07 to 1.65) and a longer duration of mechanical ventilation compared to HFO (MD 1.89 days, 95% CI 1.04 to 2.74).\nACV compared to SIMV was associated with a trend to a shorter duration of weaning (MD −42.38 hours, 95% CI −94.35 to 9.60). Neither HFPPV nor triggered ventilation was associated with a significant reduction in the incidence of BPD. There was a non-significant trend towards a lower mortality rate using HFPPV versus CMV and a non-significant trend towards a higher mortality rate using triggered ventilation versus CMV. No disadvantage of HFPPV or triggered ventilation was noted regarding other outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared to conventional ventilation, benefit is demonstrated for both HFPPV and triggered ventilation with regard to a reduction in air leak and a shorter duration of ventilation, respectively. In none of the trials was complex respiratory monitoring undertaken and thus it is not possible to conclude that the mechanism of producing those benefits is by provocation of synchronised ventilation. Triggered ventilation in the form of SIMV ± PS resulted in a greater risk of BPD and duration of ventilation compared to HFO. Optimisation of trigger and ventilator design with respect to respiratory diagnosis is encouraged before embarking on further trials. It is essential that newer forms of triggered ventilation are tested in randomised trials that are adequately powered to assess long-term outcomes before they are incorporated into routine clinical practice."
+    }
+  ],
+  "pls_title": "Synchronised mechanical ventilation for respiratory support in newborn infants",
+  "pls_type": "long",
+  "pls": "The majority of newborn babies in need of mechanical assistance to support them also breathe to some degree. If the baby's attempts to breathe are synchronised with the mechanical breaths from the ventilator, less pressure may be needed. This could reduce the chance of air leak or variations in blood flow to the brain. The review of trials found, when compared to conventional mechanical ventilation (CMV), high-frequency positive pressure ventilation (HFPPV) reduced the risk of air leak and triggered ventilation was associated with a shorter duration of ventilation. Compared to high-frequency oscillation, however, certain triggered modes of ventilation resulted in a greater risk of moderate to severe chronic lung disease and a longer duration of ventilation. Newer forms of triggered ventilation have only been evaluated in small randomised trials and have not been demonstrated to have advantages in important clinical outcomes."
+}

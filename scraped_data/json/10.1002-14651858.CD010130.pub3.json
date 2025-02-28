@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD010130.pub3",
+  "name": "Biomarkers as point‐of‐care tests to guide prescription of antibiotics in people with acute respiratory infections in primary care ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute respiratory infections (ARIs) are by far the most common reason for prescribing an antibiotic in primary care, even though the majority of ARIs are of viral or non-severe bacterial aetiology. It follows that in many cases antibiotic use will not be beneficial to a patient's recovery but may expose them to potential side effects. Furthermore, limiting unnecessary antibiotic use is a key factor in controlling antibiotic resistance. One strategy to reduce antibiotic use in primary care is point-of-care biomarkers. A point-of-care biomarker (test) of inflammation identifies part of the acute phase response to tissue injury regardless of the aetiology (infection, trauma, or inflammation) and may be used as a surrogate marker of infection, potentially assisting the physician in the clinical decision whether to use an antibiotic to treat ARIs. Biomarkers may guide antibiotic prescription by ruling out a serious bacterial infection and help identify patients in whom no benefit from antibiotic treatment can be anticipated. This is an update of a Cochrane Review first published in 2014."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of point-of-care biomarker tests of inflammation to guide antibiotic treatment in people presenting with symptoms of acute respiratory infections in primary care settings regardless of patient age."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (2022, Issue 6), MEDLINE (1946 to 14 June 2022), Embase (1974 to 14 June 2022), CINAHL (1981 to 14 June 2022), Web of Science (1955 to 14 June 2022), and LILACS (1982 to 14 June 2022). We also searched three trial registries (10 December 2021) for completed and ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) in primary care patients with ARIs that compared the use of point-of-care biomarkers with standard care. We included trials that randomised individual participants, as well as trials that randomised clusters of patients (cluster-RCTs)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data on the following primary outcomes: number of participants given an antibiotic prescription at index consultation and within 28 days follow-up; participant recovery within seven days follow-up; and total mortality within 28 days follow-up. We assessed risk of bias using the Cochrane risk of bias tool and the certainty of the evidence using GRADE. We used random-effects meta-analyses when feasible. We further analysed results with considerable heterogeneity in prespecified subgroups of individual and cluster-RCTs."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included seven new trials in this update, for a total of 13 included trials. Twelve trials (10,218 participants in total, 2335 of which were children) evaluated a C-reactive protein point-of-care test, and one trial (317 adult participants) evaluated a procalcitonin point-of-care test. The studies were conducted in Europe, Russia, and Asia. Overall, the included trials had a low or unclear risk of bias. However all studies were open-labelled, thereby introducing high risk of bias due to lack of blinding.\nThe use of C-reactive protein point-of-care tests to guide antibiotic prescription likely reduces the number of participants given an antibiotic prescription, from 516 prescriptions of antibiotics per 1000 participants in the control group to 397 prescriptions of antibiotics per 1000 participants in the intervention group (risk ratio (RR) 0.77, 95% confidence interval (CI) 0.69 to 0.86; 12 trials, 10,218 participants; I² = 79%; moderate-certainty evidence).\nOverall, use of C-reactive protein tests also reduce the number of participants given an antibiotic prescription within 28 days follow-up (664 prescriptions of antibiotics per 1000 participants in the control group versus 538 prescriptions of antibiotics per 1000 participants in the intervention group) (RR 0.81, 95% CI 0.76 to 0.86; 7 trials, 5091 participants; I² = 29; high-certainty evidence).\nThe prescription of antibiotics as guided by C-reactive protein tests likely does not reduce the number of participants recovered, within seven or 28 days follow-up (567 participants recovered within seven days follow-up per 1000 participants in the control group versus 584 participants recovered within seven days follow-up per 1000 participants in the intervention group) (recovery within seven days follow-up: RR 1.03, 95% CI 0.96 to 1.12; I² = 0%; moderate-certainty evidence) (recovery within 28 days follow-up: RR 1.02, 95% CI 0.79 to 1.32; I² = 0%; moderate-certainty evidence). The use of C-reactive protein tests may not increase total mortality within 28 days follow-up, from 1 death per 1000 participants in the control group to 0 deaths per 1000 participants in the intervention group (RR 0.53, 95% CI 0.10 to 2.92; I² = 0%; low-certainty evidence).\nWe are uncertain as to whether procalcitonin affects any of the primary or secondary outcomes because there were few participants, thereby limiting the certainty of evidence.\nWe assessed the certainty of the evidence as moderate to high according to GRADE for the primary outcomes for C-reactive protein test, except for mortality, as there were very few deaths, thereby limiting the certainty of the evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The use of C-reactive protein point-of-care tests as an adjunct to standard care likely reduces the number of participants given an antibiotic prescription in primary care patients who present with symptoms of acute respiratory infection. The use of C-reactive protein point-of-care tests likely does not affect recovery rates. It is unlikely that further research will substantially change our conclusion regarding the reduction in number of participants given an antibiotic prescription, although the size of the estimated effect may change.\nThe use of C-reactive protein point-of-care tests may not increase mortality within 28 days follow-up, but there were very few events. Studies that recorded deaths and hospital admissions were performed in children from low- and middle-income countries and older adults with comorbidities.\nFuture studies should focus on children, immunocompromised individuals, and people aged 80 years and above with comorbidities. More studies evaluating procalcitonin and potential new biomarkers as point-of-care tests used in primary care to guide antibiotic prescription are needed.\nFurthermore, studies are needed to validate C-reactive protein decision algorithms, with a specific focus on potential age group differences."
+    }
+  ],
+  "pls_title": "Can tests for inflammation help doctors decide whether to use antibiotics for airway infections?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "1. When a patient presents with symptoms of an airway infection at the doctor's office, the doctor's use of C-reactive protein point-of-care tests during the visit probably reduces the number of patients given an antibiotic prescription, without affecting patient recovery.\n2. We do not know if procalcitonin point-of-care tests have an effect on antibiotic use or patient recovery.\n3. Future studies should focus on children, people with diseases of the immune system, and people aged 80 years and above with comorbidities (additional medical conditions). Studies evaluating procalcitonin and new biomarkers to guide antibiotic prescription are recommended."
+    },
+    {
+      "heading": "What are point-of-care tests?",
+      "text": "Point-of-care tests need only a few drops of blood and are taken during a consultation, providing results within 3 to 20 minutes. This means that blood samples do not need to be transported to a laboratory, and results can be used immediately to make treatment choices during a visit to the doctor. There are point-of-care tests that can detect different substances in the blood that your body produces in response to inflammation. These substances are called biomarkers."
+    },
+    {
+      "heading": "What is inflammation and biomarkers?",
+      "text": "Inflammation is a reaction in response to injury such as bacterial or viral infections. Your body naturally produces substances in response to inflammation that can be detected in the blood, which are known as biomarkers. Point-of-care tests that detect biomarkers are often used when patients have signs of an airway infection. Test results can inform doctors when not to suspect a serious bacterial infection that needs antibiotic treatment to prevent serious illness and possibly death. There are currently three types of biomarkers available as point-of-care tests: C-reactive protein, procalcitonin, and leucocytes."
+    },
+    {
+      "heading": "What are antibiotics?",
+      "text": "Antibiotics are medications used to treat bacterial infections, and they are commonly used for airway infections. However, most airway infections are caused by viruses, such as the common cold, against which antibiotics do not work, and can cause harm. Overuse can lead to antibiotic resistance, which means that antibiotics lose their effectiveness and may no longer be effective against serious infections."
+    },
+    {
+      "heading": "Why do we need to investigate whether tests help doctors to decide on antibiotics?",
+      "text": "No test can provide absolute certainty regarding when to use antibiotics, but correctly used biomarkers could help doctors make the right decision about when to prescribe antibiotics. We investigated if biomarkers as point-of-care tests help doctors reduce antibiotic prescriptions."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know whether biomarkers as a point-of-care test used by primary care doctors can help decide whether to use antibiotics in people with airway infections.\nWe were interested in the effect of biomarker guidance on the number of prescriptions of antibiotics, patient recovery, hospital admissions, and risk of death."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated whether biomarkers used as point-of-care tests in primary care can be safely used to guide a doctor's decision whether to prescribe antibiotics.\nWe compared and summarised results of the studies, and rated our confidence of the evidence."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 13 studies with a total of 10,535 participants who had symptoms of airway infections and who saw a doctor in a primary care setting for possible treatment.\nTwelve studies investigated tests for the biomarker C-reactive protein, and one study investigated a test for the biomarker procalcitonin.\nUse of tests for C-reactive protein probably reduces the number of patients given an antibiotic prescription, but differences in study design and where the studies took place meant that the precise effect is uncertain. Using these tests probably does not affect the number of patients that recover, and may not reduce the number of patients that feel satisfied with their treatment. C-reactive protein tests may not lead to an increase in deaths. This means the tests are probably safe when used to guide the prescription of antibiotics.\nWe do not know if procalcitonin tests have an effect on prescriptions of antibiotics, recovery, hospital admissions, or risk of death."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are moderately confident in the evidence for a reduction in antibiotics use with C-reactive protein tests. However, we are not confident in the evidence for a reduction in antibiotics use with procalcitonin, as we only found one study investigating the effect of procalcitonin in primary care.\nNew studies are unlikely to change our conclusion regarding the effect of the use of C-reactive protein on prescribing antibiotics, but more studies are needed to assess the potential for the procalcitonin point-of-care test."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to June 2022."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002041.pub3",
+  "name": "Hyperbaric oxygen for carbon monoxide poisoning",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Poisoning with carbon monoxide (CO) remains an important cause of accidental and intentional injury worldwide. Several unblinded non-randomized trials have suggested that the use of hyperbaric oxygen (HBO) prevents the development of neurological sequelae. This has led to the widespread use of HBO in the management of patients with carbon monoxide poisoning."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine randomised trials of the efficacy of hyperbaric oxygen (HBO) compared to normobaric oxygen (NBO) for the prevention of neurologic sequelae in patients with acute carbon monoxide poisoning."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases; Cochrane Injuries Group Specialised Register (searched June 2010), Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 2), MEDLINE (Ovid SP) 1950 to June 2010, EMBASE (Ovid SP) 1980 to June 2010, ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED) 1970 to June 2010, ISI Web of Science: Conference Proceedings Citation Index-Science (CPCI-S) 1990 to June 2010."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials of HBO compared to NBO, involving non-pregnant adults who are acutely poisoned with carbon monoxide (regardless of severity)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted from each trial information on: the number of randomised patients, types of participants, the dose and duration of the intervention, and the prevalence of neurologic symptoms at follow-up."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seven randomised controlled trials of varying quality were identified; one was excluded because it did not evaluate clinical outcomes. Of the six remaining trials involving 1361 participants, two found a beneficial effect of HBO for the reduction of neurologic sequelae at one month, while four others did not. One of these is an incomplete publication (an abstract of an interim analysis). Although pooled random effects meta-analysis does not suggest a significant benefit from HBOT (OR for neurological deficits 0.78, 95%CI 0.54 to 1.12), significant methodologic and statistical heterogeneity was apparent among the trials, and this result should be interpreted cautiously. Moreover, design or analysis flaws were evident in all trials. Importantly, the conclusions of one positive trial may have been influenced by failure to adjust for multiple hypothesis testing, while interpretation of the other positive trial is hampered by a high risk of bias introduced during the analysis including an apparent change in the primary outcome. Both were also stopped early 'for benefit', which is likely to have inflated the observed effect. In contrast three negative trials had low power to detect a benefit of HBO due to exclusion of severely poisoned patients in two and very poor follow-up in the other. One trial that was said to be finished around eight years ago has not reported the final analysis in any forum."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Existing randomised trials do not establish whether the administration of HBO to patients with carbon monoxide poisoning reduces the incidence of adverse neurologic outcomes. Additional research is needed to better define the role, if any, of HBO in the treatment of patients with carbon monoxide poisoning. This research question is ideally suited to a multi-center randomised controlled trial."
+    }
+  ],
+  "pls_title": "There is insufficient evidence to support the use of hyperbaric oxygen for treatment of patients with carbon monoxide poisoning",
+  "pls_type": "long",
+  "pls": "Many people are poisoned by carbon monoxide gas each year, either intentionally (e.g. in suicide attempts) or by accident. Carbon monoxide interferes with oxygen transport in the body, and can also directly damage a variety of organs including the brain. The usual treatment involves removing the affected person from the source of the gas, general supportive care, and administering oxygen which hastens the elimination of carbon monoxide from the body. High pressure oxygen (hyperbaric oxygen) is only available at a few hospitals, and it is sometimes used to speed this process even further. However, the review of published trials found conflicting, potentially biased, and generally weak evidence regarding the usefulness of hyperbaric oxygen for the prevention of neurological injury."
+}

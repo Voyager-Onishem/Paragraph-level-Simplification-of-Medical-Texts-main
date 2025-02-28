@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.MR000009.pub4",
+  "name": "Outcomes of patients who participate in randomized controlled trials compared to similar patients receiving similar interventions who do not participate ",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Some people believe that patients who take part in randomised controlled trials (RCTs) face risks that they would not face if they opted for non-trial treatment. Others think that trial participation is beneficial and the best way to ensure access to the most up-to-date physicians and treatments. This is an updated version of the original Cochrane review published in Issue 1, 2005."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of patient participation in RCTs ('trial effects') independent both of the effects of the clinical treatments being compared ('treatment effects') and any differences between patients who participated in RCTs and those who did not. We aimed to compare similar patients receiving similar treatment inside and outside of RCTs."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In March 2007, we searched The Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, The Cochrane Methodology Register, SciSearch and PsycINFO for potentially relevant studies. Our search yielded 7586 new references. In addition, we reviewed the reference lists of relevant articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized studies and cohort studies with data on clinical outcomes of RCT participants and similar patients who received similar treatment outside of RCTs."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently assessed studies for inclusion, assessed study quality and extracted data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 30 new non-randomized cohort studies (45 comparisons): no new RCTs were found. This update now includes five RCTs (yielding 6 comparisons) and 80 non-randomized cohort studies (130 comparisons), with 86,640 patients treated in RCTs and 57,205 patients treated outside RCTs. In the randomised studies, patients were invited to participate in an RCT or not; these comparisons provided limited information because of small sample sizes (a total of 412 patients) and the nature of the questions they addressed. When the results of RCTs and non-randomized cohorts that reported dichotomous outcomes were combined, there were 98 comparisons; there was also heterogeneity (P < 0.00001, I2 = 42.2%) between studies. No statistical significant differences were found for 85 of the 98 comparisons. Eight comparisons reported statistically significant better outcomes for patients treated within RCTs, and five comparisons reported statistically significant worse outcomes for patients treated within RCTs. There was significant heterogeneity (P < 0.00001, I2 = 58.2%) among the 38 continuous outcome comparisons. No statistically significant differences were found for 30 of the 38 comparisons. Three comparisons reported statistically significant better outcomes for patients treated within RCTs, and five comparisons reported statistically significant worse outcomes for patients treated within RCTs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review indicates that participation in RCTs is associated with similar outcomes to receiving the same treatment outside RCTs. These results challenge the assertion that the results of RCTs are not applicable to usual practice."
+    }
+  ],
+  "pls_title": "Outcomes of patients who participate in randomized controlled trials compared to similar patients receiving similar interventions who do not participate",
+  "pls_type": "long",
+  "pls": "This updated review assessed whether there were harmful or beneficial effects from participating in randomized controlled trials (RCTs). The outcomes of patients who participated in RCTs were compared with outcomes of patients who were eligible for the trial and received similar clinical interventions, but did not participate. Comparisons were included both of 'experimental' treatment inside and outside of RCT and of 'control' treatment comparisons. On average, the outcomes of patients participating and not participating in RCTs were similar, suggesting that participation in RCTs, independent of the effects of the clinical interventions being compared, is likely to be comparable."
+}

@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD007419.pub7",
+  "name": "Anti‐vascular endothelial growth factor for diabetic macular oedema: a network meta‐analysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Diabetic macular oedema (DMO) is a common complication of diabetic retinopathy. Antiangiogenic therapy with anti-vascular endothelial growth factor (anti-VEGF) can reduce oedema, improve vision, and prevent further visual loss. These drugs have replaced laser photocoagulation as the standard of care for people with DMO. In the previous update of this review, we found moderate-quality evidence that, at 12 months, aflibercept was slightly more effective than ranibizumab and bevacizumab for improving vision in people with DMO, although the difference may have been clinically insignificant (less than 0.1 logarithm of the minimum angle of resolution (logMAR), or five Early Treatment Diabetic Retinopathy Study (ETDRS) letters, or one ETDRS line)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objective of this updated review was to compare the effectiveness and safety of the different anti-VEGF drugs in RCTs at longer follow-up (24 months)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched various electronic databases on 8 July 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that compared any anti-angiogenic drug with an anti-VEGF mechanism of action versus another anti-VEGF drug, another treatment, sham, or no treatment in people with DMO."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methods for pairwise meta-analysis and we augmented this evidence using network meta-analysis (NMA) methods. We used the Stata 'network' meta-analysis package for all analyses. We used the CINeMA (Confidence in Network Meta-Analysis) web application to grade the certainty of the evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 studies (13 with industry funding) that enrolled 3513 people with DMO (median central retinal thickness (CRT) 460 microns, interquartile range (IQR) 424 to 482) and moderate vision loss (median best-corrected visual acuity (BCVA) 0.48 logMAR, IQR 0.42 to 0.55). One study that investigated ranibizumab versus sham and one study that mainly enrolled people with subclinical DMO and normal BCVA were not suitable for inclusion in the efficacy NMA.\nConsistent with the previous update of this review, we used ranibizumab as the reference drug for efficacy, and control (including laser, observation, and sham) as the reference for systemic safety.\nEight trials provided data on the primary outcome (change in BCVA at 24 months, in logMAR: lower is better). We found no evidence of a difference between the following interventions and ranibizumab alone: aflibercept (mean difference (MD) −0.05 logMAR, 95% confidence interval (CI) −0.12 to 0.02; moderate certainty); bevacizumab (MD -0.01 logMAR, 95% CI −0.13 to 0.10; low certainty), brolucizumab (MD 0.00 logMAR, 95% CI −0.08 to 0.07; low certainty), ranibizumab plus deferred laser (MD 0.00 logMAR, 95% CI −0.11 to 0.10; low certainty), and ranibizumab plus prompt laser (MD 0.03 logMAR, 95% CI −0.04 to 0.09; very low certainty).\nWe also analysed BCVA change at 12 months, finding moderate-certainty evidence of increased efficacy with brolucizumab (MD −0.07 logMAR, 95%CI −0.10 to −0.03 logMAR), faricimab (MD −0.08 logMAR, 95% CI −0.12 to −0.05), and aflibercept (MD −0.07 logMAR, 95 % CI −0.10 to −0.04) compared to ranibizumab alone, but the difference could be clinically insignificant.\nCompared to ranibizumab alone, NMA of six trials showed no evidence of a difference with aflibercept (moderate certainty), bevacizumab (low certainty), or ranibizumab with prompt (very low certainty) or deferred laser (low certainty) regarding improvement by three or more ETDRS lines at 24 months.\nThere was moderate-certainty evidence of greater CRT reduction at 24 months with brolucizumab (MD −23 microns, 95% CI −65 to −1 9) and aflibercept (MD −26 microns, 95% CI −53 to 0.9) compared to ranibizumab. There was moderate-certainty evidence of lesser CRT reduction with bevacizumab (MD 28 microns, 95% CI 0 to 56), ranibizumab plus deferred laser (MD 63 microns, 95% CI 18 to 109), and ranibizumab plus prompt laser (MD 72 microns, 95% CI 25 to 119) compared with ranibizumab alone.\nRegarding all-cause mortality at the longest available follow-up (20 trials), we found no evidence of increased risk of death for any drug compared to control, although effects were in the direction of an increase, and clinically relevant increases could not be ruled out. The certainty of this evidence was low for bevacizumab (risk ratio (RR) 2.10, 95% CI 0.75 to 5.88), brolucizumab (RR 2.92, 95% CI 0.68 to 12.58), faricimab (RR 1.91, 95% CI 0.45 to 8.00), ranibizumab (RR 1.26, 95% CI 0.68 to 2.34), and very low for conbercept (RR 0.33, 95% CI 0.01 to 8.81) and aflibercept (RR 1.48, 95% CI 0.79 to 2.77). Estimates for Antiplatelet Trialists Collaboration arterial thromboembolic events at 24 months did not suggest an increase with any drug compared to control, but the NMA was overall incoherent and the evidence was of low or very low certainty.\nOcular adverse events were rare and poorly reported and could not be assessed in NMAs."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is limited evidence of the comparative efficacy and safety of anti-VEGF drugs beyond one year of follow-up. We found no clinically important differences in visual outcomes at 24 months in people with DMO, although there were differences in CRT change. We found no evidence that any drug increases all-cause mortality compared to control, but estimates were very imprecise. Evidence from RCTs may not apply to real-world practice, where people in need of antiangiogenic treatment are often under-treated, and the individuals exposed to these drugs may be less healthy than trial participants."
+    }
+  ],
+  "pls_title": "Anti-vascular endothelial growth factor (anti-VEGF) medicines for diabetic macular oedema",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review was to find out which is the best type of anti-vascular endothelial growth factor (anti-VEGF) medicine for diabetic macular oedema (DMO) two years after treatment initiation."
+    },
+    {
+      "heading": "Key messages",
+      "text": "There may be no clinically important differences in visual outcomes among anti-VEGF medicines at two years in people with DMO, although we did find differences in the effect of medicines on retinal thickness. There is no evidence that any medicine increases the risk of death or major cardiovascular events compared to control."
+    },
+    {
+      "heading": "What is diabetic macular oedema?",
+      "text": "The light-sensitive tissue at the back of the eye is known as the retina. The central area of the retina is called the macula. People with diabetes can develop problems in the retina, known as retinopathy. Some people with diabetic retinopathy can also develop oedema (swelling or thickening) at the macula. DMO is a common complication of diabetic retinopathy and can lead to visual loss."
+    },
+    {
+      "heading": "How is diabetic macular oedema treated?",
+      "text": "One type of treatment for DMO is anti-VEGF. This type of medicine is given by means of an injection into the eye. It can reduce the swelling at the back of the eye and prevent visual loss. These medicines might have unwanted effects, particularly related to the blood vessels in the rest of the body."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "The previous version of this review found minor differences in effects between anti-VEGF medicines at one year, which were unlikely to be clinically significant. In this update, we investigated if any differences in efficacy and safety exist after two years."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We included all studies comparing anti-VEGF medicines with each other or with control and summarised data at two years."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 23 relevant studies. Thirteen were industry-sponsored studies from the USA, Europe, or Asia. Ten studies received no industry funding and were from the USA, Europe, the Middle East, and South America.\nThere were results at two years for the medicines ranibizumab, bevacizumab, aflibercept, and brolucizumab. One study investigated conbercept, but this medicine is approved only in China. Results were available only at one year for the newest medicine faricimab. These anti-VEGF medicines were compared with no treatment, sham treatment, laser treatment, or each other. People participating in the studies received the medicines every month for the first three to six months, then less frequently. Decisions about long-term treatment were based on visual acuity or by looking at the back of the eye.\nWe found that all anti-VEGF medicines prevent visual loss and can improve vision in people with DMO, with no important differences in vision at two years between aflibercept, bevacizumab, brolucizumab, and ranibizumab, although aflibercept and brolucizumab yield a better control of retinal swelling than other medicines.\nThere was no evidence that these medicines increase the risk of death or cardiovascular events, but the quality of this evidence was poor."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Few studies provided data comparing anti-VEGF medicines at two years, and estimates were often imprecise."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "We searched for studies that had been published up to 6 October 2021."
+    }
+  ]
+}

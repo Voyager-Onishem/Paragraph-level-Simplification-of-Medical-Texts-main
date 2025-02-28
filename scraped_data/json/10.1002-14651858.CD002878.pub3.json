@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD002878.pub3",
+  "name": "Chronic non‐invasive ventilation for chronic obstructive pulmonary disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic non-invasive ventilation (NIV) is increasingly being used to treat people with COPD who have respiratory failure, but the evidence supporting this treatment has been conflicting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of chronic non-invasive ventilation at home via a facial mask in people with COPD, using a pooled analysis of IPD and meta-analysis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways Register of Trials, MEDLINE, Embase, PsycINFO, CINAHL, AMED, proceedings of respiratory conferences, clinical trial registries and bibliographies of relevant studies. We conducted the latest search on 21 December 2020."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) comparing chronic NIV for at least five hours per night for three consecutive weeks or more (in addition to standard care) versus standard care alone, in people with COPD. Studies investigating people initiated on NIV in a stable phase and studies investigating NIV commenced after a severe COPD exacerbation were eligible, but we reported and analysed them separately. The primary outcomes were arterial blood gases, health-related quality of life (HRQL), exercise capacity (stable COPD) and admission-free survival (post-exacerbation COPD). Secondary outcomes for both populations were: lung function, COPD exacerbations and admissions, and all-cause mortality. For stable COPD, we also reported respiratory muscle strength, dyspnoea and sleep efficiency."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. After inclusion of a study, we requested the IPD. We analysed continuous and time-to-event data using linear- and cox-regression mixed-effect models with a random effect on study level. We analysed dichotomous IPD using generalised estimating equations. We adjusted all models for age and sex. We assessed changes in outcomes after three and 12 months.  We also conducted a meta-analysis on aggregated trial data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 new RCTs in this review update, in addition to the seven previously included. Seventeen studies investigated chronic NIV in stable COPD and four studies investigated chronic NIV commenced after a severe COPD exacerbation. Three studies compared NIV to sham continuous positive airway pressure (2 to 4 cmH2O). Seven studies used a nasal mask, one study used an oronasal mask and eight studies used both interfaces. Five studies did not report the interface. The majority of trials (20/21) were at high risk of performance bias due to an unblinded design. We considered 11 studies to have a low risk of selection bias and 13 to have a low risk of attrition bias. We collected and analysed the IPD from 13 stable COPD studies (n = 778, 68% of the participants included) and from three post-exacerbation studies (n = 364, 96% of the participants included).\nIn the stable COPD group, NIV probably results in a minor benefit on the arterial partial pressure of oxygen (PaO2) after three months (adjusted mean difference (AMD) 0.27 kPa, 95% CI 0.04 to 0.49; 9 studies, 271 participants; moderate-certainty evidence), but there was little to no benefit at 12 months (AMD 0.09 kPa, 95% CI -0.23 to 0.42; 3 studies, 171 participants; low-certainty evidence). The arterial partial pressure of carbon dioxide (PaCO2) was reduced in participants allocated to NIV after three months (AMD -0.61 kPa, 95% CI -0.77 to -0.45; 11 studies, 475 participants; high-certainty evidence) and persisted up to 12 months (AMD -0.42 kPa, 95% CI -0.68 to -0.16; 4 studies, 232 participants; high-certainty evidence).\nExercise capacity was measured with the 6-minute walking distance (minimal clinical important difference: 26 m). There was no clinically relevant effect of NIV on exercise capacity (3 months:  AMD 15.5 m, 95% CI -0.8 to 31.7; 8 studies, 330 participants; low-certainty evidence; 12 months: AMD 26.4 m, 95% CI -7.6 to 60.5; 3 studies, 134 participants; very low-certainty evidence). HRQL was measured with the Severe Respiratory Insufficiency and the St. Georges's Respiratory Questionnaire and may be improved by NIV, but only after three months (3 months: standardised mean difference (SMD) 0.39, 95% CI 0.15 to 0.62; 5 studies, 259 participants; very low-certainty evidence; 12 months: SMD 0.15, 95% CI -0.13 to 0.43; 4 studies, 200 participants; very low-certainty evidence). Lastly, the risk for all-cause mortality is likely reduced by NIV (adjusted hazard ratio (AHR) 0.75, 95% CI 0.58 to 0.97; 3 studies, 405 participants; moderate-certainty evidence).\nIn the post-exacerbation COPD group, there was little to no benefit on the PaO2 after three months, but there may be a slight decrease after 12 months (3 months: AMD -0.10 kPa, 95% CI -0.65 to 0.45; 3 studies, 234 participants; low-certainty evidence; 12 months: -0.27 kPa, 95% CI -0.86 to 0.32, 3 studies; 170 participants; low-certainty evidence). The PaCO2 was reduced by NIV at both three months (AMD -0.40 kPa, 95% CI -0.70 to -0.09; 3 studies, 241 participants; moderate-certainty evidence) and 12 months (AMD -0.52 kPa, 95% CI -0.87 to -0.18; 3 studies, 175 participants; high-certainty evidence). NIV may have little to no benefit on HRQL (3 months: SMD 0.25, 95% CI -0.01 to 0.51; 2 studies, 219 participants; very low-certainty evidence; 12 months: SMD 0.25, 95% -0.06 to 0.55; 2 studies, 164 participants; very low-certainty evidence). Admission-free survival seems improved with NIV (AHR 0.71, 95% CI 0.54 to 0.94; 2 studies, 317 participants; low-certainty evidence), but the risk for all-cause mortality does not seem to improve (AHR 0.97, 95% CI 0.74 to 1.28; 2 studies, 317 participants; low-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Regardless of the timing of initiation, chronic NIV improves daytime hypercapnia. In addition, in stable COPD, survival seems to be improved and there might be a short term HRQL benefit. In people with persistent hypercapnia after a COPD exacerbation, chronic NIV might prolong admission-free survival without a beneficial effect on HRQL.\nIn stable COPD, future RCTs comparing NIV to a control group receiving standard care might no longer be warranted, but research should focus on identifying participant characteristics that would define treatment success. Furthermore, the optimal timing for initiation of NIV after a severe COPD exacerbation is still unknown."
+    }
+  ],
+  "pls_title": "Non-invasive ventilation (ventilators) used at night by people with chronic obstructive pulmonary disease (COPD)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Non-invasive ventilation (NIV) is a method to assist or replace spontaneous breathing (or normal breathing) with the aid of a machine called a ventilator, using a mask fitted over the nose or both the nose and mouth. NIV can be used chronically (long-term) at the person's home if they have levels of carbon dioxide in their blood that are persistently too high. We wanted to discover if using chronic NIV at home during the night alongside standard therapy was better or worse than standard therapy alone in people with chronic obstructive pulmonary disease (COPD) who have raised carbon dioxide levels. In 2002 and 2013, we published our original Cochrane Reviews investigating this. It is important to check if new studies have been done that could be added to the existing studies of the original review and would change the findings."
+    },
+    {
+      "heading": "What is individual participant data",
+      "text": "In this review we used individual participant data (IPD). This means that we attempted to collect original research data for each person who had participated in the original studies by requesting these individuals' data from the researcher who performed the study. We used IPD as this offers a greater chance to detect changes between groups of participants and enable the investigation of additional hypotheses. We used the IPD to perform our calculations."
+    },
+    {
+      "heading": "Review question",
+      "text": "What is the effect of chronic NIV in people with COPD on blood gases (oxygen and carbon dioxide), exercise capacity, quality of life, lung function, respiratory muscle function, COPD exacerbations and admissions, and survival?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 21 December 2020. This review update identified 14 new studies in addition to those already in the review, so in total we included 21 studies. Ten of the studies looked at people in a stable phase (stable COPD) and four studies looked at people shortly after a COPD hospital admission (post-exacerbation COPD). All studies included men and women. For our analyses, we used data from 778 people with stable COPD and 364 people with post-exacerbation COPD."
+    },
+    {
+      "heading": "Results",
+      "text": "In all people with COPD who had raised levels of carbon dioxide, chronic NIV for three and 12 months improved blood gases. In stable COPD, chronic NIV also might have improved quality of life, and survival seemed to be better compared to people who were treated with standard care only. There was no relevant benefit of NIV on exercise capacity. People using chronic NIV after a COPD admission experienced less benefit; carbon dioxide levels decreased, the time to the next hospital admission might have been longer when treated with NIV but quality of life and survival were not affected by chronic NIV."
+    },
+    {
+      "heading": "Certainty of the results",
+      "text": "Our confidence in the certainty (according to GRADE criteria) is good when looking at the blood gases. For the other outcomes, the certainty of the evidence is moderate to very low because the participants and the researcher were aware of the treatment the people received, and due to a wide range in the observed effect. This means that further research might change the results."
+    }
+  ]
+}

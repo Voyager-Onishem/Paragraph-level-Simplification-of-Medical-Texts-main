@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD005351.pub4",
+  "name": "Non‐invasive positive pressure ventilation (CPAP or bilevel NPPV) for cardiogenic pulmonary oedema ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-invasive positive pressure ventilation (NPPV) has been used to treat respiratory distress due to acute cardiogenic pulmonary oedema (ACPE). We performed a systematic review and meta-analysis update on NPPV for adults presenting with ACPE."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the safety and effectiveness of NPPV compared to standard medical care (SMC) for adults with ACPE. The primary outcome was hospital mortality. Important secondary outcomes were endotracheal intubation, treatment intolerance, hospital and intensive care unit length of stay, rates of acute myocardial infarction, and adverse event rates."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL (CRS Web, 20 September 2018), MEDLINE (Ovid, 1946 to 19 September 2018), Embase (Ovid, 1974 to 19 September 2018), CINAHL Plus (EBSCO, 1937 to 19 September 2018), LILACS, WHO ICTRP, and clinicaltrials.gov. We also reviewed reference lists of included studies. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included blinded or unblinded randomised controlled trials in adults with ACPE. Participants had to be randomised to NPPV (continuous positive airway pressure (CPAP) or bilevel NPPV) plus standard medical care (SMC) compared with SMC alone."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened and selected articles for inclusion. We extracted data with a standardised data collection form. We evaluated the risks of bias of each study using the Cochrane 'Risk of bias' tool. We assessed evidence quality for each outcome using the GRADE recommendations."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 24 studies (2664 participants) of adult participants (older than 18 years of age) with respiratory distress due to ACPE, not requiring immediate mechanical ventilation. People with ACPE presented either to an Emergency Department or were inpatients. ACPE treatment was provided in an intensive care or Emergency Department setting. There was a median follow-up of 13 days for hospital mortality, one day for endotracheal intubation, and three days for acute myocardial infarction. Compared with SMC, NPPV may reduce hospital mortality (risk ratio (RR) 0.65, 95% confidence interval (CI) 0.51 to 0.82; participants = 2484; studies = 21; I2 = 6%; low quality of evidence) with a number needed to treat for an additional beneficial outcome (NNTB) of 17 (NNTB 12 to 32). NPPV probably reduces endotracheal intubation rates (RR 0.49, 95% CI 0.38 to 0.62; participants = 2449; studies = 20; I2 = 0%; moderate quality of evidence) with a NNTB of 13 (NNTB 11 to 18). There is probably little or no difference in acute myocardial infarction (AMI) incidence with NPPV compared to SMC for ACPE (RR 1.03, 95% CI 0.91 to 1.16; participants = 1313; studies = 5; I2 = 0%; moderate quality of evidence). We are uncertain as to whether NPPV increases hospital length of stay (mean difference (MD) −0.31 days, 95% CI −1.23 to 0.61; participants = 1714; studies = 11; I2 = 55%; very low quality of evidence). Adverse events were generally similar between NPPV and SMC groups, but evidence was of low quality."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our review provides support for continued clinical application of NPPV for ACPE, to improve outcomes such as hospital mortality and intubation rates. NPPV is a safe intervention with similar adverse event rates to SMC alone. Additional research is needed to determine if specific subgroups of people with ACPE have greater benefit of NPPV compared to SMC. Future research should explore the benefit of NPPV for ACPE patients with hypercapnia."
+    }
+  ],
+  "pls_title": "A breathing intervention for shortness of breath due to heart failure",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Heart failure is one of the leading causes of hospital admission in the world. People with heart failure often experience shortness of breath and leg swelling. These symptoms may develop over hours to weeks, or rapidly over a few hours. Such rapid deterioration is called acute cardiogenic pulmonary oedema.\nProviding air under pressure through a face or nose mask can treat shortness of breath. This treatment is called non-invasive ventilation and its use in heart failure is controversial."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Randomised controlled studies compare treatments to find out if they are truly effective. We searched for randomised studies comparing non-invasive ventilation to routine care for adults with acute cardiogenic pulmonary oedema. We compared studies treating people with non-invasive ventilation versus medical care. Medical care includes therapies such as providing extra oxygen and water pills to patients. The evidence upon which this review is based is current to September 2018."
+    },
+    {
+      "heading": "Review question",
+      "text": "We sought to address if non-invasive ventilation in adults with acute cardiogenic pulmonary oedema reduces rates of deaths, the need for a breathing tube, and heart attacks."
+    },
+    {
+      "heading": "Key results and quality of evidence",
+      "text": "We found 24 studies with 2664 participants comparing non-invasive ventilation to medical care alone. Non-invasive ventilation may decrease the chances of dying in hospital. The quality of results for studies reporting death in hospital was low. Studies were poorly conducted, and results were not similar across studies. In addition, non-invasive ventilation probably reduces the chances of needing a breathing tube. The quality of results for studies reporting breathing tube rates was moderate. Studies evaluating breathing tube rates were poorly conducted. Non-invasive ventilation probably has little or no effect on getting a heart attack. The quality of results for studies reporting heart attack rates was moderate, and studies had inconsistent results for this outcome. We are unsure if the length of hospital stay is improved with non-invasive ventilation. The quality of results for studies reporting hospital length of stay was very low, which was due to poor study conduct and inconsistent results. Finally, non-invasive ventilation may make little or no difference to adverse events (complications), compared to medical care. The quality of results for studies reporting adverse events was low. Studies evaluating adverse events were poorly conducted and had inconsistent results."
+    }
+  ]
+}

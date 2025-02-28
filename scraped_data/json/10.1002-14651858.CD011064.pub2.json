@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD011064.pub2",
+  "name": "Calcium channel blockers for people with chronic kidney disease requiring dialysis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Calcium channel blockers (CCBs) are used to manage hypertension which is highly prevalent among people with chronic kidney disease (CKD). The treatment for hypertension is particularly challenging in people undergoing dialysis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of calcium channel blockers in patients with chronic kidney disease requiring dialysis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies to 27 April 2020 through contact with the Information Specialist using search terms relevant to this review. Studies in the Specialised Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) and quasi-RCTs that compared any type of CCB with other CCB, different doses of the same CCB, other antihypertensives, control or placebo were included. The minimum study duration was 12 weeks."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed study quality and extracted data. Statistical analyses were performed using a random-effects model and results expressed as risk ratio (RR), risk difference (RD) or mean difference (MD) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review included 13 studies (24 reports) randomising 1459 participants treated with long-term haemodialysis. Nine studies were included in the meta-analysis (622 participants). No studies were performed in children or in those undergoing peritoneal dialysis. Overall, risk of bias was assessed as unclear to high across most domains.\nRandom sequence generation and allocation concealment were at low risk of bias in eight and one studies, respectively. Two studies reported low risk methods for blinding of participants and investigators, and outcome assessment was blinded in 10 studies. Three studies were at low risk of attrition bias, eight studies were at low risk of selective reporting bias, and five studies were at low risk of other potential sources of bias. Overall, the certainty of the evidence was low to very low for all outcomes. No events were reported for cardiovascular death in any of the comparisons. Other side effects were rarely reported and studies were not designed to measure costs.\nFive studies (451 randomised adults) compared dihydropyridine CCBs to placebo or no treatment. Dihydropyridine CCBs may decrease predialysis systolic (1 study, 39 participants: MD -27.00 mmHg, 95% CI -43.33 to -10.67; low certainty evidence) and diastolic blood pressure level (2 studies, 76 participants; MD -13.56 mmHg, 95% CI -19.65 to -7.48; I2 = 0%, low certainty evidence) compared to placebo or no treatment. Dihydropyridine CCBs may make little or no difference to occurrence of intradialytic hypotension (2 studies, 287 participants; RR 0.54, 95% CI 0.25 to 1.15; I2 = 0%, low certainty evidence) compared to placebo or no treatment. Other side effects were not reported.\nEight studies (1037 randomised adults) compared dihydropyridine CCBs to other antihypertensives. Dihydropyridine CCBs may make little or no difference to predialysis systolic (4 studies, 180 participants: MD 2.44 mmHg, 95% CI -3.74 to 8.62; I2 = 0%, low certainty evidence) and diastolic blood pressure (4 studies, 180 participants: MD 1.49 mmHg, 95% CI -2.23 to 5.21; I2 = 0%, low certainty evidence) compared to other antihypertensives. There was no evidence of a difference in the occurrence of intradialytic hypotension (1 study, 92 participants: RR 2.88, 95% CI 0.12 to 68.79; very low certainty evidence) between dihydropyridine CCBs to other antihypertensives. Other side effects were not reported.\nDihydropyridine CCB may make little or no difference to predialysis systolic (1 study, 40 participants: MD -4 mmHg, 95% CI -11.99 to 3.99; low certainty evidence ) and diastolic blood pressure (1 study, 40 participants: MD -3.00 mmHg, 95% CI -7.06 to 1.06; low certainty evidence ) compared to non-dihydropyridine CCB. There was no evidence of a difference in other side effects (1 study, 40 participants: RR 0.13, 95% CI 0.01 to 2.36; very low certainty evidence) between dihydropyridine CCB and non-dihydropyridine CCB. Intradialytic hypotension was not reported."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The benefits of CCBs over other antihypertensives on predialysis blood pressure levels and intradialytic hypotension among people with CKD who required haemodialysis were uncertain. Effects of CCBs on other side effects and cardiovascular death also remain uncertain. Dihydropyridine CCBs may decrease predialysis systolic and diastolic blood pressure level compared to placebo or no treatment. No studies were identified in children or peritoneal dialysis. Available studies have not been designed to measure the effects on costs. The shortcomings of the studies were that they recruited very few participants, had few events, had very short follow-up periods, some outcomes were not reported, and the reporting of outcomes such as changes in blood pressure was not done uniformly across studies.\nWell-designed RCTs, conducted in both adults and children with CKD requiring both haemodialysis and peritoneal dialysis, evaluating both dihydropyridine and non-dihydropyridine CCBs against other antihypertensives are required. Future research should be focused on outcomes relevant to patients (including death and cardiovascular disease), blood pressure changes, risk of side effects and healthcare costs to assist decision-making in clinical practice."
+    }
+  ],
+  "pls_title": "Calcium channel blockers for people with chronic kidney disease requiring dialysis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "People with long-term kidney disease or chronic kidney disease (CKD) often develop high blood pressure (hypertension), and those with advanced CKD need dialysis when their kidneys are no longer unable to function. Treatment for hypertension is often challenging for people with advanced CKD undergoing dialysis. Several medications are used to treat high blood pressure including calcium channel blockers (CCBs).\nWe wanted to find out whether the use of CCBs in people with CKD undergoing haemodialysis or peritoneal dialysis had any added benefits over other medications used to treat hypertension or placebo (no active treatment) in lowering the blood pressure, risk of death and undesired effects."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched the literature up to April 2020 to identify all studies that assessed the use of CCBs in adults and children with hypertension and CKD undergoing haemodialysis or peritoneal dialysis. Each study was assessed for possible bias on several pre-determined domains. We pooled the results of studies that reported on the same outcomes for similar comparisons and reported the overall effects. We applied a system called \"GRADE\" to assess the quality of the evidence that we found."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We included 13 studies randomising 1459 adults undergoing haemodialysis. We did not find any studies in children and there were no studies in patients undergoing peritoneal dialysis. Patients were randomised to CCBs, other medications used to treat hypertension, or placebo or standard care. Some studies were short-term (over few months) and heart-related complications were not assessed. The benefit of CCBs over other medications was unclear, possibly due to the small number of participants and the overall number of events. When compared to placebo or no treatment CCBs may decrease blood pressure before haemodialysis, although the quality of the evidence was low."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The benefits of CCBs over other medications to treat hypertension could not be determined, while CCBs may lower blood pressure compared to placebo or usual care."
+    }
+  ]
+}

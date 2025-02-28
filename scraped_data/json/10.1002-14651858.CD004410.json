@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004410",
+  "name": "New generation antipsychotics for first episode schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The new generation antipsychotics are associated with a lower risk of adverse effects compared with drugs such as haloperidol. Many treatment guidelines recommend the use of new generation ('atypical') antipsychotic drugs for people with a first episode of schizophrenia."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effects of the new generation antipsychotics for people with a first episode of schizophrenia or schizophrenia-like psychoses."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The reviewers searched the Cochrane Schizophrenia Group's register (March 2002) and the included and excluded studies tables of relevant Cochrane reviews, references of all relevant studies, contacted industry and authors of relevant studies to identify further trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials comparing new generation antipsychotics (amisulpride, clozapine, olanzapine, quetiapine, risperidone, sulpiride, ziprasidone, zotepine) with conventional antipsychotics for people with a first episode of schizophrenia or schizophrenia-like psychoses."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Citations and, where possible, abstracts were independently inspected by three reviewers, papers ordered, re-inspected and quality assessed. We independently extracted data but excluded them if loss to follow up was greater than 50%. For homogeneous dichotomous data, we calculated the relative risk (RR), the 95% confidence interval (CI) and, where appropriate, the number needed to treat (NNT), on an intention-to-treat basis. For continuous data, reviewers calculated weighted mean differences (WMD)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We include two short-term studies (total n=266), one of which was a report of a sub-group of a larger study. One compared risperidone with an average of 6 mg/day haloperidol and the other olanzapine with an average of 11 mg/day haloperidol. Compared with olanzapine, significantly more people receiving haloperidol left the study early (n=83, 1 RCT, RR 0.43 CI 0.3 to 0.7, NNH 3 CI 2 to 8). This was not so for the risperidone versus haloperidol comparison (n=183, 1 RCT, RR=0.7 CI 0.4 to 1.1). In terms of global effects, studies reported no differences between risperidone and haloperidol (n=183, RR not much improved 1.0 CI 0.6 to 1.5), and olanzapine and the same control (n=83, RR needing at least one dose of benzodiazepine 0.8 CI 0.5 to 1.1). More people allocated to olanzapine had clinically significant improvement in mental state compared with those given haloperidol (n=83, RR no 'clinically significant improvement' 0.45 CI 0.3 to 0.7, NNH 3 CI 2 to 6). In the risperidone study, however, no such difference was apparent (n=183, RR 'no clinically significant improvement in mental state' 0.85 CI 0.6 to 1.2). Significantly more people given haloperidol (4-16mg) experienced at least one adverse event when compared with risperidone (4-16mg) (n=183, RR 0.9 CI 0.8 to 0.98, NNH 8 CI 4 to 50). Use of anticholinergic medication for extrapyramidal adverse events was less prevalent for people allocated either olanzapine (n=83, RR 0.3 CI 0.2 to 0.7, NNH 4 CI 2 to 14) or risperidone (n=183, RR 0.7 CI 0.5 to 0.9, NNH 4 CI 3 to 9) compared with those given haloperidol.\nThere are no data at all on outcomes such as compliance, cost, social and cognitive functioning, relapse, rehospitalisation, or quality of life. There are no medium to long-term data. Eight ongoing studies may provide more information."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The results of this review are inconclusive. Whether the use of new generation antipsychotics really makes the treatment less off putting and enhances long-term compliance is unclear. Pragmatic, well-designed and reported long-term trials would be useful to answer this question."
+    }
+  ],
+  "pls_title": "New generation antipsychotics for first episode schizophrenia",
+  "pls_type": "long",
+  "pls": "A new generation of antipsychotics, drugs such as olanzapine and risperidone are recommended for people with a first episode of schizophrenia. Currently, the quality of information is too limited to come to any firm conclusions. A number of ongoing studies should provide more and better information in the near future."
+}

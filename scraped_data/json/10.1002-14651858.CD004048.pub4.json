@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD004048.pub4",
+  "name": "Lithium for acute mania",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Bipolar disorder is a common condition associated with high morbidity; developing efficacious, safe treatments is therefore essential. Lithium is an effective maintenance treatment for bipolar disorder. It acts as mood stabiliser and reduces the risk of suicide. However, evidence assessing the efficacy of lithium in the treatment of acute mania is less robust. Current evidence-based guidelines cite multiple anti-dopaminergic and mood-stabilising agents as initial treatments: more definite evidence is needed to decide if lithium should be the first-line therapy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "1. To assess the effects of lithium in comparison with placebo or other active treatment in alleviating the acute symptoms of a manic or mixed episode in people with bipolar disorder.\n2. To review the acceptability and tolerability of treatment with lithium in comparison with placebo or other active treatments in alleviating the acute symptoms of a manic or mixed episode in people with bipolar disorder."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Common Mental Disorders Controlled Trials Register, CENTRAL, MEDLINE, Embase, and PsycINFO. We also searched the World Health Organization trials portal (ICTRP) and ClinicalTrials.gov. We checked the reference lists of all included studies and relevant systematic reviews. We have incorporated studies from searches to 18 May 2018 into the current analyses."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Prospective randomised controlled studies comparing lithium with placebo or alternative drug treatment in treatment of acute mania. We included anyone with bipolar disorder, male and female, of any age."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently extracted data and assessed methodological quality. We used odds ratios (ORs) to analyse binary efficacy outcomes, and mean differences (MDs) or standardised mean differences (SMDs) for continuously distributed outcomes. We used a fixed-effect model unless heterogeneity was moderate or substantial, in which case we used a random-effects model. We used Review Manager 5 to analyse data. We assessed the certainty of evidence for individual outcomes using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 36 randomised controlled studies comparing lithium with placebo, one of 12 drugs, or electroconvulsive therapy for treatment of acute mania. Studies included male and female participants (n = 4220), of all ages, who all fitted criteria for a manic episode within the context of a diagnosis of bipolar disorder.\nRisk of bias was variable; 12 studies had a high risk of bias in one domain and 27 gave inadequate information on randomisation leading to an 'unclear' rating for selection bias.\nLithium versus placebo\nHigh-certainty evidence found that lithium was an effective treatment for acute mania and was more effective than placebo at inducing a response (OR 2.13, 95% confidence interval (CI) 1.73 to 2.63; participants = 1707; studies = 6; I2 = 16%; high-certainty evidence), or remission (OR 2.16, 95% CI 1.73 to 2.69; participants = 1597; studies = 5; I2 = 21%; high-certainty evidence).\nLithium was more likely than placebo to cause tremor (OR 3.25, 95% CI 2.10 to 5.04; participants = 1241; studies = 6; I2 = 0%; high-certainty evidence), and somnolence (OR 2.28, 95% CI 1.46 to 3.58; participants = 1351; studies = 7; I2 = 0%; high-certainty evidence).\nThere was insufficient evidence to determine the effect of lithium for all-cause dropouts (OR 0.76; 95% CI 0.46 to 1.25; participants = 1353; studies = 7; I2 = 75%; moderate-certainty evidence), and weight gain (OR 1.48, 95% CI 0.56 to 3.92; participants = 735, studies = 3; I2= 51%; moderate-certainty evidence).\nLithium versus antipsychotics or mood stabilisers\nFor the outcome of inducing a response, there was only very low-certainty evidence regarding lithium compared to haloperidol (MD −2.40, 95% CI −6.31 to 1.50; participants = 80; studies = 3; I2 = 95%), quetiapine (OR 0.66, 95% CI 0.28 to 1.55; participants = 335; studies = 2; I2 = 71%), and carbamazepine (SMD 0.21, 95% CI −0.18 to 0.60; participants = 102; studies = 3; I2 = 0%).\nLithium was probably less likely to induce a response than olanzapine (OR 0.44, 95% CI 0.20 to 0.94; participants = 180; studies = 2; I2 = 0%; moderate-certainty evidence).\nLithium may be less likely to induce a response than risperidone (MD 7.28, 95% CI 5.22 to 9.34; participants = 241; studies = 3; I2 = 49%; low-certainty evidence).\nThere was no evidence of a difference between lithium and valproate (OR 1.22, 95% CI 0.87 to 1.70; participants = 607; studies = 5; I2 = 22%; moderate-certainty evidence).\nThere was moderate-certainty evidence that lithium was more effective than topiramate at treating acute mania (OR 2.28, 95% CI 1.63 to 3.20; participants = 660; studies = 1).\nData on adverse events for these comparisons contained too few studies to provide high-certainty evidence."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This systematic review indicates that lithium is more effective than placebo as a treatment for acute mania but increases the risk for somnolence and tremor. Limited evidence suggests little or no difference between lithium and other mood stabilisers (valproate, carbamazepine) or antipsychotics (risperidone, quetiapine, haloperidol). Olanzapine may be an exception, as it is probably slightly more effective than lithium. There is uncertain evidence that risperidone may also be more effective than lithium. Lithium is probably more effective at treating acute mania than topiramate. When compared to placebo, lithium was more likely to cause adverse events. However, when compared to other drugs, too few studies provided data on adverse effects to provide high-certainty evidence. More, rigorously designed, large-scale studies are needed to definitively conclude if lithium is superior to other interventions in treating acute mania."
+    }
+  ],
+  "pls_title": "Lithium for the treatment of acute mania",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is lithium (a mood-stabilising medication) as effective at treating an episode of mania (high mood) as other available drug treatments or electroconvulsive therapy (ECT)?"
+    },
+    {
+      "heading": "Background",
+      "text": "Bipolar disorder is a common condition in which people experience episodes of low mood (depression) and high mood (mania). The symptoms of bipolar disorder may lower quality of life. Traditionally a range of medications have been used to treat mania, including medications that try to lessen changes in mood (e.g. lithium, valproate, lamotrigine, carbamazepine, divalproex, topiramate), and those that reduce distressing experiences, such as hearing voices or having unusual ideas (e.g. olanzapine, risperidone, quetiapine, aripiprazole, haloperidol, chlorpromazine). ECT (delivering an electric shock to the brain whilst the patient is under a general anaesthetic) is also a treatment for mania. We already know that lithium is the most effective of all these treatments for keeping people with bipolar disorder well in the long term, but we do not know if it is as effective for treating mania."
+    },
+    {
+      "heading": "Method",
+      "text": "The review authors searched for studies comparing lithium to other treatments for mania published up to May 2018. We identified 36 randomised studies, including 4220 participants who attended hospitals in at least 30 different countries. Randomisation means that each participant has the same chance of being assigned to each of the study groups, and reduces the chance that unknown but important factors could influence the study accidentally. Three studies included children and adolescents aged under 18 years. The studies compared lithium to placebo (inactive substance), ECT and 12 other medications for between three and 12 weeks."
+    },
+    {
+      "heading": "Results",
+      "text": "Lithium is an effective treatment for acute mania. Lithium was more effective than a placebo or the anti-epileptic drug topiramate. There was some evidence that lithium may be less effective than the antipsychotic drug olanzapine, but this needs further investigation. There was no evidence that lithium was better or worse at treating mania than any of the other drugs, and not enough evidence to draw a conclusion for ECT.\nThere was not enough evidence to provide a definite answer as to which treatment for mania has the fewest side effects. It is probable that more people will develop a mild tremor when treated with lithium than other treatments. Participants were not more likely to withdraw from a study if they were treated with lithium compared to another treatment.\nUnanswered questions remain, and these would be best resolved by further large, well-designed studies comparing lithium to other treatments for acute mania."
+    }
+  ]
+}

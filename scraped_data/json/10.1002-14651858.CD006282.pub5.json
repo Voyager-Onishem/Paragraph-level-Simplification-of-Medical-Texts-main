@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006282.pub5",
+  "name": "Drug treatment for spinal muscular atrophy types II and III",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Spinal muscular atrophy (SMA) is caused by a homozygous deletion of the survival motor neuron 1 (SMN1 ) gene on chromosome 5, or a heterozygous deletion in combination with a (point) mutation in the second SMN1 allele. This results in degeneration of anterior horn cells, which leads to progressive muscle weakness. Children with SMA type II do not develop the ability to walk without support and have a shortened life expectancy, whereas children with SMA type III develop the ability to walk and have a normal life expectancy. This is an update of a review first published in 2009 and previously updated in 2011."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate if drug treatment is able to slow or arrest the disease progression of SMA types II and III, and to assess if such therapy can be given safely."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and ISI Web of Science conference proceedings in October 2018. In October 2018, we also searched two trials registries to identify unpublished trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We sought all randomised or quasi-randomised trials that examined the efficacy of drug treatment for SMA types II and III. Participants had to fulfil the clinical criteria and have a homozygous deletion or hemizygous deletion in combination with a point mutation in the second allele of the SMN1 gene (5q11.2-13.2) confirmed by genetic analysis.\nThe primary outcome measure was change in disability score within one year after the onset of treatment. Secondary outcome measures within one year after the onset of treatment were change in muscle strength, ability to stand or walk, change in quality of life, time from the start of treatment until death or full-time ventilation and adverse events attributable to treatment during the trial period.\nTreatment strategies involving SMN1-replacement with viral vectors are out of the scope of this review, but a summary is given in Appendix 1. Drug treatment for SMA type I is the topic of a separate Cochrane Review."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review authors found 10 randomised, placebo-controlled trials of treatments for SMA types II and III for inclusion in this review, with 717 participants. We added four of the trials at this update. The trials investigated creatine (55 participants), gabapentin (84 participants), hydroxyurea (57 participants), nusinersen (126 participants), olesoxime (165 participants), phenylbutyrate (107 participants), somatotropin (20 participants), thyrotropin-releasing hormone (TRH) (nine participants), valproic acid (33 participants), and combination therapy with valproic acid and acetyl-L-carnitine (ALC) (61 participants). Treatment duration was from three to 24 months. None of the studies investigated the same treatment and none was completely free of bias. All studies had adequate blinding, sequence generation and reporting of primary outcomes.\nBased on moderate-certainty evidence, intrathecal nusinersen improved motor function (disability) in children with SMA type II, with a 3.7-point improvement in the nusinersen group on the Hammersmith Functional Motor Scale Expanded (HFMSE; range of possible scores 0 to 66), compared to a 1.9-point decline on the HFMSE in the sham procedure group (P < 0.01; n = 126). On all motor function scales used, higher scores indicate better function.\nBased on moderate-certainty evidence from two studies, the following interventions had no clinically important effect on motor function scores in SMA types II or III (or both) in comparison to placebo: creatine (median change 1 higher, 95% confidence interval (CI) –1 to 2; on the Gross Motor Function Measure (GMFM), scale 0 to 264; n = 40); and combination therapy with valproic acid and carnitine (mean difference (MD) 0.64, 95% CI –1.1 to 2.38; on the Modified Hammersmith Functional Motor Scale (MHFMS), scale 0 to 40; n = 61).\nBased on low-certainty evidence from other single studies, the following interventions had no clinically important effect on motor function scores in SMA types II or III (or both) in comparison to placebo: gabapentin (median change 0 in the gabapentin group and –2 in the placebo group on the SMA Functional Rating Scale (SMAFRS), scale 0 to 50; n = 66); hydroxyurea (MD –1.88, 95% CI –3.89 to 0.13 on the GMFM, scale 0 to 264; n = 57), phenylbutyrate (MD –0.13, 95% CI –0.84 to 0.58 on the Hammersmith Functional Motor Scale (HFMS) scale 0 to 40; n = 90) and monotherapy of valproic acid (MD 0.06, 95% CI –1.32 to 1.44 on SMAFRS, scale 0 to 50; n = 31).\nVery low-certainty evidence suggested that the following interventions had little or no effect on motor function: olesoxime (MD 2, 95% –0.25 to 4.25 on the Motor Function Measure (MFM) D1 + D2, scale 0 to 75; n = 160) and somatotropin (median change at 3 months 0.25 higher, 95% CI –1 to 2.5 on the HFMSE, scale 0 to 66; n = 19). One small TRH trial did not report effects on motor function and the certainty of evidence for other outcomes from this trial were low or very low.\nResults of nine completed trials investigating 4-aminopyridine, acetyl-L-carnitine, CK-2127107, hydroxyurea, pyridostigmine, riluzole, RO6885247/RG7800, salbutamol and valproic acid were awaited and not available for analysis at the time of writing.\nVarious trials and studies investigating treatment strategies other than nusinersen (e.g. SMN2-augmentation by small molecules), are currently ongoing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Nusinersen improves motor function in SMA type II, based on moderate-certainty evidence.\nCreatine, gabapentin, hydroxyurea, phenylbutyrate, valproic acid and the combination of valproic acid and ALC probably have no clinically important effect on motor function in SMA types II or III (or both) based on low-certainty evidence, and olesoxime and somatropin may also have little to no clinically important effect but evidence was of very low-certainty. One trial of TRH did not measure motor function."
+    }
+  ],
+  "pls_title": "Medicines for spinal muscular atrophy types II and III",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What was the aim of this review?",
+      "text": "This Cochrane Review aimed to look at the effects of medicines on spinal muscular atrophy (SMA) types II and III in terms of disability, muscle strength, ability to stand or walk, quality of life, and time to death or full-time ventilation, within one year of beginning treatment. We also wanted to identify any harmful effects of the treatments during the trial period. Cochrane review authors collected relevant studies to answer this question and found 10 studies."
+    },
+    {
+      "heading": "Key messages",
+      "text": "Nusinersen given by intrathecal (into the spine) injection probably improves disability in SMA.\nCreatine, phenylbutyrate, gabapentin, hydroxyurea, valproic acid and combination therapy with valproic acid and acetyl-L-carnitine probably have no clinically important effect on motor function (movements and actions of the muscles) in SMA types II and III, based on evidence from single completed, published trials.\nOlesoxime and subcutaneous somatotropin may have little or no effect on motor function in SMA, but the reliability of the evidence was very low. One trial of intravenous (into a vein) thyrotropin-releasing hormone (TRH) did not measure motor function and the reliability of the evidence was very low. All the studies had limitations in design or performance that could have affected the results."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "This review is of medicines for SMA types II and III. Symptoms of SMA first appear in childhood and adolescence. The main feature is increasing muscle weakness. Children with SMA type II will never be able to walk without support; they usually live into adolescence or longer, but with a shortened life expectancy. The age of onset of SMA type II is between six and 18 months. Children with SMA type III will walk independently but may lose the ability to walk at some time and they have a normal life expectancy. The age of onset of SMA type III is after 18 months."
+    },
+    {
+      "heading": "What were the main results of the review?",
+      "text": "We identified 10 trials, which included 717 participants. All trials compared a medicine with an inactive substance (placebo) or sham (pretend) procedure. The trials studied oral (by mouth) creatine (55 participants), oral gabapentin (84 participants), oral phenylbutyrate (107 participants), oral hydroxyurea (57 participants), intrathecal nusinersen (126 participants), oral olesoxime (165 participants), subcutaneous (under the skin) somatotropin (20 participants), intravenous TRH (nine participants), oral valproic acid (33 participants) or combination therapy with oral valproic acid and acetyl-L-carnitine (ALC) (61 participants). Treatment duration was from three to 24 months.\nNusinersen had a beneficial effect on motor function in people with SMA type II, when compared to a sham procedure. There were probably no beneficial effects on motor function in SMA types II/III for creatine, gabapentin, hydroxyurea, phenylbutyrate, valproic acid or combination therapy with valproic acid and ALC. Olesoxime and somatotropin may have no effect on motor function. The small TRH trial did not assess motor function and did not provide evidence of any reliability on other outcomes. We found all the studies to have limitations in design or performance that could have affected the results. Eight studies were (partially) funded by pharmaceutical companies, either by supplying the study drug or by giving financial support otherwise. In two studies investigating nusinersen and olesoxime, the pharmaceutical companies were involved in data analysis and reporting.\nWe are awaiting the results of nine completed trials investigating 4-aminopyridine, ALC, CK-2121707 hydroxyurea, pyridostigmine, riluzole, RO6885247/RG7800, salbutamol and valproic acid which were not available at the time of writing."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence is up to date to October 2018."
+    }
+  ]
+}

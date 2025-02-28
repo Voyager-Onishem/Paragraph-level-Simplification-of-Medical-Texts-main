@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010159.pub2",
+  "name": "Calcitonin testing for detection of medullary thyroid cancer in people with thyroid nodules ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Thyroid nodules are very common in general medical practice, but rarely turn out to be a medullary thyroid carcinoma (MTC). Calcitonin is a sensitive tumour marker for the detection of MTC (basal calcitonin). Sometimes a stimulation test is used to improve specificity (stimulated calcitonin). Although the European Thyroid Association's guideline advocates calcitonin determination in people with thyroid nodules, the role of routine calcitonin testing in individuals with thyroid nodules is still questionable."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The objective of this review was to determine the diagnostic accuracy of basal and/or stimulated calcitonin as a triage or add-on test for detection of MTC in people with thyroid nodules."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase and Web of Science from inception to June 2018."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all retrospective and prospective cohort studies in which all participants with thyroid nodules had undergone determination of basal calcitonin levels (and stimulated calcitonin, if performed)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently scanned all retrieved records. We extracted data using a standard data extraction form. We assessed risk of bias and applicability using the QUADAS-2 tool. Using the hierarchical summary receiver operating characteristic (HSROC) model, we estimated summary curves across different thresholds and also obtained summary estimates of sensitivity and specificity at a common threshold when possible."
+    },
+    {
+      "heading": "Main results",
+      "text": "In 16 studies, we identified 72,368 participants with nodular thyroid disease in whom routinely calcitonin testing was performed. All included studies performed the calcitonin test as a triage test. Median prevalence of MTC was 0.32%. Sensitivity in these studies ranged between 83% and 100% and specificity ranged between 94% and 100%.\nAn important limitation in 15 of the 16 studies (94%) was the absence of adequate reference standards and follow-up in calcitonin-negative participants. This resulted in a high risk of bias with regard to flow and timing in the methodological quality assessment.\nAt the median specificity of 96.6% from the included studies, the estimated sensitivity (95% confidence interval (CI)) from the summary curve was 99.7% ( 68.8% to 100%). For the median prevalence of MTC of 0.23%, the positive predictive value (PPV) for basal calcitonin testing at a threshold of 10 pg/mL was 7.7% (4.9% to 12.1%).\nSummary estimates of sensitivity and specificity for the threshold of 10 pg/mL of basal calcitonin testing was 100% (95% CI 99.7 to 100) and 97.2% (95% CI 95.9 to 98.6), respectively. For combined basal and stimulated calcitonin testing, sensitivity ranged between 82% and 100% with specificity between 99% and 100%. The median specificity was 99.8% with an estimated sensitivity of 98.8% (95% CI 65.8 to 100) ."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Both basal and combined basal and stimulated calcitonin testing have a high sensitivity and specificity. However, this may be an overestimation due to high risk of bias in the use and choice of reference standard The value of routine testing in patients with thyroid nodules remains questionable, due to the low prevalence, which results in a low PPV of basal calcitonin testing. Whether routine calcitonin testing improves prognosis in MTC patients remains unclear."
+    }
+  ],
+  "pls_title": "Calcitonin testing for detection of medullary thyroid cancer in patients with thyroid nodules",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the value of the calcitonin test for the diagnosis of medullary thyroid cancer in people with a thyroid nodule?"
+    },
+    {
+      "heading": "Background",
+      "text": "Thyroid nodules are very common in the general population. In some people this nodule turns out to be a medullary thyroid carcinoma, which is a rare tumour of the thyroid gland. Calcitonin is one of the hormones produced by the thyroid, but in a large proportion of patients with medullary thyroid cancer the calcitonin level is increased. It can therefore be used as a sensitive tumour marker. In certain cases the production of calcitonin by the tumour can be stimulated in a stimulation test, to differentiate more accurately between calcitonin production by the tumour or other causes. However, there is no consensus if calcitonin testing should be routinely used in all people who have a thyroid nodule. We evaluated the available literature to address the accuracy of calcitonin testing in people with thyroid nodules for detection of medullary thyroid carcinoma."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for evidence in the literature until June 2018 and identified a total of 16 studies. Studies were included if a routine calcitonin test (with or without the stimulation test) was performed in all included people with thyroid nodular disease."
+    },
+    {
+      "heading": "Key results",
+      "text": "In total 72,638 people with thyroid nodular disease were enrolled in the analysed studies, of which 187 had medullary thyroid carcinoma. Our findings indicate that both basal and stimulated calcitonin testing are able to detect nearly all people with medullary thyroid carcinoma. However, because medullary thyroid carcinoma is very rare in persons with a thyroid nodule, there is large chance that calcitonin levels are false positives (i.e. the test indicates the disease, whereas in fact there is none).\nIn practice this means that for every 10,000 persons with thyroid nodular disease, 23 persons will have medullary thyroid carcinoma. Of these, none will be missed using a basal calcitonin threshold of 10 pg/mL, while 280 people will have a false-positive test result. This might lead to unnecessary surgery of the thyroid with the need for life-long thyroid hormone supplementation and risk of complications. With the use of a stimulation test the chance of a false-positive test result may be reduced, however due to lack of sufficient studies this could not be calculated."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The certainty of the evidence is importantly limited, because almost all studies did not report adequately on the outcome of people who had a negative calcitonin test. A number of patients who had medullary thyroid carcinoma were possibly not identified. The diagnostic accuracy can already be markedly affected when a small number of patients is missed because medullary thyroid carcinoma is very rare."
+    },
+    {
+      "heading": "Conclusion",
+      "text": "Based on the available literature, there is insufficient evidence for a routine calcitonin test in all people with a thyroid nodule. Further studies are needed, with also adequate reporting of the people who have a negative calcitonin test, to determine the role of the calcitonin test in people with thyroid nodules for detection of medullary thyroid carcinoma."
+    }
+  ]
+}

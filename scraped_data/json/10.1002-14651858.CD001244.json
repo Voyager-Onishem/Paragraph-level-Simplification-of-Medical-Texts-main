@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001244",
+  "name": "Excitatory amino acid antagonists for acute stroke",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Focal cerebral ischaemia causes release of excitatory amino acid (EAA) neurotransmitters, principally glutamate, with resultant over-stimulation of EAA receptors and downstream pathways. Excess glutamate release is a pivotal event in the evolution of irreversible ischaemic damage in animal models of ischaemia, and drugs that modulate glutamate action either by inhibiting its release, or blocking post-synaptic receptors, are potent neuroprotective agents. Many clinical trials with EAA modulating drugs have been conducted, none individually demonstrating efficacy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To synthesise all the available data on all different classes of EAA modulators and to evaluate evidence of effects on outcome systematically."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched May 2001). In addition, we searched MEDLINE and EMBASE, handsearched conference proceedings from European, International, American Heart Association and Princeton conferences on Stroke; American Neurological Association and American Academy of Neurology meetings from 1992 to 2001; and had direct contact with individual investigators and pharmaceutical companies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised, controlled studies giving agents with pharmacological properties that included modification of release of EAAs, or blockade of EAA receptors, in stroke within 24 hours of onset. Efficacy analysis was restricted to trials with a parallel group design: dose escalation studies were excluded. Intention-to-treat analyses were performed on all data. Outcome had to be reported in terms of death or dependence one to 12 months after the acute event."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were available for 36 of 41 relevant trials identified, involving 11,209 participants. Data were unavailable for 632 participants (517 in trials fulfilling criteria for efficacy analysis). Seven trials did not report disability data, which were available for 29 trials involving 10,802 participants. Twenty-one of these trials, involving 10,342 participants, were parallel group studies included in the primary efficacy analysis. Efficacy analysis included data derived from nine trials not primarily designed to assess efficacy (1022 participants). The primary (efficacy) end-point was the proportion of patients dead or disabled at final follow up (defined by Barthel Index < 60 at three months by preference). Mortality was a secondary end-point. Drugs were considered as individual agents, and also grouped principally into categories of ion channel modulators (glutamate release inhibition) and NMDA antagonists."
+    },
+    {
+      "heading": "Main results",
+      "text": "There was no significant heterogeneity of outcome amongst individual drugs, or of drug classes either for the primary efficacy analysis (death or dependence) or for mortality at final follow up. For the primary efficacy analysis, odds of death or dependence were 1.03 (95% confidence interval (CI) 0.96 to 1.12), and for mortality 1.02 (0.92 to 1.12). Neither ion channel modulators (death or dependence 1.02 (0.90 to 1.16)) nor NMDA antagonists (death or dependence 1.05 (0.95 to 1.16)) differed from the principal analysis including all compounds. Trends for increased mortality with three NMDA antagonists were seen - selfotel (OR 1.19 (0.81 to 1.74)), aptiganel (OR 1.32 (0.91 to 1.93)) and gavestinel (OR 1.12 (0.95 to 1.32)) - but this did not achieve significance for the NMDA antagonists considered as a class (1.09 (0.96 to 1.23)). Aptiganel was also associated with a trend towards worse functional outcome (OR 1.20 (0.88 to 1.65)) although this was not the case for either of the other two compounds. No statistically significant detriment of psychotomimetic NMDA antagonists was found, although a trend towards higher mortality in this sub-group was seen (OR 1.25 (0.96 to 1.64))."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There was no evidence of significant benefit or harm from drugs modulating excitatory amino acid action. Reduction of death or dependence by 8% or more has been excluded for gavestinel and lubeluzole, which contribute most of the data for this review. However, mechanistic understanding of neuroprotection is too poor to extrapolate from these two failed development plans to all glutamate modulators. Further clinical trials of neuroprotective agents remain justified, since confidence limits around estimates of effect remain wide for most agents, and cannot reliably exclude benefit. Although numbers of patients are too small to confirm or refute a trend towards increased mortality with some NMDA antagonists, further commercial development of these agents is exceedingly unlikely."
+    }
+  ],
+  "pls_title": "Excitatory amino acid antagonists for acute stroke",
+  "pls_type": "long",
+  "pls": "There is no evidence of benefit from excitatory amino acid antagonists for acute stroke. Most strokes are caused by blockage of an artery with consequent loss of blood supply. Some brain tissue supplied by the artery suffers severe reduction in blood flow, and brain cells quickly die, but some tissue maintains enough blood flow to keep it alive for a period of time - probably hours in most individuals. However, the loss of blood flow sets in motion a series of events that will eventually kill the tissue. The processes that cause damage to progress involve chemical changes, one of which is the release of large amounts of glutamate (an excitatory amino acid), a substance normally used for signalling between brain cells. In large amounts, glutamate is toxic. A number of drugs have been developed to block either the release of glutamate, or the sites to which it binds on brain cells. These drugs were highly effective in animal studies. Individual clinical trials in stroke patients did not confirm benefit for any of the drugs, however. This review confirms that there are no overall benefits for these drugs in stroke, although only two of them have been tested in a large enough population to be reasonably confident that they have no major effects. Some drugs may be harmful. Over 11,000 patients have participated in trials of 13 different drugs that inhibit glutamate release or binding, but two-thirds of all data are from trials of just two drugs. For most drugs in this class, trials have been too small to provide conclusive evidence of harm or benefit. Major differences among individual drugs mean that it is impossible to conclude that all drugs with this mode of action are ineffective. Further trials remain justified, and several are ongoing."
+}

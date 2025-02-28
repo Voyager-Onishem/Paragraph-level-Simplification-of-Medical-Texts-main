@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010880.pub2",
+  "name": "Peer support for people with schizophrenia or other serious mental illness",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Peer support provides the opportunity for peers with experiential knowledge of a mental illness to give emotional, appraisal and informational assistance to current service users, and is becoming an important recovery-oriented approach in healthcare for people with mental illness."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of peer-support interventions for people with schizophrenia or other serious mental disorders, compared to standard care or other supportive or psychosocial interventions not from peers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Study-Based Register of Trials on 27 July 2016 and 4 July 2017. There were no limitations regarding language, date, document type or publication status."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected all randomised controlled clinical studies involving people diagnosed with schizophrenia or other related serious mental illness that compared peer support to standard care or other psychosocial interventions and that did not involve 'peer' individual/group(s). We included studies that met our inclusion criteria and reported useable data. Our primary outcomes were service use and global state (relapse)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "The authors of this review complied with the Cochrane recommended standard of conduct for data screening and collection. Two review authors independently screened the studies, extracted data and assessed the risk of bias of the included studies. Any disagreement was resolved by discussion until the authors reached a consensus. We calculated the risk ratio (RR) and 95% confidence interval (CI) for binary data, and the mean difference and its 95% CI for continuous data. We used a random-effects model for analyses. We assessed the quality of evidence and created a 'Summary of findings' table using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review included 13 studies with 2479 participants. All included studies compared peer support in addition to standard care with standard care alone. We had significant concern regarding risk of bias of included studies as over half had an unclear risk of bias for the majority of the risk domains (i.e. random sequence generation, allocation concealment, blinding, attrition and selective reporting). Additional concerns regarding blinding of participants and outcome assessment, attrition and selective reporting were especially serious, as about a quarter of the included studies were at high risk of bias for these domains.\nAll included studies provided useable data for analyses but only two trials provided useable data for two of our main outcomes of interest, and there were no data for one of our primary outcomes, relapse. Peer support appeared to have little or no effect on hospital admission at medium term (RR 0.44, 95% CI 0.11 to 1.75; participants = 19; studies = 1, very low-quality evidence) or all-cause death in the long term (RR 1.52, 95% CI 0.43 to 5.31; participants = 555; studies = 1, very low-quality evidence). There were no useable data for our other prespecified important outcomes: days in hospital, clinically important change in global state (improvement), clinically important change in quality of life for peer supporter and service user, or increased cost to society.\nOne trial compared peer support with clinician-led support but did not report any useable data for the above main outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Currently, very limited data are available for the effects of peer support for people with schizophrenia. The risk of bias within trials is of concern and we were unable to use the majority of data reported in the included trials. In addition, the few that were available, were of very low quality. The current body of evidence is insufficient to either refute or support the use of peer-support interventions for people with schizophrenia and other mental illness."
+    }
+  ],
+  "pls_title": "Peer support for schizophrenia and other serious mental illnesses",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Schizophrenia and other serious mental illnesses are chronic disruptive mental disorders with disturbing psychotic, affective and cognitive symptoms such as delusions, hallucinations, depression, anxiety, insomnia, difficulty in concentration, suspiciousness and social withdrawal. The primary treatment is antipsychotic medicine, but these are not always fully effective.\nPeer support provides the opportunity for both a service user and a provider of care to share knowledge, direct experience of their illness and to help each other along the path to recovery. The support is given alongside antipsychotic treatment. Through interpersonal sharing, modelling and assistance within or outside of group sessions, it is believed that these supportive strategies can help combat feelings of hopelessness and behavioural problems that may result from having an illness and empower people to continue their treatment and help them to resume key roles in real life. However, findings from research have been inconsistent regarding the effectiveness of peer support for people with schizophrenia and other serious mental illnesses."
+    },
+    {
+      "heading": "Review aims",
+      "text": "This review aimed to find high-quality evidence from relevant randomised clinical trials (studies where people are randomly put into one of two or more treatment groups) so we could assess the effects of peer-support interventions for people with serious mental illness in comparison to standard care or other supportive or psychosocial interventions not from peers. We were interested in finding clinically meaningful data that could provide information regarding the effect peer support has on hospital admission, relapse, global state, quality of life, death and cost to society for people with schizophrenia."
+    },
+    {
+      "heading": "Searches",
+      "text": "We searched Cochrane Schizophrenia's specialised register of trials (up to 2017) and found 13 trials that randomised 2479 people with schizophrenia or other similar serious mental illnesses to receive either peer support plus their standard care, clinician-led support plus their standard care or standard care alone."
+    },
+    {
+      "heading": "Key results",
+      "text": "Thirteen trials were available but the evidence was very low quality. Useable data were reported for only two of our prespecified outcomes of importance and showed adding peer support to standard care appeared to have little or no clear impact on hospital admission or death for people with schizophrenia and other serious mental illnesses. One of these trials (participants = 156) also compared peer support with clinician-led support (where a health professional provided support). However, there were no useable data for this comparison reported for the main outcomes."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We have little confidence in the above findings. Currently, there is no high-quality evidence available to either support or refute the effectiveness of peer-support interventions for people with schizophrenia or other serious mental illnesses."
+    }
+  ]
+}

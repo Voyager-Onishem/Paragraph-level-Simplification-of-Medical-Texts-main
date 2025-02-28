@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD003177.pub5",
+  "name": "Omega‐3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Omega-3 polyunsaturated fatty acids from oily fish (long-chain omega-3 (LCn3)), including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)), as well as from plants (alpha-linolenic acid (ALA)) may benefit cardiovascular health. Guidelines recommend increasing omega-3-rich foods, and sometimes supplementation, but recent trials have not confirmed this."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of increased intake of fish- and plant-based omega-3 fats for all-cause mortality, cardiovascular events, adiposity and lipids."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE and Embase to February 2019, plus ClinicalTrials.gov and World Health Organization International Clinical Trials Registry to August 2019, with no language restrictions. We handsearched systematic review references and bibliographies and contacted trial authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that lasted at least 12 months and compared supplementation or advice to increase LCn3 or ALA intake, or both, versus usual or lower intake."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion, extracted data and assessed validity. We performed separate random-effects meta-analysis for ALA and LCn3 interventions, and assessed dose-response relationships through meta-regression."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 86 RCTs (162,796 participants) in this review update and found that 28 were at low summary risk of bias. Trials were of 12 to 88 months' duration and included adults at varying cardiovascular risk, mainly in high-income countries. Most trials assessed LCn3 supplementation with capsules, but some used LCn3- or ALA-rich or enriched foods or dietary advice compared to placebo or usual diet. LCn3 doses ranged from 0.5 g a day to more than 5 g a day (19 RCTs gave at least 3 g LCn3 daily).\nMeta-analysis and sensitivity analyses suggested little or no effect of increasing LCn3 on all-cause mortality (risk ratio (RR) 0.97, 95% confidence interval (CI) 0.93 to 1.01; 143,693 participants; 11,297 deaths in 45 RCTs; high-certainty evidence), cardiovascular mortality (RR 0.92, 95% CI 0.86 to 0.99; 117,837 participants; 5658 deaths in 29 RCTs; moderate-certainty evidence), cardiovascular events (RR 0.96, 95% CI 0.92 to 1.01; 140,482 participants; 17,619 people experienced events in 43 RCTs; high-certainty evidence), stroke (RR 1.02, 95% CI 0.94 to 1.12; 138,888 participants; 2850 strokes in 31 RCTs; moderate-certainty evidence) or arrhythmia (RR 0.99, 95% CI 0.92 to 1.06; 77,990 participants; 4586 people experienced arrhythmia in 30 RCTs; low-certainty evidence). Increasing LCn3 may slightly reduce coronary heart disease mortality (number needed to treat for an additional beneficial outcome (NNTB) 334 , RR 0.90, 95% CI 0.81 to 1.00; 127,378 participants; 3598 coronary heart disease deaths in 24 RCTs, low-certainty evidence) and coronary heart disease events (NNTB 167, RR 0.91, 95% CI 0.85 to 0.97; 134,116 participants; 8791 people experienced coronary heart disease events in 32 RCTs, low-certainty evidence). Overall, effects did not differ by trial duration or LCn3 dose in pre-planned subgrouping or meta-regression. There is little evidence of effects of eating fish.\nIncreasing ALA intake probably makes little or no difference to all-cause mortality (RR 1.01, 95% CI 0.84 to 1.20; 19,327 participants; 459 deaths in 5 RCTs, moderate-certainty evidence),cardiovascular mortality (RR 0.96, 95% CI 0.74 to 1.25; 18,619 participants; 219 cardiovascular deaths in 4 RCTs; moderate-certainty evidence), coronary heart disease mortality (RR 0.95, 95% CI 0.72 to 1.26; 18,353 participants; 193 coronary heart disease deaths in 3 RCTs; moderate-certainty evidence) and coronary heart disease events (RR 1.00, 95% CI 0.82 to 1.22; 19,061 participants; 397 coronary heart disease events in 4 RCTs; low-certainty evidence). However, increased ALA may slightly reduce risk of cardiovascular disease events (NNTB 500 , RR 0.95, 95% CI 0.83 to 1.07; but RR 0.91, 95% CI 0.79 to 1.04 in RCTs at low summary risk of bias; 19,327 participants; 884 cardiovascular disease events in 5 RCTs; low-certainty evidence), and probably slightly reduces risk of arrhythmia (NNTB 91 , RR 0.73, 95% CI 0.55 to 0.97; 4912 participants; 173 events in 2 RCTs; moderate-certainty evidence). Effects on stroke are unclear.\nIncreasing LCn3 and ALA had little or no effect on serious adverse events, adiposity, lipids and blood pressure, except increasing LCn3 reduced triglycerides by ˜15% in a dose-dependent way (high-certainty evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This is the most extensive systematic assessment of effects of omega-3 fats on cardiovascular health to date. Moderate- and low-certainty evidence suggests that increasing LCn3 slightly reduces risk of coronary heart disease mortality and events, and reduces serum triglycerides (evidence mainly from supplement trials). Increasing ALA slightly reduces risk of cardiovascular events and arrhythmia."
+    }
+  ],
+  "pls_title": "Omega-3 intake for cardiovascular disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed randomised trials (where participants have an equal chance of being assigned to either treatment) examining effects of increasing fish- and plant-based omega-3 fats on heart and circulatory disease (called cardiovascular diseases, which include heart attacks and stroke), fatness and blood fats (lipids, including cholesterol, triglycerides, high-density lipoprotein (HDL – 'good' cholesterol) and low-density lipoprotein (LDL – 'bad' cholesterol))."
+    },
+    {
+      "heading": "Background",
+      "text": "The main types of omega-3 fats are eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), both found in fish, and alpha-linolenic acid (ALA) found in plant foods. Many people believe that taking omega-3 supplements reduces risk of heart disease, stroke and death."
+    },
+    {
+      "heading": "Trial characteristics",
+      "text": "The evidence is current to February 2019. The review included 86 trials involving 162,796 people. These trials assessed effects of greater omega-3 intake versus lower omega-3 intake for at least a year on heart and circulatory disease. Twenty-eight trials were very trustworthy (well-designed so as not to give biased results). Participants were adults, some with existing illness and some healthy, living in North America, Europe, Australia and Asia. Most EPA and DHA trials provided capsules, few gave oily fish."
+    },
+    {
+      "heading": "Key results",
+      "text": "Increasing EPA and DHA has little or no effect on deaths and cardiovascular events (high-certainty evidence) and probably makes little or no difference to cardiovascular death, stroke, or heart irregularities (moderate-certainty evidence). However, increasing EPA and DHA may slightly reduce risk of coronary death and coronary events (low-certainty evidence, coronary events are illnesses of arteries supplying the heart). To prevent one person having a coronary event, 167 people would need to increase their EPA and DHA, and 334 people would need to increase their EPA and DHA to prevent one person dying from coronary disease. EPA and DHA reduce triglycerides by about 15% but do not affect fatness or other lipids (high-certainty evidence).\nEating more ALA (for example, by increasing walnuts or enriched margarine) probably makes little or no difference to all-cause, cardiovascular or coronary deaths or coronary events but probably slightly reduces cardiovascular events and heart irregularities (moderate- or low-certainty evidence). To prevent one person having a coronary event, 500 people would need to increase their ALA, 91 people to prevent one person having arrhythmia.\nThere is little evidence of effects of eating fish. EPA and DHA reduce triglycerides. EPA, DHA and ALA may be slightly protective of some heart and circulatory diseases."
+    }
+  ]
+}

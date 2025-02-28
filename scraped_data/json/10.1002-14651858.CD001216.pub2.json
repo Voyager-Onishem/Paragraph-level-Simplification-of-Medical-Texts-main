@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001216.pub2",
+  "name": "Screening for colorectal cancer using the faecal occult blood test, Hemoccult",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Colorectal cancer is a leading cause of morbidity and mortality, especially in the Western world. The human and financial costs have prompted considerable research to evaluate screening tests to detect the cancer at an early curable stage. Tests that have been considered for population screening include the faecal occult blood test (FOBT), flexible sigmoidoscopy and colonoscopy. Reducing mortality from colorectal cancer (CRC) may be achieved by the introduction of population-based screening programmes."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether screening for colorectal cancer using the faecal occult blood test (guaiac or immunochemical) reduces colorectal cancer mortality and to consider the benefits and harms of screening."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Published and unpublished data for this review were identified by:\nReviewing studies included in the previous Cochrane review; \nSearching several electronic databases (Cochrane Library, Medline, Embase, CINAHL, PsychInfo, Amed, SIGLE, HMIC); and \nWriting to the principal investigators of potentially eligible trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised trials of screening for colorectal cancer that compared faecal occult blood test (guaiac or immunochemical) on more than one occasion with no screening and reported colorectal cancer mortality."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data from the eligible trials were independently extracted by two reviewers. The primary data analysis was performed using the group participants were originally randomised to ('intention to screen'), whether or not they attended screening; a secondary analysis adjusted for non-attendance. We calculated the relative risks and risk differences for each trial, and then overall, using fixed and random effects models (including testing for heterogeneity of effects). We identified nine articles concerning four randomised controlled trials and two controlled trials involving over 320,000 participants with follow-up ranging from 8 to 18 years."
+    },
+    {
+      "heading": "Main results",
+      "text": "Combined results from the 4 eligible randomised controlled trials shows that participants allocated to FOBT screening had a statistically significant 16% reduction in the relative risk of colorectal cancer mortality (RR 0.84; CI: 0.78-0.90). In the 3 studies that used biennial screening (Funen, Minnesota, Nottingham) there was a 15% relative risk reduction (RR 0.85, CI: 0.78-0.92) in colorectal cancer mortality. When adjusted for mean screening attendance in the individual studies, there was a 25% relative risk reduction (RR 0.75, CI: 0.66 - 0.84) for those attending at least one round of screening using the faecal occult blood test."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Benefits of screening include a modest reduction in colorectal cancer mortality, a possible reduction in cancer incidence through the detection and removal of colorectal adenomas, and potentially, the less invasive surgery that earlier treatment of colorectal cancers may involve. \nHarmful effects of screening include the psycho-social consequences of receiving a false-positive result, the potentially significant complications of colonoscopy or a false-negative result, the possibility of overdiagnosis (leading to unnecessary investigations or treatment) and the complications associated with treatment."
+    }
+  ],
+  "pls_title": "Screening for colorectal cancer using the faecal occult blood test, Hemoccult",
+  "pls_type": "long",
+  "pls": "Regular screening of faeces for blood can detect colorectal cancer earlier and hence may reduce mortality in populations at risk, such as older patients. The screening test used in these trials to detect colorectal (bowel) cancer was the faecal occult blood test (FOBT). If the FOBT is positive, the bowels are examined closely with further diagnostic test (coloscopy, flexible sigmoidoscopy, double-contrast barium enema), but these tests often cause discomfort and can cause serious adverse consequences. As blood identified in faeces may be due to several reason (unrelated to cancer), it may cause people unnecessary stress and expose them to possible harm. This review found that FOBT screening is likely to avoid approximately 1 in 6 colorectal cancer deaths."
+}

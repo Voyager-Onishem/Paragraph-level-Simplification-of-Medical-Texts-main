@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD001031.pub4",
+  "name": "Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an updated version of the original Cochrane Review published in Issue 11, 2006 of the Cochrane Database of Systematic Reviews.\nEpilepsy is a common neurological condition in which abnormal electrical discharges from the brain cause recurrent unprovoked seizures. It is believed that with effective drug treatment up to 70% of individuals with active epilepsy have the potential to become seizure-free, and to go into long-term remission shortly after starting drug therapy with a single antiepileptic drug (AED) in monotherapy.\nThe correct choice of first-line AED for individuals with newly diagnosed seizures is of great importance. It is important that the choice of AEDs for an individual is made using the highest quality evidence regarding the potential benefits and harms of the various treatments.\nCarbamazepine or lamotrigine are recommended as first-line treatments for new onset focal seizures and as a first- or second-line treatment for generalised tonic-clonic seizures. Performing a synthesis of the evidence from existing trials will increase the precision of the results for outcomes relating to efficacy and tolerability and may assist in informing a choice between the two drugs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the time to treatment failure, remission and first seizure with lamotrigine compared to carbamazepine when used as monotherapy in people with focal onset seizures (simple or complex focal and secondarily generalised) or generalised onset tonic-clonic seizures (with or without other generalised seizure types)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted the first searches for this review in 1997. For the most recent update, we searched the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO), MEDLINE, Clinical Trials.gov and the WHO International Clinical Trials Registry Platform on 26 February 2018, without language restrictions"
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing monotherapy with either carbamazepine or lamotrigine in children or adults with focal onset seizures or generalised onset tonic-clonic seizures"
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "This was an individual participant data (IPD) review. Our primary outcome was time to treatment failure and our secondary outcomes were time to first seizure post randomisation, time to six-month, 12-month and 24-month remission, and incidence of adverse events. We used Cox proportional hazards regression models to obtain trial-specific estimates of hazard ratios (HRs) with 95% confidence intervals (CIs), using the generic inverse variance method to obtain the overall pooled HR and 95% CI."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 14 trials in this review. Individual participant data were available for 2572 participants out of 3787 eligible individuals from nine out of 14 trials: 68% of the potential data. For remission outcomes, a HR of less than one indicated an advantage for carbamazepine; and for first seizure and treatment failure outcomes, a HR of less than one indicated an advantage for lamotrigine.\nThe main overall results were: time to treatment failure for any reason related to treatment (pooled HR adjusted for seizure type: 0.71, 95% CI 0.62 to 0.82, moderate-quality evidence), time to treatment failure due to adverse events (pooled HR adjusted for seizure type: 0.55 (95% CI 0.45 to 0.66, moderate-quality evidence), time to treatment failure due to lack of efficacy (pooled HR for all participants: 1.03 (95% CI 0.75 to 1.41), moderate-quality evidence) showing a significant advantage for lamotrigine compared to carbamazepine in terms of treatment failure for any reason related to treatment and treatment failure due to adverse events, but no different between drugs for treatment failure due to lack of efficacy.\nTime to first seizure (pooled HR adjusted for seizure type: 1.26, 95% CI 1.12 to 1.41, high-quality evidence) and time to six-month remission (pooled HR adjusted for seizure type: 0.86, 95% CI 0.76 to 0.97, high-quality evidence), showed a significant advantage for carbamazepine compared to lamotrigine for first seizure and six-month remission. We found no difference between the drugs for time to 12-month remission (pooled HR for all participants 0.91, 95% CI 0.77 to 1.07, high-quality evidence) or time to 24-month remission (HR for all participants 1.00, 95% CI 0.80 to 1.25, high-quality evidence), however only two trials followed up participants for more than one year so evidence is limited.\nThe results of this review are applicable mainly to individuals with focal onset seizures; 88% of included individuals experienced seizures of this type at baseline. Up to 50% of the limited number of individuals classified as experiencing generalised onset seizures at baseline may have had their seizure type misclassified, therefore we recommend caution when interpreting the results of this review for individuals with generalised onset seizures.\nThe most commonly reported adverse events for both of the drugs across all of the included trials were dizziness, fatigue, gastrointestinal disturbances, headache and skin problems. The rate of adverse events was similar across the two drugs.\nThe methodological quality of the included trials was generally good, however there is some evidence that the design choice of masked or open-label treatment may have influenced the treatment failure and withdrawal rates of the trials. Hence, we judged the quality of the evidence for the primary outcome of treatment failure to be moderate for individuals with focal onset seizures and low for individuals with generalised onset seizures. For efficacy outcomes (first seizure, remission), we judged the quality of evidence to be high for individuals with focal onset seizures and moderate for individuals with generalised onset seizures."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Moderate quality evidence indicates that treatment failure for any reason related to treatment or due to adverse events occurs significantly earlier on carbamazepine than lamotrigine, but the results for time to first seizure suggested that carbamazepine may be superior in terms of seizure control. The choice between these first-line treatments must be made with careful consideration. We recommend that future trials should be designed to the highest quality possible with consideration of masking, choice of population, classification of seizure type, duration of follow-up, choice of outcomes and analysis, and presentation of results."
+    }
+  ],
+  "pls_title": "Lamotrigine versus carbamazepine monotherapy (single medication treatment) for epilepsy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This is an updated version of the Cochrane Review previously published in Issue 11, 2016 of the Cochrane Database of Systematic Reviews."
+    },
+    {
+      "heading": "Background",
+      "text": "Epilepsy is a common neurological disorder in which abnormal electrical discharges from the brain cause recurrent seizures. We studied two types of epileptic seizures in this review: generalised onset seizures, in which electrical discharges begin in one part of the brain and move throughout the brain; and focal onset seizures, in which the seizure is generated in and affects one part of the brain (the whole hemisphere of the brain or part of a lobe of the brain). Focal seizures may become generalised (secondary generalisation) and move from one part of the brain throughout the brain. For around 70% of people with epilepsy, a single antiepileptic medication can control generalised onset or focal onset seizures.\nThis review applies to people with focal seizures (with or without secondary generalisation) and people with generalised tonic-clonic seizures, a specific generalised seizure type. This review does not apply to people with other generalised seizure types such as absence seizures or myoclonic seizures, as the recommended treatments for these seizure types are different."
+    },
+    {
+      "heading": "Objective",
+      "text": "Carbamazepine and lamotrigine are first-choice treatments for individuals with recently diagnosed epilepsy. The aim of this review was to compare how effective these drugs are at controlling seizures, to find out if they are associated with side effects that may result in individuals stopping the medication, and to inform a choice between these medications."
+    },
+    {
+      "heading": "Methods",
+      "text": "The last search for trials was in February 2018. We assessed the evidence from 14 randomised controlled trials comparing lamotrigine with carbamazepine. We were able to combine information for 2572 people from nine of the 14 trials; for the remaining 1215 people from five trials, information was not available to use in this review."
+    },
+    {
+      "heading": "Results",
+      "text": "The results of the review suggest that people are more likely to withdraw earlier from carbamazepine than lamotrigine treatment. The most common medicine-related reason for withdrawal was side effects: 52% of total withdrawals in participants on carbamazepine and 36% of total withdrawals in participants on lamotrigine. The second most common medicine-related cause for withdrawal was seizure recurrence: 58 of 719 total withdrawals (8%) on carbamazepine and 105 of 697 total withdrawals (15%) on lamotrigine.\nThe results suggest that recurrence of seizures after starting treatment with lamotrigine may happen earlier than treatment with carbamazepine. They also suggest that freedom from seizures for a period of six months may occur earlier on carbamazepine than lamotrigine. The majority of the people included in the 14 trials (88%) experienced focal seizures, so the results of this review apply mainly to people with this seizure type.\nThe most common side effects reported by participants during the trials were dizziness, fatigue, gastrointestinal problems, headaches and skin problems. These side effects were reported a similar number of times by people taking lamotrigine or carbamazepine."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "For people with focal onset seizures, we judged the quality of the evidence to be high for the outcomes of seizure recurrence and remission of seizures and we judged the quality of the evidence to be moderate for the outcome of treatment failure. The design of the trials (specifically, whether the people and treating clinicians knew which medication they were taking) may have influenced the rates of withdrawal from treatments. Up to 50% of people in the trials used in our results may have been wrongly classified as having generalised seizures; for people with generalised onset seizures, we judged the quality of the evidence to be moderate for the outcomes of seizure recurrence and remission of seizures and low quality for the outcome of treatment failure."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "For people with focal onset seizures, lamotrigine and carbamazepine are effective treatments and a choice between these two treatments must be made carefully. More information is needed for people with generalised onset seizures. We recommend that all future trials comparing these medications, or any other antiepileptic medications, should be designed using high-quality methods. Seizure types of people included in trials should also be classified very carefully to ensure that the results are also of high quality."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD007858.pub2",
+  "name": "Blood pressure‐lowering treatment for preventing recurrent stroke, major vascular events, and dementia in patients with a history of stroke or transient ischaemic attack ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stroke is an important cause of death and disability worldwide. Since high blood pressure is an important risk factor for stroke and stroke recurrence, drugs that lower blood pressure might play an important role in secondary stroke prevention."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate whether blood pressure-lowering drugs (BPLDs) started at least 48 hours after the index event are effective for the prevention of recurrent stroke, major vascular events, and dementia in people with stroke or transient ischaemic attack (TIA). Secondary objectives were to identify subgroups of people in which BPLDs are effective, and to investigate the optimum systolic blood pressure target after stroke or TIA for preventing recurrent stroke, major vascular events, and dementia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "In August 2017, we searched the Trials Registers of the Cochrane Stroke Group and the Cochrane Hypertension Group, the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 8), MEDLINE Ovid (1946 to August 2017), Embase Ovid (1974 to August 2017), ClinicalTrials.gov, the ISRCTN Registry, Stroke Trials Registry, Trials Central, and the World Health Organization (WHO) International Clinical Trials Registry Platform Portal."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) of BPLDs started at least 48 hours after stroke or TIA."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened all titles and abstracts, selected eligible trials, extracted the data, assessed risk of bias, and used GRADE to assess the quality of the evidence. If necessary, we contacted the principal investigators or corresponding authors for additional data."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 studies involving a total of 38,742 participants: eight studies compared BPLDs versus placebo or no treatment (35,110 participants), and three studies compared different systolic blood pressure targets (3632 participants). The risk of bias varied greatly between included studies. The pooled risk ratio (RR) of BPLDs for recurrent stroke was 0.81 (95% confidence interval (CI) 0.70 to 0.93; 8 RCTs; 35,110 participants; moderate-quality evidence), for major vascular event 0.90 (95% CI 0.78 to 1.04; 4 RCTs; 28,630 participants; high-quality evidence), and for dementia 0.88 (95% CI 0.73 to 1.06; 2 RCTs; 6671 participants; high-quality evidence). We mainly observed a reduced risk of recurrent stroke in the subgroup of participants using an angiotensin-converting enzyme (ACE) inhibitor or a diuretic (I2 statistic for subgroup differences 72.1%; P = 0.006). The pooled RR of intensive blood pressure-lowering for recurrent stroke was 0.80 (95% CI 0.63 to 1.00), and for major vascular event 0.58 (95% CI 0.23 to 1.46)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our results support the use of BPLDs in people with stroke or TIA for reducing the risk of recurrent stroke. Current evidence is primarily derived from trials studying an ACE inhibitor or a diuretic. No definite conclusions can be drawn from current evidence regarding an optimal systolic blood pressure target after stroke or TIA."
+    }
+  ],
+  "pls_title": "Blood pressure drugs for preventing stroke and cardiovascular diseases in patients with a stroke or transient ischaemic attack (TIA)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Questions",
+      "text": "Do blood pressure drugs prevent stroke, other blood vessel diseases, and dementia, in people with a stroke or transient ischaemic attack (TIA)? What blood pressure target is best for preventing stroke, other blood vessel diseases, and dementia, in people with a stroke or TIA?"
+    },
+    {
+      "heading": "Background",
+      "text": "Stroke, due to blocked or bleeding blood vessels in the brain affects about 14 million people worldwide each year. Stroke survivors are at increased risk of recurrent stroke, other blood vessel diseases, and dementia. High blood pressure is an important risk factor that can increase this risk. Blood pressure-lowering drugs are known to prevent first ever stroke. However, in stroke survivors lowering the blood pressure too far (using blood pressure drugs) may be harmful especially early after the stroke. Therefore, we reviewed trials that tested blood pressure-lowering drugs started at least 48 hours after the stroke or TIA."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "this review is up-to-date to August 2017. We included 11 trials involving 38,742 participants: eight trials assessed the effect of blood pressure drugs, and three trials compared different blood pressure targets. Ten studies were hospital-based and one trial was performed in a general practitioner setting. Not all trials contributed information to all outcomes."
+    },
+    {
+      "heading": "Key results",
+      "text": "blood pressure drugs lowered the risk of recurrent stroke in patients with a stroke or TIA, whereas there is insufficient evidence to conclude whether they reduce the risk of other blood vessel diseases and dementia. There is also insufficient evidence to conclude which blood pressure target is best for patients with a stroke or TIA."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "overall, the quality of the trials in this review was moderate. However, we found similar results in an analysis using only high-quality trials. More research is needed to investigate whether blood pressure drugs also prevent dementia, and what blood pressure targets are best for patients with a stroke or TIA."
+    }
+  ]
+}

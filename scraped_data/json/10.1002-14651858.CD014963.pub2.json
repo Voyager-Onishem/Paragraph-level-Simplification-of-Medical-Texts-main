@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/14651858.CD014963.pub2",
+  "name": "Systemic corticosteroids for the treatment of COVID‐19: Equity‐related analyses and update on evidence ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Systemic corticosteroids are used to treat people with COVID-19 because they counter hyper-inflammation. Existing evidence syntheses suggest a slight benefit on mortality. Nonetheless, size of effect, optimal therapy regimen, and selection of patients who are likely to benefit most are factors that remain to be evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether and at which doses systemic corticosteroids are effective and safe in the treatment of people with COVID-19, to explore equity-related aspects in subgroup analyses, and to keep up to date with the evolving evidence base using a living systematic review approach."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (which includes PubMed, Embase, CENTRAL, ClinicalTrials.gov, WHO ICTRP, and medRxiv), Web of Science (Science Citation Index, Emerging Citation Index), and the WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies to 6 January 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) that evaluated systemic corticosteroids for people with COVID-19.\nWe included any type or dose of systemic corticosteroids and the following comparisons: systemic corticosteroids plus standard care versus standard care, different types, doses and timings (early versus late) of corticosteroids.\nWe excluded corticosteroids in combination with other active substances versus standard care, topical or inhaled corticosteroids, and corticosteroids for long-COVID treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We followed standard Cochrane methodology. To assess the risk of bias in included studies, we used the Cochrane 'Risk of bias' 2 tool for RCTs. We rated the certainty of the evidence using the GRADE approach for the following outcomes: all-cause mortality up to 30 and 120 days, discharged alive (clinical improvement), new need for invasive mechanical ventilation or death (clinical worsening), serious adverse events, adverse events, hospital-acquired infections, and invasive fungal infections."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 16 RCTs in 9549 participants, of whom 8271 (87%) originated from high-income countries. A total of 4532 participants were randomised to corticosteroid arms and the majority received dexamethasone (n = 3766). These studies included participants mostly older than 50 years and male. We also identified 42 ongoing and 23 completed studies lacking published results or relevant information on the study design.\nHospitalised individuals with a confirmed or suspected diagnosis of symptomatic COVID-19\nSystemic corticosteroids plus standard care versus standard care plus/minus placebo\nWe included 11 RCTs (8019 participants), one of which did not report any of our pre-specified outcomes and thus our analyses included outcome data from 10 studies.\nSystemic corticosteroids plus standard care compared to standard care probably reduce all-cause mortality (up to 30 days) slightly (risk ratio (RR) 0.90, 95% confidence interval (CI) 0.84 to 0.97; 7898 participants; estimated absolute effect: 274 deaths per 1000 people not receiving systemic corticosteroids compared to 246 deaths per 1000 people receiving the intervention (95% CI 230 to 265 per 1000 people); moderate-certainty evidence).\nThe evidence is very uncertain about the effect on all-cause mortality (up to 120 days) (RR 0.74, 95% CI 0.23 to 2.34; 485 participants). The chance of clinical improvement (discharged alive at day 28) may slightly increase (RR 1.07, 95% CI 1.03 to 1.11; 6786 participants; low-certainty evidence) while the risk of clinical worsening (new need for invasive mechanical ventilation or death) may slightly decrease (RR 0.92, 95% CI 0.84 to 1.01; 5586 participants; low-certainty evidence).\nFor serious adverse events (two RCTs, 678 participants), adverse events (three RCTs, 447 participants), hospital-acquired infections (four RCTs, 598 participants), and invasive fungal infections (one study, 64 participants), we did not perform any analyses beyond the presentation of descriptive statistics due to very low-certainty evidence (high risk of bias, heterogeneous definitions, and underreporting).\nDifferent types, dosages or timing of systemic corticosteroids\nWe identified one RCT (86 participants) comparing methylprednisolone to dexamethasone, thus the evidence is very uncertain about the effect of methylprednisolone on all-cause mortality (up to 30 days) (RR 0.51, 95% CI 0.24 to 1.07; 86 participants). None of the other outcomes of interest were reported in this study.\nWe included four RCTs (1383 participants) comparing high-dose dexamethasone (12 mg or higher) to low-dose dexamethasone (6 mg to 8 mg).\nHigh-dose dexamethasone compared to low-dose dexamethasone may reduce all-cause mortality (up to 30 days) (RR 0.87, 95% CI 0.73 to 1.04; 1269 participants; low-certainty evidence), but the evidence is very uncertain about the effect of high-dose dexamethasone on all-cause mortality (up to 120 days) (RR 0.93, 95% CI 0.79 to 1.08; 1383 participants) and it may have little or no impact on clinical improvement (discharged alive at 28 days) (RR 0.98, 95% CI 0.89 to 1.09; 200 participants; low-certainty evidence). Studies did not report data on clinical worsening (new need for invasive mechanical ventilation or death).\nFor serious adverse events, adverse events, hospital-acquired infections, and invasive fungal infections, we did not perform analyses beyond the presentation of descriptive statistics due to very low-certainty evidence.\nWe could not identify studies for comparisons of different timing and systemic corticosteroids versus other active substances.\nEquity-related subgroup analyses\nWe conducted the following subgroup analyses to explore equity-related factors: sex, age (< 70 years; ≥ 70 years), ethnicity (Black, Asian or other versus White versus unknown) and place of residence (high-income versus low- and middle-income countries). Except for age and ethnicity, no evidence for differences could be identified. For all-cause mortality up to 30 days, participants younger than 70 years seemed to benefit from systemic corticosteroids in comparison to those aged 70 years and older. The few participants from a Black, Asian, or other minority ethnic group showed a larger estimated effect than the many White participants.\nOutpatients with asymptomatic or mild disease\nThere are no studies published in populations with asymptomatic infection or mild disease."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Systemic corticosteroids probably slightly reduce all-cause mortality up to 30 days in people hospitalised because of symptomatic COVID-19, while the evidence is very uncertain about the effect on all-cause mortality up to 120 days. For younger people (under 70 years of age) there was a potential advantage, as well as for Black, Asian, or people of a minority ethnic group; further subgroup analyses showed no relevant effects. Evidence related to the most effective type, dose, or timing of systemic corticosteroids remains immature. Currently, there is no evidence on asymptomatic or mild disease (non-hospitalised participants). Due to the low to very low certainty of the current evidence, we cannot assess safety adequately to rule out harmful effects of the treatment, therefore there is an urgent need for good-quality safety data. Findings of equity-related subgroup analyses should be interpreted with caution because of their explorative nature, low precision, and missing data.\nWe identified 42 ongoing and 23 completed studies lacking published results or relevant information on the study design, suggesting there may be possible changes of the effect estimates and certainty of the evidence in the future."
+    }
+  ],
+  "pls_title": "Are corticosteroids (anti-inflammatory medicines) given orally or by injection an effective treatment for people with COVID-19?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• Corticosteroids (anti-inflammatory medicines) given orally or by injection (systemic) are evaluated for the treatment of coronavirus disease 2019 (COVID-19).\n• Corticosteroids are effective in reducing mortality slightly.\n• We do not know whether a specific type or dose of corticosteroid is effective.\n• There are no data for people who were not hospitalised.\n• We found 42 ongoing and 23 completed studies lacking published results or relevant information on the study design, so our findings may change in the future."
+    },
+    {
+      "heading": "What are corticosteroids?",
+      "text": "Corticosteroids are anti-inflammatory drugs that reduce redness and swelling that arises due to an insult (e.g. injury, irritation) to the body. They also reduce the activity of the immune system, which defends the body against disease and infection. Corticosteroids are used to treat a variety of conditions, such as asthma, eczema, joint strains, and rheumatoid arthritis. Systemic corticosteroids can be swallowed or taken as an injection to treat problems anywhere in the body. Short-term intake of high doses can increase the risk of further infections (including fungal infections) as well as high blood sugar and blood pressure. Furthermore, it can cause swelling of the body and psychiatric side effects such as steroid psychosis and delirium."
+    },
+    {
+      "heading": "Why are corticosteroids possible treatments for COVID-19?",
+      "text": "COVID-19 affects the lungs and airways. As the immune system fights the virus, the lungs and airways become injured and inflamed, causing breathing difficulties, and hinder oxygen transport to other vital organs. Some patients’ immune systems overreact against the invading virus causing further inflammation and tissue damage in the whole body; corticosteroids may help to control this response."
+    },
+    {
+      "heading": "We wanted to know",
+      "text": "• whether and in which doses systemic corticosteroids are an effective treatment for people with COVID-19;\n• whether they cause unwanted effects; and\n• whether the benefits and harms differ with respect to equity-related aspects (e.g. age, sex, ethnicity, income by country)."
+    },
+    {
+      "heading": "We were interested in",
+      "text": "• deaths from any cause up to 30 and 120 days after treatment start;\n• whether people got better or worse after treatment;\n• unwanted effects, for example infections caught in hospital."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We looked for studies that investigated systemic corticosteroids for people with COVID-19. People could be of any age, sex, or ethnicity.\nStudies could compare corticosteroids:\n• plus usual care versus usual care with or without placebo (sham medicine);\n• versus another type of corticosteroid;\n• versus a different medicine;\n• in different doses;\n• given as early versus late treatment.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 16 studies with 9549 people. About 4532 people received corticosteroids, mostly dexamethasone (3766 people). These studies included participants mostly older than 50 years, male, and from high-income countries.\nWe also found 42 ongoing and 23 completed studies lacking published results or relevant information on the study design."
+    },
+    {
+      "heading": "Main results",
+      "text": "Eleven studies compared corticosteroids plus usual care versus usual care with or without a placebo. Only one study compared two types of corticosteroids. Four studies compared different dosing of a corticosteroid named dexamethasone. The studies included only hospitalised people with confirmed or suspected COVID-19. No studies looked at non-hospitalised people or different timing of treatment."
+    },
+    {
+      "heading": "Systemic corticosteroids plus usual care compared to usual care with or without placebo",
+      "text": "• probably reduce the number of deaths from any cause slightly, up to 30 days after treatment;\n• may slightly increase the chance of being discharged alive from hospital and may slightly decrease the risk of needing breathing support or dying;\n• we don't know if corticosteroids increase or decrease the number of deaths from any cause up to 120 days after treatment, any unwanted effects, or infections caught in the hospital."
+    },
+    {
+      "heading": "Methylprednisolone versus dexamethasone",
+      "text": "The evidence for the number of deaths up to 30 days is very uncertain (one small study only)."
+    },
+    {
+      "heading": "High-dose dexamethasone (12 mg or higher) versus low-dose dexamethasone (6 mg to 8 mg)",
+      "text": "High-dose dexamethasone:\n• may reduce the number of deaths from any cause up to 30 days after treatment;\n• may make little to no difference to the chance of being discharged alive from hospital;\n• we don't know if high-dose dexamethasone increases or decreases the number of deaths from any cause up to 120 days after treatment, any unwanted effects, or infections caught in the hospital."
+    },
+    {
+      "heading": "Equity-related subgroup analyses",
+      "text": "We examined the following equity-related aspects: ethnicity (Black, Asian or other versus White versus unknown) and place of residence (high-income versus low- and middle-income countries). For most of the subgroups, except for age and ethnicity, no evidence for differences could be identified. For death from any cause up to 30 days, participants younger than 70 years seem to benefit from corticosteroids in contrast to participants who were aged 70 years and older. Furthermore, the few participants from a Black, Asian, or minority ethnic group had a larger estimated effect than the many White participants, but these subgroup results need cautious interpretation."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are moderately confident in the evidence about the effect of corticosteroids on deaths from any cause within 30 days after treatment. However, our confidence in the other evidence is low to very low, because studies did not use the most robust methods, and the way results were recorded and reported differed across studies."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "This review updates our previous review. The evidence is up-to-date to 6 January 2022."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011637.pub2",
+  "name": "Implantable loop recorder versus conventional diagnostic workup for unexplained recurrent syncope ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The most recent syncope guideline recommends that implantable loop recorders (ILRs) are implanted in the early phase of evaluation of people with recurrent syncope of uncertain origin in the absence of high-risk criteria, and in high-risk patients after a negative evaluation. Observational and case-control studies have shown that loop recorders lead to earlier diagnosis and reduce the rate of unexplained syncopes, justifying their use in clinical practice. However, only randomised clinical trials with an emphasis on a primary outcome of specific ILR-guided diagnosis and therapy, rather than simply electrocardiogram (ECG) diagnosis, might change clinical practice."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the incidence of mortality, quality of life, adverse events and costs of ILRs versus conventional diagnostic workup in people with unexplained syncope."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 3, 2015), MEDLINE, EMBASE, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) Search Portal in April 2015. No language restriction was applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials of adult participants (i.e. ≥ 18 years old) with a diagnosis of unexplained syncope comparing ILR with standard diagnostic workup."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent review authors screened titles and abstracts of all potential studies we identified as a result of the literature search, extracted study characteristics and outcome data from included studies and assessed risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions. We contacted authors of trials for missing data. We analysed dichotomous data (all-cause mortality and aetiologic diagnosis) as risk ratios (RR) with 95% confidence intervals (CI). We used the Chi2 test to assess statistical heterogeneity (with P < 0.1) and the I² statistic to measure heterogeneity among the trials. We created a 'Summary of findings' table using the five GRADE considerations (study limitations, consistency of effect, imprecision, indirectness and publication bias) to assess the quality of a body of evidence as it relates to the studies which contribute data to the meta-analyses for the prespecified outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four trials involving a total of 579 participants. With the limitation that only two studies reported data on mortality and none of them had considered death as a primary endpoint, the meta-analysis showed no evidence of a difference in the risk of long-term mortality between participants who received ILR and those who were managed conventionally at follow-up (RR 0.97, 95% CI 0.41 to 2.30; participants = 255; studies = 2; very low quality evidence) with no evidence of heterogeneity. No data on short term mortality were available. Two studies reported data on adverse events after ILR implant. Due to the lack of data on adverse events in one of the studies' arms, a formal meta-analysis was not performed for this outcome.\nData from two trials seemed to show no difference in quality of life, although this finding was not supported by a formal analysis due to the differences in both the scores used and the way the data were reported. Data from two studies seemed to show a trend towards a reduction in syncope relapses after diagnosis in participants implanted with ILR. Cost analyses from two studies showed higher overall mean costs in the ILR group, if the costs incurred by the ILR implant were counted. The mean cost per diagnosis and the mean cost per arrhythmic diagnosis were lower for participants randomised to ILR implant.\nParticipants who underwent ILR implantation experienced higher rates of diagnosis (RR (in favour of ILR) 0.61, 95% CI 0.54 to 0.68; participants = 579; studies = 4; moderate quality evidence), as compared to participants in the standard assessment group, with no evidence of heterogeneity."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our systematic review shows that there is no evidence that an ILR-based diagnostic strategy reduces long-term mortality as compared to a standard diagnostic assessment (very low quality evidence). No data were available for short-term all-cause mortality. Moderate quality evidence shows that an ILR-based diagnostic strategy increases the rate of aetiologic diagnosis as compared to a standard diagnostic pathway. No conclusive data were available on the other end-points analysed.\nFurther trials evaluating the effect of ILRs in the diagnostic strategy of people with recurrent unexplained syncope are warranted. Future research should focus on the assessment of the ability of ILRs to change clinically relevant outcomes, such as quality of life, syncope relapse and costs."
+    }
+  ],
+  "pls_title": "Implantable loop recorder versus conventional diagnostic assessment for people with unexplained recurrent fainting",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "The aim of this study was to assess the evidence about potential benefits and harms of implantable loop recorders (ILRs) compared to standard diagnostic assessment for people with unexplained recurrent faints or blackouts."
+    },
+    {
+      "heading": "Background",
+      "text": "Syncope (commonly referred to as fainting or blackout) is a temporary loss of consciousness due to momentary lack of blood flow to the brain. It is characterised by rapid onset, short duration and spontaneous complete recovery. Syncope may be the common presentation of different conditions, spanning from harmless to life-threatening, such as cardiac arrhythmias (i.e. sudden increased or decreased heartbeat). The electrocardiogram registration during syncope allows physicians either to confirm or exclude an arrhythmia as the mechanism of syncope.\nILRs are pen drive-sized devices implanted under the skin. They have a retrospective (loop) memory that continuously records and deletes the patient's electrocardiogram. ILR implant is suggested in the early phase of the evaluation of syncope patients.\nThe aim of this systematic review was to compare the potential benefits and harms of ILRs with conventional diagnostic assessment in people with unexplained syncope."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched scientific databases and found four randomised controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) including 579 adults, which met our inclusion criteria. This review includes evidence identified up to April 2015."
+    },
+    {
+      "heading": "Key results",
+      "text": "All-cause mortality (death from any cause) was no different in people who received the ILR. Loop recorders do not seem to change quality of life, although people with ILR had a significantly higher rate of diagnosis compared to participants in the standard assessment group. Moreover, data seem to show a trend towards a reduction in syncope recurrences after diagnosis in people implanted with ILR. Finally, costs were higher in the group of participants in which the ILR was implanted but the cost per diagnosis and the cost to diagnose an arrhythmia were much lower for participants randomised to ILR implant."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "There was low quality evidence that ILR does not change mortality if compared to a standard diagnostic assessment of people with syncope. There was moderate quality evidence that ILR increases the rate of diagnosis if compared to a standard diagnostic assessment. Future research is needed in order to clarify if ILRs can improve quality of life and reduce syncope recurrences and costs.\nAll the included studies were funded: two of them by scientific societies, the remaining were partially supported by the ILR's manufacturers."
+    }
+  ]
+}

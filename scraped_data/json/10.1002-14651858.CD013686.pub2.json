@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD013686.pub2",
+  "name": "Interventions to reduce contaminated aerosols produced during dental procedures for preventing infectious diseases ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Many dental procedures produce aerosols (droplets, droplet nuclei and splatter) that harbour various pathogenic micro-organisms and may pose a risk for the spread of infections between dentist and patient. The COVID-19 pandemic has led to greater concern about this risk."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of methods used during dental treatment procedures to minimize aerosol production and reduce or neutralize contamination in aerosols."
+    },
+    {
+      "heading": "Search methods",
+      "text": "Cochrane Oral Health’s Information Specialist searched the following databases on 17 September 2020: Cochrane Oral Health’s Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (in the Cochrane Library, 2020, Issue 8), MEDLINE Ovid (from 1946); Embase Ovid (from 1980); the WHO COVID-19 Global literature on coronavirus disease; the US National Institutes of Health Trials Registry (ClinicalTrials.gov); and the Cochrane COVID-19 Study Register. We placed no restrictions on the language or date of publication."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) and controlled clinical trials (CCTs) on aerosol-generating procedures (AGPs) performed by dental healthcare providers that evaluated methods to reduce contaminated aerosols in dental clinics (excluding preprocedural mouthrinses). The primary outcomes were incidence of infection in dental staff or patients, and reduction in volume and level of contaminated aerosols in the operative environment. The secondary outcomes were cost, accessibility and feasibility."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened search results, extracted data from the included studies, assessed the risk of bias in the studies, and judged the certainty of the available evidence. We used mean differences (MDs) and 95% confidence intervals (CIs) as the effect estimate for continuous outcomes, and random-effects meta-analysis to combine data. We assessed heterogeneity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 16 studies with 425 participants aged 5 to 69 years. Eight studies had high risk of bias; eight had unclear risk of bias. No studies measured infection. All studies measured bacterial contamination using the surrogate outcome of colony-forming units (CFU). Two studies measured contamination per volume of air sampled at different distances from the patient's mouth, and 14 studies sampled particles on agar plates at specific distances from the patient's mouth.\nThe results presented below should be interpreted with caution as the evidence is very low certainty due to heterogeneity, risk of bias, small sample sizes and wide confidence intervals. Moreover, we do not know the 'minimal clinically important difference' in CFU.\nHigh-volume evacuator\nUse of a high-volume evacuator (HVE) may reduce bacterial contamination in aerosols less than one foot (~ 30 cm) from a patient's mouth (MD −47.41, 95% CI −92.76 to −2.06; 3 split-mouth RCTs, 122 participants; very high heterogeneity I² = 95%), but not at longer distances (MD −1.00, −2.56 to 0.56; 1 RCT, 80 participants).\nOne split-mouth RCT (six participants) found that HVE may not be more effective than conventional dental suction (saliva ejector or low-volume evacuator) at 40 cm (MD CFU −2.30, 95% CI −5.32 to 0.72) or 150 cm (MD −2.20, 95% CI −14.01 to 9.61).\nDental isolation combination system\nOne RCT (50 participants) found that there may be no difference in CFU between a combination system (Isolite) and a saliva ejector (low-volume evacuator) during AGPs (MD −0.31, 95% CI −0.82 to 0.20) or after AGPs (MD −0.35, −0.99 to 0.29). However, an 'n of 1' design study showed that the combination system may reduce CFU compared with rubber dam plus HVE (MD −125.20, 95% CI −174.02 to −76.38) or HVE (MD −109.30, 95% CI −153.01 to −65.59).\nRubber dam\nOne split-mouth RCT (10 participants) receiving dental treatment, found that there may be a reduction in CFU with rubber dam at one-metre (MD −16.20, 95% CI −19.36 to −13.04) and two-metre distance (MD −11.70, 95% CI −15.82 to −7.58). One RCT of 47 dental students found use of rubber dam may make no difference in CFU at the forehead (MD 0.98, 95% CI −0.73 to 2.70) and occipital region of the operator (MD 0.77, 95% CI −0.46 to 2.00).\nOne split-mouth RCT (21 participants) found that rubber dam plus HVE may reduce CFU more than cotton roll plus HVE on the patient's chest (MD −251.00, 95% CI −267.95 to −234.05) and dental unit light (MD −12.70, 95% CI −12.85 to −12.55).\nAir cleaning systems\nOne split-mouth CCT (two participants) used a local stand-alone air cleaning system (ACS), which may reduce aerosol contamination during cavity preparation (MD −66.70 CFU, 95% CI −120.15 to −13.25 per cubic metre) or ultrasonic scaling (MD −32.40, 95% CI - 51.55 to −13.25).\nAnother CCT (50 participants) found that laminar flow in the dental clinic combined with a HEPA filter may reduce contamination approximately 76 cm from the floor (MD −483.56 CFU, 95% CI −550.02 to −417.10 per cubic feet per minute per patient) and 20 cm to 30 cm from the patient's mouth (MD −319.14 CFU, 95% CI - 385.60 to −252.68).\nDisinfectants ‒ antimicrobial coolants\nTwo RCTs evaluated use of antimicrobial coolants during ultrasonic scaling. Compared with distilled water, coolant containing chlorhexidine (CHX), cinnamon extract coolant or povidone iodine may reduce CFU: CHX (MD −124.00, 95% CI −135.78 to −112.22; 20 participants), povidone iodine (MD −656.45, 95% CI −672.74 to −640.16; 40 participants), cinnamon (MD −644.55, 95% CI −668.70 to −620.40; 40 participants). CHX coolant may reduce CFU more than povidone iodine (MD −59.30, 95% CI −64.16 to −54.44; 20 participants), but not more than cinnamon extract (MD −11.90, 95% CI −35.88 to 12.08; 40 participants)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found no studies that evaluated disease transmission via aerosols in a dental setting; and no evidence about viral contamination in aerosols.\nAll of the included studies measured bacterial contamination using colony-forming units. There appeared to be some benefit from the interventions evaluated but the available evidence is very low certainty so we are unable to draw reliable conclusions.\nWe did not find any studies on methods such as ventilation, ionization, ozonisation, UV light and fogging.\nStudies are needed that measure contamination in aerosols, size distribution of aerosols and infection transmission risk for respiratory diseases such as COVID-19 in dental patients and staff."
+    }
+  ],
+  "pls_title": "Do measures that aim to reduce aerosol production during dental procedures prevent the transmission of infectious diseases?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this question important?",
+      "text": "Most dental care procedures create tiny drops of liquid that float in the air, called aerosols. For example, to remove the film of bacteria (plaque) that builds on teeth, dentists use scaling machines (scalers). Scalers vibrate at high speed and use a flow of water to wash away the plaque. This produces aerosols that are made of air, water, and the patient’s saliva, which may also contain micro-organisms such as bacteria, fungi and viruses.\nAerosols that contain bacteria, fungi or viruses can spread infectious diseases. Limiting the production of these aerosols could help to prevent disease transmission in a dental setting.\nA range of approaches can be used to reduce production of potentially infectious aerosols during dental procedures. These include:\n- ways to decontaminate the mouth before aerosols are produced, for example by using anti-microbial mouthwash;\n- ways to prevent aerosols from leaving the mouth (for example, placing a rubber sheet – known as a ‘dam’ – around the tooth that is to be treated, to isolate the treatment zone from saliva; or using a straw-like suction tube known as a saliva ejector);\n- local ventilation using a suction device (known as a high-volume evacuator) that draws up a large volume of air and evacuates aerosols from the treatment zone;\n- general ventilation, to reduce the concentration of aerosols in the air, for example by keeping windows open;\n- decontamination of air-borne aerosols, for example using ultraviolet light to sterilize the air.\nThese can be used alone, or in combination.\nWe analysed the evidence from research studies to find out whether interventions that aim to reduce aerosol production during dental procedures can prevent the transmission of infectious diseases. We also wanted to find out about the cost of the interventions, whether patients and dentists found them acceptable, and whether the interventions were easy to implement."
+    },
+    {
+      "heading": "How did we identify and evaluate the evidence?",
+      "text": "First, we searched for all relevant studies in the medical literature that compared interventions to reduce aerosol production during dental procedures against other interventions or no intervention. We then compared the results, and summarized the evidence from all the studies. Finally, we assessed how certain the evidence was. To do this, we considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorized the evidence as being of very low, low, moderate or high certainty."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 16 studies that involved a total of 425 people. Studies involved between one and 80 participants, who were aged between 5 and 69 years. Six studies were conducted in the USA, five in India, two in the UK and one each in Egypt, the Netherlands and the United Arab Emirates.\nThe studies evaluated one or more of the following devices:\n- high-volume evacuator (7 studies);\n- hands-free suction device (2 studies);\n- saliva ejector (1 study);\n- rubber dam (3 studies);\n- rubber dam with a high-volume evacuator (1 study); or\n- air cleaning system (1 study).\nNone of the studies evaluated the risk infectious disease transmission. Nor did they evaluate cost, acceptability or ease of implementation.\nAll 16 studies measured changes in the levels of bacterial contamination in aerosols, but we assessed the evidence as being of very low certainty. This means that we have very little confidence in the evidence, and that we expect further research to change the findings of our review. We therefore cannot deduce from this evidence whether there is an effect on levels of bacterial contamination. No studies investigated viral or fungal contamination."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "We do not know whether interventions that aim to reduce aerosol production during dental procedures prevent the transmission of infectious diseases. This review highlights the need for more and better-quality studies in this area."
+    },
+    {
+      "heading": "How up to date is this review?",
+      "text": "The evidence in this Cochrane Review is current to September 2020."
+    }
+  ]
+}

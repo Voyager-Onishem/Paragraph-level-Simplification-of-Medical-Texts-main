@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD005207.pub4",
+  "name": "Colony stimulating factors (including erythropoietin, granulocyte colony stimulating factor and analogues) for stroke ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Colony stimulating factors (CSFs), also called haematopoietic growth factors, regulate bone marrow production of circulating red and white cells, and platelets. Some CSFs also mobilise the release of bone marrow stem cells into the circulation. CSFs have been shown to be neuroprotective in experimental stroke."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess (1) the safety and efficacy of CSFs in people with acute or subacute ischaemic or haemorrhagic stroke, and (2) the effect of CSFs on circulating stem and blood cell counts."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (last searched September 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 4), MEDLINE (1985 to September 2012), EMBASE (1985 to September 2012) and Science Citation Index (1985 to September 2012). In an attempt to identify further published, unpublished and ongoing trials we contacted manufacturers and principal investigators of trials (last contacted April 2012). We also searched reference lists of relevant articles and reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials recruiting people with acute or subacute ischaemic or haemorrhagic stroke. CSFs included stem cell factor (SCF), erythropoietin (EPO), granulocyte colony stimulating factor (G-CSF), granulocyte-macrophage colony stimulating factor (GM-CSF), macrophage-colony stimulating factor (M-CSF, CSF-1), thrombopoietin (TPO), or analogues of these. The primary outcome was functional outcome at the end of the trial. Secondary outcomes included safety at the end of treatment, death at the end of follow-up, infarct volume and haematology measures."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors (TE and NS) independently extracted data and assessed trial quality. We contacted study authors for additional information."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 11 studies involving 1275 participants. In three trials (n = 782), EPO therapy was associated with a significant increase in death by the end of the trial (odds ratio (OR) 1.98, 95% confidence interval (CI) 1.19 to 3.3, P = 0.009) and a non-significant increase in serious adverse events. EPO significantly increased the red cell count with no effect on platelet or white cell count, or infarct volume. Two small trials of carbamylated EPO have been completed but have yet to be reported. We included eight small trials (n = 548) of G-CSF. G-CSF was associated with a non-significant reduction in early impairment (mean difference (MD) -0.4, 95% CI -1.82 to 1.01, P = 0.58) but had no effect on functional outcome at the end of the trial. G-CSF significantly elevated the white cell count and the CD34+ cell count, but had no effect on infarct volume. Further trials of G-CSF are ongoing."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There are significant safety concerns regarding EPO therapy for stroke. It is too early to know whether other CSFs improve functional outcome."
+    }
+  ],
+  "pls_title": "Colony stimulating factors (including erythropoietin, granulocyte colony stimulating factor and analogues) for stroke",
+  "pls_type": "long",
+  "pls": "Colony stimulating factors (CSFs) are naturally occurring hormones that control the production of circulating blood cells by the bone marrow. Some CSFs also release stem cells from the bone marrow into the blood stream; these could help the brain repair itself after stroke. In experiments of stroke, CSFs show the potential to improve disability caused by a stroke. In this analysis, we assessed the effect of CSFs on outcome after stroke using data from clinical trials of people with recent stroke. We included a total of 11 studies and 1275 participants. A higher death rate was observed in participants treated with erythropoietin (EPO) in three trials (782 participants); whether further trials of EPO will be performed early after stroke remains unclear. In eight small trials involving 548 participants, patterns of improvement after a stroke were observed using granulocyte colony stimulating factor (G-CSF) and further trials are ongoing. Currently, there is insufficient evidence to support the use of CSFs in the treatment of people with recent stroke."
+}

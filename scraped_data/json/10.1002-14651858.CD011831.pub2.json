@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011831.pub2",
+  "name": "Chlorpromazine versus penfluridol for schizophrenia",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The efficacy of chlorpromazine, a benchmark antipsychotic, has not been fully assessed in direct comparison with different individual antipsychotics. Penfluridol is another old antipsychotic with a long half-life so one oral dose may last up to one week. This could confer advantage."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the clinical effects of chlorpromazine compared with penfluridol for adults with schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "On 31 March 2017, we searched the Cochrane Schizophrenia Group’s Study-Based Register of Trials which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. There are no language, date, document type, or publication status limitations for inclusion of records in the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised clinical trials focusing on chlorpromazine versus penfluridol for adults with schizophrenia or related disorders. Outcomes of interest were death, service utilisation, global state, mental state, adverse effects and leaving the study early. We included trials meeting our selection criteria and reporting useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention-to-treat basis. For continuous data, we planned to estimate the mean difference (MD) between groups and its 95% CI. We employed a fixed-effect model for analyses. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "The review includes three studies with a total of 130 participants. Short-term results for hospital admissions showed no clear difference between chlorpromazine and penfluridol (1 RCT, n = 29, RR 0.19, 95% CI 0.01 to 3.60, low-quality evidence ). No clear difference in the incidence of akathisia was found at medium term (2 RCTs, n = 85, RR 0.19, 95% CI 0.04 to 1.06, low-quality evidence ), and similar numbers of participants - nearly half - from each treatment group left the study early (3 RCTs, n = 130, RR 1.21, 95% CI 0.83 to 1.77, low-quality evidence). The risk of needing additional antiparkinsonian medication was less in the chlorpromazine group (2 RCTs, n = 74, RR 0.70, 95% CI 0.51 to 0.95). No useable data reported clinically important change in global or mental state. No data were reported for relapse. No deaths were reported by the trials."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Only three small studies provided data and the quality of reporting and evidence is low. Limited data indicate the efficacy and adverse effects profiles of chlorpromazine and penfluridol are generally similar. Penfluridol, however, may confer advantage by needing to be given only once per week. Firm conclusions are not possible without good-quality trials, and where these treatments are used, such trials are justified."
+    }
+  ],
+  "pls_title": "Chlorpromazine versus penfluridol for schizophrenia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How effective is the antipsychotic chlorpromazine as a treatment for schizophrenia compared to penfluridol?"
+    },
+    {
+      "heading": "Background",
+      "text": "Schizophrenia is serious mental disorder where people experience symptoms such as hallucinations and delusions, social withdrawal, decreased motivation and poor emotional response. The main treatment for schizophrenia is antipsychotic drugs. Chlorpromazine and penfluridol are widely used antipsychotics. However, different antipsychotics have different effects, and knowing the individual effects of different antipsychotics and what particular side effects they cause could help with deciding which antipsychotic to prescribe for an individual with schizophrenia. This review compares chlorpromazine with penfluridol and is one of a series of reviews comparing chlorpromazine directly with other antipsychotics."
+    },
+    {
+      "heading": "Searching",
+      "text": "The Information Specialist of Cochrane Schizophrenia searched their trials register in March, 2017 for trials that randomised adults with schizophrenia or related disorders to receive either chlorpromazine or penfluridol. Seven records were found and checked by the review authors"
+    },
+    {
+      "heading": "Evidence found",
+      "text": "Only three randomised controlled trials, with a total of 130 participants met the review requirements and provided useable data. The quality of evidence available was low, no real difference was noted between chlorpromazine and penfluridol for hospital admissions, incidence of akathisia or numbers of participants leaving the study early. There were no deaths during the trials. We were unable to use the available data for global and mental state due to poor reporting, and no studies reported relapse data."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We can not make firm conclusions regarding the comparable effectiveness between chlorpromazine and penfluridol with such poor quality data - but penfluridol only needs to be given once per week - which could help the poor adherence to medication common with schizophrenia. Remarkably, for such old drugs, more trials that report high-quality data are needed."
+    }
+  ]
+}

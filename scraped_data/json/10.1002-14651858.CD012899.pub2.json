@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012899.pub2",
+  "name": "Urgent‐start peritoneal dialysis versus haemodialysis for people with chronic kidney disease ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Patients with chronic kidney disease (CKD) who require urgent initiation of dialysis but without having a permanent dialysis access have traditionally commenced haemodialysis (HD) using a central venous catheter (CVC). However, several studies have reported that urgent initiation of peritoneal dialysis (PD) is a viable alternative option for such patients."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to examine the benefits and harms of urgent-start PD compared to HD initiated using a CVC in adults and children with CKD requiring long-term kidney replacement therapy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Register of Studies up to 25 May 2020 for randomised controlled trials through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov.\nFor non-randomised controlled trials, MEDLINE (OVID) (1946 to 11 February 2020) and EMBASE (OVID) (1980 to 11 February 2020) were searched."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs), quasi-RCTs and non-RCTs comparing urgent-start PD to HD initiated using a CVC."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors extracted data and assessed the quality of studies independently. Additional information was obtained from the primary investigators. The estimates of effect were analysed using random-effects model and results were presented as risk ratios (RR) with 95% confidence intervals (CI). The GRADE framework was used to make judgments regarding certainty of the evidence for each outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "Overall, seven observational studies (991 participants) were included: three prospective cohort studies and four retrospective cohort studies. All the outcomes except one (bacteraemia) were graded as very low certainty of evidence given that all included studies were observational studies and reported few events resulting in imprecision, and inconsistent findings. Urgent-start PD may reduce the incidence of catheter-related bacteraemia compared with HD initiated with a CVC (2 studies, 301 participants: RR 0.13, 95% CI 0.04 to 0.41; I2 = 0%; low certainty evidence), which translated into 131 fewer bacteraemia episodes per 1000 (95% CI 89 to 145 fewer). Urgent-start PD has uncertain effects on peritonitis risk (2 studies, 301 participants: RR 1.78, 95% CI 0.23 to 13.62; I2 = 0%; very low certainty evidence), exit-site/tunnel infection (1 study, 419 participants: RR 3.99, 95% CI 1.2 to 12.05; very low certainty evidence), exit-site bleeding (1 study, 178 participants: RR 0.12, 95% CI 0.01 to 2.33; very low certainty evidence), catheter malfunction (2 studies; 597 participants: RR 0.26, 95% CI: 0.07 to 0.91; I2 = 66%; very low certainty evidence), catheter re-adjustment (2 studies, 225 participants: RR: 0.13; 95% CI 0.00 to 18.61; I2 = 92%; very low certainty evidence), technique survival (1 study, 123 participants: RR: 1.18, 95% CI 0.87 to 1.61; very low certainty evidence), or patient survival (5 studies, 820 participants; RR 0.68, 95% CI 0.44 to 1.07; I2 = 0%; very low certainty evidence) compared with HD initiated using a CVC. Two studies using different methods of measurements for hospitalisation reported that hospitalisation was similar although one study reported higher hospitalisation rates in HD initiated using a catheter compared with urgent-start PD."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared with HD initiated using a CVC, urgent-start PD may reduce the risk of bacteraemia and had uncertain effects on other complications of dialysis and technique and patient survival. In summary, there are very few studies directly comparing the outcomes of urgent-start PD and HD initiated using a CVC for patients with CKD who need to commence dialysis urgently. This evidence gap needs to be addressed in future studies."
+    }
+  ],
+  "pls_title": "Urgent-start peritoneal dialysis versus haemodialysis for people with chronic kidney disease",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Peritoneal dialysis (PD) is an established form of kidney replacement therapy using the patient’s own peritoneal membrane (inner lining of the abdomen) as a filter for dialysis. Traditionally, initiation of PD has been delayed for 2 weeks after the placement of a PD catheter to allow time for wound healing. However, some patients require dialysis urgently and are unable to wait for 2 weeks. In order to avoid an additional procedure of insertion of a catheter for haemodialysis (HD) in PD patients, there have been studies reporting the successful start of PD urgently within 2 weeks of PD catheter insertion. The review compared the outcomes of PD patients who commenced PD urgently with those HD patients who commenced dialysis using a catheter."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We performed a systemic review to look at the benefits and harms of patients with chronic kidney disease who commenced urgent PD (usually within 2 weeks of PD catheter insertion) with those who underwent HD using a dialysis catheter."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We identified 7 studies (991 participants) comparing the risks and benefits of urgent initiation of peritoneal dialysis and haemodialysis using a catheter. We found that patients who underwent urgent PD may have a lower risk of blood-stream infection (presence of bacteria in the blood) compared with patients who underwent HD using a dialysis catheter. The differences in the risks of having other infectious complications and mechanical complications of a dialysis catheter, or sustainability on the original type of dialysis treatment (PD or HD) between the two modes of dialysis were uncertain."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "Patients on PD may have a lower risk of blood stream infection compared with those on HD using a catheter. However, it is unclear whether there are any differences in other infection-related or catheter-related complications, ability to remain on the same type of dialysis treatment, and patient survival between urgent PD and HD using a catheter."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011300.pub3",
+  "name": "Immunotherapy (excluding checkpoint inhibitors) for stage I to III non‐small cell lung cancer treated with surgery or radiotherapy with curative intent ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-small cell lung cancer (NSCLC) is the most common lung cancer, accounting for approximately 80% to 85% of all cases. For people with localised NSCLC (stages I to III), it has been speculated that immunotherapy may be helpful for reducing postoperative recurrence rates, or improving the clinical outcomes of current treatment for unresectable tumours. This is an update of a Cochrane Review first published in 2017 and it includes two new randomised controlled trials (RCTs)."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of immunotherapy (excluding checkpoint inhibitors) among  people  with localised NSCLC of stages I to III who received curative intent of radiotherapy or surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases (from inception to 19 May 2021): CENTRAL, MEDLINE, Embase, CINAHL, and five trial registers. We also searched conference proceedings and reference lists of included trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs conducted in adults (≥ 18 years) diagnosed with  NSCLC stage I to III after surgical resection, and those with unresectable locally advanced stage III NSCLC receiving radiotherapy with curative intent. We included participants who underwent primary surgical treatment, postoperative radiotherapy or chemoradiotherapy if the same strategy was provided for both intervention and control groups."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently selected eligible trials, assessed risk of bias, and extracted data. We used survival analysis to pool time-to-event data, using hazard ratios (HRs). We used risk ratios (RRs) for dichotomous data, and mean differences (MDs) for continuous data, with 95% confidence intervals (CIs). Due to clinical heterogeneity (immunotherapeutic agents with different underlying mechanisms), we combined data by applying random-effects models."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 RCTs involving 5128 participants (this included 2 new trials with 188 participants since the last search dated 20 January 2017). Participants who underwent surgical resection or received curative radiotherapy were randomised to either an immunotherapy group or a control group. The immunological interventions were active immunotherapy Bacillus Calmette-Guérin (BCG) adoptive cell transfer (i.e. transfer factor (TF), tumour-infiltrating lymphocytes (TIL), dendritic cell/cytokine-induced killer (DC/CIK), antigen-specific cancer vaccines (melanoma-associated antigen 3 (MAGE-A3) and L-BLP25), and targeted natural killer (NK) cells. Seven trials were at high risk of bias for at least one of the risk of bias domains. Three trials were at low risk of bias across all domains and one small trial was at unclear risk of bias as it provided insufficient information. We included data from nine of the 11 trials in the meta-analyses involving 4863 participants.\nThere was no evidence of a difference between the immunotherapy agents and the controls on any of the following outcomes: overall survival (HR 0.94, 95% CI 0.84 to 1.05; P = 0.27; 4 trials, 3848 participants; high-quality evidence), progression-free survival (HR 0.94, 95% CI 0.86 to 1.03; P = 0.19; moderate-quality evidence), adverse events (RR 1.12, 95% CI 0.97 to 1.28; P = 0.11; 4 trials, 4126 evaluated participants; low-quality evidence), and severe adverse events (RR 1.14, 95% CI 0.92 to 1.40; 6 trials, 4546 evaluated participants; low-quality evidence).\nSurvival rates at different time points showed no evidence of a difference between immunotherapy agents and the controls. Survival rate at 1-year follow-up (RR 1.02, 95% CI 0.96 to 1.08; I2 = 57%; 7 trials, 4420 participants; low-quality evidence), 2-year follow-up (RR 1.02, 95% CI 0.93 to 1.12; 7 trials, 4420 participants; moderate-quality evidence), 3-year follow-up (RR 0.99, 95% CI 0.90 to 1.09; 7 trials, 4420 participants; I2 = 22%; moderate-quality evidence) and at 5-year follow-up (RR 0.98, 95% CI 0.86 to 1.12; I2 = 0%; 7 trials, 4389 participants; moderate-quality evidence).\nOnly one trial reported overall response rates. Two trials provided health-related quality of life results with contradicting results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on this updated review, the current literature does not provide evidence that suggests a survival benefit from adding immunotherapy (excluding checkpoint inhibitors) to conventional curative surgery or radiotherapy, for people with localised NSCLC (stages I to III). Several ongoing trials with immune checkpoints inhibitors (PD-1/PD-L1) might bring new insights into the role of immunotherapy for people with stages I to III NSCLC."
+    }
+  ],
+  "pls_title": "Effect of immunotherapy on the prognosis for stages I to III non-small cell lung cancer treated with surgery or radiotherapy with curative intent",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do treatments that help the body's immune system fight cancer cells (immunotherapy) make people with non-small cell lung cancer (NSCLC) who have had surgery or radiotherapy aimed at a cure, live longer?"
+    },
+    {
+      "heading": "Background",
+      "text": "Many people with NSCLC, who have had surgery or radiotherapy to cure their cancer, eventually die because the cancer comes back, either in the chest, or somewhere else in the body. There have been a number of trials over the years that have looked at whether immunotherapy helps people live longer. Some seemed to show a benefit, others did not."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched four computerised databases and five trial registers to 19 May 2021. We looked for all trials that randomly allocated participants to one treatment or another (randomised controlled trials, RCTs), and included adults (aged 18 years or older) with early NSCLC (stages I to III), confirmed by laboratory testing of a sample of the tumour. We found 11 RCTs, which included over 5000 participants who had received surgery or curative radiotherapy, and were randomly allocated to receive either immunotherapy or no further treatment."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that giving immunotherapy, mainly vaccine-based (aiming to activate the host immune system to induce human immune response to tumour-specific antigens), after surgery or radiotherapy did not make people live longer. People who were given vaccine-based immunotherapy did not seem to experience more side effects than the others. We did not find results that could tell us whether the addition of immunotherapy improved quality of life. At the moment, there is no evidence to support or refute giving immunotherapy (mainly vaccine-based) to people with localised NSCLC (stages I to III). RCTs in progress are testing new, more promising immunotherapy drugs (e.g. checkpoint inhibitors)."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence we found about overall survival and progression-free survival was of high and moderate quality, respectively. When we looked for evidence about how many participants lived to one, two, three, or five years, it was only moderate or low quality, because the RCTs were not very well done, and their results did not agree with each other. The evidence for both any and severe adverse events was of low quality."
+    }
+  ]
+}

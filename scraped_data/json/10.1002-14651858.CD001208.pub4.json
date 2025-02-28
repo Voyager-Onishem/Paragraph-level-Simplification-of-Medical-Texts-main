@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001208.pub4",
+  "name": "Human albumin solution for resuscitation and volume expansion in critically ill patients",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Human albumin solutions are used for a range of medical and surgical problems. Licensed indications are the emergency treatment of shock and other conditions where restoration of blood volume is urgent, such as in burns and hypoproteinaemia. Human albumin solutions are more expensive than other colloids and crystalloids."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To quantify the effect on mortality of human albumin and plasma protein fraction (PPF) administration in the management of critically ill patients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Injuries Group Specialised Register (searched 31 May 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 2), MEDLINE (Ovid) (1948 to week 3 May 2011), EMBASE (Ovid) (1980 to Week 21 2011), CINAHL (EBSCO) (1982 to May 2011), ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED) (1970 to May 2011), ISI Web of Science: Conference Proceedings Citation Index - Science (CPCI-S) (1990 to May 2011), PubMed (www.ncbi.nlm.nih.gov/sites/entrez/) (searched 10 June 2011, limit: last 60 days). Reference lists of trials and review articles were checked, and authors of identified trials were contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing albumin or PPF with no albumin or PPF or with a crystalloid solution in critically ill patients with hypovolaemia, burns or hypoalbuminaemia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We collected data on the participants, albumin solution used, mortality at the end of follow up, and quality of allocation concealment. Analysis was stratified according to patient type."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 38 trials meeting the inclusion criteria and reporting death as an outcome. There were 1,958 deaths among 10,842 trial participants.\nFor hypovolaemia, the relative risk of death following albumin administration was 1.02 (95% confidence interval (CI) 0.92 to 1.13). This estimate was heavily influenced by the results of the SAFE trial, which contributed 75.2% of the information (based on the weights in the meta-analysis). For burns, the relative risk was 2.93 (95% CI 1.28 to 6.72) and for hypoalbuminaemia the relative risk was 1.26 (95% CI 0.84 to 1.88). There was no substantial heterogeneity between the trials in the various categories (Chi2 = 26.66, df = 31, P = 0.69). The pooled relative risk of death with albumin administration was 1.05 (95% CI 0.95 to 1.16)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For patients with hypovolaemia, there is no evidence that albumin reduces mortality when compared with cheaper alternatives such as saline. There is no evidence that albumin reduces mortality in critically ill patients with burns and hypoalbuminaemia. The possibility that there may be highly selected populations of critically ill patients in which albumin may be indicated remains open to question. However, in view of the absence of evidence of a mortality benefit from albumin and the increased cost of albumin compared to alternatives such as saline, it would seem reasonable that albumin should only be used within the context of well concealed and adequately powered randomised controlled trials."
+    }
+  ],
+  "pls_title": "What is the effect of giving human albumin compared to saline to replace lost blood in critically ill or injured people",
+  "pls_type": "long",
+  "pls": "Trauma, burns or surgery can cause people to lose large amounts of blood. Fluid replacement, giving fluids intravenously (into a vein), is used to help restore blood volume and hopefully reduce the risk of dying. Blood products (including human albumin), non-blood products or combinations can be used. This review of 38 trials found no evidence that albumin reduces the risk of dying. Albumin is very expensive, in which case it may be better to use cheaper alternatives such as saline for fluid replacement."
+}

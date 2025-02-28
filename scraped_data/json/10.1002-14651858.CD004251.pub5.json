@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD004251.pub5",
+  "name": "Electrotherapy for neck pain",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Neck pain is common, disabling and costly. The effectiveness of electrotherapy as a physiotherapeutic option remains unclear. This is an update of a Cochrane review first published in 2005 and previously updated in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This systematic review assessed the short, intermediate and long-term effects of electrotherapy on pain, function, disability, patient satisfaction, global perceived effect, and quality of life in adults with neck pain with and without radiculopathy or cervicogenic headache."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, EMBASE, MANTIS, CINAHL, and ICL, without language restrictions, from their beginning to August 2012; handsearched relevant conference proceedings; and consulted content experts."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled trials (RCTs), in any language, investigating the effects of electrotherapy used primarily as unimodal treatment for neck pain. Quasi-RCTs and controlled clinical trials were excluded."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by The Cochrane Collaboration. We were unable to statistically pool any of the results, but we assessed the quality of the evidence using an adapted GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty small trials (1239 people with neck pain) containing 38 comparisons were included. Analysis was limited by trials of varied quality, heterogeneous treatment subtypes and conflicting results. The main findings for reduction of neck pain by treatment with electrotherapeutic modalities were as follows.\nVery low quality evidence determined that pulsed electromagnetic field therapy (PEMF) and repetitive magnetic stimulation (rMS) were more effective than placebo, while transcutaneous electrical nerve stimulation (TENS) showed inconsistent results.\nVery low quality evidence determined that PEMF, rMS and TENS were more effective than placebo.\nLow quality evidence (1 trial, 52 participants) determined that permanent magnets (necklace) were no more effective than placebo (standardized mean difference (SMD) 0.27, 95% CI -0.27 to 0.82, random-effects model).\nVery low quality evidence showed that modulated galvanic current, iontophoresis and electric muscle stimulation (EMS) were not more effective than placebo.\nThere were four trials that reported on other outcomes such as function and global perceived effects, but none of the effects were of clinical importance. When TENS, iontophoresis and PEMF were compared to another treatment, very low quality evidence prevented us from suggesting any recommendations. No adverse side effects were reported in any of the included studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We cannot make any definite statements on the efficacy and clinical usefulness of electrotherapy modalities for neck pain. Since the evidence is of low or very low quality, we are uncertain about the estimate of the effect. Further research is very likely to change both the estimate of effect and our confidence in the results. Current evidence for PEMF, rMS, and TENS shows that these modalities might be more effective than placebo. When compared to other interventions the quality of evidence was very low thus preventing further recommendations.\nFunding bias should be considered, especially in PEMF studies. Galvanic current, iontophoresis, EMS, and a static magnetic field did not reduce pain or disability. Future trials on these interventions should have larger patient samples, include more precise standardization, and detail treatment characteristics."
+    }
+  ],
+  "pls_title": "Electrotherapy for neck pain",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Neck pain is common, disabling and costly. Electrotherapy is an umbrella term that covers a number of therapies using electric current that aim to reduce pain and improve muscle tension and function."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This updated review included 20 small trials (N = 1239). We included adults (> 18 years old) with acute whiplash or non-specific neck pain as well as chronic neck pain including degenerative changes, myofascial pain or headaches that stem from the neck. No index for severity of the disorders could be specified. The evidence was current to August 2012. The results of the trials could not be pooled because they examined different populations, types and doses of electrotherapy and comparison treatments, and measured slightly different outcomes."
+    },
+    {
+      "heading": "Key results",
+      "text": "We cannot make any definitive statements about the efficacy of electrotherapy for neck pain because of the low or very low quality of the evidence for each outcome, which in most cases was based on the results of only one trial.\nFor patients with acute neck pain, TENS possibly relieved pain better than electrical muscle stimulation, not as well as exercise and infrared light, and as well as manual therapy and ultrasound. There was no additional benefit when added to infrared light, hot packs and exercise, physiotherapy, or a combination of a neck collar, exercise and pain medication. For patients with acute whiplash, iontophoresis was no more effective than no treatment, interferential current, or a combination of traction, exercise and massage for relieving neck pain with headache.\nFor patients with chronic neck pain, TENS possibly relieved pain better than placebo and electrical muscle stimulation, not as well as exercise and infrared light, and possibly as well as manual therapy and ultrasound. Magnetic necklaces were no more effective than placebo for relieving pain; and there was no additional benefit when electrical muscle stimulation was added to either mobilisation or manipulation.\nFor patients with myofascial neck pain, TENS, FREMS (FREquency Modulated Neural Stimulation, a variation of TENS) and repetitive magnetic stimulation seemed to relieve pain better than placebo."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "About 70% of the trials were poorly conducted studies. The trials were very small, with a range of 16 to 336 participants. The data were sparse and imprecise, which suggests that results cannot be generalized to the broader population and contributes to the reduction in the quality of the evidence. Therefore, further research is very likely to change the results and our confidence in the results."
+    }
+  ]
+}

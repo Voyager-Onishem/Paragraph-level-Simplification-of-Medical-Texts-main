@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD001088.pub4",
+  "name": "Psychosocial interventions for people with both severe mental illness and substance misuse ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Even low levels of substance misuse by people with a severe mental illness can have detrimental effects."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of psychosocial interventions for reduction in substance use in people with a serious mental illness compared with standard care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Information Specialist of the Cochrane Schizophrenia Group (CSG) searched the CSG Trials Register (2 May 2018), which is based on regular searches of major medical and scientific databases."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) comparing psychosocial interventions for substance misuse with standard care in people with serious mental illness."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently selected studies, extracted data and appraised study quality. For binary outcomes, we calculated standard estimates of risk ratio (RR) and their 95% confidence intervals (CIs) on an intention-to-treat basis. For continuous outcomes, we calculated the mean difference (MD) between groups. Where meta-analyses were possible, we pooled data using a random-effects model. Using the GRADE approach, we identified seven patient-centred outcomes and assessed the quality of evidence for these within each comparison."
+    },
+    {
+      "heading": "Main results",
+      "text": "Our review now includes 41 trials with a total of 4024 participants. We have identified nine comparisons within the included trials and present a summary of our main findings for seven of these below. We were unable to summarise many findings due to skewed data or because trials did not measure the outcome of interest. In general, evidence was rated as low- or very-low quality due to high or unclear risks of bias because of poor trial methods, or inadequately reported methods, and imprecision due to small sample sizes, low event rates and wide confidence intervals.\n1. Integrated models of care versus standard care (36 months)\nNo clear differences were found between treatment groups for loss to treatment (RR 1.09, 95% CI 0.82 to 1.45; participants = 603; studies = 3; low-quality evidence), death (RR 1.18, 95% CI 0.39 to 3.57; participants = 421; studies = 2; low-quality evidence), alcohol use (RR 1.15, 95% CI 0.84 to 1.56; participants = 143; studies = 1; low-quality evidence), substance use (drug) (RR 0.89, 95% CI 0.63 to 1.25; participants = 85; studies = 1; low-quality evidence), global assessment of functioning (GAF) scores (MD 0.40, 95% CI -2.47 to 3.27; participants = 170; studies = 1; low-quality evidence), or general life satisfaction (QOLI) scores (MD 0.10, 95% CI -0.18 to 0.38; participants = 373; studies = 2; moderate-quality evidence).\n2. Non-integrated models of care versus standard care\nThere was no clear difference between treatment groups for numbers lost to treatment at 12 months (RR 1.21, 95% CI 0.73 to 1.99; participants = 134; studies = 3; very low-quality evidence).\n3. Cognitive behavioural therapy (CBT) versus standard care\nThere was no clear difference between treatment groups for numbers lost to treatment at three months (RR 1.12, 95% CI 0.44 to 2.86; participants = 152; studies = 2; low-quality evidence), cannabis use at six months (RR 1.30, 95% CI 0.79 to 2.15; participants = 47; studies = 1; very low-quality evidence) or mental state insight (IS) scores by three months (MD 0.52, 95% CI -0.78 to 1.82; participants = 105; studies = 1; low-quality evidence).\n4. Contingency management versus standard care\nWe found no clear differences between treatment groups for numbers lost to treatment at three months (RR 1.55, 95% CI 1.13 to 2.11; participants = 255; studies = 2; moderate-quality evidence), number of stimulant positive urine tests at six months (RR 0.83, 95% CI 0.65 to 1.06; participants = 176; studies = 1) or hospitalisations (RR 0.21, 95% CI 0.05 to 0.93; participants = 176; studies = 1); both low-quality evidence.\n5. Motivational interviewing (MI) versus standard care\nWe found no clear differences between treatment groups for numbers lost to treatment at six months (RR 1.71, 95% CI 0.63 to 4.64; participants = 62; studies = 1). A clear difference, favouring MI, was observed for abstaining from alcohol (RR 0.36, 95% CI 0.17 to 0.75; participants = 28; studies = 1) but not other substances (MD -0.07, 95% CI -0.56 to 0.42; participants = 89; studies = 1), and no differences were observed in mental state general severity (SCL-90-R) scores (MD -0.19, 95% CI -0.59 to 0.21; participants = 30; studies = 1). All very low-quality evidence.\n6. Skills training versus standard care\nAt 12 months, there were no clear differences between treatment groups for numbers lost to treatment (RR 1.42, 95% CI 0.20 to 10.10; participants = 122; studies = 3) or death (RR 0.15, 95% CI 0.02 to 1.42; participants = 121; studies = 1). Very low-quality, and low-quality evidence, respectively.\n7. CBT + MI versus standard care\nAt 12 months, there was no clear difference between treatment groups for numbers lost to treatment (RR 0.99, 95% CI 0.62 to 1.59; participants = 327; studies = 1; low-quality evidence), number of deaths (RR 0.60, 95% CI 0.20 to 1.76; participants = 603; studies = 4; low-quality evidence), relapse (RR 0.50, 95% CI 0.24 to 1.04; participants = 36; studies = 1; very low-quality evidence), or GAF scores (MD 1.24, 95% CI -1.86 to 4.34; participants = 445; studies = 4; very low-quality evidence). There was also no clear difference in reduction of drug use by six months (MD 0.19, 95% CI -0.22 to 0.60; participants = 119; studies = 1; low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We included 41 RCTs but were unable to use much data for analyses. There is currently no high-quality evidence to support any one psychosocial treatment over standard care for important outcomes such as remaining in treatment, reduction in substance use or improving mental or global state in people with serious mental illnesses and substance misuse. Furthermore, methodological difficulties exist which hinder pooling and interpreting results. Further high-quality trials are required which address these concerns and improve the evidence in this important area."
+    }
+  ],
+  "pls_title": "Psychosocial interventions for people with both severe mental illness and substance misuse.",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the aim of this review?",
+      "text": "The aim of this Cochrane Review is to find out if psychosocial interventions aimed at reducing substance abuse in people with a serious mental illness improve patient outcomes compared to standard care. Researchers in the Cochrane collected and analysed all relevant studies that randomly allocated people with severe mental illness and substance misuse to a psychosocial treatment or standard care to answer this question and found 41 relevant studies."
+    },
+    {
+      "heading": "Key message",
+      "text": "From these 41 studies we did not find any high-quality evidence to support any one psychosocial intervention over standard care. However, the differences in study designs made comparisons between studies problematic."
+    },
+    {
+      "heading": "What was studied in the review?",
+      "text": "“Dual” diagnosis is the term used to describe people who have a mental health problem and also have problems with drugs or alcohol. In some areas, over 50% of all those with a serious mental illness (these include schizophrenia, bipolar disorders and major depression) will have problems with drugs or alcohol that have negative and damaging effects on the illness symptoms and the way their medication works. People who have substance misuse problems can be treated via a variety of psychosocial interventions. These include motivational interviewing, or MI, that looks at people’s motivation for change; cognitive behavioural therapy, or CBT, which helps people adapt their behaviour by improving coping strategies; contingency management which rewards patients to abstain from taking substances, psycho-education for patients and their carers or family, group and individual skills training. Other interventions include provider-oriented long-term interventions unifying services to provide integrated treatment so patients do not have to negotiate separate mental health and substance abuse treatment programmes. Integrated care is often linked to assertive community treatment (ACT) for patients with a dual diagnosis. There are a variety of psychosocial interventions that can be added to routine care and these can be provided individually or in various combinations. Currently, we do not know if any psychosocial treatment is better or worse than standard care or if they work better given in combination or individually."
+    },
+    {
+      "heading": "What are the main results of the review?",
+      "text": "The review found 41 relevant studies with a total of 4024 people. These studies looked at a variety of different psychosocial interventions (including CBT, MI, skills training, integrated models of care and contingency management) and compared them to standard care (the care a participant in the trial would normally receive). Main results showed there was:\n1. no real difference in terms of numbers lost to treatment (low-quality evidence);\n2. no real difference in terms of death (low-quality evidence);\n3. no real difference in alcohol or substance used (low-quality evidence);\n4. no real difference in global functioning or general life satisfaction (low- to moderate-quality evidence).\nIn addition, studies had high numbers of people leaving early, differences in outcomes measured, and differing ways in which psychosocial interventions were delivered. More large-scale, high-quality and better reported studies are required to address these shortcomings. This will better address whether psychosocial interventions are effective for people with serious mental illness and substance misuse problems."
+    },
+    {
+      "heading": "How up-to-date is this review?",
+      "text": "The review authors searched for studies that had been published up to October 2018."
+    }
+  ]
+}

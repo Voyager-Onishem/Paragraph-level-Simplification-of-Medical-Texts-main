@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD012722.pub2",
+  "name": "Methotrexate for psoriatic arthritis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Psoriatic arthritis is an inflammatory disease associated with joint damage, impaired function, pain, and reduced quality of life. Methotrexate is a disease-modifying anti-rheumatic drug (DMARD) commonly prescribed to alleviate symptoms, attenuate disease activity, and prevent progression of disease."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of methotrexate for psoriatic arthritis in adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, the WHO International Clinical Trials Registry Platform, and www.clinicaltrials.gov for relevant records. We searched all databases from inception to 29 January 2018. We handsearched included articles for additional records and contacted study authors for additional unpublished data. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials (RCTs) and quasi-RCTs that compared methotrexate versus placebo, or versus another DMARD, for adults with psoriatic arthritis. We reported on the following major outcomes: disease response (measured by psoriatic arthritis response criteria (PsARC)), function (measured by the Health Assessment Questionnaire for Rheumatoid Arthritis (HAQ)), health-related quality of life, disease activity (measured by disease activity score (28 joints) with erythrocyte sedimentation rate (DAS28-ESR)), radiographic progression, serious adverse events, and withdrawals due to adverse events."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently reviewed search results, assessed risk of bias, extracted trial data, and assessed the quality of evidence using the GRADE approach. We undertook meta-analysis only when this was meaningful."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included in this review eight RCTs conducted in an outpatient setting, in Italy, the United Kingdom, the United States of America, China, Russia, and Bangladesh. Five studies compared methotrexate versus placebo, and four studies compared methotrexate versus other DMARDs. The average age of participants varied across studies (26 to 52 years), as did the average duration of psoriatic arthritis (one to nine years). Doses of methotrexate varied from 7.5 mg to 25 mg orally per week, but most studies administered approximately 15 mg or less orally per week. Risk of bias was generally unclear or high across most domains for all studies. We considered only one study to have low risk of selection and detection bias. The main study informing results of the primary comparison (methotrexate vs placebo up to six months) was at low risk of bias for all domains except attrition bias and reporting bias.\nWe restricted reporting of results to the comparison of methotrexate versus placebo for up to six months. Low-quality evidence (downgraded due to bias and imprecision) from a single study (221 participants; methotrexate dose 15 mg orally or less per week) informed results for disease response, function, and disease activity. Disease response, measured by the proportion who responded to treatment according to PsARC (response indicates improvement), was 41/109 in the methotrexate group and 24/112 in the placebo group (risk ratio (RR) 1.76, 95% confidence interval (CI) 1.14 to 2.70). This equates to an absolute difference of 16% more responders with methotrexate (4% more to 28% more), and a number needed to treat for an additional beneficial outcome (NNTB) of 6 (95% CI 5 to 25). Mean function, measured by the HAQ (scale 0 to 3; 0 meaning no functional impairment; minimum clinically important difference 0.22), was 1.0 points with placebo and 0.3 points better (95% 0.51 better to 0.09 better) with methotrexate; absolute improvement was 10% (3% better to 17% better), and relative improvement 30% (9% better to 51% better). Mean disease activity as measured by the DAS28-ESR (scale of 0 to 10; lower score means lower disease activity; minimum clinically important difference unknown) was 3.8 points in the methotrexate group and 4.06 points in the placebo group; mean difference was -0.26 points (95% CI -0.65 to 0.13); absolute improvement was 3% (7% better to 1% worse), and relative improvement 6% (16% better to 3% worse).\nLow-quality evidence (downgraded due to risk of bias and imprecision) from three studies (n = 293) informed our results for serious adverse events and withdrawals due to adverse events. Due to low event rates, we are uncertain if methotrexate results show increased risk of serious adverse events or withdrawals due to adverse events compared to placebo. Results show 1/141 serious adverse events in the methotrexate group and 4/152 in the placebo group: RR 0.26 (95% CI 0.03 to 2.26); absolute difference was 2% fewer events with methotrexate (5% fewer to 1% more). In all, 9/141 withdrawals in the methotrexate group were due to adverse events and 7/152 in the placebo group: RR 1.32 (95% CI 0.51 to 3.42); absolute difference was 1% more withdrawals (4% fewer to 6% more).\nOne study measured health-related quality of life but did not report these results. No study measured radiographic progression."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-quality evidence suggests that low-dose (15 mg or less) oral methotrexate might be slightly more effective than placebo when taken for six months; however we are uncertain if it is more harmful. Effects of methotrexate on health-related quality of life, radiographic progression, enthesitis, dactylitis, and fatigue; its benefits beyond six months; and effects of higher-dose methotrexate have not been measured or reported in a randomised placebo-controlled trial."
+    }
+  ],
+  "pls_title": "Methotrexate for psoriatic arthritis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Psoriatic arthritis is an inflammatory condition that causes painful, swollen, and stiff joints, along with painful tendons and swollen fingers and toes. It is associated with psoriasis - a disease of the skin or nails. If severe, rheumatologists prescribe methotrexate, a disease-modifying anti-rheumatic drug (DMARD), to improve symptoms and prevent worsening. Other DMARDs might include leflunomide, ciclosporin A, sulfasalazine, and gold (although gold treatment is rarely used)."
+    },
+    {
+      "heading": "Review question",
+      "text": "We aimed to assess the benefits and harms of methotrexate compared with placebo (a fake drug) or similar drugs for adults with psoriatic arthritis. Methotrexate compared with placebo was the primary comparison. Major outcomes were disease response (number of patients with a positive response to treatment), function, health-related quality of life, disease activity, radiographic progression (bone damage over time as seen on X-rays), serious adverse events (side effects requiring hospital admission, necessitating intensive therapy, causing permanent disability or death), and withdrawals due to adverse events (side effects that cause people to stop taking the treatment)."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched for evidence up to 29 January 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included eight studies published between 1964 and 2014. All studies involved people from rheumatology clinics. Studies were conducted in Italy, United Kingdom, United States of America, China, Russia, and Bangladesh. Five studies compared methotrexate against placebo (345 people), and four studies compared methotrexate against another DMARD (leflunomide (61 people), ciclosporin A (35 people), gold (30 people), and sulfasalazine (24 people)). The average age of people included in these studies varied from 26 to 52 years. The average duration of psoriatic arthritis ranged from one to nine years. The dose of methotrexate consisted of 7.5 mg to 25 mg orally, but for most studies, 15 mg was given orally per week. In most western countries, a dose of 15 mg to 20 mg orally per week is normally used in routine practice."
+    },
+    {
+      "heading": "Key results",
+      "text": "After six months of treatment, comparison with placebo (a fake drug) showed that methotrexate resulted in the following (note that one study measured but did not report quality of life, and no studies measured radiographic progression).\nProportion who responded to treatment as measured by the Psoriatic Arthritis Response Criteria\n16% more people, or 16 more people out of 100, improved with treatment (4% more to 28% more)\n37 out of 100 people taking methotrexate improved\n21 out of 100 people taking placebo improved\nFunction (lower scores mean better function)\nFunction was improved by 10% (ranging from 3% better to 17% better), or by 0.30 points (ranging from 0.09 better to 0.51 better) on a 0 to 3 scale (this is expected to be meaningful to patients)\nPeople taking methotrexate rated their function as 0.7 point\nPeople taking placebo rated their function as 1.0 point\nDisease activity (lower scores mean less active disease)\nDisease activity improved by 3% (7% better to 1% worse), or by 0.26 points (0.65 better to 0.13 worse) on a 0 to 10 scale\nPeople taking methotrexate had a disease activity score of 3.8 points\nPeople taking placebo had a disease activity score of 4.06 points\nSerious adverse events (more events mean more harm)\n2% fewer people, or two fewer people out of 100 (5% fewer to 1% more), reported a serious adverse event with methotrexate\nOne person out of 100 people taking methotrexate had a serious adverse event\nThree out of 100 people taking placebo had a serious adverse event\nWithdrawals due to adverse events (more events means more harm)\n1% more people, or one more person out of 100 (4% fewer to 6% more), withdrew from treatment with methotrexate\nSix out of 100 people taking methotrexate withdrew\nFive out of 100 people taking placebo withdrew"
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Low-quality evidence suggests that methotrexate might lead to slightly greater benefit than placebo for some outcomes (e.g. improving function) but may be no better than placebo for other outcomes (e.g. reducing disease activity). We assessed the quality of the evidence as low due to flawed trial design and imprecision (some results are meaningful to patients and some are not). We are uncertain whether methotrexate causes more harm than placebo due to the small number of reported events."
+    }
+  ]
+}

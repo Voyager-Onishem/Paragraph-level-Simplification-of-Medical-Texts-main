@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD004905.pub6",
+  "name": "Multiple‐micronutrient supplementation for women during pregnancy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Multiple-micronutrient (MMN) deficiencies often coexist among women of reproductive age in low- and middle-income countries. They are exacerbated in pregnancy due to the increased demands of the developing fetus, leading to potentially adverse effects on the mother and baby. A consensus is yet to be reached regarding the replacement of iron and folic acid supplementation with MMNs. Since the last update of this Cochrane Review in 2017, evidence from several trials has become available. The findings of this review will be critical to inform policy on micronutrient supplementation in pregnancy."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the benefits of oral multiple-micronutrient supplementation during pregnancy on maternal, fetal and infant health outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this 2018 update, on 23 February 2018 we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies. We also contacted experts in the field for additional and ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All prospective randomised controlled trials evaluating MMN supplementation with iron and folic acid during pregnancy and its effects on pregnancy outcomes were eligible, irrespective of language or the publication status of the trials. We included cluster-randomised trials, but excluded quasi-randomised trials. Trial reports that were published as abstracts were eligible."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. We assessed the quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 21 trials (involving 142,496 women) as eligible for inclusion in this review, but only 20 trials (involving 141,849 women) contributed data. Of these 20 trials, 19 were conducted in low- and middle-income countries and compared MMN supplements with iron and folic acid to iron, with or without folic acid. One trial conducted in the UK compared MMN supplementation with placebo. In total, eight trials were cluster-randomised.\nMMN with iron and folic acid versus iron, with or without folic acid (19 trials)\nMMN supplementation probably led to a slight reduction in preterm births (average risk ratio (RR) 0.95, 95% confidence interval (CI) 0.90 to 1.01; 18 trials, 91,425 participants; moderate-quality evidence), and babies considered small-for-gestational age (SGA) (average RR 0.92, 95% CI 0.88 to 0.97; 17 trials; 57,348 participants; moderate-quality evidence), though the CI for the pooled effect for preterm births just crossed the line of no effect. MMN reduced the number of newborn infants identified as low birthweight (LBW) (average RR 0.88, 95% CI 0.85 to 0.91; 18 trials, 68,801 participants; high-quality evidence). We did not observe any differences between groups for perinatal mortality (average RR 1.00, 95% CI 0.90 to 1.11; 15 trials, 63,922 participants; high-quality evidence). MMN supplementation led to slightly fewer stillbirths (average RR 0.95, 95% CI 0.86 to 1.04; 17 trials, 97,927 participants; high-quality evidence) but, again, the CI for the pooled effect just crossed the line of no effect. MMN supplementation did not have an important effect on neonatal mortality (average RR 1.00, 95% CI 0.89 to 1.12; 14 trials, 80,964 participants; high-quality evidence). We observed little or no difference between groups for the other maternal and pregnancy outcomes: maternal anaemia in the third trimester (average RR 1.04, 95% CI 0.94 to 1.15; 9 trials, 5912 participants), maternal mortality (average RR 1.06, 95% CI 0.72 to 1.54; 6 trials, 106,275 participants), miscarriage (average RR 0.99, 95% CI 0.94 to 1.04; 12 trials, 100,565 participants), delivery via a caesarean section (average RR 1.13, 95% CI 0.99 to 1.29; 5 trials, 12,836 participants), and congenital anomalies (average RR 1.34, 95% CI 0.25 to 7.12; 2 trials, 1958 participants). However, MMN supplementation probably led to a reduction in very preterm births (average RR 0.81, 95% CI 0.71 to 0.93; 4 trials, 37,701 participants). We were unable to assess a number of prespecified, clinically important outcomes due to insufficient or non-available data.\nWhen we assessed primary outcomes according to GRADE criteria, the quality of evidence for the review overall was moderate to high. We graded the following outcomes as high quality: LBW, perinatal mortality, stillbirth, and neonatal mortality. The outcomes of preterm birth and SGA we graded as moderate quality; both were downgraded for funnel plot asymmetry, indicating possible publication bias.\nWe carried out sensitivity analyses excluding trials with high levels of sample attrition (> 20%). We found that results were consistent with the main analyses for all outcomes. We explored heterogeneity through subgroup analyses by maternal height, maternal body mass index (BMI), timing of supplementation, dose of iron, and MMN supplement formulation (UNIMMAP versus non-UNIMMAP). There was a greater reduction in preterm births for women with low BMI and among those who took non-UNIMMAP supplements. We also observed subgroup differences for maternal BMI and maternal height for SGA, indicating greater impact among women with greater BMI and height. Though we found that MMN supplementation made little or no difference to perinatal mortality, the analysis demonstrated substantial statistical heterogeneity. We explored this heterogeneity using subgroup analysis and found differences for timing of supplementation, whereby higher impact was observed with later initiation of supplementation. For all other subgroup analyses, the findings were inconclusive.\nMMN versus placebo (1 trial)\nA single trial in the UK found little or no important effect of MMN supplementation on preterm births, SGA, or LBW but did find a reduction in maternal anaemia in the third trimester (RR 0.66, 95% CI 0.51 to 0.85), when compared to placebo. This trial did not measure our other outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our findings suggest a positive impact of MMN supplementation with iron and folic acid on several birth outcomes. MMN supplementation in pregnancy led to a reduction in babies considered LBW, and probably led to a reduction in babies considered SGA. In addition, MMN probably reduced preterm births. No important benefits or harms of MMN supplementation were found for mortality outcomes (stillbirths, perinatal and neonatal mortality). These findings may provide some basis to guide the replacement of iron and folic acid supplements with MMN supplements for pregnant women residing in low- and middle-income countries."
+    }
+  ],
+  "pls_title": "Vitamin and mineral supplements for women during pregnancy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "In low- and middle-income countries, many women have poor diets and are deficient in nutrients and micronutrients that are required for good health. Micronutrients are vitamins and minerals that are needed by the body in very small quantities, but are important for normal functioning, growth and development. During pregnancy, these women often become more deficient because of the need to provide nutrition for the baby too, and this can negatively affect their health, along with the health of the baby."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Combining multiple micronutrients into one supplement has been suggested as a cost-effective way to achieve multiple benefits for women during pregnancy. Micronutrient deficiencies are known to interact, and a greater effect may be achieved by multiple supplementation rather than single-nutrient supplementation. However, interactions could also lead to poor absorption of some of the nutrients. High doses of some nutrients may also cause harm to the mother or her baby."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched Cochrane Pregnancy and Childbirth's Trials Register (23 February 2018). This systematic review included 21 trials (involving 142,496 women), but only 20 trials (involving 141,849 women) contributed data. The included trials compared pregnant women who supplemented their diets with multiple micronutrients (including iron and folic acid) with pregnant women who received iron (with or without folic acid) or a placebo. Overall, we found that pregnant women who received multiple-micronutrient supplementation had fewer babies that were born too small (weighing less than 2500 g), fewer babies who were smaller in size than normal for their gestational age, and fewer births that occurred before week 37 of pregnancy. The evidence for the main outcomes of low birthweight and small-for-gestational age was found to be of high quality and moderate quality, respectively."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "These findings, which have been observed elsewhere, may provide a basis to guide the replacement of iron and folic acid supplements with multiple-micronutrient supplements for pregnant women in low- and middle-income countries."
+    }
+  ]
+}

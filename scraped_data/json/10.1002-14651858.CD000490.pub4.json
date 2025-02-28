@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000490.pub4",
+  "name": "Antibiotics for asymptomatic bacteriuria in pregnancy",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Asymptomatic bacteriuria is a bacterial infection of the urine without any of the typical symptoms that are associated with a urinary infection, and occurs in 2% to 15% of pregnancies. If left untreated, up to 30% of mothers will develop acute pyelonephritis. Asymptomatic bacteriuria has been associated with low birthweight and preterm birth. This is an update of a review last published in 2015."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effect of antibiotic treatment for asymptomatic bacteriuria on the development of pyelonephritis and the risk of low birthweight and preterm birth."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched the Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) on 4 November 2018, and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCT) comparing antibiotic treatment with placebo or no treatment in pregnant women with asymptomatic bacteriuria found on antenatal screening. Trials using a cluster-RCT design and quasi-RCTs were eligible for inclusion, as were trials published in abstract or letter form, but cross-over studies were not."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data, and checked for accuracy. We assessed the quality of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 15 studies, involving over 2000 women. Antibiotic treatment compared with placebo or no treatment may reduce the incidence of pyelonephritis (average risk ratio (RR) 0.24, 95% confidence interval (CI) 0.13 to 0.41; 12 studies, 2017 women; low-certainty evidence). Antibiotic treatment may be associated with a reduction in the incidence of preterm birth (RR 0.34, 95% CI 0.13 to 0.88; 3 studies, 327 women; low-certainty evidence), and low birthweight babies (average RR 0.64, 95% CI 0.45 to 0.93; 6 studies, 1437 babies; low-certainty evidence). There may be a reduction in persistent bacteriuria at the time of delivery (average RR 0.30, 95% CI 0.18 to 0.53; 4 studies; 596 women), but the results were inconclusive for serious adverse neonatal outcomes (average RR 0.64, 95% CI 0.23 to 1.79, 3 studies; 549 babies). There were very limited data on which to estimate the effect of antibiotics on other infant outcomes, and maternal adverse effects were rarely described.\nOverall, we judged only one trial at low risk of bias across all domains; the other 14 studies were assessed as high or unclear risk of bias. Many studies lacked an adequate description of methods, and we could only judge the risk of bias as unclear, but in most studies, we assessed at least one domain at high risk of bias. We assessed the quality of the evidence for the three primary outcomes with GRADE software, and found low-certainty evidence for pyelonephritis, preterm birth, and birthweight less than 2500 g."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Antibiotic treatment may be effective in reducing the risk of pyelonephritis in pregnancy, but our confidence in the effect estimate is limited given the low certainty of the evidence. There may be a reduction in preterm birth and low birthweight with antibiotic treatment, consistent with theories about the role of infection in adverse pregnancy outcomes, but again, the confidence in the effect is limited given the low certainty of the evidence.\nResearch implications identified in this review include the need for an up-to-date cost-effectiveness evaluation of diagnostic algorithms, and more evidence to learn whether there is a low-risk group of women who are unlikely to benefit from treatment of asymptomatic bacteriuria."
+    }
+  ],
+  "pls_title": "Antibiotics for bacterial infection in the urine in pregnancy when there are no symptoms",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Can giving antibiotics to pregnant women who have a urinary infection but no symptoms improve the outcomes for women and their babies?"
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "A bacterial infection of the urine without any of the typical symptoms that are associated with a urinary infection (asymptomatic bacteriuria) occurs in a number (2% to 15%) of pregnancies. Because of the changes happening in their body, pregnant women are more likely to develop a kidney infection (pyelonephritis) if they have a urinary infection. The infection may also contribute to a baby who is born preterm (before 37 weeks), or at a low birthweight (weighs less than 2500 g (5.5 pounds))."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We found 15 randomised controlled studies involving over 2000 pregnant women with urinary infections, but no symptoms. Antibiotics may be effective in reducing the incidence of kidney infection in the mother (12 studies, 2017 women) and clearing the infection from the urine (four studies, 596 women). They may also reduce the incidence of preterm births (three studies, 327 women) and low birthweight babies (six studies, 1437 babies). None of the studies adequately assessed any adverse effects of antibiotic treatment for the mother or her baby, and often the way the study was done was not well described.\nWe assessed the three main outcomes with the GRADE approach, and found low-certainty evidence that antibiotic treatment may prevent pyelonephritis, preterm birth, and birthweight less than 2500 g."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "Antibiotic treatment may reduce the risk of kidney infections in pregnant women who have a urine infection but show no symptoms of infection. Antibiotics may also reduce the chance a baby will be born too early or have a low birthweight. However, because of the low certainty of the evidence, it is difficult to draw conclusions; more research is needed."
+    }
+  ]
+}

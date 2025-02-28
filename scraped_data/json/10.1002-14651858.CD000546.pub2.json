@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD000546.pub2",
+  "name": "Aversive smoking for smoking cessation",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Aversion therapy pairs the pleasurable stimulus of smoking a cigarette with some unpleasant stimulus. The objective is to extinguish the urge to smoke."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review has two aims: First, to determine the efficacy of rapid smoking and other aversive methods in helping smokers to stop smoking; Second, to determine whether there is a dose-response effect on smoking cessation at different levels of aversive stimulation."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Tobacco Addiction Group specialised register (latest search date October 2009) for studies which evaluated any technique of aversive smoking."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized trials which compared aversion treatments with 'inactive' procedures or which compared aversion treatments of different intensity for smoking cessation. Trials must have reported follow up of least six months from beginning of treatment."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data in duplicate on the study population, the type of aversion treatment, the outcome measure, method of randomization and completeness of follow up.\nThe outcome measure was abstinence from smoking at maximum follow up, using the strictest measure reported by the authors. Subjects lost to follow up were regarded as smokers. Where appropriate, we performed meta-analysis using a fixed effect model."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twenty-five trials met the inclusion criteria. Twelve included rapid smoking and nine used other aversion methods. Ten trials included two or more conditions allowing assessment of a dose-response to aversive stimulation. The odds ratio (OR) for abstinence following rapid smoking compared to control was 2.01 (95% confidence intervals (CI): 1.36 to 2.95). Several factors suggest that this finding should be interpreted cautiously. A funnel plot of included studies was asymmetric, due to the relative absence of small studies with negative results. Most trials had a number of serious methodological problems likely to lead to spurious positive results. The only trial using biochemical validation of all self reported cessation gave a non-significant result.\nOther aversion methods were not shown to be effective (OR 1.15, 95% CI 0.73 to 1.82). There was a borderline dose-response to the level of aversive stimulation (OR 1.67, 95% CI 0.99 to 2.81)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The existing studies provide insufficient evidence to determine the efficacy of rapid smoking, or whether there is a dose-response to aversive stimulation. Milder versions of aversive smoking seem to lack specific efficacy. Rapid smoking is an unproven method with sufficient indications of promise to warrant evaluation using modern rigorous methodology."
+    }
+  ],
+  "pls_title": "Does smoking in a way that is unpleasant help smokers to quit",
+  "pls_type": "long",
+  "pls": "Aversion treatments pair undesirable behaviours with negative sensations. In smoking cessation, several approaches have been suggested such as rapid smoking, which requires smokers to take a puff every few seconds to make smoking unpleasant. The results of the existing trials suggest that this may be effective, but the evidence is not conclusive because most of the studies of this approach have methodological problems. A recent laboratory study also suggests that the method has an active ingredient. Further research may be worthwhile."
+}

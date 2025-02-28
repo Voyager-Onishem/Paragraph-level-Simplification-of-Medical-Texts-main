@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD005465.pub4",
+  "name": "Interventions for preventing falls in older people in care facilities and hospitals",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Falls in care facilities and hospitals are common events that cause considerable morbidity and mortality for older people. This is an update of a review first published in 2010 and updated in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of interventions designed to reduce the incidence of falls in older people in care facilities and hospitals."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (August 2017); Cochrane Central Register of Controlled Trials (2017, Issue 8); and MEDLINE, Embase, CINAHL and trial registers to August 2017."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of interventions for preventing falls in older people in residential or nursing care facilities, or hospitals."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One review author screened abstracts; two review authors screened full-text articles for inclusion. Two review authors independently performed study selection, 'Risk of bias' assessment and data extraction. We calculated rate ratios (RaR) with 95% confidence intervals (CIs) for rate of falls and risk ratios (RRs) and 95% CIs for outcomes such as risk of falling (number of people falling). We pooled results where appropriate. We used GRADE to assess the quality of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-five new trials (77,869 participants) were included in this update. Overall, we included 95 trials (138,164 participants), 71 (40,374 participants; mean age 84 years; 75% women) in care facilities and 24 (97,790 participants; mean age 78 years; 52% women) in hospitals. The majority of trials were at high risk of bias in one or more domains, mostly relating to lack of blinding. With few exceptions, the quality of evidence for individual interventions in either setting was generally rated as low or very low. Risk of fracture and adverse events were generally poorly reported and, where reported, the evidence was very low-quality, which means that we are uncertain of the estimates. Only the falls outcomes for the main comparisons are reported here.\nCare facilities\nSeventeen trials compared exercise with control (typically usual care alone). We are uncertain of the effect of exercise on rate of falls (RaR 0.93, 95% CI 0.72 to 1.20; 2002 participants, 10 studies; I² = 76%; very low-quality evidence). Exercise may make little or no difference to the risk of falling (RR 1.02, 95% CI 0.88 to 1.18; 2090 participants, 10 studies; I² = 23%; low-quality evidence).\nThere is low-quality evidence that general medication review (tested in 12 trials) may make little or no difference to the rate of falls (RaR 0.93, 95% CI 0.64 to 1.35; 2409 participants, 6 studies; I² = 93%) or the risk of falling (RR 0.93, 95% CI 0.80 to 1.09; 5139 participants, 6 studies; I² = 48%).\nThere is moderate-quality evidence that vitamin D supplementation (4512 participants, 4 studies) probably reduces the rate of falls (RaR 0.72, 95% CI 0.55 to 0.95; I² = 62%), but probably makes little or no difference to the risk of falling (RR 0.92, 95% CI 0.76 to 1.12; I² = 42%). The population included in these studies had low vitamin D levels.\nMultifactorial interventions were tested in 13 trials. We are uncertain of the effect of multifactorial interventions on the rate of falls (RaR 0.88, 95% CI 0.66 to 1.18; 3439 participants, 10 studies; I² = 84%; very low-quality evidence). They may make little or no difference to the risk of falling (RR 0.92, 95% CI 0.81 to 1.05; 3153 participants, 9 studies; I² = 42%; low-quality evidence).\nHospitals\nThree trials tested the effect of additional physiotherapy (supervised exercises) in rehabilitation wards (subacute setting). The very low-quality evidence means we are uncertain of the effect of additional physiotherapy on the rate of falls (RaR 0.59, 95% CI 0.26 to 1.34; 215 participants, 2 studies; I² = 0%), or whether it reduces the risk of falling (RR 0.36, 95% CI 0.14 to 0.93; 83 participants, 2 studies; I² = 0%).\nWe are uncertain of the effects of bed and chair sensor alarms in hospitals, tested in two trials (28,649 participants) on rate of falls (RaR 0.60, 95% CI 0.27 to 1.34; I² = 0%; very low-quality evidence) or risk of falling (RR 0.93, 95% CI 0.38 to 2.24; I² = 0%; very low-quality evidence).\nMultifactorial interventions in hospitals may reduce rate of falls in hospitals (RaR 0.80, 95% CI 0.64 to 1.01; 44,664 participants, 5 studies; I² = 52%). A subgroup analysis by setting suggests the reduction may be more likely in a subacute setting (RaR 0.67, 95% CI 0.54 to 0.83; 3747 participants, 2 studies; I² = 0%; low-quality evidence). We are uncertain of the effect of multifactorial interventions on the risk of falling (RR 0.82, 95% CI 0.62 to 1.09; 39,889 participants; 3 studies; I² = 0%; very low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In care facilities: we are uncertain of the effect of exercise on rate of falls and it may make little or no difference to the risk of falling. General medication review may make little or no difference to the rate of falls or risk of falling. Vitamin D supplementation probably reduces the rate of falls but not risk of falling. We are uncertain of the effect of multifactorial interventions on the rate of falls; they may make little or no difference to the risk of falling.\nIn hospitals: we are uncertain of the effect of additional physiotherapy on the rate of falls or whether it reduces the risk of falling. We are uncertain of the effect of providing bed sensor alarms on the rate of falls or risk of falling. Multifactorial interventions may reduce rate of falls, although subgroup analysis suggests this may apply mostly to a subacute setting; we are uncertain of the effect of these interventions on risk of falling."
+    }
+  ],
+  "pls_title": "Interventions for preventing falls in older people in care facilities and hospitals",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "How effective are interventions designed to reduce falls in older people in care facilities and hospitals?"
+    },
+    {
+      "heading": "Background",
+      "text": "Falls by older people in care facilities, such as nursing homes, and hospitals are common events that may cause loss of independence, injuries, and sometimes death as a result of injury. Effective interventions to prevent falls are therefore important. Many types of interventions are in use. These include exercise, medication interventions that include vitamin D supplementation and reviews of the drugs that people are taking, environment or assistive technologies including bed or chair alarms or the use of special (low/low) beds, social environment interventions that target staff members and changes in the organisational system, and knowledge interventions. A special type of intervention is the multifactorial intervention, where the selection of single interventions such as exercise and vitamin D supplementation is based on an assessment of a person's risk factors for falling. Falls are reported in two ways in our review. One outcome is rate of falls, which is the number of falls. The other outcome is risk of falling, which is the number of people who had one or more falls."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched the healthcare literature for reports of randomised controlled trials relevant to this review up to August 2017."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "This review included 95 randomised controlled trials involving 138,164 participants. Seventy-one trials (40,374 participants) were in care facilities, and 24 (97,790 participants) in hospitals. On average, participants were 84 years old in care facilities and 78 years old in hospitals. In care facilities, 75% were women and in hospitals, 52% were women."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The majority of trials were at high risk of bias, mostly relating to lack of blinding. With few exceptions, the quality of evidence for individual interventions in either setting was generally rated as low or very low. Risk of fracture and adverse events were generally poorly reported and, where reported, the evidence was very low quality, which means that we are uncertain of the estimates."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was evidence, often from single studies, for a wide range of interventions used for preventing falls in both settings. However, in the following we summarise only the falls outcomes for four key interventions in care facilities and three key interventions in hospitals."
+    },
+    {
+      "heading": "Care facilities",
+      "text": "We are uncertain of the effect of exercise on the rate of falls (very low-quality evidence) and it may make little or no difference to the risk of falling (low-quality evidence).General medication review may make little or no difference to the rate of falls (low-quality evidence) or the risk of falling (low-quality evidence).Prescription of vitamin D probably reduces the rate of falls (moderate-quality evidence) but probably makes little or no difference to the risk of falling (moderate-quality evidence). The population included in these studies appeared to have low vitamin D levels.We are uncertain of the effect of multifactorial interventions on the rate of falls (very low-quality evidence). They may make little or no difference to the risk of falling (low-quality evidence)."
+    },
+    {
+      "heading": "Hospitals",
+      "text": "We are uncertain whether physiotherapy aimed specifically at reducing falls in addition to usual rehabilitation in the ward has an effect on the rate of falls or reduces the risk of falling (very low-quality evidence).We are uncertain of the effect of bed alarms on the rate of falls or risk of falling (very low-quality evidence).Multifactorial interventions may reduce the rate of falls, although this is more likely in a rehabilitation or geriatric ward setting (low-quality evidence). We are uncertain of the effect of these interventions on risk of falling."
+    }
+  ]
+}

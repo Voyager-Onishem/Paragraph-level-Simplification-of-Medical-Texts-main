@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011672.pub2",
+  "name": "Surfactant therapy via thin catheter in preterm infants with or at risk of respiratory distress syndrome ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-invasive respiratory support is increasingly used for the management of respiratory dysfunction in preterm infants. This approach runs the risk of under-treating those with respiratory distress syndrome (RDS), for whom surfactant administration is of paramount importance. Several techniques of minimally invasive surfactant therapy have been described. This review focuses on surfactant administration to spontaneously breathing infants via a thin catheter briefly inserted into the trachea."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objectives\nIn non-intubated preterm infants with established RDS or at risk of developing RDS to compare surfactant administration via thin catheter with:\n1. intubation and surfactant administration through an endotracheal tube (ETT); or\n2. continuation of non-invasive respiratory support without surfactant administration or intubation.\nSecondary objective\n1. To compare different methods of surfactant administration via thin catheter\nPlanned subgroup analyses included gestational age, timing of intervention, and use of sedating pre-medication during the intervention."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library; Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), on 30 September 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi-randomised trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised trials comparing surfactant administration via thin catheter (S-TC) with (1) surfactant administration through an ETT (S-ETT), or (2) continuation of non-invasive respiratory support without surfactant administration or intubation. We also included trials comparing different methods/strategies of surfactant administration via thin catheter. We included preterm infants (at < 37 weeks' gestation) with or at risk of RDS."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently assessed study quality and risk of bias and extracted data. Authors of all studies were contacted regarding study design and/or missing or unpublished data. We used the GRADE approach to assess the certainty of evidence."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 16 studies (18 publications; 2164 neonates) in this review. These studies compared surfactant administration via thin catheter with surfactant administration through an ETT with early extubation (Intubate, Surfactant, Extubate technique - InSurE) (12 studies) or with delayed extubation (2 studies), or with continuation of continuous positive airway pressure (CPAP) and rescue surfactant administration at pre-specified criteria (1 study), or compared different strategies of surfactant administration via thin catheter (1 study). Two trials reported neurosensory outcomes of of surviving participants at two years of age. Eight studies were of moderate certainty with low risk of bias, and eight studies were of lower certainty with unclear risk of bias.\nS-TC versus S-ETT in preterm infants with or at risk of RDS\nMeta-analyses of 14 studies in which S-TC was compared with S-ETT as a control demonstrated a significant decrease in risk of the composite outcome of death or bronchopulmonary dysplasia (BPD) at 36 weeks' postmenstrual age (risk ratio (RR) 0.59, 95% confidence interval (CI) 0.48 to 0.73; risk difference (RD) -0.11, 95% CI -0.15 to -0.07; number needed to treat for an additional beneficial outcome (NNTB) 9, 95% CI 7 to 16; 10 studies; 1324 infants; moderate-certainty evidence); the need for intubation within 72 hours (RR 0.63, 95% CI 0.54 to 0.74; RD -0.14, 95% CI -0.18 to -0.09; NNTB 8, 95% CI; 6 to 12; 12 studies, 1422 infants; moderate-certainty evidence); severe intraventricular haemorrhage (RR 0.63, 95% CI 0.42 to 0.96; RD -0.04, 95% CI -0.08 to -0.00; NNTB 22, 95% CI 12 to 193; 5 studies, 857 infants; low-certainty evidence); death during first hospitalisation (RR 0.63, 95% CI 0.47 to 0.84; RD -0.02, 95% CI -0.10 to 0.06; NNTB 20, 95% CI 12 to 58; 11 studies, 1424 infants; low-certainty evidence); and BPD among survivors (RR 0.57, 95% CI 0.45 to 0.74; RD -0.08, 95% CI -0.11 to -0.04; NNTB 13, 95% CI 9 to 24; 11 studies, 1567 infants; moderate-certainty evidence). There was no significant difference in risk of air leak requiring drainage (RR 0.58, 95% CI 0.33 to 1.02; RD -0.03, 95% CI -0.05 to 0.00; 6 studies, 1036 infants; low-certainty evidence). None of the studies reported on the outcome of death or survival with neurosensory disability.\nOnly one trial compared surfactant delivery via thin catheter with continuation of CPAP, and one trial compared different strategies of surfactant delivery via thin catheter, precluding meta-analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Administration of surfactant via thin catheter compared with administration via an ETT is associated with reduced risk of death or BPD, less intubation in the first 72 hours, and reduced incidence of major complications and in-hospital mortality. This procedure had a similar rate of adverse effects as surfactant administration through an ETT. Data suggest that treatment with surfactant via thin catheter may be preferable to surfactant therapy by ETT. Further well-designed studies of adequate size and power, as well as ongoing studies, will help confirm and refine these findings, clarify whether surfactant therapy via thin tracheal catheter provides benefits over continuation of non-invasive respiratory support without surfactant, address uncertainties within important subgroups, and clarify the role of sedation."
+    }
+  ],
+  "pls_title": "Surfactant therapy via thin catheter in preterm infants with or at risk of respiratory distress syndrome",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is giving surfactant via a minimally invasive technique involving placement of a thin catheter in the trachea of a spontaneously breathing infant effective and safe?"
+    },
+    {
+      "heading": "Background",
+      "text": "Respiratory distress syndrome (RDS) is an important cause of disease and death in preterm infants. It is commonly treated with a medication called surfactant, which is given by a tube (called an endotracheal tube, or ETT). The ETT is placed in the windpipe (trachea). However, more infants with RDS are now being treated from the onset with non-invasive respiratory support (through a mask) without use of an ETT. This means that the usual means of administering surfactant is not available. In such infants, surfactant therapy requires placement of an ETT, with or without the intent to remove it soon after the procedure. Surfactant improves clinical outcomes, but insertion of the ETT and mechanical ventilation (assisted breathing) can cause lung injury. This can contribute to development of a chronic lung disease known as bronchopulmonary dysplasia (BPD) and other problems. Alternatives to ETT insertion have been developed. The most popular method is the use of a thin catheter (tube) that is briefly inserted into the windpipe."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched the electronic databases and found 16 randomised trials (18 publications) that met our selection criteria. These trials involved delivery of surfactant via a thin catheter. Evidence is up-to-date as of 30 September 2020."
+    },
+    {
+      "heading": "Key results",
+      "text": "Surfactant delivery via a thin catheter to spontaneously breathing preterm infants compared with surfactant administration through an ETT was associated with a decrease in the following: risk of death or BPD, need for assisted breathing in the first 72 hours of life, severe brain bleeding, death during first hospitalisation, and BPD among survivors. We are uncertain as to whether the intervention has an important effect on air leak requiring drainage because the results are imprecise. None of the studies reported on the outcome of death or survival with disability. The procedure had rates of adverse effects similar to surfactant administration through an ETT. These data suggest that treatment with surfactant via a thin catheter is preferable to surfactant therapy through an ETT. Further well-designed studies of adequate size and power, as well as ongoing studies, are required to confirm and refine these findings, and to clarify whether surfactant therapy via a thin catheter provides benefits over continuation of non-invasive respiratory support without surfactant."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "Most of the studies had important methodological weaknesses. We used the GRADE approach to assess the certainty of evidence. We downgraded the evidence to 'moderate to low'. More good quality studies are urgently needed to address uncertainties within important subgroups."
+    }
+  ]
+}

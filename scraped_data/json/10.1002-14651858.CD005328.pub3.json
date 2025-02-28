@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD005328.pub3",
+  "name": "Intra‐articular corticosteroid for knee osteoarthritis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Knee osteoarthritis is a leading cause of chronic pain, disability, and decreased quality of life. Despite the long-standing use of intra-articular corticosteroids, there is an ongoing debate about their benefits and safety. This is an update of a Cochrane review first published in 2005."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the benefits and harms of intra-articular corticosteroids compared with sham or no intervention in people with knee osteoarthritis in terms of pain, physical function, quality of life, and safety."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and EMBASE (from inception to 3 February 2015), checked trial registers, conference proceedings, reference lists, and contacted authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised or quasi-randomised controlled trials that compared intra-articular corticosteroids with sham injection or no treatment in people with knee osteoarthritis. We applied no language restrictions."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We calculated standardised mean differences (SMDs) and 95% confidence intervals (CI) for pain, function, quality of life, joint space narrowing, and risk ratios (RRs) for safety outcomes. We combined trials using an inverse-variance random-effects meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 27 trials (13 new studies) with 1767 participants in this update. We graded the quality of the evidence as 'low' for all outcomes because treatment effect estimates were inconsistent with great variation across trials, pooled estimates were imprecise and did not rule out relevant or irrelevant clinical effects, and because most trials had a high or unclear risk of bias. Intra-articular corticosteroids appeared to be more beneficial in pain reduction than control interventions (SMD -0.40, 95% CI -0.58 to -0.22), which corresponds to a difference in pain scores of 1.0 cm on a 10-cm visual analogue scale between corticosteroids and sham injection and translates into a number needed to treat for an additional beneficial outcome (NNTB) of 8 (95% CI 6 to 13). An I2 statistic of 68% indicated considerable between-trial heterogeneity. A visual inspection of the funnel plot suggested some asymmetry (asymmetry coefficient -1.21, 95%CI -3.58 to 1.17). When stratifying results according to length of follow-up, benefits were moderate at 1 to 2 weeks after end of treatment (SMD -0.48, 95% CI -0.70 to -0.27), small to moderate at 4 to 6 weeks (SMD -0.41, 95% CI -0.61 to -0.21), small at 13 weeks (SMD -0.22, 95% CI -0.44 to 0.00), and no evidence of an effect at 26 weeks (SMD -0.07, 95% CI -0.25 to 0.11). An I2 statistic of ≥ 63% indicated a moderate to large degree of between-trial heterogeneity up to 13 weeks after end of treatment (P for heterogeneity≤0.001), and an I2 of 0% indicated low heterogeneity at 26 weeks (P=0.43). There was evidence of lower treatment effects in trials that randomised on average at least 50 participants per group (P=0.05) or at least 100 participants per group (P=0.013), in trials that used concomittant viscosupplementation (P=0.08), and in trials that used concomitant joint lavage (P≤0.001).\nCorticosteroids appeared to be more effective in function improvement than control interventions (SMD -0.33, 95% CI -0.56 to -0.09), which corresponds to a difference in functions scores of -0.7 units on standardised Western Ontario and McMaster Universities Arthritis Index (WOMAC) disability scale ranging from 0 to 10 and translates into a NNTB of 10 (95% CI 7 to 33). An I2 statistic of 69% indicated a moderate to large degree of between-trial heterogeneity. A visual inspection of the funnel plot suggested asymmetry (asymmetry coefficient -4.07, 95% CI -8.08 to -0.05). When stratifying results according to length of follow-up, benefits were small to moderate at 1 to 2 weeks after end of treatment (SMD -0.43, 95% CI -0.72 to -0.14), small to moderate at 4 to 6 weeks (SMD -0.36, 95% CI -0.63 to -0.09), and no evidence of an effect at 13 weeks (SMD -0.13, 95% CI -0.37 to 0.10) or at 26 weeks (SMD 0.06, 95% CI -0.16 to 0.28). An I2 statistic of ≥ 62% indicated a moderate to large degree of between-trial heterogeneity up to 13 weeks after end of treatment (P for heterogeneity≤0.004), and an I2 of 0% indicated low heterogeneity at 26 weeks (P=0.52). We found evidence of lower treatment effects in trials that randomised on average at least 50 participants per group (P=0.023), in unpublished trials (P=0.023), in trials that used non-intervention controls (P=0.031), and in trials that used concomitant viscosupplementation (P=0.06).\nParticipants on corticosteroids were 11% less likely to experience adverse events, but confidence intervals included the null effect (RR 0.89, 95% CI 0.64 to 1.23, I2=0%). Participants on corticosteroids were 67% less likely to withdraw because of adverse events, but confidence intervals were wide and included the null effect (RR 0.33, 95% CI 0.05 to 2.07, I2=0%). Participants on corticosteroids were 27% less likely to experience any serious adverse event, but confidence intervals were wide and included the null effect (RR 0.63, 95% CI 0.15 to 2.67, I2=0%).\nWe found no evidence of an effect of corticosteroids on quality of life compared to control (SMD -0.01, 95% CI -0.30 to 0.28, I2=0%). There was also no evidence of an effect of corticosteroids on joint space narrowing compared to control interventions (SMD -0.02, 95% CI -0.49 to 0.46)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Whether there are clinically important benefits of intra-articular corticosteroids after one to six weeks remains unclear in view of the overall quality of the evidence, considerable heterogeneity between trials, and evidence of small-study effects. A single trial included in this review described adequate measures to minimise biases and did not find any benefit of intra-articular corticosteroids.\nIn this update of the systematic review and meta-analysis, we found most of the identified trials that compared intra-articular corticosteroids with sham or non-intervention control small and hampered by low methodological quality. An analysis of multiple time points suggested that effects decrease over time, and our analysis provided no evidence that an effect remains six months after a corticosteroid injection."
+    }
+  ],
+  "pls_title": "Joint corticosteroid injection for knee osteoarthritis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We searched the literature until 3 February 2015 for studies of the effects on pain, function, quality of life, and safety of intra-articular (injected into the joint) corticosteroids compared with sham injection or no treatment in people with knee osteoarthritis."
+    },
+    {
+      "heading": "Background",
+      "text": "Osteoarthritis is a disease associated with a breakdown of cartilage of the joints, such as the knee. When the joint loses cartilage, the body responds by growing bone abnormally, which can result in the bone becoming misshapen and the joint painful and unstable. This can affect physical function and the ability to use the joint.\nAlthough osteoarthritis is generally thought to be of degenerative rather than inflammatory origin, an inflammatory component may be present at times. Intra-articular corticosteroids are potent anti-inflammatory agents injected inside the knee joint."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "After searching for all relevant studies to 3 February 2015, we found 27 randomised controlled trials with a total of 1767 participants, of a duration ranging from two weeks to one year."
+    },
+    {
+      "heading": "Key results",
+      "text": "Pain\n• People who received intra-articular corticosteroids rated improvement in their pain to be about 3 on a scale of 0 (no pain) to 10 (extreme pain) after 1 month.\n• People who received a placebo rated improvement in their pain to be about 2 on a scale of 0 (no pain) to 10 (extreme pain) after 1 month.\nAnother way of saying this is:\n• 44 people out of 100 who receive intra-articular corticosteroids respond to treatment (44%).\n• 31 people out of 100 who receive a placebo respond to treatment (31%).\n• 13 more people respond to treatment with intra-articular corticosteroids than with placebo (difference of 13%).\nNote that these numbers may considerably overestimate the true benefit due to the low quality of the evidence.\nPhysical function\n• People who received intra-articular corticosteroids rated improvement in their physical function to be about 2 on a scale of 0 (no disability) to 10 (extreme disability) after 1 month.\n• People who received a placebo rated improvement in their physical function to be about 1 on a scale of 0 (no disability) to 10 (extreme disability) after 1 month.\nAnother way of saying this is:\n• 36 people out of 100 who received intra-articular corticosteroids respond to treatment (36%).\n• 26 people out of 100 who received a placebo respond to treatment (26%).\n• 10 more people respond to treatment with intra-articular corticosteroids than with placebo (difference of 10%).\nNote that these numbers may considerably overestimate the true benefit due to the low quality of the evidence.\nSide effects\n• 13 people out of 100 who used intra-articular corticosteroids experienced side effects (13%).\n• 15 people out of 100 who used a placebo experienced side effects (15%).\n• 2 more people experienced side effects with placebo than with intra-articular corticosteroids (difference of 2%).\nDropouts because of side effects\n• 6 people out of 1000 who used intra-articular corticosteroids dropped out because of side effects (0.6%).\n• 17 people out of 1000 who used a placebo dropped out because of side effects (1.7%).\n• 11 more people dropped out because of side effects with placebo than with intra-articular corticosteroids (difference of 1.1%).\nSide effects resulting in hospitalisation, persistent disability, or death\n• 3 people out of 1000 who used intra-articular corticosteroids experienced side effects resulting in hospitalisation, persistent disability, or death (0.3%).\n• 4 people out of 1000 who used a placebo experienced side effects resulting in hospitalisation, persistent disability, or death(0.4%).\n• 1 more person experienced side effects resulting in hospitalisation, persistent disability, or death with placebo than with intra-articular corticosteroids (difference of 0.1%).\nBased on the evidence, intra-articular corticosteroids may cause a moderate improvement in pain and a small improvement in physical function, but the quality of the evidence is low and results are inconclusive. Intra-articular corticosteroids appear to cause as many side effects as a placebo. However, we do not have precise and reliable information about side effects."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We graded the quality of the evidence as low for all of our findings, which means that we have little confidence in these results. This was because results were generally highly discordant across studies and mainly based on small studies of low quality."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD006847.pub2",
+  "name": "Gefitinib for advanced non‐small cell lung cancer",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The role of gefitinib for the treatment of advanced non-small cell lung cancer (NSCLC) is evolving. We undertook a systematic review to evaluate the available evidence from all randomised trials."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness and safety of gefitinib as first-line, second-line or maintenance treatment for advanced NSCLC."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed searches in CENTRAL, MEDLINE and Embase from inception to 17 February 2017. We handsearched relevant conference proceedings, clinical trial registries and references lists of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included trials assessing gefitinib, alone or in combination with other treatment, compared to placebo or other treatments in the first- or successive-line treatment of patients with NSCLC, excluding compassionate use."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used the standard Cochrane methodology. Two authors independently assessed the search results to select those with sound methodological quality. We carried out all analyses on an intention-to-treat basis. We recorded the following outcome data: overall survival, progression-free survival, toxicity, tumour response and quality of life. We also collected data for the following subgroups: Asian ethnicity and positive epidermal growth factor receptor (EGFR) mutation."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 35 eligible randomised controlled trials (RCTs), which examined 12,089 patients.\nGeneral population\nGefitinib did not statistically improve overall survival when compared with placebo or chemotherapy in either first- or second-line settings. Second-line gefitinib prolonged time to treatment failure (TTF) (hazard ratio (HR) 0.82, 95% confidence interval (CI) 0.75 to 0.90, P < 0.0001) when compared with placebo. Maintenance gefitinib improved progression-free survival (HR 0.70, 95% CI 0.53 to 0.91, P = 0.007) after first-line therapy.\nStudies in patients of Asian ethnicity or that conducted subgroup analyses\nSecond-line gefitinib prolonged overall survival over placebo (HR 0.66, 95% CI 0.48 to 0.91, P = 0.01). In the first-line setting, progression-free survival was improved with gefitinib over chemotherapy alone (HR 0.65, 95% CI 0.43 to 0.98, P = 0.04, moderate quality of evidence). Gefitinib given in combination with a chemotherapy regimen improved progression-free survival versus either gefitinib alone or chemotherapy alone (HR 0.69, 95% CI 0.49 to 0.96, P = 0.03; HR 0.69, 95% CI 0.62 to 0.77, P < 0.00001, respectively). In the second-line setting, progression-free survival was superior in patients given gefitinib over placebo or chemotherapy (HR 0.69, 95% CI 0.52 to 0.91, P = 0.009; HR 0.71, 95% CI 0.57 to 0.88, P = 0.002; moderate quality of evidence, respectively). Combining gefitinib with chemotherapy in the second-line setting was superior to gefitinib alone (HR 0.65, 95% CI 0.43 to 0.97, P = 0.04). As maintenance therapy, gefitinib improved progression-free survival when compared with placebo (HR 0.42, 95% CI 0.33 to 0.54, P < 0.00001).\nPatients with EGFR mutation-positive tumours\nStudies in patients with EGFR mutation-positive tumours showed an improvement in progression-free survival in favour of gefitinib over first-line and second-line chemotherapy (HR 0.47, 95% CI 0.36 to 0.61, P < 0.00001; HR 0.24, 95% CI 0.12 to 0.47, P < 0.0001, respectively). Gefitinib as maintenance therapy following chemotherapy improved overall and progression-free survival (HR 0.39, 95% CI 0.15 to 0.98, P = 0.05; HR 0.17, 95% CI 0.07 to 0.41, P < 0.0001, respectively) in one phase III study when compared to placebo.\nToxicities from gefitinib included skin rash, diarrhoea and liver transaminase derangements. Toxicities from chemotherapy included anaemia, neutropenia and neurotoxicity.\nIn terms of quality of life, gefitinib improved Functional Assessment of Cancer Therapy-Lung (FACT-L) (standardised mean difference (SMD) 10.50, 95% CI 9.55 to 11.45, P < 0.000001), lung cancer subscale (SMD 3.63, 95% CI 3.08 to 4.19, P < 0.00001) and Trial Outcome Index (SMD 9.87, 95% CI 1.26 to 18.48, P < 0.00001) scores when compared with chemotherapy."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This systematic review shows that gefitinib, when compared with standard first- or second-line chemotherapy or maintenance therapy, probably has a beneficial effect on progression-free survival and quality of life in selected patient populations, particularly those with tumours bearing sensitising EGFR mutations.\nPatients with EGFR mutations lived longer when given maintenance gefitinib than those given placebo.\nOne study conducted subgroup analysis and showed that gefitinib improved overall survival over placebo in the second-line setting in patients of Asian ethnicity. All other studies did not detect any benefit on overall survival. The data analysed in this review were very heterogenous. We were limited in the amount of data that could be pooled, largely due to variations in study design. The risk of bias in most studies was moderate, with some studies not adequately addressing potential selection, attrition and reporting bias. This heterogeneity may have an impact on the applicability of the results\nCombining gefitinib with chemotherapy appears to be superior in improving progression-free survival to either gefitinib or chemotherapy alone, however further data and phase III studies in these settings are required.\nGefitinib has a favourable toxicity profile when compared with current chemotherapy regimens. Although there is no improvement in overall survival, gefitinib compares favourably with cytotoxic chemotherapy in patients with EGFR mutations with a prolongation of progression-free survival and a lesser side effect profile."
+    }
+  ],
+  "pls_title": "A comparison of gefitinib with no therapy or chemotherapy for non-small cell lung cancer",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Do patients with non-small cell lung cancer live longer if they are given gefitinib?"
+    },
+    {
+      "heading": "Background",
+      "text": "Non-small cell lung cancer (the most common type of lung cancer) is a leading cause of cancer death worldwide. People diagnosed with advanced lung cancer may be offered chemotherapy.\nSome lung cancers have been found to have a gene mutation, which is an alteration in the chromosome sequence inside the cells. This mutation affects the epidermal growth factor receptor (EGFR), which is a switch on the surface of the cell leading to uncontrolled growth and spread. Gefitinib is a drug that targets cells with mutated EGFR, thus stopping their growth. Studies have found that this mutation is more commonly found in people who are non-smokers, female, of Asian heritage and with adenocarcinoma (a type of lung cancer)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for relevant trials up to 17 February 2017. There were a total of 35 studies conducted between 2000 and 2017, evaluating 12,089 participants from multiple countries including North America, Europe and Asia."
+    },
+    {
+      "heading": "Key results",
+      "text": "This review showed that patients with advanced lung cancer do not live longer when treated with gefitinib when compared with no other treatment or chemotherapy. In people whose lung cancer has worsened after initial therapy, gefitinib may prolong the time before the cancer progresses further, but only in a selected group of patients of Asian ethnicity or with EGFR mutations. Combining gefitinib with chemotherapy probably increases the time to cancer progression over either gefitinib or chemotherapy alone. For EGFR-mutation positive patients who are stable after chemotherapy, ongoing gefitinib has been shown to improve survival when compared to placebo.\nSevere side effects, such as low red and white blood cell counts and nerve symptoms, occurred more frequently in patients given chemotherapy compared to those given gefitinib. Side effects caused by gefitinib included a skin rash, diarrhoea and liver dysfunction.\nQuality of life may be improved in favour of gefitinib when compared with chemotherapy."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "When comparing gefitinib as a first- and second-line treatment with chemotherapy, we downgraded the quality of the evidence to moderate for the outcomes overall survival and progression-free survival because the results were not precise and they may not be applicable to all patients due to the inclusion of a population only over 70 years of age. However, the quality of the evidence when we compared toxicities from gefitinib with chemotherapy was high."
+    }
+  ]
+}

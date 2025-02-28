@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD009551.pub4",
+  "name": "Polymerase chain reaction blood tests for the diagnosis of invasive aspergillosis in immunocompromised people ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of the original review published in the Cochrane Database of Systematic Reviews Issue 10, 2015.\nInvasive aspergillosis (IA) is the most common life-threatening opportunistic invasive mould infection in immunocompromised people. Early diagnosis of IA and prompt administration of appropriate antifungal treatment are critical to the survival of people with IA. Antifungal drugs can be given as prophylaxis or empirical therapy, instigated on the basis of a diagnostic strategy (the pre-emptive approach) or for treating established disease. Consequently, there is an urgent need for research into both new diagnostic tools and drug treatment strategies. Increasingly, newer methods such as polymerase chain reaction (PCR) to detect fungal nucleic acids are being investigated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To provide an overall summary of the diagnostic accuracy of PCR-based tests on blood specimens for the diagnosis of IA in immunocompromised people."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE (1946 to June 2015) and Embase (1980 to June 2015). We also searched LILACS, DARE, Health Technology Assessment, Web of Science and Scopus to June 2015. We checked the reference lists of all the studies identified by the above methods and contacted relevant authors and researchers in the field. For this review update we updated electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 3) in the Cochrane Library; MEDLINE via Ovid (June 2015 to March week 2 2018); and Embase via Ovid (June 2015 to 2018 week 12)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies that: i) compared the results of blood PCR tests with the reference standard published by the European Organisation for Research and Treatment of Cancer/Mycoses Study Group (EORTC/MSG); ii) reported data on false-positive, true-positive, false-negative and true-negative results of the diagnostic tests under investigation separately; and iii) evaluated the test(s) prospectively in cohorts of people from a relevant clinical population, defined as a group of individuals at high risk for invasive aspergillosis. Case-control and retrospective studies were excluded from the analysis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Authors independently assessed quality and extracted data. For PCR assays, we evaluated the requirement for either one or two consecutive samples to be positive for diagnostic accuracy. We investigated heterogeneity by subgroup analyses. We plotted estimates of sensitivity and specificity from each study in receiver operating characteristics (ROC) space and constructed forest plots for visual examination of variation in test accuracy. We performed meta-analyses using the bivariate model to produce summary estimates of sensitivity and specificity."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 29 primary studies (18 from the original review and 11 from this update), corresponding to 34 data sets, published between 2000 and 2018 in the meta-analyses, with a mean prevalence of proven or probable IA of 16.3 (median prevalence 11.1% , range 2.5% to 57.1%). Most patients had received chemotherapy for haematological malignancy or had undergone hematopoietic stem cell transplantation. Several PCR techniques were used among the included studies. The sensitivity and specificity of PCR for the diagnosis of IA varied according to the interpretative criteria used to define a test as positive. The summary estimates of sensitivity and specificity were 79.2% (95% confidence interval (CI) 71.0 to 85.5) and 79.6% (95% CI 69.9 to 86.6) for a single positive test result, and 59.6% (95% CI 40.7 to 76.0) and 95.1% (95% CI 87.0 to 98.2) for two consecutive positive test results."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "PCR shows moderate diagnostic accuracy when used as screening tests for IA in high-risk patient groups. Importantly the sensitivity of the test confers a high negative predictive value (NPV) such that a negative test allows the diagnosis to be excluded. Consecutive positives show good specificity in diagnosis of IA and could be used to trigger radiological and other investigations or for pre-emptive therapy in the absence of specific radiological signs when the clinical suspicion of infection is high. When a single PCR positive test is used as the diagnostic criterion for IA in a population of 100 people with a disease prevalence of 16.3% (overall mean prevalence), three people with IA would be missed (sensitivity 79.2%, 20.8% false negatives), and 17 people would be unnecessarily treated or referred for further tests (specificity of 79.6%, 21.4% false positives). If we use the two positive test requirement in a population with the same disease prevalence, it would mean that nine IA people would be missed (sensitivity 59.6%, 40.4% false negatives) and four people would be unnecessarily treated or referred for further tests (specificity of 95.1%, 4.9% false positives). Like galactomannan, PCR has good NPV for excluding disease, but the low prevalence of disease limits the ability to rule in a diagnosis. As these biomarkers detect different markers of disease, combining them is likely to prove more useful."
+    }
+  ],
+  "pls_title": "A new, non-invasive diagnostic blood test — polymerase chain reaction — for people at risk of an invasive mould infection (aspergillosis)",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We reviewed the evidence about the accuracy of polymerase chain reaction (PCR) tests for diagnosing invasive aspergillosis (IA) among people with defective immune systems from medical treatment such as chemotherapy or following organ or bone marrow transplant."
+    },
+    {
+      "heading": "Background",
+      "text": "IA is a fungal disease caused by the widespread mouldAspergillus,withAspergillus fumigatusbeing the most common species.Most people breathe inAspergillusspores every day without becoming ill. However people with weakened immune systems or lung diseases are at a higher risk of developing respiratory problems of the lungs and sinuses due toAspergillus,ranging from allergic complications to IA, which is the most common life-threatening, invasive fungal infection of people whose immune systems are compromised. Without antifungal treatment, most people with IA will die as a direct result of IA, so early diagnosis and prompt administration of appropriate antifungal treatment are both critical to the survival of these people. The ideal specimen for diagnosing IA would be lung tissue but obtaining this carries a significant risk to the patient so there is a clear need for new, non-invasive methods such as PCR to demonstrate the fungus’s presence in blood by detecting its nucleic acids."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We conducted our most recent search for studies in March 2018 and combined with an earlier search selected 29 clinical studies reporting the evaluation of PCR tests prospectively in cohorts of people at high risk of IA."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "None of the companies involved in the diagnosis of invasive fungal diseases funded any of the studies included in the review."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Most studies were at low risk of bias and low concern regarding applicability. However, differences in the reference standard may have contributed to differences we found in the distribution of cases as being classified as IA or not."
+    },
+    {
+      "heading": "Key results",
+      "text": "Several PCR techniques were used in the studies. Pooling the data from the studies showed that sensitivity and specificity of PCR for the diagnosis of IA varied (from 59% to 79.2% and from 79% to 95.2%, respectively) depending on the interpretative criteria used to define a test as positive. When used as a diagnostic criterion for IA in a population of 100 people with a disease prevalence of 16.3% (overall mean prevalence), a single PCR positive test would have missed three people with the disease, and falsely classified 17 people as having the disease, who would be treated unnecessarily or referred for further tests. A requirement of two positive tests as a diagnostic criterion in a population with the same disease prevalence would miss nine people with the disease and falsely classify four people as having the disease. These numbers should be interpreted with caution because the reference standard is based on the degree of certainty of diagnosis and is rarely proven so cannot provide consistent assessment of cases as being IA or not.\nOverall, PCR shows moderate diagnostic accuracy when used as a screening test for IA in high-risk patient groups. Importantly, when the rate of sensitivity is low, the sensitivity of the tests means that a negative result allows the diagnosis to be excluded with confidence except when the patient is receiving certain antifungal drugs. With the low prevalence of the disease, a high negative predictive value such that a negative test allows the diagnosis to be excluded."
+    }
+  ]
+}

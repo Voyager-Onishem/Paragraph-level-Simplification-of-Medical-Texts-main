@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD011975",
+  "name": "First trimester serum tests for Down's syndrome screening",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Down's syndrome occurs when a person has three, rather than two copies of chromosome 21; or the specific area of chromosome 21 implicated in causing Down's syndrome. It is the commonest congenital cause of mental disability and also leads to numerous metabolic and structural problems. It can be life-threatening, or lead to considerable ill health, although some individuals have only mild problems and can lead relatively normal lives. Having a baby with Down’s syndrome is likely to have a significant impact on family life.\nNoninvasive screening based on biochemical analysis of maternal serum or urine, or fetal ultrasound measurements, allows estimates of the risk of a pregnancy being affected and provides information to guide decisions about definitive testing. However, no test can predict the severity of problems a person with Down’s syndrome will have."
+    },
+    {
+      "heading": "Objectives",
+      "text": "The aim of this review was to estimate and compare the accuracy of first trimester serum markers for the detection of Down’s syndrome in the antenatal period, both as individual markers and as combinations of markers. Accuracy is described by the proportion of fetuses with Down’s syndrome detected by screening before birth (sensitivity or detection rate) and the proportion of women with a low risk (normal) screening test result who subsequently had a baby unaffected by Down's syndrome (specificity)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a sensitive and comprehensive literature search of MEDLINE (1980 to 25 August 2011), Embase (1980 to 25 August 2011), BIOSIS via EDINA (1985 to 25 August 2011), CINAHL via OVID (1982 to 25 August 2011), The Database of Abstracts of Reviews of Effectiveness (The Cochrane Library 25 August 2011), MEDION (25 August 2011), The Database of Systematic Reviews and Meta-Analyses in Laboratory Medicine (25 August 2011), The National Research Register (Archived 2007), Health Services Research Projects in Progress database (25 August 2011). We did forward citation searching ISI citation indices, Google Scholar and PubMed ‘related articles’. We did not apply a diagnostic test search filter. We also searched reference lists and published review articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included studies in which all women from a given population had one or more index test(s) compared to a reference standard (either chromosomal verification or macroscopic postnatal inspection). Both consecutive series and diagnostic case-control study designs were included. Randomised trials where individuals were randomised to different screening strategies and all verified using a reference standard were also eligible for inclusion. Studies in which test strategies were compared head-to-head either in the same women, or between randomised groups were identified for inclusion in separate comparisons of test strategies. We excluded studies if they included less than five Down's syndrome cases, or more than 20% of participants were not followed up."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We extracted data as test positive or test negative results for Down's and non-Down's pregnancies allowing estimation of detection rates (sensitivity) and false positive rates (1-specificity). We performed quality assessment according to QUADAS (Quality Assessment of Diagnostic Accuracy Studies) criteria. We used hierarchical summary ROC meta-analytical methods or random-effects logistic regression methods to analyse test performance and compare test accuracy as appropriate. Analyses of studies allowing direct and indirect comparisons between tests were undertaken."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 56 studies (reported in 68 publications) involving 204,759 pregnancies (including 2113 with Down's syndrome). Studies were generally of good quality, although differential verification was common with invasive testing of only high-risk pregnancies. We evaluated 78 test combinations formed from combinations of 18 different tests, with or without maternal age; ADAM12 (a disintegrin and metalloprotease), AFP (alpha-fetoprotein), inhibin, PAPP-A (pregnancy-associated plasma protein A, ITA (invasive trophoblast antigen), free βhCG (beta human chorionic gonadotrophin), PlGF (placental growth factor), SP1 (Schwangerschafts protein 1), total hCG, progesterone, uE3 (unconjugated oestriol), GHBP (growth hormone binding protein), PGH (placental growth hormone), hyperglycosylated hCG, ProMBP (proform of eosinophil major basic protein), hPL (human placental lactogen), (free αhCG, and free ßhCG to AFP ratio. Direct comparisons between two or more tests were made in 27 studies.\nMeta-analysis of the nine best performing or frequently evaluated test combinations showed that a test strategy involving maternal age and a double marker combination of PAPP-A and free ßhCG significantly outperformed the individual markers (with or without maternal age) detecting about seven out of every 10 Down's syndrome pregnancies at a 5% false positive rate (FPR). Limited evidence suggested that marker combinations involving PAPP-A may be more sensitive than those without PAPP-A."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Tests involving two markers in combination with maternal age, specifically PAPP-A, free βhCG and maternal age are significantly better than those involving single markers with and without age. They detect seven out of 10 Down's affected pregnancies for a fixed 5% FPR. The addition of further markers (triple tests) has not been shown to be statistically superior; the studies included are small with limited power to detect a difference.\nThe screening blood tests themselves have no adverse effects for the woman, over and above the risks of a routine blood test. However some women who have a ‘high risk’ screening test result, and are given amniocentesis or chorionic villus sampling (CVS) have a risk of miscarrying a baby unaffected by Down’s. Parents will need to weigh up this risk when deciding whether or not to have an amniocentesis or CVS following a ‘high risk’ screening test result."
+    }
+  ],
+  "pls_title": "Screening tests for Down’s syndrome in first three months of pregnancy",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Down's syndrome (also known as Down's or Trisomy 21) is an incurable genetic disorder that causes significant physical and mental health problems, and disabilities. However, there is wide variation in how Down's affects people. Some individuals are severely affected whilst others have mild problems and are able to lead relatively normal lives. There is no way of predicting how badly a baby might be affected.Expectant parents are given the choice to be tested for Down’s during pregnancy to assist them in making decisions. If a mother is carrying a baby with Down’s, then there is the decision about whether to terminate or continue with the pregnancy. The information offers parents the opportunity to plan for life with a Down’s child.The most accurate tests for Down’s involve testing fluid from around the baby (amniocentesis) or tissue from the placenta (chorionic villus sampling (CVS)) for the abnormal chromosomes associated with Down’s. Both these tests involve inserting needles through the mother's abdomen and are known to increase the risk of miscarriage. Thus, the tests are not suitable for offering to all pregnant women. Rather, tests that measure markers in the mother’s blood, urine or on ultrasound scans of the baby are used for screening. These screening tests are not perfect, they can miss cases of Down’s and also give a ‘high risk’ test result to a number of women whose babies are not affected by Down’s. Thus, pregnancies identified as ‘high risk’ using these screening tests require further testing using amniocentesis or CVS to confirm a diagnosis of Down’s."
+    },
+    {
+      "heading": "What we did",
+      "text": "The aim of this review was to find out which of the blood screening tests done during the first three months of pregnancy are the most accurate at predicting the risk of a pregnancy being affected by Down's. We looked at 18 different blood markers that can be used alone or in combination, taken before 14 weeks gestation, thus creating 78 screening tests fro Down’s. We found 56 studies, involving 204,759 pregnancies of which 2113 had pregnancies affected by Down's."
+    },
+    {
+      "heading": "What we found",
+      "text": "For the first 14 weeks of pregnancy, the evidence supports the use of the double test of two blood markers; pregnancy-associated plasma protein A (PAPP-A) and free beta human chorionic gonadotrophin (βhCG), in combination with the mother's age. This test detects around seven out of every 10 (68%) pregnancies affected by Down's. It is common practice to offer amniocentesis or CVS to women with a high risk test result. About one in 20 women (5%) having this test will have a ‘high risk’ result but most of these women will not be carrying a baby with Down’s. We found for tests in the first 14 weeks of pregnancy, there is little evidence to support the use of serum tests made up of more than two blood markers.Other important information to considerThe blood tests themselves have no adverse effects for the woman, over and above the risks of a routine blood test. However some women who have a ‘high risk’ screening test result, and are given amniocentesis or CVS have a risk of miscarrying a baby unaffected by Down’s. Parents will need to weigh up this risk when deciding whether or not to have an amniocentesis or CVS following a ‘high risk’ screening test result."
+    }
+  ]
+}

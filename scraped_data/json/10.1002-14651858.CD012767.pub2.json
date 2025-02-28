@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD012767.pub2",
+  "name": "Perioperative restrictive versus goal‐directed fluid therapy for adults undergoing major non‐cardiac surgery ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Perioperative fluid management is a crucial element of perioperative care and has been studied extensively recently; however, 'the right amount' remains uncertain. One concept in perioperative fluid handling is goal-directed fluid therapy (GDFT), wherein fluid administration targets various continuously measured haemodynamic variables with the aim of optimizing oxygen delivery. Another recently raised concept is that perioperative restrictive fluid therapy (RFT) may be beneficial and at least as effective as GDFT, with lower cost and less resource utilization."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate whether RFT may be more beneficial than GDFT for adults undergoing major non-cardiac surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases on 11 October 2019: Cochrane Central Register of Controlled Trials, in the Cochrane Libary; MEDLINE; and Embase. Additionally, we performed a targeted search in Google Scholar and searched trial registries (World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov) for ongoing and unpublished trials. We scanned the reference lists and citations of included trials and any relevant systematic reviews identified."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing perioperative RFT versus GDFT for adults (aged ≥ 18 years) undergoing major non-cardiac surgery."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened references for eligibility, extracted data, and assessed risk of bias. We resolved discrepancies by discussion and consulted a third review author if necessary. When necessary, we contacted trial authors to request additional information. We presented pooled estimates for dichotomous outcomes as risk ratios (RRs) with 95% confidence intervals (CIs), and for continuous outcomes as mean differences (MDs) with standard deviations (SDs). We used Review Manager 5 software to perform the meta-analyses. We used a fixed-effect model if we considered heterogeneity as not important; otherwise, we used a random-effects model. We used Poisson regression models to compare the average number of complications per person."
+    },
+    {
+      "heading": "Main results",
+      "text": "From 6396 citations, we included six studies with a total of 562 participants. Five studies were performed in participants undergoing abdominal surgery (including one study in participants undergoing cytoreductive abdominal surgery with hyperthermic intraperitoneal chemotherapy (HIPEC)), and one study was performed in participants undergoing orthopaedic surgery. In all studies, surgeries were elective. In five studies, crystalloids were used for basal infusion and colloids for boluses, and in one study, colloid was used for both basal infusion and boluses. Five studies reported the ASA (American Society of Anesthesiologists) status of participants. Most participants were ASA II (60.4%), 22.7% were ASA I, and only 16.9% were ASA III. No study participants were ASA IV. For the GDFT group, oesophageal doppler monitoring was used in three studies, uncalibrated invasive arterial pressure analysis systems in two studies, and a non-invasive arterial pressure monitoring system in one study. In all studies, GDFT optimization was conducted only intraoperatively. Only one study was at low risk of bias in all domains. The other five studies were at unclear or high risk of bias in one to three domains.\nRFT may have no effect on the rate of major complications compared to GDFT, but the evidence is very uncertain (RR 1.61, 95% CI 0.78 to 3.34; 484 participants; 5 studies; very low-certainty evidence). RFT may increase the risk of all-cause mortality compared to GDFT, but the evidence on this is also very uncertain (RD 0.03, 95% CI 0.00 to 0.06; 544 participants; 6 studies; very low-certainty evidence). In a post-hoc analysis using a Peto odds ratio (OR) or a Poisson regression model, the odds of all-cause mortality were 4.81 times greater with the use of RFT compared to GDFT, but the evidence again is very uncertain (Peto OR 4.81, 95% CI 1.38 to 16.84; 544 participants; 6 studies; very low-certainty evidence). Nevertheless, sensitivity analysis shows that exclusion of a study in which the final volume of fluid received intraoperatively was higher in the RFT group than in the GDFT group revealed no differences in mortality. Based on analysis of secondary outcomes, such as length of hospital stay (464 participants; 5 studies; very low-certainty evidence), surgery-related complications (364 participants; 4 studies; very low-certainty evidence), non-surgery-related complications (74 participants; 1 study; very low-certainty evidence), renal failure (410 participants; 4 studies; very low-certainty evidence), and quality of surgical recovery (74 participants; 1 study; very low-certainty evidence), GDFT may have no effect on the risk of these outcomes compared to RFT, but the evidence is very uncertain. Included studies provided no data on administration of vasopressors or inotropes to correct haemodynamic instability nor on cost of treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on very low-certainty evidence, we are uncertain whether RFT is inferior to GDFT in selected populations of adults undergoing major non-cardiac surgery. The evidence is based mainly on data from studies on abdominal surgery in a low-risk population. The evidence does not address higher-risk populations or other surgery types. Larger, higher-quality RCTs including a wider spectrum of surgery types and a wider spectrum of patient groups, including high-risk populations, are needed to determine effects of the intervention."
+    }
+  ],
+  "pls_title": "Is limiting the amount of fluid given to adults during surgery as good as using haemodynamic monitoring, which continuously measures changes in blood pressure or speed of blood flow inside the arteries, to guide fluid administration?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Our objective was to review evidence from randomized controlled trials (RCTs) on whether limiting the amount of fluid given to adults during surgery is as good as using haemodynamic monitoring to guide fluid administration. RCTs are clinical studies in which people are randomly put into one of two or more treatment groups. Haemodynamic monitoring is continuous, beat-to-beat measurement of changes in blood pressure or speed of blood flow inside the arteries."
+    },
+    {
+      "heading": "Background",
+      "text": "During operations, adults receive additional fluids into their veins (intravenously) to cover their normal needs for fluid and to supplement any fluids lost during surgery because of bleeding, or for other reasons, for example, increased perspiration. It still is not clearly understood how much fluid should be given to adults during surgery. In the past, a lot of fluid was given during operations because it was thought that a large amount of fluid vaporizes during surgery from open cavities, lungs, and skin, and that a lot of fluid is accumulated in operated tissues, and because people require a long fasting time before surgery. Many new studies have disputed these findings, and recently, techniques that use haemodynamic monitoring have been developed to guide doctors on how much fluid is actually necessary during surgery. This technique is called goal-directed fluid therapy (GDFT). Another concept is that simply giving less fluid than was recommended in the past may confer the same benefit. This technique is called restrictive fluid therapy (RFT). RFT is cheaper and easier to use because it does not require additional equipment."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "The evidence is current to 11 October 2019. We included studies that randomly assigned adults to intervention groups comparing the two techniques described above. We found six studies including a total of 562 participants. Five studies involved abdominal surgery, and one involved orthopaedic surgery. No studies involved emergency surgery nor patients suffering from serious medical conditions before surgery."
+    },
+    {
+      "heading": "Key results",
+      "text": "The number of deaths was slightly lower in the GDFT group compared with the RFT group, but this may be due to chance. No difference in the frequency of major complications was observed between the two groups. In addition, no differences were observed between RFT and GDFT groups in the following outcomes: length of hospital stay, surgery-related complications (related directly to the operation site, e.g. problems with wound healing), non-surgery-related complications (related to problems with other organs, e.g. heart or lungs), renal failure, and quality of surgical recovery."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "We judged the certainty of evidence obtained for this review as very low because conclusions are based on very small numbers of participants in included studies, the quality of included studies is low, and studies were performed only on selected groups of patients that did not reflect the real population of people undergoing surgery. This means that new studies are very likely to change the results of this review. The review does not answer the question of whether results would be the same for adults who have other serious health problems before surgery, or for adults undergoing other types of surgery besides abdominal surgery and orthopaedic surgery."
+    }
+  ]
+}

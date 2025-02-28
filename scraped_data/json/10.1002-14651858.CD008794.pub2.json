@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/14651858.CD008794.pub2",
+  "name": "Adverse effects of biologics: a network meta‐analysis and Cochrane overview",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Biologics are used for the treatment of rheumatoid arthritis and many other conditions. While the efficacy of biologics has been established, there is uncertainty regarding the adverse effects of this treatment. Since important risks such as lymphomas, serious infections and tuberculosis (TB) reactivation may be more common to the biologics but occur in small numbers across the various indications, we planned to combine the results from biologics used in many conditions to obtain  much needed risk estimates."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the potential adverse effects of tumor necrosis factor inhibitor (adalimumab, certolizumab, etanercept, golimumab, infliximab), interleukin (IL)-1 antagonist (anakinra), IL-6 antagonist (tocilizumab), anti-CD28 (abatacept), and anti-B cell (rituximab) therapy in patients with any disease condition except human immunodeficiency disease (HIV/AIDS)."
+    },
+    {
+      "heading": "Methods",
+      "text": "Randomized controlled trials (RCTs), controlled clinical trials (CCTs) and open-label extension (OLE) studies that studied one of the nine biologics for use in any indication (with the exception of HIV/AIDS) and that reported our pre-specified adverse outcomes (serious adverse events (SAEs), withdrawals due to adverse events (AEs), total AEs, serious infections; specific AEs, namely, tuberculosis (TB) reactivation, lymphoma and congestive heart failure) were considered for inclusion. We searched The Cochrane Library, MEDLINE, and EMBASE (to January 2010). Identifying search results and data extraction were performed independently and in duplicate. For the network meta-analysis, we performed both Bayesian mixed-treatment comparison models and arm-based generalized linear mixed models."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 160 RCTs with 48,676 participants and 46 extension studies with 11,954 participants. The median duration of RCTs was six months and 13 months for OLEs. Data were limited for TB reactivation, lymphoma, and congestive heart failure. Using standard dose, compared with control, biologics as a group were associated with a statistically significant higher rate of total AEs (odds ratio (OR) 1.28, 95% credible interval (CI) 1.09 to 1.50; number needed to treat to harm (NNTH) = 22, 95% confidence interval (CI) 14 to 60), withdrawals due to AEs (OR 1.47, 95% CI 1.20 to 1.86; NNTH = 26, 95% CI 15 to 58), serious infections (OR, 1.37, 95% CI 1.04 to 1.82, NNTH = 108 95% CI, 50 to 989) and TB reactivation (OR 4.68, 95% CI 1.18 to 18.60; NNTH = 681, 95% CI 143 to 14706).\nThe rate of SAEs, lymphoma and congestive heart failure were not statistically significantly different between biologics and control treatment.\nCertolizumab pegol (OR 4.75, 95% CI 1.52 to 18.65; NNTH = 12, 95% CI 4 to 79) and anakinra (OR 4.05, 95% CI 1.22 to 16.84; NNTH = 14, 95% CI 4 to 181) were associated with a statistically significantly higher risk of serious infections compared with control treatment. Compared with control, certolizumab was associated with a statistically significantly higher risk of SAEs (as defined in included studies: OR 1.57, 95% CI 1.06 to 2.32; NNTH = 18, 95% CI 9 to 162). Infliximab was associated with a statistically significantly higher risk of total AEs OR 1.55, 95% CI 1.01 to 2.35; NNTH = 13, 95% CI 8 to 505) and withdrawals due to AEs compared with control (OR 2.34, 95% CI 1.40 to 4.14; NNTH = 10, 95% CI 5 to 30).\nThe overall numbers were relatively small for indirect comparisons. Indirect comparisons revealed that certolizumab pegol was associated with a statistically significantly higher odds of serious infections compared with abatacept, adalimumab, etanercept, golimumab and rituximab; and anakinra was statistically significantly more likely than rituximab to be associated with serious infections. Certolizumab pegol was associated with a statistically significant higher odds of SAEs compared with adalimumab and abatacept. No statistically significant differences were noted between biologics in total AEs or withdrawals due to AEs in indirect comparisons."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall, in the short term biologics were associated with statistically significantly higher rates of serious infections, TB reactivation, total AEs and withdrawals due to AEs. Serious infections included opportunistic infections as well as bacterial infections in most studies. Some biologics had a statistically higher association with certain adverse outcomes compared with control, but there was no consistency across the outcomes so caution is needed in interpreting these results.\nThere is a need for more research regarding the long-term safety of biologics and an urgent need for comparative safety reports of different biologics; preferably without industry involvement. National and international registries and other types of large databases are relevant sources for providing complementary evidence regarding the short- and longer-term safety of biologics."
+    }
+  ],
+  "pls_title": "Side effects of nine commonly used biologics",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "This summary of a Cochrane review presents what we know from research about the side effects of biologics used for many conditions including inflammatory arthritis and other inflammatory conditions, cancer, and neurological conditions. We did not include studies on HIV/AIDS. The nine biologics we studied were: abatacept (Orencia®), adalimumab (Humira®), anakinra (Kineret®), certolizumab pegol (Cimzia®), etanercept (Enbrel®), golimumab (Simponi®), infliximab (Remicade®), rituximab (Rituxan or Mabthera®) and tocilizumab (Actmera®)."
+    },
+    {
+      "heading": "The review shows that people using these biologics in the short term",
+      "text": "- will probably be a little more likely to experience more serious infections or tuberculosis than people who take placebo (fake drug);\n- will probably be a little more likely to experience side effects or drop out of the study due to side effects than people who take placebo;\n- will probably not experience more serious side effects* (other than serious infections), cancer, or congestive heart failure than people who take placebo.\n(*A serious side effect is a life threatening adverse event that can result in death or hospitalization and disability or permanent damage).\nWe do not have precise information about other possible side effects and complications, including rare or long-term side effects."
+    },
+    {
+      "heading": "What are biologics?",
+      "text": "Biologics are a group of medications that suppress the immune system and reduce the inflammation, even though suppressing the immune system can make it slightly harder to fight off infections."
+    },
+    {
+      "heading": "Best estimate of what happens to people who take biologics in the short term (range: 1 to 63 months)",
+      "text": ""
+    },
+    {
+      "heading": "Serious side effects",
+      "text": "Among people who took any biologic, 127 out of 1,000 had serious side effects compared with 118 people out of 1,000 who took placebo (1% absolute harm)."
+    },
+    {
+      "heading": "All side effects reported",
+      "text": "Among people who took any biologic, 770 out of 1,000 had side effects compared with 724 people out of 1,000 who took placebo (5% absolute harm)."
+    },
+    {
+      "heading": "Drop-out of study due to side effects",
+      "text": "Among people who took any biologic, 137 out of 1,000 dropped out of the study due to side effects compared with 98 people out of 1,000 who took placebo (4% absolute harm)."
+    },
+    {
+      "heading": "Serious infections",
+      "text": "Among people who took any biologic, 35 people out of 1000 experienced serious infections compared with 26 people out of 1000 who took placebo (1% absolute harm)."
+    },
+    {
+      "heading": "Tuberculosis",
+      "text": "Among people who took any biologic, 20 out of 10,000 had tuberculosis compared with 4 people out of 10,000 who took placebo (0.16% absolute harm). However, there were not many cases of tuberculosis so our confidence in this result is low."
+    },
+    {
+      "heading": "Lymphoma (Cancer of the blood)",
+      "text": "Over the short time frame of these trials, there may be little or no difference in the number of people who experienced cancer while taking any biologic compared with people who took placebo. However, there were not many cases of cancer so our confidence in this result is low."
+    },
+    {
+      "heading": "Congestive heart failure",
+      "text": "There may be little or no difference in the number of people who experienced heart failure taking any biologic compared with people who took placebo. However, there were not many cases of congestive heart failure so our confidence in this result is low."
+    }
+  ]
+}

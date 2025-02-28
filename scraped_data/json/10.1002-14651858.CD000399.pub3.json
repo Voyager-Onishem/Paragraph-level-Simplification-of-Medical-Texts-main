@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000399.pub3",
+  "name": "Nitric oxide for respiratory failure in infants born at or near term",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Nitric oxide (NO) is a major endogenous regulator of vascular tone. Inhaled nitric oxide (iNO) gas has been investigated as treatment for persistent pulmonary hypertension of the newborn."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine whether treatment of hypoxaemic term and near-term newborn infants with iNO improves oxygenation and reduces rate of death and use of extracorporeal membrane oxygenation (ECMO), or affects long-term neurodevelopmental outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1), MEDLINE via PubMed (1966 to January 2016), Embase (1980 to January 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to January 2016). We searched clinical trials databases, conference proceedings and reference lists of retrieved articles for randomised controlled trials and quasi-randomised trials. We contacted the principal investigators of studies published as abstracts to ascertain the necessary information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised studies of iNO in term and near-term infants with hypoxic respiratory failure, with clinically relevant outcomes, including death, use of ECMO and oxygenation."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We analysed trial reports to assess methodological quality using the criteria of the Cochrane Neonatal Review Group. We tabulated mortality, oxygenation, short-term clinical outcomes (particularly use of ECMO) and long-term developmental outcomes.\nStatistics: For categorical outcomes, we calculated typical estimates for risk ratios and risk differences. For continuous variables, we calculated typical estimates for weighted mean differences. We used 95% confidence intervals and assumed a fixed-effect model for meta-analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 17 eligible randomised controlled studies that included term and near-term infants with hypoxia.\nTen trials compared iNO versus control (placebo or standard care without iNO) in infants with moderate or severe severity of illness scores (Ninos 1996; Roberts 1996; Wessel 1996; Davidson 1997; Ninos 1997; Mercier 1998; Christou 2000; Clark 2000; INNOVO 2007; Liu 2008). Mercier 1998 compared iNO versus control but allowed back-up treatment with iNO for infants who continued to satisfy the same criteria for severity of illness after two hours. This trial enrolled both preterm and term infants but reported most results separately for the two groups. Ninos 1997 studied only infants with congenital diaphragmatic hernia.\nOne trial compared iNO versus high-frequency ventilation (Kinsella 1997).\nSix trials enrolled infants with moderate severity of illness scores (oxygenation index (OI) or alveolar-arterial oxygen difference (A-aDO2)) and randomised them to immediate iNO treatment or iNO treatment only after deterioration to more severe criteria (Barefield 1996; Day 1996; Sadiq 1998; Cornfield 1999; Konduri 2004; Gonzalez 2010).\nInhaled nitric oxide appears to have improved outcomes in hypoxaemic term and near-term infants by reducing the incidence of the combined endpoint of death or use of ECMO (high-quality evidence). This reduction was due to a reduction in use of ECMO (with number needed to treat for an additional beneficial outcome (NNTB) of 5.3); mortality was not affected. Oxygenation was improved in approximately 50% of infants receiving iNO. The OI was decreased by a (weighted) mean of 15.1 within 30 to 60 minutes after the start of therapy, and partial pressure of arterial oxygen (PaO2) was increased by a mean of 53 mmHg. Whether infants had clear echocardiographic evidence of persistent pulmonary hypertension of the newborn (PPHN) did not appear to affect response to iNO. Outcomes of infants with diaphragmatic hernia were not improved; outcomes were slightly, but not significantly, worse with iNO (moderate-quality evidence).\nInfants who received iNO at less severe criteria did not have better clinical outcomes than those who were enrolled but received treatment only if their condition deteriorated. Fewer of the babies who received iNO early satisfied late treatment criteria, showing that earlier iNO reduced progression of the disease but did not further decrease mortality nor the need for ECMO (moderate-quality evidence). Incidence of disability, incidence of deafness and infant development scores were all similar between tested survivors who received iNO and those who did not."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Inhaled nitric oxide is effective at an initial concentration of 20 ppm for term and near-term infants with hypoxic respiratory failure who do not have a diaphragmatic hernia."
+    }
+  ],
+  "pls_title": "Nitric oxide for respiratory failure in infants born at or near term",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is inhaled nitric oxide gas, in addition to standard therapy, beneficial for babies born at full term who have lung disease leading to low levels of oxygen in the blood? Specifically, does it reduce the death rate or the number of babies who require highly invasive ECMO treatment?"
+    },
+    {
+      "heading": "Background",
+      "text": "Nitric oxide is a naturally occurring molecule that relaxes blood vessels and is active in the lungs when mixed with the gases that a patient is breathing."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "In a search updated to February 2016, review authors identified a total of 17 studies for inclusion in the review. Most of the results reported in this review were obtained from 10 studies of moderate to high quality, which compared inhaled nitric oxide (iNO) versus standard therapy without iNO. Six studies compared iNO started when babies were less sick against waiting to see if they deteriorated, then treating them later. These studies were smaller, and only one was a high-quality trial."
+    },
+    {
+      "heading": "Key results",
+      "text": "Inhaled nitric oxide is safe and can help some full-term babies with respiratory failure who have not responded to other methods of support. Inhaled nitric oxide increases levels of oxygen in babies' blood, and babies are more likely to survive without needing ECMO, a highly invasive therapy with many complications. Unfortunately, benefits of iNO are not clear in babies whose respiratory failure is due to a diaphragmatic hernia. Inhaled nitric oxide has shown no short-term or long-term adverse effects. No signs suggest that iNO given earlier is more beneficial or results in more babies treated, and the number who die or who need ECMO is not significantly reduced."
+    }
+  ]
+}

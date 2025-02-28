@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010834.pub4",
+  "name": "Anti‐IL‐5 therapies for asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is the second update of previously published reviews in the Cochrane Library (2015, first update 2017). Interleukin-5 (IL-5) is the main cytokine involved in the proliferation, maturation, activation and survival of eosinophils, which cause airway inflammation and are a classic feature of asthma. Studies of monoclonal antibodies targeting IL-5 or its receptor (IL-5R) suggest they reduce asthma exacerbations, improve health-related quality of life (HRQoL) and lung function in appropriately selected patients, justifying their inclusion in the latest guidelines."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effects of therapies targeting IL-5 signalling (anti-IL-5 or anti-IL-5Rα) with placebo on exacerbations, health-related quality-of-life (HRQoL) measures and lung function in adults and children with chronic asthma, and specifically in those with eosinophilic asthma refractory to existing treatments."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, and two trials registers, manufacturers' websites, and reference lists of included studies. The most recent search was 7 February 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials comparing mepolizumab, reslizumab and benralizumab versus placebo in adults and children with asthma."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted data and analysed outcomes using a random-effects model. We used standard methods expected by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "Seventeen studies on about 7600 participants met the inclusion criteria. Six used mepolizumab, five used reslizumab, and six used benralizumab. One study using benralizumab was terminated early due to sponsor decision and contributed no data. The studies were predominantly on people with severe eosinophilic asthma, which was similarly but variably defined. One was in children aged 6 to 17 years; nine others included children over 12 years but did not report results by age group separately. We deemed the overall risk of bias to be low, with all studies contributing data of robust methodology. We considered the certainty of the evidence for all comparisons to be high overall using the GRADE scheme, except for intravenous (IV) mepolizumab and subcutaneous (SC) reslizumab because these are not currently licensed delivery routes.\nThe anti-IL-5 treatments assessed reduced rates of 'clinically significant' asthma exacerbation (defined by treatment with systemic corticosteroids for three days or more) by approximately half in participants with severe eosinophilic asthma on standard care (at least medium-dose inhaled corticosteroids (ICS)) with poorly controlled disease (either two or more exacerbations in the preceding year or Asthma Control Questionnaire (ACQ) score of 1.5 or more), except for reslizumab SC. The rate ratios for these effects were 0.45 (95% confidence interval (CI) 0.36 to 0.55; high-certainty evidence) for mepolizumab SC, 0.53 (95% CI 0.44 to 0.64; moderate-certainty evidence) for mepolizumab IV, 0.43 (95% CI 0.33 to 0.55; high-certainty evidence) for reslizumab IV, and 0.59 (95% CI 0.52 to 0.66; high-certainty evidence) for benralizumab SC. Non-eosinophilic participants treated with benralizumab also showed a significant reduction in exacerbation rates, an effect not seen with reslizumab IV, albeit in only one study. No data were available for non-eosinophilic participants treated with mepolizumab.\nThere were improvements in validated HRQoL scores with all anti-IL-5 agents in severe eosinophilic asthma. This met the minimum clinically important difference (MCID) for the broader St. George's Respiratory Questionnaire (SGRQ; 4-point change) for benralizumab only, but the improvement in the ACQ and Asthma Quality of Life Questionnaire (AQLQ), which focus on asthma symptoms, fell short of the MCID (0.5 point change for both ACQ and AQLQ) for all of the interventions. The evidence for an improvement in HRQoL scores in non-eosinophilic participants treated with benralizumab and reslizumab was weak, but the tests for subgroup difference were negative.\nAll anti-IL-5 treatments produced small improvements in mean pre-bronchodilator forced expiratory flow in one second (FEV1) of between 0.08 L and 0.15 L in eosinophilic participants, which may not be sufficient to be detected by patients.\nThere were no excess serious adverse events with any anti-IL-5 treatment; in fact, there was a reduction in such events with benralizumab, likely arising from fewer asthma-related hospital admissions. There was no difference compared to placebo in adverse events leading to discontinuation with mepolizumab or reslizumab, but significantly more discontinued benralizumab than placebo, although the absolute numbers were small (42/2026 (2.1%) benralizumab versus 11/1227 (0.9%) placebo).\nThe implications for efficacy or adverse events are unclear."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Overall this analysis supports the use of anti-IL-5 treatments as an adjunct to standard care in people with severe eosinophilic asthma and poor symptom control. These treatments roughly halve the rate of asthma exacerbations in this population. There is limited evidence for improved HRQoL scores and lung function, which may not meet clinically detectable levels. The studies did not report safety concerns for mepolizumab or reslizumab, or any excess serious adverse events with benralizumab, although there remains a question over adverse events significant enough to prompt discontinuation.\nFurther research is needed on biomarkers for assessing treatment response, optimal duration and long-term effects of treatment, risk of relapse on withdrawal, non-eosinophilic patients, children (particularly under 12 years), comparing anti-IL-5 treatments to each other and, in patients meeting relevant eligibility criteria, to other biological (monoclonal antibody) therapies. For benralizumab, future studies should closely monitor rates of adverse events prompting discontinuation."
+    }
+  ],
+  "pls_title": "Mepolizumab, reslizumab or benralizumab for people already taking inhaled steroids and long-acting beta 2-agonists for their asthma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• The asthma medicines mepolizumab, reslizumab and benralizumab reduced asthma attacks in selected individuals with severe asthma (those with high numbers of an inflammatory cell called an eosinophil in their blood).\n• There were small improvements in quality of life questionnaire scores and breathing tests, but these may be too small to be detected by patients."
+    },
+    {
+      "heading": "Review question",
+      "text": "We considered in this review whether taking the medicines mepolizumab, reslizumab or benralizumab in addition to standard treatment (such as inhaled steroids and combination inhalers) are better than a placebo (a dummy medicine) for people with asthma."
+    },
+    {
+      "heading": "Background",
+      "text": "Asthma is an inflammatory lung condition characterised by the narrowing of the airways, breathlessness, a tight chest and reduced quality of life. It affects around 350 million people worldwide. Mepolizumab, reslizumab and benralizumab are 'anti-IL-5' treatments that may help to reduce asthma symptoms."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Seventeen studies compared mepolizumab, reslizumab or benralizumab to a placebo in about 7600 people with asthma, most with severe disease. We summarised the results as they related to the occurrence of asthma attacks requiring additional treatment, quality of life, breathing tests, effects on a blood biomarker (the numbers of a type of inflammatory cell called eosinophils), and unwanted effects."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that participants with severe asthma, who had high numbers of eosinophils in their blood, benefited from taking mepolizumab, reslizumab or benralizumab through reduced asthma attacks. There were small improvements in quality of life and breathing tests, but these may be too small to be detected by patients. We agree with international guidelines that say that these medicines can be added to standard treatment for people with severe asthma. Further research is needed to clarify some aspects, such as how to assess treatment response and how long to give treatment for."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The evidence included in this review is provided by very well-designed studies. We are confident that participants in the studies were randomly placed into different treatment groups, that neither they nor the study team were aware of the treatment they were receiving, and that the small number who did not complete the study did not affect the findings.\nThis plain language summary is up to date as of 7 February 2022."
+    }
+  ]
+}

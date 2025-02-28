@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009404.pub3",
+  "name": "Interventions for reducing wrong‐site surgery and invasive clinical procedures",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Specific clinical interventions are needed to reduce wrong-site surgery, which is a rare but potentially disastrous clinical error. Risk factors contributing to wrong-site surgery are variable and complex. The introduction of organisational and professional clinical strategies have a role in minimising wrong-site surgery."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To evaluate the effectiveness of organisational and professional interventions for reducing wrong-site surgery (including wrong-side, wrong-procedure and wrong-patient surgery), including non-surgical invasive clinical procedures such as regional blocks, dermatological, obstetric and dental procedures and emergency surgical procedures not undertaken within the operating theatre."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched the following electronic databases: the Cochrane Effective Practice and Organisation of Care (EPOC) Group Specialised Register (January 2014), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2014), MEDLINE (June 2011 to January 2014), EMBASE (June 2011 to January 2014), CINAHL (June 2011 to January 2014), Dissertations and Theses (June 2011 to January 2014), African Index Medicus, Latin American and Caribbean Health Sciences database, Virtual Health Library, Pan American Health Organization Database and the World Health Organization Library Information System. Database searches were conducted in January 2014."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We searched for randomised controlled trials (RCTs), non-randomised controlled trials, controlled before-after studies (CBAs) with at least two intervention and control sites, and interrupted-time-series (ITS) studies where the intervention time was clearly defined and there were at least three data points before and three after the intervention. We included two ITS studies that evaluated the effectiveness of organisational and professional interventions for reducing wrong-site surgery, including wrong-side and wrong-procedure surgery. Participants included all healthcare professionals providing care to surgical patients; studies where patients were involved to avoid the incorrect procedures or studies with interventions addressed to healthcare managers, administrators, stakeholders or health insurers."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assesses the quality and abstracted data of all eligible studies using a standardised data extraction form, modified from the Cochrane EPOC checklists. We contacted study authors for additional information."
+    },
+    {
+      "heading": "Main results",
+      "text": "In the initial review, we included one ITS study that evaluated a targeted educational intervention aimed at reducing the incidence of wrong-site tooth extractions. The intervention included examination of previous cases of wrong-site tooth extractions, educational intervention including a presentation of cases of erroneous extractions, explanation of relevant clinical guidelines and feedback by an instructor. Data were reported from all patients on the surveillance system of a University Medical centre in Taiwan with a total of 24,406 tooth extractions before the intervention and 28,084 tooth extractions after the intervention. We re-analysed the data using the Prais-Winsten time series and the change in level for annual number of mishaps was statistically significant at -4.52 (95% confidence interval (CI) -6.83 to -2.217) (standard error (SE) 0.5380). The change in slope was statistically significant at -1.16 (95% CI -2.22 to -0.10) (SE 0.2472; P < 0.05).\nThis update includes an additional study reporting on the incidence of neurological WSS at a university hospital both before and after the Universal Protocol’s implementation. A total of 22,743 patients undergoing neurosurgical procedures at the University of Illionois College of Medicine at Peoria, Illinois, United States of America were reported. Of these, 7286 patients were reported before the intervention and 15,456 patients were reported after the intervention. The authors found a significant difference (P < 0.001) in the incidence of WSS between the before period, 1999 to 2004, and the after period, 2005 to 2011.  Similarly, data were re-analysed using Prais-Winsten regression to correct for autocorrelation. As the incidences were reported by year only and the intervention occurred in July 2004, the intervention year 2004 was excluded from the analysis. The change in level at the point the intervention was introduced was not statistically significant at -0.078 percentage points (pp) (95% CI -0.176 pp to 0.02 pp; SE 0.042; P = 0.103). The change in slope was statistically significant at 0.031 (95% CI 0.004 to 0.058; SE 0.012; P < 0.05)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The findings of this update added one additional ITS study to the previous review which contained one ITS study. The original review suggested that the use of a specific educational intervention in the context of a dental outpatient setting, which targets junior dental staff using a training session that included cases of wrong-site surgery, presentation of clinical guidelines and feedback by an instructor, was associated with a reduction in the incidence of wrong-site tooth extractions. The additional study in this update evaluated the annual incidence rates of wrong-site surgery in a neurosurgical population before and after the implementation of the Universal Protocol. The data suggested a strong downward trend in the incidence of wrong-site surgery prior to the intervention with the incidence rate approaching zero. The effect of the intervention in these studies however remains unclear, as data reflect only two small low-quality studies in very specific population groups."
+    }
+  ],
+  "pls_title": "Interventions for reducing wrong-site surgery",
+  "pls_type": "long",
+  "pls": "Wrong-site surgery is a rare, but serious event that can have substantial consequences for patients and healthcare providers. It occurs when a surgical or invasive procedure is undertaken on the wrong body part, wrong patient, or the wrong procedure is performed. A number of interventions to reduce surgical error or prevent WSS, mainly involving pre-operative verification, such as the development of Universal Protocol, site marking and 'time-out' procedures have been proposed over recent years. This updated review contains two interrupted-time-series (ITS) studies (studies in which data are collected at multiple time points before and after an intervention), one from the original review, which evaluated a targeted educational intervention aimed at reducing the incidence of wrong-site surgery, and which was found to reduce its incidence. An additional study evaluated the incidence of wrong-site surgery before and after the introduction of the Universal Protocol, however the relevance of these findings regarding the impact of the intervention is unclear given that prior to its introduction, the incidence was decreasing due to other unclear factors. Overall, this review now contains two studies, of relatively low quality evidence, on very specific populations and their generalisability to a larger audience is low."
+}

@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010341.pub2",
+  "name": "Interventions for the treatment of oral and oropharyngeal cancers: targeted therapy and immunotherapy ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Oral cancers are the sixth most common cancer worldwide, yet the prognosis following a diagnosis of oral cavity or oropharyngeal cancers remains poor, with approximately 50% survival at five years. Despite a sharp increase in research into molecularly targeted therapies and a rapid expansion in the number of clinical trials assessing new targeted therapies, their value for treating oral cancers is unclear. Therefore, it is important to summarise the evidence to determine the efficacy and toxicity of targeted therapies and immunotherapies for the treatment of these cancers."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of molecularly targeted therapies and immunotherapies, in addition to standard therapies, for the treatment of oral cavity or oropharyngeal cancers."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases: Cochrane Oral Health Group Trials Register (to 3 February 2015), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2015, Issue 1), MEDLINE via Ovid (1946 to 3 February 2015) and EMBASE via Ovid (1980 to 3 February 2015). We searched the US National Institutes of Health Trials Register (clinicaltrials.gov), the World Health Organization Clinical Trials Registry Platform, the American Society of Clinical Oncology conference abstracts and the Radiation Therapy Oncology Group clinical trials protocols for ongoing trials. We placed no restrictions on the language or date of publication."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials where more than 50% of participants had primary tumours of the oral cavity or oropharynx, and which compared targeted therapy or immunotherapy, plus standard therapy, with standard therapy alone."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the results of the electronic searches, extracted data and assessed the risk of bias of the included studies. We attempted to contact study authors for missing data or clarification where necessary. We combined sufficiently similar studies in meta-analyses using random-effects models when there were at least four studies and fixed-effect models when fewer than four studies. We obtained or calculated a hazard ratio (HR) and 95% confidence interval (CI) for the primary outcomes where possible. For dichotomous outcomes, we reported risk ratios (RR) and 95% CIs."
+    },
+    {
+      "heading": "Main results",
+      "text": "Twelve trials (2488 participants) satisfied the inclusion criteria. In the included trials, 12% of participants (298 participants) had tumours of the oral cavity and 59% (1468 participants) had oropharyngeal tumours. The remaining 29% had tumours of the larynx or hypopharynx and less than 1% had tumours at other sites.\nNo included trial was at low risk of bias; seven had an unclear risk of bias, and five had a high risk of bias. We grouped trials by intervention type into three main comparisons: standard therapy plus epidermal growth factor receptor monoclonal antibody (EGFR mAb) therapy (follow-up period 24 to 70 months); standard therapy plus tyrosine kinase inhibitors (TKIs) (follow-up period 40 to 60 months) and standard therapy plus immunotherapy (follow-up period 24 to 70 months), all versus standard therapy alone.\nModerate quality evidence showed that EGFR mAb therapy may result in 18% fewer deaths when added to standard therapy (HR of mortality 0.82; 95% CI 0.69 to 0.97; 1421 participants, three studies, 67% oropharyngeal tumours, 2% oral cavity tumours).\nThere was also moderate quality evidence that EGFR mAb may result in 32% fewer locoregional failures when added to radiotherapy (RT) (HR 0.68; 95% CI 0.52 to 0.89; 424 participants, one study, 60% oropharyngeal tumours).\nA subgroup analysis separating studies by type of standard therapy (radiotherapy (RT) or chemoradiotherapy (CRT)) showed some evidence that adding EGFR mAb therapy to RT may result in a 30% reduction in the number of people whose disease progresses (HR 0.70; 95% CI 0.54 to 0.91; 424 participants, one study, 60% oropharyngeal tumours, unclear risk of bias). For the subgroup comparing EGFR mAb plus CRT with CRT alone there was insufficient evidence to determine whether adding EGFR mAb therapy to CRT impacts on progression-free survival (HR 1.08; 95% CI 0.89 to 1.32; 891 participants, one study, 70% oropharyngeal tumours, high risk of bias). The high subgroup heterogeneity meant that we were unable to pool these subgroups.\nThere was evidence that adding cetuximab to standard therapy may result in increased skin toxicity and rash (RR 6.56; 95% CI 5.35 to 8.03; 1311 participants, two studies), but insufficient evidence to determine any difference in skin toxicity and rash in the case of nimotuzumab (RR 1.06; 95% CI 0.85 to 1.31; 92 participants, one study).\nThere was insufficient evidence to determine whether TKIs added to standard therapy impacts on overall survival (HR 0.99; 95% CI 0.62 to 1.57; 271 participants, two studies; very low quality evidence), locoregional control (HR 0.89; 95% CI 0.53 to 1.49; 271 participants, two studies; very low quality evidence), disease-free survival (HR 1.51; 95% CI 0.61 to 3.71; 60 participants, one study; very low quality evidence) or progression-free survival (HR 0.80; 95% CI 0.51 to 1.28; 271 participants, two studies; very low quality evidence). We did find evidence of an increase in skin rash (erlotinib: RR 6.57; 95% CI 3.60 to 12.00; 191 participants, one study; lapatinib: RR 2.02; 95% CI 1.23 to 3.32; 67 participants, one study) and gastrointestinal complaints (lapatinib: RR 15.53; 95% CI 2.18 to 110.55; 67 participants, one study).\nWe found very low quality evidence from one small trial that adding recombinant interleukin (rIL-2) to surgery may increase overall survival (HR 0.52; 95% CI 0.31 to 0.87; 201 participants, 62% oral cavity tumours, 38% oropharyngeal tumours) and there was insufficient evidence to determine whether rIL-2 impacts on adverse effects."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We found some evidence that adding EGFR mAb to standard therapy may increase overall survival, progression-free survival and locoregional control, while resulting in an increase in skin toxicity for some mAb (cetuximab).\nThere is insufficient evidence to determine whether adding TKIs to standard therapies changes any of our primary outcomes.\nVery low quality evidence from a single study suggests that rIL-2 combined with surgery may increase overall survival compared with surgery alone."
+    }
+  ],
+  "pls_title": "Treatments for cancers of the mouth and throat: therapies targeted at cancer cells and therapies to boost the body’s immune system",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "This review looks at the evidence for the benefits of new kinds of therapies for treating cancer of the mouth (oral cavity cancer) and cancer of the throat (oropharyngeal cancer) used together with standard treatments. One is the targeting of cancer cells directly whilst the other aims to boost the body’s own immune system to combat the cancer more effectively. Do these treatments result in differences in overall survival, cancer-free survival, keeping the cancer limited to that area of the body, recurrence of the cancer, quality of life and harmful or unwanted effects?"
+    },
+    {
+      "heading": "Background",
+      "text": "Oral cancers (cancer of the mouth and cancer of the throat) are the sixth most common cancer worldwide, accounting for an estimated 4% of all cancers. There is a higher frequency of these cancers in men. Smoking, alcohol consumption and betel quid chewing are the main risk factors. Cancer of the throat is associated with infection from the human papilloma virus (HPV), which can be transmitted through sexual contact. Low socioeconomic status (a measure of a person's income, education and occupation in relation to other people's) is associated with a higher frequency of oral cancers and poorer survival rates. Survival following a diagnosis of mouth or throat cancer remains poor, with around 50% of people still alive at five years (five-year survival rate).\nNew therapies targeted at the cells that give rise to oral cancers are being developed. The advantage these may have over conventional chemotherapy is that rather than affecting both healthy and cancerous cells they just target cancer cells.\nImmunotherapy (also known as biological therapy, biotherapy or biological response modifier therapy) may improve the functioning of the immune system so it is more effective at destroying cancer cells. Local immunotherapy delivers treatment directly into the tumour and systemic immunotherapy targets the whole body, and may be useful for stopping the cancer spreading or the return of primary tumours in more advanced cancer."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": ""
+    },
+    {
+      "heading": ".",
+      "text": ".We found 12 studies suitable for inclusion with a total of 2488 participants. Twelve per cent of participants (298) had tumours in the mouth and 59% (1468) had tumours in the throat. The remaining 29% of participants had tumours of the voice box or lower part of throat and less than 1% had tumours at other sites. We grouped trials by treatment into three main comparisons: standard therapy with or without epidermal growth factor receptor monoclonal antibody (EGFR mAb) therapy (which is a targeted therapy), standard therapy with or without tyrosine kinase inhibitors (TKIs) (which is a targeted therapy) and standard therapy with or without immunotherapy (which is an immune-boosting therapy)."
+    },
+    {
+      "heading": "Key results",
+      "text": "We found that adding EGFR mAb, a targeted therapy, to standard therapy may increase overall survival, cancer-free survival, keeping the cancer limited to that area of the body and may decrease recurrence of the cancer. However, it may result in an increase in skin problems for some.\nThere is not enough evidence to know whether TKIs added to standard therapies results in a change in overall survival, cancer-free survival, keeping the cancer limited to that area of the body or recurrence of the cancer.\nOne study suggested that a type of immunotherapy, rIL-2, combined with surgery, may increase overall survival."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Overall, the evidence available ranges from moderate quality (for EGFR mAb) to very low quality (for TKIs and rIL-2), which limits our confidence in the reliability of our findings."
+    }
+  ]
+}

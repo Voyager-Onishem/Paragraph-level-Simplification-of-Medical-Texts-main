@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003730.pub2",
+  "name": "Glutamatergic drugs for schizophrenia",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "It has been shown that central nervous system dopamine can play a major role in the pathophysiology of schizophrenia. Brain glutamate is thought to mediate symptoms in schizophrenia due to the influence of glutamate neurons on the dopaminergic transmission in the brain. It might be possible to decrease negative symptoms and the cognitive impairment of people with schizophrenia by treatment with glutamatergic drugs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of glutamatergic drugs in the treatment of schizophrenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Group's Trials Register (May 2002 and October 2003), inspected references of all identified studies and contacted relevant authors."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included all randomised controlled trials in which glutamatergic medication was administered to people with schizophrenia."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We reliably selected studies, quality rated them and extracted data. For dichotomous data, we estimated relative risks (RR), with the 95% confidence intervals (CI). Where possible, we calculated the number needed to treat/harm statistic (NNT/H) and used intention-to-treat analysis."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eighteen short-term trials with 358 randomised participants. The single studies were small with numbers of participants ranging between six and 51. All trials were short-term trials with a maximum duration of 12 weeks. In all of these trials, glycine, D-serine, D-cycloserine, or ampakine CX516 was used to augment the effect of antipsychotic drugs. D-cycloserine, a partial agonist of NMDA receptors' glycine site, seemed ineffective towards the symptoms of schizophrenia. NMDA receptor co-agonists glycine and D-serine showed some effects in reducing the negative symptoms of schizophrenia (n=132, SMD -0.66, CI -1.0 to -0.3, p=0.0004), but the magnitude of the effect was moderate. Furthermore, when responder rates rather than mean scores of negative symptoms were analysed the data were inconsistent: There was no difference in responder rates between glycine and the control in terms of more than 20% improvement of negative symptoms (n=62, RR 0.70, CI 0.3 to 1.71) and only a borderline significant superiority in terms of more than 50% improvement (n=62, RR 0.87, CI 0.8 to 1.00). There were also some effects in favour of glycine and/or D-serine in terms of overall and general symptoms, but the results were again inconsistent and depended on the response definition applied. Available rating scale data on positive symptoms and cognitive functioning did not indicate a statistically significant effect of glycine or D-serine."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In general, all glutamatergic drugs appeared to be ineffective in further reducing positive symptoms of the disease when added to the existing antipsychotic treatment. Glycine and D-serine may somewhat improve negative symptoms when added to regular antipsychotic medication, but the results were not fully consistent and data are too few to allow any firm conclusions. Many participants in the included trials were treatment-resistant which may have reduced treatment response. Additional research on glutamatergic mechanisms of schizophrenia is needed."
+    }
+  ],
+  "pls_title": "Glutamatergic drugs for schizophrenia",
+  "pls_type": "long",
+  "pls": "Schizophrenia is a severe psychiatric disease characterised by positive symptoms such as hallucinations and delusions and negative symptoms such as blunted affect and emotional withdrawal. People with schizophrenia may also suffer from cognitive deficits. Current medication is effective in reducing positive symptoms, but negative and cognitive symptoms are fairly resistant to treatment. Antipsychotic drugs act mainly on the dopamine system in the brain, although other neurotransmitter systems may also play a role in schizophrenia.\nWe sought to review all randomised trials that used glutamatergic drugs in the treatment of schizophrenia. This review shows that substances acting on the glutamate system may improve symptoms when added to regular antipsychotic medication, although the available evidence base is too limited to allow for any firm conclusions. Presently, glutamatergic drugs are not available for clinical use. Additional research is needed to determine their ultimate role in the treatment of schizophrenia."
+}

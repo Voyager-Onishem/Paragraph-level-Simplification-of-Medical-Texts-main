@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007863.pub4",
+  "name": "Antenatal cardiotocography for fetal assessment",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Cardiotocography (CTG) is a continuous recording of the fetal heart rate obtained via an ultrasound transducer placed on the mother’s abdomen. CTG is widely used in pregnancy as a method of assessing fetal well-being, predominantly in pregnancies with increased risk of complications."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of antenatal CTG (both traditional and computerised assessments) in improving outcomes for mothers and babies during and after pregnancy."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (26 June 2015) and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised and quasi-randomised trials that compared traditional antenatal CTG with no CTG or CTG results concealed; computerised CTG with no CTG or CTG results concealed; and computerised CTG with traditional CTG."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy."
+    },
+    {
+      "heading": "Main results",
+      "text": "Six studies (involving 2105 women) are included. Overall, the included studies were not of high quality, and only two had both adequate randomisation sequence generation and allocation concealment. All studies that were able to be included enrolled only women at increased risk of complications.\nComparison of traditional CTG versus no CTG showed no significant difference identified in perinatal mortality (risk ratio (RR) 2.05, 95% confidence interval (CI) 0.95 to 4.42, 2.3% versus 1.1%, four studies, N = 1627, low quality evidence ) or potentially preventable deaths (RR 2.46, 95% CI 0.96 to 6.30, four studies, N = 1627), though the meta-analysis was underpowered to assess this outcome. Similarly, there was no significant difference identified in caesarean sections (RR 1.06, 95% CI 0.88 to 1.28, 19.7% versus 18.5%, three trials, N = 1279, low quality evidence ). There was also no significant difference identified for secondary outcomes related to Apgar scores less than seven at five minutes (RR 0.83, 95% CI 0.37 to 1.88, one trial, N = 396, very low quality evidence ); or admission to neonatal special care units or neonatal intensive care units (RR 1.08, 95% CI 0.84 to 1.39, two trials, N = 883, low quality evidence), nor in the other secondary outcomes that were assessed.\nThere were no eligible studies that compared computerised CTG with no CTG.\nComparison of computerised CTG versus traditional CTG showed a significant reduction in perinatal mortality with computerised CTG (RR 0.20, 95% CI 0.04 to 0.88, two studies, 0.9% versus 4.2%, 469 women, moderate quality evidence ). However, there was no significant difference identified in potentially preventable deaths (RR 0.23, 95% CI 0.04 to 1.29, two studies, N = 469), though the meta-analysis was underpowered to assess this outcome. There was no significant difference identified in caesarean sections (RR 0.87, 95% CI 0.61 to 1.24, 63% versus 72%, one study, N = 59, low quality evidence ), Apgar scores less than seven at five minutes (RR 1.31, 95% CI 0.30 to 5.74, two studies, N = 469, very low quality evidence) or in secondary outcomes."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no clear evidence that antenatal CTG improves perinatal outcome, but further studies focusing on the use of computerised CTG in specific populations of women with increased risk of complications are warranted."
+    }
+  ],
+  "pls_title": "Cardiotocography (a form of electronic fetal monitoring) for assessing a baby's well-being in the womb during pregnancy",
+  "pls_type": "long",
+  "pls": "Some pregnancies can be complicated by a medical condition in the mother (e.g. diabetes or high blood pressure) or a condition that might affect the health or development of the baby. If these babies with potential difficulties could be identified, and if there were effective interventions to improve the outcomes, then an accurate test that could be used during pregnancy could be beneficial. Cardiotocography (CTG) is a continuous electronic record of the baby’s heart rate obtained via an ultrasound transducer placed on the mother’s abdomen. It is sometimes referred to as ‘electronic fetal monitoring’ (EFM). The review looked to see if using CTG during pregnancy might improve outcomes for babies by identifying those with complications. It looked for studies that included women at both increased risk, and at low risk, of complications. The review included six studies with all of the women at increased risk of complications. Four of the studies were undertaken in the 1980s and two in the late 1990s. The included studies were not of high quality. There were no differences in outcomes identified (low/very low quality evidence), although when computerised interpretation of the CTG trace was used, the findings looked promising. However, CTG monitors, associated technologies and the way midwives and obstetricians care for women with different complications in pregnancy have changed over the years. This means that more studies are needed now to see if outcomes for babies at increased risk of complications can be improved with antenatal CTG, particularly computerised CTG."
+}

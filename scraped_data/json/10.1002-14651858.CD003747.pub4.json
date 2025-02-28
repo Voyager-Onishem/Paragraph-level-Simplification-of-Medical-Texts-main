@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD003747.pub4",
+  "name": "Heparin for the prevention of venous thromboembolism in acutely ill medical patients (excluding stroke and myocardial infarction) ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Venous thromboembolic disease has been extensively studied in surgical patients. The benefit of thromboprophylaxis is now generally accepted, but it is medical patients who make up the greater proportion of the hospital population. Medical patients differ from surgical patients with regard to their health and the pathogenesis of thromboembolism and the impact that preventative measures can have. The extensive experience from thromboprophylaxis studies in surgical patients is therefore not necessarily applicable to non-surgical patients. This is an update of a review first published in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness and safety of heparin (unfractionated heparin or low molecular weight heparin) thromboprophylaxis in acutely ill medical patients admitted to hospital, excluding those admitted to hospital with an acute myocardial infarction or stroke (ischaemic or haemorrhagic) or those requiring admission to an intensive care unit (unless the study population can be clearly defined as acute medical and not post-surgical)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co-ordinator searched the Specialised Register (last searched November 2013) and CENTRAL (2013, Issue 10)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials comparing unfractionated heparin (UFH) or low molecular weight heparin (LMWH) with placebo or no treatment, or comparing UFH with LMWH."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "One review author identified possible trials and a second review author confirmed their eligibility for inclusion in the review. Two review authors extracted the data. Disagreements were resolved by discussion. We performed the meta-analysis using a fixed-effect model with the results expressed as odds ratios (ORs) with 95% confidence intervals (CIs)."
+    },
+    {
+      "heading": "Main results",
+      "text": "Sixteen studies with a combined total of 34,369 participants with an acute medical illness were included in this review. We identified 10 studies comparing heparin with placebo or no treatment and six studies comparing LMWH to UFH. Just under half of the studies had an open-label design, putting them at a risk of performance bias. Descriptions of random sequence generation and allocation concealment were missing in most of the studies. Heparin reduced the odds of deep vein thrombosis (DVT) (OR 0.41, 95% CI 0.25 to 0.67; P = 0.0004) . The estimated reductions in symptomatic non-fatal pulmonary embolism (PE) (OR 0.46; 95% CI 0.20 to 1.07; P = 0.07), fatal PE (OR 0.71; 95% CI 0.43 to 1.15; P = 0.16) and in combined non-fatal PE and fatal PE (OR 0.66, 95% CI 0.43 to 1.02; P = 0.06) associated with heparin were imprecise. Heparin resulted in an increase in major haemorrhage (OR 1.65, 95% CI 1.01 to 2.71; P = 0.05). There was no clear evidence that heparin had an effect on all-cause mortality and thrombocytopaenia. Compared with UFH, LMWH reduced the risk of DVT (OR 0.77; 95% CI 0.62 to 0.96; P = 0.02) and major bleeding (OR 0.43; 95% CI 0.22 to 0.83; P = 0.01). There was no clear evidence that the effects of LMWH and UFH differed for the PE outcomes, all-cause mortality and thrombocytopaenia."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The data from this review describe a reduction in the risk of DVT in patients presenting with an acute medical illness who receive heparin thromboprophylaxis. This needs to be balanced against an increase in the risk of bleeding associated with thromboprophylaxis. The analysis favoured LMWH compared with UFH, with a reduced risk of both DVT and bleeding."
+    }
+  ],
+  "pls_title": "Heparin to prevent deep vein thrombosis or pulmonary embolism in acutely ill medical patients (excluding those with stroke or myocardial infarction)",
+  "pls_type": "long",
+  "pls": "Blood clots may form in the veins of patients who are admitted to hospital suffering from an acute medical illness. These types of blood clots are referred to as deep vein thromboses (DVT) and they may break free from the blood vessel wall and travel to the lungs and cause death, at which point they are referred to as a pulmonary embolism (PE). These types of blood clots and their prevention have been thoroughly studied in surgical patients but not as much in non-surgical, medical patients, who make up a greater proportion of hospital patients. Medical patients differ from surgical patients with regard to their health, the progression of clots and the impact that preventative measures can have. The extensive experience from clot prevention studies in surgical patients is therefore not necessarily applicable to non-surgical patients.\nHeparin is a blood thinning drug, which has been shown to reduce the occurrence of blood clots in patients after they have had surgery. Heparin exists in two forms, the original unfractionated (UFH) form and a newer form called low molecular weight heparin (LMWH). The aim of the current review is to determine the effectiveness and safety of heparin (UFH or LMWH) to prevent DVTs and PEs in non-surgical, medical patients admitted to hospital, excluding those admitted to hospital with a heart attack or stroke or those requiring admission to an intensive care unit. The outcomes investigated in this review were DVT, PE that did not cause death, PE that resulted in death, combined non-fatal and fatal PE, all-cause death, bleeding complications and thrombocytopaenia, which is a condition that can be caused by heparin and results in decreased platelets in the blood.\nThis review of 16 trials in 34,369 non-surgical patients who suffered an acute medical illness found that heparin reduced the number of patients suffering DVTs but also increased the risk of bleeding complications when compared to participants that received a placebo or no medication. We had some concerns over how reliable the results were from the unblinded studies, which made up just under half of the studies. Also, most of the studies were lacking explanations of how the allocation of the treatments was performed. The lower risk of PEs (when combining those that caused death and those that did not) with heparin could have been a chance effect. There was no clear evidence of a difference in the rate of death or thrombocytopaenia. The review also found that patients who were given LMWH developed fewer DVTs and fewer bleeding complications compared with those given UFH, leading to the conclusion that LMWH is more effective and carries a lower risk of adverse events in preventing blood clots than with UFH. There was no clear evidence of differences between LMWH and UFH for PE, death or thrombocytopaenia."
+}

@@ -1,0 +1,35 @@
+2025-02-28 12:57:52,414 - INFO - Script started
+2025-02-28 12:57:52,414 - INFO - Starting main processing function
+2025-02-28 12:57:52,414 - INFO - Starting data processing from file: scraped_data/data.json
+2025-02-28 12:57:52,437 - INFO - Successfully loaded 75 articles from scraped_data/data.json
+2025-02-28 12:57:52,437 - INFO - Processing abstracts...
+2025-02-28 12:57:52,441 - INFO - Processed 75 abstracts
+2025-02-28 12:57:52,449 - INFO - Split by type: 32 long summaries, 38 sectioned summaries
+2025-02-28 12:57:52,452 - INFO - Split long summaries: 18 single paragraph, 14 multi paragraph
+2025-02-28 12:57:52,452 - INFO - Processing single paragraph summaries...
+2025-02-28 12:57:53,719 - INFO - Processing multi-paragraph summaries...
+2025-02-28 12:57:55,246 - INFO - Processing sectioned summaries...
+2025-02-28 12:57:55,328 - INFO - Combined data: 56 total articles
+2025-02-28 12:57:55,329 - INFO - Loading BART tokenizer...
+2025-02-28 12:57:59,312 - INFO - Tokenizer loaded successfully
+2025-02-28 12:57:59,312 - INFO - Processing articles for token length...
+2025-02-28 12:57:59,312 - INFO - Processing article 1/56
+2025-02-28 12:57:59,827 - INFO - Processing article 11/56
+2025-02-28 12:58:00,431 - INFO - Processing article 21/56
+2025-02-28 12:58:00,985 - INFO - Article 28: Abstract tokens: 1096, PLS tokens: 573 - Truncating
+2025-02-28 12:58:01,216 - INFO - Processing article 31/56
+2025-02-28 12:58:01,247 - INFO - Article 31: Abstract tokens: 1109, PLS tokens: 283 - Truncating
+2025-02-28 12:58:01,393 - INFO - Article 32: Abstract tokens: 1341, PLS tokens: 743 - Truncating
+2025-02-28 12:58:01,523 - INFO - Article 33: Abstract tokens: 1060, PLS tokens: 308 - Truncating
+2025-02-28 12:58:01,824 - INFO - Article 36: Abstract tokens: 1370, PLS tokens: 664 - Truncating
+2025-02-28 12:58:02,336 - INFO - Processing article 41/56
+2025-02-28 12:58:02,529 - INFO - Article 43: Abstract tokens: 1092, PLS tokens: 367 - Truncating
+2025-02-28 12:58:03,310 - INFO - Article 50: Abstract tokens: 1327, PLS tokens: 838 - Truncating
+2025-02-28 12:58:03,481 - INFO - Processing article 51/56
+2025-02-28 12:58:03,606 - INFO - Article 52: Abstract tokens: 1082, PLS tokens: 688 - Truncating
+2025-02-28 12:58:04,079 - INFO - Final dataset size: 56 articles
+2025-02-28 12:58:04,079 - INFO - Saving results...
+2025-02-28 12:58:04,095 - INFO - Saved data_final.json
+2025-02-28 12:58:04,137 - INFO - Saved data_final_1024.json
+2025-02-28 12:58:04,155 - INFO - Processing complete
+2025-02-28 12:58:04,157 - INFO - Script finished

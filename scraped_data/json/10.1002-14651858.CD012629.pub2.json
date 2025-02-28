@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD012629.pub2",
+  "name": "Intramuscular versus oral corticosteroids to reduce relapses following discharge from the emergency department for acute asthma ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Acute asthma is a common cause of presentations to acute care centres, such as the emergency department (ED), and while the majority of patients can be discharged, relapse requiring additional medical care is common. Systemic corticosteroids are a major part in the treatment of moderate to severe acute asthma; however, there is no clear evidence regarding the most effective route of administration for improving outcomes in patients discharged from acute care."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine the effectiveness and safety of a single dose of intramuscular (IM) corticosteroids provided prior to discharge compared to a short course of oral corticosteroids in the treatment of acute asthma patients discharged from an ED or equivalent acute care setting."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Airways Group conducted searches of the Cochrane Airways Group Register of Trials, most recently on 14 March 2018. In addition in April 2017 we completed an extensive search of nine electronic databases including Medline, Embase, EBM ALL, Global Health, International Pharmaceutical Abstracts, CINAHL, SCOPUS, Proquest Dissertations and Theses Global, and LILACS. Furthermore, we searched the grey literature to identify any additional studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials or controlled clinical trials if they compared the effectiveness of intramuscular (IM) versus oral corticosteroids to treat paediatric or adult patients presenting with acute asthma to an ED or equivalent acute care setting. Two independent reviewers assessed study eligibility and study quality. We resolved disagreements via a third party and assessed risk of bias using the Cochrane 'Risk of bias' tool. We assessed the quality of the evidence using GRADE."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "For dichotomous outcomes, we calculated individual and pooled statistics as risk ratios (RRs) with 95% confidence intervals (CIs) using a random-effects model. We reported continuous outcomes using mean difference (MD) or standardised mean difference (SMD) with 95% CIs using a random-effects model. We reported heterogeneity using I² and Cochran Q statistics. We used standard procedures recommended by Cochrane."
+    },
+    {
+      "heading": "Main results",
+      "text": "Nine studies involving 804 participants (IM = 402 participants; oral = 402 participants) met our review inclusion criteria. Four studies enrolled children (n = 245 participants), while five studies enrolled adults (n = 559 participants). All of the studies recruited participants presenting to an ED, except one study which recruited participants attending a primary care clinic. All of the paediatric studies compared intramuscular (IM) dexamethasone to oral prednisone/prednisolone. In the adult studies, the IM corticosteroid provided ranged from methylprednisolone, betamethasone, dexamethasone, or triamcinolone, while the regimen of oral corticosteroids provided consisted of prednisone, methylprednisolone, or dexamethasone. Only five studies were placebo controlled. For the purposes of this review, we did not take corticosteroid dose equivalency into account in the analysis. The most common co-intervention provided to participants during the acute care visit included short-acting beta₂-agonists (SABA), methylxanthines, and ipratropium bromide. In some instances, some studies reported providing some participants with supplemental oral or IV corticosteroids during their stay in the ED. Co-interventions provided to participants at discharge consisted primarily of SABA, methylxanthine, long-acting beta₂-agonists (LABA), and ipratropium bromide. The risk of bias of the included studies ranged from unclear to high across various domains. The primary outcome of interest was relapse to additional care defined as an unscheduled visit to a health practitioner for worsening asthma symptoms, or requiring subsequent treatment with corticosteroids which may have occurred at any time point after discharge from the ED.\nWe found intramuscular and oral corticosteroids to be similarly effective in reducing the risk for relapse (RR 0.94, 95% CI 0.72 to 1.24; 9 studies, 804 participants; I² = 0%; low-quality evidence). We found no subgroup differences in relapse rates between paediatric and adult participants (P = 0.71), relapse occurring within or after 10 days post-discharge (P = 0.22), or participants with mild/moderate or severe exacerbations (P = 0.35). While we found no statistical difference between participants receiving IM versus oral corticosteroids regarding the risk for adverse events (RR 0.83, 95% CI 0.64 to 1.07; 5 studies, 404 participants; I² = 0%; moderate-quality evidence), an estimated 50 fewer patients per 1000 receiving IM corticosteroids reported experiencing adverse events (95% from 106 fewer to 21 more). We found inconsistent reporting of specific adverse events across the studies. There were no differences in the frequency of specific adverse events including nausea and vomiting, pain, swelling, redness, insomnia, or personality changes. We did not seek additional adverse events data.\nParticipants receiving IM corticosteroids or oral corticosteroids both reported decreases in peak expiratory flow (MD −7.78 L/min, 95% CI −38.83 L/min to 23.28 L/min; 4 studies, 272 participants; I² = 33%; moderate-quality evidence), similar symptom persistence (RR 0.41, 95% CI 0.14 to 1.20; 3 studies, 80 participants; I² = 44%; low-quality evidence), and 24-hour beta-agonist use (RR 0.54, 95% CI 0.21 to 1.37; 2 studies, 48 participants; I² = 0%; low-quality evidence)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is insufficient evidence to identify whether IM corticosteroids are more effective in reducing relapse compared to oral corticosteroids among children or adults discharged from an ED or equivalent acute care setting for acute asthma. While we found no statistical differences, patients receiving IM corticosteroids reported fewer adverse events. Additional studies comparing the effectiveness of IM versus oral corticosteroids could provide further evidence clarity. Furthermore, there is a need for studies comparing different IM corticosteroids (e.g. IM dexamethasone versus IM methylprednisone) and different oral corticosteroids (e.g. oral dexamethasone versus oral prednisone), with consideration for dosing and pharmacokinetic properties, to better identify the optimal IM or oral corticosteroid regimens to improve patient outcomes. Other factors, such as patient preference and potential issues with adherence, may dictate practitioner prescribing."
+    }
+  ],
+  "pls_title": "Intramuscular versus oral corticosteroids for acute asthma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We examined the effectiveness of an injection of corticosteroids compared to corticosteroids taken by mouth to improve outcomes among patients who presented to an emergency department or similar acute care setting with acute asthma."
+    },
+    {
+      "heading": "Background",
+      "text": "Asthma attacks result from airway passages to the lungs becoming constricted due to inflammation, resulting in wheezing, coughing and difficulty breathing. People experiencing asthma attacks often go to emergency departments. Corticosteroids, which are powerful anti-inflammatory agents, are the treatment cornerstone of asthma exacerbations, and have been shown to be effective in improving lung function and reducing hospitalisations in patients with asthma. At discharge, patients are commonly provided with corticosteroids to reduce the chance of returning to the emergency department due to worsening asthma symptoms. Corticosteroids may be provided via a single injection under the skin into the muscle ('intramuscular') or as tablets to take home, and it is currently unclear which regimen of corticosteroids is more effective at improving outcomes for patients following discharge from the emergency department."
+    },
+    {
+      "heading": "Search date",
+      "text": "We conducted our most recent search in March 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included nine studies that compared the effectiveness of an intramuscular injection compared to corticosteroid tablets in patients presenting to an ED or similar acute care setting with acute asthma. The studies enrolled a total of 804 paediatric and adult participants. Most studies investigated the injectable corticosteroids dexamethasone or methylprednisolone compared to the corticosteroid tablets prednisone or methylprednisolone."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Most studies did not report sources of funding (5 studies). Two studies received funding from general health research grants. One study was funded by a pharmaceutical company (Pfizer); however, reported that the company was not involved in any aspect of the study or manuscript preparation. One study reported being unfunded."
+    },
+    {
+      "heading": "Key results",
+      "text": "Intramuscular injections of corticosteroids appear to be as effective as corticosteroids tablets in preventing relapse. We did not find any differences in the risk of relapse between participants receiving intramuscular injections and corticosteroid tablets. Although not all studies reported adverse effects in their study groups, we found no differences between participants receiving intramuscular injections and corticosteroid tablets. At follow-up, we found no differences in pulmonary function tests between participants who had received an intramuscular injection or corticosteroid tablets. In the studies that reported symptom scores and duration, we did not identify any differences between participants receiving corticosteroids by injection or by tablets."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence regarding the effectiveness of intramuscular injections of corticosteroids in improving health outcomes ranged from low to moderate. We had only moderate confidence about the estimated effects of intramuscular steroids on hospital admissions, improvement in respiratory function and relapse because of the risk of bias among included studies."
+    }
+  ]
+}

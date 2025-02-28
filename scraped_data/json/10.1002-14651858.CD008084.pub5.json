@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD008084.pub5",
+  "name": "Glucocorticoid with cyclophosphamide for oral paraquat poisoning",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This an update of a Cochrane Review.\nParaquat is a widely used herbicide, but is also a lethal poison. In some low- and middle-income countries (LMICs) paraquat is commonly available and inexpensive, making poisoning prevention difficult. Most of the people poisoned by paraquat have taken it as a means of self-poisoning.\nStandard treatment for paraquat poisoning prevents further absorption and reduces the load of paraquat in the blood through haemoperfusion or haemodialysis. The effectiveness of standard treatments is extremely limited.\nThe immune system plays an important role in exacerbating paraquat-induced lung fibrosis. Immunosuppressive treatment using glucocorticoid and cyclophosphamide in combination has been developed and studied as an intervention for paraquat poisoning."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of glucocorticoid with cyclophosphamide for moderate to severe oral paraquat poisoning."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The most recent searches were run in September 2020. We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Injuries Trials Register), Ovid MEDLINE(R), Ovid MEDLINE In-Process & Other Non-Indexed Citations, Ovid MEDLINE Daily and Ovid OLDMEDLINE, Embase Classic + Embase (Ovid), ISI WOS (SCI-EXPANDED, SSCI, CPCI-S, and CPSI-SSH), and trials registries. We also searched the following three resources: China National Knowledge Infrastructure database (CNKI 数据库); Wanfang Data (万方数据库); and VIP (维普数据库) on 12 November 2020. We examined the reference lists of included studies and review papers."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs). For this update, in accordance with Cochrane Injuries' Group policy (2015), we included only prospectively registered RCTs for trials published after 2010. We included trials which assessed the effects of glucocorticoid with cyclophosphamide delivered in combination. Eligible comparators were standard care (with or without a placebo), or any other therapy in addition to standard care. Outcomes of interest included mortality and infections."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We calculated the mortality risk ratio (RR) and 95% confidence interval (CI). Where possible, we summarised data for all-cause mortality at relevant time periods (from hospital discharge to three months after discharge) in meta-analysis, using a fixed-effect model. We conducted sensitivity analyses based on factors including whether participants were assessed at baseline for plasma paraquat levels. We also reported data on infections within one week after initiation of treatment."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four trials with a total of 463 participants. The included studies were conducted in Taiwan (Republic of China), Iran, and Sri Lanka. Most participants were male. The mean age of participants was 28 years.\nWe judged two of the four included studies, including the largest and most recently conducted study (n = 299), to be at low risk of bias for key domains including sequence generation. We assessed one study to be at high risk of selection bias and another at unclear risk, since allocation concealment was either not mentioned in the trial report or explicitly not undertaken. We assessed three of the four studies to be at unclear risk of selective reporting, as no protocols could be identified. An important source of heterogeneity amongst the included studies was the method of assessment of participants' baseline severity using analysis of plasma levels (two studies employed this method, whilst the other two did not).\nNo studies assessed the outcome of mortality at 30 days following ingestion of paraquat.\nLow-certainty evidence from two studies indicates that glucocorticoids with cyclophosphamide in addition to standard care may slightly reduce the risk of death in hospital compared to standard care alone ((RR 0.82, 95% CI 0.68 to 0.99; participants = 322); results come from sensitivity analysis excluding studies not assessing plasma at baseline). However, we have limited confidence in this finding as heterogeneity was high (I2 = 77%) and studies varied in terms of size and comparators. A single large study provided data showing that there may be little or no effect of treatment at three months post discharge from hospital (RR 0.98, 95% CI 0.85 to 1.13; 1 study, 293 participants; low-certainty evidence); however, analysis of long-term results amongst participants whose injuries arose from self-poisoning must be interpreted with caution.\nWe remain uncertain of the effect of glucocorticoids with cyclophosphamide on infection within one week after initiation of the treatment; this outcome was assessed by two small studies only (31 participants, very low-certainty evidence) that considered leukopenia as a proxy or risk factor for infection. Neither study reported infections in any participants."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Low-certainly evidence suggests that glucocorticoids with cyclophosphamide in addition to standard care may slightly reduce mortality in hospitalised people with oral paraquat poisoning. However, we have limited confidence in this finding because of substantial heterogeneity and concerns about imprecision. Glucocorticoids with cyclophosphamide in addition to standard care may have little or no effect on mortality at three months after hospital discharge. We are uncertain whether glucocorticoid with cyclophosphamide puts patients at an increased risk of infection due to the limited evidence available for this outcome. Future research should be prospectively registered and CONSORT-compliant. Investigators should attempt to ensure an adequate sample size, screen participants for inclusion rigorously, and seek long-term follow-up of participants. Investigators may wish to research the effects of glucocorticoid in combination with other treatments."
+    }
+  ],
+  "pls_title": "What are the benefits and risks of treating paraquat poisoning with a combination of steroids and cyclophosphamide (an anti-cancer medicine)?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- Steroids given with cyclophosphamide (an anti-cancer medicine) are unlikely to reduce the risk of death after paraquat poisoning in the short term, or at three months after hospital discharge.\n- We are uncertain whether these medicines increase the risk of infection.\n- Future studies need to be larger, measure the level of paraquat poisoning of patients accurately, and monitor patients in the long term. Research into steroids combined with other treatments could be useful."
+    },
+    {
+      "heading": "What happens in people with paraquat poisoning?",
+      "text": "Paraquat is used as a herbicide, but is also a deadly poison. Most people who are poisoned by paraquat have taken it as a means of self-poisoning.\nTreatment for paraquat poisoning focuses on the physical removal (via stomach pumping and other methods) of as much paraquat as possible from the person's digestive system (stomach) and blood. Any paraquat that remains inside the body causes inflammation that can damage the lungs severely and lead to death.\nSteroids and cyclophosphamide (a medicine normally used in cancer treatment) are medicines that fight inflammation and so are also used to treat paraquat poisoning."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if a combination of steroids and cyclophosphamide (plus usual care) works better than usual care alone to reduce the number of people who die from paraquat poisoning.\nWe also wanted to find out if treatment with steroids plus cyclophosphamide causes an increased number of infections in patients."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated the use of steroids and cyclophosphamide (plus usual care) compared with usual care alone in people poisoned with paraquat.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found four studies that involved 463 people with confirmed paraquat poisoning. Two studies were conducted in Taiwan (Republic of China), one in Iran, and one in Sri Lanka.\nAll participants were given either:\n- usual care only, or\n- steroids (methylprednisolone alone, or with dexamethasone) plus cyclophosphamide, as well as usual care. Cyclophosphamide was given before the steroid(s) or at the same time as them.\nTwo of the studies measured the severity of poisoning by testing patients’ plasma (a component of blood) at the start of the study. Plasma tests provide the best assessment of how seriously a person is affected by paraquat poisoning.\nOne study used a placebo (sham) treatment in addition to usual care. Two studies gave patients a steroid (dexamethasone) as part of the usual care."
+    },
+    {
+      "heading": "Death while in hospital",
+      "text": "The combined results of two studies showed that steroids plus cyclophosphamide (plus usual care) may slightly reduce the risk of death compared to usual care alone (with, or without, placebo) in people with paraquat poisoning."
+    },
+    {
+      "heading": "Death 3 months after hospital discharge",
+      "text": "One large study showed that at 3 months after discharge from hospital there may be no difference in the number of deaths between the people treated with steroids plus cyclophosphamide (plus usual care) and those treated with usual care alone."
+    },
+    {
+      "heading": "Infection",
+      "text": "Two small studies checked levels of white blood cells in patients (low levels can increase risk of infection). Neither study reported any infections in the week following treatment with steroids and cyclophosphamide. Due to the small size of the studies, we are very uncertain about whether the treatment affects the risk of infection within one week of treatment."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The four studies differed in terms of the number of people in them, assessment of level of paraquat poisoning, and types of treatment. This limited our ability to draw firm conclusions from the evidence.\nOverall, the studies we found were too small to provide answers to our questions."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "This review updates our previous review on this subject. The evidence is up to date to September 2020."
+    }
+  ]
+}

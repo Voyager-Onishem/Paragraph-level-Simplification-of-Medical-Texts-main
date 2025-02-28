@@ -1,0 +1,67 @@
+{
+  "doi": "10.1002/14651858.CD015060.pub2",
+  "name": "Immunosuppressive therapy for IgA nephropathy in children",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "IgA nephropathy (IgAN) is the most common cause of primary glomerulonephritis. It is a heterogeneous disease with different presentations and high morbidity. Thirty per cent of adults and 20% of children (followed into adulthood) will have a 50% decline in kidney function or develop kidney failure after 10 years."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the benefits and harms of immunosuppressive therapy for the treatment of IgAN in children."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We contacted the Information Specialist and searched the Cochrane Kidney and Transplant Register of Studies up to 03 October 2023 using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, and EMBASE, conference proceedings, the International Clinical Trials Registry Platform (ICTRP) Search Portal, and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) and non-randomised studies of interventions (NRSIs) investigating the treatment of IgAN in children with immunosuppressive therapies compared to placebo, no treatment, supportive care, standard therapy (Japanese protocol), other immunosuppressive therapies or non-immunosuppressive therapies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently extracted data and assessed the risk of bias. Random effects meta-analyses were used to summarise estimates of treatment effects. Treatment effects were expressed as risk ratios (RR) and 95% confidence intervals (CI) for dichotomous outcomes, and the mean difference (MD) and 95% CI for continuous outcomes. The risk of bias was assessed using the Cochrane risk of bias tool for RCTs and the ROBIN-I tool for NRSIs. The certainty of the evidence was assessed using Grading of Recommendations, Assessment, Development, and Evaluations (GRADE)."
+    },
+    {
+      "heading": "Main results",
+      "text": "This review included 13 studies with 686 participants. Ten RCTs included 334 children and 191 adults, and three NRSIs included 151 participants, all children. Most participants had mild kidney disease. The risk of bias was unclear for most of the domains relating to allocation concealment, blinding of participants, personnel, and outcome assessment.\nIn children with IgAN, it is uncertain if corticosteroid (steroid) therapy, compared to placebo reduces proteinuria (1 study, 64 children and young adults: RR 0.47, 95% CI 0.13 to 1.72; low certainty evidence) or the decline in estimated glomerular filtration rate (eGFR) (1 study, 64 children and young adults: RR 0.47, 95% CI 0.09 to 2.39; low certainty evidence). It is uncertain if steroids reduce proteinuria compared to supportive care (2 studies, 61 children: RR 0.04, 95% CI -0.83 to 0.72; low certainty evidence). Adverse events associated with steroid therapy were not assessed due to heterogeneity in steroid protocols, including dose and duration, and lack of systematic assessment for adverse events in the included studies.\nAzathioprine, mycophenolate mofetil, mizoribine, or cyclophosphamide alone or in combination with steroid therapy had uncertain effects on improving proteinuria or preventing eGFR decline in children with IgAN.\nFish oil, vitamin E and tonsillectomy had uncertain effects on improving proteinuria or preventing eGFR decline.\nEffects of other immunosuppressive therapies, secondary outcomes and adverse events were not assessed due to insufficient data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is a lack of high-quality evidence to guide the management of IgAN in children. There is no evidence to indicate that steroids, other immunosuppressive therapies, or tonsillectomy, when added to optimal supportive care, prevent a decline in eGFR or proteinuria in children with IgAN. Available studies were few, with small numbers, low-quality evidence, high or uncertain risk of bias, did not systematically assess harms associated with treatment, or report net benefits or harms. Severe cases and atypical presentations of IgAN were not included in the reviewed studies, and our findings cannot be generalised to these situations."
+    }
+  ],
+  "pls_title": "Immunosuppressive therapy for treating of IgA nephropathy in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "- It is unclear if corticosteroid (steroid) therapy or any other immunosuppressive therapy prevents kidney damage in children with IgA nephropathy.\n- The included studies do not provide information on the risks of steroid therapy in children with IgA nephropathy."
+    },
+    {
+      "heading": "What is IgA nephropathy?",
+      "text": "IgA nephropathy is a kidney disease that can cause a decrease in kidney function and kidney failure. The cause of the disease is unknown, but we know that the immune system is involved, and treatment targets the immune system. IgA nephropathy has no cure and requires lifelong follow-up. There is little guidance on how to treat children with IgA nephropathy, resulting in children being treated the same as adults."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to find out if immunosuppressive therapy improved kidney function in children with IgA nephropathy."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for all randomised and non-randomised studies that assessed the benefits and harms of immunosuppressive therapy in children with IgA nephropathy. We compared and summarised the trials' results and rated our confidence in the information based on factors such as trial methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 13 studies enrolling 686 participants (495 children) that assessed immunosuppressive therapies in children with IgA nephropathy. Ten studies were randomised, and in three non-randomised studies, participants were allocated to treatment groups based on how serious the disease was. We found no definite evidence of the benefit of steroids alone or with other immunosuppression in preserving kidney function. However, the evidence level was very low because of the small number of studies identified and the small number of children included.\nWe were unable to assess the side effects of steroids because the studies did not look closely for side effects or they did not report them.\nDue to the small number of studies, we could not determine the role of other immunosuppressive therapies, fish oil, vitamin E, or tonsillectomy, in reducing kidney damage in children with IgA nephropathy."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "The small number of studies (per comparison) and the small size of the studies were limitations in this review. Not all the studies provided data about the outcomes we were interested in. We are unsure about the results."
+    },
+    {
+      "heading": "How up-to-date is the evidence?",
+      "text": "The evidence is current to October 2023."
+    }
+  ]
+}

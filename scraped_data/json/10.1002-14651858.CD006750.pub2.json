@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD006750.pub2",
+  "name": "Calcineurin inhibitor withdrawal or tapering for kidney transplant recipients",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Calcineurin inhibitors (CNI) can reduce acute transplant rejection and immediate graft loss but are associated with significant adverse effects such as hypertension and nephrotoxicity which may contribute to chronic rejection. CNI toxicity has led to numerous studies investigating CNI withdrawal and tapering strategies. Despite this, uncertainty remains about minimisation or withdrawal of CNI."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to look at the benefits and harms of CNI tapering or withdrawal in terms of graft function and loss, incidence of acute rejection episodes, treatment-related side effects (hypertension, hyperlipidaemia) and death."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Kidney and Transplant Specialised Register to 11 October 2016 through contact with the Information Specialist using search terms relevant to this review. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE, and EMBASE; handsearching conference proceedings; and searching the International Clinical Trials Register (ICTRP) Search Portal and ClinicalTrials.gov."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All randomised controlled trials (RCTs) where drug regimens containing CNI were compared to alternative drug regimens (CNI withdrawal, tapering or low dose) in the post-transplant period were included, without age or dosage restriction."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed studies for eligibility, risk of bias, and extracted data. Results were expressed as risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 83 studies that involved 16,156 participants. Most were open-label studies; less than 30% of studies reported randomisation method and allocation concealment. Studies were analysed as intent-to-treat in 60% and all pre-specified outcomes were reported in 54 studies. The attrition and reporting bias were unclear in the remainder of the studies as factors used to judge bias were reported inconsistently. We also noted that 50% (47 studies) of studies were funded by the pharmaceutical industry.\nWe classified studies into four groups: CNI withdrawal or avoidance with or without substitution with mammalian target of rapamycin inhibitors (mTOR-I); and low dose CNI with or without mTOR-I. The withdrawal groups were further stratified as avoidance and withdrawal subgroups for major outcomes.\nCNI withdrawal may lead to rejection (RR 2.54, 95% CI 1.56 to 4.12; moderate certainty evidence), may make little or no difference to death (RR 1.09, 95% CI 0.96 to 1.24; moderate certainty), and probably slightly reduces graft loss (RR 0.85, 95% CI 0.74 to 0.98; low quality evidence). Hypertension was probably reduced in the CNI withdrawal group (RR 0.82, 95% CI 0.71 to 0.95; low certainty), while CNI withdrawal may make little or no difference to malignancy (RR 1.10, 95% CI 0.93 to 1.30; low certainty), and probably makes little or no difference to cytomegalovirus (CMV) (RR 0.87, 95% CI 0.52 to 1.45; low certainty)\nCNI avoidance may result in increased acute rejection (RR 2.16, 95% CI 0.85 to 5.49; low certainty) but little or no difference in graft loss (RR 0.96, 95% CI 0.79 to 1.16; low certainty). Late CNI withdrawal increased acute rejection (RR 3.21, 95% CI 1.59 to 6.48; moderate certainty) but probably reduced graft loss (RR 0.84, 95% CI 0.72 to 0.97, low certainty).\nResults were similar when CNI avoidance or withdrawal was combined with the introduction of mTOR-I; acute rejection was probably increased (RR 1.43; 95% CI 1.15 to 1.78; moderate certainty) and there was probably little or no difference in death (RR 0.96; 95% CI 0.69 to 1.36, moderate certainty). mTOR-I substitution may make little or no difference to graft loss (RR 0.94, 95% CI 0.75 to 1.19; low certainty), probably makes little of no difference to hypertension (RR 0.86, 95% CI 0.64 to 1.15; moderate), and probably reduced the risk of cytomegalovirus (CMV) (RR 0.60, 95% CI 0.44 to 0.82; moderate certainty) and malignancy (RR 0.69, 95% CI 0.47 to 1.00; low certainty). Lymphoceles were increased with mTOR-I substitution (RR 1.45, 95% CI 0.95 to 2.21; low certainty).\nLow dose CNI combined with mTOR-I probably increased glomerular filtration rate (GFR) (MD 6.24 mL/min, 95% CI 3.28 to 9.119; moderate certainty), reduced graft loss (RR 0.75, 95% CI 0.55 to 1.02; moderate certainty), and made little or no difference to acute rejection (RR 1.13 ; 95% CI 0.91 to 1.40; moderate certainty). Hypertension was decreased (RR 0.98, 95% CI 0.80 to 1.20; low certainty) as was CMV (RR 0.41, 95% CI 0.16 to 1.06; low certainty). Low dose CNI plus mTOR-I makes probably makes little of no difference to malignancy (RR 1.22, 95% CI 0.42 to 3.53; low certainty) and may make little of no difference to death (RR 1.16, 95% CI 0.71 to 1.90; moderate certainty)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "CNI avoidance increased acute rejection and CNI withdrawal increases acute rejection but reduced graft loss at least over the short-term. Low dose CNI with induction regimens reduced acute rejection and graft loss with no major adverse events, also in the short-term. The use of mTOR-I reduced CMV infections but increased the risk of acute rejection. These conclusions must be tempered by the lack of long-term data in most of the studies, particularly with regards to chronic antibody-mediated rejection, and the suboptimal methodological quality of the included studies."
+    }
+  ],
+  "pls_title": "Calcineurin inhibitor withdrawal or tapering for kidney transplant recipients",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Calcineurin inhibitors (CNI, cyclosporin and tacrolimus) are an important part of treatment to suppress the immune system to prevent rejection of transplanted kidneys. However, CNI can cause high blood pressure and kidney scarring which contribute to worsening of risk factors for heart attack, stroke, and loss of the transplanted organ over time.\nThere are conflicting data on the results of withdrawing these drugs from kidney transplant recipients; some studies suggest improved kidney function but others report a moderate risk of developing rejection. Because of this uncertainty, we assessed the benefits and harms of CNI withdrawal or tapering in kidney transplant recipients to identify which approach was more beneficial."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We included 83 studies that involved more than 16,000 people in our review. Studies which compared standard dose CNI regimens with withdrawal, tapering or low dose CNI in the post-transplant period were analysed."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "Although withdrawing CNI treatment resulted in more rejections in the short term, there was no clear change in transplanted organ failure, death, development of cancer, or infections. Replacing CNI with another group of drugs - the mTOR inhibitors - did not significantly change outcomes, except for fewer cytomegalovirus (CMV) infections. Lower CNI dose was associated with fewer episodes of kidney transplant rejection and loss, but only in the first year to up to five years after the transplant."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "We found that the long-term outcomes for stopping or gradually reducing CNI therapy were not clear, and that mTOR inhibitors can reduce CMV infections with a higher risk of acute rejection. There were insufficient studies with long term follow-up to clearly determine which treatment is better for people who receive kidney transplants."
+    }
+  ]
+}

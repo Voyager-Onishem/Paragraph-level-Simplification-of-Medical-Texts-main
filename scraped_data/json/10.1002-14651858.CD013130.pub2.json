@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD013130.pub2",
+  "name": "Systemic interventions for treatment of Stevens‐Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome are rare, severe cutaneous adverse reactions usually triggered by medications. In addition to tertiary-level supportive care, various systemic therapies have been used including glucocorticoids, intravenous immunoglobulins (IVIGs), cyclosporin, N-acetylcysteine, thalidomide, infliximab, etanercept, and plasmapheresis. There is an unmet need to understand the efficacy of these interventions."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of systemic therapies (medicines delivered orally, intramuscularly, or intravenously) for the treatment of SJS, TEN, and SJS/TEN overlap syndrome."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases up to March 2021: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, and Embase. We also searched five clinical trial registers, the reference lists of all included studies and of key review articles, and a number of drug manufacturer websites. We searched for errata or retractions of included studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included only randomised controlled trials (RCTs) and prospective observational comparative studies of participants of any age with a clinical diagnosis of SJS, TEN, or SJS/TEN overlap syndrome. We included all systemic therapies studied to date and permitted comparisons between each therapy, as well as between therapy and placebo."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as specified by Cochrane. Our primary outcomes were SJS/TEN-specific mortality and adverse effects leading to discontinuation of SJS/TEN therapy. Secondary outcomes included time to complete re-epithelialisation, intensive care unit length of stay, total hospital length of stay, illness sequelae, and other adverse effects attributed to systemic therapy. We rated the certainty of the evidence for each outcome using GRADE."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included nine studies with a total of 308 participants (131 males and 155 females) from seven countries. We included two studies in the quantitative meta-analysis.\nWe included three RCTs and six prospective, controlled observational studies. Sample sizes ranged from 10 to 91. Most studies did not report study duration or time to follow-up. Two studies reported a mean SCORe of Toxic Epidermal Necrosis (SCORTEN) of 3 and 1.9. Seven studies did not report SCORTEN, although four of these studies reported average or ranges of body surface area (BSA) (means ranging from 44% to 51%). Two studies were set in burns units, two in dermatology wards, one in an intensive care unit, one in a paediatric ward, and three in unspecified inpatient units. Seven studies reported a mean age, which ranged from 29 to 56 years. Two studies included paediatric participants (23 children).\nWe assessed the results from one of three RCTs as low risk of bias in all domains, one as high, and one as some concerns. We judged the results from all six prospective observational comparative studies to be at a high risk of bias. We downgraded the certainty of the evidence because of serious risk of bias concerns and for imprecision due to small numbers of participants.\nThe interventions assessed included systemic corticosteroids, tumour necrosis factor-alpha (TNF-alpha) inhibitors, cyclosporin, thalidomide, N-acetylcysteine, IVIG, and supportive care. No data were available for the main comparisons of interest as specified in the review protocol: etanercept versus cyclosporin, etanercept versus IVIG, IVIG versus supportive care, IVIG versus cyclosporin, and cyclosporin versus corticosteroids.\nCorticosteroids versus no corticosteroids\nIt is uncertain if there is any difference between corticosteroids (methylprednisolone 4 mg/kg/day for two more days after fever had subsided and no new lesions had developed) and no corticosteroids on disease-specific mortality (risk ratio (RR) 2.55, 95% confidence interval (CI) 0.72 to 9.03; 2 studies; 56 participants; very low-certainty evidence). Time to complete re-epithelialisation, length of hospital stay, and adverse effects leading to discontinuation of therapy were not reported.\nIVIG versus no IVIG\nIt is uncertain if there is any difference between IVIG (0.2 to 0.5 g/kg cumulative dose over three days) and no IVIG in risk of disease-specific mortality (RR 0.33, 95% CI 0.04 to 2.91); time to complete re-epithelialisation (mean difference (MD) −2.93 days, 95% CI −4.4 to −1.46); or length of hospital stay (MD −2.00 days, 95% CI −5.81 to 1.81). All results in this comparison were based on one study with 36 participants, and very low-certainty evidence. Adverse effects leading to discontinuation of therapy were not reported.\nEtanercept (TNF-alpha inhibitor) versus corticosteroids\nEtanercept (25 mg (50 mg if weight > 65 kg) twice weekly \"until skin lesions healed\") may reduce disease-specific mortality compared to corticosteroids (intravenous prednisolone 1 to 1.5 mg/kg/day \"until skin lesions healed\") (RR 0.51, 95% CI 0.16 to 1.63; 1 study; 91 participants; low-certainty evidence); however, the CIs were consistent with possible benefit and possible harm. Serious adverse events, such as sepsis and respiratory failure, were reported in 5 of 48 participants with etanercept and 9 of 43 participants with corticosteroids, but it was not clear if they led to discontinuation of therapy. Time to complete re-epithelialisation and length of hospital stay were not reported.\nCyclosporin versus IVIG\nIt is uncertain if there is any difference between cyclosporin (3 mg/kg/day or intravenous 1 mg/kg/day until complete re-epithelialisation, then tapered off (10 mg/day reduction every 48 hours)) and IVIG (continuous infusion 0.75 g/kg/day for 4 days (total dose 3 g/kg) in participants with normal renal function) in risk of disease-specific mortality (RR 0.13, 95% CI 0.02 to 0.98, 1 study; 22 participants; very low-certainty evidence). Time to complete re-epithelialisation, length of hospital stay, and adverse effects leading to discontinuation of therapy were not reported.\nNo studies measured intensive care unit length of stay."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "When compared to corticosteroids, etanercept may result in mortality reduction. For the following comparisons, the certainty of the evidence for disease-specific mortality is very low: corticosteroids versus no corticosteroids,  IVIG versus no IVIG and cyclosporin versus IVIG. There is a need for more multicentric studies, focused on the most important clinical comparisons, to provide reliable answers about the best treatments for SJS/TEN."
+    }
+  ],
+  "pls_title": "Which treatments that affect the whole body work best to treat severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis)?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "Treating severe skin reactions with etanercept (a medicine that acts to reduce a specific part of the immune system), rather than steroids (which broadly reduces the immune system), may result in a lower number of deaths from Stevens-Johnson syndrome and toxic epidermal necrolysis.\nWe are uncertain about the effectiveness of other treatments, such as steroids and cyclosporin (medicines that act on the immune system) or immunoglobulins (naturally produced antibodies). We need more studies set across multiple sites that compare the effectiveness and safety of the most important treatments."
+    },
+    {
+      "heading": "What causes severe skin reactions?",
+      "text": "Certain medications may trigger severe skin reactions known as Stevens-Johnson syndrome (SJS), a more severe condition known as toxic epidermal necrolysis (TEN), or an overlap syndrome (SJS/TEN). Large skin blisters form, which leave painful sores. The affected skin eventually peels off (necrosis). Cases are rare, but can be fatal if they lead to infections or problems affecting other organs.\nSevere skin reactions are medical emergencies, and require treatment in a hospital, often in an intensive care or a burns unit. Treatments include supportive care, such as fluids and nutrition, wound care, and painkilling medications."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "In addition to supportive care, treatments taken by mouth or injected include medicines that act on the immune system (e.g. etanercept) and intravenous immunoglobulins (antibodies).\nWe wanted to find out how well these treatments work to treat severe skin reactions."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies of all currently used treatments taken by mouth or injected to treat SJS, TEN, or SJS/TEN overlap. We were interested in studies that compared one of these treatments against another, or against supportive treatment alone to determine whether one worked better than the other."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 9 studies in 308 people (adults and a few children), which took place in India, Europe, China, and Taiwan. We found three randomised controlled trials (RCTs) (a type of study where participants are randomly assigned to one of two or more treatment groups). The other six studies observed the effectiveness of a treatment compared to another, without randomly assigning participants to a treatment (observational study). Most patients in the studies (where reported) had a moderate severity of disease, with 44% to 51% of their body surface area affected by rash. Studies were set in burn units, intensive care units and inpatient hospital wards."
+    },
+    {
+      "heading": "Main results",
+      "text": "The evidence comparing no steroids to steroids came from only 2 observational studies in 56 people; we are uncertain about this result due to our lack of confidence in the evidence: on average, out of 1000 people given steroids, 232 people are at risk of dying, compared with 91 out of every 1000 not given steroids. The number of days to full skin healing and length of hospital stay were not reported.\nThe evidence comparing immunoglobulins to no immunoglobulins came from 1 observational study in 36 people; we are uncertain about these results due to our lack of confidence in the evidence: on average, for every 1000 people given immunoglobulins, 55 people are at risk of dying, compared with 167 of every 1000 people not given immunoglobulins. The skin of people given immunoglobulins healed almost three days faster, and people spent two days less in hospital.\nCompared with steroids, etanercept may reduce the number of people who die: on average, for every 1000 people given etanercept, 83 people would die from complications of their severe skin reaction (usually infection), compared with 163 out of every 1000 people given steroids (evidence from 1 RCT in 91 participants). Unwanted side effects (such as breathing problems or severe infections) occurred in both etanercept and steroids study groups, but it was not clear if they caused participants to stop treatment. Other studies did not report on unwanted effects leading to discontinuation of treatment. The number of days to full skin healing and length of hospital stay were not reported.\nThe evidence comparing cyclosporin with immunoglobulins was from 1 observational study in 22 people; we are uncertain about this result due to our lack of confidence in the evidence: on average, for every 1000 people given cyclosporin, 65 people are at risk of dying, compared with 500 out of every 1000 people given immunoglobulins. The number of days to full skin healing and length of hospital stay were not reported.\nNo studies measured the length of stay in intensive care units."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are not confident in our results because they came from few studies with small numbers of participants. In most studies, the way in which the studies were conducted could have influenced the findings of the study."
+    },
+    {
+      "heading": "How up-to-date is this evidence?",
+      "text": "The evidence is current to March 2021."
+    }
+  ]
+}

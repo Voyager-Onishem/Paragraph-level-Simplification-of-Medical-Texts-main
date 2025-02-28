@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011008.pub2",
+  "name": "Opioids for the palliation of refractory breathlessness in adults with advanced disease and terminal illness ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Breathlessness is a common and disabling symptom which affects many people with advanced cardiorespiratory disease and cancer. The most effective treatments are aimed at treating the underlying disease. However, this may not always be possible, and symptomatic treatment is often required in addition to maximal disease-directed therapy. Opioids are increasingly being used to treat breathlessness, although their mechanism of action is still not completely known. A few good sized, high quality trials have been conducted in this area."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of opioid drugs in relieving the symptom of breathlessness in people with advanced disease due to malignancy, respiratory or cardiovascular disease, or receiving palliative care for any other disease."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We performed searches on CENTRAL, MEDLINE, EMBASE, CINAHL, and Web of Science up to 19 October 2015. We handsearched review articles, clinical trial registries, and reference lists of retrieved articles."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised double-blind controlled trials that compared the use of any opioid drug against placebo or any other intervention for the relief of breathlessness. The intervention was any opioid, given by any route, in any dose."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We imported studies identified by the search into a reference manager database. We retrieved the full-text version of relevant studies, and two review authors independently extracted data. The primary outcome measure was breathlessness and secondary outcome measures included exercise tolerance, oxygen saturations, adverse events, and mortality. We analysed all studies together and also performed subgroup analyses, by route of administration, type of opioid administered, and cause of breathlessness. Where appropriate, we performed meta-analysis. We assessed the evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach and created three 'Summary of findings' tables."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 26 studies with 526 participants. We assessed the studies as being at high or unclear risk of bias overall. We only included randomised controlled trials (RCTs), although the description of randomisation was incomplete in some included studies. We aimed to include double blind RCTs, but two studies were only single blinded. There was inconsistency in the reporting of outcome measures. We analysed the data using a fixed-effect model, and for some outcomes heterogeneity was high. There was a risk of imprecise results due to the low numbers of participants in the included studies. For these reasons we downgraded the quality of the evidence from high to either low or very low.\nFor the primary outcome of breathlessness, the standardised mean post-treatment dyspnoea score was 0.32 points better in the opioid group compared to the placebo group (ranging from a 0.53 point reduction to a 0.10 point reduction) (12 RCTs, 338 participants, low quality evidence). The standardised mean change from baseline dyspnoea score was 0.11 points better in the opioids group compared to the placebo group (ranging from a 0.40 point reduction to a 0.19 increase) (six RCTs, 194 participants, very low quality evidence). A lower score indicates an improvement in breathlessness.\nThe evidence for the six-minute walk test (6MWT) was conflicting. The total distance in 6MWT was 28 metres (m) better in the opioids group compared to placebo (ranging from 113 m to 58 m) (one RCT, 11 participants, very low quality evidence). However, the change in baseline was 48 m worse in the opioids group (ranging from 36 m to 60 m) (two RCTs, 26 participants, very low quality evidence).\nThe adverse effects reported included drowsiness, nausea and vomiting, and constipation. In those studies, participants were 4.73 times more likely to experience nausea and vomiting compared to placebo, three times more likely to experience constipation, and 2.86 times more likely to experience drowsiness (nine studies, 162 participants, very low quality evidence).\nOnly four studies assessed quality of life, and none demonstrated any significant change."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is some low quality evidence that shows benefit for the use of oral or parenteral opioids to palliate breathlessness, although the number of included participants was small. We found no evidence to support the use of nebulised opioids. Further research with larger numbers of participants, using standardised protocols and with quality of life measures included, is needed."
+    }
+  ],
+  "pls_title": "Opioids for treating breathlessness at the end of life",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "People with lung disease may experience breathlessness. Initial treatments should focus on the underlying causes of breathlessness. However, as the disease progresses, it may be better to focus on treating the symptoms. As well as standard care, opioids (e.g. morphine, given either by mouth, by nebuliser, or injected) may help relieve these symptoms. However, opioids also have side effects, such as drowsiness, constipation, nausea (feeling sick), and vomiting."
+    },
+    {
+      "heading": "Review question",
+      "text": "We wanted to know if opioid drugs reduced breathlessness in people with lung disease. We also looked at whether opioids improved their ability to exercise, and what side effects people had. We also wanted to know if opioid drugs improved their quality of life."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for studies up to 19 October 2015, and we included 26 studies with 526 people. These people had breathlessness from different types of lung disease. Some were given opioid drugs and some were given other drugs or a placebo, and studies compared the reporting of breathlessness to see if there was any difference. Some studies also looked at the amount of time people could exercise to see if there were any differences. Some people came from home, and some came from the hospital setting."
+    },
+    {
+      "heading": "Key findings",
+      "text": "There was some low quality evidence that showed a benefit of using oral or injectable opioid drugs for the treatment of the symptoms of breathlessness. There was no evidence for opioids by nebuliser. Some people experienced drowsiness, nausea, and vomiting. More research is needed using more people, and looking at effects on quality of life."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We rated the quality of the evidence using one of the following grades: very low, low, moderate, or high. Very low quality evidence means we are uncertain about the results. High quality evidence means we are very certain about the results. For this Cochrane review, we found that the evidence was of low to very low quality. We included randomised controlled trials which were blinded, which means that participants and those people that assessed the results did not know whether the participants had received the opioid drug or a placebo. However, the trials were of small size, and some studies did not give enough information to allow us to assess whether they were of good quality."
+    }
+  ]
+}

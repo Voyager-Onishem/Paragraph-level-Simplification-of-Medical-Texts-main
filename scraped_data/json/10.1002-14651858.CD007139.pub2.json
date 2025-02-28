@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD007139.pub2",
+  "name": "Alprazolam for depression",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The 'off-label' effect of alprazolam on depression has not been systematically evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the antidepressant effect, including tolerability and acceptability, of alprazolam as monotherapy for major depression, when compared to placebo and conventional antidepressants in outpatients and patients in primary care."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials and the Cochrane Depression, Anxiety and Neurosis Group Register, which includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years to February 2012); EMBASE (1970 to February 2012); MEDLINE (1950 to February 2012) and PsycINFO (1960 to February 2012). Two review authors identified relevant trials by assessing the abstracts of all possible studies. We applied no language restrictions."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We selected randomised controlled trials (RCTs) of alprazolam versus placebo or conventional antidepressants for depression in adults, excluding studies with inpatients only."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors performed the data extraction and 'Risk of bias' assessment independently with disagreements resolved through discussion with a third review author. Primary outcomes included the mean difference (MD) in reduction of depression on a continuous measure of depression symptoms, and the risk ratio (RR) of the clinical response based on a dichotomous measure, with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 21 alprazolam studies (22 reports) with a total of 2693 participants. Seven studies used a placebo (n = 771) and 20 used cyclic antidepressants (n = 1765). The typical duration of the studies was four to six weeks. We considered six studies to have a high risk of bias.\nWhen alprazolam was compared with placebo for reduction in symptoms all estimates indicated a positive effect for alprazolam. Pooled estimates of efficacy data showed a moderately large continuous mean difference (MD) at the end of trial (-5.34, 95% CI -7.48 to -3.20; I2 = 68%). The risk difference (RD) for the dichotomous measure of clinical response (50% improvement) was 0.32 in favour of alprazolam (95% CI 0.22 to 0.42; I2 = 0%), with a number needed to treat to benefit (NNTB) of 3 (95% CI 2 to 5). The RD of all-cause withdrawals did not differ between alprazolam and placebo.\nWhen depression severity was measured as a continuum the effect of alprazolam did not differ statistically or clinically from the effects of any of the conventional antidepressants combined (MD 0.25, 95% CI -0.93 to 1.43; I2 = 55%). However, for dichotomised depression severity, alprazolam had less effect than antidepressants (RR 0.86, 95% CI 0.75 to 0.99; I2 = 37%; RD -0.11, 95% CI -0.24 to 0.01; I2 = 58%; NNTB 9, 95% CI 4 to 100). The RD of all-cause withdrawals was -0.04 (95% CI -0.07 to 0.00; I2 = 35%), in favour of alprazolam."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Alprazolam appears to reduce depressive symptoms more effectively than placebo and as effectively as tricyclic antidepressants. However, the studies included in the review were heterogeneous, of poor quality and only addressed short-term effects, thus limiting our confidence in the findings. Whilst the rate of all-cause withdrawals did not appear to differ between alprazolam and placebo, and withdrawals were less frequent in the alprazolam group than in any of the conventional antidepressants combined group, these findings should be interpreted with caution, given the dependency properties of benzodiazepines."
+    }
+  ],
+  "pls_title": "Alprazolam for depression",
+  "pls_type": "long",
+  "pls": "Additional options to help those with depression control their mood, besides psychotherapy and antidepressants, can be important, especially when there is also anxiety involved. One of the drug options is alprazolam, a benzodiazepine. We evaluated the effect of alprazolam for depression. The best evidence currently available suggests that alprazolam may be moderately more effective than a placebo, and as effective as conventional antidepressants, in the treatment of major depression. We cannot conclude whether this is due to its specific antidepressant effect or to a non-specific effect on sleep and anxiety. There were relatively few short-term side effects. However, the multiple shortcomings of the currently available evidence, including probable sponsorship bias, publication bias, the age of the studies and the heterogeneity of the results, limit confidence in these findings."
+}

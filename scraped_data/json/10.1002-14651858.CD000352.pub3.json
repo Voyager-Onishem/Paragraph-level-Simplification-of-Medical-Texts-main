@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD000352.pub3",
+  "name": "Planned hospital birth compared with planned home birth for pregnant women at low risk of complications ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Observational studies of increasingly better quality and in different settings suggest that planned hospital birth in many places does not reduce mortality and morbidity but increases the frequency of interventions and complications. Euro-Peristat (part of the European Union's Health Monitoring Programme) has raised concerns about iatrogenic effects of obstetric interventions, and the World Health Organization (WHO) has raised concern that the increasing medicalisation of childbirth tends to undermine women’s own capability to give birth and negatively impacts their childbirth experience. This is an update of a Cochrane Review first published in 1998, and previously updated in 2012."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the effects of planned hospital birth with planned home birth attended by a midwife or others with midwifery skills and backed up by a modern hospital system in case a transfer to hospital should turn out to be necessary. The primary focus is on women with an uncomplicated pregnancy and low risk of medical intervention during birth."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For this update, we searched Cochrane Pregnancy and Childbirth’s Trials Register (which includes trials from CENTRAL, MEDLINE, Embase, CINAHL, WHO ICTRP, and conference proceedings), ClinicalTrials.gov (16 July 2021), and reference lists of retrieved studies."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing planned hospital birth with planned home birth in low-risk women as described in the objectives. Cluster-randomised trials, quasi-randomised trials, and trials published only as an abstract were also eligible."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trials for inclusion and risk of bias, extracted data, and checked the data for accuracy. We contacted study authors for additional information. We assessed the certainty of the evidence using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one trial involving 11 participants. This was a small feasibility study to show that well-informed women - contrary to common beliefs - were prepared to be randomised. This update did not identify any additional studies for inclusion, but excluded one study that had been awaiting assessment. The included study was at high risk of bias for three out of seven risk of bias domains. The trial did not report on five of the seven primary outcomes, and reported zero events for one primary outcome (caesarean section), and non-zero events for the remaining primary outcome (baby not breastfed). Maternal mortality, perinatal mortality (non-malformed), Apgar < 7 at 5 minutes, transfer to neonatal intensive care unit, and maternal satisfaction were not reported. The overall certainty of the evidence for the two reported primary outcomes was very low according to our GRADE assessment (downgraded two levels for high overall risk of bias (due to high risk of bias arising from lack of blinding, high risk of selective reporting and lack of ability to check for publication bias) and two levels for very serious imprecision (single study with few events))."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review shows that for selected, low-risk pregnant women, the evidence from randomised trials to support that planned hospital birth reduces maternal or perinatal mortality, morbidity, or any other critical outcome is uncertain. As the quality of evidence in favour of home birth from observational studies seems to be steadily increasing, it might be just as important to prepare a regularly updated systematic review including observational studies as described in the Cochrane Handbook for Systematic Reviews of Interventions as to attempt to set up new RCTs. As women and healthcare practitioners may be aware of evidence from observational studies, and as the International Federation of Gynecology and Obstetrics and the International Confederation of Midwives collaboratively conclude that there is strong evidence that out-of-hospital birth supported by a registered midwife is safe, equipoise may no longer exist, and randomised trials may now thus be considered unethical or hardly feasible."
+    }
+  ],
+  "pls_title": "Planned hospital birth versus planned home birth",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "What is the issue?",
+      "text": "Most pregnancies among healthy women are normal, and most births could take place without unnecessary medical intervention. However, it is not possible to predict with certainty that no complications will occur in the course of a birth. Thus, in many countries, it is believed that the safest option is for all women to give birth at hospital. In a few countries, however, it is believed that as long as a woman is cared for during pregnancy and assisted during birth by a midwife, with transfer between home and hospital available (if needed), then home birth is, and can be, an integrated part of maternity care. It seems increasingly clear that anxiety and easy access to many medical procedures at hospital may lead to increased levels of intervention, which in turn may lead to further interventions and finally to unnecessary complications. In a planned home birth assisted by an experienced midwife with collaborative medical backup in case transfer should be necessary, these drawbacks are avoided, while the benefit of access to medical intervention when needed is maintained."
+    },
+    {
+      "heading": "Why is this important?",
+      "text": "Increasingly, better observational studies suggest that planned hospital birth for women at low risk of complications is not any safer than planned home birth assisted by an experienced midwife with collaborative medical backup, but it may lead to more interventions and more complications. Presentation of potential benefits and harms of a planned hospital birth compared to a planned home birth is likely to be highly relevant to pregnant women."
+    },
+    {
+      "heading": "What evidence did we find?",
+      "text": "We searched for evidence from randomised controlled trials (RCTs) (studies where participants are randomly assigned to one of two or more treatment groups) in July 2021. No new RCTs were identified in addition to the two previously identified very small RCTs. Only one RCT (involving 11 women and their babies) contributed data to the review, so it is not possible to draw any conclusions from such a small number of women and babies. To the extent that the study reported data, the certainty of the evidence was very low. We found no strong evidence from RCTs to favour either planned hospital birth or planned home birth for pregnant women at low risk of complications. Several things have been added to the review in this update. Most importantly, the evidence has been placed in the context of today. As advised in the updated version of the Cochrane Handbook, we have also a) added a conceptual framework to illustrate the proposed mechanism of action of the complex intervention ‘planned hospital birth’, and b) reassessed the evidence using a whole range of new tools, methodologies, and terminology. These exercises did not lead to a substantially different interpretation of the available evidence, but the implications have changed."
+    },
+    {
+      "heading": "What does this mean?",
+      "text": "There is not enough evidence from RCTs (considered the best form of evidence of effectiveness) to allow firm conclusions to be drawn. Also, further RCTs are not considered feasible, and they are no longer considered appropriate by many midwives, obstetricians, and parents. As the quality of evidence from observational studies is steadily increasing, it might be useful to include evidence from properly performed systematic reviews of observational studies in future updates of this review."
+    }
+  ]
+}

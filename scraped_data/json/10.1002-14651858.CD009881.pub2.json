@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009881.pub2",
+  "name": "Progesterone receptor modulators for endometriosis",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Endometriosis is defined as the presence of endometrial tissue (glands and stroma) outside the uterine cavity. This condition is oestrogen-dependent and thus is seen primarily during the reproductive years. Owing to their antiproliferative effects in the endometrium, progesterone receptor modulators (PRMs) have been advocated for treatment of endometriosis."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of PRMs primarily in terms of pain relief as compared with other treatments or placebo or no treatment in women of reproductive age with endometriosis."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following electronic databases, trial registers, and websites: the Cochrane Gynaecology and Fertility Group (CGFG) Specialised Register of Controlled Trials, the Central Register of Studies Online (CRSO), MEDLINE, Embase, PsycINFO, clinicaltrials.gov, and the World Health Organization (WHO) platform, from inception to 28 November 2016. We handsearched reference lists of articles retrieved by the search."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) published in all languages that examined effects of PRMs for treatment of symptomatic endometriosis."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures as expected by the Cochrane Collaboration. Primary outcomes included measures of pain and side effects."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 10 randomised controlled trials (RCTs) with 960 women. Two RCTs compared mifepristone versus placebo or versus a different dose of mifepristone, one RCT compared asoprisnil versus placebo, one compared ulipristal versus leuprolide acetate, and four compared gestrinone versus danazol, gonadotropin-releasing hormone (GnRH) analogues, or a different dose of gestrinone. The quality of evidence ranged from high to very low. The main limitations were serious risk of bias (associated with poor reporting of methods and high or unclear rates of attrition in most studies), very serious imprecision (associated with low event rates and wide confidence intervals), and indirectness (outcome assessed in a select subgroup of participants).\nMifepristone versus placebo\nOne study made this comparison and reported rates of painful symptoms among women who reported symptoms at baseline.\nAt three months, the mifepristone group had lower rates of dysmenorrhoea (odds ratio (OR) 0.08, 95% confidence interval (CI) 0.04 to 0.17; one RCT, n =352; moderate-quality evidence), suggesting that if 40% of women taking placebo experience dysmenorrhoea, then between 3% and 10% of women taking mifepristone will do so. The mifepristone group also had lower rates of dyspareunia (OR 0.23, 95% CI 0.11 to 0.51; one RCT, n = 223; low-quality evidence). However, the mifepristone group had higher rates of side effects: Nearly 90% had amenorrhoea and 24% had hot flushes, although the placebo group reported only one event of each (1%) (high-quality evidence). Evidence was insufficient to show differences in rates of nausea, vomiting, or fatigue, if present.\nMifepristone dose comparisons\nTwo studies compared doses of mifepristone and found insufficient evidence to show differences between different doses in terms of effectiveness or safety, if present. However, subgroup analysis of comparisons between mifepristone and placebo suggest that the 2.5 mg dose may be less effective than 5 mg or 10 mg for treating dysmenorrhoea or dyspareunia.\nGestrinone comparisons\nOns study compared gestrinone with danazol, and another study compared gestrinone with leuprolin.\nEvidence was insufficient to show differences, if present, between gestrinone and danazol in rate of pain relief (those reporting no or mild pelvic pain) (OR 0.71, 95% CI 0.33 to 1.56; two RCTs, n = 230; very low-quality evidence), dysmenorrhoea (OR 0.72, 95% CI 0.39 to 1.33; two RCTs, n = 214; very low-quality evidence), or dyspareunia (OR 0.83, 95% CI 0.37 to 1.86; two RCTs, n = 222; very low-quality evidence). The gestrinone group had a higher rate of hirsutism (OR 2.63, 95% CI 1.60 to 4.32; two RCTs, n = 302; very low-quality evidence) and a lower rate of decreased breast size (OR 0.62, 95% CI 0.38 to 0.98; two RCTs, n = 302; low-quality evidence). Evidence was insufficient to show differences between groups, if present, in rate of hot flushes (OR 0.79, 95% CI 0.50 to 1.26; two RCTs, n = 302; very low-quality evidence) or acne (OR 1.45, 95% CI 0.90 to 2.33; two RCTs, n = 302; low-quality evidence).\nWhen researchers compared gestrinone versus leuprolin through measurements on the 1 to 3 verbal rating scale (lower score denotes benefit), the mean dysmenorrhoea score was higher in the gestrinone group (MD 0.35 points, 95% CI 0.12 to 0.58; one RCT, n = 55; low-quality evidence), but the mean dyspareunia score was lower in this group (MD 0.33 points, 95% CI 0.62 to 0.04; low-quality evidence). The gestrinone group had lower rates of amenorrhoea (OR 0.04, 95% CI 0.01 to 0.38; one RCT, n = 49; low-quality evidence) and hot flushes (OR 0.20, 95% CI 0.06 to 0.63; one study, n = 55; low quality evidence) but higher rates of spotting or bleeding (OR 22.92, 95% CI 2.64 to 198.66; one RCT, n = 49; low-quality evidence).\nEvidence was insufficient to show differences in effectiveness or safety between different doses of gestrinone, if present.\nAsoprisnil versus placebo\nOne study (n = 130) made this comparison but did not report data suitable for analysis.\nUlipristal versus leuprolide acetate\nOne study (n = 38) made this comparison but did not report data suitable for analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Among women with endometriosis, moderate-quality evidence shows that mifepristone relieves dysmenorrhoea, and low-quality evidence suggests that this agent relieves dyspareunia, although amenorrhoea and hot flushes are common side effects. Data on dosage were inconclusive, although they suggest that the 2.5 mg dose of mifepristone may be less effective than higher doses. We found insufficient evidence to permit firm conclusions about the safety and effectiveness of other progesterone receptor modulators."
+    }
+  ],
+  "pls_title": "Progesterone receptor modulators for endometriosis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Researchers in the Cochrane Collaboration reviewed evidence on the effectiveness and safety of progesterone receptor modulators for women with endometriosis."
+    },
+    {
+      "heading": "Background",
+      "text": "Endometriosis is a disease of endometrial tissue (glands and stroma) outside the uterine cavity. It is oestrogen-dependent and thus is seen primarily during the reproductive years. It can cause pain in the abdomen, generally during periods (menstruation) or associated with sexual intercourse. Progesterone receptor modulators have been advocated as one of the hormonal treatments for endometriosis."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found 10 randomised controlled trials including 960 women; the evidence is current to November 2016."
+    },
+    {
+      "heading": "Key results",
+      "text": "Three studies assessed mifepristone. Moderate-quality evidence shows that mifepristone relieves dysmenorrhoea (painful periods) in women with endometriosis. Evidence suggests that if 40% of women taking placebo experience dysmenorrhoea, then between 3% and 10% of women taking mifepristone will do so. Low-quality evidence suggests that mifepristone also relieves dyspareunia (pain during sexual intercourse). However, amenorrhoea (absence of menstrual periods) and hot flushes were common side effects of mifepristone. Nearly 90% of the mifepristone group had amenorrhoea, and 24% had hot flushes, although researchers reported only one event of each (1%) among women taking placebo. Evidence was insufficient to show differences in rates of nausea, vomiting, or fatigue, if present.\nComparisons of different doses of mifepristone were inconclusive, although evidence suggests that the 2.5 mg dose may be less effective than higher doses.\nOther studies assessed other progesterone receptor modulators. Researchers compared gestrinone versus other treatments (danazol or leuprolin), ulipristal versus leuprolide acetate, and asoprisnil verus placebo. However, evidence was insufficient to allow firm conclusions regarding the safety and effectiveness of these interventions."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The quality of the evidence ranged from moderate to low. The main limitations were serious risk of bias (associated with poor reporting of methods and high or unclear rates of attrition in most studies), very serious imprecision (associated with low event rates and wide confidence intervals), and indirectness (outcome assessed in a select subgroup of participants)."
+    }
+  ]
+}

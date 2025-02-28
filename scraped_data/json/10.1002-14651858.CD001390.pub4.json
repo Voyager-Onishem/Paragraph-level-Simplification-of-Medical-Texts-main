@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD001390.pub4",
+  "name": "Pneumococcal vaccines for preventing pneumonia in chronic obstructive pulmonary disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with chronic obstructive pulmonary disease (COPD) are at increased risk of pneumococcal disease, especially pneumonia, as well as acute exacerbations with associated morbidity and healthcare costs."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the efficacy of injectable pneumococcal vaccination for preventing pneumonia in persons with COPD."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Airways COPD Trials Register and the databases CENTRAL, MEDLINE and Embase, using prespecified terms. Searches are current to November 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCT) comparing injectable pneumococcal polysaccharide vaccine (PPV) or pneumococcal conjugated vaccine (PCV) versus a control or alternative vaccine type in people with COPD."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard Cochrane methodological procedures. For meta-analyses, we subgrouped studies by vaccine type."
+    },
+    {
+      "heading": "Main results",
+      "text": "For this update, we added five studies (606 participants), meaning that the review now includes a total of 12 RCTs involving 2171 participants with COPD. Average age of participants was 66 years, male participants accounted for 67% and mean forced expiratory volume in one second (FEV1) was 1.2 L (five studies), 54% predicted (four studies). We assessed risks of selection, attrition and reporting bias as low, and risks of performance and detection bias as moderate.\nCompared with control, the vaccine group had a lower likelihood of developing community-acquired pneumonia (CAP) (odds ratio (OR) 0.59 , 95% confidence interval (CI) 0.41 to 0.85; six studies, n = 1372; GRADE: moderate), but findings did not differ specifically for pneumococcal pneumonia (Peto OR 0.26, 95% CI 0.05 to 1.31; three studies, n = 1158; GRADE: low). The number needed to treat for an additional beneficial outcome (NNTB) (preventing one episode of CAP) was 19 (95% CI 13 to 52). Mortality from cardiorespiratory causes did not differ between vaccine and control groups (OR 1.07, 95% CI 0.69 to 1.66; three studies, n = 888; GRADE: moderate), nor did all-cause mortality differ (OR 1.00, 95% CI 0.72 to 1.40; five studies, n = 1053; GRADE: moderate). The likelihood of hospital admission for any cause, or for cardiorespiratory causes, did not differ between vaccine and control groups. Vaccination significantly reduced the likelihood of a COPD exacerbation (OR 0.60, 95% CI 0.39 to 0.93; four studies, n = 446; GRADE: moderate). The NNTB to prevent a patient from experiencing an acute exacerbation was 8 (95% CI 5 to 58). Only one study (n = 181) compared the efficacy of different vaccine types - 23-valent PPV versus 7-valent PCV - and reported no differences for CAP, all-cause mortality, hospital admission or likelihood of a COPD exacerbation, but investigators described a greater likelihood of some mild adverse effects of vaccination with PPV-23."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Injectable polyvalent pneumococcal vaccination provides significant protection against community-acquired pneumonia, although no evidence indicates that vaccination reduced the risk of confirmed pneumococcal pneumonia, which was a relatively rare event. Vaccination reduced the likelihood of a COPD exacerbation, and moderate-quality evidence suggests the benefits of pneumococcal vaccination in people with COPD. Evidence was insufficient for comparison of different pneumococcal vaccine types."
+    }
+  ],
+  "pls_title": "Do injectable pneumococcal vaccines prevent pneumonia in people with COPD?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "",
+      "text": "We wanted to find out if pneumococcal vaccination for people with chronic obstructive pulmonary disease (COPD) reduces the risk of pneumonia and associated mortality. We found a total of 12 studies including 2171 participants. Evidence gathered in this review is current to December 2015."
+    },
+    {
+      "heading": "Background",
+      "text": "People with COPD are at increased risk of respiratory illness such as pneumonia due to a bacterium called Streptococcus pneumoniae, other community-acquired pneumonias and acute COPD exacerbations. These illnesses increase mortality and are associated with increased healthcare costs."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "For this updated review, we identified five new studies (606 participants), bringing the total number of studies to 12, involving 2171 participants with COPD. The average age of participants was 66 years, 67% were male and participants had received a diagnosis of moderate to severe COPD. Eleven studies compared an injectable vaccine versus a control, and one study compared two different types of injectable vaccine."
+    },
+    {
+      "heading": "Key results",
+      "text": "People who were vaccinated were less likely to experience an episode of community-acquired pneumonia; 19 people with COPD (95% confidence interval (CI) 13 to 52) would have to be vaccinated to prevent one episode of pneumonia. Vaccination made no difference in the risk of pneumococcal pneumonia due to S pneumoniae or in the chance of dying or of being admitted to hospital. People who were vaccinated were less likely to experience a COPD exacerbation; eight people with COPD (95% CI 5 to 58) would have to be vaccinated to prevent one person from having an acute exacerbation. We found no difference in effectiveness between the two types of injectable vaccine."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "Evidence in this review is generally independent and reliable, and we are moderately certain about the results."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "In line with current guidance, this review suggests that all people with COPD should be given pneumococcal vaccination to provide some protection against community-acquired pneumonia, and to reduce the chance of an acute exacerbation."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD004496.pub3",
+  "name": "Intraventricular antibiotics for bacterial meningitis in neonates",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Neonatal meningitis may be caused by bacteria, especially gram-negative bacteria, which are difficult to eradicate from the cerebrospinal fluid (CSF) using safe doses of antibiotics. In theory, intraventricular administration of antibiotics would produce higher antibiotic concentrations in the CSF than intravenous administration alone, and eliminate the bacteria more quickly. However, ventricular taps may cause harm."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness and safety of intraventricular antibiotics (with or without intravenous antibiotics) in neonates with meningitis (with or without ventriculitis) as compared to treatment with intravenous antibiotics alone."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Library, Issue 2, 2007; MEDLINE; EMBASE; CINAHL and Science Citation Index were searched in June 2007. The Oxford Database of Perinatal Trials was searched in June 2004. Pediatric Research (abstracts of proceedings) were searched (1990 to April 2007) as were reference lists of identified trials and personal files. No language restrictions were applied.\nThis search was updated in May 2011."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Selection criteria for study inclusion were: randomised or quasi-randomised controlled trials in which intraventricular antibiotics with or without intravenous antibiotics were compared with intravenous antibiotics alone in neonates (< 28 days old) with meningitis. One of the following outcomes was required to be reported: mortality during initial hospitalisation; neonatal or infant mortality, or both; neurodevelopmental outcome; duration of hospitalisation; duration of culture positivity of CSF and side effects."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All review authors abstracted information for outcomes reported and one review author checked for discrepancies and entered data into RevMan 5.1. Risk ratio (RR), risk difference (RD), number needed to treat for an additional beneficial outcome (NNTB) or number needed to treat for an additional harmful outcome (NNTH), and mean difference (MD), using the fixed-effect model are reported with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "The updated search in June 2011 did not identify any new trials. One study is included in the review. This study assessed the effect of intraventricular gentamicin in a mixed population of neonates (69%) and older infants (31%) with gram-negative meningitis and ventriculitis. Mortality was statistically significantly higher in the group that received intraventricular gentamicin in addition to intravenous antibiotics compared to the group receiving intravenous antibiotics alone (RR 3.43; 95% CI 1.09 to 10.74; RD 0.30; 95% CI 0.08 to 0.53); NNTH 3; 95% CI 2 to 13). Duration of CSF culture positivity did not differ significantly (MD -1.20 days; 95% CI -2.67 to 0.27)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "In one trial that enrolled infants with gram-negative meningitis and ventriculitis, the use of intraventricular antibiotics in addition to intravenous antibiotics resulted in a three-fold increased RR for mortality compared to standard treatment with intravenous antibiotics alone. Based on this result, intraventricular antibiotics as tested in this trial should be avoided. Further trials comparing these interventions are not justified in this population."
+    }
+  ],
+  "pls_title": "Intraventricular antibiotics for bacterial meningitis in neonates",
+  "pls_type": "long",
+  "pls": "Infection of the membranes and the fluid surrounding the brain (meningitis) and of the fluid-filled spaces in the brain (ventriculitis) may be caused by bacteria, especially gram-negative bacteria. This type of infection is difficult to eradicate using safe doses of antibiotics given into the blood stream. In theory, intraventricular administration of antibiotics (administration of antibiotics into the fluid-filled spaces in the centre of the brain) would produce higher antibiotic concentrations in the fluid in the brain than intravenous administration alone, and eliminate the bacteria more quickly. However, taps of the fluid-filled spaces may cause harm as the needle has to penetrate the brain tissue. Only one trial was identified. In this trial enrolling infants with gram-negative meningitis and ventriculitis, the use of intraventricular antibiotics in addition to intravenous antibiotics resulted in a three-fold increased risk for mortality compared to standard treatment with intravenous antibiotics alone. Based on this result, intraventricular antibiotics should be avoided. Further trials comparing these interventions are not justified in newborn infants."
+}

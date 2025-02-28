@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009031.pub2",
+  "name": "Outpatient treatment for people with cancer who develop a low‐risk febrile neutropaenic event ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "People with febrile neutropaenia are usually treated in a hospital setting. Recently, treatment with oral antibiotics has been proven to be as effective as intravenous therapy. However, the efficacy and safety of outpatient treatment have not been fully evaluated."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To compare the efficacy (treatment failure and mortality) and safety (adverse events of antimicrobials) of outpatient treatment compared with inpatient treatment in people with cancer who have low-risk febrile neutropaenia."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 11) in the Cochrane Library, MEDLINE via Ovid (from 1948 to November week 4, 2018), Embase via Ovid (from 1980 to 2018, week 48) and trial registries (National Cancer Institute, MetaRegister of Controlled Trials, Medical Research Council Clinical Trial Directory). We handsearched all references of included studies and major reviews."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing outpatient with inpatient treatment for people with cancer who develop febrile neutropaenia. The outpatient group included those who started treatment as an inpatient and completed the antibiotic course at home (sequential) as well as those who started treatment at home."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial eligibility, methodological quality, and extracted data. Primary outcome measures were: treatment failure and mortality; secondary outcome measures considered were: duration of fever, adverse drug reactions to antimicrobial treatment, duration of neutropaenia, duration of hospitalisation, duration of antimicrobial treatment, and quality of life (QoL). We estimated risk ratios (RRs) with 95% confidence intervals (CIs) for dichotomous data; we calculated weighted mean differences for continuous data. Random-effects meta-analyses and sensitivity analyses were conducted."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included ten RCTs, six in adults (628 participants) and four in children (366 participants). We found no clear evidence of a difference in treatment failure between the outpatient and inpatient groups, either in adults (RR 1.23, 95% CI 0.82 to 1.85, I2 0%; six studies; moderate-certainty evidence) or children (RR 1.04, 95% CI 0.55 to 1.99, I2 0%; four studies; moderate-certainty evidence). For mortality, we also found no clear evidence of a difference either in studies in adults (RR 1.04, 95% CI 0.29 to 3.71; six studies; 628 participants; moderate-certainty evidence) or in children (RR 0.63, 95% CI 0.15 to 2.70; three studies; 329 participants; moderate-certainty evidence).\nAccording to the type of intervention (early discharge or exclusively outpatient), meta-analysis of treatment failure in four RCTs in adults with early discharge (RR 1.48, 95% CI 0.74 to 2.95; P = 0.26, I2 0%; 364 participants; moderate-certainty evidence) was similar to the results of the exclusively outpatient meta-analysis (RR 1.15, 95% CI 0.62 to 2.13; P = 0.65, I2 19%; two studies; 264 participants; moderate-certainty evidence).\nRegarding the secondary outcome measures, we found no clear evidence of a difference between outpatient and inpatient groups in duration of fever (adults: mean difference (MD) 0.2, 95% CI -0.36 to 0.76, 1 study, 169 participants; low-certainty evidence) (children: MD -0.6, 95% CI -0.84 to 0.71, 3 studies, 305 participants; low-certainty evidence) and in duration of neutropaenia (adults: MD 0.1, 95% CI -0.59 to 0.79, 1 study, 169 participants; low-certainty evidence) (children: MD -0.65, 95% CI -1.86 to 0.55, 2 studies, 268 participants; moderate-certainty evidence). With regard to adverse drug reactions, although there was greater frequency in the outpatient group, we found no clear evidence of a difference when compared to the inpatient group, either in adult participants (RR 8.39, 95% CI 0.38 to 187.15; three studies; 375 participants; low-certainty evidence) or children (RR 1.90, 95% CI 0.61 to 5.98; two studies; 156 participants; low-certainty evidence).\nFour studies compared the hospitalisation time and found that the mean number of days of hospital stay was lower in the outpatient treated group by 1.64 days in adults (MD -1.64, 95% CI -2.22 to -1.06; 3 studies, 251 participants; low-certainty evidence) and by 3.9 days in children (MD -3.90, 95% CI -5.37 to -2.43; 1 study, 119 participants; low-certainty evidence). In the 3 RCTs of children in which days of antimicrobial treatment were analysed, we found no difference between outpatient and inpatient groups (MD -0.07, 95% CI -1.26 to 1.12; 305 participants; low-certainty evidence).\nWe identified two studies that measured QoL: one in adults and one in children. QoL was slightly better in the outpatient group than in the inpatient group in both studies, but there was no consistency in the domains included."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Outpatient treatment for low-risk febrile neutropaenia in people with cancer probably makes little or no difference to treatment failure and mortality compared with the standard hospital (inpatient) treatment and may reduce time that patients need to be treated in hospital."
+    }
+  ],
+  "pls_title": "Outpatient treatment for cancer patient with low-risk febrile neutropaenic event is effective.",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Is outpatient treatment with antibiotics safe and effective for people with cancer who have low neutrophil levels (type of white blood cell) and develop a fever (called febrile neutropaenia), usually as a result of chemotherapy?"
+    },
+    {
+      "heading": "Background",
+      "text": "Neutrophils (a type of white blood cell) are key to fighting bacterial infections. People treated for cancer often have low neutrophil levels, which is called neutropaenia, most commonly because of chemotherapy treatment. This leaves them susceptible to infection, which can become serious and potentially life-threatening very quickly. This is called neutropaenic sepsis. For many years, people with cancer who develop a fever whilst they are neutropaenic (called neutropaenic fever) have been given antibiotics to prevent them from developing overwhelming neutropaenic sepsis. Depending of the duration of neutropaenia, as well as type of cancer, age and other symptoms, patients can fall in to two risk groups: high- or low risk of developing a serious infection. Recently, treatment with oral antibiotics (medicine given as liquid or tablets by mouth) has been proven to be as effective as intravenous (medicine injected into a vein) treatments. However, it is unclear whether providing treatment in an outpatient setting is as safe as therapy administered in a hospital setting."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "Ten studies (994 participants) provided information for the review. These ten studies compared outpatient antibiotic therapy (491 participants) versus inpatient therapy (503 participants) in people with cancer who developed febrile neutropaenia. Six studies were conducted in adults (628 participants) and four studies were in children (366 participants). These ten trials compared effectiveness in terms of the disappearance of signs of infection (mainly fever) and nine studies assessed the effect on mortality (death). Eight studies recorded the number of treatment days for the fever to resolve. Five studies compared the duration of neutropaenia between out- and inpatients. Five studies analysed duration of antibiotics usage and six looked at the duration of hospitalisation.Two studies assessed quality of life for patients.\nIn eight of the 10 studies, outpatient antibiotic therapy was part of an early discharge programme, i.e. antibiotics were given for a few days in the hospital and then the participants was discharged home. In the other two studies, the antibiotics were started at home."
+    },
+    {
+      "heading": "Key results",
+      "text": "Outpatient antibiotic therapy is probably as effective as inpatient therapy in people (both in adults and children) with cancer who develop febrile neutropaenia for improving the signs of infection, including reducing fever. There was probably little or no difference in mortality between the outpatient therapy and inpatient therapy, as well as in the duration of treatment with antibiotics, or frequency of adverse events related to the use of antibiotics. Treatment as an outpatient may reduce the number of days patients need to be treated in hospital."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "In general, the studies were of moderate certainty."
+    }
+  ]
+}

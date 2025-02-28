@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD009803.pub2",
+  "name": "Cardiopulmonary resuscitation (CPR) plus delayed defibrillation versus immediate defibrillation for out‐of‐hospital cardiac arrest ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Sudden cardiac arrest (SCA) is a common health problem associated with high levels of mortality. Cardiac arrest is caused by three groups of dysrhythmias: ventricular fibrillation (VF) or pulseless ventricular tachycardia (VT), pulseless electric activity (PEA) and asystole. The most common dysrhythmia found in out-of-hospital cardiac arrest (OHCA) is VF. During VF or VT, cardiopulmonary resuscitation (CPR) provides perfusion and oxygenation to the tissues, whilst defibrillation restores a viable cardiac rhythm. Early successful defibrillation is known to improve outcomes in VF/VT. However, it has been hypothesized that a period of CPR before defibrillation creates a more conducive physiological environment, increasing the likelihood of successful defibrillation. The order of priority of CPR versus defibrillation therefore remains in contention. As previous studies have remained inconclusive, we conducted a systematic review of available evidence in an attempt to draw conclusions on whether CPR plus delayed defibrillation or immediate defibrillation resulted in better outcomes in OHCA."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To examine whether an initial one and one-half to three minutes of CPR administered by paramedics before defibrillation versus immediate defibrillation on arrival influenced survival rates, neurological outcomes or rates of return of spontaneous circulation (ROSC) in OHCA."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the following databases: the Cochrane Central Register of Controlled trials (CENTRAL) (2013, Issue 6); MEDLINE (Ovid) (1948 to May 2013); EMBASE (1980 to May 2013); the Institute for Scientific Information (ISI) Web of Science (1980 to May 2013) and the China Academic Journal Network Publishing Database (China National Knowledge Infrastructure (CNKI), 1980 to May 2013). We included studies published in all languages. We also searched the Current Controlled Trials and Clinical Trials databases for ongoing trials. We screened the references lists of studies included in our review against the reference lists of relevant International Liaison Committee on Resuscitation (ILCOR) evidence worksheets."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Our participant group consisted of adults over 18 years of age presenting with OHCA who were in VF or pulseless VT at the time of emergency medical service (EMS) paramedic arrival. We included randomized controlled trials (RCTs) and quasi-randomized controlled trials that evaluated the effects of one and one-half to three minutes of CPR versus defibrillation as initial therapy on survival and neurological outcomes of these participants. We excluded observational and cross-over design studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently extracted the data. We contacted study authors to ask for additional data when required. The risk ratio (RR) for each outcome was calculated and summarized in the meta-analysis after heterogeneity was considered. We used Review Manager software for all analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included four RCTs with a total of 3090 enrolled participants (one study used a cluster-randomized design). Three trials were considered to have a relatively low risk of bias, and one trial was considered to have a relatively high risk. When survival to hospital discharge was compared, 38 of 320 (11.88%) participants survived to discharge in the initial CPR plus delayed defibrillation group compared with 39 of 338 participants (11.54%) in the immediate defibrillation group (RR 1.09, 95% CI 0.54 to 2.20, Chi2 = 10.78, degrees of freedom (df) = 5, P value 0.06, I2 = 54%, low-quality evidence).\nWhen we compared the neurological outcome at hospital discharge (RR 1.12, 95% CI 0.65 to 1.93, low-quality evidence), the rate of return of spontaneous circulation (ROSC) (RR 0.94, 95% CI 0.77 to 1.15,low-quality evidence) and survival at one year (RR 0.77, 95% CI 0.24 to 2.49, low-quality evidence), we could not rule out the superiority of either treatment.\nAdverse effects were not associated with either treatment."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Owing to the low quality of available evidence, we have been unable to determine conclusively whether immediate defibrillation and one and one-half to three minutes of CPR as initial therapy before defibrillation have similar effects on rates of return of spontaneous circulation, survival to discharge or neurological insult.\nWe have also been unable to conclude whether either treatment approach provides a degree of superiority in OHCA.\nWe propose that this is an area that needs further rigorous research through additional high-quality RCTs, including larger sample sizes and proper subgroup analysis."
+    }
+  ],
+  "pls_title": "Should health care providers arriving at scene of a cardiac arrest give a period of chest compressions first before providing a rapid electric shock",
+  "pls_type": "long",
+  "pls": "Out-of-hospital cardiac arrest (OHCA) is a major cause of death worldwide. Cardiac arrest occurs when the rhythm of the heart becomes disorganized and the heart becomes ineffective at pumping blood to the rest of the body. Prolonged periods of reduced oxygen to the brain can cause permanent damage. Cardiac arrest can be caused by, but is different from, a heart attack (myocardial infarction).\nThe disorganized rhythm that the heart goes into in cardiac arrest is often amenable to electric shock therapy (defibrillation). Chest compressions are also very important, as they go some way toward replicating the heart's action by pumping oxygen-rich blood through the body, rescuing the organs by providing them with oxygen and nutrients. Some scientists have proposed that it is better for health care providers to give a period of chest compressions before providing an electric shock to restart the heart, rather than giving an immediate electric shock, when they arrive on the scene. The idea is that chest compressions make the electric shock more likely to be successful, as the chest compressions start to rescue conditions within the body, making it a more conducive environment for a normal heart rhythm to establish itself after defibrillation. We decided to investigate this question by conducting a Cochrane systematic review to assess whether any evidence from trials would support this theory. We searched available databases until May 2013 to find suitable trials for review, and we included four randomized controlled trials with a total number of 3090 patients.\nAfter reviewing the studies and their available data, we could not be certain that one approach had superiority over another, and we could not establish whether the two treatments had similar effects on outcomes. We found no adverse effects associated with either treatment. Currently, no definitive evidence allows us to conclude that chest compressions should be the initial therapy for patients with OHCA over immediate electric shock treatment. However, we believe that the amount and quality of research in this area currently are not sufficient to allow strong conclusions. To further our understanding of the efficacy of these two different strategies, further rigorous randomized controlled trials are required."
+}

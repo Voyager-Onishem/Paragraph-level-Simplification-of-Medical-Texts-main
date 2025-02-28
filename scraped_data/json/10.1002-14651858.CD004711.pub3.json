@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD004711.pub3",
+  "name": "Heat and moisture exchangers versus heated humidifiers for mechanically ventilated adults and children ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Invasive ventilation is used to assist or replace breathing when a person is unable to breathe adequately on their own. Because the upper airway is bypassed during mechanical ventilation, the respiratory system is no longer able to warm and moisten inhaled gases, potentially causing additional breathing problems in people who already require assisted breathing. To prevent these problems, gases are artificially warmed and humidified. There are two main forms of humidification, heat and moisture exchangers (HME) or heated humidifiers (HH). Both are associated with potential benefits and advantages but it is unclear whether HME or HH are more effective in preventing some of the negative outcomes associated with mechanical ventilation. This review was originally published in 2010 and updated in 2017."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess whether heat and moisture exchangers or heated humidifiers are more effective in preventing complications in people receiving invasive mechanical ventilation and to identify whether the age group of participants, length of humidification, type of HME, and ventilation delivered through a tracheostomy had an effect on these findings."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials, MEDLINE, Embase and CINAHL up to May 2017 to identify randomized controlled trials (RCTs) and reference lists of included studies and relevant reviews. There were no language limitations."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included RCTs comparing HMEs to HHs in adults and children receiving invasive ventilation. We included randomized cross-over studies."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed the quality of each study and extracted the relevant data. Where possible, we analysed data through meta-analysis. For dichotomous outcomes, we calculated the risk ratio (RR) and 95% confidence interval (95% CI). For continuous outcomes, we calculated the mean difference (MD) and 95% CI or standardized mean difference (SMD) and 95% CI for parallel studies. For cross-over trials, we calculated the MD and 95% CI using correlation estimates to correct for paired analyses. We aimed to conduct subgroup analyses based on the age group of participants, how long they received humidification, type of HME and whether ventilation was delivered through a tracheostomy. We also conducted sensitivity analysis to identify whether the quality of trials had an effect on meta-analytic findings."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 34 trials with 2848 participants; 26 studies were parallel-group design (2725 participants) and eight used a cross-over design (123 participants). Only three included studies reported data for infants or children. Two further studies (76 participants) are awaiting classification.\nThere was no overall statistical difference in artificial airway occlusion (RR 1.59, 95% CI 0.60 to 4.19; participants = 2171; studies = 15; I2 = 54%), mortality (RR 1.03, 95% CI 0.89 to 1.20; participants = 1951; studies = 12; I2 = 0%) or pneumonia (RR 0.93, 95% CI 0.73 to 1.19; participants = 2251; studies = 13; I2 = 27%). There was some evidence that hydrophobic HMEs may reduce the risk of pneumonia compared to HHs (RR 0.48, 95% CI 0.28 to 0.82; participants = 469; studies = 3; I2 = 0%)..\nThe overall GRADE quality of evidence was low. Although the overall methodological risk of bias was generally unclear for selection and detection bias and low risk for follow-up, the selection of study participants who were considered suitable for HME and in some studies removing participants from the HME group made the findings of this review difficult to generalize."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The available evidence suggests no difference between HMEs and HHs on the primary outcomes of airway blockages, pneumonia and mortality. However, the overall low quality of this evidence makes it difficult to be confident about these findings. Further research is needed to compare HMEs to HHs, particularly in paediatric and neonatal populations, but research is also needed to more effectively compare different types of HME to each other as well as different types of HH."
+    }
+  ],
+  "pls_title": "Heat and moisture exchangers compared to heated humidifiers for ventilated adults and children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "Are heat and moisture exchangers or heated humidifiers more effective in preventing complications such as airway blockages and pneumonia in adults, children or infants who receive invasive mechanical ventilation."
+    },
+    {
+      "heading": "Background",
+      "text": "When mechanical ventilation is used to keep critically ill people breathing effectively, the upper airway must be humidified by artificial means. Heat and moisture exchangers and heated humidifiers are the most commonly used methods of artificial humidification. Both have been associated with specific advantages and disadvantages; for example, heat and moisture exchangers are thought to be more likely to cause airway obstruction while heated humidifiers have been associated with an increased risk of pneumonia (swelling (inflammation) of the tissue in one or both lungs)."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched for studies up to May 2017. We included 34 trials in the review, with 2848 participants from 12 countries. The majority of trials (27) were set in an intensive care unit with one in a neonatal intensive care unit. The remaining seven studies were done in an operating department. Participants were infants in three studies with adults (average age of 40 to 69 years) in the remainder."
+    },
+    {
+      "heading": "Key results",
+      "text": "There was no overall difference in the rates of airway blockage, pneumonia or death in adults who were ventilated through heat and moisture exchangers compared to adults ventilated through a heated humidifier. There was some evidence that the occurrence of pneumonia may be lowered by using heat and moisture exchangers that capture less moisture. There was not enough information to make any conclusions about either of these methods in children or infants."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "The overall low quality of this evidence was low, making it difficult to be confident about these findings."
+    }
+  ]
+}

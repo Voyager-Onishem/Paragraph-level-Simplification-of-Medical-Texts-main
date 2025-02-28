@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD010060.pub2",
+  "name": "Phosphodiesterase inhibitors for lower urinary tract symptoms consistent with benign prostatic hyperplasia ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Benign prostatic hyperplasia (BPH) refers to non-malignant enlargement of the prostate gland that may cause bothersome lower urinary tract symptoms (LUTS). Alpha-blockers (ABs) and 5-alpha reductase inhibitors (5-ARIs) are the mainstay of medical treatment. Recently, phosphodiesterase inhibitors (PDEIs) that so far have been used mainly to treat erectile dysfunction were introduced to treat male LUTS."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effects of PDEIs compared to placebo and other standard of care drugs (ABs and 5-ARIs) in men with LUTS consistent with BPH."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We conducted a systematic search of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, Web of Science, and clinical trials registries of the World Health Organization (WHO) and the National Institutes of Health (NIH) (updated 2 August 2018). We performed citation tracking and handsearching of abstracts and conference proceedings. We also contacted study authors to ask for additional information."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We considered for inclusion in this systematic review randomised controlled trials (RCTs) comparing PDEIs versus placebo, ABs, or 5-ARIs for at least four weeks in men with BPH-LUTS."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Three review authors independently screened the literature and extracted data. Primary outcomes were effects on urinary symptoms as assessed by the International Prostate Symptom Score (IPSS-total; score ranging from 0 to 35, with higher values reflecting more symptoms), urinary bother as assessed by the Benign Prostatic Hyperplasia Impact Index (BPHII; score ranging from 0 to 13, with higher values reflecting more bother), and adverse events (AEs). We used GRADE to rate the quality of evidence. We considered short-term (up to 12 weeks) and long-term (12 weeks or longer) results separately."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included a total of 16 randomised trials in this review. The results for primary outcomes are as follows.\nPDEI versus placebo: PDEIs may result in a small improvement in IPSS-total score (mean difference (MD) 1.89 lower, 95% confidence interval (CI) 2.27 lower to 1.50 lower; n = 4293; low-quality evidence) compared to placebo, and may reduce the BPHII score slightly (MD 0.52 lower, 95% CI 0.71 lower to 0.33 lower; n = 3646; low-quality evidence). Rates of AEs may be increased (risk ratio (RR) 1.42, 95% CI 1.21 to 1.67; n = 4386; low-quality evidence). This corresponds to 95 more AEs per 1000 participants (95% CI 47 more to 151 more per 1000). Study results were limited to a treatment duration of six to 12 weeks.\nPDEI versus AB: PDEIs and ABs probably provide similar improvement in IPSS-total score (MD 0.22 higher, 95% CI 0.49 lower to 0.93 higher; n = 933; moderate-quality evidence) and may have a similar effect on BPHII score (MD 0.03 higher, 95% CI 1.10 lower to 1.16 higher; n = 550; low-quality evidence) and AEs (RR 1.35, 95% CI 0.80 to 2.30; n = 936; low-quality evidence). This corresponds to 71 more AEs per 1000 participants (95% CI 41 fewer to 264 more per 1000). Study results were limited to a treatment duration of six to 12 weeks.\nPDEI and AB versus AB alone: the combination of PDEI and AB may provide a small improvement in IPSS-total score (MD 2.56 lower, 95% CI 3.92 lower to 1.19 lower; n = 193; low-quality evidence) compared to AB alone. We found no evidence for BPHII scores. AEs may be increased (RR 2.81, 95% CI 1.53 to 5.17; n = 194; moderate-quality evidence). This corresponds to 235 more AEs per 1000 participants (95% CI 69 more to 542 more per 1000). Study results were limited to treatment duration of four to 12 weeks.\nPDEI and AB versus PDEI alone: the combination of PDEI and AB may provide a small improvement in IPSS-total (MD 2.4 lower, 95% CI 6.47 lower to 1.67 higher; n = 40; low-quality evidence) compared to PDEI alone. We found no data on BPHII or AEs. Study results were limited to a treatment duration of four weeks.\nPDEI and 5-ARI versus 5-ARI alone: in the short term (up to 12 weeks), the combination of PDEI and 5-ARI probably results in a small improvement in IPSS-total score (MD 1.40 lower, 95% CI 2.24 lower to 0.56 lower; n = 695; moderate-quality evidence) compared to 5-ARI alone. We found no evidence on BPHII scores or AEs. In the long term (13 to 26 weeks), the combination of PDEI and 5-ARI likely results in a small reduction in IPSS-total score (MD 1.00 less, 95% CI 1.83 lower to 0.17 lower; n = 695; moderate-quality evidence). We found no evidence about effects on BPHII scores. There may be no difference in rates of AEs (RR 1.07, 95% CI 0.84 to 1.36; n = 695; low-quality evidence). This corresponds to 19 more AEs per 1000 participants (95% CI 43 fewer to 98 more per 1000).\nWe found no trials comparing other combinations of treatments or comparing different PDEI agents."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Compared to placebo, PDEI likely leads to a small reduction in IPSS-total and BPHII sores, with a possible increase in AEs. There may be no differences between PDEI and AB with regards to improvement in IPSS-total, BPHII, and incidence of AEs. There appears to be no added benefit of PDEI combined with AB compared to PDEI or AB alone or PDEI combined with 5-ARI compared to ARI alone with regards to urinary symptoms. Most evidence was limited to short-term treatment up to 12 weeks and of moderate or low certainty."
+    }
+  ],
+  "pls_title": "Phosphodiesterase inhibitors for treatment of urinary problems in men with benign prostatic hyperplasia",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What are the effects of phosphodiesterase inhibitors compared to other medications, in men with urinary symptoms, that are thought to be due to an enlarged prostate?"
+    },
+    {
+      "heading": "Background",
+      "text": "Problems related to urination, especially in older men, are often due to benign prostatic hyperplasia. Medications like alpha-blockers and 5-alpha reductase inhibitors are commonly used to treat these symptoms. They help to control symptoms but can have unwanted effects. Phosphodiesterase inhibitors are medications that have been used for a long time to help men have better erections. They may also help to improve urinary symptoms in men with benign prostatic hyperplasia."
+    },
+    {
+      "heading": "Search date",
+      "text": "We searched randomised trials, that studied these treatments, up to August 2, 2018."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found a total of 16 studies. They included mostly men, older than 60 years of age, with moderate, to severe urinary symptoms. Most studies were funded by the companies that make these drugs."
+    },
+    {
+      "heading": "Key results",
+      "text": "Compared to placebo, phosphodiesterase inhibitors may make urinary symptoms a little better and reduce bother, but may also cause more unwanted drug effects.\nThere is probably no difference between phosphodiesterase inhibitors and alpha-blockers when it comes to improving urinary symptoms, and there may be no difference with regards to how bothersome symptoms are, or unwanted drug effects.\nTaking a phosphodiesterase inhibitor with an alpha-blocker may improve urinary symptoms slightly more than taking alpha-blockers alone. We found no evidence regarding urinary bother. However, combination treatment probably causes a lot more unwanted drug effects.\nTaking a phosphodiesterase inhibitor with an alpha-blocker may improve urinary symptoms slightly more than taking a phosphodiesterase inhibitor alone. We found no evidence regarding bother or unwanted drug effects.\nIn the short term (up to 12 weeks), the combination of a phosphodiesterase inhibitor with a 5-alpha reductase inhibitor probably makes urinary symptoms a little better compared to taking a 5-alpha reductase inhibitor alone, but the effect may be too small to notice. We found no evidence on bother, nor on rates of unwanted drug effects. When taken longer (13 to 26 weeks), combination treatment probably also improves urinary symptoms slightly to a degree that may not be noticeable. We found no evidence regarding urinary bother. Unwanted drug effects may be similar.\nWe found no evidence for other combination treatments or comparing different phosphodiesterase inhibitors. Most studies investigated only short-term use of these drugs (up to 12 weeks); therefore, long-term effects are largely unknown."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "We mostly rated the quality of evidence as moderate or low, meaning that we are somewhat or quite unsure of the true results. The real effects may be similar or quite different."
+    }
+  ]
+}

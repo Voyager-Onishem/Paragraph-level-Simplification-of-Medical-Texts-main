@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD004366.pub6",
+  "name": "Exercise for depression",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Depression is a common and important cause of morbidity and mortality worldwide. Depression is commonly treated with antidepressants and/or psychological therapy, but some people may prefer alternative approaches such as exercise. There are a number of theoretical reasons why exercise may improve depression. This is an update of an earlier review first published in 2009."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the effectiveness of exercise in the treatment of depression in adults compared with no treatment or a comparator intervention."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Depression, Anxiety and Neurosis Review Group’s Controlled Trials Register (CCDANCTR) to 13 July 2012. This register includes relevant randomised controlled trials from the following bibliographic databases: The Cochrane Library (all years); MEDLINE (1950 to date); EMBASE (1974 to date) and PsycINFO (1967 to date). We also searched www.controlled-trials.com, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform. No date or language restrictions were applied to the search.\nWe conducted an additional search of the CCDANCTR up to 1st March 2013 and any potentially eligible trials not already included are listed as 'awaiting classification.'"
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials in which exercise (defined according to American College of Sports Medicine criteria) was compared to standard treatment, no treatment or a placebo treatment, pharmacological treatment, psychological treatment or other active treatment in adults (aged 18 and over) with depression, as defined by trial authors. We included cluster trials and those that randomised individuals. We excluded trials of postnatal depression."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors extracted data on primary and secondary outcomes at the end of the trial and end of follow-up (if available). We calculated effect sizes for each trial using Hedges' g method and a standardised mean difference (SMD) for the overall pooled effect, using a random-effects model risk ratio for dichotomous data. Where trials used a number of different tools to assess depression, we included the main outcome measure only in the meta-analysis. Where trials provided several 'doses' of exercise, we used data from the biggest 'dose' of exercise, and performed sensitivity analyses using the lower 'dose'. We performed subgroup analyses to explore the influence of method of diagnosis of depression (diagnostic interview or cut-off point on scale), intensity of exercise and the number of sessions of exercise on effect sizes. Two authors performed the 'Risk of bias' assessments. Our sensitivity analyses explored the influence of study quality on outcome."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirty-nine trials (2326 participants) fulfilled our inclusion criteria, of which 37 provided data for meta-analyses. There were multiple sources of bias in many of the trials; randomisation was adequately concealed in 14 studies, 15 used intention-to-treat analyses and 12 used blinded outcome assessors.\nFor the 35 trials (1356 participants) comparing exercise with no treatment or a control intervention, the pooled SMD for the primary outcome of depression at the end of treatment was -0.62 (95% confidence interval (CI) -0.81 to -0.42), indicating a moderate clinical effect. There was moderate heterogeneity (I² = 63%).\nWhen we included only the six trials (464 participants) with adequate allocation concealment, intention-to-treat analysis and blinded outcome assessment, the pooled SMD for this outcome was not statistically significant (-0.18, 95% CI -0.47 to 0.11). Pooled data from the eight trials (377 participants) providing long-term follow-up data on mood found a small effect in favour of exercise (SMD -0.33, 95% CI -0.63 to -0.03).\nTwenty-nine trials reported acceptability of treatment, three trials reported quality of life, none reported cost, and six reported adverse events.\nFor acceptability of treatment (assessed by number of drop-outs during the intervention), the risk ratio was 1.00 (95% CI 0.97 to 1.04).\nSeven trials compared exercise with psychological therapy (189 participants), and found no significant difference (SMD -0.03, 95% CI -0.32 to 0.26). Four trials (n = 300) compared exercise with pharmacological treatment and found no significant difference (SMD -0.11, -0.34, 0.12). One trial (n = 18) reported that exercise was more effective than bright light therapy (MD -6.40, 95% CI -10.20 to -2.60).\nFor each trial that was included, two authors independently assessed for sources of bias in accordance with the Cochrane Collaboration 'Risk of bias' tool. In exercise trials, there are inherent difficulties in blinding both those receiving the intervention and those delivering the intervention. Many trials used participant self-report rating scales as a method for post-intervention analysis, which also has the potential to bias findings."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Exercise is moderately more effective than a control intervention for reducing symptoms of depression, but analysis of methodologically robust trials only shows a smaller effect in favour of exercise. When compared to psychological or pharmacological therapies, exercise appears to be no more effective, though this conclusion is based on a few small trials."
+    }
+  ],
+  "pls_title": "Exercise for depression",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Why is this review important?",
+      "text": "Depression is a common and disabling illness, affecting over 100 million people worldwide. Depression can have a significant impact on people’s physical health, as well as reducing their quality of life. Research has shown that both pharmacological and psychological therapies can be effective in treating depression. However, many people prefer to try alternative treatments. Some NHS guidelines suggest that exercise could be used as a different treatment choice. However, it is not clear if research actually shows that exercise is an effective treatment for depression."
+    },
+    {
+      "heading": "Who may be interested in this review?",
+      "text": "Patients and families affected by depression.\nGeneral Practitioners.\nMental health policy makers.\nProfessionals working in mental health services."
+    },
+    {
+      "heading": "What questions does this review aim to answer?",
+      "text": "This review is an update of a previous Cochrane review from 2010 which suggested that exercise can reduce symptoms of depression, but the effect was small and did not seem to last after participants stopped exercising.\nWe wanted to find out if more trials of the effect of exercise as a treatment for depression have been conducted since our last review that allow us to answer the following questions:\nIs exercise more effective than no therapy for reducing symptoms of depression?\nIs exercise more effective than antidepressant medication for reducing symptoms of depression?\nIs exercise more effective than psychological therapies or other non-medical treatments for depression?\nHow acceptable to patients is exercise as a treatment for depression?"
+    },
+    {
+      "heading": "Which studies were included in the review?",
+      "text": "We used search databases to find all high-quality randomised controlled trials of how effective exercise is for treating depression in adults over 18 years of age. We searched for studies published up until March 2013. We also searched for ongoing studies to March 2013. All studies had to include adults with a diagnosis of depression, and the physical activity carried out had to fit criteria to ensure that it met with a definition of ‘exercise’.\nWe included 39 studies with a total of 2326 participants in the review. The reviewers noted that the quality of some of the studies was low, which limits confidence in the findings. When only high-quality trials were included, exercise had only a small effect on mood that was not statistically significant."
+    },
+    {
+      "heading": "What does the evidence from the review tell us?",
+      "text": "Exercise is moderately more effective than no therapy for reducing symptoms of depression.\nExercise is no more effective than antidepressants for reducing symptoms of depression, although this conclusion is based on a small number of studies. \nExercise is no more effective than psychological therapies for reducing symptoms of depression, although this conclusion is based on small number of studies.\nThe reviewers also note that when only high-quality studies were included, the difference between exercise and no therapy is less conclusive.\nAttendance rates for exercise treatments ranged from 50% to 100%.\nThe evidence about whether exercise for depression improves quality of life is inconclusive."
+    },
+    {
+      "heading": "What should happen next?",
+      "text": "The reviewers recommend that future research should look in more detail at what types of exercise could most benefit people with depression, and the number and duration of sessions which are of most benefit. Further larger trials are needed to find out whether exercise is as effective as antidepressants or psychological treatments."
+    }
+  ]
+}

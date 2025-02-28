@@ -1,0 +1,43 @@
+{
+  "doi": "10.1002/14651858.CD011034.pub2",
+  "name": "Psychological and educational interventions for subfertile men and women",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Approximately one-fifth of all subfertile couples seeking fertility treatment show clinically relevant levels of anxiety, depression, or distress. Psychological and educational interventions are frequently offered to subfertile couples, but their effectiveness, both in improving mental health and pregnancy rates, is unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the effectiveness of psychological and educational interventions for subfertile couples on psychological and fertility treatment outcomes."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched (from inception to 2 April 2015) the Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials, the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 2, 2015), MEDLINE, EMBASE, PsycINFO, EBSCO CINAHL, DARE, Web of Science, OpenGrey, LILACS, PubMed, and ongoing trials registers. We handsearched reference lists and contacted experts in the field."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included published and unpublished randomised controlled trials (RCTs), cluster randomised trials, and cross-over trials (first phase) evaluating the effectiveness of psychological and educational interventions on psychological and fertility treatment outcomes in subfertile couples."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently assessed trial risk of bias and extracted data. We contacted study authors for additional information. Our primary outcomes were psychological measures (anxiety and depression) and fertility rates (live birth or ongoing pregnancy). We assessed the overall quality of the evidence using GRADE criteria.\nAs we did not consider the included studies to be sufficiently similar to permit meaningful pooling, we summarised the results of the individual studies by presenting the median and interquartile range (IQR) of effects as well as the minimum and maximum values. We calculated standardised mean differences (SMDs) for continuous variables and odds ratios (ORs) for dichotomous outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 39 studies involving 4925 participants undergoing assisted reproductive technology. Studies were heterogeneous with respect to a number of factors, including nature and duration of interventions, participants, and comparator groups. As a result, we judged that pooling results would not result in a clinically meaningful estimate of a treatment effect. There were substantial methodological weaknesses in the studies, all of which were judged to be at high risk of bias for one or more quality assessment domains. There was concern about attrition bias (24 studies), performance bias for psychological outcomes (27 studies) and fertility outcomes (18 studies), and detection bias for psychological outcomes (26 studies). We therefore considered study-specific estimates of intervention effects to be unreliable. Thirty-three studies reported the outcome mental health. Only two studies reported the outcome live birth, and both of these had substantial attrition. One study reported ongoing pregnancy, again with substantial attrition. We have combined live birth and ongoing pregnancy in one outcome.\nPsychological outcomes\nStudies utilised a variety of measures of anxiety and depression. In all cases a low score denoted benefit from the intervention.\nSMDs for anxiety were as follows: psychological interventions versus attentional control or usual care: median (IQR) = -0.30 (-0.84 to 0.00), minimum value -5.13; maximum value 0.84, 17 RCTs, 2042 participants; educational interventions versus attentional control or usual care: median = 0.03, minimum value -0.38; maximum value 0.23, 4 RCTs, 330 participants.\nSMDs for depression were as follows: psychological interventions versus attentional control or usual care: median (IQR) = -0.45 (-0.68 to -0.08), minimum value -3.01; maximum value 1.23, 12 RCTs, 1160 participants; educational interventions versus attentional control or usual care: median = -0.33, minimum value -0.46; maximum value 0.17, 3 RCTs, 304 participants.\nFertility outcomes\nWhen psychological interventions were compared with attentional control or usual care, ORs for live birth or ongoing pregnancy ranged from minimum value 1.13 to maximum value 10.05. No studies of educational interventions reported this outcome."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The effects of psychological and educational interventions on mental health including distress, and live birth or ongoing pregnancy rates is uncertain due to the very low quality of the evidence. Existing trials of psychological and educational interventions for subfertility were generally poorly designed and executed, resulting in very serious risk of bias and serious inconsistency in study findings. There is a need for studies employing appropriate methodological techniques to investigate the benefits of these treatments for this population. In particular, attentional control groups should be employed, that is groups receiving a treatment that mimics the amount of time and attention received by the treatment group but is not thought to have a specific effect upon the participants, in order to distinguish between therapeutic and non-specific effects of interventions. Where attrition cannot be minimised, appropriate statistical techniques for handling drop-out must be applied. Failure to address these issues in study design has resulted in studies that do not provide a valid basis for answering questions about the effectiveness of these interventions."
+    }
+  ],
+  "pls_title": "Psychological and educational interventions for subfertile men and women",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Approximately one-fifth of all subfertile couples seeking fertility treatment show clinically relevant levels of anxiety, depression, or distress. Psychological and educational interventions are frequently offered to subfertile couples, but their effectiveness, both in improving mental health and pregnancy rates, is unclear.Objective:To assess the effectiveness of psychological and educational interventions for subfertile couples on psychological and fertility treatment outcomes.Study characteristics:We included 39 studies involving 4925 participants undergoing assisted reproductive technology. Studies varied widely with respect to a number of factors, including nature and duration of interventions, participants, and comparator groups. The evidence is current to April 2015.Key results:There were substantial methodological weaknesses in the studies, all of which were judged to be at high risk of bias for one or more quality assessment domains. We therefore determined that pooling results would not result in a clinically meaningful estimate of a treatment effect and that we could not present a pooled analysis in the 'Summary of findings' table. There was concern about bias because of differences in care and amount of attention given to participants for psychological outcomes (27 studies) and fertility outcomes (18 studies), the amount of withdrawal (24 studies), and the manner in which outcome measurements were taken (26 studies). We therefore considered the results from each study to be unreliable. Thirty-three studies reported the outcome mental health. Only two studies reported the outcome live birth, and one study reported ongoing pregnancy; all of these studies had substantial attrition. It was not possible to answer the review question for any of the primary outcomes.Quality of the evidence:We judged the overall quality of the evidence to be very low, the main reasons being very serious risk of bias and serious inconsistency in study findings."
+    }
+  ]
+}

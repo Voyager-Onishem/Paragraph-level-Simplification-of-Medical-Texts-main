@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/14651858.CD015017.pub3",
+  "name": "Ivermectin for preventing and treating COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Ivermectin, an antiparasitic agent, inhibits the replication of viruses in vitro. The molecular hypothesis of ivermectin's antiviral mode of action suggests an inhibitory effect on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) replication in early stages of infection. Currently, evidence on ivermectin for prevention of SARS-CoV-2 infection and COVID-19 treatment is conflicting."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of ivermectin plus standard of care compared to standard of care plus/minus placebo, or any other proven intervention for people with COVID-19 receiving treatment as inpatients or outpatients, and for prevention of an infection with SARS-CoV-2 (postexposure prophylaxis)."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register, Web of Science (Emerging Citation Index and Science Citation Index), WHO COVID-19 Global literature on coronavirus disease, and HTA database weekly to identify completed and ongoing trials without language restrictions to 16 December 2021. Additionally, we included trials with > 1000 participants up to April 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomized controlled trials (RCTs) comparing ivermectin to standard of care, placebo, or another proven intervention for treatment of people with confirmed COVID-19 diagnosis, irrespective of disease severity or treatment setting, and for prevention of SARS-CoV-2 infection. Co-interventions had to be the same in both study arms.\nFor this review update, we reappraised eligible trials for research integrity: only RCTs prospectively registered in a trial registry according to WHO guidelines for clinical trial registration were eligible for inclusion."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed RCTs for bias, using the Cochrane RoB 2 tool. We used GRADE to rate the certainty of evidence for outcomes in the following settings and populations: 1) to treat inpatients with moderate-to-severe COVID-19, 2) to treat outpatients with mild COVID-19 (outcomes: mortality, clinical worsening or improvement, (serious) adverse events, quality of life, and viral clearance), and 3) to prevent SARS-CoV-2 infection (outcomes: SARS-CoV-2 infection, development of COVID-19 symptoms, admission to hospital, mortality, adverse events and quality of life)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We excluded seven of the 14 trials included in the previous review version; six were not prospectively registered and one was non-randomized. This updated review includes 11 trials with 3409 participants investigating ivermectin plus standard of care compared to standard of care plus/minus placebo. No trial investigated ivermectin for prevention of infection or compared ivermectin to an intervention with proven efficacy. Five trials treated participants with moderate COVID-19 (inpatient settings); six treated mild COVID-19 (outpatient settings). Eight trials were double-blind and placebo-controlled, and three were open-label. We assessed around 50% of the trial results as low risk of bias.\nWe identified 31 ongoing trials. In addition, there are 28 potentially eligible trials without publication of results, or with disparities in the reporting of the methods and results, held in ‘awaiting classification’ until the trial authors clarify questions upon request.\nIvermectin for treating COVID-19 in inpatient settings with moderate-to-severe disease\nWe are uncertain whether ivermectin plus standard of care compared to standard of care plus/minus placebo reduces or increases all-cause mortality at 28 days (risk ratio (RR) 0.60, 95% confidence interval (CI) 0.14 to 2.51; 3 trials, 230 participants; very low-certainty evidence); or clinical worsening, assessed by participants with new need for invasive mechanical ventilation or death at day 28 (RR 0.82, 95% CI 0.33 to 2.04; 2 trials, 118 participants; very low-certainty evidence); or serious adverse events during the trial period (RR 1.55, 95% CI 0.07 to 35.89; 2 trials, 197 participants; very low-certainty evidence). Ivermectin plus standard of care compared to standard of care plus placebo may have little or no effect on clinical improvement, assessed by the number of participants discharged alive at day 28 (RR 1.03, 95% CI 0.78 to 1.35; 1 trial, 73 participants; low-certainty evidence); on any adverse events during the trial period (RR 1.04, 95% CI 0.61 to 1.79; 3 trials, 228 participants; low-certainty evidence); and on viral clearance at 7 days (RR 1.12, 95% CI 0.80 to 1.58; 3 trials, 231 participants; low-certainty evidence). No trial investigated quality of life at any time point.\nIvermectin for treating COVID-19 in outpatient settings with asymptomatic or mild disease\nIvermectin plus standard of care compared to standard of care plus/minus placebo probably has little or no effect on all-cause mortality at day 28 (RR 0.77, 95% CI 0.47 to 1.25; 6 trials, 2860 participants; moderate-certainty evidence) and little or no effect on quality of life, measured with the PROMIS Global-10 scale (physical component mean difference (MD) 0.00, 95% CI -0.98 to 0.98; and mental component MD 0.00, 95% CI -1.08 to 1.08; 1358 participants; high-certainty evidence). Ivermectin may have little or no effect on clinical worsening, assessed by admission to hospital or death within 28 days (RR 1.09, 95% CI 0.20 to 6.02; 2 trials, 590 participants; low-certainty evidence); on clinical improvement, assessed by the number of participants with all initial symptoms resolved up to 14 days (RR 0.90, 95% CI 0.60 to 1.36; 2 trials, 478 participants; low-certainty evidence); on serious adverse events (RR 2.27, 95% CI 0.62 to 8.31; 5 trials, 1502 participants; low-certainty evidence); on any adverse events during the trial period (RR 1.24, 95% CI 0.87 to 1.76; 5 trials, 1502 participants; low-certainty evidence); and on viral clearance at day 7 compared to placebo(RR 1.01, 95% CI 0.69 to 1.48; 2 trials, 331 participants; low-certainty evidence). None of the trials reporting duration of symptoms were eligible for meta-analysis."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "For outpatients, there is currently low- to high-certainty evidence that ivermectin has no beneficial effect for people with COVID-19. Based on the very low-certainty evidence for inpatients, we are still uncertain whether ivermectin prevents death or clinical worsening or increases serious adverse events, while there is low-certainty evidence that it has no beneficial effect regarding clinical improvement, viral clearance and adverse events. No evidence is available on ivermectin to prevent SARS-CoV-2 infection. In this update, certainty of evidence increased through higher quality trials including more participants. According to this review's living approach, we will continually update our search."
+    }
+  ],
+  "pls_title": "Ivermectin for preventing and treating COVID-19",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Is ivermectin effective for COVID-19?",
+      "text": ""
+    },
+    {
+      "heading": "Key messages",
+      "text": "We found no evidence to support the use of ivermectin for treating COVID-19 or preventing SARS-CoV-2 infection. The evidence base improved slightly in this update, but is still limited.\nEvaluation of ivermectin is continuing in 31 ongoing trials, and we will update this review again when their results become available."
+    },
+    {
+      "heading": "What is ivermectin?",
+      "text": "Ivermectin is a medicine used to treat parasites, such as intestinal parasites in animals, and scabies in humans. It is inexpensive and is widely used in regions of the world where parasitic infestations are common. It has few unwanted effects.\nMedical regulators have not approved ivermectin for COVID-19."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to update our knowledge of whether ivermectin reduces death, illness, and length of infection in people with COVID-19, or is useful in prevention of the infection. We included trials comparing the medicine to placebo (dummy treatment), usual care, or treatments for COVID-19 that are known to work to some extent, such as dexamethasone. We excluded trials comparing ivermectin to other medicines that do not work, like hydroxychloroquine, or whose effectiveness against COVID-19 is uncertain.\nWe evaluated the effects of ivermectin in infected people on:\n– people dying;\n– whether people's COVID-19 got better or worse;\n– quality of life;\n– serious and non-serious unwanted effects;\n– viral clearance.\nFor prevention, we sought the effect on preventing SARS-CoV-2 infection and COVID-19 disease."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for randomized controlled trials that investigated ivermectin to prevent or treat COVID-19. People treated in hospital or as outpatients had to have laboratory-confirmed COVID-19.\nIn this update, we also investigated the trustworthiness of the trials and only included them if they fulfilled clear ethical and scientific criteria.\nWe compared and summarized the results of the trials and rated our confidence in the evidence, based on common criteria such as trial methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We excluded seven of the 14 trials included in the previous review as these trials did not fulfil the expected ethical and scientific criteria. Together with four new trials, we included 11 trials with 3409 participants that investigated ivermectin combined with any usual care compared to the same usual care or placebo.\nFor treatment, there were five trials of people in hospital with moderate COVID-19 and six trials of outpatients with mild COVID-19. The trials used different doses of ivermectin and different durations of treatment.\nNo trial investigated ivermectin to prevent SARS-CoV-2 infection.\nWe also found 31 ongoing trials, and an additional 28 trials still requiring clarification from the authors or not yet published."
+    },
+    {
+      "heading": "Main results",
+      "text": ""
+    },
+    {
+      "heading": "Treating people in hospital with COVID-19",
+      "text": "We do not know whether ivermectin compared with placebo or usual care 28 days after treatment:\n– leads to more or fewer deaths (3 trials, 230 people); \n– worsens or improves patients' condition, assessed by need for ventilation or death (2 trials, 118 people);\n– increases or reduces serious unwanted events (2 trials, 197 people).\nIvermectin compared with placebo or usual care 28 days after treatment, may make little or no difference to:\n– improving patients' condition, assessed by discharge from hospital (1 trial, 73 people);\n– non-serious unwanted events (3 trials, 228 participants).\nSeven days after treatment, ivermectin may make little or no difference to reduction of negative COVID-19 tests (3 trials, 231 participants) compared with placebo or usual care."
+    },
+    {
+      "heading": "Treating outpatients with COVID-19",
+      "text": "Ivermectin compared with placebo or usual care 28 days after treatment, probably makes little or no difference to people dying (6 trials, 2860 people).\nIvermectin compared with placebo or usual care 28 days after treatment, makes little or no difference to quality of life (1 trial, 1358 people).\nIvermectin compared with placebo or usual care 28 days after treatment, may make little or no difference to:\n– worsening patients' condition, assessed by admission to hospital or death (2 trials, 590 people);\n– serious unwanted events (5 trials, 1502 people); \n– non-serious unwanted events (5 trials, 1502 participants); \n– improving people's COVID-19 symptoms in the 14 days after treatment (2 trials, 478 people);\n– number of people with negative COVID-19 tests 7 days after treatment (2 trials, 331 people)."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "Our confidence in the evidence, especially for outpatients, improved since the last review version, because we could look at more participants included in high-quality trials. Although we are quite certain regarding our results on risk of people dying and quality of life, the confidence in the evidence is still low for many other outpatient and inpatient outcomes because there were only few events measured. The methods differed between trials, and they did not report everything we were interested in, such as relevant outcomes."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The systematic literature search is up to date to 16 December 2021. Additionally, we included trials with > 1000 participants up to April 2022."
+    }
+  ]
+}

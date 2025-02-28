@@ -1,0 +1,71 @@
+{
+  "doi": "10.1002/14651858.CD001955.pub5",
+  "name": "Glucocorticoids for croup in children",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Glucocorticoids are the mainstay for the treatment of croup. The existing evidence demonstrates that glucocorticoids are effective in the treatment of croup in children. However, updating the evidence on their clinical relevance in croup is imperative. This is an update to a review first published in 1999, and updated in 2004, 2011, and 2018."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To investigate the effects and safety of glucocorticoids in the treatment of croup in children aged 18 years and below."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Library, which includes the Cochrane Central Register of Controlled Trials (CENTRAL; 2022 Issue 9), Ovid MEDLINE Epub Ahead of Print, In-Process & Other Non-Indexed Citations and Ovid MEDLINE (1946 to 4 March 2022), Embase (Ovid) (1974 to 4 March 2022). We also searched the WHO ICTRP and ClinicalTrials.gov on 4 March 2022."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included randomised controlled trials (RCTs) in children (aged 18 years and below) with croup. We assessed the effect of glucocorticoids compared to the following: placebo, any other pharmacologic agents, any other glucocorticoids, any combination of other glucocorticoids, given by different modes of administration, or given in different doses. The included studies must have assessed at least one of our primary outcomes (defined as the change in croup score or return visits, (re)admissions to the hospital or both) or secondary outcomes (defined as the length of stay in hospital or emergency departments, patient improvement, use of additional treatments, or adverse events)."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Review authors independently extracted data, with another review author verified. We entered the data into Review Manager 5 for meta-analysis. Two review authors independently assessed studies for risk of bias using the Cochrane risk of bias tool. Two review authors assessed the certainty of the evidence for the primary outcomes using the GRADE approach."
+    },
+    {
+      "heading": "Main results",
+      "text": "This updated review includes 45 RCTs with a total of 5888 children, an increase of two RCTs with 1323 children since the last update. We also identified one ongoing study and one study awaiting classification. We assessed most studies (98%) as at high or unclear risk of bias.\nAny glucocorticoid compared to placebo\nCompared to placebo, glucocorticoids may result in greater reductions in croup score after two hours (standardised mean difference (SMD) −0.65, 95% confidence interval (CI) −1.13 to −0.18; 7 RCTs, 426 children; low-certainty evidence); six hours (SMD −0.76, 95% CI −1.12 to −0.40; 11 RCTs, 959 children; low-certainty evidence); and 12 hours (SMD −1.03, 95% CI −1.53 to -0.53; 8 RCTs, 571 children; low-certainty evidence). The evidence for change in croup score after 24 hours is very uncertain (SMD −0.86, 95% CI −1.40 to −0.31; 8 RCTs, 351 children; very low-certainty evidence).\nOne glucocorticoid compared to another glucocorticoid\nThere was little to no difference between prednisolone and dexamethasone for reduction in croup score at two-hour post-baseline score (SMD 0.06, 95% CI −0.06 to 0.18; 1 RCT, 1231 children; high-certainty evidence). There was likely little to no difference between prednisolone and dexamethasone for reduction in croup score at six-hour post-baseline score (SMD 0.21, 95% CI −0.21 to 0.62; 1 RCT, 99 children; moderate-certainty evidence). However, dexamethasone probably reduced the return visits or (re)admissions for croup by almost half (risk ratio (RR) 0.55, 95% CI 0.28 to 1.11; 4 RCTs, 1537 children; moderate-certainty evidence), and showed a 28% reduction in the use of supplemental glucocorticoids as an additional treatment (RR 0.72, 95% CI 0.53 to 0.97; 2 RCTs, 926 children).\nDexamethasone given in different doses\nCompared to 0.15 mg/kg, 0.60 mg/kg dexamethasone probably reduced the severity of croup as assessed by the croup scoring scale at 24-hour postbaseline score (SMD 0.63, 95% CI 0.16 to 1.10; 1 RCT, 72 children; moderate-certainty evidence); however, this was not the case at two hours (SMD −0.27, 95% CI −0.76 to 0.22; 2 RCTs, 861 children; high-certainty evidence). There was probably no reduction at six hours (SMD −0.45, 95% CI −1.26 to 0.35; 3 RCTs, 178 children; moderate-certainty evidence), and the evidence at 12 hours is very uncertain (SMD −0.60, 95% CI −4.39 to 3.19; 2 RCTs, 113 children; very low-certainty evidence). There was little to no difference between doses of dexamethasone in return visits or (re)admissions of children or both (RR 0.91, 95% CI 0.71 to 1.17; 3 RCTs, 949 children; high-certainty evidence) or length of stay in the hospital or emergency department (mean difference 0.12, 95% CI −0.32 to 0.56; 2 RCTs, 892 children). The need for additional treatments, such as epinephrine (RR 0.78, 95% CI 0.34 to 1.75; 2 RCTs, 885 children); intubation (risk difference 0.00, 95% CI −0.00 to 0.00; 2 RCTs, 861 children); or use of supplemental glucocorticoids (RR 0.77, 95% CI 0.51 to 1.15; 2 RCTs, 617 children), also did not differ between doses of dexamethasone.\nThere were moderate to high levels of heterogeneity in the analyses for most comparisons. Adverse events were observed for some of the comparisons reported in the review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence that glucocorticoids reduce symptoms of croup at two hours, shorten hospital stays, and reduce the rate of return visits or (re)admissions has not changed in this update. A smaller dose of 0.15 mg/kg of dexamethasone may be as effective as the standard dose of 0.60 mg/kg. More RCTs are needed to strengthen the evidence for effectiveness of low-dose dexamethasone at 0.15 mg/kg to treat croup."
+    }
+  ],
+  "pls_title": "Glucocorticoids for croup in children",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "What is the effectiveness and safety of glucocorticoids when treating children with croup?"
+    },
+    {
+      "heading": "Background",
+      "text": "Respiratory viruses are the main cause of croup in children. Croup leads to a swelling of the throat and airway, which can make breathing difficult. Children also present with a special type of cough called a barking cough. Glucocorticoids are types of steroids that help reduce the swelling, thereby making it easier for children with croup to breathe.\nThis is an update of a review first published in 1999 and updated in 2004, 2011, and 2018."
+    },
+    {
+      "heading": "Search date",
+      "text": "The evidence is current to 4 March 2022."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included 2 new studies with 1323 children, for a total of 45 studies with 5888 children aged 0 to 18 years published between 1964 and 2021. The three types of glucocorticoids used in the new studies were budesonide, dexamethasone, and prednisolone. The most recent study compared the effectiveness of budesonide and dexamethasone. The other new study compared the effectiveness of dexamethasone and prednisolone, as well as a small dose of dexamethasone (0.15 mg/kg) versus 0.60 mg/kg dexamethasone. We added the data from the new study that compared the doses of dexamethasone to previously included studies looking at the same comparison."
+    },
+    {
+      "heading": "Study funding sources",
+      "text": "Funding sources included government (11%), academic or research institute (7%), industry (18%), or foundations (9%). More than half of the studies (55%) did not report funding sources."
+    },
+    {
+      "heading": "Key results",
+      "text": "Compared to prednisolone, dexamethasone showed no improvement in croup score at two and six hours after presenting to the hospital or emergency department, and probably reduced return visits or (re)admissions for croup by almost half. The addition of supplemental glucocorticoid favoured dexamethasone versus prednisolone. Compared to 0.15 mg/kg dexamethasone, the standard dose of 0.60 mg/kg probably reduced the severity of croup as assessed by the croup scoring scale at 24 hours after presenting to the hospital or emergency department. However, we did not find any important difference between groups in croup scoring scale at 2, 6, or 12 hours, return visits or (re)admissions of children, or length of stay in the hospital or emergency department. The need for additional treatments such as the use of other drugs like epinephrine, supplemental glucocorticoid, or the use of a tube to help breathing did not differ between 0.15 mg/kg and 0.60 mg/kg dexamethasone. No serious adverse events from the use of the glucocorticoids were reported in the newly included studies."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "The evidence has not changed that glucocorticoids reduce symptoms of croup at two hours, shorten hospital stays, and reduce the rate of return visits or (re)admissions compared to placebo (dummy treatment). A small dose of dexamethasone at 0.15 mg/kg may be as effective as the standard dose of 0.60 mg/kg. More studies are needed to strengthen the evidence for the effectiveness of low-dose dexamethasone at 0.15 mg/kg to treat croup. We conclude that glucocorticoids are effective in the treatment of croup in children."
+    },
+    {
+      "heading": "Certainty of evidence",
+      "text": "Most studies (98%) had problems related to their methods, reporting issues, or both. For any glucocorticoid compared to placebo, we downgraded the certainty of the evidence for change in croup score after 2, 6, 12, and 24 hours and return visits or (re)admissions due to study variability, imprecision and inconsistency of study results, and risk of bias. There is little evidence that reporting bias influenced our results for return visits or (re)admissions, or both. Similar threats to the certainty of the evidence were present in the other comparisons in this review, including concerns related to risk of bias and inconsistency and imprecision of study results."
+    }
+  ]
+}

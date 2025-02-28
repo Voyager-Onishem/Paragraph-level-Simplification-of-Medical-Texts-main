@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009893.pub2",
+  "name": "Direct thrombin inhibitors versus vitamin K antagonists for preventing cerebral or systemic embolism in people with non‐valvular atrial fibrillation ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Chronic anticoagulation with vitamin K antagonists (VKAs) prevents ischaemic stroke and systemic embolism in people with non-valvular atrial fibrillation (AF) but dose adjustment, coagulation monitoring and bleeding limits its use. Direct thrombin inhibitors (DTIs) are under investigation as potential alternatives."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess (1) the comparative efficacy of long-term anticoagulation using DTIs versus VKAs on vascular deaths and ischaemic events in people with non-valvular AF, and (2) the comparative safety of chronic anticoagulation using DTIs versus VKAs on (a) fatal and non-fatal major bleeding events including haemorrhagic strokes, (b) adverse events other than bleeding and ischaemic events that lead to treatment discontinuation and (c) all-cause mortality in people with non-valvular AF."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Stroke Group Trials Register (July 2013), the Cochrane Central Register of Controlled Trials (CENTRAL), (The Cochrane Library, May 2013), MEDLINE (1950 to July 2013), EMBASE (1980 to October 2013), LILACS (1982 to October 2013) and trials registers (September 2013). We also searched the websites of clinical trials and pharmaceutical companies and handsearched the reference lists of articles and conference proceedings."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) comparing DTIs versus VKAs for prevention of stroke and systemic embolism in people with non-valvular AF."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "All three review authors independently performed data extraction and assessment of risk of bias. Primary analyses compared all DTIs combined versus warfarin. We performed post hoc analyses excluding ximelagatran because this drug was withdrawn from the market owing to safety concerns."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included eight studies involving a total of 27,557 participants with non-valvular AF and one or more risk factors for stroke; 26,601 of them were assigned to standard doses groups and included in the primary analysis. The DTIs: dabigatran 110 mg twice daily and 150 mg twice daily (three studies, 12,355 participants), AZD0837 300 mg once per day (two studies, 233 participants) and ximelagatran 36 mg twice per day (three studies, 3726 participants) were compared with the VKA warfarin (10,287 participants). Overall risk of bias and statistical heterogeneity of the studies included were low.\nThe odds of vascular death and ischaemic events were not significantly different between all DTIs and warfarin (odds ratio (OR) 0.94, 95% confidence interval (CI) 0.85 to 1.05). Sensitivity analysis by dose of dabigatran on reduction in ischaemic events and vascular mortality indicated that dabigatran 150 mg twice daily was superior to warfarin although the effect estimate was of borderline statistical significance (OR 0.86, 95% CI 0.75 to 0.99). Sensitivity analyses by other factors did not alter the results. Fatal and non-fatal major bleeding events, including haemorrhagic strokes, were less frequent with the DTIs (OR 0.87, 95% CI 0.78 to 0.97). Adverse events that led to discontinuation of treatment were significantly more frequent with the DTIs (OR 2.18, 95% CI 1.82 to 2.61). All-cause mortality was similar between DTIs and warfarin (OR 0.91, 95% CI 0.83 to 1.01)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "DTIs were as efficacious as VKAs for the composite outcome of vascular death and ischaemic events and only the dose of dabigatran 150 mg twice daily was found to be superior to warfarin. DTIs were associated with fewer major haemorrhagic events, including haemorrhagic strokes. Adverse events that led to discontinuation of treatment occurred more frequently with the DTIs. We detected no difference in death from all causes."
+    }
+  ],
+  "pls_title": "Direct thrombin inhibitors compared with vitamin K antagonists in people with atrial fibrillation for preventing stroke",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "We wanted to compare the effectiveness and safety of direct thrombin inhibitors (DTIs) with vitamin K antagonists in people with atrial fibrillation (AF) to prevent stroke."
+    },
+    {
+      "heading": "Background",
+      "text": "Non-valvular atrial fibrillation is a type of irregular heartbeat that arises in a heart with normal valves. It increases the risk of developing blood clots in the heart which can then travel to the brain, leading to a stroke, and to other parts of the body. Warfarin (a vitamin K antagonist) is a drug that prevents the formation of such clots, thus reducing the risk of stroke. However, the need for frequent blood tests to adjust the dose and the risk of bleeding limits the use of warfarin. The oral DTIs represent a potential alternative. We aimed to establish the comparative effectiveness and safety of these new drugs compared with the standard treatment (warfarin) used for long-term anticoagulation in people with AF."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We included eight studies, identified up to October 2013, evaluating the effect of DTIs versus warfarin in people with non-valvular AF. DTIs included were dabigatran 110 mg or 150 mg twice daily (three studies, 12,355 participants), AZD0837 300 mg once a day (two studies, 233 participants) and ximelagatran 36 mg twice daily (three studies, 3726 participants). Of the total number of participants included in this review 61% were men, and the mean age of participants in all studies was over 70 years. Follow-up periods after the end of study medication ranged from zero to four weeks."
+    },
+    {
+      "heading": "Key results",
+      "text": "We conducted the analyses excluding ximelagatran because this drug was withdrawn from the market owing to toxic effects on the liver. We evaluated the effectiveness of the treatment by the number of vascular deaths and ischaemic events. We evaluated safety by the number of (1) fatal and non-fatal major bleeding events, including haemorrhagic strokes, (2) adverse events other than bleeding and ischaemic events that led to treatment discontinuation, and (3) death from all causes.\nThere was no difference in the number of vascular deaths and ischaemic events between all DTIs combined and warfarin, although dabigatran 150 mg twice daily was superior to warfarin for this outcome. Major bleeding events were less frequent with the DTIs, making them a potentially safer alternative to anticoagulation in people at high risk. The adverse events that led participants to discontinue treatment were more frequent with the DTIs. Death from all causes was similar between DTIs and warfarin."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We judged the quality of all eight included studies to be adequate to address the main objectives of the review."
+    }
+  ]
+}

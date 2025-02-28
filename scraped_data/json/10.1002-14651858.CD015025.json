@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/14651858.CD015025",
+  "name": "Antibiotics for the treatment of COVID‐19",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The effect of antibiotics with potential antiviral and anti-inflammatory properties are being investigated in clinical trials as treatment for COVID-19. The use of antibiotics follows the intention-to-treat the viral disease and not primarily to treat bacterial co-infections of individuals with COVID-19. A thorough understanding of the current evidence regarding effectiveness and safety of antibiotics as anti-viral treatments for COVID-19 based on randomised controlled trials (RCTs) is required."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the efficacy and safety of antibiotics compared to each other, no treatment, standard of care alone, placebo, or any other active intervention with proven efficacy for treatment of COVID-19 outpatients and inpatients."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane COVID-19 Study Register (including MEDLINE, Embase, ClinicalTrials.gov, WHO ICTRP, medRxiv, CENTRAL), Web of Science and WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies to 14 June 2021."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "RCTs were included that compared antibiotics with each other, no treatment, standard of care alone, placebo, or another proven intervention, for treatment of people with confirmed COVID-19, irrespective of disease severity, treated in the in- or outpatient settings.\nCo-interventions had to be the same in both study arms. We excluded studies comparing antibiotics to other pharmacological interventions with unproven efficacy."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We assessed risk of bias of primary outcomes using the Cochrane risk of bias tool (ROB 2) for RCTs. We used GRADE to rate the certainty of evidence for the following primary outcomes: 1. to treat inpatients with moderate to severe COVID-19: mortality, clinical worsening defined as new need for intubation or death, clinical improvement defined as being discharged alive, quality of life, adverse and serious adverse events, and cardiac arrhythmias; 2. to treat outpatients with asymptomatic or mild COVID-19: mortality, clinical worsening defined as hospital admission or death, clinical improvement defined as symptom resolution, quality of life, adverse and serious adverse events, and cardiac arrhythmias."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 11 studies with 11,281 participants with an average age of 54 years investigating antibiotics compared to placebo, standard of care alone or another antibiotic. No study was found comparing antibiotics to an intervention with proven efficacy. All studies investigated azithromycin, two studies investigated other antibiotics compared to azithromycin. Seven studies investigated inpatients with moderate to severe COVID-19 and four investigated mild COVID-19 cases in outpatient settings. Eight studies had an open-label design, two were blinded with a placebo control, and one did not report on blinding. We identified 19 ongoing and 15 studies awaiting classification pending publication of results or clarification of inconsistencies.\nOf the 30 study results contributing to primary outcomes by included studies, 17 were assessed as overall low risk and 13 as some concerns of bias. Only studies investigating azithromycin reported data eligible for the prioritised primary outcomes. Azithromycin doses and treatment duration varied among included studies.\nAzithromycin for the treatment of COVID-19 compared to placebo or standard of care alone in inpatients\nWe are very certain that azithromycin has little or no effect on all-cause mortality at day 28 compared to standard of care alone (risk ratio (RR) 0.98; 95% confidence interval (CI) 0.90 to 1.06; 8600 participants; 4 studies; high-certainty evidence). Azithromycin probably has little or no effect on clinical worsening or death at day 28 (RR 0.95; 95% CI 0.87 to 1.03; 7311 participants; 1 study; moderate-certainty evidence), on clinical improvement at day 28 (RR 0.96; 95% CI 0.84 to 1.11; 8172 participants; 3 studies; moderate-certainty evidence), on serious adverse events during the study period (RR 1.11; 95% CI 0.89 to 1.40; 794 participants; 4 studies; moderate-certainty evidence), and cardiac arrhythmias during the study period (RR 0.92; 95% CI 0.73 to 1.15; 7865 participants; 4 studies; moderate-certainty evidence) compared to placebo or standard of care alone. Azithromycin may increase any adverse events slightly during the study period (RR 1.20; 95% CI 0.92 to 1.57; 355 participants; 3 studies; low-certainty evidence) compared to standard of care alone. No study reported quality of life up to 28 days.\nAzithromycin for the treatment of COVID-19 compared to placebo or standard of care alone in outpatients\nAzithromycin may have little or no effect compared to placebo or standard of care alone on all-cause mortality at day 28 (RR 1.00 ; 95% CI 0.06 to 15.69; 876 participants; 3 studies; low-certainty evidence), on admission to hospital or death within 28 days (RR 0.94 ; 95% CI 0.57 to 1.56; 876 participants; 3 studies; low-certainty evidence), and on symptom resolution at day 14 (RR 1.03; 95% CI 0.95 to 1.12; 138 participants; 1 study; low-certainty evidence). We are uncertain whether azithromycin increases or reduces serious adverse events compared to placebo or standard of care alone (0 participants experienced serious adverse events; 454 participants; 2 studies; very low-certainty evidence). No study reported on adverse events, cardiac arrhythmias during the study period or quality of life up to 28 days.\nAzithromycin for the treatment of COVID-19 compared to any other antibiotics in inpatients and outpatients\nOne study compared azithromycin to lincomycin in inpatients, but did not report any primary outcome.\nAnother study compared azithromycin to clarithromycin in outpatients, but did not report any relevant outcome for this review."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "We are certain that risk of death in hospitalised COVID-19 patients is not reduced by treatment with azithromycin after 28 days. Further, based on moderate-certainty evidence, patients in the inpatient setting with moderate and severe disease probably do not benefit from azithromycin used as potential antiviral and anti-inflammatory treatment for COVID-19 regarding clinical worsening or improvement. For the outpatient setting, there is currently low-certainty evidence that azithromycin may have no beneficial effect for COVID-19 individuals. There is no evidence from RCTs available for other antibiotics as antiviral and anti-inflammatory treatment of COVID-19.\nWith accordance to the living approach of this review, we will continually update our search and include eligible trials to fill this evidence gap. However, in relation to the evidence for azithromycin and in the context of antimicrobial resistance, antibiotics should not be used for treatment of COVID-19 outside well-designed RCTs."
+    }
+  ],
+  "pls_title": "Are antibiotics an effective treatment for COVID-19 and do they cause unwanted effects?",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Key messages",
+      "text": "• The antibiotic azithromycin is not an effective treatment for COVID-19.\n• We don’t know whether antibiotics other than azithromycin are effective treatments for COVID-19 because there is not enough research.\n• We found 19 ongoing studies that are investigating antibiotics for COVID-19. We will update this review if their results change our conclusions."
+    },
+    {
+      "heading": "What are antibiotics?",
+      "text": "Antibiotics are cheap and common medicines used to treat bacterial infections. However, recent laboratory studies found that some antibiotics slowed the reproduction of some viruses, including SARS-CoV-2, the virus that causes COVID-19. In laboratory tests, one antibiotic, azithromycin, reduced viral activity and inflammation, and so it has been studied as a potential treatment for COVID-19. We need good evidence before giving antibiotics for COVID-19 because overuse or misuse of antibiotics can lead to ‘antimicrobial resistance’, where organisms that cause infection change, so that antibiotics stop working."
+    },
+    {
+      "heading": "What did we want to find out?",
+      "text": "We wanted to know if antibiotics reduce death, severity of disease, and length of infection in people with COVID-19, if they have an effect on quality of life or cause unwanted effects. We included studies that compared antibiotics to placebo (dummy treatment), no treatment, usual care, another antibiotic, or treatments for COVID-19 that are known to work to some extent, such as remdesivir or dexamethasone. We excluded treatments that we know do not work for COVID-19, such as hydroxychloroquine, or have an unknown influence on the disease.\nWe evaluated the effects of antibiotics on people with COVID-19 on:\n• people dying;\n• whether people's COVID-19 symptoms got better or worse;\n• unwanted effects;\n• heart rhythm problems;\n• quality of life."
+    },
+    {
+      "heading": "What did we do?",
+      "text": "We searched for studies that investigated antibiotics to treat people with COVID-19 in hospital or as outpatients.\nWe compared and summarised the results of the studies and rated our confidence in the evidence, based on common criteria such as study methods and sizes."
+    },
+    {
+      "heading": "What did we find?",
+      "text": "We found 11 studies with 11,281 people that investigated antibiotics to treat COVID-19. All 11 studies investigated azithromycin. Nine studies (10,807 people) compared azithromycin to no treatment, placebo or usual care alone. Two studies compared azithromycin to another antibiotic: lincomycin (1 study, 24 people) and clarithromycin (1 study, 450 people), however, they did not report data that we could use in this review, so our results apply to azithromycin only.\nSeven studies included people with moderate to severe COVID-19 in hospital and four studies included outpatients with mild COVID-19. The studies used different doses of azithromycin and different durations of treatment.\nWe found 19 ongoing studies. We have not classified 15 completed studies because we are waiting for more information from the authors, or they have not yet been published."
+    },
+    {
+      "heading": "Main results",
+      "text": ""
+    },
+    {
+      "heading": "Inpatients with moderate to severe COVID-19",
+      "text": "Azithromycin compared to usual care alone, does not lead to more or fewer deaths in the 28 days after treatment (4 studies, 8600 people).\nCompared to usual care alone or placebo, azithromycin probably does not:\n• worsen (1 study, 7311 people) or \n• improve patients’ condition (3 studies, 8172 people);\n• increase or decrease serious unwanted events (4 studies, 794 people), and heart rhythm problems (4 studies, 7865 people).\nAzithromycin may increase non-serious unwanted effects slightly compared to usual care alone (3 studies, 355 people).\nNo studies looked at quality of life."
+    },
+    {
+      "heading": "Outpatients with mild COVID-19",
+      "text": "Compared to usual care alone or placebo azithromycin may make little or no difference to: \n• people dying in the 28 days after treatment (3 studies, 876 people);\n• whether the people's disease worsened in the 28 days after treatment (3 studies, 876 people) or\n• whether people's COVID-19 symptoms got better in the 14 days after treatment (1 study, 138 people).\nWe don't know whether azithromycin compared to usual care alone or placebo increases or decreases serious unwanted effects (2 studies, 454 participants).\nNo studies reported non-serious unwanted events, heart rhythm problems, or quality of life."
+    },
+    {
+      "heading": "What are the limitations of the evidence?",
+      "text": "We are very confident in the evidence on azithromycin for COVID-19 inpatients. However, we are less confident in the evidence on azithromycin in outpatients, mainly because there were few studies that also had some flaws, therefore we could not draw reliable conclusions. We found relevant evidence on only one antibiotic, azithromycin, so we do not know the effects of other antibiotics for treating COVID-19. We will continue to search for new studies to fill this evidence gap. Our evidence does not suggest azithromycin is an effective treatment for COVID-19, especially given the danger of antimicrobial resistance. Azithromycin or any other antibiotic should not be used to treat COVID-19 outside well-designed studies."
+    },
+    {
+      "heading": "How up to date is this evidence?",
+      "text": "The evidence is up to date to 14 June 2021."
+    }
+  ]
+}

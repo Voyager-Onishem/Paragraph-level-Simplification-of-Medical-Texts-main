@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD001181.pub4",
+  "name": "Antimicrobial prophylaxis for colorectal surgery",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Research shows that administration of prophylactic antibiotics before colorectal surgery prevents postoperative surgical wound infection. The best antibiotic choice, timing of administration and route of administration remain undetermined."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To establish the effectiveness of antimicrobial prophylaxis for the prevention of surgical wound infection in patients undergoing colorectal surgery. Specifically to determine:\n1. whether antimicrobial prophylaxis reduces the risk of surgical wound infection;\n2. the target spectrum of bacteria (aerobic or anaerobic bacteria, or both);\n3. the best timing and duration of antibiotic administration;\n4. the most effective route of antibiotic administration (intravenous, oral or both);\n5. whether any antibiotic is clearly more effective than the currently recommended gold standard specified in published guidelines;\n6. whether antibiotics should be given before or after surgery."
+    },
+    {
+      "heading": "Search methods",
+      "text": "For the original review published in 2009 we searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE (Ovid) and EMBASE (Ovid). For the update of this review we rewrote the search strategies and extended the search to cover from 1954 for MEDLINE and 1974 for EMBASE up to 7 January 2013. We searched CENTRAL on the same date (Issue 12, 2012)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials of prophylactic antibiotic use in elective and emergency colorectal surgery, with surgical wound infection as an outcome."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Data were abstracted and reviewed by one review author and checked by another only for the single, dichotomous outcome of surgical wound infection. Quality of evidence was assessed using GRADE methods."
+    },
+    {
+      "heading": "Main results",
+      "text": "This updated review includes 260 trials and 68 different antibiotics, including 24 cephalosporins and 43,451 participants. Many studies had multiple variables that separated the two study groups; these could not be compared to other studies that tested one antibiotic and had a single variable separating the two groups. We did not consider the risk of bias arising from attrition and lack of blinding of outcome assessors to affect the results for surgical wound infection.\nMeta-analyses demonstrated a statistically significant difference in postoperative surgical wound infection when prophylactic antibiotics were compared to placebo/no treatment (risk ratio (RR) 0.34, 95% confidence interval (CI) 0.28 to 0.41, high quality evidence). This translates to a reduction in risk from 39% to 13% with prophylactic antibiotics. The slightly higher risk of wound infection with short-term compared with long-term duration antibiotic did not reach statistical significance (RR 1.10, 95% CI 0.93 to 1.30). Similarly risk of would infection was slightly higher with single-dose antibiotics when compared with multiple dose antibiotics, but the results are compatible with benefit and harm (RR 1.30, 95% CI 0.81 to 2.10). Additional aerobic coverage and additional anaerobic coverage both showed statistically significant improvements in surgical wound infection rates (RR 0.44, 95% CI 0.29 to 0.68 and RR 0.47, 95% CI 0.31 to 0.71, respectively), as did combined oral and intravenous antibiotic prophylaxis when compared to intravenous alone (RR 0.56, 95% CI 0.43 to 0.74), or oral alone (RR 0.56, 95% CI 0.40 to 0.76). Comparison of an antibiotic with anaerobic specificity to one with aerobic specificity showed no significant advantage for either one (RR 0.84, 95% CI 0.30 to 2.36). Two small studies compared giving antibiotics before or after surgery and no significant difference in this timing was found (RR 0.67, 95% CI 0.21 to 2.15). Established gold-standard regimens recommended in major guidelines were no less effective than any other antibiotic choice."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "This review has found high quality evidence that antibiotics covering aerobic and anaerobic bacteria delivered orally or intravenously (or both) prior to elective colorectal surgery reduce the risk of surgical wound infection. Our review shows that antibiotics delivered within this framework can reduce the risk of postoperative surgical wound infection by as much as 75%. It is not known whether oral antibiotics would still have these effects when the colon is not empty. This aspect of antibiotic dosing has not been tested. Further research is required to establish the optimal timing and duration of dosing, and the frequency of longer-term adverse effects such as Clostridium difficile pseudomembranous colitis."
+    }
+  ],
+  "pls_title": "Antibiotics administered to patients prior to colorectal surgery",
+  "pls_type": "long",
+  "pls": "When people undergo surgical operations of their abdomen they are at risk of infection which will often be cured by an antibiotic. However, it might be better to give this before the operation to prevent the infection (prophylaxis or prophylactic use), rather than wait until an infection occurs before giving it. This review looks at the evidence for giving an antibiotic before surgery takes place.\nThe review found 260 studies which had recruited over 43 thousand people undergoing abdominal surgery. The studies had some limitations in relation to the number of people who remained in the studies and the possibility that the results were affected because some of the researchers in the studies knew which people had received antibiotics before surgery. However, when the results were analysed effect of prophylactic antibiotics was consistently beneficial meaning that these limitations were unlikely to have had a major impact on the nature of the overall results. Abdominal surgical wound infection in patients having operations on the large intestine occurs in about 40% of patients if antibiotics are not given. This risk can be greatly diminished by the administration of antibiotics prophylactically before surgery. The antibiotic(s) given usuallly needs to cover different types of bacteria some of which need oxygen (aerobic bacteria) and others which do not need oxygen (anaerobic bacteria).. They are usually given via a canula injected into a vein, though there is evidence that a combination of oral and intravenous antibiotics may provide more protection. This last finding raises a problem in that current clinical practice is to avoid mechanical cleansing of the colon because it is not thought to be necessary before surgery (and not popular with patients). Studies that found a benefit to oral antibiotics were done at a time when mechanical cleansing of the colon was routinely done. In the light of current practice regarding mechanical cleansing before surgery of the colon, the benefit of oral antibiotics is uncertain."
+}

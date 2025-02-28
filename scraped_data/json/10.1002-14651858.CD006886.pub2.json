@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD006886.pub2",
+  "name": "Psychosocial interventions for smoking cessation in patients with coronary heart disease",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "This is an update of a Cochrane review previously published in 2008. Smoking increases the risk of developing atherosclerosis but also acute thrombotic events. Quitting smoking is potentially the most effective secondary prevention measure and improves prognosis after a cardiac event, but more than half of the patients continue to smoke, and improved cessation aids are urgently required."
+    },
+    {
+      "heading": "Objectives",
+      "text": "This review aimed to examine the efficacy of psychosocial interventions for smoking cessation in patients with coronary heart disease in short-term (6 to 12 month follow-up) and long-term (more than 12 months). Moderators of treatment effects (i.e. intervention types, treatment dose, methodological criteria) were used for stratification."
+    },
+    {
+      "heading": "Search methods",
+      "text": "The Cochrane Central Register of Controlled Trials (Issue 12, 2012), MEDLINE, EMBASE, PsycINFO and PSYNDEX were searched from the start of the database to January 2013. This is an update of the initial search in 2003. Results were supplemented by cross-checking references, and handsearches in selected journals and systematic reviews. No language restrictions were applied."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) in patients with CHD with a minimum follow-up of 6 months."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two authors independently assessed trial eligibility and risk of bias. Abstinence rates were computed according to an intention to treat analysis if possible, or if not according to completer analysis results only. Subgroups of specific intervention strategies were analysed separately. The impact of study quality on efficacy was studied in a moderator analysis. Risk ratios (RR) were pooled using the Mantel-Haenszel and random-effects model with 95% confidence intervals (CI)."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 40 RCTs meeting inclusion criteria in total (21 trials were new in this update, 5 new trials contributed to long-term results (more than 12 months)). Interventions consist of behavioural therapeutic approaches, telephone support and self-help material and were either focused on smoking cessation alone or addressed several risk factors (eg. obesity, inactivity and smoking). The trials mostly included older male patients with CHD, predominantly myocardial infarction (MI). After an initial selection of studies three trials with implausible large effects of RR > 5 which contributed to substantial heterogeneity were excluded. Overall there was a positive effect of interventions on abstinence after 6 to 12 months (risk ratio (RR) 1.22, 95% confidence interval (CI) 1.13 to 1.32, I² 54%; abstinence rate treatment group = 46%, abstinence rate control group 37.4%), but heterogeneity between trials was substantial. Studies with validated assessment of smoking status at follow-up had similar efficacy (RR 1.22, 95% CI 1.07 to 1.39) to non-validated trials (RR 1.23, 95% CI 1.12 to 1.35). Studies were stratified by intervention strategy and intensity of the intervention. Clustering reduced heterogeneity, although many trials used more than one type of intervention. The RRs for different strategies were similar (behavioural therapies RR 1.23, 95% CI 1.12 to 1.34, I² 40%; telephone support RR 1.21, 95% CI 1.12 to 1.30, I² 44%; self-help RR 1.22, 95% CI 1.12 to 1.33, I² 40%). More intense interventions (any initial contact plus follow-up over one month) showed increased quit rates (RR 1.28, 95% CI 1.17 to 1.40, I² 58%) whereas brief interventions (either one single initial contact lasting less than an hour with no follow-up, one or more contacts in total over an hour with no follow-up or any initial contact plus follow-up of less than one months) did not appear effective (RR 1.01, 95% CI 0.91 to 1.12, I² 0%). Seven trials had long-term follow-up (over 12 months), and did not show any benefits. Adverse side effects were not reported in any trial. These findings are based on studies with rather low risk of selection bias but high risk of detection bias (namely unblinded or non validated assessment of smoking status)."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Psychosocial smoking cessation interventions are effective in promoting abstinence up to 1 year, provided they are of sufficient duration. After one year, the studies showed favourable effects of smoking cessation intervention, but more studies including cost-effectiveness analyses are needed. Further studies should also analyse the additional benefit of a psychosocial intervention strategy to pharmacological therapy (e.g. nicotine replacement therapy) compared with pharmacological treatment alone and investigate economic outcomes."
+    }
+  ],
+  "pls_title": "Psychosocial smoking cessation interventions help patients with heart attacks to quit.",
+  "pls_type": "long",
+  "pls": "Smoking is a risk factor for heart attacks and stopping smoking is recommended for patients after a heart attack. Psychosocial smoking cessation interventions like counseling can help such patients to stop smoking, if they are provided for over one month. Psychosocial interventions can help such patients to quit within 6 months but studies about the long term effects did not support the beneficial short-term findings. Most trials used a mixture of different intervention strategies, therefore no single strategy showed superior efficacy."
+}

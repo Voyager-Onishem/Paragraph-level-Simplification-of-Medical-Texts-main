@@ -1,0 +1,51 @@
+{
+  "doi": "10.1002/14651858.CD006678.pub2",
+  "name": "Chemotherapy for children with medulloblastoma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Post-surgical radiotherapy (RT) in combination with chemotherapy is considered as standard of care for medulloblastoma in children. Chemotherapy has been introduced to improve survival and to reduce RT-induced adverse effects. Reduction of RT-induced adverse effects was achieved by deleting (craniospinal) RT in very young children and by diminishing the dose and field to the craniospinal axis and reducing the boost volume to the tumour bed in older children."
+    },
+    {
+      "heading": "Objectives",
+      "text": "Primary objectives: 1. to determine the event-free survival/disease-free survival (EFS/DFS) and overall survival (OS) in children with medulloblastoma receiving chemotherapy as a part of their primary treatment, as compared with children not receiving chemotherapy as part of their primary treatment; 2. to determine EFS/DFS and OS in children with medulloblastoma receiving standard-dose RT without chemotherapy, as compared with children receiving reduced-dose RT with chemotherapy as their primary treatment.\nSecondary objectives: to determine possible adverse effects of chemotherapy and RT, including long-term adverse effects and effects on quality of life."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2013, Issue 7), MEDLINE/PubMed (1966 to August 2013) and EMBASE/Ovid (1980 to August 2013). In addition, we searched reference lists of relevant articles, conference proceedings and ongoing trial databases (August 2013)."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised controlled trials (RCTs) evaluating the above treatments in children (aged 0 to 21 years) with medulloblastoma."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently performed study selection, data extraction and risk of bias assessment. We performed analyses according to the guidelines of the Cochrane Handbook for Systematic Reviews of Interventions. Where possible, we pooled results."
+    },
+    {
+      "heading": "Main results",
+      "text": "The search identified seven RCTs, including 1080 children, evaluating treatment including chemotherapy and treatment not including chemotherapy. The meta-analysis of EFS/DFS not including disease progression during therapy as an event in the definition showed a difference in favour of treatment including chemotherapy (hazard ratio (HR) 0.70; 95% confidence interval (CI) 0.54 to 0.91; P value = 0.007; 2 studies; 465 children). However, not including disease progression as an event might not be optimal and the finding was not confirmed in the meta-analysis of EFS/DFS including disease progression during therapy as an event in the definition (HR 1.02; 95% CI 0.70 to 1.47; P value = 0.93; 2 studies; 300 children). Two individual studies using unclear or other definitions of EFS/DFS also showed no clear evidence of difference between treatment arms (one study with unclear definition of DFS: HR 1.67; 95% CI 0.59 to 4.71; P value = 0.34; 48 children; one study with other definition of EFS: HR 0.84; 95% CI 0.58 to 1.21; P value = 0.34; 233 children). In addition, it should be noted that in one of the studies not including disease progression as an event, the difference in DFS only reached statistical significance while the study was running, but due to late relapses in the chemotherapy arm, this significance was no longer evident with longer follow-up. There was no clear evidence of difference in OS between treatment arms (HR 1.06; 95% CI 0.67 to 1.67; P value = 0.80; 4 studies; 332 children). Out of eight reported adverse effects, of which seven were reported in one study, two (severe infections and fever/neutropenia) showed a difference in favour of treatment not including chemotherapy (severe infections: risk ratio (RR) 5.64; 95% CI 1.28 to 24.91; P value = 0.02; fever/neutropenia: RR not calculable; Fisher's exact P value = 0.01). There was no clear evidence of a difference between treatment arms for other adverse effects (acute alopecia: RR 1.00; 95% CI 0.92 to 1.08; P value = 1.00; reduction in intelligence quotient: RR 0.78; 95% CI 0.46 to 1.30; P value = 0.34; secondary malignancies: Fisher's exact P value = 0.5; haematological toxicity: RR 0.54; 95% CI 0.20 to 1.45; P value = 0.22; hepatotoxicity: Fisher's exact P value = 1.00; treatment-related mortality: RR 2.37; 95% CI 0.43 to 12.98; P value = 0.32; 3 studies). Quality of life was not evaluated. In individual studies, the results in subgroups (i.e. younger/older children and high-risk/non-high-risk children) were not univocal.\nThe search found one RCT comparing standard-dose RT with reduced-dose RT plus chemotherapy. There was no clear evidence of a difference in EFS/DFS between groups (HR 1.54; 95% CI 0.81 to 2.94; P value = 0.19; 76 children). The RCT did not evaluate other outcomes and subgroups.\nThe presence of bias could not be ruled out in any of the studies."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Based on the evidence identified in this systematic review, a benefit of chemotherapy cannot be excluded, but at this moment we are unable to draw a definitive conclusion regarding treatment with or without chemotherapy. Treatment results must be viewed in the context of the complete therapy (e.g. the effect of surgery and craniospinal RT), and the different chemotherapy protocols used. This systematic review only allowed a conclusion on the concept of treatment, not on the best strategy regarding specific chemotherapeutic agents and radiation dose. Several factors complicated the interpretation of results including the long time span between studies with important changes in treatment in the meantime. 'No evidence of effect', as identified in this review, is not the same as 'evidence of no effect'. The fact that no significant differences between treatment arms were identified could, besides the earlier mentioned reasons, also be the result of low power or too short a follow-up period. Even though RCTs are the highest level of evidence, it should be recognised that data from non-randomised studies are available, for example on the use of chemotherapy only in very young children with promising results for children without metastatic disease. We found only one RCT addressing standard-dose RT without chemotherapy versus reduced-dose RT with chemotherapy, so no definitive conclusions can be made. More high-quality research is needed."
+    }
+  ],
+  "pls_title": "Chemotherapy for children with medulloblastoma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "Medulloblastoma is one of the most common malignant brain tumours in children. Chemotherapy is used to improve survival and diminish potential radiotherapy-induced side effects. The reduction of radiotherapy-induced side effects is achieved in very young children by not treating them with radiotherapy and in older children by diminishing the craniospinal radiotherapy (radiotherapy applied to the brain and spinal cord) dose and by reducing the boost volume to the tumour bed only instead of the whole posterior fossa (part of the brain). A well-informed decision on the use of chemotherapy in the treatment of medulloblastoma in children should be based on high-quality evidence on both the effectiveness against the tumour and side effects."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched databases for randomised trials (studies where participants are allocated to one of two or more treatment groups in a random manner) evaluating the effectiveness of treatment including chemotherapy versus treatment not including chemotherapy (seven available studies) and on randomised studies evaluating the effectiveness of standard-dose radiotherapy without chemotherapy versus reduced-dose radiotherapy plus chemotherapy (one available study) in children (aged 0 to 21 years). The evidence is current to August 2013."
+    },
+    {
+      "heading": "Key results and quality of the evidence",
+      "text": "Based on the evidence identified in this systematic review a benefit of chemotherapy cannot be excluded, but at this moment we are unable to draw a definitive conclusion to favour treatment with or without chemotherapy. Even though randomised studies are the highest level of evidence, it should be recognised that data from non-randomised studies were available, for example on the use of chemotherapy only in very young children. The results are promising for children without metastatic disease. For treatment with standard-dose radiotherapy without chemotherapy as compared with reduced-dose radiotherapy with chemotherapy, we also cannot make definitive recommendations. More high-quality research is needed."
+    }
+  ]
+}

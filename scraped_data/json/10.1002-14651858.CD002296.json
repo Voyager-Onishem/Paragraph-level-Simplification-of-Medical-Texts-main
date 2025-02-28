@@ -1,0 +1,38 @@
+{
+  "doi": "10.1002/14651858.CD002296",
+  "name": "Prevention of NSAID‐induced gastroduodenal ulcers",
+  "free": false,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Non-steroidal anti-inflammatory drugs (NSAIDs) are important agents in the management of arthritic and inflammatory conditions, and are among the most frequently prescribed medications in North America and Europe. However, there is overwhelming evidence linking these agents to a variety of gastrointestinal (GI) toxicities."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effectiveness of common interventions for the prevention of NSAID induced upper GI toxicity."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched MEDLINE from 1966 to May 2009, Current Contents for six months prior to May 2009, EMBASE to May 2009, and the Cochrane Controlled Trials Register from 1973 to May 2009. Recent conference proceedings were reviewed and content experts and companies were contacted."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomized controlled clinical trials (RCTs) of prostaglandin analogues (PA), H2-receptor antagonists (H2RA) or proton pump inhibitors (PPI) for the prevention of chronic NSAID induced upper GI toxicity were included."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two independent authors extracted data regarding population characteristics, study design, methodological quality and number of participants with endoscopic ulcers, ulcer complications, symptoms, overall drop-outs, drop outs due to symptoms. Dichotomous data were pooled using RevMan 5.0. Heterogeneity was evaluated using a chi square test, and the I square statistic."
+    },
+    {
+      "heading": "Main results",
+      "text": "Forty-one RCTs met the inclusion criteria. All doses of misoprostol significantly reduced the risk of endoscopic ulcers. Misoprostol 800 ug/day was superior to 400 ug/day for the prevention of endoscopic gastric ulcers (RR 0.17, and RR 0.39 respectively, P=0.0055). A dose response relationship was not seen with duodenal ulcers. Misoprostol caused diarrhoea at all doses, although significantly more at 800 ug/day than 400 ug/day (P=0.0012). Misoprostol also reduced the risk of clinical ulcer complications.\nStandard doses of H2RAs were effective at reducing the risk of endoscopic duodenal (RR 0.36; 95% CI 0.18 to 0.74) but not gastric ulcers (RR 0.73; 95% CI 0.50 to 1.08). Both double dose H2RAs and PPIs were effective at reducing the risk of endoscopic duodenal and gastric ulcers (RR 0.44; 95% CI 0.26 to 0.74) and RR=0.40;95% CI; 0.32-0.51 respectively for gastric ulcer), and were better tolerated than misoprostol."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Misoprostol, PPIs, and double dose H2RAs are effective at preventing chronic NSAID related endoscopic gastric and duodenal ulcers. Lower doses of misoprostol are less effective and are still associated with diarrhoea. In patients with previous NSAID bleeds, a COX-2 inhibitor alone is equivalent to a tNSAID+PPI, though the re-bleeding rates with both strategies are still relatively high. A strategy of a COX-2 inhibitor+PPI appears to offer the greatest GI safety in high risk patients."
+    }
+  ],
+  "pls_title": "Medications to prevent NSAID-induced gastroduodenal ulcers",
+  "pls_type": "long",
+  "pls": "The results of this meta-analysis demonstrate that misoprostol, proton pump inhibitors, and double doses of H2-receptor antagonists are effective at reducing the risk of both gastric and duodenal non steroidal anti-inflammatory (NSAID) medications induced ulcers. In high risk patients, the use of a traditional NSAID + PPI appears equivalent to a COX-2 inhibitor alone. The most effective strategy in high risk GI patients appears to be the combination of a COX-2 inhibitor + PPI."
+}

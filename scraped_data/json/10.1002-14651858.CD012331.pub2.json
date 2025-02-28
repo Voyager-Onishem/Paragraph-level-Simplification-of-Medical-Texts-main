@@ -1,0 +1,55 @@
+{
+  "doi": "10.1002/14651858.CD012331.pub2",
+  "name": "Lay‐led and peer support interventions for adolescents with asthma",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Adolescents with asthma are at high risk of poor adherence with treatment. This may be compounded by activities that worsen asthma, in particular smoking. Additional support above and beyond routine care has the potential to encourage good self-management. We wanted to find out whether sessions led by their peers or by lay leaders help to reduce these risks and improve asthma outcomes among adolescents."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the safety and efficacy of lay-led and peer support interventions for adolescents with asthma."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We identified trials from the Cochrane Airways Trials Register, which contains reports of randomised trials obtained from multiple electronic and handsearched sources, and we searched trial registries and reference lists of primary studies. We conducted the most recent searches on 25 November 2016."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Eligible studies randomised adolescents with asthma to an intervention led by lay people or peers or to a control. We included parallel randomised controlled trials with individual or cluster designs. We included studies reported as full text, those published as abstract only and unpublished data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors screened the searches, extracted numerical data and study characteristics and assessed each included study for risk of bias. Primary outcomes were asthma-related quality of life and exacerbations requiring at least a course of oral steroids. We graded the analyses and presented evidence in a 'Summary of findings' table.\nWe analysed dichotomous data as odds ratios, and continuous data as mean differences (MD) or standardised mean differences, all with a random-effects model. We assessed clinical, methodological and statistical heterogeneity when performing meta-analyses, and we described skewed data narratively."
+    },
+    {
+      "heading": "Main results",
+      "text": "Five studies including a total of 1146 participants met the inclusion criteria for this review. As ever with systematic reviews of complex interventions, studies varied by design (cluster and individually randomised), duration (2.5 to 9 months), setting (school, day camp, primary care) and intervention content. Most risk of bias concerns were related to blinding and incomplete reporting, which limited the meta-analyses that could be performed. Studies generally controlled well for selection and attrition biases.\nAll participants were between 11 and 17 years of age. Asthma diagnosis and severity varied, as did smoking prevalence. Three studies used the Triple A programme; one of these studies tested the addition of a smoke-free pledge; another delivered peer support group sessions and mp3 messaging to encourage adherence; and the third compared a peer-led asthma day camp with an equivalent camp led by healthcare practitioners.\nWe had low confidence in all findings owing to risk of bias, inconsistency and imprecision. Results from an analysis of asthma-related quality of life based on the prespecified random-effects model were imprecise and showed no differences (MD 0.40, 95% confidence interval (CI) -0.02 to 0.81); a sensitivity analysis based on a fixed-effect model and a responder analysis suggested small benefit may be derived for this outcome. Most other results were summarised narratively and did not show an important benefit of the intervention; studies provided no analysable data on asthma exacerbations or unscheduled visits (data were skewed), and one study measuring adherence reported a drop in both groups. Effects on asthma control favoured the intervention but findings were not statistically significant. Results from two studies with high levels of baseline smoking showed some promise for self-efficacy to stop smoking, but overall nicotine dependence and smoking-related knowledge were not significantly better in the intervention group. Investigators did not report adverse events."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Although weak evidence suggests that lay-led and peer support interventions could lead to a small improvement in asthma-related quality of life for adolescents, benefits for asthma control, exacerbations and medication adherence remain unproven. Current evidence is insufficient to reveal whether routine use of lay-led or peer support programmes is beneficial for adolescents receiving asthma care.\nOngoing and future research may help to identify target populations for lay-led and peer support interventions, along with attributes that constitute a successful programme."
+    }
+  ],
+  "pls_title": "Support from peers or lay leaders for adolescents with asthma",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background to the question",
+      "text": "Adolescents may need extra support to manage their asthma, as they are at higher risk of not taking their inhalers properly and of engaging in activities that may make their asthma worse (such as smoking). We wanted to find out whether sessions led by peers or by lay leaders (i.e. not healthcare professionals) help to reduce these risks and lead to better asthma control. We included studies that compared this support against usual care or a different type of help. We conducted the most recent searches on 25 November 2016."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We found five studies including 1146 adolescents with asthma. Studies varied by design, duration (2.5 to 9 months), setting (school, day camp, primary care) and the way that peer support or lay-led sessions were given. Asthma severity varied, as did the number who smoked. Three studies used a programme called Triple A (Adolescent Asthma Action), by which older adolescents are trained to deliver sessions to younger students; one of these studies tested the addition of a pledge to stop smoking; another delivered peer support group sessions including messages played through an mp3 player to encourage adherence; and the third compared an asthma day camp led by peers against one led by nurses and doctors."
+    },
+    {
+      "heading": "Key results",
+      "text": "Adolescents who received peer support had better quality of life than those in the control group, although this varied with how results were analysed, so we were uncertain. Most other outcomes did not show an important benefit of the intervention. These studies provided very little information about asthma attacks or unscheduled visits during the trial, and we couldn't be sure whether the intervention was beneficial in terms of asthma control. Results from two studies in which a lot of the adolescents smoked showed some promise that adolescents had the confidence to stop, but overall nicotine dependence and smoking-related knowledge were not much better than in controls. Studies provided no reports of adverse events."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We can't be sure of the results because most outcomes were rated by people who knew the group to which adolescents were assigned, and this can affect how people behave and respond to questions. Some studies didn't report everything they said they would, or reported information that we could not analyse. Sometimes study results didn't agree with results of other studies, and often we could not say for certain whether adolescents received benefit. For these reasons, we have low confidence in all study findings."
+    }
+  ]
+}

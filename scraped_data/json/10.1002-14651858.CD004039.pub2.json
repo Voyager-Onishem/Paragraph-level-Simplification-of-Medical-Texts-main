@@ -1,0 +1,63 @@
+{
+  "doi": "10.1002/14651858.CD004039.pub2",
+  "name": "Plasma expanders for people with cirrhosis and large ascites treated with abdominal paracentesis ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Plasma volume expanders are used in connection to paracentesis in people with cirrhosis to prevent reduction of effective plasma volume, which may trigger deleterious effect on haemodynamic balance, and increase morbidity and mortality. Albumin is considered the standard product against which no plasma expansion or other plasma expanders, e.g. other colloids (polygeline , dextrans, hydroxyethyl starch solutions, fresh frozen plasma), intravenous infusion of ascitic fluid, crystalloids, or mannitol have been compared. However, the benefits and harms of these plasma expanders are not fully clear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To assess the benefits and harms of any plasma volume expanders such as albumin, other colloids (polygeline, dextrans, hydroxyethyl starch solutions, fresh frozen plasma), intravenous infusion of ascitic fluid, crystalloids, or mannitol versus no plasma volume expander or versus another plasma volume expander for paracentesis in people with cirrhosis and large ascites."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, LILACS, CNKI, VIP, Wanfang, Science Citation Index Expanded, and Conference Proceedings Citation Index until January 2019. Furthermore, we searched FDA, EMA, WHO (last search January 2019), www.clinicaltrials.gov/, and www.controlled-trials.com/ for ongoing trials."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials, no matter their design or year of publication, publication status, and language, assessing the use of any type of plasma expander versus placebo, no intervention, or a different plasma expander in connection with paracentesis for ascites in people with cirrhosis. We considered quasi-randomised, retrieved with the searches for randomised clinical trials only, for reports on harms."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We used standard methodological procedures expected by Cochrane. We calculated the risk ratio (RR) or mean difference (MD) using the fixed-effect model and the random-effects model meta-analyses, based on the intention-to-treat principle, whenever possible. If the fixed-effect and random-effects models showed different results, then we made our conclusions based on the analysis with the highest P value (the more conservative result). We assessed risks of bias of the individual trials using predefined bias risk domains. We assessed the certainty of the evidence at an outcome level, using GRADE, and constructed 'Summary of Findings' tables for seven of our review outcomes."
+    },
+    {
+      "heading": "Main results",
+      "text": "We identified 27 randomised clinical trials for inclusion in this review (24 published as full-text articles and 3 as abstracts). Five of the trials, with 271 participants, assessed plasma expanders (albumin in four trials and ascitic fluid in one trial) versus no plasma expander. The remaining 22 trials, with 1321 participants, assessed one type of plasma expander, i.e. dextran, hydroxyethyl starch, polygeline, intravenous infusion of ascitic fluid, crystalloids, or mannitol versus another type of plasma expander, i.e. albumin in 20 of these trials and polygeline in one trial. Twenty-five trials provided data for quantitative meta-analysis. According to the Child-Pugh classification, most participants were at an intermediate to advanced stage of liver disease in the absence of hepatocellular carcinoma, recent gastrointestinal bleeding, infections, and hepatic encephalopathy. All trials were assessed as at overall high risk of bias. Ten trials seemed not to have been funded by industry; twelve trials were considered unclear about funding; and five trials were considered funded by industry or a for-profit institution.\nWe found no evidence of a difference in effect between plasma expansion versus no plasma expansion on mortality (RR 0.52, 95% CI 0.06 to 4.83; 248 participants; 4 trials; very low certainty); renal impairment (RR 0.32, 95% CI 0.02 to 5.88; 181 participants; 4 trials; very low certainty); other liver-related complications (RR 1.61, 95% CI 0.79 to 3.27; 248 participants; 4 trials; very low certainty); and non-serious adverse events (RR 1.04, 95% CI 0.32 to 3.40; 158 participants; 3 trials; very low certainty). Two of the trials stated that no serious adverse events occurred while the remaining trials did not report on this outcome. No trial reported data on health-related quality of life.\nWe found no evidence of a difference in effect between experimental plasma expanders versus albumin on mortality (RR 1.03, 95% CI 0.82 to 1.30; 1014 participants; 14 trials; very low certainty); serious adverse events (RR 0.89, 95% CI 0.10 to 8.30; 118 participants; 2 trials; very low certainty); renal impairment (RR 1.17, 95% CI 0.71 to 1.91; 1107 participants; 17 trials; very low certainty); other liver-related complications (RR 1.10, 95% CI 0.82 to 1.48; 1083 participants; 16 trials; very low certainty); and non-serious adverse events (RR 1.37, 95% CI 0.66 to 2.85; 977 participants; 14 trials; very low certainty). We found no data on heath-related quality of life and refractory ascites."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our systematic review and meta-analysis did not find any benefits or harms of plasma expanders versus no plasma expander or of one plasma expander such as polygeline, dextrans, hydroxyethyl starch, intravenous infusion of ascitic fluid, crystalloids, or mannitol versus albumin on primary or secondary outcomes. The data originated from few, small, mostly short-term trials at high risks of systematic errors (bias) and high risks of random errors (play of chance). GRADE assessments concluded that the evidence was of very low certainty. Therefore, we can neither demonstrate or discard any benefit of plasma expansion versus no plasma expansion, and differences between one plasma expander versus another plasma expander.\nLarger trials at low risks of bias are needed to assess the role of plasma expanders in connection with paracentesis. Such trials should be conducted according to the SPIRIT guidelines and reported according to the CONSORT guidelines."
+    }
+  ],
+  "pls_title": "Plasma expanders for people with cirrhosis and large ascites treated with abdominal paracentesis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "People with cirrhosis (scarring of the liver tissue) can accumulate fluid (ascites) in their abdomen which may be hard or impossible to treat with diuretics (drugs that increase urinary excretion of water and salt). Abdominal paracentesis, evacuation of fluid from the abdomen through a needle, can be done. Paracentesis can alter the equilibrium between circulation and the abdomen fluid and lead to renal dysfunction and alteration of the fluid balance. We studied if infusion of special fluids, so called plasma expanders, could stop these alterations and reduce complications and mortality."
+    },
+    {
+      "heading": "Objective",
+      "text": "To assess the benefits and harms of any intravenous fluid infusion (acting as plasma expansion) in people with cirrhosis and ascites treated by paracentesis."
+    },
+    {
+      "heading": "Review methods and criteria",
+      "text": "The evidence is current up to 22 January 2019.\nThis systematic review assessed the role of plasma expanders evaluated in 27 trials including 1592 participants. Four trials compared albumin and one trial compared intravenous ascitic fluid infusion versus no plasma expander. Twenty-one trials compared one plasma expander such as dextran, polygeline, hydroxyethyl starch, fresh frozen plasma, intravenous infusion of ascitic fluid, crystalloids, or mannitol versus albumin. One trial compared intravenous ascitic fluid infusion versus polygeline. Primary outcomes were mortality due to any cause; serious adverse events; and health-related quality of life. Secondary outcomes were refractory ascites (ascites that could not be treated medically); renal impairment; other complications due to liver cirrhosis such as gastrointestinal bleeding, hepatic encephalopathy (decline in brain function due to liver disease) or infections; and non-serious adverse events."
+    },
+    {
+      "heading": "Trial funding sources",
+      "text": "Ten trials seemed not to have been funded by industry; twelve trials were considered unclear about funding; and five trials were considered funded by industry or a for-profit institution."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our systematic review could not show any benefit or harm of plasma expansion versus no plasma expansion or of one plasma expander like dextran, polygeline, hydroxyethyl starch, intravenous infusion of ascitic fluid, crystalloids, or mannitol versus albumin on primary or secondary outcomes."
+    },
+    {
+      "heading": "Certainty of the evidence",
+      "text": "The data came from only few, small, mostly short-term trials, at high risks of systematic errors (bias) and high risks of random errors (play of chance). Accordingly, we concluded that the certainty of evidence for each of our prespecified review outcomes was very low."
+    }
+  ]
+}

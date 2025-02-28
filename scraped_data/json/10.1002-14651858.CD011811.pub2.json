@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD011811.pub2",
+  "name": "Plasma interleukin‐6 concentration for the diagnosis of sepsis in critically ill adults",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "The definition of sepsis has evolved over time, along with the clinical and scientific knowledge behind it. For years, sepsis was defined as a systemic inflammatory response syndrome (SIRS) in the presence of a documented or suspected infection. At present, sepsis is defined as a life-threatening organ dysfunction resulting from a dysregulated host response to infection. Even though sepsis is one of the leading causes of mortality in critically ill patients, and the World Health Organization (WHO) recognizes it as a healthcare priority, it still lacks an accurate diagnostic test. Determining the accuracy of interleukin-6 (IL-6) concentrations in plasma, which is proposed as a new biomarker for the diagnosis of sepsis, might be helpful to provide adequate and timely management of critically ill patients, and thus reduce the morbidity and mortality associated with this condition."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the diagnostic accuracy of plasma interleukin-6 (IL-6) concentration for the diagnosis of bacterial sepsis in critically ill adults."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched CENTRAL, MEDLINE, Embase, LILACS, and Web of Science on 25 January 2019. We screened references in the included studies to identify additional studies. We did not apply any language restriction to the electronic searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "We included diagnostic accuracy studies enrolling critically ill adults aged 18 years or older under suspicion of sepsis during their hospitalization, where IL-6 concentrations were evaluated by serological measurement."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "Two review authors independently screened the references to identify relevant studies and extracted data. We assessed the methodological quality of studies using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) tool. We estimated a summary receiver operating characteristic (SROC) curve by fitting a hierarchical summary ROC (HSROC) non-linear mixed model. We explored sources of heterogeneity using the HSROC model parameters. We conducted all analyses in the SAS statistical software package and R software."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included 23 studies (n = 4192) assessing the accuracy of IL-6 for the diagnosis of sepsis in critically ill adults. Twenty studies that were available as conference proceedings only are awaiting classification. The included participants were heterogeneous in terms of their distribution of age, gender, main diagnosis, setting, country, positivity threshold, sepsis criteria, year of publication, and origin of infection, among other factors. Prevalence of sepsis greatly varied across studies, ranging from 12% to 78%. We considered all studies to be at high risk of bias due to issues related to the index test domain in QUADAS-2. The SROC curve showed a great dispersion in individual studies accuracy estimates (21 studies, 3650 adult patients), therefore the considerable heterogeneity in the collected data prevented us from calculating formal accuracy estimates. Using a fixed prevalence of sepsis of 50% and a fixed specificity of 74%, we found a sensitivity of 66% (95% confidence interval 60 to 72). If we test a cohort 1000 adult patients under suspicion of sepsis with IL-6, we will find that 330 patients would receive appropriate and timely antibiotic therapy, while 130 patients would be wrongly considered to have sepsis. In addition, 370 out of 1000 patients would avoid unnecessary antibiotic therapy, and 170 patients would have been undiagnosed of sepsis. This numerical approach should be interpreted with caution due to the limitations described above."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "Our evidence assessment of plasma interleukin-6 concentrations for the diagnosis of sepsis in critically ill adults reveals several limitations. High heterogeneity of collected evidence regarding the main diagnosis, setting, country, positivity threshold, sepsis criteria, year of publication, and the origin of infection, among other factors, along with the potential number of misclassifications, remain significant constraints for its implementation. The 20 conference proceedings assessed as studies awaiting classification may alter the conclusions of the review once they are fully published and evaluated. Further studies about the accuracy of interleukin-6 for the diagnosis of sepsis in adults that apply rigorous methodology for conducting diagnostic test accuracy studies are needed. The conclusions of the review will likely change once the 20 studies pending publication are fully published and included."
+    }
+  ],
+  "pls_title": "Levels of interleukin-6 in identifying severely ill adult patients with sepsis",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Review question",
+      "text": "We evaluated the evidence on the ability of interleukin-6 (IL-6) levels in plasma to identify adult patients with sepsis. Interleukin-6 is a cytokine (a broad and loose category of small proteins) secreted by immune cells that mediates a wide range of biological activities."
+    },
+    {
+      "heading": "Background",
+      "text": "Sepsis is a potentially life-threatening response by the immune system to an infection that can result in tissue damage, organ failure, and even death, and should be considered as a medical emergency. About 288 septic cases by 100,000 person-years occur in hospital settings, and 17% of those patients could die. Early identification of patients having sepsis is the first step for immediate medical management, which is essential to avoid further complications and death. Treatment consists mainly of the use of antibiotics (a drug that inhibits the growth of dangerous micro-organisms). Several tools have been proposed for sepsis diagnosis, as well as the physical examination of blood cultures (the assessment of blood samples to identify micro-organisms causing the infection). Interleukin-6 is a molecule that helps in the communication of cells during the body's response to an infection. It has been suggested that the measurement of levels of IL-6 in the plasma from blood samples during the onset of sepsis can be helpful in identifying sepsis patients early and initiating adequate treatment."
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We performed a thorough literature search for studies reporting the use of IL-6 levels for detection of sepsis up to January 2019. We found 23 studies enrolling 4192 severely ill adults."
+    },
+    {
+      "heading": "Key results",
+      "text": "Our assessment of the evidence reveals the complexity of the research topic, represented in the high variability of information reported by the studies. We found the characteristics of assessed patients to vary considerably between studies in terms of age, gender, setting, initial diagnosis, indicative value for sepsis, and source of infection, among other factors. This variability in the collected data prevented a formal numerical synthesis of the findings. Using the available data to perform an approximated estimation of the consequences, we found that 700 out of 1000 patients under suspicion of sepsis might be correctly classified, but 130 out of 1000 patients would be wrongly considered as having sepsis, while 170 out of 1000 patients might be incorrectly considered as not having sepsis. These errors would result in a serious increase in the risk of further morbidity and death due to delays of adequate treatment. This information should be interpreted with caution due to limitations in the collected data."
+    },
+    {
+      "heading": "Quality of the evidence",
+      "text": "We judged the included studies to have important limitations in their validity, hence they are at high risk of providing distorted results (i.e. to be at high risk of bias)."
+    }
+  ]
+}

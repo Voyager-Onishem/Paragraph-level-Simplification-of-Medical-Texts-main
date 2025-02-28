@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD009745.pub2",
+  "name": "Leukoreduction for the prevention of adverse reactions from allogeneic blood transfusion",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "A blood transfusion is an acute intervention, implemented to solve life and health-threatening conditions on a short-term basis. However, blood transfusions have adverse events, some of them potentially related to immune modulation or to a direct transmission of infectious agents (e.g. cytomegalovirus). Leukoreduction is a process in which the white blood cells are intentionally reduced in packed red blood cells (PRBCs) in order to reduce the risk of adverse reactions. The potential benefits of leukoreduced PRBCs in all types of transfused patients for decreasing infectious and non-infectious complications remain unclear."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To determine the clinical effectiveness of leukoreduction of packed red blood cells for preventing adverse reactions following allogeneic blood transfusion."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We ran the most recent search on 10th November 2015. We searched the Cochrane Injuries Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, the Cochrane Library), MEDLINE (OvidSP), Embase(OvidSP), CINAHL Plus (EBSCO), LILACS (BIREME), and clinical trials registers. In addition, we checked the reference lists of all relevant trials and reviews identified in the literature searches."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "Randomised clinical trials including patients of all ages requiring PRBC allogeneic transfusion. Any study was eligible for inclusion, regardless of the length of participant follow-up or country where the study was performed. The primary outcome was transfusion-related acute lung injury (TRALI). Secondary outcomes were death from any cause, infection from any cause, non-infectious complications and any other adverse event."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "At least two review authors independently performed study selection, 'Risk of bias' assessments and data extraction. We estimated pooled relative risk for dichotomous outcomes, and we measured statistical heterogeneity using I² statistic. The random-effects model was used to synthesise results. We conducted a trial sequential analysis to assess the risk of random errors in cumulative meta-analyses."
+    },
+    {
+      "heading": "Main results",
+      "text": "Thirteen studies, most including adult patients, met the eligibility criteria. We found no clear evidence of an effect of leukoreduced PRBC versus non-leukoreduced PRBC in patients that were randomised to receive transfusion for the following outcomes:\nTRALI : RR 0.96, 95% CI 0.67 to 1.36, P = 0.80 from one trial reporting data on 1864 trauma patients. The accrued information of 1864 participants constituted only 28.5% of the diversity-adjusted required information size (DARIS) of 6548 participants. The quality of evidence was low.\nDeath from any cause: RR 0.81, 95% CI 0.58 to 1.12, I² statistic = 63%, P = 0.20 from nine trials reporting data on 6485 cardiovascular surgical patients, gastro-oncology surgical patients, trauma patients and HIV infected patients. The accrued information of 6485 participants constituted only 55.3% of the DARIS of 11,735 participants. The quality of evidence was very low.\nInfection from any cause: RR 0.80, 95% CI 0.62 to 1.03, I² statistic = 84%, P = 0.08 from 10 trials reporting data on 6709 cardiovascular surgical patients, gastro-oncology surgical patients, trauma patients and HIV infected patients. The accrued information of 6709 participants constituted only 60.6% of the DARIS of 11,062 participants. The quality of evidence was very low.\nAdverse events: The only adverse event reported as an adverse event was fever (RR 0.81, 95% CI 0.64 to 1.02; I² statistic= 0%, P = 0.07). Fever was reported in two trials on 634 cardiovascular surgical and gastro-oncology surgical patients. The accrued information of 634 participants constituted only 84.4% of the DARIS of 751 participants. The quality of evidence was low.\nIncidence of other non-infectious complications: This outcome was not assessed in any included trial."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "There is no clear evidence for supporting or rejecting the routine use of leukoreduction in all patients requiring PRBC transfusion for preventing TRALI, death, infection, non-infectious complications and other adverse events. As the quality of evidence is very low to low, more evidence is needed before a definitive conclusion can be drawn."
+    }
+  ],
+  "pls_title": "White blood cells reduction in packed red blood cell transfusions for preventing adverse reactions",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Background",
+      "text": "A blood transfusion is when blood is taken from one person and given to another person. Blood transfusions are given to solve life and health-threatening medical conditions on a short-term basis. However, blood transfusions have adverse events, some of them potentially related to an immune system response or due to the transmission of infectious agents (e.g. Human Immunodeficiency Virus). Leukoreduction is a process in which the white blood cells are intentionally removed from donated blood in order to reduce the risk of adverse reactions in people receiving the blood transfusion. The benefits of removing white blood cells with the intent of reducing infectious and non-infectious complications in all types of transfused patients remains unclear. Removing white blood cells is costly. The USA and UK spend tens of millions each year on the procedure. In the USA, the procedure costs approximately USD $30 for each unit of blood product. It may not be worth spending so much money if there is no clear benefit to patients."
+    },
+    {
+      "heading": "Clinical question",
+      "text": "What are the benefits and harms of removing white blood cells from donated blood for people receiving a blood transfusion?"
+    },
+    {
+      "heading": "Study characteristics",
+      "text": "We searched medical journals for reports of clinical trials which examined the effects of removing white blood cells from donated blood. We were interested in finding out whether the removal of white blood cells from donated blood resulted in patients receiving a blood transfusion having few complications such as transfusion-related acute lung injury, death, infectious and non-infectious complications, or any other adverse event. We included people of any age or sex, who received a blood transfusion for any reason. The evidence is based on studies retrieved up to 05 December 2014."
+    },
+    {
+      "heading": "Main results",
+      "text": "We found 13 studies which included people who received a blood transfusion during heart or cancer surgery, or because they were injured, had cancer, HIV or sepsis.\nWe found no clear evidence showing either benefits or harms for removing white blood cells from donated blood. For all of the outcomes examined (transfusion-related acute lung injury, death from any cause, infection from any cause, non-infectious complication or any other adverse event), there was no sign of benefit or harm."
+    },
+    {
+      "heading": "Quality of evidence",
+      "text": "The overall quality of evidence of the included studies ranges from very low to low. None of the studies included enough people to give a definitive answer about the usefulness of removing white blood cells from donated blood. New high-quality studies, involving a few thousand people, are needed to enable us to know the true benefits and harms of this procedure."
+    }
+  ]
+}

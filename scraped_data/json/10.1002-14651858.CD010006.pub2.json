@@ -1,0 +1,59 @@
+{
+  "doi": "10.1002/14651858.CD010006.pub2",
+  "name": "Communication skills training for mental health professionals working with people with severe mental illness ",
+  "free": true,
+  "abstract": [
+    {
+      "heading": "Background",
+      "text": "Research evidence suggests that both mental health professionals and people with severe mental health illness such as schizophrenia or schizoaffective disorder find it difficult to communicate with each other effectively about symptoms, treatments and their side effects so that they reach a shared understanding about diagnosis, prognosis and treatment. Effective use of communication skills in mental health interactions could be associated with increased patient satisfaction and adherence to treatment."
+    },
+    {
+      "heading": "Objectives",
+      "text": "To review the effectiveness of communication skills training for mental health professionals who work with people with severe mental illness."
+    },
+    {
+      "heading": "Search methods",
+      "text": "We searched the Cochrane Schizophrenia Trials Register (latest search 17 February, 2016) which is compiled by systematic searches of major resources (including AMED, BIOSIS, CINAHL, Embase, MEDLINE, PsycINFO, PubMed, and registries of clinical trials) and their monthly updates, handsearches, grey literature, and conference proceedings. There are no language, date, document type, or publication status limitations for inclusion of records into the register."
+    },
+    {
+      "heading": "Selection criteria",
+      "text": "All relevant randomised clinical trials (RCTs) that focused on communication skills training (CST) for mental health professionals who work with people with severe mental illness compared with those who received standard or no training. We sought a number of primary (patient adherence to treatment and attendance at scheduled appointments as well as mental health professionals' satisfaction with the training programme) and secondary outcomes (patients' global state, service use, mental state, patient satisfaction, social functioning, quality of life). RCTs where the unit of randomisation was by cluster (e.g. healthcare facility) were also eligible for inclusion. We included one trial that met our inclusion criteria and reported useable data."
+    },
+    {
+      "heading": "Data collection and analysis",
+      "text": "We independently selected studies, quality assessed them and extracted data. For binary outcomes, we planned to calculate standard estimates of the risk ratio (RR) and their 95% confidence intervals (CI) using a fixed-effect model. For continuous outcomes, we planned to estimate the mean difference (MD) between groups, or obtain the adjusted mean difference (aMD) where available for cluster-randomised trials. If heterogeneity had been identified, we would have explored this using a random-effects model. We used GRADE to create a 'Summary of findings' table and we assessed risk of bias for the one included study."
+    },
+    {
+      "heading": "Main results",
+      "text": "We included one pilot cluster-RCT that recruited a total of 21 psychiatrists and 97 patients. The psychiatrists were randomised to a training programme in communication skills, compared to a no specific training (NST) programme. The trial provided useable data for only one of our prestated outcomes of interest, patient satisfaction. The trial did not report global state but did report mental state and, as global state data were not available, we included these mental state data in the 'Summary of findings' table. There was high risk of bias from attrition because of substantial losses to follow-up and incomplete outcome data.\nPatient satisfaction was measured as satisfaction with treatment and 'experience of therapeutic relationship' at medium term (five months). Satisfaction with treatment was similar between the CST and NST group using the Client Satisfaction Questionnaire (CSQ-8) (1 RCT, n = 66/97*, aMD 1.77 95% CI - 0.13 to 3.68, low-quality evidence ). When comparing patient experience of the therapeutic relationship using the STAR-P scale, participants in the CST group rated the therapeutic relationship more positively than participants in the NST group (1 RCT, n = 63/97, aMD 0.21 95% CI 0.01 to 0.41, low-quality evidence).\nMental state scores on the Positive and Negative Syndrome Scale (PANSS) were similar between treatment groups for general symptoms (1 RCT, n = 59/97, aMD 4.48 95% CI -2.10 to 11.06, low-quality evidence ), positive symptoms (1 RCT, n = 59/97, aMD -0.23, 95% CI -2.91 to 2.45, low-quality evidence ) and negative symptoms (1 RCT, n = 59/97, aMD 3.42, 95%C CI -0.24 to 7.09, low-quality evidence).\nNo data were available for adherence to treatment, service use or quality of life.\n* Of the total of 97 randomised participants, 66 provided data."
+    },
+    {
+      "heading": "Authors' conclusions",
+      "text": "The evidence available is from one pilot cluster-randomised controlled trial, it is not adequate enough to draw any robust conclusions. There were relatively few good quality data and the trial is too small to highlight differences in most outcome measures. Adding a CST programme appears to have a modest positive effect on patients' experiences of the therapeutic relationship. More high-quality research is needed in this area."
+    }
+  ],
+  "pls_title": "Communication skills training for mental health professionals working with people with severe mental illness",
+  "pls_type": "sectioned",
+  "pls": [
+    {
+      "heading": "Question",
+      "text": "Does communication skills training for mental health professionals benefit their patients with severe mental illness?"
+    },
+    {
+      "heading": "Background",
+      "text": "Severe mental illness (such as schizophrenia or schizoaffective disorder) is a mental, behavioural or emotional disorder which severely interferes with, or limits a person’s life activities for a prolonged time (e.g. from a few months to a few years).\nPeople with severe mental health problems do not always follow their treatment plans. Effective communication between health professionals and their patients is an essential part of ensuring that vital information about treatment options and maintaining contact with services is understood and followed to by the patient. For patients with severe mental health problems, and their carers, this interaction can be challenging. There are many negative outcomes for patients with severe mental health problems who experience ineffective communication with health professionals, which include alienation, increase of symptoms and possible compulsory hospitalisation. It is thought that when effective communication skills are used by mental health professionals, their patients are more satisfied and adhere to their treatment plans. Moreover, professional-patient rapport is a necessary part of giving the patient the confidence to be pro-active in their treatment regimens. However, there is a lack of evidence from randomised controlled trials (RCTs) to guide practice in this area for people with severe mental illness."
+    },
+    {
+      "heading": "Searches",
+      "text": "We ran a search for RCTs using Cochrane Schizophrenia's register of trials, latest search date was in February 2016. Only five possible studies were found and from these only one pilot study could be included. It measured the effect on patients of communication skills training for psychiatrists ability to identify and clarify misunderstandings during communication with patients."
+    },
+    {
+      "heading": "Results",
+      "text": "We were interested in the effect communication skills training had on patient adherence to treatment, satisfaction, mental state, service use and quality of life. We could only use data reported for the patient's satisfaction with the treatment, with the therapeutic relationship and mental state (psychiatric symptoms). Five months after treatment, patients who were treated by psychiatrists who received communication training had a modest increase in satisfaction with the therapeutic relationship compared with patients treated by psychiatrists who did not receive the training. Satisfaction with treatment and mental state of the patient were similar between the two treatment groups."
+    },
+    {
+      "heading": "Conclusions",
+      "text": "These results are based on low-quality evidence are not conclusive; the available evidence is from one small pilot trial, which is not adequate enough to draw any meaningful conclusions. Much more high-quality research is needed in this area."
+    }
+  ]
+}
