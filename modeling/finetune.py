@@ -128,6 +128,54 @@ def unlikelihood_loss(logits, decoder_input_ids, weight_vector):
     # Calculate loss
     return -torch.sum(weighted_probs)
 
+def fix_data_files():
+    """Fix mismatched data files by ensuring they have the same number of lines."""
+    import os
+    
+    data_dir = 'data/data-1024'
+    files_to_check = ['train', 'val', 'test']
+    extensions = ['.source', '.target', '.doi']
+    
+    print("Checking data files for consistency...")
+    
+    for file_prefix in files_to_check:
+        # Get lengths of all files
+        file_lengths = []
+        file_contents = {}
+        
+        for ext in extensions:
+            filepath = os.path.join(data_dir, file_prefix + ext)
+            if not os.path.exists(filepath):
+                print(f"Warning: {filepath} does not exist!")
+                continue
+                
+            with open(filepath, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+                file_lengths.append((ext, len(lines)))
+                file_contents[ext] = lines
+        
+        # Find minimum length
+        min_length = min([length for _, length in file_lengths])
+        
+        # Truncate all files to minimum length
+        for ext in extensions:
+            if ext not in file_contents:
+                continue
+                
+            if len(file_contents[ext]) > min_length:
+                print(f"Truncating {file_prefix}{ext} from {len(file_contents[ext])} to {min_length} lines")
+                
+                # Create backup
+                backup_path = os.path.join(data_dir, file_prefix + ext + '.bak')
+                with open(backup_path, 'w', encoding='utf-8') as f:
+                    f.writelines(file_contents[ext])
+                    
+                # Write truncated file
+                with open(os.path.join(data_dir, file_prefix + ext), 'w', encoding='utf-8') as f:
+                    f.writelines(file_contents[ext][:min_length])
+    
+    print("Data files have been fixed!")
+
 def train(args):
     """Main training function"""
     # Create output directory
@@ -349,4 +397,8 @@ if __name__ == "__main__":
                         help="Weight for unlikelihood loss")
     
     args = parser.parse_args()
+    
+    # Run this function before training
+    fix_data_files()
+    
     train(args)
