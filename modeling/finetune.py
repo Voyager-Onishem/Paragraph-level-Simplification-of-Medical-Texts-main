@@ -2,6 +2,8 @@
 # Simplified BART fine-tuning script for medical text simplification
 
 import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
 import argparse
 import json
 import logging
@@ -15,10 +17,11 @@ from transformers import (
     AdamW,
     get_linear_schedule_with_warmup
 )
+from torch.cuda.amp import autocast, GradScaler
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
-    datefmt="%m/%d/%Y %H:%M:%S",
+    datefmt="%m/%d/%Y %H:%M:%S",    
     level=logging.INFO
 )
 logger = logging.getLogger(__name__)
@@ -159,9 +162,6 @@ def fix_data_files():
         
         # Truncate all files to minimum length
         for ext in extensions:
-            if ext not in file_contents:
-                continue
-                
             if len(file_contents[ext]) > min_length:
                 print(f"Truncating {file_prefix}{ext} from {len(file_contents[ext])} to {min_length} lines")
                 
@@ -188,10 +188,21 @@ def train(args):
     # Load tokenizer and model
     logger.info(f"Loading model: {args.model_name}")
     tokenizer = BartTokenizer.from_pretrained(args.model_name)
+    
+    # Add this before model initialization
+    if torch.cuda.is_available():
+        print("CUDA is available! Using GPU:", torch.cuda.get_device_name(0))
+        device = torch.device("cuda")
+    else:
+        print("CUDA is NOT available. Using CPU.")
+        print("Check installation with: python -c \"import torch; print(torch.cuda.is_available())\"")
+        device = torch.device("cpu")
+
+    # Make sure all tensors go to the device
     model = BartForConditionalGeneration.from_pretrained(args.model_name)
+    model.to(device)
     
     # Move model to device
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     logger.info(f"Using device: {device}")
     model.to(device)
     
@@ -264,6 +275,7 @@ def train(args):
     
     # Training loop
     logger.info("Starting training")
+    scaler = GradScaler()
     for epoch in range(args.num_epochs):
         # Training
         model.train()
@@ -274,43 +286,45 @@ def train(args):
             batch = {k: v.to(device) for k, v in batch.items()}
             
             # Forward pass
-            outputs = model(
-                input_ids=batch["input_ids"],
-                attention_mask=batch["attention_mask"],
-                labels=batch["labels"],
-                return_dict=True
-            )
-            
-            # Calculate loss
-            loss = outputs.loss
-            
-            # Add unlikelihood loss if enabled
-            if args.unlikelihood_training:
-                # Shift decoder input ids
-                decoder_input_ids = torch.cat([
-                    torch.ones_like(batch["labels"][:, :1]) * model.config.decoder_start_token_id,
-                    batch["labels"][:, :-1]
-                ], dim=-1)
-                decoder_input_ids[decoder_input_ids == -100] = tokenizer.pad_token_id
-                
-                # Calculate unlikelihood loss
-                ul_loss = unlikelihood_loss(
-                    outputs.logits,
-                    decoder_input_ids,
-                    weight_vector
+            with autocast():
+                outputs = model(
+                    input_ids=batch["input_ids"],
+                    attention_mask=batch["attention_mask"],
+                    labels=batch["labels"],
+                    return_dict=True
                 )
-                loss = loss + args.unlikelihood_alpha * ul_loss
+                
+                # Calculate loss
+                loss = outputs.loss / args.gradient_accumulation_steps
+            
+                # Add unlikelihood loss if enabled
+                if args.unlikelihood_training:
+                    # Shift decoder input ids
+                    decoder_input_ids = torch.cat([
+                        torch.ones_like(batch["labels"][:, :1]) * model.config.decoder_start_token_id,
+                        batch["labels"][:, :-1]
+                    ], dim=-1)
+                    decoder_input_ids[decoder_input_ids == -100] = tokenizer.pad_token_id
+                    
+                    # Calculate unlikelihood loss
+                    ul_loss = unlikelihood_loss(
+                        outputs.logits,
+                        decoder_input_ids,
+                        weight_vector
+                    )
+                    loss = loss + args.unlikelihood_alpha * ul_loss
             
             # Backward pass
-            loss.backward()
+            scaler.scale(loss).backward()
             
             # Update parameters
-            optimizer.step()
-            scheduler.step()
-            optimizer.zero_grad()
+            if (step + 1) % args.gradient_accumulation_steps == 0:
+                scaler.step(optimizer)
+                scaler.update()
+                optimizer.zero_grad()
             
             # Track loss
-            train_loss += loss.item()
+            train_loss += loss.item() * args.gradient_accumulation_steps
             
             # Log progress
             if (step + 1) % 50 == 0:
@@ -381,6 +395,8 @@ if __name__ == "__main__":
     parser.add_argument("--learning_rate", type=float, default=3e-5, help="Learning rate")
     parser.add_argument("--max_source_length", type=int, default=1024, help="Max source text length")
     parser.add_argument("--max_target_length", type=int, default=1024, help="Max target text length")
+    parser.add_argument("--gradient_accumulation_steps", type=int, default=4, 
+                        help="Number of updates steps to accumulate before backward")
     
     # Unlikelihood training parameters
     parser.add_argument("--unlikelihood_training", action="store_true", help="Whether to use unlikelihood training")
