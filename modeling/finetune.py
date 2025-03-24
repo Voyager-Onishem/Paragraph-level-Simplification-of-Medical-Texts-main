@@ -465,8 +465,12 @@ def generate(args):
     # Setup generation parameters
     gen_kwargs = {
         "max_length": args.max_target_length,
-        "min_length": 10,
-        "no_repeat_ngram_size": 3,
+    "min_length": 75,  # Fixed minimum length instead of percentage
+    "no_repeat_ngram_size": 4,  # Increase from 3 to 4 to prevent repetition
+    "repetition_penalty": 1.5,  # Add repetition penalty
+    "length_penalty": 1.0,  # Reduce from 2.0 to 1.0
+    "num_return_sequences": 1,
+    "early_stopping": True  # Add early stopping
     }
     
     if args.sampling == "beam":
@@ -475,6 +479,7 @@ def generate(args):
         gen_kwargs["do_sample"] = True
         gen_kwargs["top_p"] = args.top_p
         gen_kwargs["temperature"] = 0.7
+        gen_kwargs["top_k"] = 50  # Add top-k filtering
     
     # Generate texts
     results = []
@@ -486,6 +491,37 @@ def generate(args):
         input_ids = example["input_ids"].unsqueeze(0).to(device)
         attention_mask = example["attention_mask"].unsqueeze(0).to(device)
         
+        # First, decode the source text BEFORE using it
+        source_text = tokenizer.decode(input_ids[0], skip_special_tokens=True)
+        
+        # Now we can apply templates and prefixes
+        if args.generation_prefix:
+            # Add prefix to guide generation
+            inputs = tokenizer(args.generation_prefix + source_text, 
+                              return_tensors="pt", 
+                              max_length=args.max_source_length, 
+                              truncation=True)
+            input_ids = inputs["input_ids"].to(device)
+            attention_mask = inputs["attention_mask"].to(device)
+
+        # Then apply template styles
+        template_prefixes = {
+            "brief": "Briefly summarize the main findings: ",
+            "detailed": "Write a detailed plain language summary covering methodology, results, and limitations: ",
+            "educational": "Explain in simple terms for patients to understand: ",
+            "none": ""
+        }
+
+        if args.template_style != "none":
+            prefix = template_prefixes[args.template_style]
+            inputs = tokenizer(prefix + source_text, 
+                              return_tensors="pt", 
+                              max_length=args.max_source_length, 
+                              truncation=True)
+            input_ids = inputs["input_ids"].to(device)
+            attention_mask = inputs["attention_mask"].to(device)
+
+        # Now generate the text
         with torch.no_grad():
             generated_ids = model.generate(
                 input_ids=input_ids,
@@ -495,7 +531,7 @@ def generate(args):
             
         generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
         
-        # Get source and reference for comparison
+        # Re-get source and reference for comparison (after possible modifications)
         source_text = tokenizer.decode(input_ids[0], skip_special_tokens=True)
 
         # Fix the labels by replacing -100 with pad_token_id before decoding
@@ -503,11 +539,53 @@ def generate(args):
         labels[labels == -100] = tokenizer.pad_token_id
         target_text = tokenizer.decode(labels, skip_special_tokens=True)
 
+        # Then add this check after generation (around line 495):
+        if args.min_words > 0:
+            # Check if generated text is too short
+            word_count = len(generated_text.split())
+            target_word_count = len(target_text.split())
+            max_target_ratio = 1.15  # Maximum multiple of target length
+
+            if word_count < args.min_words:
+                # Retry with stricter parameters
+                gen_retry_kwargs = gen_kwargs.copy()
+                gen_retry_kwargs["min_length"] = args.min_words * 2
+                gen_retry_kwargs["length_penalty"] = 3.0
+                gen_retry_kwargs["no_repeat_ngram_size"] = 2
+                
+                with torch.no_grad():
+                    retry_ids = model.generate(
+                        input_ids=input_ids,
+                        attention_mask=attention_mask,
+                        **gen_retry_kwargs
+                    )
+                
+                retry_text = tokenizer.decode(retry_ids[0], skip_special_tokens=True)
+                if len(retry_text.split()) > word_count:
+                    generated_text = retry_text
+            # If too long, truncate at sentence boundary
+            elif word_count > max(args.min_words * 2, target_word_count * max_target_ratio):
+                # Truncate at sentence boundary
+                sentences = generated_text.split('.')
+                truncated_text = ""
+                current_word_count = 0
+                target_word_count = min(target_word_count * max_target_ratio, args.min_words * 1.5)
+                
+                for sentence in sentences:
+                    if current_word_count > target_word_count:
+                        break
+                    truncated_text += sentence + "."
+                    current_word_count += len(sentence.split())
+                
+                generated_text = truncated_text
         results.append({
             "idx": idx,
             "source": source_text,
             "target": target_text,
-            "generated": generated_text
+            "generated": generated_text,
+            "source_length": len(source_text.split()),
+            "target_length": len(target_text.split()),
+            "generated_length": len(generated_text.split())
         })
         
         if (idx - args.start_idx + 1) % 10 == 0:
@@ -562,6 +640,21 @@ if __name__ == "__main__":
     parser.add_argument("--top_p", type=float, default=0.9, help="Top-p for nucleus sampling")
     parser.add_argument("--num_beams", type=int, default=4, help="Number of beams for beam search")
     
+    # Add to ArgumentParser (around line 550):
+    parser.add_argument("--generation_prefix", type=str, 
+                       default="Write a detailed plain language summary that includes key findings: ",
+                       help="Prefix to guide generation style and length")
+
+    # Add to ArgumentParser (around line 550):
+    parser.add_argument("--min_words", type=int, default=0,
+                       help="Minimum word count for generated summaries (0 to disable)")
+
+    # Add to ArgumentParser (around line 550):
+    parser.add_argument("--template_style", type=str, 
+                       choices=["brief", "detailed", "educational", "none"],
+                       default="none",
+                       help="Template style for generation")
+
     args = parser.parse_args()
     
     # Fix data files before processing
