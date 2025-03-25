@@ -82,16 +82,48 @@ def get_pls_text(article):
     if article['pls_type'] == 'long':
         return article['pls']
     else:  # sectioned
-        return ' '.join(section['text'] for section in article['pls'])
+        pls_parts = []
+        for section in article['pls']:
+            if isinstance(section, dict):
+                if 'heading' in section and section['heading'] and 'text' in section:
+                    pls_parts.append(f"{section['heading']}: {section['text']}")
+                elif 'text' in section:
+                    pls_parts.append(section['text'])
+        pls = "\n\n".join(pls_parts)
+        return pls
 
 def truncate_to_max_length(text, tokenizer, max_length=1024):
-    """Simple and effective truncation to ensure we stay under token limit."""
-    if not text or not isinstance(text, str):
+    """Truncate text at sentence boundaries to fit within max_length tokens."""
+    if not text:
         return ""
+        
+    # Check if text already fits
+    tokens = tokenizer.encode(text, add_special_tokens=True)
+    if len(tokens) <= max_length:
+        return text
+        
+    # Split into sentences
+    import nltk
+    try:
+        nltk.data.find('tokenizers/punkt')
+    except LookupError:
+        nltk.download('punkt')
     
-    # Direct encode-decode approach
-    tokens = tokenizer.encode(text, add_special_tokens=True, truncation=True, max_length=max_length)
-    return tokenizer.decode(tokens, skip_special_tokens=True)
+    sentences = nltk.sent_tokenize(text)
+    
+    # Reconstruct text sentence by sentence until we reach the limit
+    truncated_text = ""
+    current_length = 0
+    
+    for sentence in sentences:
+        sentence_tokens = tokenizer.encode(sentence, add_special_tokens=False)
+        if current_length + len(sentence_tokens) + 2 <= max_length:  # +2 for special tokens
+            truncated_text += sentence + " "
+            current_length += len(sentence_tokens)
+        else:
+            break
+            
+    return truncated_text.strip()
 
 def create_data_json(articles_dir, output_file):
     """Create data.json from all HTML files in the articles directory."""
@@ -391,3 +423,100 @@ if __name__ == "__main__":
     logger.info("Script started")
     main()
     logger.info("Script finished")
+
+def compute_complexity_diff(abstract_text, pls_text):
+    """Measure the difference in complexity between source and target texts."""
+    try:
+        from textstat import flesch_reading_ease
+        
+        abstract_score = flesch_reading_ease(abstract_text)
+        pls_score = flesch_reading_ease(pls_text)
+        
+        # Higher score means easier to read, so PLS should have a higher score
+        return pls_score - abstract_score
+    except:
+        return 0  # Default to 0 if calculation fails
+
+# When filtering data
+data_final = []
+for article in data_long_single + data_long_multi + data_sectioned:
+    abstract_text = get_abstract_text(article['abstract'])
+    pls_text = get_pls_text(article)
+    
+    # Only keep examples where the plain language is actually simpler
+    complexity_diff = compute_complexity_diff(abstract_text, pls_text)
+    if complexity_diff > 5:  # PLS is at least 5 points more readable
+        data_final.append(article)
+
+logger.info(f"Filtered by complexity difference: {len(data_long_single + data_long_multi + data_sectioned)} → {len(data_final)}")
+
+def calculate_term_preservation(source_text, target_text):
+    """Calculate how well medical terms are preserved in the simplified text."""
+    import spacy
+    try:
+        nlp = spacy.load("en_core_web_md")
+    except:
+        return 1.0  # Skip this check if model isn't available
+        
+    source_doc = nlp(source_text)
+    target_doc = nlp(target_text)
+    
+    # Extract entities (including medical terms)
+    source_entities = set([e.text.lower() for e in source_doc.ents])
+    target_entities = set([e.text.lower() for e in target_doc.ents])
+    
+    if not source_entities:
+        return 1.0
+        
+    return len(target_entities.intersection(source_entities)) / len(source_entities)
+
+# Add to your filtering code
+final_filtered_data = []
+for article in data_final:
+    abstract_text = get_abstract_text(article['abstract'])
+    pls_text = get_pls_text(article)
+    
+    # Only keep examples with good medical term preservation (at least 40%)
+    term_preservation = calculate_term_preservation(abstract_text, pls_text)
+    if term_preservation >= 0.4:
+        final_filtered_data.append(article)
+
+logger.info(f"Filtered by term preservation: {len(data_final)} → {len(final_filtered_data)}")
+
+def has_good_paragraph_structure(text, min_paragraphs=2, max_paragraphs=7):
+    """Check if text has a reasonable paragraph structure."""
+    paragraphs = [p for p in text.split('\n') if p.strip()]
+    return min_paragraphs <= len(paragraphs) <= max_paragraphs
+
+# Add to filtering
+structured_data = []
+for article in final_filtered_data:
+    pls_text = get_pls_text(article)
+    
+    if has_good_paragraph_structure(pls_text):
+        structured_data.append(article)
+
+logger.info(f"Filtered by paragraph structure: {len(final_filtered_data)} → {len(structured_data)}")
+
+def add_length_guidance(source_text, target_text):
+    """Add explicit length guidance based on source-target ratio."""
+    source_words = len(source_text.split())
+    target_words = len(target_text.split())
+    ratio = target_words / source_words if source_words > 0 else 0
+    
+    if 0.3 <= ratio <= 0.7:  # Good length ratio
+        return target_text, True
+    
+    return target_text, False
+
+# In process.py, add filtering based on this
+good_length_examples = []
+for article in structured_data:
+    abstract_text = get_abstract_text(article['abstract'])
+    pls_text = get_pls_text(article)
+    
+    _, has_good_length = add_length_guidance(abstract_text, pls_text)
+    if has_good_length:
+        good_length_examples.append(article)
+
+logger.info(f"Filtered by length guidance: {len(structured_data)} → {len(good_length_examples)}")

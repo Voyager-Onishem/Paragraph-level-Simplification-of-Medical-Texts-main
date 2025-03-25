@@ -33,6 +33,12 @@ split_data = {
 
 print(f"Split sizes: Train: {len(split_data['train'])}, Val: {len(split_data['val'])}, Test: {len(split_data['test'])}")
 
+def format_text_with_paragraphs(text):
+    """Format text preserving paragraph structure for better training."""
+    # Replace single newlines with spaces, double newlines with special token
+    formatted = text.replace('\n\n', ' [PARA] ').replace('\n', ' ')
+    return formatted
+
 # Process and write data to files
 for split in ['train', 'val', 'test']:
     doi_file = open(f'{output_dir}/{split}.doi', 'w', encoding='utf-8')
@@ -71,8 +77,8 @@ for split in ['train', 'val', 'test']:
                 
         # Write to files
         doi_file.write(doi + '\n')
-        source_file.write(abstract + '\n')
-        target_file.write(pls + '\n')
+        source_file.write(format_text_with_paragraphs(abstract) + '\n')
+        target_file.write(format_text_with_paragraphs(pls) + '\n')
 
     doi_file.close()
     source_file.close()

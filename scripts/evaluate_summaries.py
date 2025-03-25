@@ -100,6 +100,15 @@ def evaluate_summaries(generations):
         print("pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_sm-0.5.1.tar.gz")
         print("\nTerm preservation metrics will be skipped.")
     
+    def normalize_text(text):
+        """Normalize text for evaluation by handling paragraph tokens."""
+        # Replace [PARA] tokens with newlines
+        text = text.replace(' [PARA] ', '\n\n')
+        text = text.replace('[PARA]', '\n\n')
+        # Clean up whitespace
+        text = ' '.join(text.split())
+        return text
+    
     evaluation_results = []
     
     for i, generation in enumerate(generations):
@@ -126,6 +135,10 @@ def evaluate_summaries(generations):
             else:
                 print(f"Skipping item {i} - no summary available")
                 continue
+            
+            # Normalize texts before evaluation
+            source = normalize_text(source)
+            summary = normalize_text(summary)
             
             # Basic statistics
             compression_ratio = len(summary.split()) / len(source.split()) if source else 0

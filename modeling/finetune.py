@@ -469,6 +469,11 @@ def generate(args):
     # Create output directory
     os.makedirs(args.output_dir, exist_ok=True)
     
+    # Add special token for paragraphs
+    special_tokens = {'additional_special_tokens': ['[PARA]']}
+    tokenizer.add_special_tokens(special_tokens)
+    model.resize_token_embeddings(len(tokenizer))
+    
     # Setup generation parameters
     gen_kwargs = {
         "max_length": args.max_target_length,
@@ -484,6 +489,18 @@ def generate(args):
         "top_k": args.top_k,
         "temperature": args.temperature
     }
+    
+    def format_generated_text(text):
+        """Post-process generated text to restore paragraph structure."""
+        # Replace [PARA] tokens with newlines
+        text = text.replace(' [PARA] ', '\n\n')
+        # Remove any remaining [PARA] that might be malformed
+        text = text.replace('[PARA]', '\n\n')
+        # Clean up extra whitespace
+        text = ' '.join(text.split())
+        # Clean up multiple newlines
+        text = '\n'.join(line.strip() for line in text.split('\n') if line.strip())
+        return text
     
     # Remove hardcoded values and use args
     max_target_ratio = args.max_target_ratio
@@ -585,6 +602,14 @@ def generate(args):
                     current_word_count += len(sentence.split())
                 
                 generated_text = truncated_text
+        
+        # Apply post-processing to generated text
+        generated_text = format_generated_text(generated_text)
+        
+        # Re-get source and reference for comparison
+        source_text = format_generated_text(source_text)
+        target_text = format_generated_text(target_text)
+
         results.append({
             "idx": idx,
             "source": source_text,
