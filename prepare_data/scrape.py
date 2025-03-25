@@ -2,15 +2,13 @@ import requests
 import sys
 import bs4
 import json
-import os
-import random
-from os import path, makedirs
-import logging
-import time
+from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from math import ceil
-import xml.etree.ElementTree as ET
-from urllib.parse import quote, urljoin
+import os
+from os import path
+import logging
+import time
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -29,8 +27,11 @@ def get_name(body):
     return get_text(title.find("a"))
 
 def get_text(para):
+    #first replace <br> with newlines
     soup = BeautifulSoup(str(para).replace('<br/>', '\n').replace('\n ', '\n'), 'html.parser')
     text = ''.join(soup.strings).strip()
+
+    #replace Unicode hyphen with regular '-'
     text = text.replace('\u2010', '-')
     return text
 
@@ -45,90 +46,7 @@ def get_text_gen(gen):
 def is_free_access(article):
     return article.find("div", {"class": "get-access-unlock"}) is None
 
-# Check if output directory exists
-output_dir = 'scraped_data/data-1024'
-if not os.path.exists(output_dir):
-    makedirs(output_dir)
-
-# Load data from data_final_1024.json
-try:
-    with open('scraped_data/data_final_1024.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    print(f"Loaded {len(data)} articles from data_final_1024.json")
-except Exception as e:
-    print(f"Error loading data: {e}")
-    exit(1)
-
-# Shuffle data for randomized train/val/test split
-random.seed(42)  # For reproducibility
-random.shuffle(data)
-
-# Calculate split sizes
-num_train = int(0.8 * len(data))
-num_val = int(0.1 * len(data))
-split_data = {
-    'train': data[:num_train],
-    'val': data[num_train:num_train+num_val],
-    'test': data[num_train+num_val:]
-}
-
-print(f"Split sizes: Train: {len(split_data['train'])}, Val: {len(split_data['val'])}, Test: {len(split_data['test'])}")
-
-def format_text_with_paragraphs(text):
-    """Format text preserving paragraph structure for better training."""
-    # Replace single newlines with spaces, double newlines with special token
-    formatted = text.replace('\n\n', ' [PARA] ').replace('\n', ' ')
-    return formatted
-
-# Process and write data to files
-for split in ['train', 'val', 'test']:
-    doi_file = open(f'{output_dir}/{split}.doi', 'w', encoding='utf-8')
-    source_file = open(f'{output_dir}/{split}.source', 'w', encoding='utf-8')
-    target_file = open(f'{output_dir}/{split}.target', 'w', encoding='utf-8')
-    
-    for article in split_data[split]:
-        doi = article['doi']
-        
-        # Use abstract_text and pls_text fields which are strings
-        if 'abstract_text' in article and 'pls_text' in article:
-            abstract = article['abstract_text']
-            pls = article['pls_text']
-        else:
-            # If abstract_text/pls_text not available, extract from structure
-            try:
-                # Convert abstract list of sections to text
-                abstract_parts = []
-                for section in article['abstract']:
-                    if isinstance(section, dict) and 'text' in section:
-                        abstract_parts.append(section['text'])
-                abstract = " ".join(abstract_parts)
-                
-                # Get PLS text based on type
-                if article['pls_type'] == 'long':
-                    pls = article['pls']
-                else:
-                    pls_parts = []
-                    for section in article['pls']:
-                        if isinstance(section, dict) and 'text' in section:
-                            pls_parts.append(section['text'])
-                    pls = " ".join(pls_parts)
-            except Exception as e:
-                print(f"Error processing article {doi}: {e}")
-                continue
-        
-        # Write to files
-        doi_file.write(doi + '\n')
-        source_file.write(format_text_with_paragraphs(abstract) + '\n')
-        target_file.write(format_text_with_paragraphs(pls) + '\n')
-    
-    doi_file.close()
-    source_file.close()
-    target_file.close()
-
-print("Dataset split complete!")
-
 def scrape_dois(results_per_page=50):
-    """Scrape DOIs from Cochrane Library."""
     base_url = 'https://www.cochranelibrary.com/cdsr/reviews'
     URL = 'https://www.cochranelibrary.com/en/search?min_year=&max_year=&custom_min_year=&custom_max_year=&searchBy=6&searchText=*&selectedType=review&isWordVariations=&resultPerPage=25&searchType=basic&orderBy=relevancy&publishDateTo=&publishDateFrom=&publishYearTo=&publishYearFrom=&displayText=&forceTypeSelection=true&p_p_id=scolarissearchresultsportlet_WAR_scolarissearchresults&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&cur='
     header = {
@@ -145,17 +63,21 @@ def scrape_dois(results_per_page=50):
 
     client = requests.Session()
     client.headers.update(header)
-    client.get(base_url)
 
+    #determine total number of reviews (first get also gives us the necessary cookies for future queries)
+    soup_search_page = BeautifulSoup(client.get(base_url).text, 'html.parser')
+    num_reviews = int(soup_search_page.find("span", {"class": "results-number"}).contents[0].string)
+    num_reviews = 4000
+    num_search_pages = ceil(num_reviews/results_per_page)
     dois = []
-    try:
-        soup = BeautifulSoup(client.get(base_url).text, 'html.parser')
-        num_reviews = int(soup.find("span", {"class": "results-number"}).contents[0].string)
-        num_search_pages = ceil(num_reviews/results_per_page)
-        logger.info(f"Found {num_reviews} reviews across {num_search_pages} pages")
-        
-        for page in range(num_search_pages):
+
+    logger.info(f"Starting scrape for {num_reviews} reviews across {num_search_pages} pages")
+    
+    #loop through the pages of results
+    for page in range(num_search_pages):
+        try:
             logger.info(f"Scraping page {page+1} of {num_search_pages}")
+            
             if page % 25 == 0:
                 logger.info("Refreshing session to prevent timeout")
                 client = requests.Session()
@@ -163,7 +85,7 @@ def scrape_dois(results_per_page=50):
                 client.get(base_url)
                 time.sleep(2)  # Add delay between requests
             
-            response = client.get(base_url + str(page+1))
+            response = client.get(URL + str(page+1))
             logger.info(f"Response status: {response.status_code}")
             
             if response.status_code != 200:
@@ -188,10 +110,11 @@ def scrape_dois(results_per_page=50):
                         dois.append(get_doi(body))
                     except:
                         pass
-    except Exception as e:
-        logger.error(f"Error scraping DOIs: {e}")
-        return []
-        
+        except Exception as e:
+            logger.error(f"Error on page {page+1}: {e}")
+            time.sleep(5)  # Wait longer on errors
+            continue
+            
     logger.info(f"Scraping complete. Found {len(dois)} DOIs")
     return dois
 
@@ -365,132 +288,8 @@ def scrape_articles_from_dois(dois, data_dir):
     with open(path.join(data_dir, 'data.json'), 'w') as f:
         f.write(json.dumps(articles, indent=2))
 
-def scrape_pubmed_articles(data_dir='scraped_data/pubmed'):
-    """Scrape PubMed articles with plain language summaries."""
-    base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
-    api_key = None  # Add your NCBI API key here for higher rate limits
-    
-    # Create directories
-    setup_directories(data_dir, 'articles', 'json')
-    
-    # Search for articles with plain language summaries
-    search_query = quote('hasplainlanguage[filter]')
-    search_url = f"{base_url}/esearch.fcgi?db=pubmed&term={search_query}&retmax=1000"
-    if api_key:
-        search_url += f"&api_key={api_key}"
-    
-    logger.info("Searching PubMed for articles with plain language summaries...")
-    response = requests.get(search_url)
-    if response.status_code != 200:
-        logger.error(f"Failed to search PubMed: {response.status_code}")
-        return []
-    
-    # Parse PMIDs
-    root = ET.fromstring(response.content)
-    pmids = [id_elem.text for id_elem in root.findall(".//Id")]
-    logger.info(f"Found {len(pmids)} PubMed articles")
-    
-    articles = []
-    for i, pmid in enumerate(pmids):
-        try:
-            if i % 10 == 0:
-                logger.info(f"Processing article {i+1}/{len(pmids)}")
-            
-            # Add delay to respect NCBI rate limits
-            time.sleep(0.34 if not api_key else 0.1)
-            
-            # Fetch article
-            fetch_url = f"{base_url}/efetch.fcgi?db=pubmed&id={pmid}&retmode=xml"
-            if api_key:
-                fetch_url += f"&api_key={api_key}"
-            
-            response = requests.get(fetch_url)
-            if response.status_code != 200:
-                continue
-            
-            # Process article and extract data
-            article = process_pubmed_article(response.content, pmid)
-            if article:
-                articles.append(article)
-                
-                # Save individual JSON
-                save_path = os.path.join(data_dir, 'json', f'{pmid}.json')
-                with open(save_path, 'w', encoding='utf-8') as f:
-                    json.dump(article, f, indent=2)
-            
-        except Exception as e:
-            logger.error(f"Error processing PMID {pmid}: {e}")
-            continue
-    
-    # Save combined data
-    if articles:
-        combined_path = os.path.join(data_dir, 'data.json')
-        with open(combined_path, 'w', encoding='utf-8') as f:
-            json.dump(articles, f, indent=2)
-    
-    logger.info(f"Successfully processed {len(articles)} PubMed articles")
-    return articles
-
-def process_pubmed_article(content, pmid):
-    """Process PubMed article XML content."""
-    article = ET.fromstring(content)
-    
-    # Extract abstract
-    abstract_texts = []
-    for abstract in article.findall(".//Abstract/AbstractText"):
-        label = abstract.get('Label', '')
-        text = abstract.text or ''
-        if label:
-            abstract_texts.append({'heading': label, 'text': text})
-        else:
-            abstract_texts.append({'heading': 'Abstract', 'text': text})
-    
-    # Extract plain language summary
-    pls_elem = article.find(".//OtherAbstract[@Type='plain-language-summary']")
-    if not pls_elem:
-        return None
-    
-    pls_text = ' '.join([text.strip() for text in pls_elem.itertext() if text.strip()])
-    
-    return {
-        'doi': f'PMID:{pmid}',
-        'name': article.find(".//ArticleTitle").text,
-        'abstract': abstract_texts,
-        'pls_type': 'long',
-        'pls': pls_text
-    }
-
-def scrape_multiple_sources():
-    """Scrape articles from multiple sources."""
-    # Cochrane Library
-    cochrane_data = scrape_articles(data_dir='scraped_data/cochrane')
-    
-    # PubMed
-    pubmed_data = scrape_pubmed_articles(data_dir='scraped_data/pubmed')
-    
-    # Combine datasets
-    combined_data = cochrane_data + pubmed_data
-    
-    # Save combined dataset
-    with open('scraped_data/combined_data.json', 'w') as f:
-        json.dump(combined_data, f, indent=2)
-
-    logger.info(f"Combined dataset created with {len(combined_data)} articles")
-    return combined_data
-
 def main():
-    """Main function to run the scraper."""
-    # Create output directory if it doesn't exist
-    os.makedirs('scraped_data', exist_ok=True)
-    
-    try:
-        # Scrape from multiple sources
-        combined_data = scrape_multiple_sources()
-        logger.info("Scraping completed successfully")
-        
-    except Exception as e:
-        logger.error(f"Error during scraping: {e}")
-        raise
+    scrape_articles(data_dir='scraped_data', results_per_page=25)
 
 if __name__ == "__main__":
     main()
