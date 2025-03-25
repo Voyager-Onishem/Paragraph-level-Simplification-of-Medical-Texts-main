@@ -459,28 +459,35 @@ def generate(args):
         max_target_length=args.max_target_length
     )
     
+    # Adjust end_idx based on sample_size if provided
+    if args.sample_size is not None:
+        args.end_idx = min(args.start_idx + args.sample_size, len(dataset))
+        logger.info(f"Sample size set to {args.sample_size}, will generate {args.end_idx - args.start_idx} examples")
+    else:
+        args.end_idx = min(args.end_idx, len(dataset))
+    
     # Create output directory
     os.makedirs(args.output_dir, exist_ok=True)
     
     # Setup generation parameters
     gen_kwargs = {
         "max_length": args.max_target_length,
-    "min_length": 75,  # Fixed minimum length instead of percentage
-    "no_repeat_ngram_size": 4,  # Increase from 3 to 4 to prevent repetition
-    "repetition_penalty": 1.5,  # Add repetition penalty
-    "length_penalty": 1.0,  # Reduce from 2.0 to 1.0
-    "num_return_sequences": 1,
-    "early_stopping": True  # Add early stopping
+        "min_length": args.min_length,
+        "no_repeat_ngram_size": args.no_repeat_ngram_size,
+        "repetition_penalty": args.repetition_penalty,
+        "length_penalty": args.length_penalty,
+        "num_beams": args.num_beams,
+        "early_stopping": args.early_stopping,
+        "num_return_sequences": args.num_return_sequences,
+        "do_sample": args.sampling == "nucleus",
+        "top_p": args.top_p,
+        "top_k": args.top_k,
+        "temperature": args.temperature
     }
     
-    if args.sampling == "beam":
-        gen_kwargs["num_beams"] = args.num_beams
-    elif args.sampling == "nucleus":
-        gen_kwargs["do_sample"] = True
-        gen_kwargs["top_p"] = args.top_p
-        gen_kwargs["temperature"] = 0.7
-        gen_kwargs["top_k"] = 50  # Add top-k filtering
-    
+    # Remove hardcoded values and use args
+    max_target_ratio = args.max_target_ratio
+
     # Generate texts
     results = []
     end_idx = min(args.end_idx, len(dataset))
@@ -506,9 +513,9 @@ def generate(args):
 
         # Then apply template styles
         template_prefixes = {
-            "brief": "Briefly summarize the main findings: ",
-            "detailed": "Write a detailed plain language summary covering methodology, results, and limitations: ",
-            "educational": "Explain in simple terms for patients to understand: ",
+            "brief": "Summarize this medical text briefly: ",
+            "detailed": "Create a simple, clear summary for patients: ",
+            "educational": "Explain in plain language: ",
             "none": ""
         }
 
@@ -598,7 +605,7 @@ def generate(args):
     
     logger.info(f"Saved generations to {output_file}")
 
-if __name__ == "__main__":
+def get_parser():
     parser = argparse.ArgumentParser(description="Fine-tune BART for medical text simplification")
     
     # Basic parameters
@@ -655,6 +662,24 @@ if __name__ == "__main__":
                        default="none",
                        help="Template style for generation")
 
+    parser.add_argument('--sample_size', type=int, default=None,
+                      help='Number of examples to generate (for quick validation)')
+
+    # Generation parameters
+    parser.add_argument("--min_length", type=int, default=50, help="Minimum generation length")
+    parser.add_argument("--no_repeat_ngram_size", type=int, default=3, help="Size of n-grams to not repeat")
+    parser.add_argument("--repetition_penalty", type=float, default=1.5, help="Penalty for repetition")
+    parser.add_argument("--length_penalty", type=float, default=1.2, help="Length penalty")
+    parser.add_argument("--early_stopping", type=bool, default=True, help="Whether to use early stopping")
+    parser.add_argument("--num_return_sequences", type=int, default=1, help="Number of sequences to return")
+    parser.add_argument("--top_k", type=int, default=50, help="Top-k for sampling")
+    parser.add_argument("--temperature", type=float, default=0.85, help="Temperature for sampling")
+    parser.add_argument("--max_target_ratio", type=float, default=1.15, help="Maximum ratio of generated to target length")
+
+    return parser
+
+if __name__ == "__main__":
+    parser = get_parser()
     args = parser.parse_args()
     
     # Fix data files before processing
