@@ -178,7 +178,7 @@ def fix_data_files():
     """Fix mismatched data files by ensuring they have the same number of lines."""
     import os
     
-    data_dir = 'data/data-1024'
+    data_dir = 'data\data-1024'
     files_to_check = ['train', 'val', 'test']
     extensions = ['.source', '.target', '.doi']
     

@@ -17,7 +17,15 @@
 		},
 		{
 			"path": "D:/Para-Level-Summ Data/scraped_data_relaxed"
+		},
+		{
+			"path": "D:/jsonl_data"
+		},
+		{
+			"path": "D:/trained_models"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "Paragraph-level-Simplification-of-Medical-Texts-main"
+	}
 }
