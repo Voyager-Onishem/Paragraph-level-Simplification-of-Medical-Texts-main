@@ -1,18 +1,45 @@
 # Paragraph-level Simplification of Medical Texts
 
-Code and data for our NAACL 2021 paper "Paragraph-level Simplification of Medical Texts," which can be found [here](http://arxiv.org/abs/2104.05767 "here"). If you have any questions about the code or the paper, feel free to email me at `ashwin.devaraj@utexas.edu`. If you find our data and/or code useful in your work, please include the following citation:
-```
-@inproceedings{devaraj-etal-2021-paragraph,
-    title = "Paragraph-level Simplification of Medical Texts",
-    author = "Devaraj, Ashwin and Marshall, Iain and Wallace, Byron and Li, Junyi Jessy",
-    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics",
-    month = jun,
-    year = "2021",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2021.naacl-main.395",
-    pages = "4972--4984",
-}
-```
+## Overview
+This project focuses on the simplification of medical texts at the paragraph level, making complex medical content more accessible to the general public and patients. The system uses natural language processing and machine learning techniques to transform technical medical language into clear, comprehensible text while preserving the essential information.
+
+## Project Structure
+- **prepare_data/**: Contains scripts for data acquisition and preprocessing
+  - `scrape.py`: Scrapes data from the Cochrane website
+  - `process.py`: Cleans and filters the scraped data
+  - `split_dataset.py`: Creates train-val-test splits
+
+- **scripts/**: Contains shell scripts for training and text generation
+  - **train/**: Training scripts
+    - `bart-ul_both.sh`: Trains with unlikelihood loss using both datasets' weights
+  - **gen/**: Generation scripts
+    - `bart_gen_both.sh`: Generates text using the both-weighted model
+
+- **trained_models/**: Directory for storing trained model checkpoints
+  - Each model has its own subdirectory containing checkpoints and generation results
+
+- **data/**: Contains the Cochrane dataset and processed data splits
+
+## Data Structure
+The project utilizes several datasets:
+
+- **Main Data**: Located in `d:\Para-Level-Summ Data\data`
+- **Scraped Data**: 
+  - Primary scraped data: `d:\Para-Level-Summ Data\scraped_data`
+  - Debug version: `d:\Para-Level-Summ Data\scraped_data_debug`
+  - Direct extraction: `d:\Para-Level-Summ Data\scraped_data_direct`
+  - Relaxed constraints: `d:\Para-Level-Summ Data\scraped_data_relaxed`
+
+## Setup
+
+### Prerequisites
+- Python 3.7+
+- Required packages can be installed using: `pip install -r requirements.txt`
+
+### Installation
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Configure data paths in the configuration files as needed
 
 ### Dependencies
 ```
