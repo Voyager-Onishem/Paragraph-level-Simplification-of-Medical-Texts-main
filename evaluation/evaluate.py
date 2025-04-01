@@ -21,6 +21,10 @@ import logging
 from typing import Dict, List, Tuple, Any
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from sklearn.linear_model import LogisticRegression
+from joblib import load
+from sklearn.preprocessing import normalize
+from transformers import BartTokenizer
 
 # Setup logging
 logging.basicConfig(
@@ -45,7 +49,7 @@ except OSError:
 class MedicalTextEvaluator:
     """Evaluator for medical text simplification outputs"""
     
-    def __init__(self, generation_file: str, output_dir: str):
+    def __init__(self, generation_file: str, output_dir: str, med_model_path=None, med_weights_file=None):
         """
         Initialize the evaluator with a file of generated summaries.
         
@@ -66,6 +70,9 @@ class MedicalTextEvaluator:
         # Load entailment model for factual consistency
         self.load_factual_consistency_model()
         
+        # Load medical terminology model
+        self.load_medical_terminology_model(med_model_path, med_weights_file)
+        
         # Create output directory if it doesn't exist
         os.makedirs(output_dir, exist_ok=True)
     
@@ -83,6 +90,28 @@ class MedicalTextEvaluator:
             self.nli_model = None
             self.nli_tokenizer = None
     
+    def load_medical_terminology_model(self, model_path=None, weights_file=None):
+        """Load medical terminology model and weights for evaluation"""
+        try:
+            logger.info("Loading medical terminology analysis tools")
+            self.med_tokenizer = BartTokenizer.from_pretrained('facebook/bart-large-xsum')
+            if model_path and os.path.exists(model_path):
+                self.med_model = load(model_path)
+            else:
+                self.med_model = None
+            self.term_weights = {}
+            if weights_file and os.path.exists(weights_file):
+                with open(weights_file, 'r') as f:
+                    for line in f:
+                        if line.strip():
+                            token_id, weight = line.strip().split()
+                            self.term_weights[int(token_id)] = float(weight)
+        except Exception as e:
+            logger.error(f"Error loading medical terminology model: {e}")
+            self.med_model = None
+            self.med_tokenizer = None
+            self.term_weights = None
+    
     def load_generations(self):
         """Load the generated summaries from JSON file"""
         logger.info(f"Loading generations from {self.generation_file}")
@@ -94,6 +123,16 @@ class MedicalTextEvaluator:
             logger.error(f"Error loading generations: {e}")
             raise
     
+    def make_vector(self, text):
+        """Convert text to token count vector for logistic regression model"""
+        if not hasattr(self, 'med_tokenizer') or self.med_tokenizer is None:
+            return None
+        token_ids = self.med_tokenizer.encode(text)[1:-1]
+        count_vector = np.zeros(self.med_tokenizer.vocab_size, dtype=np.int16)
+        for ID in token_ids:
+            count_vector[ID] += 1
+        return count_vector
+
     def evaluate_all(self):
         """Run all evaluations"""
         if self.generations is None:
@@ -128,6 +167,9 @@ class MedicalTextEvaluator:
             
             # Evaluate factual consistency
             self.evaluate_factual_consistency(source, generated)
+            
+            # Evaluate medical terminology simplification
+            self.evaluate_medical_terminology(source, target, generated)
             
             # Print progress every 50 examples
             if (i + 1) % 50 == 0:
@@ -289,6 +331,46 @@ class MedicalTextEvaluator:
             logger.warning(f"Error evaluating factual consistency: {e}")
             self.results["factual_consistency"].append(float('nan'))
     
+    def evaluate_medical_terminology(self, source, target, generated):
+        """Evaluate medical terminology simplification"""
+        if not hasattr(self, 'med_tokenizer') or self.med_tokenizer is None:
+            self.results["medical_complexity_source"].append(float('nan'))
+            self.results["medical_complexity_target"].append(float('nan'))
+            self.results["medical_complexity_generated"].append(float('nan'))
+            self.results["med_term_improvement"].append(float('nan'))
+            self.results["complex_term_count_source"].append(float('nan'))
+            self.results["complex_term_count_generated"].append(float('nan'))
+            self.results["complex_term_reduction"].append(float('nan'))
+            return
+        try:
+            source_vector = self.make_vector(source)
+            target_vector = self.make_vector(target)
+            generated_vector = self.make_vector(generated)
+            if hasattr(self, 'med_model') and self.med_model is not None:
+                source_complexity = self.med_model.predict_proba(normalize(source_vector.reshape(1, -1)))[0][0]
+                target_complexity = self.med_model.predict_proba(normalize(target_vector.reshape(1, -1)))[0][0]
+                generated_complexity = self.med_model.predict_proba(normalize(generated_vector.reshape(1, -1)))[0][0]
+                self.results["medical_complexity_source"].append(source_complexity)
+                self.results["medical_complexity_target"].append(target_complexity)
+                self.results["medical_complexity_generated"].append(generated_complexity)
+                self.results["med_term_improvement"].append(source_complexity - generated_complexity)
+            if hasattr(self, 'term_weights') and self.term_weights:
+                complex_tokens_source = sum(count for token_id, count in enumerate(source_vector) if token_id in self.term_weights and self.term_weights[token_id] < -0.5)
+                complex_tokens_generated = sum(count for token_id, count in enumerate(generated_vector) if token_id in self.term_weights and self.term_weights[token_id] < -0.5)
+                self.results["complex_term_count_source"].append(complex_tokens_source)
+                self.results["complex_term_count_generated"].append(complex_tokens_generated)
+                reduction = (complex_tokens_source - complex_tokens_generated) / complex_tokens_source if complex_tokens_source > 0 else 0.0
+                self.results["complex_term_reduction"].append(reduction)
+        except Exception as e:
+            logger.warning(f"Error evaluating medical terminology: {e}")
+            self.results["medical_complexity_source"].append(float('nan'))
+            self.results["medical_complexity_target"].append(float('nan'))
+            self.results["medical_complexity_generated"].append(float('nan'))
+            self.results["med_term_improvement"].append(float('nan'))
+            self.results["complex_term_count_source"].append(float('nan'))
+            self.results["complex_term_count_generated"].append(float('nan'))
+            self.results["complex_term_reduction"].append(float('nan'))
+
     def save_results(self):
         """Save evaluation results to CSV"""
         df = pd.DataFrame(self.results)
@@ -525,6 +607,21 @@ class MedicalTextEvaluator:
                     f.write(f"  Target: {target_mean:.2f}\n")
                     f.write(f"  Generated: {generated_mean:.2f}\n\n")
             
+            # Medical terminology analysis
+            f.write("MEDICAL TERMINOLOGY ANALYSIS\n")
+            f.write("-" * 80 + "\n")
+            if 'medical_complexity_source' in df.columns and not df['medical_complexity_source'].isna().all():
+                f.write("Medical Term Complexity (lower is better):\n")
+                f.write(f"  Source: {df['medical_complexity_source'].mean():.4f}\n")
+                f.write(f"  Target: {df['medical_complexity_target'].mean():.4f}\n")
+                f.write(f"  Generated: {df['medical_complexity_generated'].mean():.4f}\n")
+                f.write(f"  Improvement: {df['med_term_improvement'].mean():.4f}\n\n")
+            if 'complex_term_count_source' in df.columns and not df['complex_term_count_source'].isna().all():
+                f.write("Complex Medical Terms:\n")
+                f.write(f"  Source (avg): {df['complex_term_count_source'].mean():.2f} terms\n")
+                f.write(f"  Generated (avg): {df['complex_term_count_generated'].mean():.2f} terms\n")
+                f.write(f"  Average reduction: {df['complex_term_reduction'].mean()*100:.2f}%\n\n")
+            
             # Footer
             f.write("=" * 80 + "\n")
             f.write("END OF REPORT\n")
@@ -562,6 +659,18 @@ def get_parser():
         action="store_true",
         help="Skip BERTScore calculation (faster)"
     )
+    parser.add_argument(
+        "--med_model_path",
+        type=str,
+        default="D:/Para-Level-Summ Data/data/logr_model/model.joblib",
+        help="Path to medical terminology logistic regression model"
+    )
+    parser.add_argument(
+        "--med_weights_file",
+        type=str,
+        default="D:/Para-Level-Summ Data/data/logr_weights/bart_freq_normalized_ids.txt",
+        help="Path to medical terminology weights file"
+    )
     
     return parser
 
@@ -575,7 +684,9 @@ def main():
     # Create evaluator
     evaluator = MedicalTextEvaluator(
         generation_file=args.generation_file,
-        output_dir=args.output_dir
+        output_dir=args.output_dir,
+        med_model_path=args.med_model_path,
+        med_weights_file=args.med_weights_file
     )
     
     # Run evaluation

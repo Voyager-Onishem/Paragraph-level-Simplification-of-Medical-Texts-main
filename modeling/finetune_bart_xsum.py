@@ -423,12 +423,17 @@ def train(args):
         if avg_val_loss < best_val_loss:
             logger.info(f"Validation loss improved from {best_val_loss:.4f} to {avg_val_loss:.4f}, saving model")
             best_val_loss = avg_val_loss
-            model.save_pretrained(output_dir / "best_model")
-            tokenizer.save_pretrained(output_dir / "best_model")
+            best_model_dir = os.path.join(output_dir, "best_model")
+            os.makedirs(best_model_dir, exist_ok=True)
+            model.save_pretrained(best_model_dir)
+            tokenizer.save_pretrained(best_model_dir)
         
         # Save checkpoint for this epoch
-        model.save_pretrained(output_dir / f"checkpoint-{epoch+1}")
-        tokenizer.save_pretrained(output_dir / f"checkpoint-{epoch+1}")
+   
+        best_model_dir = os.path.join(output_dir, "best_model")
+        os.makedirs(best_model_dir, exist_ok=True)
+        model.save_pretrained(best_model_dir)
+        tokenizer.save_pretrained(best_model_dir)
     
     # Save training metrics
     with open(output_dir / "training_losses.json", "w") as f:
