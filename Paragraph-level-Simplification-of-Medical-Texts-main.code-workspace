@@ -2,6 +2,21 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "D:/Para-Level-Summ Data/data"
+		},
+		{
+			"path": "D:/Para-Level-Summ Data/scraped_data"
+		},
+		{
+			"path": "D:/Para-Level-Summ Data/scraped_data_debug"
+		},
+		{
+			"path": "D:/Para-Level-Summ Data/scraped_data_direct"
+		},
+		{
+			"path": "D:/Para-Level-Summ Data/scraped_data_relaxed"
 		}
 	],
 	"settings": {}
