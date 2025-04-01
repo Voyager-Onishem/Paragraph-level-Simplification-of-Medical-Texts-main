@@ -8,8 +8,11 @@ $env:TRANSFORMERS_CACHE = $CACHE_DIR
 $env:HF_HOME = $CACHE_DIR
 $env:HF_DATASETS_CACHE = $CACHE_DIR
 
-# Run Python script to fix tokenizer
-$pythonScript = @"
+# Create a specific Python file with UTF-8 encoding instead of using a temp file
+$pythonFile = ".\fix_tokenizer_script.py"
+
+# Write Python script with explicit UTF-8 encoding
+@"
 from transformers import BartTokenizer, BartForConditionalGeneration
 import os
 
@@ -32,17 +35,13 @@ print(f"Tokenizer files saved to {os.path.abspath('$MODEL_DIR')}")
 print("\nFiles in the model directory after fix:")
 for f in os.listdir('$MODEL_DIR'):
     print(f'- {f}')
-"@
-
-# Save the Python script to a temporary file
-$tempFile = New-TemporaryFile
-$pythonScript | Out-File -FilePath "$tempFile.py"
+"@ | Out-File -FilePath $pythonFile -Encoding utf8
 
 # Execute the Python script
 Write-Host "Running Python script to fix tokenizer files..." -ForegroundColor Yellow
-python "$tempFile.py"
+python $pythonFile
 
 # Remove the temporary file
-Remove-Item "$tempFile.py"
+Remove-Item $pythonFile
 
 Write-Host "`nNow you can run your generation script normally!" -ForegroundColor Green

@@ -24,6 +24,10 @@
 		{
 			"path": "D:/trained_models"
 		}
+		,
+		{
+			"path": "D:/Para-Level-Summ Data/trained_models"
+		}
 	],
 	"settings": {
 		"powershell.cwd": "Paragraph-level-Simplification-of-Medical-Texts-main"
