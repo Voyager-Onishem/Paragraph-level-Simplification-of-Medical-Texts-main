@@ -39,7 +39,7 @@ for f in files:
 "
 
 # Create simplified evaluation module to avoid import error
-$EVAL_MODULE = "c:\Users\Voyager\Paragraph-level-Simplification-of-Medical-Texts-main\evaluation.py"
+$EVAL_MODULE = "modeling\evaluation.py"
 
 Write-Host "Creating evaluation module..." -ForegroundColor Cyan
 @'
