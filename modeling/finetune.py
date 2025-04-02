@@ -26,6 +26,18 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Add NLTK resource handling
+try:
+    import nltk
+    try:
+        nltk.data.find('tokenizers/punkt')
+        logger.info("NLTK punkt already downloaded")
+    except LookupError:
+        logger.info("Downloading NLTK punkt...")
+        nltk.download('punkt')
+except Exception as e:
+    logger.warning(f"Error initializing NLTK: {e}")
+
 """
 Simplified evaluation module for text simplification.
 """
@@ -35,30 +47,57 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 class SimplificationEvaluator:
     """Simplified evaluator for text simplification tasks."""
     
-    def __init__(self, use_spacy=False):
+    def __init__(self, use_spacy=True):
         """Initialize evaluator with minimal requirements."""
         self.use_spacy = use_spacy
+        
+        # Initialize spaCy if requested
+        if self.use_spacy:
+            try:
+                import spacy
+                try:
+                    self.nlp = spacy.load("en_core_web_sm")
+                    logger.info("Using spaCy for tokenization")
+                except OSError:
+                    logger.info("Downloading spaCy model...")
+                    import subprocess
+                    subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+                    self.nlp = spacy.load("en_core_web_sm")
+            except ImportError:
+                logger.warning("spaCy not available, falling back to basic tokenization")
+                self.use_spacy = False
     
     def evaluate_pair(self, source, simplified, reference=None):
         """Evaluate a single simplification."""
         metrics = {}
         
         # Calculate basic metrics
-        source_words = len(word_tokenize(source))
-        simplified_words = len(word_tokenize(simplified))
-        metrics["compression_ratio"] = simplified_words / source_words if source_words > 0 else 0
+        if self.use_spacy:
+            source_doc = self.nlp(source)
+            simplified_doc = self.nlp(simplified)
+            source_words = len([token for token in source_doc if not token.is_punct and not token.is_space])
+            simplified_words = len([token for token in simplified_doc if not token.is_punct and not token.is_space])
+            metrics["compression_ratio"] = simplified_words / source_words if source_words > 0 else 0
+            metrics["word_count"] = simplified_words
+            metrics["sentence_count"] = len(list(simplified_doc.sents))
+        else:
+            source_words = len(source.split())
+            simplified_words = len(simplified.split())
+            metrics["compression_ratio"] = simplified_words / source_words if source_words > 0 else 0
+            metrics["word_count"] = simplified_words
+            metrics["sentence_count"] = len([s for s in simplified.split('.') if s.strip()])
         
-        # Only use readability metrics that don't require additional imports
-        metrics["word_count"] = simplified_words
-        metrics["sentence_count"] = len(sent_tokenize(simplified))
         if metrics["sentence_count"] > 0:
             metrics["words_per_sentence"] = simplified_words / metrics["sentence_count"]
         else:
             metrics["words_per_sentence"] = 0
         
-        # If reference is provided, calculate reference-based metrics
         if reference:
-            reference_words = len(word_tokenize(reference))
+            if self.use_spacy:
+                reference_doc = self.nlp(reference)
+                reference_words = len([token for token in reference_doc if not token.is_punct and not token.is_space])
+            else:
+                reference_words = len(reference.split())
             metrics["length_ratio"] = simplified_words / reference_words if reference_words > 0 else 0
         
         return metrics
@@ -66,21 +105,12 @@ class SimplificationEvaluator:
     def evaluate_batch(self, sources, simplifieds, references=None):
         """Evaluate a batch of simplifications."""
         all_metrics = []
-        
-        # If references is not provided, use None for each example
         if references is None:
             references = [None] * len(sources)
-        
-        # Evaluate each example
-        for i, (source, simplified, reference) in enumerate(zip(sources, simplifieds, references)):
+        for source, simplified, reference in zip(sources, simplifieds, references):
             metrics = self.evaluate_pair(source, simplified, reference)
             all_metrics.append(metrics)
-        
-        # Calculate average metrics
-        avg_metrics = {}
-        for metric in all_metrics[0].keys():
-            avg_metrics[metric] = sum(m[metric] for m in all_metrics) / len(all_metrics)
-        
+        avg_metrics = {metric: sum(m[metric] for m in all_metrics) / len(all_metrics) for metric in all_metrics[0].keys()}
         return avg_metrics
 
 class SimplificationDataset(Dataset):
@@ -282,14 +312,16 @@ def train(args):
     output_dir = Path(args.output_dir)
     output_dir.mkdir(exist_ok=True, parents=True)
     
-    # Log args
-    logger.info(f"Training arguments: {args}")
+    # Check for existing best model checkpoint
+    best_model_path = output_dir / "best_model"
+    starting_model = args.model_name
     
-    # Load tokenizer and model
-    logger.info(f"Loading model: {args.model_name}")
-    tokenizer = BartTokenizer.from_pretrained(args.model_name)
+    if best_model_path.exists():
+        logger.info(f"Found existing best model checkpoint at {best_model_path}")
+        starting_model = str(best_model_path)
+    else:
+        logger.info(f"No existing checkpoint found. Starting from {args.model_name}")
     
-    # Add this before model initialization
     if torch.cuda.is_available():
         print("CUDA is available! Using GPU:", torch.cuda.get_device_name(0))
         device = torch.device("cuda")
@@ -298,11 +330,9 @@ def train(args):
         print("Check installation with: python -c \"import torch; print(torch.cuda.is_available())\"")
         device = torch.device("cpu")
 
-    # Make sure all tensors go to the device
-    model = BartForConditionalGeneration.from_pretrained(args.model_name)
-    model.to(device)
-    
-    # Move model to device
+    logger.info(f"Loading model: {starting_model}")
+    tokenizer = BartTokenizer.from_pretrained(starting_model)
+    model = BartForConditionalGeneration.from_pretrained(starting_model)
     logger.info(f"Using device: {device}")
     model.to(device)
     
@@ -808,8 +838,17 @@ if __name__ == "__main__":
     parser = get_parser()
     args = parser.parse_args()
     
-    # Fix data files before processing
-    # fix_data_files()
+    try:
+        import spacy
+        try:
+            nlp = spacy.load("en_core_web_sm")
+            print("spaCy model loaded successfully")
+        except OSError:
+            print("Downloading spaCy model...")
+            import subprocess
+            subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
+    except ImportError:
+        print("spaCy not available, will use fallback tokenization")
     
     if args.generate:
         generate(args)
