@@ -5,6 +5,9 @@ $PRETRAINED_MODEL = "facebook/bart-large-cnn"
 $DATA_DIR = "D:\Para-Level-Summ Data\data\data-1024"
 $CACHE_DIR = "D:\HF_Cache"
 
+# Set number of examples to generate
+$NUM_TO_GENERATE = 10  # New parameter to control generation count
+
 # Set cache environment variables
 $env:TRANSFORMERS_CACHE = $CACHE_DIR
 $env:HF_HOME = $CACHE_DIR
@@ -119,7 +122,8 @@ python modeling/finetune.py `
 --length_penalty=2.0 `
 --early_stopping=False `
 --temperature=0.9 `
---min_words=150
+--min_words=150 `
+--num_to_generate=$NUM_TO_GENERATE
 
 Write-Host "`nGeneration complete!" -ForegroundColor Green
 Write-Host "Output saved to: $OUTPUT_DIR" -ForegroundColor Green

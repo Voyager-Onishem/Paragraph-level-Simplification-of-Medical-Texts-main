@@ -7,6 +7,7 @@ $OUTPUT_DIR = "trained_models/bart-ul_both/best_model/generation"
 $SAMPLE_SIZE = 5  # Number of examples to generate
 $START_IDX = 0
 $GENERATE_MODE = "test"
+$NUM_TO_GENERATE = 5  # New parameter: explicit control over number to generate
 
 # Generation configuration
 $MIN_LENGTH = 50
@@ -33,6 +34,7 @@ $cmd = "python modeling/finetune.py " + `
     "--model_name `"$MODEL_PATH`" " + `
     "--data_dir `"$DATA_DIR`" " + `
     "--output_dir `"$OUTPUT_DIR`" " + `
+    "--num_to_generate $NUM_TO_GENERATE " + `
     "--sample_size $SAMPLE_SIZE " + `
     "--start_idx $START_IDX " + `
     "--generate_mode $GENERATE_MODE " + `

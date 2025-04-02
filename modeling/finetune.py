@@ -516,8 +516,11 @@ def generate(args):
         max_target_length=args.max_target_length
     )
     
-    # Adjust end_idx based on sample_size if provided
-    if args.sample_size is not None:
+    # Adjust end_idx based on parameters
+    if args.num_to_generate is not None:
+        logger.info(f"Will generate {args.num_to_generate} examples")
+        args.end_idx = min(args.start_idx + args.num_to_generate, len(dataset))
+    elif args.sample_size is not None:
         args.end_idx = min(args.start_idx + args.sample_size, len(dataset))
         logger.info(f"Sample size set to {args.sample_size}, will generate {args.end_idx - args.start_idx} examples")
     else:
@@ -795,6 +798,9 @@ def get_parser():
                         help="Calculate Cohen's Kappa between human and expert ratings")
     parser.add_argument("--expert_ratings_file", type=str,
                         help="File containing expert ratings")
+
+    parser.add_argument("--num_to_generate", type=int, default=None, 
+                        help="Number of examples to generate summaries for (overrides end_idx when specified)")
 
     return parser
 
