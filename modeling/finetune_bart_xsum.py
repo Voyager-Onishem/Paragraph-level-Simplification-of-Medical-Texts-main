@@ -629,7 +629,7 @@ def generate(args):
             logger.info(f"Generated {idx - args.start_idx + 1}/{end_idx - args.start_idx} examples")
     
     # Import our new evaluator
-    from evaluation import SimplificationEvaluator
+    from modeling.evaluation import SimplificationEvaluator
     evaluator = SimplificationEvaluator(use_spacy=True)
     
     # After generating all results
