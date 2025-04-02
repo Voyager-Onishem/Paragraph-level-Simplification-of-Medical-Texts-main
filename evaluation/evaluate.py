@@ -117,8 +117,18 @@ class MedicalTextEvaluator:
         logger.info(f"Loading generations from {self.generation_file}")
         try:
             with open(self.generation_file, "r", encoding="utf-8") as f:
-                self.generations = json.load(f)
-            logger.info(f"Loaded {len(self.generations)} generations")
+                data = json.load(f)
+            
+            # Check if data is a dictionary with a 'generations' key
+            if isinstance(data, dict) and "generations" in data:
+                self.generations = data["generations"]
+                # You could also store the overall metrics if needed
+                self.overall_metrics = data.get("overall_metrics", {})
+                logger.info(f"Loaded {len(self.generations)} generations from nested structure")
+            else:
+                # Assume it's directly the array
+                self.generations = data
+                logger.info(f"Loaded {len(self.generations)} generations")
         except Exception as e:
             logger.error(f"Error loading generations: {e}")
             raise
@@ -252,11 +262,16 @@ class MedicalTextEvaluator:
                 self.results[f"{metric}_improvement"].append(improvement)
     
     def evaluate_lexical_features(self, source: str, target: str, generated: str):
-        """Evaluate lexical features of texts"""
-        # Tokenize texts
-        source_words = word_tokenize(source.lower())
-        target_words = word_tokenize(target.lower())
-        generated_words = word_tokenize(generated.lower())
+        """Evaluate lexical features of texts using spaCy instead of NLTK"""
+        # Use spaCy for tokenization
+        source_doc = nlp(source.lower())
+        target_doc = nlp(target.lower())
+        generated_doc = nlp(generated.lower())
+        
+        # Get word tokens (filtering out punctuation and spaces)
+        source_words = [token.text for token in source_doc if not token.is_punct and not token.is_space]
+        target_words = [token.text for token in target_doc if not token.is_punct and not token.is_space]
+        generated_words = [token.text for token in generated_doc if not token.is_punct and not token.is_space]
         
         # Calculate lexical diversity (type-token ratio)
         source_ttr = len(set(source_words)) / len(source_words) if source_words else 0
@@ -267,14 +282,18 @@ class MedicalTextEvaluator:
         self.results["lexical_diversity_target"].append(target_ttr)
         self.results["lexical_diversity_generated"].append(generated_ttr)
         
-        # Calculate average sentence length
-        source_sents = sent_tokenize(source)
-        target_sents = sent_tokenize(target)
-        generated_sents = sent_tokenize(generated)
+        # Get sentence tokenization from spaCy
+        source_sents = list(source_doc.sents)
+        target_sents = list(target_doc.sents)
+        generated_sents = list(generated_doc.sents)
         
-        source_avg_sent_len = np.mean([len(word_tokenize(s)) for s in source_sents]) if source_sents else 0
-        target_avg_sent_len = np.mean([len(word_tokenize(s)) for s in target_sents]) if target_sents else 0
-        generated_avg_sent_len = np.mean([len(word_tokenize(s)) for s in generated_sents]) if generated_sents else 0
+        # Calculate average sentence length (words per sentence)
+        source_avg_sent_len = np.mean([len([t for t in s if not t.is_punct and not t.is_space]) 
+                                      for s in source_sents]) if source_sents else 0
+        target_avg_sent_len = np.mean([len([t for t in s if not t.is_punct and not t.is_space]) 
+                                      for s in target_sents]) if target_sents else 0
+        generated_avg_sent_len = np.mean([len([t for t in s if not t.is_punct and not t.is_space]) 
+                                         for s in generated_sents]) if generated_sents else 0
         
         self.results["avg_sent_length_source"].append(source_avg_sent_len)
         self.results["avg_sent_length_target"].append(target_avg_sent_len)
@@ -295,14 +314,15 @@ class MedicalTextEvaluator:
         self.results["sentence_count_generated"].append(len(generated_sents))
     
     def evaluate_factual_consistency(self, source: str, generated: str):
-        """Evaluate factual consistency using NLI"""
+        """Evaluate factual consistency using NLI with spaCy for sentence tokenization"""
         if self.nli_model is None or self.nli_tokenizer is None:
             self.results["factual_consistency"].append(float('nan'))
             return
         
         try:
-            # Prepare source sentences
-            source_sents = sent_tokenize(source)
+            # Use spaCy for sentence tokenization instead of NLTK
+            source_doc = nlp(source)
+            source_sents = [sent.text for sent in source_doc.sents]
             
             # For each source sentence, check if it's entailed by the generated text
             entailment_scores = []
