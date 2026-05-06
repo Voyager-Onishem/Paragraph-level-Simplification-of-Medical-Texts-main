@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.0
+transformers>=4.30
+scikit-learn
+joblib
+
+# Data collection
+requests
+beautifulsoup4
+
+# Data processing
+nltk
+spacy
+textstat
+
+# Evaluation
+rouge
+bert-score
+
+# General
+numpy
