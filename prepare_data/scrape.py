@@ -67,7 +67,6 @@ def scrape_dois(results_per_page=50):
     #determine total number of reviews (first get also gives us the necessary cookies for future queries)
     soup_search_page = BeautifulSoup(client.get(base_url).text, 'html.parser')
     num_reviews = int(soup_search_page.find("span", {"class": "results-number"}).contents[0].string)
-    num_reviews = 4000
     num_search_pages = ceil(num_reviews/results_per_page)
     dois = []
 

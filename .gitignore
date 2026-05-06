@@ -4,6 +4,11 @@ dummy.sh
 data/dummy
 trained_models/*
 !trained_models/.gitkeep
+scraped_data/
+data/logr_model/
+data/logr_weights/
+*.log
+evaluation_results.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
